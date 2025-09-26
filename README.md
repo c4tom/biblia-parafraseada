@@ -4,9 +4,9 @@
 
 ## Sobre o Projeto
 
-O Projeto Bíblia Estudos é uma iniciativa que visa proporcionar recursos abrangentes para o estudo da Bíblia, com o objetivo de auxiliar qualquer pessoa a compreender melhor as Escrituras. Este projeto foi desenvolvido com o compromisso de manter-se fiel ao texto bíblico original, evitando vieses teológicos enraizados que possam contradizer a teologia bíblica fundamental. A regra fundamental é a própria biblia se explicar. Porém, também sabemos que para um melhor entendimento (pode não ser completo), devemos também conhecer o contexto histórico e cultural do local.
+O Projeto Bíblia Estudos é uma iniciativa que visa proporcionar recursos abrangentes para o estudo da Bíblia, com o objetivo de auxiliar qualquer pessoa a compreender melhor as Escrituras. Este projeto foi desenvolvido com o compromisso de manter-se fiel ao texto bíblico original, evitando vieses teológicos enraizados que possam contradizer a teologia bíblica fundamental. A regra fundamental é a própria Bíblia se explicar. Porém, também sabemos que para um melhor entendimento (pode não ser completo), devemos também conhecer o contexto histórico e cultural do local.
 
-A versão inicial foi gerada pela IA Gemini 2.5 flash, ficha.md e parafraseadas.md são os arquivos usados para auxiliar a IA na geração do conteúdo.
+A versão inicial foi gerada pela IA Gemini 2.5 flash, [`ficha.md`](ficha.md) e [`parafraseadas.md`](parafraseadas.md) são os arquivos usados para auxiliar a IA na geração do conteúdo.
 
 ## Conteúdo do Projeto
 
@@ -38,10 +38,12 @@ Este projeto tem como propósito:
 
 Os arquivos estão organizados da seguinte forma:
 
-- `ficha.md`: Template para criação de fichas de estudo de livros bíblicos
-- `pt/livros.json`: Dados estruturados de todos os livros da Bíblia
-- `parafraseadas.md`: Instruções para criação de paráfrases bíblicas
-- `pt/bible_downloads.json`: Referência para desenvolvedores de aplicativos bíblicos, contendo links para diferentes traduções da Bíblia em formato SQLite. Útil para implementação de recursos de comparação entre traduções em aplicativos.
+- [`ficha.md`](ficha.md): Template para criação de fichas de estudo de livros bíblicos
+- [`pt/livros.json`](pt/livros.json): Dados estruturados de todos os livros da Bíblia
+- [`parafraseadas.md`](parafraseadas.md): Instruções para criação de paráfrases bíblicas
+- [`pt/bible_downloads.json`](pt/bible_downloads.json): Referência para desenvolvedores de aplicativos bíblicos, contendo links para diferentes traduções da Bíblia em formato SQLite. Útil para implementação de recursos de comparação entre traduções em aplicativos.
+- `pt/parafraseadas/`: Diretório contendo paráfrases de capítulos bíblicos em formato JSON
+- `pt/resumos/`: Diretório contendo resumos de livros ou capítulos bíblicos
 
 ## Idiomas Suportados
 
@@ -72,12 +74,9 @@ Para facilitar a internacionalização do projeto, utilizamos as seguintes sigla
 
 Ao contribuir com traduções, utilize estas siglas para nomear os arquivos e diretórios, seguindo o padrão: `[sigla_idioma]/[nome_arquivo]`
 
-- `parafraseadas/`: Diretório contendo paráfrases de capítulos bíblicos em formato JSON
-- `resumos/`: Diretório contendo resumos de livros ou capítulos bíblicos
-
 ## Como Contribuir
 
-Contribuições para este projeto são bem-vindas! Siga estas etapas para contribuir:
+Contribuições para este projeto são muito bem-vindas! Siga estas etapas para contribuir:
 
 1. **Fork do Repositório**
 
@@ -86,18 +85,18 @@ Contribuições para este projeto são bem-vindas! Siga estas etapas para contri
    - Isso criará uma cópia do repositório em sua conta GitHub
 2. **Clone o Repositório**
 
-   ```
-   git clone https://github.com/seu-usuario/biblia-estudos.git
-   cd biblia-estudos
+   ```bash
+   git clone https://github.com/seu-usuario/biblia-parafraseada.git
+   cd biblia-parafraseada
    ```
 3. **Crie uma Branch para sua Contribuição**
 
-   ```
+   ```bash
    git checkout -b minha-contribuicao
    ```
 4. **Faça suas Alterações**
 
-   - Para adicionar uma nova paráfrase, siga o formato em `parafraseadas.md`
+   - Para adicionar uma nova paráfrase, siga o formato em [`parafraseadas.md`](parafraseadas.md)
    - Para corrigir conteúdo existente, mantenha a estrutura original
    - Certifique-se de que os arquivos JSON sejam válidos e estejam em formato UTF-8
 5. **Teste suas Alterações**
@@ -106,7 +105,7 @@ Contribuições para este projeto são bem-vindas! Siga estas etapas para contri
    - Certifique-se de que o conteúdo está de acordo com as diretrizes do projeto
 6. **Commit e Push**
 
-   ```
+   ```bash
    git add .
    git commit -m "Descrição clara da sua contribuição"
    git push origin minha-contribuicao
@@ -145,7 +144,7 @@ O conteúdo deste projeto pode ser utilizado, compartilhado e adaptado livrement
 
 ## Contato
 
-Para dúvidas, sugestões ou mais informações sobre o projeto, entre em contato com o responsável, Candido H Tominaga, somente por este canal do GitHub. Você pode fazer isso de várias maneiras:
+Para dúvidas, sugestões ou mais informações sobre o projeto, entre em contato com o responsável, Candido H Tominaga, através do GitHub. Você pode fazer isso de várias maneiras:
 
 1. **Abrindo uma Issue**:
 
