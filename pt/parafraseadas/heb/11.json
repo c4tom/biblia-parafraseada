@@ -1,284 +1,692 @@
 {
   "livro": "Hebreus",
   "capitulo": 11,
-  "contexto_historico": "Este capítulo é conhecido como a 'galeria da fé', apresentando uma lista de heróis da fé do Antigo Testamento que, pela fé, alcançaram grandes feitos e suportaram provações, servindo de exemplo para os crentes.",
-  "bloco_tematico": "A Galeria da Fé: Exemplos de Fé e Perseverança",
+  "contexto_historico": "A carta aos Hebreus foi escrita para cristãos de origem judaica (provavelmente em Roma) que estavam enfrentando perseguição e tentação de abandonar sua fé em Cristo para retornar às práticas judaicas, sentindo-se desanimados com o custo do discipulado. O autor argumenta a superioridade absoluta de Cristo sobre os antigos rituais, sacerdócio e aliança do Antigo Testamento, visando encorajá-los à perseverança.",
+  "bloco_tematico": "O Hall da Fama da Fé: Exemplos de Perseverança! 🧗‍♂️📜",
   "versiculos": {
     "1": {
-      "parafrase": "Ora, a fé é a certeza daquilo que esperamos e a prova das coisas que não vemos.",
-      "referencias": [],
-      "comentario": "A fé é definida como a convicção e a evidência das realidades invisíveis e futuras, que são esperadas.",
-      "temas": ["fé", "certeza", "invisível", "esperança"],
+      "parafrase": "A fé é a base sólida para a esperança das coisas que se esperam, sendo a convicção clara das realidades que ainda não são vistas. ✨",
+      "referencias": [
+        "Romanos 8:24-25",
+        "2 Coríntios 4:18"
+      ],
+      "comentario": "O autor inicia definindo a fé (pistis em grego) não como mera crença intelectual, mas como um ato de confiança que assegura a posse presente de realidades futuras (esperança). É a evidência (elegchos) das coisas não vistas, funcionando como uma garantia antecipada.",
+      "temas": [
+        "Definição de Fé",
+        "Esperança",
+        "Invisível"
+      ],
       "personagens": []
     },
     "2": {
-      "parafrase": "Porque por ela os antigos alcançaram bom testemunho.",
-      "referencias": [],
-      "comentario": "Os heróis da fé do Antigo Testamento foram aprovados por sua fé, servindo de exemplo para as gerações futuras.",
-      "temas": ["fé", "testemunho", "exemplo"],
+      "parafrase": "Pois por meio desta fé, os antepassados receberam um testemunho favorável. 📜",
+      "referencias": [
+        "Gênesis 6:8",
+        "Hebreus 12:1"
+      ],
+      "comentario": "O autor estabelece a credibilidade da definição apresentada (v. 1) usando os patriarcas como exemplos. O termo grego para 'testemunho favorável' (emartyrēthēsan) indica que suas ações de fé foram validadas ou aprovadas pelas instâncias superiores.",
+      "temas": [
+        "Testemunho",
+        "Fé dos Patriarcas",
+        "Aprovação Divina"
+      ],
       "personagens": []
     },
     "3": {
-      "parafrase": "Pela fé entendemos que os mundos foram criados pela palavra do Altíssimo; de modo que o que se vê não foi feito do que é aparente.",
-      "referencias": [],
-      "comentario": "Pela fé, compreendemos que o universo foi criado pela palavra do Altíssimo, e que o visível veio do invisível.",
-      "temas": ["fé", "criação", "palavra do Altíssimo", "invisível"],
-      "personagens": ["Altíssimo"]
-    },
-    "4": {
-      "parafrase": "Pela fé Abel ofereceu ao Altíssimo maior sacrifício do que Caim, pelo qual alcançou testemunho de que era justo, dando o Altíssimo testemunho dos seus dons; e por ela, depois de morto, ainda fala.",
-      "referencias": [],
-      "comentario": "A fé de Abel o levou a oferecer um sacrifício superior ao de Caim, sendo justificado pelo Altíssimo, e seu exemplo continua a falar mesmo após sua morte.",
-      "temas": ["fé", "sacrifício", "justiça", "testemunho"],
-      "personagens": ["Abel", "Caim", "Altíssimo"]
-    },
-    "5": {
-      "parafrase": "Pela fé Enoque foi trasladado para não ver a morte, e não foi achado, porque o Altíssimo o trasladara; visto que, antes da sua trasladação, alcançou testemunho de que agradara ao Altíssimo.",
-      "referencias": [],
-      "comentario": "A fé de Enoque o levou a ser trasladado sem experimentar a morte, pois ele agradou ao Altíssimo, servindo de exemplo de comunhão.",
-      "temas": ["fé", "trasladação", "agrado divino", "comunhão"],
-      "personagens": ["Enoque", "Altíssimo"]
-    },
-    "6": {
-      "parafrase": "Ora, sem fé é impossível agradar ao Altíssimo; porque é necessário que aquele que se aproxima do Altíssimo creia que ele existe, e que é galardoador dos que o buscam.",
-      "referencias": [],
-      "comentario": "A fé é essencial para agradar ao Altíssimo, pois é preciso crer em sua existência e em sua recompensa para aqueles que o buscam.",
-      "temas": ["fé", "agrado divino", "existência do Altíssimo", "recompensa"],
-      "personagens": ["Altíssimo"]
-    },
-    "7": {
-      "parafrase": "Pela fé Noé, divinamente avisado das coisas que ainda não se viam, temeu e, para salvação da sua família, preparou a arca, pela qual condenou o mundo, e tornou-se herdeiro da justiça que é segundo a fé.",
-      "referencias": [],
-      "comentario": "A fé de Noé o levou a construir a arca em obediência à advertência divina, resultando na salvação de sua família e na condenação do mundo, tornando-o herdeiro da justiça pela fé.",
-      "temas": ["fé", "obediência", "salvação", "justiça"],
-      "personagens": ["Noé"]
-    },
-    "8": {
-      "parafrase": "Pela fé Abraão, sendo chamado, obedeceu, para sair para um lugar que havia de receber por herança; e saiu, sem saber para onde ia.",
-      "referencias": [],
-      "comentario": "A fé de Abraão o levou a obedecer ao chamado do Altíssimo, saindo para um lugar desconhecido, confiando na promessa de herança.",
-      "temas": ["fé", "obediência", "chamado", "herança"],
-      "personagens": ["Abraão", "Altíssimo"]
-    },
-    "9": {
-      "parafrase": "Pela fé habitou na terra da promessa, como em terra alheia, morando em tendas com Isaque e Jacó, herdeiros com ele da mesma promessa.",
-      "referencias": [],
-      "comentario": "A fé de Abraão o fez viver como estrangeiro na terra da promessa, morando em tendas, compartilhando a mesma promessa com Isaque e Jacó.",
-      "temas": ["fé", "estrangeiro", "promessa", "herança"],
-      "personagens": ["Abraão", "Isaque", "Jacó"]
-    },
-    "10": {
-      "parafrase": "Porque esperava a cidade que tem fundamentos, da qual o Altíssimo é o artífice e construtor.",
-      "referencias": [],
-      "comentario": "Abraão esperava uma cidade celestial com fundamentos eternos, construída pelo próprio Altíssimo, demonstrando sua visão além do terreno.",
-      "temas": ["esperança celestial", "cidade eterna", "Altíssimo"],
-      "personagens": ["Altíssimo"]
-    },
-    "11": {
-      "parafrase": "Pela fé também a própria Sara, sendo estéril, recebeu a virtude de conceber um filho, e deu à luz, mesmo fora da idade, porquanto teve por fiel Aquele que lho tinha prometido.",
-      "referencias": [],
-      "comentario": "A fé de Sara a capacitou a conceber um filho, mesmo em idade avançada, porque ela creu na fidelidade do Altíssimo que havia prometido.",
-      "temas": ["fé", "milagre", "fidelidade divina", "promessa"],
-      "personagens": ["Sara", "Altíssimo"]
-    },
-    "12": {
-      "parafrase": "Por isso também de um só, e esse já amortecido, saiu uma posteridade tão numerosa como as estrelas do céu, e como a areia inumerável que está na praia do mar.",
-      "referencias": [],
-      "comentario": "Da fé de Abraão e Sara, mesmo em sua condição avançada, surgiu uma descendência numerosa, cumprindo a promessa do Altíssimo.",
-      "temas": ["fé", "promessa", "descendência"],
-      "personagens": ["Abraão", "Sara"]
-    },
-    "13": {
-      "parafrase": "Todos estes morreram na fé, sem terem alcançado as promessas, mas vendo-as de longe, e crendo nelas, e abraçando-as, e confessando que eram estrangeiros e peregrinos na terra.",
-      "referencias": [],
-      "comentario": "Todos esses heróis da fé morreram crendo nas promessas, mesmo sem as terem visto cumpridas em vida, reconhecendo sua condição de estrangeiros na terra.",
-      "temas": ["fé", "promessas", "peregrinação", "esperança"],
+      "parafrase": "Pela fé, entendemos que os mundos visíveis foram formados pela palavra de Deus, de modo que o que é visível não se originou de coisas manifestas. 🌌",
+      "referencias": [
+        "Gênesis 1:1-3",
+        "Salmos 33:6",
+        "João 1:3"
+      ],
+      "comentario": "Este versículo aplica a fé ao ato criacionista. A 'fé' permite compreender a origem do universo (os 'aiones' ou eras/mundos) pela declaração divina ('rhema'). A criação 'ex nihilo' (do nada, ou a partir do não-manifesto) é um ato de percepção pela fé, não pela observação empírica.",
+      "temas": [
+        "Criação",
+        "Poder da Palavra",
+        "Cosmologia"
+      ],
       "personagens": []
     },
+    "4": {
+      "parafrase": "Pela fé, Abel ofereceu a Deus um sacrifício mais excelente do que Caim, pelo qual obteve a designação de justo, e Deus testemunhou favoravelmente sobre as suas ofertas. Abel, embora morto, ainda fala por meio de sua fé. 🩸",
+      "referencias": [
+        "Gênesis 4:4-5",
+        "Mateus 23:35",
+        "1 João 3:12"
+      ],
+      "comentario": "O primeiro exemplo específico. A superioridade do sacrifício de Abel residiu na fé que motivou a oferta, não apenas na oferta em si. Ele foi 'testemunhado' (emartyrēthē) como justo, um conceito chave repetido do v. 2. O eco de sua fé continua após a morte.",
+      "temas": [
+        "Sacrifício Aceitável",
+        "Justiça pela Fé",
+        "Exemplo de Abel"
+      ],
+      "personagens": [
+        "Abel",
+        "Caim"
+      ]
+    },
+    "5": {
+      "parafrase": "Pela fé, Enoque foi transportado para não ver a morte; ele não foi encontrado, porque Deus o havia transportado. Antes de ser removido, recebeu o testemunho de que agradara a Deus. 🚶‍♂️",
+      "referencias": [
+        "Gênesis 5:21-24"
+      ],
+      "comentario": "Enoque é o exemplo de uma vida vivida em tamanha comunhão (agradar a Deus) que resultou numa transição singular, sem passar pela experiência natural da morte. A fé é a condição para essa intervenção divina direta no curso da vida terrena.",
+      "temas": [
+        "Translação",
+        "Comunhão com Deus",
+        "Integridade de Vida"
+      ],
+      "personagens": [
+        "Enoque"
+      ]
+    },
+    "6": {
+      "parafrase": "Entretanto, sem fé é impossível agradar a Deus, pois quem se aproxima de Deus deve crer que Ele existe e que se torna recompensador para aqueles que diligentemente O buscam. 🙏",
+      "referencias": [
+        "Deuteronômio 4:29",
+        "Mateus 6:33"
+      ],
+      "comentario": "Este é o princípio fundamental que governa todos os exemplos anteriores. A fé é o meio necessário para estabelecer a relação com o Divino. A crença na existência de Deus (ontológica) e na Sua disposição em recompensar a busca sincera (relacional) são os dois pilares dessa fé.",
+      "temas": [
+        "Necessidade da Fé",
+        "Recompensa Divina",
+        "Busca a Deus"
+      ],
+      "personagens": []
+    },
+    "7": {
+      "parafrase": "Pela fé, Noé, advertido a respeito de coisas ainda não vistas, agiu com reverência e construiu uma arca para a salvação de sua casa, pela qual ele condenou o mundo e se tornou herdeiro da justiça que advém pela fé. 🚢",
+      "referencias": [
+        "Gênesis 6:9-22",
+        "1 Pedro 3:20"
+      ],
+      "comentario": "Noé demonstra a fé prática aplicada ao julgamento futuro. Sua obediência (construir a arca) baseou-se na crença em um evento futuro (o dilúvio) que era invisível e incomum. Sua ação serviu como um veredito contra a descrença da sociedade da época.",
+      "temas": [
+        "Obediência pela Fé",
+        "Julgamento",
+        "Salvação"
+      ],
+      "personagens": [
+        "Noé"
+      ]
+    },
+    "8": {
+      "parafrase": "Pela fé, Abraão, sendo chamado, obedeceu, saindo para um lugar que deveria receber como herança, e foi, sem saber para onde ia. 🗺️",
+      "referencias": [
+        "Gênesis 12:1-4"
+      ],
+      "comentario": "O exemplo central da fé patriarcal. A obediência de Abraão foi imediata ('obedecendo') e incondicional, pois a direção final ('para onde ia') era desconhecida, focando apenas na ordem recebida. Ele agiu com base na promessa, não no mapa.",
+      "temas": [
+        "Chamado e Obediência",
+        "Peregrinação",
+        "Fé e Partida"
+      ],
+      "personagens": [
+        "Abraão"
+      ]
+    },
+    "9": {
+      "parafrase": "Pela fé, ele habitou como estrangeiro na terra prometida, como em terra alheia, residindo em tendas com Isaque e Jacó, co-herdeiros da mesma promessa. ⛺",
+      "referencias": [
+        "Gênesis 12:8",
+        "Gênesis 13:18",
+        "Atos 7:5"
+      ],
+      "comentario": "Mesmo após a promessa da terra, Abraão viveu em modo provisório ('como estrangeiro' ou 'em passagem'). Isso reflete uma lealdade maior à promessa celestial do que ao assentamento físico imediato, compartilhada por seus descendentes diretos, Isaque e Jacó.",
+      "temas": [
+        "Estrangeirismo",
+        "Vida Provisória",
+        "Herança Prometida"
+      ],
+      "personagens": [
+        "Abraão",
+        "Isaque",
+        "Jacó"
+      ]
+    },
+    "10": {
+      "parafrase": "Pois ele esperava a cidade que possui fundamentos sólidos, obra e construção da parte de Deus. 🏛️",
+      "referencias": [
+        "Filipenses 3:20",
+        "Apocalipse 21:2, 10"
+      ],
+      "comentario": "Aqui, a fé de Abraão transcende a posse da terra de Canaã. Sua verdadeira esperança reside em uma 'cidade' (metrópole ou comunidade ideal) que é divinamente arquitetada ('deus construtor'), com 'fundamentos' firmes, sugerindo uma realidade eterna e estável, contrastando com as tendas da vida terrena.",
+      "temas": [
+        "Cidade Celestial",
+        "Fundamentos Sólidos",
+        "Esperança Futura"
+      ],
+      "personagens": [
+        "Abraão"
+      ]
+    },
+    "11": {
+      "parafrase": "Pela fé, também Sara, já sem forças, recebeu poder para gerar descendência, pois considerou fiel aquele que prometera. 👵🏽➡️👶🏽",
+      "referencias": [
+        "Gênesis 17:19",
+        "Gênesis 18:11-15",
+        "Romanos 4:19",
+        "Hebreus 10:23"
+      ],
+      "comentario": "O autor enfatiza que a fé de Sara não se baseou em evidências físicas (idade avançada, esterilidade) mas na fidelidade de Deus em cumprir Sua promessa de um filho (Isaque). A capacidade de gerar, que lhe foi concedida, é vista como um ato sobrenatural decorrente de sua convicção na palavra divina. Isso estabelece um padrão de fé que transcende a limitação humana.",
+      "temas": [
+        "Fé e Promessa",
+        "Fidelidade de Deus",
+        "Geração pela Fé",
+        "Milagre"
+      ],
+      "personagens": [
+        "Sara"
+      ]
+    },
+    "12": {
+      "parafrase": "E, daquele homem, que já estava como morto, nasceu tanta descendência quanto as estrelas do céu em número, e como a areia incontável da praia. ⭐👨🏽‍🦳➡️👶🏽👶🏽👶🏽",
+      "referencias": [
+        "Gênesis 15:5",
+        "Gênesis 22:17",
+        "Romanos 4:18-21"
+      ],
+      "comentario": "Refere-se ao pacto de Deus com Abraão (e implicitamente Sara). A descendência, apesar da extrema velhice e esterilidade do casal, tornou-se numerosa. O autor utiliza a linguagem hipérbole encontrada em Gênesis para ilustrar o poder de Deus em realizar o que é humanamente impossível, cumprindo a promessa feita ao patriarca.",
+      "temas": [
+        "Multiplicação",
+        "Pacto Abraâmico",
+        "Fé na Impossibilidade",
+        "Descendência"
+      ],
+      "personagens": [
+        "Abraão",
+        "Sara"
+      ]
+    },
+    "13": {
+      "parafrase": "Todos estes morreram na fé, sem terem alcançado a realização das promessas; contudo, viram-nas e saudaram-nas de longe, reconhecendo que eram estrangeiros e peregrinos na terra. ⛰️🚶🏽‍♂️➡️🏡",
+      "referencias": [
+        "Gênesis 23:4",
+        "Gênesis 47:9",
+        "1 Pedro 2:11"
+      ],
+      "comentario": "Este versículo faz uma transição. Os patriarcas viveram toda a sua vida sob a ótica de promessas futuras que eles não viram plenamente realizadas em seu tempo (a terra plena prometida). O conceito chave é o de 'peregrinos e estrangeiros' (Pároikoi kai parepidēmoi). Eles não estabeleceram sua morada definitiva na terra que lhes fora prometida, mantendo uma perspectiva celestial.",
+      "temas": [
+        "Peregrinação Terrena",
+        "Esperança Futura",
+        "Realização Incompleta",
+        "Fé na Morte"
+      ],
+      "personagens": [
+        "Abraão",
+        "Sara",
+        "Patriarcas"
+      ]
+    },
     "14": {
-      "parafrase": "Porque os que assim dizem claramente mostram que buscam uma pátria.",
-      "referencias": [],
-      "comentario": "A confissão de serem estrangeiros revela seu anseio por uma pátria celestial, a verdadeira pátria.",
-      "temas": ["pátria celestial", "anseio", "esperança"],
+      "parafrase": "Quem assim fala, demonstra claramente que está buscando uma pátria. 🧭🗺️",
+      "referencias": [
+        "Salmos 39:12",
+        "1 Crônicas 29:15"
+      ],
+      "comentario": "O ato de declarar-se estrangeiro prova a convicção interna de que o lugar onde habitavam não era o destino final. A 'pátria' buscada não é um retorno geográfico ao lugar de origem (Ur dos Caldeus), mas sim a cidade permanente que Deus havia preparado para eles, conforme estabelecido na teologia da fé.",
+      "temas": [
+        "Busca pela Pátria Celestial",
+        "Identidade",
+        "Declaração de Fé"
+      ],
       "personagens": []
     },
     "15": {
-      "parafrase": "E se, na verdade, se lembrassem daquela de onde haviam saído, teriam tempo para tornar a ela.",
-      "referencias": [],
-      "comentario": "Se eles tivessem se apegado à sua pátria terrena, teriam tido a oportunidade de retornar, mas sua fé os impulsionou para algo maior.",
-      "temas": ["apego terreno", "fé", "pátria celestial"],
+      "parafrase": "Se, de fato, tivessem saudades da terra de onde saíram, teriam tido a oportunidade de voltar. ↩️🔙",
+      "referencias": [
+        "Gênesis 13:8-9",
+        "Gênesis 26:3"
+      ],
+      "comentario": "O autor usa a lógica humana para reforçar o argumento da fé. Se o apego ao passado (Mesopotâmia) fosse mais forte do que a crença no futuro prometido, eles poderiam facilmente ter voltado. O fato de não terem voltado demonstra que sua fé estava orientada para a frente, para o cumprimento divino.",
+      "temas": [
+        "Compromisso",
+        "Decisão de Fé",
+        "Olhar para o Futuro"
+      ],
       "personagens": []
     },
     "16": {
-      "parafrase": "Mas agora desejam uma melhor, isto é, a celestial. Por isso, o Altíssimo não se envergonha de ser chamado o seu Altíssimo, porque já lhes preparou uma cidade.",
-      "referencias": [],
-      "comentario": "Eles desejam uma pátria celestial, e o Altíssimo não se envergonha de ser chamado seu Altíssimo, pois lhes preparou uma cidade eterna.",
-      "temas": ["pátria celestial", "desejo", "Altíssimo", "cidade eterna"],
-      "personagens": ["Altíssimo"]
+      "parafrase": "Mas, na verdade, aspiravam a um lugar melhor, ou seja, a um lugar celestial; por isso, Deus não se envergonha de ser chamado o Deus deles, pois lhes preparou uma cidade. 🏛️✨",
+      "referencias": [
+        "Gênesis 17:7",
+        "Salmos 48:1-3",
+        "Apocalipse 21:2"
+      ],
+      "comentario": "A meta dos patriarcas era superior à posse terrena de Canaã; eles visavam uma 'pátria celestial' (epiouranios). A afirmação teológica de que 'Deus não se envergonha' de ser seu Deus significa que Ele reconhece e honra a fé deles, pois Ele é o provedor da morada eterna (a cidade preparada).",
+      "temas": [
+        "Cidade Celestial",
+        "Honra Divina",
+        "Recompensa",
+        "Relacionamento com Deus"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "17": {
-      "parafrase": "Pela fé Abraão, quando foi provado, ofereceu Isaque; sim, aquele que recebera as promessas ofereceu o seu unigênito,",
-      "referencias": [],
-      "comentario": "A fé de Abraão foi provada quando ele ofereceu Isaque, seu filho da promessa, demonstrando sua obediência e confiança no Altíssimo.",
-      "temas": ["fé", "prova", "obediência", "confiança"],
-      "personagens": ["Abraão", "Isaque"]
+      "parafrase": "Pela fé, Abraão, quando posto à prova, ofereceu Isaque; este homem, que tinha recebido as promessas, ofereceu o seu único filho. 👦🏽🔥🛐",
+      "referencias": [
+        "Gênesis 22:1-19",
+        "Tiago 2:21"
+      ],
+      "comentario": "Este é o clímax da seção de exemplos. Abraão é testado no ponto mais sensível: seu filho da promessa. A fé de Abraão é demonstrada ao obedecer a Deus mesmo quando o mandamento parecia anular a própria promessa (a descendência viria por Isaque). Ele acreditava que Deus era capaz de ressuscitar Isaque, se necessário, para cumprir o pacto.",
+      "temas": [
+        "Prova de Fé",
+        "Sacrifício",
+        "Obediência Extrema",
+        "Ressurreição Implícita"
+      ],
+      "personagens": [
+        "Abraão",
+        "Isaque"
+      ]
     },
     "18": {
-      "parafrase": "daquele a quem fora dito: 'Em Isaque será chamada a sua descendência.'",
-      "referencias": [],
-      "comentario": "A promessa de que a descendência viria através de Isaque tornava o sacrifício ainda mais significativo, mas Abraão creu na capacidade do Altíssimo de ressuscitar.",
-      "temas": ["promessa", "descendência", "sacrifício"],
-      "personagens": ["Isaque"]
+      "parafrase": "Pois Deus havia dito a ele: 'Por meio de Isaque é que será chamada a tua descendência.' 🗣️👶🏽",
+      "referencias": [
+        "Gênesis 21:12",
+        "Romanos 9:7"
+      ],
+      "comentario": "Este versículo relembra a promessa específica que tornou o teste de Abraão tão paradoxal. A promessa de que a aliança continuaria através de Isaque, contrastada com o comando de sacrificá-lo, exigia uma fé absoluta na capacidade de Deus de conciliar os dois comandos.",
+      "temas": [
+        "Promessa vs. Mandamento",
+        "Paradoxo da Fé",
+        "Aliança"
+      ],
+      "personagens": [
+        "Abraão",
+        "Isaque",
+        "Deus"
+      ]
     },
     "19": {
-      "parafrase": "Considerando que o Altíssimo era poderoso para até dos mortos o ressuscitar; de onde também em figura o recobrou.",
-      "referencias": [],
-      "comentario": "Abraão creu que o Altíssimo era capaz de ressuscitar Isaque dos mortos, e de certa forma, o recebeu de volta em figura.",
-      "temas": ["fé", "ressurreição", "poder divino"],
-      "personagens": ["Altíssimo"]
+      "parafrase": "Ele raciocinava que Deus era poderoso para até mesmo reerguer Isaque dentre os mortos; e, figurativamente, ele o recebeu de volta. ⚰️➡️🧍🏽‍♂️",
+      "referencias": [
+        "Romanos 4:17",
+        "2 Macabeus 7:11, 14, 28-29"
+      ],
+      "comentario": "Esta é a essência da teologia do autor sobre o ato de Abraão. A fé pressupunha a ressurreição corporal. 'Figurativamente' (parabolikōs) indica que o ato de receber Isaque de volta do altar foi como se ele tivesse realmente morrido e retornado, servindo como uma representação profética da ressurreição futura, possibilitada pela fidelidade de Deus.",
+      "temas": [
+        "Ressurreição",
+        "Justificação pela Fé",
+        "Exegese do Sacrifício",
+        "Tipologia"
+      ],
+      "personagens": [
+        "Abraão",
+        "Isaque"
+      ]
     },
     "20": {
-      "parafrase": "Pela fé Isaque abençoou Jacó e Esaú, no tocante às coisas futuras.",
-      "referencias": [],
-      "comentario": "Pela fé, Isaque abençoou seus filhos Jacó e Esaú, profetizando sobre o futuro de suas descendências.",
-      "temas": ["fé", "bênção", "profecia"],
-      "personagens": ["Isaque", "Jacó", "Esaú"]
+      "parafrase": "Pela fé, Isaque abençoou Jacó e Esaú, embora já estivesse próximo da morte, pensando no futuro. 👴🏽🙏🏽➡️👶🏽👶🏽",
+      "referencias": [
+        "Gênesis 27:27-29",
+        "Gênesis 27:39-40"
+      ],
+      "comentario": "Isaque demonstra a continuidade da fé familiar. Mesmo em seu leito de morte, sua visão não está presa ao presente (enganado pelo toque e cheiro), mas projetada no futuro das bênçãos messiânicas e promessas de Deus, que ele transmite aos seus filhos, prioritariamente a Jacó (conforme o plano divino), sobre Esaú.",
+      "temas": [
+        "Bênção Patriarcal",
+        "Fé no Futuro",
+        "Morte",
+        "Transmissão da Aliança"
+      ],
+      "personagens": [
+        "Isaque",
+        "Jacó",
+        "Esaú"
+      ]
     },
     "21": {
-      "parafrase": "Pela fé Jacó, ao morrer, abençoou cada um dos filhos de José, e adorou encostado à ponta do seu bordão.",
-      "referencias": [],
-      "comentario": "Pela fé, Jacó abençoou os filhos de José antes de morrer, e adorou o Altíssimo, demonstrando sua confiança nas promessas.",
-      "temas": ["fé", "bênção", "adoração"],
-      "personagens": ["Jacó", "José"]
+      "parafrase": "Pela fé, Jacó, ao morrer, adorou a Deus, apoiado na ponta de sua vara, abençoando a cada um dos filhos de José separadamente. 🙏",
+      "referencias": [
+        "Gênesis 47:31",
+        "Gênesis 48:1"
+      ],
+      "comentario": "Este versículo destaca o ato de adoração e bênção de Jacó, mesmo em estado de fraqueza física (apoiado na vara). O ato de adorar (proskuneō em grego) demonstra reconhecimento da soberania divina mesmo no momento da transição final da vida, um ato de fé na promessa de Deus a Abraão e seus descendentes. A bênção sobre Efraim e Manassés, filhos de José, reafirma a continuidade da aliança através da linhagem escolhida. 📜",
+      "temas": [
+        "Fé em face da morte",
+        "Adoração",
+        "Bênção Patriarcal",
+        "Soberania de Deus"
+      ],
+      "personagens": [
+        "Jacó",
+        "José",
+        "Deus"
+      ]
     },
     "22": {
-      "parafrase": "Pela fé José, ao morrer, fez menção da saída dos filhos de Israel, e deu ordem acerca de seus ossos.",
-      "referencias": [],
-      "comentario": "Pela fé, José profetizou sobre a saída de Israel do Egito e deu instruções sobre seus ossos, demonstrando sua confiança nas promessas do Altíssimo.",
-      "temas": ["fé", "profecia", "promessa"],
-      "personagens": ["José", "Israel"]
+      "parafrase": "Pela fé, José, ao se aproximar de sua morte, mencionou a saída dos descendentes de Israel do Egito e deu instruções sobre a disposição de seus próprios ossos. 🦴",
+      "referencias": [
+        "Gênesis 50:24-25",
+        "Êxodo 13:19"
+      ],
+      "comentario": "José demonstra fé no futuro e no cumprimento da promessa de Deus, mesmo estando há muito tempo estabelecido no Egito. Sua instrução para que seus ossos fossem levados para a Terra Prometida (Terra de Canaã) era um testemunho público de sua esperança escatológica e da fidelidade de Deus à aliança feita com os patriarcas. Este ato era um 'testamento' baseado na convicção do retorno. 🧭",
+      "temas": [
+        "Esperança futura",
+        "Fé na Promessa",
+        "Êxodo",
+        "Legado"
+      ],
+      "personagens": [
+        "José",
+        "Descendentes de Israel",
+        "Deus"
+      ]
     },
     "23": {
-      "parafrase": "Pela fé Moisés, já nascido, foi escondido três meses por seus pais, porque viram que era um menino formoso; e não temeram o mandamento do rei.",
-      "referencias": [],
-      "comentario": "Pela fé, os pais de Moisés o esconderam, desobedecendo à ordem do rei, pois viram a beleza do menino e confiaram no Altíssimo.",
-      "temas": ["fé", "obediência", "proteção"],
-      "personagens": ["Moisés"]
+      "parafrase": "Pela fé, os pais de Moisés o esconderam por três meses ao verem que ele era um menino notável, e não se intimidaram com a ordem do rei. 👀",
+      "referencias": [
+        "Êxodo 2:2"
+      ],
+      "comentario": "O esconderijo de Moisés é um exemplo de fé prática contra a autoridade opressora. A descrição de Moisés como 'notável' (asterios, possivelmente 'brilhante' ou 'digno de estrela') sugere que seus atributos eram evidentes. A recusa em obedecer ao decreto real demonstra a prioridade dada à preservação da vida sob a promessa divina sobre a segurança mundana. 👑",
+      "temas": [
+        "Obediência a Deus acima dos homens",
+        "Perseguição",
+        "Proteção divina",
+        "Coragem"
+      ],
+      "personagens": [
+        "Pais de Moisés",
+        "Moisés",
+        "Faraó"
+      ]
     },
     "24": {
-      "parafrase": "Pela fé Moisés, sendo já grande, recusou ser chamado filho da filha de Faraó,",
-      "referencias": [],
-      "comentario": "Pela fé, Moisés renunciou à sua posição na corte egípcia, escolhendo identificar-se com o povo do Altíssimo.",
-      "temas": ["fé", "renúncia", "identificação"],
-      "personagens": ["Moisés", "Faraó"]
+      "parafrase": "Pela fé, Moisés, quando cresceu, recusou ser chamado filho da filha de Faraó. 🙅‍♂️",
+      "referencias": [
+        "Êxodo 2:10",
+        "Êxodo 2:11-15"
+      ],
+      "comentario": "Este é um ponto de inflexão na vida de Moisés. Sua renúncia ao status de príncipe egípcio é um ato de fé, escolhendo conscientemente a afiliação com o povo sofrido de Deus em vez do conforto e poder mundanos. Ele rejeitou uma identidade temporária e mundana por uma identidade baseada na aliança. 🤴➡️👨‍🌾",
+      "temas": [
+        "Escolha de identidade",
+        "Rejeição de privilégios mundanos",
+        "Afiliação com o povo de Deus"
+      ],
+      "personagens": [
+        "Moisés",
+        "Filha de Faraó"
+      ]
     },
     "25": {
-      "parafrase": "escolhendo antes ser maltratado com o povo do Altíssimo do que por um pouco de tempo ter o gozo do pecado;",
-      "referencias": [],
-      "comentario": "Moisés preferiu sofrer com o povo do Altíssimo a desfrutar dos prazeres temporários do pecado, demonstrando sua prioridade espiritual.",
-      "temas": ["escolha", "sofrimento", "prazer do pecado", "prioridade espiritual"],
-      "personagens": ["Moisés", "Altíssimo"]
+      "parafrase": "Preferiu sofrer com o povo de Deus, em vez de desfrutar dos prazeres passageiros do pecado. 🏖️➡️⛓️",
+      "referencias": [
+        "Êxodo 2:11"
+      ],
+      "comentario": "O autor de Hebreus contrasta explicitamente o 'deleite' (ou 'prazeres') transitório do Egito (associado ao pecado ou à vida mundana) com o 'sofrimento' compartilhado com os hebreus. A perspectiva de fé permite avaliar corretamente o valor relativo das coisas: o prazer momentâneo perde para a comunhão com o povo escolhido, mesmo na aflição. ⚖️",
+      "temas": [
+        "Sofrimento por causa da fé",
+        "Valor relativo dos prazeres",
+        "Escolha moral"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "26": {
-      "parafrase": "tendo por maiores riquezas o vitupério do Ungido do que os tesouros do Egito; porque tinha em vista a recompensa.",
-      "referencias": [],
-      "comentario": "Moisés considerou o sofrimento por causa do Ungido como maior riqueza do que os tesouros do Egito, pois ele tinha em vista a recompensa futura.",
-      "temas": ["riqueza espiritual", "sofrimento", "recompensa"],
-      "personagens": ["Moisés", "Ungido"]
+      "parafrase": "Ele considerou que a desonra recebida por causa do Ungido (Messias) era maior riqueza do que os tesouros do Egito, pois ele tinha seu olhar fixo na recompensa vindoura. 💎➡️👑",
+      "referencias": [
+        "Salmos 89:50 (conceito de ultraje)",
+        "2 Coríntios 4:17"
+      ],
+      "comentario": "Este é um ponto teologicamente denso. O autor aplica a Moisés o conceito de 'reproche por Cristo' (os neologismos, ultraje/desonra). Isso sugere que, na visão do autor, Moisés agiu antecipadamente, identificando-se com o sofrimento futuro do Ungido prometido. A riqueza do Egito é comparada à 'recompensa' (mistérios), que é futura e eterna, superando qualquer tesouro material. O 'Ungido' aqui funciona como um termo que aponta para a figura messiânica futura que sofreria. 🌟",
+      "temas": [
+        "Valor da reprovação (ultrajes) por causa de Cristo",
+        "Recompensa futura",
+        "Riqueza espiritual vs. material"
+      ],
+      "personagens": [
+        "Moisés",
+        "Cristo (Ungido)"
+      ]
     },
     "27": {
-      "parafrase": "Pela fé deixou o Egito, não temendo a ira do rei; porque ficou firme, como quem vê o invisível.",
-      "referencias": [],
-      "comentario": "Pela fé, Moisés deixou o Egito sem temer a ira do rei, pois ele via o invisível, confiando na proteção do Altíssimo.",
-      "temas": ["fé", "coragem", "invisível", "proteção"],
-      "personagens": ["Moisés"]
+      "parafrase": "Pela fé, ele deixou o Egito, sem temer a ira do rei, pois permaneceu firme como se visse Aquele que é invisível. 🚶‍♂️➡️🌄",
+      "referencias": [
+        "Êxodo 12:31",
+        "Êxodo 14:19-31"
+      ],
+      "comentario": "A saída do Egito é o clímax da fé de Moisés. O medo (phobos) foi substituído pela firmeza ('endureceu o semblante' ou 'perseverou'). A chave é a percepção de Deus como 'o Invisível' (o que não pode ser visto). A fé lhe deu a capacidade de agir com base na realidade da presença divina, ignorando as ameaças visíveis do poder humano (o rei). 👁️‍🗨️",
+      "temas": [
+        "Partida do Egito",
+        "Não temer homens",
+        "Percepção do invisível",
+        "Firmeza"
+      ],
+      "personagens": [
+        "Moisés",
+        "Rei"
+      ]
     },
     "28": {
-      "parafrase": "Pela fé celebrou a páscoa e a aspersão do sangue, para que o destruidor dos primogênitos não os tocasse.",
-      "referencias": [],
-      "comentario": "Pela fé, Moisés instituiu a Páscoa e a aspersão do sangue, que protegeu os primogênitos de Israel do destruidor.",
-      "temas": ["fé", "Páscoa", "sangue", "proteção"],
-      "personagens": ["Moisés"]
+      "parafrase": "Pela fé, ele instituiu a Páscoa e o derramamento do sangue, para que o destruidor dos primogênitos não tocasse nos israelitas. 🩸🐑",
+      "referencias": [
+        "Êxodo 12:21-23",
+        "Êxodo 12:12-13"
+      ],
+      "comentario": "A instituição da Páscoa é um ato fundamental de obediência baseada na fé nas palavras divinas de preservação. O derramamento do sangue (literalmente, o sacrifício do cordeiro) atuava como um sinal protetor, desviando a ira divina/execução da morte dos primogênitos israelitas. É um ato ritual que atesta a confiança na Palavra de Deus sobre a morte. ⚱️",
+      "temas": [
+        "Páscoa",
+        "Sacrifício e proteção",
+        "Obediência ritualística"
+      ],
+      "personagens": [
+        "Moisés",
+        "Israelitas",
+        "O Destruidor"
+      ]
     },
     "29": {
-      "parafrase": "Pela fé passaram o Mar Vermelho, como por terra seca; o que, intentando os egípcios, se afogaram.",
-      "referencias": [],
-      "comentario": "Pela fé, Israel atravessou o Mar Vermelho em terra seca, enquanto os egípcios que tentaram o mesmo foram afogados.",
-      "temas": ["fé", "milagre", "libertação"],
-      "personagens": []
+      "parafrase": "Pela fé, os israelitas atravessaram o Mar Vermelho como se estivessem pisando em terra seca, o que os egípcios tentaram fazer, mas foram engolidos pelas águas. 🌊🚶‍♀️",
+      "referencias": [
+        "Êxodo 14:21-31"
+      ],
+      "comentario": "A travessia do Mar Vermelho é apresentada como um triunfo da fé sobre as leis naturais e o poder militar egípcio. Os israelitas agiram com fé ('como pisando em terra seca'), enquanto os egípcios, confiando em sua força, foram destruídos. A fé capacita a ação, enquanto a falta dela leva à destruição diante do poder manifestado por Deus. 🔱",
+      "temas": [
+        "Travessia do Mar Vermelho",
+        "Juízo sobre o Egito",
+        "Fé em ação"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Egípcios"
+      ]
     },
     "30": {
-      "parafrase": "Pela fé caíram os muros de Jericó, depois de rodeados por sete dias.",
-      "referencias": [],
-      "comentario": "Pela fé, os muros de Jericó caíram após sete dias de cerco, demonstrando o poder do Altíssimo em resposta à obediência.",
-      "temas": ["fé", "milagre", "obediência"],
-      "personagens": []
+      "parafrase": "Pela fé, as muralhas de Jericó caíram, depois que o povo marchou ao redor delas por sete dias. 🏰⬇️",
+      "referencias": [
+        "Josué 6:1-20"
+      ],
+      "comentario": "O autor transiciona para a era de Josué para ilustrar a continuidade da fé da geração anterior. A vitória sobre Jericó não se deu por força militar (o muro era impenetrável), mas pela obediência a um comando aparentemente irracional (marchar em silêncio e depois gritar). Este é o poder da fé manifestado na obediência à ordem divina, resultando em uma vitória impossível humanamente. 🎺",
+      "temas": [
+        "Queda de Jericó",
+        "Obediência aos comandos divinos",
+        "Vitória pela fé"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Josué (implícito)"
+      ]
     },
     "31": {
-      "parafrase": "Pela fé Raabe, a prostituta, não pereceu com os incrédulos, acolhendo em paz os espias.",
-      "referencias": [],
-      "comentario": "Pela fé, Raabe foi salva da destruição de Jericó, pois acolheu os espias, demonstrando sua crença no Altíssimo.",
-      "temas": ["fé", "salvação", "hospitalidade"],
-      "personagens": ["Raabe"]
+      "parafrase": "Pela fé, Raabe, a prostituta, não pereceu junto com aqueles que lhe eram desobedientes, pois ela recebeu com hospitalidade os espiões enviados a investigar a terra. 🛡️",
+      "referencias": [
+        "Josué 2:1-24",
+        "Tiago 2:25"
+      ],
+      "comentario": "Este versículo introduz um exemplo de fé demonstrada através de uma ação concreta, tirado da narrativa da conquista de Jericó. Raabe, identificada por sua profissão socialmente marginalizada, exemplifica que a fé salvadora se manifesta em obediência prática, mesmo quando isso implica ir contra a autoridade estabelecida (os cananeus). Sua recepção dos espiões é um ato de lealdade a uma autoridade superior, aquela que governa o destino de Israel. 🧐",
+      "temas": [
+        "Fé e Ação",
+        "Salvação pela Graça",
+        "Hospitalidade",
+        "Julgamento"
+      ],
+      "personagens": [
+        "Raabe",
+        "Espiões de Josué"
+      ]
     },
     "32": {
-      "parafrase": "E que mais direi? Faltar-me-ia o tempo contando de Gideão, e de Baraque, e de Sansão, e de Jefté, e de Davi, e de Samuel, e dos profetas,",
-      "referencias": [],
-      "comentario": "O autor menciona outros heróis da fé, indicando que a lista é extensa e o tempo é insuficiente para descrever todos os seus feitos.",
-      "temas": ["heróis da fé", "exemplos"],
-      "personagens": ["Gideão", "Baraque", "Sansão", "Jefté", "Davi", "Samuel", "profetas"]
+      "parafrase": "Que mais direi? O tempo não me permitiria narrar sobre Gideão, Baraque, Sansão, Jefté, e Davi e também Samuel e os profetas. ⏳",
+      "referencias": [
+        "Juízes 6-8",
+        "1 Samuel 16-31",
+        "Atos 13:20"
+      ],
+      "comentario": "O autor intercala uma digressão apressada, reconhecendo que a lista de exemplos de fé é vasta demais para ser contada em detalhes. Ele cita heróis militares e espirituais de Israel, mostrando a diversidade daqueles que foram validados por sua perseverança na crença. A menção de Gideão, Sansão e Jefté aponta para figuras que exerceram liderança sob grande pressão e incerteza. 📜",
+      "temas": [
+        "Exemplos de Fé",
+        "Liderança",
+        "Testemunho Histórico"
+      ],
+      "personagens": [
+        "Gideão",
+        "Baraque",
+        "Sansão",
+        "Jefté",
+        "Davi",
+        "Samuel",
+        "Profetas"
+      ]
     },
     "33": {
-      "parafrase": "os quais, pela fé, venceram reinos, praticaram a justiça, alcançaram promessas, fecharam a boca dos leões,",
-      "referencias": [],
-      "comentario": "Pela fé, esses heróis realizaram grandes feitos, como vencer reinos, praticar a justiça, alcançar promessas e fechar a boca de leões.",
-      "temas": ["fé", "vitória", "justiça", "milagres"],
-      "personagens": []
+      "parafrase": "Estes, pela fé, conquistaram reinos, praticaram justiça, alcançaram promessas, fecharam a boca de leões, 🦁",
+      "referencias": [
+        "Daniel 6:22",
+        "1 Samuel 17:34-37"
+      ],
+      "comentario": "Este versículo cataloga os feitos notáveis destes indivíduos. 'Conquistar reinos' refere-se a estabelecer ou manter a soberania sob a aliança com o poder divino (exemplo: Davi). 'Praticaram justiça' aponta para a fidelidade aos preceitos morais e legais. A façanha de 'fechar a boca de leões' é uma referência clara ao poder demonstrado por Daniel ou possivelmente a Davi contra o urso e o leão. 💪",
+      "temas": [
+        "Poder Sobrenatural",
+        "Justiça",
+        "Domínio",
+        "Conquista"
+      ],
+      "personagens": [
+        "Heróis de Israel"
+      ]
     },
     "34": {
-      "parafrase": "apagaram a força do fogo, escaparam do fio da espada, da fraqueza tiraram forças, na batalha se esforçaram, puseram em fuga os exércitos dos estranhos.",
-      "referencias": [],
-      "comentario": "A fé os capacitou a apagar o fogo, escapar da espada, fortalecer-se na fraqueza e vencer exércitos, demonstrando o poder do Altíssimo através deles.",
-      "temas": ["fé", "poder divino", "vitória"],
-      "personagens": []
+      "parafrase": "Extinguiram o ímpeto do fogo, escaparam do fio da espada, receberam força em fraqueza, tornaram-se poderosos na guerra, e puseram em fuga exércitos de estrangeiros. 🔥⚔️",
+      "referencias": [
+        "Daniel 3:27",
+        "1 Samuel 17:49-51"
+      ],
+      "comentario": "Mais feitos milagrosos são listados. 'Extinguir o ímpeto do fogo' é uma referência direta aos três jovens no forno ardente. 'Tornaram-se poderosos em fraqueza' sugere a intervenção divina que supre a capacidade humana (exemplo: Sansão ou Davi contra Golias). A fé, neste contexto, é a fonte de uma capacidade que excede a natureza humana. 🌟",
+      "temas": [
+        "Resiliência",
+        "Transformação",
+        "Força Divina",
+        "Vitória"
+      ],
+      "personagens": [
+        "Heróis de Israel"
+      ]
     },
     "35": {
-      "parafrase": "As mulheres receberam pela ressurreição os seus mortos; e outros foram torturados, não aceitando o seu livramento, para alcançarem uma melhor ressurreição;
+      "parafrase": "Algumas mulheres receberam seus mortos de volta, ressuscitados pela ação divina, mas outros foram torturados, recusando-se a aceitar a libertação, para que pudessem alcançar uma ressurreição superior. ⚰️➡️🧍",
+      "referencias": [
+        "1 Reis 17:22-24",
+        "2 Reis 4:32-37",
+        "2 Macabeus 7:1-11"
+      ],
+      "comentario": "Este versículo introduz a dualidade do sofrimento: o livramento visível (ressurreição de mortos, como os exemplos de Elias e Eliseu) e o martírio sacrificial. A recusa em aceitar a libertação temporal ('libertação') demonstra uma fé orientada para a eternidade, antecipando uma 'melhor ressurreição'. Este conceito está intimamente ligado à teologia do martírio desenvolvida no período intertestamentário. 😇",
+      "temas": [
+        "Ressurreição",
+        "Martírio",
+        "Sacrifício",
+        "Fidelidade no Sofrimento"
+      ],
+      "personagens": [
+        "Mulheres fiéis"
+      ]
     },
     "36": {
-      "parafrase": "e outros experimentaram escárnios e açoites, e até prisões e cadeias.",
-      "referencias": [],
-      "comentario": "Alguns receberam seus mortos de volta pela fé, enquanto outros suportaram torturas, escárnios, açoites e prisões, buscando uma ressurreição superior.",
-      "temas": ["fé", "sofrimento", "perseguição", "ressurreição"],
-      "personagens": []
+      "parafrase": "Outros experimentaram o escárnio e o açoite, e ainda correntes e prisões; ⛓️",
+      "referencias": [
+        "Jeremias 20:2",
+        "2 Crônicas 16:10"
+      ],
+      "comentario": "A narrativa foca agora na perseguição sofrida pelos que mantiveram a fé, contrastando com os livramentos anteriores. 'Escárnio' (zombaria) e 'açoite' eram formas comuns de punição e humilhação pública aplicadas a profetas e dissidentes no antigo Israel e em contextos helenísticos. 😥",
+      "temas": [
+        "Perseguição",
+        "Aflição",
+        "Prisão"
+      ],
+      "personagens": [
+        "Perseguidos por sua fé"
+      ]
     },
     "37": {
-      "parafrase": "Foram apedrejados, serrados ao meio, tentados, mortos ao fio da espada; andaram vestidos de peles de ovelhas e de cabras, desamparados, aflitos e maltratados.",
-      "referencias": [],
-      "comentario": "Os heróis da fé suportaram diversas formas de perseguição e sofrimento, demonstrando sua fidelidade mesmo diante da morte.",
-      "temas": ["perseguição", "sofrimento", "fidelidade"],
-      "personagens": []
+      "parafrase": "Foram apedrejados, serrados ao meio, tentados com a morte pela espada; caminharam vestidos de peles de ovelhas e de cabras, passando necessidade, tribulação e maus-tratos, 🐑",
+      "referencias": [
+        "1 Reis 19:19-21",
+        "2 Reis 1:8 (referência a Elias)",
+        "Tradição sobre Isaías"
+      ],
+      "comentario": "Este versículo descreve os extremos do sofrimento físico. O apedrejamento (como em Zacarias, filho de Baraquias) e o corte ao meio (tradição sobre o profeta Isaías) ilustram a violência empregada contra os mensageiros da fé. O andar 'vestidos de peles' remete ao estilo de vida ascético de profetas como Elias, indicando rejeição dos confortos materiais. 🌬️",
+      "temas": [
+        "Tortura",
+        "Pobreza Voluntária",
+        "Profetismo Austero",
+        "Sofrimento Extremo"
+      ],
+      "personagens": [
+        "Mártires da Fé"
+      ]
     },
     "38": {
-      "parafrase": "(Dos quais o mundo não era digno), errantes pelos desertos e montes, e pelas covas e cavernas da terra.",
-      "referencias": [],
-      "comentario": "O mundo não era digno desses heróis da fé, que viveram como peregrinos, errantes e escondidos, demonstrando sua separação do mundo.",
-      "temas": ["indignidade do mundo", "peregrinação", "separação"],
-      "personagens": []
+      "parafrase": "Pois eram indignos de viver no deserto, vagando por ermos, cavernas e buracos na terra. 🏞️",
+      "referencias": [
+        "1 Reis 17:3",
+        "Jó 30:3-6"
+      ],
+      "comentario": "Aqueles que foram perseguidos eram considerados inadequados ou indignos pela sociedade contemporânea, sendo forçados a viver em condições desumanas e isoladas. O 'deserto' (eremos), cavernas e fendas da terra eram refúgios para os oprimidos e fiéis que rejeitavam a ordem vigente. Eles existiam à margem da civilização estabelecida. ⛰️",
+      "temas": [
+        "Marginalização",
+        "Refúgio",
+        "Exílio",
+        "Condições Adversas"
+      ],
+      "personagens": [
+        "Perseguidos"
+      ]
     },
     "39": {
-      "parafrase": "E todos estes, tendo recebido bom testemunho pela fé, não alcançaram a promessa,",
-      "referencias": [],
-      "comentario": "Todos esses heróis da fé, apesar de terem sido aprovados por sua fé, não viram o cumprimento pleno da promessa em vida.",
-      "temas": ["fé", "promessa", "testemunho"],
-      "personagens": []
+      "parafrase": "Apesar de todos esses, que tiveram seu testemunho confirmado pela fé, nenhum deles recebeu a plena concretização da promessa feita por Deus. ✅",
+      "referencias": [
+        "Gálatas 3:24",
+        "Hebreus 6:15"
+      ],
+      "comentario": "Este é um ponto crucial na argumentação do autor. Embora todos esses heróis tivessem fé e fossem validados por ela (testemunho confirmado), a plenitude da herança prometida (a Terra Prometida aperfeiçoada ou a consumação final) não foi alcançada por eles em sua vida terrena. A fé deles apontava para algo futuro e maior. ➡️",
+      "temas": [
+        "Promessa Inacabada",
+        "Testemunho de Fé",
+        "Antecipação Escatológica"
+      ],
+      "personagens": [
+        "Todos os fiéis do passado"
+      ]
     },
     "40": {
-      "parafrase": "provendo o Altíssimo alguma coisa melhor a nosso respeito, para que eles sem nós não fossem aperfeiçoados.",
-      "referencias": [],
-      "comentario": "O Altíssimo tinha um plano melhor, para que a perfeição fosse alcançada em conjunto, unindo os crentes do Antigo e do Novo Testamento.",
-      "temas": ["plano divino", "perfeição", "unidade"],
-      "personagens": ["Altíssimo"]
+      "parafrase": "Deus providenciou algo melhor para nós, garantindo que eles não atingissem a perfeição sem a nossa participação, pois a consumação completa só viria por meio do que se estabeleceu depois. 🎯",
+      "referencias": [
+        "Efésios 2:5-7",
+        "Hebreus 12:2"
+      ],
+      "comentario": "O autor conclui que o plano divino envolveu uma etapa intermediária. 'Algo melhor' refere-se ao cumprimento final da aliança, inaugurado pela figura que será apresentada a seguir (o Sumo Sacerdote celestial, Jesus). A perfeição (teleiotēs) não foi alcançada pelos antepassados porque o mediador definitivo ainda não havia completado seu sacrifício. A comunidade do autor (os ouvintes) e o mediador (Jesus) são necessários para a plena realização. 🤝",
+      "temas": [
+        "Plano Divino Progressivo",
+        "Mediador Superior",
+        "Perfeição Escatológica",
+        "Interconexão"
+      ],
+      "personagens": [
+        "Deus",
+        "O Mediador Futuro"
+      ]
     }
   }
 }
