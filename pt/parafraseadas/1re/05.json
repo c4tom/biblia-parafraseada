@@ -1,134 +1,308 @@
 {
   "livro": "1 Reis",
   "capitulo": 5,
-  "contexto_historico": "Com o reino de Salomão estabelecido e sua sabedoria reconhecida internacionalmente, ele agora se volta para o grande projeto de seu pai Davi: a construção do Templo do Senhor em Jerusalém. Este capítulo detalha a aliança de Salomão com Hirão, rei de Tiro, para obter os materiais e a mão de obra necessários para a construção, demonstrando a paz e a prosperidade do reino.",
-  "bloco_tematico": "Preparativos para a Construção do Templo",
+  "contexto_historico": "Após a consolidação do Reino de Israel sob Salomão e a construção do Templo em Jerusalém (Capítulo 4), inicia-se a fase de estabelecimento formal das relações com as nações vizinhas, notavelmente com Tiro. Este capítulo marca a transição da construção para o uso cerimonial do Templo, exigindo a logística e a colaboração internacional para a transferência da Arca da Aliança para seu lugar de repouso definitivo. É um momento de pico da glória política e religiosa de Israel, mas também prenuncia as complexidades de manter tais alianças. 👑🤝",
+  "bloco_tematico": "A Consagração Solene e a Glória da Arca no Templo 🕍🔥",
   "versiculos": {
     "1": {
-      "parafrase": "Hirão, rei de Tiro, enviou seus servos a Salomão, pois ouviu que ele havia sido ungido rei em lugar de seu pai. Pois Hirão sempre havia sido amigo de Davi.",
-      "referencias": ["2 Samuel 5:11", "1 Crônicas 14:1"],
-      "comentario": "A aliança entre Tiro e Israel, estabelecida com Davi, é renovada com Salomão. Hirão reconhece a legitimidade do novo rei e busca manter as boas relações, o que é crucial para o projeto do templo.",
-      "temas": ["aliança internacional", "reconhecimento", "diplomacia"],
-      "personagens": ["Hirão", "Salomão", "Davi"]
+      "parafrase": "Quando Hirão, o rei de Tiro, ouviu que Salomão havia finalmente sido coroado e estabelecido como o governante incontestável de Israel, ele ficou extremamente satisfeito. Hirão e Davi, o pai de Salomão, haviam mantido um laço de amizade sincera e duradoura ao longo dos anos, e agora ele via a promessa dessa aliança sendo cumprida no jovem rei. Então, Hirão enviou uma delegação de seus mensageiros até Salomão com uma mensagem de congratulações calorosas.",
+      "referencias": [
+        "2 Samuel 5:11",
+        "Salmos 72:17"
+      ],
+      "comentario": "O versículo estabelece o contexto diplomático. O termo hebraico para 'ouviu' (sham'a) implica uma recepção atenta da notícia. A relação entre Hirão e Davi (mencionada no versículo) era baseada em alianças políticas e comerciais, reforçadas por lealdade mútua (hesed).",
+      "temas": [
+        "Diplomacia",
+        "Reconhecimento de Reino",
+        "Aliança"
+      ],
+      "personagens": [
+        "Hirão",
+        "Salomão",
+        "Davi"
+      ]
     },
     "2": {
-      "parafrase": "Salomão enviou uma mensagem a Hirão, dizendo:",
-      "referencias": [],
-      "comentario": "Salomão toma a iniciativa de formalizar a cooperação para a construção do templo.",
-      "temas": ["iniciativa", "cooperação"],
-      "personagens": ["Salomão", "Hirão"]
+      "parafrase": "Salomão respondeu a Hirão, dizendo: 'Vocês sabem muito bem que meu pai, Davi, nunca conseguiu realizar o grande projeto de construir uma casa, um templo majestoso, dedicada ao nome do Senhor, nosso Deus. Isso ocorreu porque ele esteve envolvido em tantas batalhas e guerras constantes contra os inimigos ao redor. O Senhor o manteve ocupado, limpando a terra de todos os adversários, até que fossem subjugados.'",
+      "referencias": [
+        "1 Reis 4:25",
+        "1 Crônicas 22:8"
+      ],
+      "comentario": "Salomão usa a incapacidade de Davi (devido à guerra contínua) como justificativa para sua própria ascensão no projeto do Templo. Isso honra o legado de Davi enquanto explica a necessidade de uma era de paz para tal empreendimento monumental. A 'casa do Senhor' (Beit Yahweh) é o foco central da visão de Salomão.",
+      "temas": [
+        "O Templo",
+        "Legado de Davi",
+        "Paz e Guerra"
+      ],
+      "personagens": [
+        "Salomão",
+        "Davi",
+        "Senhor"
+      ]
     },
     "3": {
-      "parafrase": "'Você sabe que Davi, meu pai, não pôde construir uma casa para o nome do Senhor, seu Deus, por causa das guerras que o cercaram, até que o Senhor pôs seus inimigos debaixo de seus pés.'",
-      "referencias": ["2 Samuel 7:5-13", "1 Crônicas 22:7-8"],
-      "comentario": "Salomão lembra Hirão da razão pela qual Davi não pôde construir o templo: as constantes guerras. Ele atribui a paz atual à ação de Deus, que subjugou os inimigos.",
-      "temas": ["história", "paz", "providência divina"],
-      "personagens": ["Salomão", "Davi", "Deus"]
+      "parafrase": "Agora, contudo, o Senhor, meu Deus, finalmente me concedeu um período de tranquilidade e descanso em todas as minhas fronteiras. Não há mais oposição estrondosa nem perigos iminentes. Por isso, posso finalmente dedicar minha energia e recursos a erguer um edifício santo para o nome do Eterno, nosso Deus, exatamente como Ele havia prometido ao meu pai, Davi.",
+      "referencias": [
+        "Deuteronômio 12:10",
+        "2 Samuel 7:13"
+      ],
+      "comentario": "O 'descanso' (menuchah) é crucial. A paz externa é a condição 'sine qua non' para a construção do Templo, cumprindo a promessa feita a Davi em 2 Samuel 7. Isso demonstra a soberania de Deus em preparar o cenário histórico.",
+      "temas": [
+        "Paz Estabelecida",
+        "Promessa Divina",
+        "Condições para o Culto"
+      ],
+      "personagens": [
+        "Senhor",
+        "Davi"
+      ]
     },
     "4": {
-      "parafrase": "'Mas agora o Senhor, meu Deus, me deu descanso de todos os lados; não há adversário nem calamidade.'",
-      "referencias": [],
-      "comentario": "Salomão reconhece a paz e a estabilidade de seu reinado como um dom de Deus, o que lhe permite focar na construção do templo.",
-      "temas": ["paz", "descanso", "dom de Deus"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "Por este motivo, peço o seu auxílio, ó Hirão. Que seus homens, especialistas na manipulação e corte de madeira, sejam enviados para trabalhar comigo. A verdade é que não há ninguém entre meu povo que tenha a habilidade incomparável dos cedros do Líbano, os quais vocês tão bem conhecem.',",
+      "referencias": [
+        "Ezequiel 27:5",
+        "Cântico dos Cânticos 5:15"
+      ],
+      "comentario": "Salomão reconhece abertamente a superioridade técnica dos artesãos fenícios, especialmente em relação ao cedro do Líbano ('Erez' em hebraico), a madeira mais nobre para a construção da época. Isso mostra a humildade pragmática de Salomão.",
+      "temas": [
+        "Mão de Obra Especializada",
+        "Recursos Naturais",
+        "Reconhecimento de Habilidade"
+      ],
+      "personagens": [
+        "Hirão",
+        "Salomão"
+      ]
     },
     "5": {
-      "parafrase": "'Eis que pretendo construir uma casa para o nome do Senhor, meu Deus, como o Senhor falou a Davi, meu pai, dizendo: 'Seu filho, a quem eu porei em seu lugar em seu trono, ele edificará uma casa ao meu nome.''",
-      "referencias": ["2 Samuel 7:13"],
-      "comentario": "Salomão declara sua intenção de construir o templo, baseando-se na promessa divina feita a Davi. Ele se vê como o cumprimento dessa profecia.",
-      "temas": ["construção do templo", "cumprimento da profecia", "legado"],
-      "personagens": ["Salomão", "Deus", "Davi"]
+      "parafrase": "Salomão acrescentou: 'Em troca do trabalho de seus homens, eu lhes darei uma grande recompensa em suprimentos. Pagaremos o preço que for justo, com trigo e o melhor azeite de oliva, em quantidades que satisfarão a todos os seus desejos.'",
+      "referencias": [
+        "2 Crônicas 2:10",
+        "Oseias 2:21"
+      ],
+      "comentario": "Este versículo detalha o acordo econômico. A troca será feita com produtos essenciais (trigo e azeite), que eram a base da economia agrícola israelita, demonstrando que o intercâmbio será justo e substancial.",
+      "temas": [
+        "Comércio",
+        "Pagamento Justo",
+        "Sustento"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "6": {
-      "parafrase": "'Agora, pois, ordene que cortem para mim cedros do Líbano. Meus servos estarão com seus servos, e eu lhe pagarei o salário de seus servos, conforme tudo o que você disser. Pois você sabe que não há entre nós quem saiba cortar madeira como os sidônios.'",
-      "referencias": [],
-      "comentario": "Salomão solicita a Hirão madeira de cedro, um material valioso e durável, e a mão de obra especializada de Tiro, reconhecendo a superioridade dos sidônios na arte de cortar madeira. Ele oferece um pagamento justo, estabelecendo uma relação comercial.",
-      "temas": ["recursos", "mão de obra especializada", "comércio", "reconhecimento de habilidade"],
-      "personagens": ["Salomão", "Hirão"]
+      "parafrase": "Salomão, então, enviou a mensagem: 'Nós podemos arranjar um grande volume de madeira de cedro e pinho, mas eu preciso da sua experiência. Nossos artesãos não têm o conhecimento profundo que os habitantes de Tiro possuem para trabalhar com essas madeiras nobres.'",
+      "referencias": [
+        "Isaías 44:14",
+        "Jó 28:6"
+      ],
+      "comentario": "Repetição estratégica do pedido, enfatizando a falta de conhecimento especializado ('binyah' - entendimento/discernimento) entre os israelitas para o trabalho especializado com madeiras de construção de elite.",
+      "temas": [
+        "Necessidade de Especialização",
+        "Recursos Materiais",
+        "Interdependência"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "7": {
-      "parafrase": "Quando Hirão ouviu as palavras de Salomão, alegrou-se grandemente e disse: 'Bendito seja o Senhor hoje, que deu a Davi um filho sábio para reinar sobre este grande povo!'",
-      "referencias": [],
-      "comentario": "Hirão reconhece a sabedoria de Salomão e louva a Deus por ter dado um sucessor tão capaz a Davi. Sua reação demonstra a reputação de Salomão e a bênção de Deus sobre ele.",
-      "temas": ["alegria", "reconhecimento da sabedoria", "bênção divina"],
-      "personagens": ["Hirão", "Deus", "Salomão", "Davi"]
+      "parafrase": "Quando Hirão recebeu a proposta de Salomão, ficou exultante de alegria e respondeu: 'Bendito seja o Senhor neste dia! Ele deu a Davi um filho sábio para governar sobre este grande povo!'",
+      "referencias": [
+        "Lucas 1:68",
+        "Provérbios 10:1"
+      ],
+      "comentario": "A alegria de Hirão ('simchah gedolah') não é apenas pelo negócio, mas pelo reconhecimento da sabedoria de Salomão, vista como um sinal da bênção contínua de Deus sobre a linhagem de Davi.",
+      "temas": [
+        "Alegria",
+        "Sabedoria Divina",
+        "Bênção"
+      ],
+      "personagens": [
+        "Hirão"
+      ]
     },
     "8": {
-      "parafrase": "Hirão enviou uma mensagem a Salomão, dizendo: 'Ouvi o que você me enviou. Farei tudo o que você deseja em relação à madeira de cedro e à madeira de cipreste.'",
-      "referencias": [],
-      "comentario": "Hirão aceita o pedido de Salomão, prometendo fornecer os materiais necessários para a construção do templo.",
-      "temas": ["aceitação", "provisão"],
-      "personagens": ["Hirão", "Salomão"]
+      "parafrase": "Hirão continuou sua mensagem: 'Estou pronto para atender a tudo o que me pediram. Eu providenciarei toda a madeira de cedro e de pinho que vocês desejarem, trazendo-a por mar até o local que vocês indicarem. Eu farei isso, e vocês poderão então realizar o pagamento ao meu povo no tempo que for combinado.'",
+      "referencias": [
+        "Salmos 121:8",
+        "Atos 21:3"
+      ],
+      "comentario": "O termo 'por mar' (hayyamah) indica a logística fenícia, utilizando sua superioridade naval para transportar os pesados troncos até a costa de Israel (possivelmente até Jope ou Cesarea Marítima).",
+      "temas": [
+        "Logística Marítima",
+        "Execução de Acordos",
+        "Transporte"
+      ],
+      "personagens": [
+        "Hirão"
+      ]
     },
     "9": {
-      "parafrase": "'Meus servos os trarão do Líbano para o mar, e eu os farei flutuar em jangadas pelo mar até o lugar que você me indicar. Ali eu os desamarrarei, e você os levará.'",
-      "referencias": [],
-      "comentario": "Hirão detalha o método de transporte da madeira, usando jangadas pelo mar, o que era uma forma eficiente de transportar grandes quantidades de madeira.",
-      "temas": ["logística", "transporte"],
-      "personagens": ["Hirão"]
+      "parafrase": "Assim, os homens de Hirão começaram a cortar e preparar as árvores gigantes do Líbano. Eles derrubaram os cedros e os pinheiros, enviando-os por via marítima, amarrados em grandes jangadas, até o porto combinado com o rei Salomão.",
+      "referencias": [
+        "Isaías 14:8",
+        "Salmos 29:5"
+      ],
+      "comentario": "A cena descreve o início da extração da matéria-prima. A prática de amarrar troncos em jangadas para transporte marítimo era comum na região, otimizando a capacidade de carga.",
+      "temas": [
+        "Início da Construção",
+        "Logística Fenícia",
+        "Mata Atlântica"
+      ],
+      "personagens": [
+        "Homens de Hirão"
+      ]
     },
     "10": {
-      "parafrase": "'E você, por sua vez, fará o que eu desejo, provendo alimento para a minha casa.'",
-      "referencias": [],
-      "comentario": "Hirão pede provisão de alimento em troca da madeira, estabelecendo os termos do acordo comercial.",
-      "temas": ["acordo comercial", "provisão"],
-      "personagens": ["Hirão", "Salomão"]
+      "parafrase": "Salomão, em troca, forneceu a Hirão vinte mil medidas de trigo para a manutenção de seus trabalhadores, e vinte mil medidas do mais puro azeite de oliva anualmente, como seu pagamento contratual.",
+      "referencias": [
+        "2 Crônicas 2:15",
+        "Joel 2:24"
+      ],
+      "comentario": "O detalhamento das quantidades (vinte mil medidas, provavelmente cors ou bat) mostra a escala colossal do empreendimento e a riqueza de Salomão, capaz de subsidiar o sustento de milhares de trabalhadores estrangeiros por anos.",
+      "temas": [
+        "Escala da Obra",
+        "Subvenção",
+        "Riqueza Real"
+      ],
+      "personagens": [
+        "Salomão",
+        "Hirão"
+      ]
     },
     "11": {
-      "parafrase": "Assim, Hirão deu a Salomão toda a madeira de cedro e toda a madeira de cipreste que ele desejava.",
-      "referencias": [],
-      "comentario": "Hirão cumpre sua parte do acordo, fornecendo a Salomão a madeira necessária.",
-      "temas": ["cumprimento do acordo", "provisão"],
-      "personagens": ["Hirão", "Salomão"]
+      "parafrase": "O rei Salomão continuou a fornecer suprimentos para a cidade de Tiro e para a corte de Hirão, dando a eles uma quantia anual fixa de azeite, conforme o acordo estabelecido entre os dois reis.",
+      "referencias": [
+        "Provérbios 21:3",
+        "Gênesis 45:18"
+      ],
+      "comentario": "Isso solidifica a natureza contínua da relação comercial. O foco no azeite como pagamento recorrente destaca sua importância como produto comercial de alto valor naquela época.",
+      "temas": [
+        "Acordo Recorrente",
+        "Comércio Internacional",
+        "Fornecimento Contínuo"
+      ],
+      "personagens": [
+        "Salomão",
+        "Hirão"
+      ]
     },
     "12": {
-      "parafrase": "E Salomão deu a Hirão vinte mil coros de trigo como alimento para sua casa e vinte coros de azeite puro. Isso Salomão dava a Hirão ano após ano.",
-      "referencias": [],
-      "comentario": "Salomão cumpre sua parte do acordo, provendo alimento para a casa de Hirão. A quantidade de alimento demonstra a riqueza de Salomão e a escala da operação.",
-      "temas": ["cumprimento do acordo", "provisão", "riqueza"],
-      "personagens": ["Salomão", "Hirão"]
+      "parafrase": "E o Senhor deu sabedoria a Salomão, tal como havia prometido. Por causa disso, houve paz duradoura entre Hirão e Salomão, e eles mantiveram um pacto de aliança mútua para sempre.",
+      "referencias": [
+        "1 Reis 3:12",
+        "Provérbios 16:7"
+      ],
+      "comentario": "Esta é uma declaração teológica central: a paz (shalom) e a aliança (berith) são resultados diretos da sabedoria concedida por Deus a Salomão. A sabedoria gera estabilidade política e prosperidade.",
+      "temas": [
+        "Sabedoria de Salomão",
+        "Paz Duradoura",
+        "Aliança Divinamente Ordenada"
+      ],
+      "personagens": [
+        "Senhor",
+        "Salomão",
+        "Hirão"
+      ]
     },
     "13": {
-      "parafrase": "O rei Salomão impôs um trabalho forçado a todo o Israel; e o trabalho forçado era de trinta mil homens.",
-      "referencias": [],
-      "comentario": "Salomão utiliza trabalho forçado para a construção do templo, uma prática comum na época, mas que mais tarde seria uma fonte de descontentamento em Israel.",
-      "temas": ["trabalho forçado", "construção"],
-      "personagens": ["Salomão", "Israel"]
+      "parafrase": "O rei Salomão convocou um grande contingente de trabalho forçado, selecionando trinta mil homens de todo o Israel para serem seus trabalhadores braçais em turnos.",
+      "referencias": [
+        "Josué 13:23",
+        "Êxodo 1:11"
+      ],
+      "comentario": "Aqui começa a mudança de tom. O termo hebraico 'mas' (מַס) frequentemente se refere a um tributo ou trabalho compulsório. Embora o trabalho fosse para um propósito sagrado (o Templo), ele foi imposto a uma grande parte da população, prenunciando tensões futuras.",
+      "temas": [
+        "Trabalho Compulsório",
+        "Mobilização Nacional",
+        "Administração Real"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "14": {
-      "parafrase": "Ele os enviou ao Líbano, dez mil por mês, em turnos. Um mês eles estavam no Líbano, e dois meses em casa. Adonirão era o chefe do trabalho forçado.",
-      "referencias": [],
-      "comentario": "A organização do trabalho forçado é detalhada, mostrando a eficiência da administração de Salomão. O sistema de turnos permitia que os trabalhadores tivessem tempo em casa.",
-      "temas": ["organização", "eficiência", "trabalho forçado"],
-      "personagens": ["Salomão", "Adonirão"]
+      "parafrase": "Ele os enviava para o Líbano em rodízio: dez mil homens a cada mês. Eles passavam um mês trabalhando na floresta, cortando madeira, e depois dois meses retornavam para suas casas, em Gibeal e em suas próprias terras.",
+      "referencias": [
+        "Josué 18:25",
+        "Neemias 4:23"
+      ],
+      "comentario": "O sistema de rotação era projetado para minimizar o impacto da ausência prolongada, permitindo que os trabalhadores mantivessem suas obrigações agrícolas. O serviço era de um mês no Líbano, seguido de dois meses de descanso/trabalho local.",
+      "temas": [
+        "Sistema de Rodízio",
+        "Logística de Trabalho",
+        "Administração de Mão de Obra"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "15": {
-      "parafrase": "Salomão tinha setenta mil carregadores e oitenta mil cortadores de pedra nas montanhas,",
-      "referencias": [],
-      "comentario": "A vasta quantidade de mão de obra envolvida na construção do templo demonstra a magnitude do projeto e a capacidade de Salomão de mobilizar recursos.",
-      "temas": ["mão de obra", "magnitude do projeto"],
-      "personagens": ["Salomão"]
+      "parafrase": "Adonirão era o supervisor-chefe de todo este trabalho forçado, o responsável pela coleta dos tributos e pela gestão dos trinta mil homens designados.",
+      "referencias": [
+        "1 Reis 4:6",
+        "1 Reis 12:18"
+      ],
+      "comentario": "Adonirão (ou Adoram) é apresentado pela primeira vez como o superintendente de obras públicas. Sua importância administrativa era tal que ele é listado também como um dos principais oficiais de Salomão no capítulo 4.",
+      "temas": [
+        "Supervisão",
+        "Administração de Pessoal",
+        "Cargos Oficiais"
+      ],
+      "personagens": [
+        "Adonirão"
+      ]
     },
     "16": {
-      "parafrase": "além dos três mil e trezentos capatazes que supervisionavam o trabalho e que estavam sobre o povo que trabalhava na obra.",
-      "referencias": [],
-      "comentario": "A estrutura de supervisão é detalhada, mostrando a organização e o controle sobre a força de trabalho.",
-      "temas": ["supervisão", "organização"],
-      "personagens": ["Salomão"]
+      "parafrase": "Além deste grupo principal, Salomão tinha outros três mil e setecentos capatazes designados para supervisionar os trabalhadores que estavam nas pedreiras, cortando as enormes pedras brutas, e para prepararem os blocos de madeira de cedro e as outras madeiras destinadas à construção.",
+      "referencias": [
+        "2 Crônicas 2:18",
+        "Malaquias 3:5"
+      ],
+      "comentario": "Este versículo detalha a estrutura de supervisão intermediária (capatazes). A menção de pedreiras ('batsal') indica que a obra envolvia não apenas madeira, mas também uma complexa alvenaria, exigindo mão de obra qualificada e não qualificada.",
+      "temas": [
+        "Estrutura de Comando",
+        "Extração de Pedra",
+        "Engenharia Civil"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "17": {
-      "parafrase": "O rei ordenou que trouxessem pedras grandes, pedras preciosas, pedras lavradas para o alicerce da casa.",
-      "referencias": [],
-      "comentario": "A qualidade dos materiais usados na construção do templo é enfatizada, mostrando a grandiosidade do projeto.",
-      "temas": ["materiais", "grandiosidade"],
-      "personagens": ["Salomão"]
+      "parafrase": "Por ordem do rei, eles iam até as pedreiras e traziam blocos de pedra enormes, bem cortados e lavrados, para preparar a fundação do Templo com pedras de grande valor.",
+      "referencias": [
+        "Mateus 7:24",
+        "1 Pedro 2:5"
+      ],
+      "comentario": "O foco na qualidade ('pedras preciosas/grandes', 'bem lavradas') mostra que o Templo não seria apenas funcional, mas magnificente. A preparação da fundação era a etapa mais crítica da engenharia.",
+      "temas": [
+        "Qualidade da Construção",
+        "Fundação Sólida",
+        "Alvenaria"
+      ],
+      "personagens": [
+        "Rei"
+      ]
     },
     "18": {
-      "parafrase": "E os construtores de Salomão e os construtores de Hirão, e os giblitas, os lavraram, e prepararam a madeira e as pedras para edificar a casa.",
-      "referencias": [],
-      "comentario": "A cooperação entre os trabalhadores de Salomão e Hirão, incluindo os giblitas (construtores de Gebal, conhecidos por sua habilidade), demonstra a colaboração internacional no projeto.",
-      "temas": ["colaboração", "habilidade", "construção"],
-      "personagens": ["Construtores de Salomão", "Construtores de Hirão", "Giblitas"]
+      "parafrase": "Assim, artesãos do reino de Israel e trabalhadores de Tiro, sob a direção dos capatazes de Salomão, trabalhavam juntos, fornecendo a matéria-prima necessária, preparada com precisão e habilidade, para edificar a grande e sagrada Casa do Senhor.",
+      "referencias": [
+        "Eclesiastes 3:13",
+        "Efésios 2:21"
+      ],
+      "comentario": "O versículo final deste trecho resume a colaboração interétnica (israelitas e fenícios) e a precisão exigida ('tashith' - preparar/alinhar) para o cumprimento do plano divino de Salomão. A cooperação, embora baseada em obrigações, era eficaz.",
+      "temas": [
+        "Colaboração",
+        "Execução do Projeto",
+        "Santidade da Obra"
+      ],
+      "personagens": [
+        "Artesãos de Israel",
+        "Trabalhadores de Tiro",
+        "Capatazes de Salomão"
+      ]
     }
   }
 }

@@ -1,113 +1,265 @@
 {
   "livro": "Atos",
   "capitulo": 6,
-  "contexto_historico": "Com o rápido crescimento da igreja em Jerusalém, surgem desafios internos. Este capítulo descreve a primeira crise organizacional da igreja, relacionada à distribuição de alimentos para as viúvas. A solução para essa crise leva à instituição dos sete diáconos, liberando os apóstolos para se dedicarem à oração e ao ministério da Palavra. O capítulo também introduz Estêvão, um dos sete, que se destaca por sua fé e sabedoria, mas que logo enfrenta forte oposição.",
-  "bloco_tematico": "A Escolha dos Sete e a Oposição a Estêvão",
+  "contexto_historico": "A igreja primitiva em Jerusalém enfrenta um desafio interno significativo: a negligência das viúvas de origem helenística (gregas) na distribuição diária de alimentos (o sustento). Isso gerou descontentamento e murmúrios entre elas, ameaçando a unidade da comunidade e o testemunho público. Os apóstolos, focados na oração e na pregação da Palavra, reconhecem a necessidade de delegar responsabilidades administrativas para manter a coesão e a justiça social, priorizando a essência de seu ministério. Este momento é crucial para a estruturação organizacional da igreja, estabelecendo um precedente para o desenvolvimento de ministérios especializados.",
+  "bloco_tematico": "Organização e Crescimento: A Escolha dos Sete e a Consolidação da Fé 🏛️🤝",
   "versiculos": {
     "1": {
-      "parafrase": "Naqueles dias, crescendo o número de discípulos, houve uma queixa dos judeus de fala grega (helenistas) contra os judeus de fala hebraica (hebreus), porque as suas viúvas estavam sendo negligenciadas na distribuição diária de alimentos.",
-      "referencias": ["Atos 2:45", "Atos 4:35"],
-      "comentario": "O crescimento traz desafios. A igreja, composta por judeus de diferentes origens culturais e linguísticas, enfrentou um problema prático de discriminação. As viúvas, uma classe vulnerável, eram dependentes da caridade da comunidade. A queixa dos helenistas (judeus que falavam grego e tinham uma cultura mais helenizada) contra os hebreus (judeus de fala aramaica/hebraica e mais tradicionais) revela uma tensão cultural dentro da igreja.",
-      "temas": ["crescimento da Igreja", "conflito cultural", "cuidado com as viúvas", "justiça social"],
-      "personagens": ["discípulos", "viúvas", "helenistas", "hebreus"]
+      "parafrase": "Naqueles dias, com o crescimento acelerado da comunidade de seguidores de Jesus, surgiu um murmúrio de insatisfação entre os judeus de língua grega (os helenistas). O motivo era prático e doloroso: as viúvas, que dependiam da distribuição diária de alimentos e assistência da igreja, estavam sendo negligenciadas ou não recebiam sua parte justa no cuidado, em comparação com as viúvas de origem hebraica. O coração da comunidade, que deveria ser um modelo de justiça e amor mútuo, estava mostrando uma falha estrutural grave.",
+      "referencias": [
+        "Romanos 12:13",
+        "Tiago 1:27"
+      ],
+      "comentario": "A palavra grega para a queixa é 'goggysmos' (murmúrio/reclamação). Isso indica uma insatisfação que estava sendo expressa, mas talvez não de forma oficial. O problema não era teológico, mas logístico e social: a distribuição ('diakonia') de pão. Aparentemente, o zelo inicial para cuidar de todos não conseguiu acompanhar a rápida expansão do grupo, expondo uma falha na administração dos recursos. A distinção étnica/linguística (helenistas vs. hebreus) estava gerando uma crise de equidade.",
+      "temas": [
+        "Administração Eclesiástica",
+        "Discriminação e Equidade",
+        "Serviço às Viúvas"
+      ],
+      "personagens": [
+        "Helenistas",
+        "Viúvas"
+      ]
     },
     "2": {
-      "parafrase": "Então os Doze reuniram todos os discípulos e disseram: 'Não é certo que nós, apóstolos, negligenciemos o ministério da palavra de Deus para servir às mesas'.",
-      "referencias": ["Atos 2:42"],
-      "comentario": "Os apóstolos reconhecem a legitimidade da queixa e a importância do problema, mas também discernem a prioridade de seu próprio chamado. O serviço às mesas, embora importante, não deveria desviar os apóstolos de sua principal responsabilidade: a oração e a pregação da Palavra.",
-      "temas": ["prioridades ministeriais", "ministério da Palavra", "oração", "liderança"],
-      "personagens": ["apóstolos", "discípulos"]
+      "parafrase": "Diante dessa tensão crescente, os Doze Apóstolos convocaram a assembleia de todos os discípulos. Eles reconheceram que era imprudente e inadequado que eles, os pilares da pregação e da oração, se distraíssem com a logística da distribuição de alimentos. O foco principal da liderança não poderia ser desviado da Palavra de Deus e da oração, sob pena de comprometer a missão principal da Igreja.",
+      "referencias": [
+        "Mateus 6:33",
+        "1 Timóteo 3:1-7"
+      ],
+      "comentario": "Os Apóstolos demonstram sabedoria ao reconhecer seus limites e prioridades. O termo grego para 'deixar de lado' ou 'abandonar' o serviço de mesa é 'afistēmi' (afastar-se). Eles definem claramente o papel primário da liderança apostólica: a dedicação total ao 'kērygma' (proclamação) e à 'proseuchē' (oração fervorosa), que são os pilares da expansão do Evangelho.",
+      "temas": [
+        "Prioridades Ministeriais",
+        "Delegação de Tarefas",
+        "Liderança Apostólica"
+      ],
+      "personagens": [
+        "Os Doze Apóstolos",
+        "Discípulos"
+      ]
     },
     "3": {
-      "parafrase": "'Irmãos, escolham entre vocês sete homens de boa reputação, cheios do Espírito e de sabedoria, para que encarreguemos essa tarefa a eles'.",
-      "referencias": ["Deuteronômio 1:13", "1 Timóteo 3:8-13"],
-      "comentario": "A solução proposta pelos apóstolos é a delegação de responsabilidades. Os critérios para a escolha desses sete homens são espirituais e de caráter: boa reputação, cheios do Espírito e de sabedoria. Isso mostra que o serviço prático na igreja não é menos espiritual do que o ministério da Palavra.",
-      "temas": ["delegação", "qualificações para o serviço", "Espírito Santo", "sabedoria"],
-      "personagens": ["apóstolos", "discípulos"]
+      "parafrase": "Portanto, irmãos, peço que vocês observem bem quem escolheremos para esta tarefa crucial. Procurem entre vocês sete homens, conhecidos por sua sabedoria, integridade e maturidade espiritual. Eles devem ser pessoas sobre as quais todos possam concordar, homens que sejam totalmente cheios do Espírito Santo e que demonstrem ter uma mente clara (sabedoria) para lidar com questões administrativas delicadas como esta.",
+      "referencias": [
+        "Provérbios 3:5-6",
+        "Números 11:17"
+      ],
+      "comentario": "A escolha não era arbitrária, mas baseada em critérios espirituais e de caráter. O requisito de serem 'cheios do Espírito' (plēreis Pneumatos) era fundamental, pois a administração justa exige mais do que competência humana. O termo 'testemunho' (bom renome) e 'sabedoria' (sophia) eram essenciais para garantir que a distribuição fosse vista como imparcial e guiada por Deus.",
+      "temas": [
+        "Escolha de Líderes",
+        "Integridade",
+        "Sabedoria Prática"
+      ],
+      "personagens": [
+        "Irmãos da Igreja"
+      ]
     },
     "4": {
-      "parafrase": "'E nós nos dedicaremos à oração e ao ministério da palavra'.",
-      "referencias": ["Romanos 1:9", "Colossenses 1:9"],
-      "comentario": "Os apóstolos reafirmam seu foco principal. A oração e o ministério da Palavra são as duas funções essenciais para a liderança espiritual da igreja. A oração é a fonte do poder, e a Palavra é o conteúdo da mensagem.",
-      "temas": ["prioridades ministeriais", "oração", "ministério da Palavra"],
-      "personagens": ["apóstolos"]
+      "parafrase": "Quanto a nós, os Apóstolos, nos dedicaremos integralmente à missão de proclamar a mensagem de Deus e de ensinar com autoridade, que é a nossa verdadeira vocação e o nosso serviço principal.",
+      "referencias": [
+        "Marcos 16:15",
+        "1 Coríntios 1:17"
+      ],
+      "comentario": "Reforça a divisão de trabalho. Os Apóstolos se reservam para o 'kērygma' (pregação pública) e o 'didachē' (ensinamento doutrinário). Isso estabelece um precedente teológico importante: o serviço espiritual e a administração temporal (diakonia) são funções distintas, embora complementares, dentro do corpo de Cristo. Uma função não é mais importante que a outra, mas são diferentes em sua execução.",
+      "temas": [
+        "Separação de Funções",
+        "Evangelização",
+        "Ensino"
+      ],
+      "personagens": [
+        "Apóstolos"
+      ]
     },
     "5": {
-      "parafrase": "A proposta agradou a toda a assembleia. Então escolheram Estêvão, homem cheio de fé e do Espírito Santo; também Filipe, Prócoro, Nicanor, Timão, Parmenas e Nicolau, um convertido ao judaísmo de Antioquia.",
-      "referencias": ["Atos 11:24", "Atos 8:5"],
-      "comentario": "A escolha dos sete é feita pela comunidade, demonstrando um modelo de liderança participativa. É notável que todos os sete nomes são gregos, sugerindo que eles foram escolhidos da comunidade helenista para resolver a queixa dos helenistas, mostrando sensibilidade cultural e justiça.",
-      "temas": ["liderança participativa", "sensibilidade cultural", "Espírito Santo", "fé"],
-      "personagens": ["Estêvão", "Filipe", "Prócoro", "Nicanor", "Timão", "Parmenas", "Nicolau"]
+      "parafrase": "A sugestão foi recebida com grande entusiasmo por toda a congregação. Eles concordaram em uníssono e, em seguida, escolheram cuidadosamente sete homens cheios de fé e do Espírito Santo: Estêvão, um homem de profunda convicção; Filipe, conhecido por sua oratória; Prócoro; Nicanor; Timão; Pármenas, que tinha um coração dedicado; e, por último, mas não menos importante, Nicolau, um prosélito vindo da cidade de Antioquia, que havia abraçado a fé judaica antes de se tornar cristão.",
+      "referencias": [
+        "Atos 11:22",
+        "Romanos 10:10"
+      ],
+      "comentario": "O fato de um dos eleitos, Nicolau, ser um prosélito (alguém que se converteu ao Judaísmo e depois ao Cristianismo) é significativo. Isso demonstra que a resolução do problema da divisão étnica foi bem-sucedida, pois o grupo escolhido incluía tanto nomes de origem grega quanto nomes de origem hebraica/grega, mostrando a inclusão de estrangeiros e ex-judeus na liderança.",
+      "temas": [
+        "Unidade na Igreja",
+        "Fé e Espírito Santo",
+        "Inclusão de Prosélitos"
+      ],
+      "personagens": [
+        "Estêvão",
+        "Filipe",
+        "Prócoro",
+        "Nicanor",
+        "Timão",
+        "Pármenas",
+        "Nicolau"
+      ]
     },
     "6": {
-      "parafrase": "Estes foram apresentados aos apóstolos, que oraram e lhes impuseram as mãos.",
-      "referencias": ["Atos 8:17", "1 Timóteo 4:14"],
-      "comentario": "A imposição de mãos era um ato de comissionamento e reconhecimento público, transferindo autoridade e bênção para o serviço. A oração acompanhava o ato, buscando a capacitação divina para a tarefa.",
-      "temas": ["comissionamento", "imposição de mãos", "oração", "autoridade"],
-      "personagens": ["apóstolos", "sete diáconos"]
+      "parafrase": "Esses sete homens foram então apresentados formalmente à liderança apostólica. Os Apóstolos impuseram as mãos sobre eles como um sinal visível de reconhecimento público, orando fervorosamente para que Deus lhes concedesse a autoridade e a unção necessárias para desempenhar esse novo e importante ministério de serviço.",
+      "referencias": [
+        "1 Timóteo 4:14",
+        "Números 27:18-23"
+      ],
+      "comentario": "A imposição de mãos (cheirotonia) é um ato cerimonial que significa a transferência ou a conferência de autoridade e a bênção divina para uma função específica. Era um ato de comissionamento oficial da nova função de 'diákonos' (servo/ministro). A oração pedia capacitação divina para a tarefa de serviço prático.",
+      "temas": [
+        "Ordenação (Comissionamento)",
+        "Imposição de Mãos",
+        "Ministério de Serviço"
+      ],
+      "personagens": [
+        "Apóstolos",
+        "Sete Diáconos"
+      ]
     },
     "7": {
-      "parafrase": "Assim, a palavra de Deus se espalhava. O número de discípulos em Jerusalém crescia cada vez mais, e grande quantidade de sacerdotes obedecia à fé.",
-      "referencias": ["Atos 12:24", "Atos 19:20"],
-      "comentario": "O resultado da boa organização e da dedicação dos apóstolos à Palavra foi um crescimento ainda maior da igreja. É notável que até mesmo um grande número de sacerdotes, que antes eram opositores, agora estavam se convertendo, mostrando o poder transformador do evangelho.",
-      "temas": ["crescimento da Igreja", "eficácia da Palavra", "conversão", "poder do evangelho"],
-      "personagens": ["sacerdotes"]
+      "parafrase": "Com essa medida organizacional tomada, a palavra de Deus, que era a essência da missão, continuou a crescer em poder e influência. O número de seguidores em Jerusalém se multiplicava dramaticamente, e até mesmo um grande contingente de sacerdotes da velha guarda, que antes se opunham veementemente ao Messias, finalmente rendeu-se e aceitou a fé em Jesus.",
+      "referencias": [
+        "Atos 2:47",
+        "2 Timóteo 2:9"
+      ],
+      "comentario": "Este versículo é crucial: a resolução do conflito interno (a disputa da mesa) removeu um obstáculo invisível, permitindo que a pregação fosse ainda mais eficaz. O crescimento ('eplēthyneto ho logos') não era apenas em número de convertidos, mas em poder de penetração. O fato de 'muitos sacerdotes' obedecerem ao evangelho indica que a credibilidade e a força da comunidade estavam crescendo, alcançando até mesmo as estruturas religiosas mais estabelecidas.",
+      "temas": [
+        "Crescimento da Igreja",
+        "Poder da Palavra",
+        "Conversão de Sacerdotes"
+      ],
+      "personagens": [
+        "Sacerdotes"
+      ]
     },
     "8": {
-      "parafrase": "Estêvão, homem cheio da graça e do poder de Deus, realizava grandes maravilhas e sinais entre o povo.",
-      "referencias": ["Atos 7:55", "Atos 5:12"],
-      "comentario": "Estêvão, um dos sete escolhidos para o serviço prático, é destacado por sua capacitação espiritual. Ele não apenas servia às mesas, mas também operava milagres, demonstrando que o Espírito Santo capacita para todas as formas de ministério.",
-      "temas": ["graça", "poder de Deus", "sinais e maravilhas", "ministério"],
-      "personagens": ["Estêvão"]
+      "parafrase": "Estêvão, que havia sido escolhido, era um homem verdadeiramente notável. Dotado de uma fé inabalável e de um poder extraordinário, ele realizava grandes prodígios e sinais milagrosos entre o povo, demonstrando a autenticidade do poder de Deus em sua vida.",
+      "referencias": [
+        "Atos 7:55",
+        "Hebreus 2:4"
+      ],
+      "comentario": "Embora escolhido para servir as mesas, o Espírito capacitou Estêvão para ir além, cumprindo o papel de um pregador poderoso. O termo 'prodígios' (dynameis) refere-se a atos de poder sobrenatural, confirmando sua liderança ungida. Ele se torna um protótipo do diácono que prega com poder.",
+      "temas": [
+        "Milagres e Sinais",
+        "Capacitação do Espírito",
+        "Ministério de Estêvão"
+      ],
+      "personagens": [
+        "Estêvão"
+      ]
     },
     "9": {
-      "parafrase": "Contudo, alguns membros da Sinagoga dos Libertos (que eram judeus de Cirene e Alexandria), bem como de outras sinagogas da Cilícia e da província da Ásia, levantaram-se e começaram a discutir com Estêvão.",
-      "referencias": ["Atos 23:34"],
-      "comentario": "A ousadia e o poder de Estêvão provocam oposição. A Sinagoga dos Libertos era composta por judeus que haviam sido escravos e foram libertados, muitos deles de fora de Israel. Eles eram zelosos por sua fé e não toleravam o que consideravam heresia.",
-      "temas": ["oposição religiosa", "discussão", "zelo"],
-      "personagens": ["membros da Sinagoga dos Libertos", "Estêvão"]
+      "parafrase": "Contudo, não eram apenas os membros da comunidade que testemunhavam esses atos. Surgiram opositores ferrenhos: membros da sinagoga conhecida como a Sinagoga dos Libertos — composta por antigos escravos judeus libertados que retornaram a Jerusalém — e também indivíduos das cidades da Cirene e Alexandria, e outros da Cilícia e da província da Ásia. Eles confrontaram Estêvão com veemência.",
+      "referencias": [
+        "Atos 2:9-11",
+        "Romanos 2:28-29"
+      ],
+      "comentario": "O conflito se desloca da administração interna para o debate público. A menção específica dos 'Libertos' é importante, pois eram judeus da diáspora que haviam conhecido a vida sob opressão, mas agora estavam resistindo à nova mensagem. Os locais mencionados (Cirene, Alexandria, Cilícia, Ásia) mostram que Estêvão estava engajando as populações mais cosmopolitas e educadas da cidade.",
+      "temas": [
+        "Oposição Religiosa",
+        "Debate Teológico",
+        "Diáspora Judaica"
+      ],
+      "personagens": [
+        "Libertos",
+        "Cireneus",
+        "Alexandrinos",
+        "Cilicianos",
+        "Asiáticos"
+      ]
     },
     "10": {
-      "parafrase": "Mas eles não conseguiam resistir à sabedoria e ao Espírito com que ele falava.",
-      "referencias": ["Lucas 21:15", "Isaías 50:4"],
-      "comentario": "A sabedoria de Estêvão não era meramente intelectual, mas uma sabedoria capacitada pelo Espírito Santo. Seus oponentes não podiam refutar seus argumentos, o que os levou a recorrer a táticas desonestas.",
-      "temas": ["sabedoria divina", "Espírito Santo", "eloquência", "invencibilidade"],
-      "personagens": ["Estêvão"]
+      "parafrase": "Entretanto, por mais que tentassem debater com ele, esbarravam em uma muralha: eles simplesmente não conseguiam igualar a sabedoria e a inspiração divina com as quais Estêvão respondia a cada argumento. A lógica e o poder do Espírito em sua boca eram irrefutáveis.",
+      "referencias": [
+        "Lucas 21:15",
+        "Miquéias 7:16"
+      ],
+      "comentario": "A derrota dos oponentes não se deu por retórica humana superior, mas pela 'sophia' (sabedoria) dada pelo Espírito. Isso ecoa a promessa de Jesus em Lucas de que o Espírito falaria por eles. A incapacidade dos debatedores em refutar Estêvão é o que os leva à violência, como veremos a seguir.",
+      "temas": [
+        "Inerrância Espiritual",
+        "Sabedoria Divina",
+        "Confronto Intelectual"
+      ],
+      "personagens": [
+        "Estêvão",
+        "Opositores"
+      ]
     },
     "11": {
-      "parafrase": "Então subornaram alguns homens para dizerem: 'Ouvimos Estêvão blasfemar contra Moisés e contra Deus'.",
-      "referencias": ["Mateus 26:59-60"],
-      "comentario": "Incapazes de vencer Estêvão em um debate justo, seus oponentes recorrem a falsas acusações. A blasfêmia contra Moisés (a Lei) e contra Deus era a acusação mais grave que poderiam fazer a um judeu.",
-      "temas": ["falsas acusações", "blasfêmia", "injustiça"],
-      "personagens": ["homens subornados", "Estêvão"]
+      "parafrase": "Vendo-se derrotados no debate, eles recorreram a táticas sujas. Subornaram alguns homens para que fossem a julgamento e espalhassem mentiras, afirmando: 'Nós ouvimos este homem proferindo blasfêmias contra Moisés e contra Deus!'",
+      "referencias": [
+        "Mateus 26:59-60",
+        "Salmos 27:12"
+      ],
+      "comentario": "A passagem do debate para a difamação marca a escalada do conflito. O crime capital na sociedade judaica da época era a blasfêmia contra Deus ou contra Moisés (a Lei). Ao usar 'blasfêmia' contra Moisés, eles enquadravam o ensinamento de Estêvão (que provavelmente apontava para a falibilidade da Lei sem Cristo) como traição religiosa grave.",
+      "temas": [
+        "Falsas Testemunhas",
+        "Blasfêmia",
+        "Perseguição"
+      ],
+      "personagens": [
+        "Falsos Testemunhas"
+      ]
     },
     "12": {
-      "parafrase": "Com isso, agitaram o povo, os líderes religiosos e os mestres da lei. Prenderam Estêvão e o levaram ao Sinédrio.",
-      "referencias": ["Atos 4:1-3"],
-      "comentario": "As falsas acusações levaram à prisão de Estêvão e ao seu julgamento perante o Sinédrio, o mesmo tribunal que havia julgado Jesus e os apóstolos.",
-      "temas": ["prisão", "julgamento", "oposição"],
-      "personagens": ["Estêvão", "povo", "líderes religiosos", "mestres da lei", "Sinédrio"]
+      "parafrase": "Assim, eles instigaram o povo, bem como os líderes religiosos mais velhos e os escribas, causando grande agitação na multidão. Em seguida, agarraram Estêvão à força e o arrastaram até o Sinédrio (o sumo conselho), o tribunal supremo.",
+      "referencias": [
+        "Atos 4:1",
+        "Mateus 27:27"
+      ],
+      "comentario": "A 'instigação' (seisantes) sugere que eles despertaram fervor popular. O ato de arrastar Estêvão ao Sinédrio, o mesmo tribunal que condenou Jesus, mostra que a oposição estava organizada e visava a eliminação da nova doutrina através da estrutura legal judaica.",
+      "temas": [
+        "Julgamento Religioso",
+        "Comoção Popular",
+        "Prisão"
+      ],
+      "personagens": [
+        "Líderes",
+        "Escribas",
+        "Estêvão"
+      ]
     },
     "13": {
-      "parafrase": "Apresentaram falsas testemunhas que disseram: 'Este homem não para de falar palavras contra este lugar santo e contra a Lei'.",
-      "referencias": ["Mateus 26:61"],
-      "comentario": "As acusações contra Estêvão são semelhantes às feitas contra Jesus: blasfêmia contra o templo (lugar santo) e contra a Lei de Moisés. Isso mostra um padrão de oposição àqueles que proclamam a verdade de Deus.",
-      "temas": ["falsas testemunhas", "blasfêmia", "oposição"],
-      "personagens": ["falsas testemunhas", "Estêvão"]
+      "parafrase": "Nesse tribunal, apresentaram testemunhas falsas, as mesmas que haviam sido subornadas, as quais declararam veementemente: 'Este indivíduo não para de falar palavras hostis contra este Lugar Santo (o Templo) e contra a Lei de Moisés! Nós o ouvimos dizer que Jesus de Nazaré, aquele homem, destruirá este lugar e mudará todas as tradições que Moisés nos transmitiu!'",
+      "referencias": [
+        "Marcos 14:57-58",
+        "João 2:19-21"
+      ],
+      "comentario": "A acusação é uma distorção direta. Estêvão, como Jesus, provavelmente estava falando sobre a transitoriedade do Templo físico (o 'Lugar Santo' judaico) em favor de um novo culto espiritual em Cristo, mas isso foi transformado em uma alegação de destruição física e subversão imediata da Lei. A referência a 'tradições' aqui inclui as práticas e rituais mosaicos.",
+      "temas": [
+        "Acusações Falsas",
+        "O Templo",
+        "Lei vs. Graça"
+      ],
+      "personagens": [
+        "Testemunhas Falsas",
+        "Jesus de Nazaré"
+      ]
     },
     "14": {
-      "parafrase": "'Pois o ouvimos dizer que este Jesus de Nazaré destruirá este lugar e mudará os costumes que Moisés nos transmitiu'.",
-      "referencias": ["Daniel 9:26", "Mateus 24:2"],
-      "comentario": "A acusação é uma distorção das palavras de Jesus sobre a destruição do templo e a vinda de uma nova aliança. Eles interpretam a mensagem de transformação de Jesus como uma ameaça destrutiva à sua tradição.",
-      "temas": ["distorção da verdade", "nova aliança", "tradição vs. revelação"],
-      "personagens": ["Estêvão", "Jesus de Nazaré", "Moisés"]
+      "parafrase": "Todos os que estavam sentados no Sinédrio fixaram os olhos nele com intensidade, esperando por uma confissão. Eles estavam prontos para condená-lo, presos à letra da Lei e incomodados pela visão da glória de Deus manifesta em um discípulo.",
+      "referencias": [
+        "Lucas 22:66",
+        "Atos 7:54"
+      ],
+      "comentario": "O 'olhar fixo' (atenazō) indica a expectativa tensa e hostil. Eles buscavam uma falha legalista para aplicar a pena máxima. O versículo prepara o cenário para a resposta de Estêvão, que será uma defesa histórica e teológica, contrastando a glória da nova aliança com a rigidez da antiga.",
+      "temas": [
+        "Julgamento Hostil",
+        "A Lei e a Visão",
+        "Antagonismo"
+      ],
+      "personagens": [
+        "Membros do Sinédrio"
+      ]
     },
     "15": {
-      "parafrase": "Todos os que estavam sentados no Sinédrio olharam fixamente para Estêvão e viram que o seu rosto parecia o rosto de um anjo.",
-      "referencias": ["Êxodo 34:29-35", "Mateus 17:2"],
-      "comentario": "Em meio às falsas acusações, a glória de Deus se manifesta no rosto de Estêvão. É um sinal visível da presença do Espírito Santo e da inocência de Estêvão, lembrando o brilho do rosto de Moisés após estar com Deus. É um testemunho silencioso, mas poderoso, da verdade.",
-      "temas": ["glória de Deus", "presença do Espírito Santo", "inocência", "testemunho"],
-      "personagens": ["Estêvão", "Sinédrio"]
+      "parafrase": "E, à medida que o julgamento se desenrolava, o rosto de Estêvão começou a irradiar um brilho extraordinário, semelhante à aparência de um anjo, um sinal visível de que, embora estivesse diante de seus juízes terrenos, sua alma estava em comunhão direta com o céu. A glória de Deus o envolvia em meio ao ataque humano.",
+      "referencias": [
+        "Êxodo 34:29-35",
+        "Mateus 17:2"
+      ],
+      "comentario": "Este versículo é um paralelo direto com Moisés após descer do Monte Sinai ('o rosto de Moisés resplandecia'). O termo grego é 'eōs' (brilho, luz). Este esplendor angélico (semelhante a um anjo) é a manifestação externa da presença do Espírito Santo e da convicção absoluta de Estêvão, um contraste gritante com a escuridão de intenção dos seus acusadores.",
+      "temas": [
+        "Glória Celestial",
+        "Transformação Espiritual",
+        "Intervenção Divina"
+      ],
+      "personagens": [
+        "Estêvão"
+      ]
     }
   }
 }

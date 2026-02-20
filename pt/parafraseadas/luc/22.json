@@ -1,81 +1,1147 @@
 {
   "livro": "Lucas",
   "capitulo": 22,
-  "contexto_historico": "Este capítulo narra os eventos que antecedem a crucificação de Jesus, incluindo a conspiração para matá-lo, a preparação da Páscoa, a Última Ceia (instituição da Ceia do Senhor), a predição da traição de Pedro, a oração no Getsêmani e a prisão de Jesus. Ele destaca a iminência do sofrimento de Jesus, a traição de Seus próprios discípulos e a instituição de um novo pacto.",
-  "bloco_tematico": "A Conspiração, a Última Ceia e a Prisão de Jesus",
+  "contexto_historico": "O capítulo 22 de Lucas ocorre durante a Semana da Paixão em Jerusalém. Jesus está se aproximando da consumação de seu ministério terreno. O ambiente é carregado de tensão política e religiosa, pois as autoridades judaicas (principalmente os saduceus e fariseus) tramam ativamente para prender e matar Jesus, temendo que Ele cause uma revolta popular na época da Páscoa. É neste cenário que ocorre a Última Ceia, a traição iminente de Judas, a negação de Pedro e a oração angustiada no Getsêmani. O foco está na transição da aliança e no estabelecimento da Nova Aliança através do sacrifício de Cristo. ⏳祭",
+  "bloco_tematico": "A Última Ceia, a Nova Aliança e a Traição no Getsêmani 🍞🍷 betrayal",
   "versiculos": {
     "1": {
-      "parafrase": "Estava próxima a Festa dos Pães Asmos, que é chamada Páscoa.",
-      "referencias": ["Mateus 26:2", "Marcos 14:1"],
-      "comentario": "A Páscoa e a Festa dos Pães Asmos eram celebrações importantes, e os líderes religiosos planejavam prender Jesus secretamente para evitar um tumulto público.",
-      "temas": ["Páscoa", "Festa dos Pães Asmos", "celebração"],
-      "personagens": []
+      "parafrase": "Chegava a Festa da Páscoa, a celebração mais importante do calendário judaico, que lembrava a libertação da escravidão no Egito. Os principais sacerdotes e mestres da Lei estavam tramando, procurando uma maneira astuta e dissimulada de prender Jesus e, finalmente, matá-lo. Eles temiam o povo, mas o ódio os impulsionava.",
+      "referencias": [
+        "Êxodo 12:14",
+        "Mateus 26:2"
+      ],
+      "comentario": "Lucas estabelece o cenário temporal (a proximidade da Páscoa) e o conflito central: a conspiração das autoridades religiosas (chefes dos sacerdotes e escribas). O verbo grego usado para 'tramar' ($\text{zēteō}$) sugere uma busca intensa e deliberada por uma oportunidade, enquanto a hesitação em agir abertamente ('pois temiam o povo') demonstra a popularidade de Jesus.",
+      "temas": [
+        "Conspiração",
+        "Páscoa",
+        "Ódio religioso"
+      ],
+      "personagens": [
+        "Jesus",
+        "Principais Sacerdotes",
+        "Mestres da Lei"
+      ]
     },
     "2": {
-      "parafrase": "E os chefes dos sacerdotes e os escribas procuravam uma maneira de matá-lo, pois temiam o povo.",
-      "referencias": ["Mateus 26:5", "Marcos 14:2"],
-      "comentario": "Os líderes religiosos temem a reação da multidão, que era favorável a Jesus. Eles querem evitar um levante popular.",
-      "temas": ["conspiração", "morte de Jesus", "medo do povo"],
-      "personagens": ["Chefes dos sacerdotes", "Escribas"]
+      "parafrase": "Então, Satanás, a força do mal, entrou no coração de Judas Iscariotes, aquele que viria a ser conhecido como o traidor, um dos doze escolhidos. Ele estava entre eles, mas seu interior já estava dominado por uma intenção perversa.",
+      "referencias": [
+        "João 13:2",
+        "Atos 1:16"
+      ],
+      "comentario": "Aqui, Lucas introduz a dimensão espiritual por trás da traição humana. A posse de Satanás ($\text{eiselthen}$ - entrou em) indica que a traição não foi apenas uma decisão humana isolada, mas um ato de influência demoníaca que se enraizou em Judas, um dos doze discípulos.",
+      "temas": [
+        "Influência maligna",
+        "Traição",
+        "Escolha"
+      ],
+      "personagens": [
+        "Satanás",
+        "Judas Iscariotes"
+      ]
     },
     "3": {
-      "parafrase": "Então Satanás entrou em Judas, chamado Iscariotes, que era um dos doze.",
-      "referencias": ["Mateus 26:14", "Marcos 14:10"],
-      "comentario": "Satanás usa Judas como instrumento para trair Jesus, mostrando a influência do mal na vida de Judas.",
-      "temas": ["traição", "Satanás", "Judas Iscariotes"],
-      "personagens": ["Satanás", "Judas Iscariotes"]
+      "parafrase": "Judas foi ter com os chefes dos sacerdotes e os líderes da guarda do templo. Ele perguntou, com a voz baixa e dissimulada: 'Quanto vocês estão dispostos a me pagar para que eu entregue Jesus nas mãos de vocês?'",
+      "referencias": [
+        "Zacarias 11:12",
+        "Mateus 26:14-15"
+      ],
+      "comentario": "O ato de Judas é uma transação. O diálogo direto sobre o preço ('o que me dareis?') revela a motivação primária: ganância material. Ele se torna o agente ativo da conspiração, buscando o momento oportuno para cumprir sua parte no plano dos inimigos de Cristo.",
+      "temas": [
+        "Transação",
+        "Avareza",
+        "Agente da traição"
+      ],
+      "personagens": [
+        "Judas Iscariotes",
+        "Chefes dos Sacerdotes"
+      ]
     },
     "4": {
-      "parafrase": "E ele foi e falou com os chefes dos sacerdotes e com os capitães da guarda do Templo sobre como lhes entregaria Jesus.",
-      "referencias": [],
-      "comentario": "Judas se oferece para trair Jesus, revelando sua ganância e sua falta de lealdade.",
-      "temas": ["traição", "ganância", "falta de lealdade"],
-      "personagens": ["Judas Iscariotes", "Chefes dos sacerdotes", "Capitães da guarda do Templo"]
+      "parafrase": "Eles se animaram com a proposta e concordaram em lhe dar uma quantia em dinheiro. Assim, Judas começou a procurar um momento em que não houvesse multidões reunidas, para poder consumar sua entrega sem causar alvoroço.",
+      "referencias": [
+        "Êxodo 21:32",
+        "Marcos 14:10-11"
+      ],
+      "comentario": "O acordo é selado. A quantia acordada, embora não mencionada aqui por Lucas, é famosa em outros evangelhos (30 moedas de prata), um valor simbólico de um escravo. A preocupação de Judas em evitar a multidão é pragmática, visando a execução segura do plano sem provocar a ira popular contra os líderes religiosos.",
+      "temas": [
+        "Acordo financeiro",
+        "Cautela na maldade",
+        "Execução do plano"
+      ],
+      "personagens": [
+        "Judas Iscariotes",
+        "Chefes dos Sacerdotes"
+      ]
     },
     "5": {
-      "parafrase": "Eles se alegraram e prometeram dar-lhe dinheiro.",
-      "referencias": ["Mateus 26:15", "Marcos 14:11"],
-      "comentario": "Os líderes religiosos se alegram com a oferta de Judas e prometem pagar-lhe. Judas, motivado pela ganância, busca a oportunidade perfeita para trair Jesus.",
-      "temas": ["alegria", "dinheiro", "traição"],
-      "personagens": []
+      "parafrase": "Como o dia da festa se aproximava, a pressão sobre Judas para agir aumentava. Ele se esforçava para encontrar uma chance ideal, um lugar isolado, longe dos olhos curiosos do povo, para realizar o ato de traição.",
+      "referencias": [
+        "Mateus 26:16",
+        "Lucas 22:1"
+      ],
+      "comentario": "Este versículo reforça a busca contínua de Judas pelo momento perfeito. A proximidade da Páscoa cria um prazo implícito. O termo 'oportunidade' ($\text{eukairia}$) aqui é pervertido, pois a melhor ocasião para a prisão deveria ser para a glória, e não para a morte.",
+      "temas": [
+        "Oportunidade",
+        "Pressa",
+        "Conveniência"
+      ],
+      "personagens": [
+        "Judas Iscariotes"
+      ]
     },
     "6": {
-      "parafrase": "E ele concordou e procurava uma oportunidade para entregá-lo sem a presença da multidão.",
-      "referencias": [],
-      "comentario": "Judas busca uma oportunidade secreta para trair Jesus, evitando um tumulto público.",
-      "temas": ["oportunidade", "traição", "segredo"],
-      "personagens": ["Judas Iscariotes"]
+      "parafrase": "Finalmente, Judas sentiu que havia chegado o momento certo, e ele se dirigiu aos líderes religiosos. Naquele dia, enquanto as pessoas se preparavam para a celebração, Judas preparava a entrega do Mestre.",
+      "referencias": [
+        "Marcos 14:12",
+        "Mateus 26:17"
+      ],
+      "comentario": "Lucas enfatiza a convergência: o tempo litúrgico (preparação da Páscoa) se alinha com o tempo da traição. Judas toma a iniciativa ('ajustou') para executar sua missão secreta.",
+      "temas": [
+        "Momento oportuno",
+        "Iniciativa",
+        "Preparação"
+      ],
+      "personagens": [
+        "Judas Iscariotes"
+      ]
     },
     "7": {
-      "parafrase": "Chegou o dia dos Pães Asmos, em que era necessário sacrificar o cordeiro da Páscoa.",
-      "referencias": ["Mateus 26:17", "Marcos 14:12"],
-      "comentario": "O dia da Páscoa, quando o cordeiro era sacrificado, é o contexto para a Última Ceia de Jesus, que se tornaria o Cordeiro de Deus.",
-      "temas": ["Páscoa", "cordeiro pascal", "sacrifício"],
-      "personagens": []
+      "parafrase": "Chegou o dia dos Pães Ázimos, o dia em que o cordeiro pascal deveria ser sacrificado. Jesus, sabendo de tudo, chamou Pedro e João e lhes disse com seriedade: 'Vão depressa e preparem tudo para celebrarmos a ceia de Páscoa.'",
+      "referencias": [
+        "Êxodo 12:18",
+        "1 Coríntios 5:8"
+      ],
+      "comentario": "O Dia dos Pães Ázimos ($\text{he Hemera tōn azymōn}$) é o primeiro dia da celebração da Páscoa. Jesus está no controle dos eventos. Ele envia Pedro e João, figuras centrais entre os discípulos, para arranjarem o local e os suprimentos para o Seder pascal, que será, na verdade, a instituição da Nova Aliança.",
+      "temas": [
+        "Controle divino",
+        "Instituição da Ceia",
+        "Preparo"
+      ],
+      "personagens": [
+        "Jesus",
+        "Pedro",
+        "João"
+      ]
     },
     "8": {
-      "parafrase": "Jesus enviou Pedro e João, dizendo: 'Vão e preparem a Páscoa para nós, para que a comamos.'",
-      "referencias": ["Mateus 26:18", "Marcos 14:13"],
-      "comentario": "Jesus instrui Pedro e João a preparar a Páscoa, demonstrando Sua autoridade e providência.",
-      "temas": ["preparação da Páscoa", "instrução", "autoridade"],
-      "personagens": ["Jesus", "Pedro", "João"]
+      "parafrase": "Eles perguntaram a Jesus, com a curiosidade natural: 'Mestre, onde o Senhor quer que preparemos tudo para a Páscoa?'",
+      "referencias": [
+        "Marcos 14:14",
+        "Mateus 26:18"
+      ],
+      "comentario": "A pergunta dos discípulos demonstra a dependência deles em relação a Jesus, mesmo para assuntos logísticos. Eles ainda não compreendiam totalmente a urgência ou o significado daquela refeição específica.",
+      "temas": [
+        "Dependência",
+        "Discernimento"
+      ],
+      "personagens": [
+        "Pedro",
+        "João",
+        "Jesus"
+      ]
     },
     "9": {
-      "parafrase": "Eles lhe perguntaram: 'Onde queres que a preparemos?'",
-      "referencias": [],
-      "comentario": "Os discípulos buscam orientação sobre o local da celebração da Páscoa.",
-      "temas": ["orientação", "preparação"],
-      "personagens": ["Pedro", "João"]
+      "parafrase": "Jesus lhes respondeu com um mistério: 'Vão até a cidade. Lá, vocês encontrarão um homem carregando um jarro de água, algo incomum para um homem fazer naquela hora. Sigam-no até a casa onde ele entrar.'",
+      "referencias": [
+        "Jeremias 32:14",
+        "Marcos 14:13"
+      ],
+      "comentario": "Este é um sinal sobrenatural, planejado para garantir que os discípulos não se perdessem nem envolvessem pessoas erradas. O homem carregando um jarro de água ($\text{hydria}$) era incomum, pois essa tarefa era tipicamente feminina, servindo como um sinal visual claro e discreto.",
+      "temas": [
+        "Sinal sobrenatural",
+        "Obediência",
+        "Provisão divina"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "10": {
-      "parafrase": "Ele lhes respondeu: 'Eis que, ao entrarem na cidade, um homem que carrega um cântaro de água os encontrará. Sigam-no até a casa em que ele entrar.'",
-      "referencias": ["Marcos 14:13"],
-      "comentario": "Jesus demonstra Seu conhecimento sobrenatural e Sua autoridade ao instruir os discípulos a encontrar o homem com o cântaro de água, um sinal incomum.",
-      "temas": ["conhecimento sobrenatural", "sinal", "orientação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Quando chegarem ao dono da casa, digam a ele: 'O Mestre nos enviou para perguntar: Onde está o aposento onde poderei comer a refeição da Páscoa com os meus discípulos?'",
+      "referencias": [
+        "Mateus 26:18",
+        "Lucas 9:58"
+      ],
+      "comentario": "A autoridade de Jesus é inquestionável, mesmo através dos discípulos. A menção de 'meus discípulos' serve como chave para o anfitrião secreto, confirmando que a casa já estava preparada ou que o anfitrião era um seguidor secreto.",
+      "temas": [
+        "Autoridade",
+        "Seguidores secretos",
+        "Identificação"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos",
+        "Anfitrião"
+      ]
     },
     "11": {
-      "parafrase": "'E digam ao dono da casa: O Mestre lhe pergunta: Onde está o aposento em que comerei a Páscoa com os meus discípulos?'"
+      "parafrase": "O anfitrião lhes mostrará um grande salão no andar superior, já arrumado e preparado. É lá que vocês devem fazer todos os nossos preparativos finais.'",
+      "referencias": [
+        "Atos 1:13",
+        "Marcos 14:15"
+      ],
+      "comentario": "O termo grego para 'salão' ($\text{andron}$ ou $\text{hyperoon}$) indica um cômodo grande, geralmente no andar de cima, adequado para hospedar reuniões importantes, como o Cenáculo (Local da Última Ceia). A casa já estava 'preparada', sugerindo um acordo prévio com um discípulo devoto.",
+      "temas": [
+        "Cenáculo",
+        "Preparação do local",
+        "Hospitalidade"
+      ],
+      "personagens": [
+        "Pedro",
+        "João",
+        "Anfitrião"
+      ]
+    },
+    "12": {
+      "parafrase": "Pedro e João foram, seguiram exatamente as instruções de Jesus e encontraram tudo como Ele havia dito, e assim prepararam tudo para a refeição da Páscoa.",
+      "referencias": [
+        "Lucas 1:45",
+        "Lucas 22:7"
+      ],
+      "comentario": "A precisão do cumprimento do sinal reafirma a onisciência de Jesus. O sucesso da missão dos discípulos é garantido pela verdade da palavra de seu Mestre.",
+      "temas": [
+        "Obediência cumprida",
+        "Onisciência",
+        "Confirmação"
+      ],
+      "personagens": [
+        "Pedro",
+        "João",
+        "Jesus"
+      ]
+    },
+    "13": {
+      "parafrase": "Terminando os preparativos, eles voltaram para encontrar Jesus e os outros onze, e naquela noite, eles se reuniram para a Ceia.",
+      "referencias": [
+        "Mateus 26:20",
+        "Lucas 22:14"
+      ],
+      "comentario": "O relato se move rapidamente para o evento principal. A reunião dos 'onze' indica que Judas já havia se afastado ou ainda não havia se juntado a eles, dependendo da cronologia exata, mas o foco é a união dos fiéis em torno de Jesus antes de sua paixão.",
+      "temas": [
+        "Reunião",
+        "Última Ceia",
+        "Comunhão"
+      ],
+      "personagens": [
+        "Jesus",
+        "Os Doze"
+      ]
+    },
+    "14": {
+      "parafrase": "Quando chegou a hora marcada para a refeição, Jesus se sentou à mesa, e todos os doze apóstolos se acomodaram com Ele.",
+      "referencias": [
+        "Êxodo 12:11",
+        "Marcos 14:17"
+      ],
+      "comentario": "A menção da hora ($\text{hōra}$) enfatiza o cumprimento do tempo profético. Sentar-se à mesa é um sinal de igualdade relativa no contexto de uma refeição festiva, embora a hierarquia logo se manifeste. O número doze está completo, ironicamente, incluindo o futuro traidor.",
+      "temas": [
+        "Tempo estabelecido",
+        "A refeição pascal",
+        "Proximidade"
+      ],
+      "personagens": [
+        "Jesus",
+        "Os Doze Apóstolos"
+      ]
+    },
+    "15": {
+      "parafrase": "Então Jesus olhou para eles com um desejo profundo e disse: 'Com grande anseio, desejei compartilhar esta refeição da Páscoa com vocês, antes que o meu sofrimento comece de verdade.'",
+      "referencias": [
+        "Filipenses 1:23",
+        "João 13:1"
+      ],
+      "comentario": "O desejo intenso ($\text{epithymia epethymēsa}$) de Jesus sublinha a importância desta última refeição. Ele não está apenas celebrando um ritual antigo; Ele está inaugurando um evento novo, a última oportunidade de comunhão antes de Sua separação sacrificial.",
+      "temas": [
+        "Desejo profundo",
+        "Antecipação do sofrimento",
+        "Importância cerimonial"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
+    },
+    "16": {
+      "parafrase": "Pois eu lhes digo, de forma solene, que não voltarei a celebrar esta Páscoa até que ela se cumpra plenamente no Reino de Deus!'",
+      "referencias": [
+        "Mateus 26:29",
+        "Apocalipse 19:9"
+      ],
+      "comentario": "Esta é uma declaração messiânica crucial. Jesus afirma que a Páscoa antiga, baseada no sangue do cordeiro, será substituída pela Nova Aliança. Ele só participará de uma 'Ceia' novamente quando o Reino de Deus for estabelecido em sua plenitude (o casamento do Cordeiro).",
+      "temas": [
+        "Nova Aliança",
+        "Cumprimento profético",
+        "Reino de Deus"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
+    },
+    "17": {
+      "parafrase": "Em seguida, Ele pegou a taça, deu graças, como era o costume, e disse aos seus seguidores: 'Peguem isto e dividam entre vocês. Eu não tomarei mais do fruto da videira até que o Reino de Deus chegue.'",
+      "referencias": [
+        "1 Coríntios 11:25",
+        "Marcos 14:23"
+      ],
+      "comentario": "A primeira taça (geralmente a Taça da Santificação) é abençoada e distribuída. Jesus suspende seu consumo até o estabelecimento final do Reino, conectando a bênção do vinho com a consumação escatológica.",
+      "temas": [
+        "Ação de graças",
+        "Suspensão do ritual",
+        "Escatologia"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
+    },
+    "18": {
+      "parafrase": "Pois eu lhes asseguro que não beberei novamente do vinho até o dia em que o Reino de Deus for finalmente estabelecido!'",
+      "referencias": [
+        "Mateus 26:29",
+        "Apocalipse 21:3-4"
+      ],
+      "comentario": "Este versículo é uma reiteração enfática da declaração anterior, focando no vinho. A abstinência temporária de Jesus do vinho simboliza a pausa na celebração terrena enquanto Ele se dirige ao sacrifício e à subsequente glória vindoura.",
+      "temas": [
+        "Promessa escatológica",
+        "Abstinência",
+        "Reino vindouro"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
+    },
+    "19": {
+      "parafrase": "Depois disso, Jesus pegou o pão, proferiu a bênção, partiu-o em pedaços e o entregou a eles, dizendo: 'Este pão é o meu corpo, que será dado por vocês. Façam isto em memória de mim, lembrando-se sempre do meu sacrifício.'",
+      "referencias": [
+        "1 Coríntios 11:24",
+        "Isaías 53:5"
+      ],
+      "comentario": "Aqui está a instituição da Eucaristia ou Santa Ceia. O verbo grego para 'dar' ($\text{didōmenon}$ - sendo dado) implica que o corpo estava prestes a ser oferecido. O mandamento 'Façam isto em memória de mim' ($\text{touto poieite eis tēn emēn anamnēsin}$) estabelece a prática memorial da Igreja.",
+      "temas": [
+        "Eucaristia",
+        "Sacrifício corporal",
+        "Memória"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
+    },
+    "20": {
+      "parafrase": "De modo semelhante, após a refeição, Ele pegou a taça do vinho, e disse: 'Esta taça é a Nova Aliança, selada com o meu sangue, que é derramado especificamente por vocês.'",
+      "referencias": [
+        "Hebreus 8:8",
+        "Jeremias 31:31"
+      ],
+      "comentario": "A segunda taça (Taça da Redenção) é introduzida. A chave é 'Nova Aliança' ($\text{kainē diathēkē}$), profetizada em Jeremias. O sangue de Jesus é o selo desta nova relação entre Deus e a humanidade, um ato pessoal ('por vocês').",
+      "temas": [
+        "Nova Aliança",
+        "Sangue redentor",
+        "Selamento"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
+    },
+    "21": {
+      "parafrase": "No entanto, prestem atenção: a mão daquele que me trai está aqui, junto à minha, sobre a mesa. Tudo o que está acontecendo agora está escrito, mas ai daquele que está me entregando!', advertiu Jesus.",
+      "referencias": [
+        "Salmo 41:9",
+        "Atos 1:16"
+      ],
+      "comentario": "O contraste entre a comunhão íntima ('mão... sobre a mesa') e a traição iminente é brutal. Jesus confirma a inevitabilidade profética ('está escrito'), mas não isenta Judas da responsabilidade moral, proferindo um juízo severo ('ai daquele').",
+      "temas": [
+        "Traição revelada",
+        "Profecia e responsabilidade",
+        "Juízo"
+      ],
+      "personagens": [
+        "Jesus",
+        "O traidor (Judas)"
+      ]
+    },
+    "22": {
+      "parafrase": "O Filho do Homem, de fato, cumprirá seu destino, conforme foi determinado. Mas que terrível destino aguarda aquele homem que o entrega!'",
+      "referencias": [
+        "Daniel 7:13",
+        "Mateus 26:24"
+      ],
+      "comentario": "Jesus reafirma Sua aceitação voluntária do sofrimento como o 'Filho do Homem' (título messiânico de Daniel). A sentença sobre Judas é mais forte aqui, indicando que, embora a morte de Jesus fosse necessária, a traição de Judas é uma calamidade pessoal para ele.",
+      "temas": [
+        "Destino messiânico",
+        "Voluntariedade",
+        "Condenação do traidor"
+      ],
+      "personagens": [
+        "Jesus",
+        "Judas"
+      ]
+    },
+    "23": {
+      "parafrase": "Os discípulos começaram a discutir entre si, confusos e preocupados, sobre quem dentre eles poderia ser aquele que faria tal ato terrível.",
+      "referencias": [
+        "Marcos 14:19",
+        "Lucas 9:46"
+      ],
+      "comentario": "A discussão revela a cegueira dos discípulos. Eles não reconhecem Judas, apesar de saberem que um deles trairia, e, mais profundamente, demonstram uma preocupação centrada neles mesmos ('quem de nós?'), ao invés de focar na traição em si ou na prisão de Jesus.",
+      "temas": [
+        "Confusão",
+        "Incredulidade",
+        "Foco egoísta"
+      ],
+      "personagens": [
+        "Os Doze Apóstolos"
+      ]
+    },
+    "24": {
+      "parafrase": "Além disso, surgiu entre eles uma discussão um tanto presunçosa sobre quem deles seria considerado o maior entre todos.",
+      "referencias": [
+        "Marcos 9:34",
+        "Mateus 18:1"
+      ],
+      "comentario": "Este é um contraste chocante. Enquanto Jesus revela a morte e a traição, os discípulos ainda lutam por status e primazia. Isso mostra o quanto eles estavam presos à mentalidade mundana de poder, mesmo diante do sacrifício iminente.",
+      "temas": [
+        "Ambição terrena",
+        "Status",
+        "Falta de compreensão"
+      ],
+      "personagens": [
+        "Os Doze Apóstolos"
+      ]
+    },
+    "25": {
+      "parafrase": "Então Jesus os chamou à ordem, repreendendo-os: 'Os reis das nações gentias dominam sobre seus povos, e aqueles que exercem autoridade gostam de ser chamados de benfeitores. Mas entre vocês, as coisas serão totalmente diferentes!'",
+      "referencias": [
+        "Mateus 20:25-27",
+        "Gálatas 2:6"
+      ],
+      "comentario": "Jesus utiliza o modelo de liderança pagã ('reis', $\text{archontes}$) como antítese. Os governantes buscam dominar ($\text{katakyrieuō}$ - exercer soberania absoluta) e ser elogiados como 'benefactores' ($\text{euergetai}$). O contraste ('mas não assim entre vós') aponta para um modelo de serviço e humildade, que Ele demonstrará.",
+      "temas": [
+        "Liderança de serviço",
+        "Contraste com o mundo",
+        "Humildade"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
+    },
+    "26": {
+      "parafrase": "Na vida, a verdadeira grandeza não se mede por quem se impõe sobre os outros, dominando ou dando ordens, como fazem os reis e governantes deste mundo. Em vez disso, o verdadeiro líder entre vocês deve ser como um servo dedicado, alguém que prioriza o bem-estar dos demais, servindo com humildade e coração aberto.",
+      "referencias": [
+        "Marcos 10:42-45",
+        "Filipenses 2:5-7"
+      ],
+      "comentario": "Jesus estabelece um contraste radical entre o modelo de liderança mundano (exercido por 'gentios' ou nações não-judaicas/pagãs) baseado em poder e opressão, e o modelo de liderança do Reino de Deus, baseado no serviço (diakonia, \b\text\fserviço\b\f). A palavra grega para governante é 'archon'.",
+      "temas": [
+        "Liderança Servidora",
+        "Inversão de Valores"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
+    },
+    "27": {
+      "parafrase": "Pois, olhem para mim: eu, que sou o Mestre, aquele que tem a autoridade, estou entre vocês agindo como aquele que serve. Quem é maior? Aquele que se senta à mesa para comer, ou aquele que se levanta para servir o alimento? Embora pareça óbvio, a resposta do Reino inverte essa lógica.",
+      "referencias": [
+        "João 13:14-15",
+        "Isaías 53:12"
+      ],
+      "comentario": "Jesus usa uma analogia clara de um banquete: o anfitrião ou hóspede de honra é servido. Ele, apesar de ser o 'Mestre' (Kyrios), assume a posição do servo. Isso aponta diretamente para Sua futura obra na cruz, o maior ato de serviço.",
+      "temas": [
+        "Humildade",
+        "O Exemplo de Cristo"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
+    },
+    "28": {
+      "parafrase": "Vocês estiveram comigo firmes nas provações e dificuldades que enfrentei. E, como recompensa por essa lealdade, eu lhes confiro um privilégio imenso: vocês participarão comigo na administração do meu Reino, assim como meu Pai me deu autoridade para reinar sobre tudo.",
+      "referencias": [
+        "Mateus 19:28",
+        "Apocalipse 3:21"
+      ],
+      "comentario": "Este versículo é uma promessa de co-regência. A palavra grega para 'provação' ou 'tentação' aqui (peirasmos) refere-se a testes e adversidades. Cristo promete honrar aqueles que Lhe foram fiéis durante Seu sofrimento terreno.",
+      "temas": [
+        "Recompensa",
+        "Fidelidade"
+      ],
+      "personagens": [
+        "Jesus",
+        "Os Discípulos"
+      ]
+    },
+    "29": {
+      "parafrase": "Eu lhes dou, meu Pai me deu, um Reino que não será tirado de vocês. Estabelecerei para vocês uma soberania duradoura. Vocês se assentarão à mesa, participando do meu festim real, governando as doze tribos de Israel.",
+      "referencias": [
+        "Daniel 7:18",
+        "Apocalipse 20:4"
+      ],
+      "comentario": "A promessa de um 'reino que não será transferido' (não se moverá) enfatiza a eternidade e a estabilidade da soberania de Deus, em contraste com os impérios transitórios do mundo. A referência às 'doze tribos' indica a restauração e o governo apostólico no futuro.",
+      "temas": [
+        "Reino Eterno",
+        "Governo Futuro"
+      ],
+      "personagens": [
+        "Jesus",
+        "O Pai"
+      ]
+    },
+    "30": {
+      "parafrase": "Para que possam desfrutar dessa dignidade, Eu lhes preparo agora, para que, no meu Reino, vocês possam comer e beber à minha mesa, recebendo o direito de se sentar em tronos para julgar o povo de Israel.",
+      "referencias": [
+        "Mateus 8:11",
+        "1 Coríntios 6:2-3"
+      ],
+      "comentario": "A imagem de 'comer e beber à mesa' (symposion) é típica das celebrações messiânicas. Julgar (krinein) as doze tribos refere-se à função judicial e administrativa dos apóstolos no Reino consumado.",
+      "temas": [
+        "Participação Real",
+        "Julgamento"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
+    },
+    "31": {
+      "parafrase": "Simão, Simão, preste atenção! Satanás me pediu permissão para testar a fé de vocês, como se fosse um trigo que precisa ser peneirado para separar o grão bom do joio ou da casca vazia. Ele quer examinar cada um de vocês rigorosamente. 🧐",
+      "referencias": [
+        "Jó 1:9-12",
+        "1 Pedro 5:8"
+      ],
+      "comentario": "Jesus se dirige nominalmente a Pedro, indicando que ele será o epicentro da tentação ou teste. O verbo grego para 'peneirar' (exétsato, da raiz de 'sift') descreve uma provação intensa destinada a separar o genuíno do falso.",
+      "temas": [
+        "Tentação",
+        "Provação da Fé"
+      ],
+      "personagens": [
+        "Jesus",
+        "Simão Pedro",
+        "Satanás"
+      ]
+    },
+    "32": {
+      "parafrase": "Mas Eu intercedi especificamente por você, Simão, para que a sua fé não falhe completamente quando a provação chegar. Depois que você passar por isso e se fortalecer novamente, a sua missão será a de erguer e confirmar seus irmãos na fé.",
+      "referencias": [
+        "João 17:9",
+        "Hebreus 12:12"
+      ],
+      "comentario": "A intercessão de Cristo é crucial. Embora Pedro vá cair (negar Jesus), sua fé não será destruída ('ou me deis' - 'não se exaurir'). Seu propósito pós-queda será restaurador, voltado para o fortalecimento da comunidade.",
+      "temas": [
+        "Intercessão de Cristo",
+        "Restauração"
+      ],
+      "personagens": [
+        "Jesus",
+        "Simão Pedro"
+      ]
+    },
+    "33": {
+      "parafrase": "Pedro, então, respondeu cheio de bravata: 'Mestre, estou pronto para ir com o Senhor até mesmo para a prisão ou para a morte!' 💪",
+      "referencias": [
+        "Mateus 26:33",
+        "Marcos 14:29"
+      ],
+      "comentario": "Este é um exemplo clássico da autoconfiança humana antes da prova real. Pedro subestima tanto o perigo quanto a fragilidade de sua própria natureza sob pressão extrema.",
+      "temas": [
+        "Confiança Própria",
+        "Impulsividade"
+      ],
+      "personagens": [
+        "Simão Pedro",
+        "Jesus"
+      ]
+    },
+    "34": {
+      "parafrase": "Jesus o olhou com profunda tristeza e advertiu: 'Pedro, eu lhe digo a verdade solene: antes que o galo cante hoje, você me negará três vezes, dizendo que nem sequer me conhece.' 🐓💔",
+      "referencias": [
+        "Mateus 26:34",
+        "João 13:38"
+      ],
+      "comentario": "A negação tripla é profetizada com exatidão. O som do galo (alektor) se torna o marcador temporal e o símbolo doloroso do arrependimento para Pedro. A seriedade da afirmação é marcada pela expressão 'Eu te digo a verdade' (Amén).",
+      "temas": [
+        "Profecia",
+        "Traição Pessoal"
+      ],
+      "personagens": [
+        "Jesus",
+        "Simão Pedro"
+      ]
+    },
+    "35": {
+      "parafrase": "Então, Jesus voltou-se para todos eles e perguntou: 'Quando enviei vocês da primeira vez, sem bolsa, sem alforje e sem sandálias, faltou-lhes algo?'. Eles responderam imediatamente: 'Nada, Mestre! Não nos faltou absolutamente nada.'",
+      "referencias": [
+        "Lucas 9:3",
+        "Mateus 10:10"
+      ],
+      "comentario": "Esta seção (35-38) contrasta o tempo da missão inicial (confiança total na provisão divina) com a necessidade futura de autossuficiência e precaução, preparando-os para o período pós-crucificação.",
+      "temas": [
+        "Provisão Divina",
+        "Preparação para a Adversidade"
+      ],
+      "personagens": [
+        "Jesus",
+        "Os Discípulos"
+      ]
+    },
+    "36": {
+      "parafrase": "E Jesus continuou: 'Mas agora, se vocês têm uma bolsa, levem-na; e, da mesma forma, levem o alforje. E quem não tem espada, venda o manto e compre uma.'",
+      "referencias": [
+        "Mateus 10:38",
+        "2 Coríntios 11:26"
+      ],
+      "comentario": "Esta instrução chocante sobre comprar espadas (sifos, que pode significar arma ou faca utilitária) é muitas vezes mal interpretada. Não é um chamado à guerra física, mas um alerta sobre a perseguição iminente e a necessidade de autodefesa ou, simbolicamente, de providenciar o necessário para a sobrevivência em tempos hostis.",
+      "temas": [
+        "Mudança de Estratégia",
+        "Autossuficiência Prática"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
+    },
+    "37": {
+      "parafrase": "Pois Eu lhes digo: tudo o que está escrito sobre Mim na Escritura deve se cumprir agora. Ele será contado entre os desordeiros e rebeldes, porque o tempo da minha prisão e condenação chegou.'",
+      "referencias": [
+        "Isaías 53:12",
+        "Lucas 4:21"
+      ],
+      "comentario": "A ordem para comprar espadas está intrinsecamente ligada ao cumprimento das profecias sobre Seu sofrimento. Ele será classificado como um criminoso ('entre os ímpios' ou 'transgressores'), cumprindo as Escrituras sobre Seu sacrifício vicário.",
+      "temas": [
+        "Cumprimento Profético",
+        "O Sacrifício"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
+    },
+    "38": {
+      "parafrase": "Os discípulos então exclamaram: 'Mestre, veja! Temos duas espadas aqui mesmo!' Jesus respondeu, com um tom de resignação e urgência: 'É o bastante. Chega.' ✋",
+      "referencias": [
+        "Mateus 26:47"
+      ],
+      "comentario": "A resposta de Jesus, 'É o bastante' (hikanon estin), é ambígua. Alguns veem como 'duas espadas são insuficientes para a luta que se aproxima', enquanto a maioria dos estudiosos entende como 'Basta, vocês não entenderam o ponto, ou duas espadas são suficientes para o necessário mal-entendido que acabei de provocar'.",
+      "temas": [
+        "Mal-entendido",
+        "Conclusão da Instrução"
+      ],
+      "personagens": [
+        "Jesus",
+        "Os Discípulos"
+      ]
+    },
+    "39": {
+      "parafrase": "Depois de tudo isso, Jesus saiu e foi, como de costume, para o Monte das Oliveiras, e os discípulos O seguiram até lá. 🌳",
+      "referencias": [
+        "Mateus 26:30",
+        "João 18:1"
+      ],
+      "comentario": "O Monte das Oliveiras era o local habitual de oração e retiro de Jesus, um local conhecido, o que facilitava a chegada dos captores. O costume indica a previsibilidade de Seu comportamento devocional.",
+      "temas": [
+        "Oração",
+        "Rotina Espiritual"
+      ],
+      "personagens": [
+        "Jesus",
+        "Os Discípulos"
+      ]
+    },
+    "40": {
+      "parafrase": "Ao chegarem, Ele lhes disse com seriedade: 'Orem para que não caiam em tentação ou em momento de fraqueza e desespero.'",
+      "referencias": [
+        "Mateus 26:41",
+        "Tiago 1:13"
+      ],
+      "comentario": "O apelo para orar visa fortalecer a vontade e o espírito antes que o teste físico e emocional os sobrecarregue. O termo grego para 'cair em tentação' (ekpeizein) significa sucumbir ou ceder ao mal.",
+      "temas": [
+        "Vigilância Espiritual",
+        "A Fraqueza da Carne"
+      ],
+      "personagens": [
+        "Jesus",
+        "Os Discípulos"
+      ]
+    },
+    "41": {
+      "parafrase": "Em seguida, Jesus se afastou deles apenas o suficiente para estar em solidão, caiu de joelhos e começou a orar fervorosamente, dizendo:",
+      "referencias": [
+        "Mateus 26:39",
+        "Hebreus 5:7"
+      ],
+      "comentario": "O gesto físico de cair de joelhos (em referência à prostração) demonstra a profundidade de Sua agonia. A distância de 'um arremesso de pedra' (bolidomenos) indica que Ele buscava a proximidade de Deus sem a distração dos amigos.",
+      "temas": [
+        "Agonia Espiritual",
+        "Oração Intensa"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
+    },
+    "42": {
+      "parafrase": "'Pai, se for do Teu querer, afasta de mim este cálice de sofrimento. Contudo, que não se faça a minha vontade, mas sim a Tua vontade, ó Deus.' 🙏",
+      "referencias": [
+        "Mateus 26:39",
+        "João 6:38"
+      ],
+      "comentario": "O 'cálice' (poterion) é uma metáfora bíblica para a porção de sofrimento ou juízo designada por Deus. A submissão final ('seja feita a Tua vontade') é o triunfo da obediência humana de Cristo sobre Sua angústia natural.",
+      "temas": [
+        "Submissão à Vontade Divina",
+        "O Sofrimento de Cristo"
+      ],
+      "personagens": [
+        "Jesus",
+        "Pai"
+      ]
+    },
+    "43": {
+      "parafrase": "Nesse momento de angústia extrema, um anjo do céu apareceu para fortalecê-Lo, trazendo o conforto celestial. 🕊️",
+      "referencias": [
+        "Mateus 26:53"
+      ],
+      "comentario": "Este versículo, embora ausente em alguns manuscritos, é mantido em Lucas e Marcos. O fortalecimento angelical sublinha a realidade da fraqueza humana de Jesus diante da iminente provação da cruz.",
+      "temas": [
+        "Assistência Angelical",
+        "Natureza Humana de Cristo"
+      ],
+      "personagens": [
+        "Jesus",
+        "Anjo"
+      ]
+    },
+    "44": {
+      "parafrase": "Tomado pela dor profunda, Sua luta foi tão intensa que Seu suor se tornou como grossas gotas de sangue que pingavam no chão. 🩸",
+      "referencias": [
+        "Mateus 26:44",
+        "Hebreus 12:4"
+      ],
+      "comentario": "A condição médica descrita é conhecida como hematidrose. É o ápice do estresse psicossomático, onde a pressão emocional e espiritual é tão grande que os capilares sanguíneos rompem sob a pele, misturando-se ao suor. É uma imagem vívida da Sua agonia sacrificial.",
+      "temas": [
+        "Agonia Física",
+        "Sacrifício Extremo"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
+    },
+    "45": {
+      "parafrase": "Quando terminou essa oração fervorosa, Ele voltou para onde estavam os discípulos e os encontrou dormindo, exaustos pelo cansaço.",
+      "referencias": [
+        "Mateus 26:40",
+        "Marcos 14:37"
+      ],
+      "comentario": "A exaustão dos discípulos contrasta com a vigília de Jesus, evidenciando a falha humana em compartilhar o fardo espiritual do Mestre, mesmo após terem sido avisados.",
+      "temas": [
+        "Fadiga dos Discípulos",
+        "Incapacidade Humana"
+      ],
+      "personagens": [
+        "Jesus",
+        "Os Discípulos"
+      ]
+    },
+    "46": {
+      "parafrase": "Ele lhes perguntou, com um misto de decepção e ternura: 'Por que estão dormindo? Levantem-se e orem, para que a fraqueza não os vença quando a hora da verdade chegar!'",
+      "referencias": [
+        "Mateus 26:41",
+        "Efésios 6:18"
+      ],
+      "comentario": "A advertência é urgente: o sono físico leva à queda espiritual. A palavra 'cair' (ekpeisete) aqui tem a conotação de falhar no teste de resistência ou ser dominado pela fraqueza moral.",
+      "temas": [
+        "Advertência",
+        "Vigilância Necessária"
+      ],
+      "personagens": [
+        "Jesus",
+        "Os Discípulos"
+      ]
+    },
+    "47": {
+      "parafrase": "Enquanto Ele ainda falava, uma multidão se aproximou. À frente deles vinha Judas Iscariotes, um dos doze, que caminhava à frente para sinalizar quem era Jesus. Ele se aproximou para beijá-Lo. 😠",
+      "referencias": [
+        "Mateus 26:47",
+        "João 18:3"
+      ],
+      "comentario": "O ato de Judas trair Jesus através de um beijo (philema) é a personificação da hipocrisia suprema, transformando o sinal de afeto e respeito em um sinal de traição e entrega para a prisão.",
+      "temas": [
+        "Traição",
+        "Hipocrisia"
+      ],
+      "personagens": [
+        "Jesus",
+        "Judas Iscariotes",
+        "Multidão"
+      ]
+    },
+    "48": {
+      "parafrase": "Mas Jesus o questionou diretamente: 'Judas, você está entregando o Filho do Homem com um beijo, que é um sinal de amizade?' 😟",
+      "referencias": [
+        "Mateus 26:50"
+      ],
+      "comentario": "Jesus expõe a natureza do ato de Judas, usando o termo 'Filho do Homem' (que aponta para Sua identidade messiânica e gloriosa), o que torna a traição ainda mais chocante e deliberada.",
+      "temas": [
+        "Identidade de Cristo",
+        "Confronto com o Traidor"
+      ],
+      "personagens": [
+        "Jesus",
+        "Judas Iscariotes"
+      ]
+    },
+    "49": {
+      "parafrase": "Quando os que estavam com Jesus perceberam o que estava prestes a acontecer, perguntaram: 'Mestre, devemos usar as espadas? Devemos atacar e defendê-Lo com violência agora?'",
+      "referencias": [
+        "Mateus 26:51"
+      ],
+      "comentario": "A confusão dos discípulos reflete a tensão entre as instruções anteriores (sobre comprar espadas) e a iminência do perigo. Eles ainda pensavam em uma defesa física e terrena.",
+      "temas": [
+        "Confusão dos Discípulos",
+        "Defesa Armada"
+      ],
+      "personagens": [
+        "Os Discípulos",
+        "Jesus"
+      ]
+    },
+    "50": {
+      "parafrase": "Um deles, porém, agiu precipitadamente, atacou o servo do sumo sacerdote e cortou sua orelha direita. ⚔️👂",
+      "referencias": [
+        "João 18:10",
+        "Mateus 26:51"
+      ],
+      "comentario": "Este discípulo é identificado em João como Pedro (João 18:10), confirmando sua impulsividade. O alvo foi o lóbulo da orelha (otas), e a ação foi realizada antes que Jesus pudesse intervir ou dar a ordem final.",
+      "temas": [
+        "Ação Precipitada",
+        "Violência Inoportuna"
+      ],
+      "personagens": [
+        "Discípulo (Pedro)",
+        "Servo do Sumo Sacerdote"
+      ]
+    },
+    "51": {
+      "parafrase": "Mas Jesus, no meio daquela tensão, estendeu a mão e tocou a orelha do servo do sumo sacerdote, que estava sendo atacado. Com um toque suave e divino, Ele a restaurou imediatamente, dizendo: 'Basta! Chega desta violência!' O toque do Mestre trouxe cura instantânea onde a fúria humana havia causado dano.",
+      "referencias": [
+        "Mateus 26:52",
+        "João 18:10"
+      ],
+      "comentario": "Este é um ato de misericórdia suprema no clímax da traição e prisão. Jesus, sendo capturado, opera um milagre para curar o agressor (Malco, identificado em João). O grego para 'tocar' é 'haptomai' (tocar levemente), indicando um contato intencional. Jesus prioriza a restauração em vez da vingança, demonstrando Seu domínio sobre a situação, mesmo na hora da Sua maior vulnerabilidade terrena.",
+      "temas": [
+        "Misericórdia em meio ao conflito",
+        "Poder de cura",
+        "Restituição divina"
+      ],
+      "personagens": [
+        "Jesus",
+        "Servo do sumo sacerdote (Malco)"
+      ]
+    },
+    "52": {
+      "parafrase": "Então Jesus se dirigiu à multidão de soldados e líderes religiosos que O cercavam com espadas e clavas, como se fossem enfrentar um bandido perigoso. Ele perguntou com uma autoridade calma, mas firme: 'Por que vocês vieram me prender como se eu fosse um criminoso sanguinário, armado com armas, sendo que todos os dias eu ensinei abertamente no Templo, sem esconder uma única palavra?'",
+      "referencias": [
+        "Isaías 53:2",
+        "Atos 5:42"
+      ],
+      "comentario": "Jesus confronta a hipocrisia e a metodologia da prisão. A frase 'como a um ladrão' (ou 'rebelde/fora da lei') aponta para a forma como Ele estava sendo tratado, em contraste com o Seu ministério público ('no templo', 'todos os dias'). Ele destaca a falta de necessidade de uma emboscada noturna, pois Sua mensagem nunca foi secreta.",
+      "temas": [
+        "Hipocrisia religiosa",
+        "Confronto com a autoridade",
+        "Luz contra as trevas"
+      ],
+      "personagens": [
+        "Jesus",
+        "Multidão de soldados/líderes"
+      ]
+    },
+    "53": {
+      "parafrase": "No entanto, tudo aquilo que estava acontecendo era exatamente o que as Escrituras antigas haviam predito, o plano eterno de Deus para este momento. Era a hora das trevas e o poder das forças espirituais hostis assumirem o controle da situação terrena.",
+      "referencias": [
+        "Gênesis 3:15",
+        "Efésios 6:12"
+      ],
+      "comentario": "Esta é uma das afirmações mais profundas de Lucas sobre a soberania de Cristo. A 'hora das trevas' ('hōra tōn skotiōn') refere-se ao poder satânico temporário que opera através dos inimigos de Jesus. O evento não é um acidente; é o cumprimento da profecia, validando o sacrifício vindouro.",
+      "temas": [
+        "Soberania divina",
+        "Cumprimento profético",
+        "Oposição espiritual"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
+    },
+    "54": {
+      "parafrase": "E assim, eles O agarraram e O levaram dali, arrastando-O, sem qualquer respeito, para a residência particular do sumo sacerdote, Caifás. O local estava preparado para o julgamento secreto e injusto.",
+      "referencias": [
+        "Miquéias 7:6",
+        "Mateus 27:27"
+      ],
+      "comentario": "O desrespeito físico ('arrastaram-O') contrasta com a dignidade inerente de Cristo. A menção ao sumo sacerdote Caifás situa o início do processo judicial que se desenrolará durante a noite.",
+      "temas": [
+        "Injustiça processual",
+        "Prisão e transporte"
+      ],
+      "personagens": [
+        "Jesus",
+        "Caifás"
+      ]
+    },
+    "55": {
+      "parafrase": "Enquanto isso, um grande tumulto se formou. Uma multidão seguidora, composta por alguns que O amavam e muitos outros que estavam ali por curiosidade ou desejo de ver o desfecho, começou a se aglomerar no pátio da casa do sacerdote.",
+      "referencias": [
+        "Salmos 35:15",
+        "Atos 17:5"
+      ],
+      "comentario": "O cenário é de confusão pública. A chegada de Jesus ao palácio desencadeia uma reação popular, misturando curiosidade com a expectativa de um julgamento político.",
+      "temas": [
+        "Reação popular",
+        "Agitação social"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
+    },
+    "56": {
+      "parafrase": "Nesse meio tempo, uma serva, que estava ali vigiando Pedro, olhou para ele com suspeita e, apontando, afirmou com convicção: 'Este homem também estava com aquele Nazareno!', referindo-se a Jesus.",
+      "referencias": [
+        "Mateus 26:69"
+      ],
+      "comentario": "A primeira negação de Pedro ocorre aqui. A serva usa o termo 'Nazareno' (Jesus de Nazaré), um epíteto pejorativo usado pelas autoridades para desqualificá-Lo.",
+      "temas": [
+        "Identificação e perigo",
+        "Pressão social"
+      ],
+      "personagens": [
+        "Pedro",
+        "Serva"
+      ]
+    },
+    "57": {
+      "parafrase": "Pedro, sentindo o peso do olhar de todos, ficou aterrorizado e, negando veementemente, gritou: 'Mulher, eu nem sequer O conheço! Não sei do que você está falando!'",
+      "referencias": [
+        "Mateus 26:70"
+      ],
+      "comentario": "A negação é imediata e veemente ('arneomai' com ênfase). O medo da perseguição e do linchamento público supera o discipulado imediato de Pedro. Ele se distancia do Mestre para salvar a própria vida.",
+      "temas": [
+        "Negação por medo",
+        "Fragilidade humana"
+      ],
+      "personagens": [
+        "Pedro"
+      ]
+    },
+    "58": {
+      "parafrase": "Pouco tempo depois, outra pessoa O viu e disse: 'Você definitivamente faz parte daquele grupo!' Mas Pedro, sentindo-se ainda mais encurralado e pressionado pela acusação, respondeu com firmeza: 'Homem, eu não sou nada parecido com Ele! Sou inocente disso!'",
+      "referencias": [
+        "Mateus 26:71"
+      ],
+      "comentario": "A segunda negação é motivada pela continuação da acusação. O uso de 'Homem' (andropos) reforça a negação da associação pessoal.",
+      "temas": [
+        "Pressão e negação",
+        "Isolamento do discípulo"
+      ],
+      "personagens": [
+        "Pedro"
+      ]
+    },
+    "59": {
+      "parafrase": "Depois de cerca de uma hora, um terceiro indivíduo, mais insistente, afirmou com certeza absoluta: 'É impossível que não seja ele! Aquele sotaque, a maneira de falar, denuncia que este homem esteve com Jesus, pois ele é da Galileia, assim como Ele!'",
+      "referencias": [
+        "Mateus 26:73"
+      ],
+      "comentario": "A terceira negação é acionada por uma evidência de sotaque ou dialeto ('lalalá' grego, referindo-se à fala galilaica). O sotaque de Pedro era uma marca inconfundível de sua origem, tornando a negação mais difícil de sustentar.",
+      "temas": [
+        "Identificação por origem",
+        "A verdade exposta"
+      ],
+      "personagens": [
+        "Pedro",
+        "Acusador"
+      ]
+    },
+    "60": {
+      "parafrase": "Pedro, vendo que não havia mais escapatória e que seu disfarce havia sido desvendado, irrompeu em um juramento terrível e amaldiçoou a si mesmo, gritando com desespero e angústia: 'Eu juro por tudo que é sagrado, eu não sei quem é Este Homem sobre quem vocês estão falando!'",
+      "referencias": [
+        "Mateus 26:74"
+      ],
+      "comentario": "A terceira negação é marcada pelo uso de imprecações ou maldições sobre si mesmo ('anathematizein'). Isso demonstra o pânico total de Pedro e o grau de afastamento emocional e espiritual em que ele se encontrava naquele momento de fraqueza extrema.",
+      "temas": [
+        "Desespero e maldição",
+        "Ato extremo de medo"
+      ],
+      "personagens": [
+        "Pedro"
+      ]
+    },
+    "61": {
+      "parafrase": "No exato instante em que Pedro proferia sua última e desesperada negação, um galo cantou, o som agudo e estridente cortando o silêncio da noite, exatamente como o Mestre havia previsto.",
+      "referencias": [
+        "Mateus 26:75",
+        "Marcos 14:72"
+      ],
+      "comentario": "O canto do galo ('alektōr') é o ponto de virada dramático. É o cumprimento profético direto da advertência de Jesus no capítulo anterior (Lc 22:34). Este som é um gatilho instantâneo para a memória e o arrependimento.",
+      "temas": [
+        "Profecia cumprida",
+        "O despertar da consciência"
+      ],
+      "personagens": [
+        "Pedro",
+        "Jesus (em memória)"
+      ]
+    },
+    "62": {
+      "parafrase": "Ao ouvir o som estridente do galo, Pedro se deu conta da gravidade do seu ato. Ele se lembrou imediatamente de tudo o que Jesus lhe havia dito sobre a sua fraqueza. Dominado pela dor, ele saiu apressadamente e chorou amargamente, um lamento profundo e dilacerante.",
+      "referencias": [
+        "Mateus 26:75",
+        "Salmos 51:4"
+      ],
+      "comentario": "O choro de Pedro ('klaisas pikrōs' - chorar amargamente/intensamente) é o reflexo de seu quebrantamento. Não é apenas tristeza, mas um profundo remorso pela traição cometida sob coação do medo. Este choro o prepara para a restauração futura.",
+      "temas": [
+        "Arrependimento genuíno",
+        "Quebrantamento",
+        "Dor do discipulado falho"
+      ],
+      "personagens": [
+        "Pedro"
+      ]
+    },
+    "63": {
+      "parafrase": "Enquanto Pedro estava se lamentando, os guardas que vigiavam Jesus, que estavam zombando d'Ele, começaram a maltratá-Lo fisicamente. Eles O agrediam, cobrindo-O de insultos e espancamentos.",
+      "referencias": [
+        "Isaías 50:6",
+        "Mateus 27:27"
+      ],
+      "comentario": "A cena muda para o tratamento dado a Jesus. Enquanto um discípulo chora por ter falhado, o Mestre absorve o sofrimento físico e verbal. Os guardas zombavam ('empaizontes'), descarregando sua frustração e ódio sobre o prisioneiro indefeso.",
+      "temas": [
+        "Zombaria e escárnio",
+        "Sofrimento físico de Cristo"
+      ],
+      "personagens": [
+        "Jesus",
+        "Guardas"
+      ]
+    },
+    "64": {
+      "parafrase": "Eles vendaram os Seus olhos com um pano grosso para que Ele não pudesse ver nada, e então começaram a desafiá-Lo com sarcasmo cruel: 'Se você é tão poderoso, profetize quem O tocou agora! Mostre-nos que você realmente sabe quem está batendo em você!'",
+      "referencias": [
+        "Miquéias 5:1",
+        "Marcos 14:65"
+      ],
+      "comentario": "A venda dos olhos (vendagem) é um ato de humilhação que antecede o teste profético. Eles ironicamente pedem uma demonstração de Sua onisciência ('profetiza'). O grego para 'bater' é 'rhaptō', que pode significar dar um tapa ou esbofetear.",
+      "temas": [
+        "Humilhação",
+        "Desafio à divindade"
+      ],
+      "personagens": [
+        "Jesus",
+        "Guardas"
+      ]
+    },
+    "65": {
+      "parafrase": "E eles O insultaram de muitas outras maneiras, proferindo blasfêmias e injúrias cruéis, enquanto continuavam a bater em Seu rosto e cabeça.",
+      "referencias": [
+        "Filipenses 2:7",
+        "Hebreus 12:2"
+      ],
+      "comentario": "Este versículo resume a violência física e verbal. A continuidade dos insultos ('e heterois pollos' - e com muitas outras coisas) mostra a barbárie do tratamento infligido ao Messias.",
+      "temas": [
+        "Abuso e blasfêmia",
+        "Intensificação do sofrimento"
+      ],
+      "personagens": [
+        "Jesus",
+        "Guardas"
+      ]
+    },
+    "66": {
+      "parafrase": "Assim que amanheceu, o Sinédrio, a assembleia dos líderes religiosos e anciãos, reuniu-se com urgência. Levaram Jesus, que havia passado a noite em sofrimento, diretamente para a sua sala de audiências formal.",
+      "referencias": [
+        "Mateus 27:1",
+        "Atos 4:5"
+      ],
+      "comentario": "A transição para o dia marca o início do julgamento legal perante o Sinédrio (a alta corte judaica). Eles se reúnem 'en to methopō', ao amanhecer, buscando a condenação oficial antes que Pilatos estivesse totalmente ativo.",
+      "temas": [
+        "Julgamento formal",
+        "Continuidade da acusação"
+      ],
+      "personagens": [
+        "Jesus",
+        "Sinédrio"
+      ]
+    },
+    "67": {
+      "parafrase": "Eles O pressionaram com uma pergunta crucial, que era a chave para a condenação: 'Se você é o Cristo, o Ungido de Deus, fale-nos claramente! Diga-nos, você é o Messias?'",
+      "referencias": [
+        "João 10:24",
+        "Daniel 9:25"
+      ],
+      "comentario": "A pergunta central é sobre Sua identidade messiânica ('Ei ho Christos;'). Se Ele afirmasse, seria blasfêmia aos olhos deles. Se negasse, não teriam base para entregá-Lo aos romanos, por isso a pressão era máxima.",
+      "temas": [
+        "Identidade messiânica",
+        "O dilema da confissão"
+      ],
+      "personagens": [
+        "Jesus",
+        "Sinédrio"
+      ]
+    },
+    "68": {
+      "parafrase": "Jesus lhes respondeu com sabedoria e cautela, pois sabia que eles estavam cheios de intenções maliciosas: 'Se Eu lhes perguntar se vocês creem que Eu sou o Ungido, vocês certamente me rejeitarão e não aceitarão minha resposta.'",
+      "referencias": [
+        "João 8:44",
+        "Provérbios 1:29"
+      ],
+      "comentario": "Jesus revela a raiz do problema: a incredulidade pré-existente ('ou mē pisteusēte'). Eles não estavam buscando a verdade, mas sim uma confissão que pudessem usar como evidência, independentemente do conteúdo da resposta.",
+      "temas": [
+        "Incredulidade obstinada",
+        "A futilidade de argumentar com o cego"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
+    },
+    "69": {
+      "parafrase": "Então, Ele lhes deu a resposta definitiva, elevando o nível da declaração: 'Mas a partir de agora, o Filho do Homem — Aquele que tem Sua glória vindoura — estará sentado à direita do poder supremo de Deus, ocupando o trono de autoridade máxima!'",
+      "referencias": [
+        "Salmos 110:1",
+        "Daniel 7:13"
+      ],
+      "comentario": "Esta é uma auto-declaração messiânica poderosa, citando Daniel 7:13 e Salmos 110:1. 'Filho do Homem' (huios tou anthrōpou) é o título preferido de Jesus para Sua identidade glorificada. A referência ao 'poder de Deus' é um hebraísmo para 'Deus' em Sua plenitude de autoridade ('dynamis tou theou').",
+      "temas": [
+        "Exaltação e Glória",
+        "Identidade do Filho do Homem",
+        "Autoridade Divina"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
+    },
+    "70": {
+      "parafrase": "Ao ouvir isso, todos os membros do Sinédrio explodiram em indignação coletiva, gritando em uníssono: 'Então você se declara abertamente como o Filho de Deus?! Você está confirmando que é o Ser Divino?!'",
+      "referencias": [
+        "João 19:7",
+        "Levítico 24:16"
+      ],
+      "comentario": "A reação deles é imediata e culmina na acusação de blasfêmia, pois 'Filho de Deus' era interpretado como reivindicação à divindade. A frase grega indica que eles ficaram 'todos' atônitos e questionaram a confissão aberta.",
+      "temas": [
+        "Acusação de blasfêmia",
+        "Conflito teológico"
+      ],
+      "personagens": [
+        "Jesus",
+        "Sinédrio"
+      ]
+    },
+    "71": {
+      "parafrase": "Eles concluíram o interrogatório, dizendo entre si: 'Não precisamos mais de nenhuma testemunha, nem de outro depoimento. Nós mesmos ouvimos a blasfêmia sair diretamente de Sua boca! O veredito está decidido!'",
+      "referencias": [
+        "Deuteronômio 17:6",
+        "Mateus 26:65"
+      ],
+      "comentario": "O Sinédrio decide que a confissão de Jesus é prova suficiente para a pena de morte, dispensando a necessidade de testemunhas (embora a Lei exigisse duas). A auto-condenação é baseada na 'própria boca' de Jesus, selando Seu destino humano.",
+      "temas": [
+        "Auto-condenação",
+        "Veredito final",
+        "Julgamento apressado"
+      ],
+      "personagens": [
+        "Jesus",
+        "Sinédrio"
+      ]
     }
   }
 }

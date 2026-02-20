@@ -1,249 +1,579 @@
 {
   "livro": "Êxodo",
   "capitulo": 16,
-  "contexto_historico": "Este capítulo de Êxodo descreve a murmuração de Israel no deserto por falta de comida e a provisão milagrosa de Deus com o maná e as codornizes. Após a travessia do Mar Vermelho e a experiência em Mara e Elim, o povo se encontra no deserto de Sim, onde a comida se torna escassa. Sua murmuração revela uma falta de fé e uma nostalgia do Egito. Deus, no entanto, demonstra Sua fidelidade e Seu cuidado, provendo alimento de forma sobrenatural. Ele estabelece instruções para a coleta do maná, incluindo a proibição de guardar para o dia seguinte e a provisão dobrada no sexto dia para o sábado. A desobediência de alguns israelitas é destacada, e a fidelidade de Deus em prover para Seu povo é enfatizada, servindo como um teste de sua obediência.",
-  "bloco_tematico": "A Provisão de Maná e Codornizes no Deserto e o Teste da Obediência",
+  "contexto_historico": "Após a libertação milagrosa do Egito (Êxodo 1-14) e a travessia do Mar Vermelho, o povo de Israel, ainda em estado de choque e desorganização, caminha pelo deserto do Sin. Eles acabaram de experimentar o poder avassalador de Deus contra o Egito, mas já demonstram sinais de desconfiança e nostalgia pela vida passada, apesar da escravidão. Este capítulo marca o primeiro grande teste de provisão e fé no deserto, onde a queixa da fome se torna o catalisador para a manifestação da fidelidade divina como Pão do Céu. É a transição da salvação imediata para a sustentação diária. 🏜️🍞",
+  "bloco_tematico": "A Provisão Divina no Deserto: Maná e Codornizes 🕊️🍽️",
   "versiculos": {
     "1": {
-      "parafrase": "E eles viajaram de Elim, e toda a congregação dos filhos de Israel veio ao deserto de Sim, que está entre Elim e Sinai, no décimo quinto dia do segundo mês depois que eles saíram da terra do Egito.",
-      "referencias": [],
-      "comentario": "Após a experiência em Elim, Israel chega ao deserto de Sim, um local de escassez, marcando uma nova fase em sua jornada. A data é significativa, indicando o tempo desde a saída do Egito.",
-      "temas": ["jornada", "deserto", "Sim", "escassez", "tempo"],
-      "personagens": []
+      "parafrase": "No décimo quinto dia do segundo mês após a grande libertação do Egito, toda a congregação de Israel se reuniu. Eles se levantaram, deixando o acampamento de Elim, e marcharam juntos, seguindo a determinação divina, até chegarem ao vasto e árido deserto de Sim, que fica entre Elim e o monte Sinai. Era um lugar de provação, onde a escassez já começava a se fazer sentir.",
+      "referencias": [
+        "Êxodo 12:51",
+        "Números 33:10"
+      ],
+      "comentario": "O segundo mês (Iyar) marca o início do primeiro grande teste logístico e de fé após a Páscoa. O deserto de Sim é o palco onde a dependência de Deus será testada contra a memória da fartura egípcia. A menção de 'toda a congregação' (Edah) enfatiza a unidade da nação neste desafio inicial.",
+      "temas": [
+        "Início da jornada",
+        "Dependência divina",
+        "Provocação no deserto"
+      ],
+      "personagens": [
+        "Israel"
+      ]
     },
     "2": {
-      "parafrase": "E toda a congregação dos filhos de Israel murmurou contra Moisés e Arão no deserto;
+      "parafrase": "Ali, à vista de todos, a queixa começou a surgir. O povo se uniu contra Moisés e contra Arão, como se fossem eles os responsáveis diretos pelo sofrimento da sede, e clamaram: 'Ah, se ao menos o Senhor tivesse nos matado no Egito! Teria sido melhor morrer saciados de pão, sentados confortavelmente, do que nos trazer para este lugar desolado, apenas para morrermos de sede!'",
+      "referencias": [
+        "Números 11:4",
+        "Êxodo 14:11"
+      ],
+      "comentario": "Este é o primeiro grande ato de murmuração (Heb. *'lônôn*). O povo troca a visão da eternidade pela memória idealizada do passado ('pão farto'). Eles preferem a escravidão confortável à liberdade desafiadora. A queixa é dirigida aos líderes, mas é, fundamentalmente, um ataque à liderança de Deus.",
+      "temas": [
+        "Murmuração",
+        "Nostalgia da escravidão",
+        "Incredulidade"
+      ],
+      "personagens": [
+        "Israel",
+        "Moisés",
+        "Arão"
+      ]
+    },
     "3": {
-      "parafrase": "e os filhos de Israel lhes disseram: 'Quem dera tivéssemos morrido pela mão do Senhor na terra do Egito, quando nos sentávamos junto às panelas de carne e quando comíamos pão até a saciedade; pois vocês nos trouxeram para este deserto para matar de fome toda esta assembleia.'",
-      "referencias": [],
-      "comentario": "O povo de Israel murmura contra Moisés e Arão por causa da falta de comida, expressando nostalgia do Egito e acusando-os de querer matá-los de fome. Sua incredulidade e ingratidão são evidentes.",
-      "temas": ["murmuração", "incredulidade", "ingratidão", "fome", "nostalgia"],
-      "personagens": ["Moisés", "Arão"]
+      "parafrase": "Moisés, ouvindo o coro de reclamações, virou-se para Arão e disse: 'O que faremos? Este povo está prestes a nos apedrejar de tanta frustração!'",
+      "referencias": [
+        "Êxodo 17:4",
+        "Números 14:10"
+      ],
+      "comentario": "A reação de Moisés mostra o peso da liderança. O medo do apedrejamento não é apenas um medo físico, mas o reconhecimento de que a fé do povo ruiu tão rapidamente que eles estão dispostos a anular o líder designado por Deus. É o auge da pressão sobre Moisés.",
+      "temas": [
+        "Pressão da liderança",
+        "Confronto com a incredulidade"
+      ],
+      "personagens": [
+        "Moisés",
+        "Arão"
+      ]
     },
     "4": {
-      "parafrase": "Então o Senhor disse a Moisés: 'Vejam, eu farei chover pão do céu para vocês; e o povo sairá e ajuntará uma porção diária, para que eu possa prová-los, se eles andarão na minha lei ou não.'",
-      "referencias": [],
-      "comentario": "Deus promete prover pão do céu (maná) para Israel, mas com a condição de que eles ajuntem uma porção diária. Isso servirá como um teste de sua obediência à Lei de Deus.",
-      "temas": ["provisão divina", "maná", "pão do céu", "teste", "obediência", "Lei"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "Então, o Senhor falou diretamente a Moisés, instruindo-o a reunir o povo e dizer a eles: 'Preparem-se! Amanhã de manhã, quando o sol nascer, observem! Eu farei chover o alimento do céu para vocês. Vocês comerão até se fartar, e então saberão, sem sombra de dúvida, que Eu Sou o Senhor, seu Deus, quem os tirou da terra do Egito.'",
+      "referencias": [
+        "Salmos 78:24",
+        "João 6:31"
+      ],
+      "comentario": "A resposta de Deus é imediata e soberana. Ele ignora a ofensa e foca no propósito: santificar Seu Nome. O 'Eu Sou o Senhor' (YHWH) liga a provisão futura à identidade revelada a Moisés na sarça. A comida não é apenas sustento; é prova teológica.",
+      "temas": [
+        "Provisão divina",
+        "Revelação do Nome",
+        "Soberania de Deus"
+      ],
+      "personagens": [
+        "Deus",
+        "Moisés"
+      ]
     },
     "5": {
-      "parafrase": "'E acontecerá que no sexto dia eles prepararão o que trouxerem, e será o dobro do que eles ajuntam diariamente.'",
-      "referencias": [],
-      "comentario": "Deus instrui que no sexto dia, eles devem ajuntar o dobro da porção diária, para que não precisem trabalhar no sábado. Isso estabelece a santidade do sábado.",
-      "temas": ["sábado", "provisão dobrada", "descanso", "santidade"],
-      "personagens": ["Deus"]
+      "parafrase": "E Moisés acrescentou as instruções para o dia seguinte: 'À tarde, vocês verão a glória do Senhor se manifestar, pois Ele ouviu a reclamação de vocês. Mas o que estamos vendo é só o começo. O que o Senhor enviará para vocês comerem não é um milagre esporádico; é o pão que Ele dará todos os dias, como parte do Seu pacto com vocês.'",
+      "referencias": [
+        "Êxodo 16:10",
+        "Salmos 105:40"
+      ],
+      "comentario": "Moisés distingue a manifestação da glória (visível ao entardecer, que veremos no v. 6-7) da provisão diária. O ponto central é a *regularidade* da fidelidade de Deus, contrastando com a *imprevisibilidade* da vida egípcia (onde o sustento era garantido, mas a liberdade não).",
+      "temas": [
+        "Glória de Deus",
+        "Fidelidade diária",
+        "Distinção entre julgamento e provisão"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "6": {
-      "parafrase": "E Moisés e Arão disseram a todos os filhos de Israel: 'À tarde, vocês saberão que o Senhor os tirou da terra do Egito;
+      "parafrase": "À tarde, quando o sol começou a se pôr, uma surpresa cobriu o acampamento: codornizes voaram e se espalharam por todo o lugar, cobrindo o chão. Assim, o povo teve carne para comer.",
+      "referencias": [
+        "Números 11:31-32",
+        "Salmos 105:40"
+      ],
+      "comentario": "A primeira provisão é a carne (codornizes). Esta satisfaz a queixa inicial de 'queremos carne' (implícita no desejo de voltar ao Egito). A chegada das aves é um evento natural que Deus orquestra ('elas vieram e cobriram o acampamento'), mostrando Seu controle sobre a natureza.",
+      "temas": [
+        "Provisão de carne",
+        "Soberania sobre a fauna",
+        "Satisfação imediata"
+      ],
+      "personagens": [
+        "Israel"
+      ]
+    },
     "7": {
-      "parafrase": "e pela manhã, vocês verão a glória do Senhor; pois Ele ouviu as suas murmurações contra o Senhor. E o que somos nós, para que vocês murmurem contra nós?'",
-      "references": [],
-      "comentario": "Moisés e Arão anunciam que à tarde e pela manhã, Israel verá a glória de Deus, que ouviu suas murmurações. Eles enfatizam que a murmuração é contra Deus, não contra eles.",
-      "temas": ["glória de Deus", "murmuração", "conhecimento de Deus", "autoridade"],
-      "personagens": ["Moisés", "Arão"]
+      "parafrase": "E, como prometido, na manhã seguinte, quando o orvalho se dissipou, uma camada fina e peculiar cobriu o chão do deserto. Era algo inédito e estranho, como gelo fino ou granizo, mas era o pão que vinha do céu.",
+      "referencias": [
+        "Neemias 9:15",
+        "João 6:31"
+      ],
+      "comentario": "Aqui inicia a provisão do Maná. O contraste entre o orvalho/gelo e o pão destaca a natureza milagrosa do alimento. O povo ainda não sabe o que é, mas a textura é descrita como algo leve e translúcido.",
+      "temas": [
+        "O Milagre do Maná",
+        "Provisão sobrenatural",
+        "Fenômenos celestiais"
+      ],
+      "personagens": []
     },
     "8": {
-      "parafrase": "E Moisés disse: 'Isso será quando o Senhor lhes der à tarde carne para comer, e pela manhã pão até a saciedade; pois o Senhor ouviu as suas murmurações que vocês murmuram contra Ele. E o que somos nós? As suas murmurações não são contra nós, mas contra o Senhor.'",
-      "references": [],
-      "comentario": "Moisés reitera que Deus proverá carne e pão, pois ouviu suas murmurações. Ele novamente enfatiza que a murmuração é contra Deus, não contra eles. A provisão é uma resposta à queixa.",
-      "temas": ["provisão divina", "carne", "pão", "murmuração", "soberania divina"],
-      "personagens": ["Moisés"]
+      "parafrase": "Moisés explicou a situação quando o povo olhou para aquilo, perguntando: 'O que é isso?'. Ele respondeu: 'Isto é o pão que o Senhor lhes deu para comer. O Senhor ordenou que cada um colete apenas a porção exata que for necessária para sustentar sua família por aquele dia.'",
+      "referencias": [
+        "Êxodo 16:16",
+        "Mateus 6:11"
+      ],
+      "comentario": "O Maná é identificado explicitamente como 'Pão do Senhor'. A regra crucial é estabelecida: a coleta deve ser *por dia*. Isso força o povo a viver no presente e depender da provisão diária, não permitindo acumulação de ansiedade ou excesso.",
+      "temas": [
+        "Instruções do Maná",
+        "Confiança diária",
+        "Ordem e medida"
+      ],
+      "personagens": [
+        "Moisés",
+        "Israel"
+      ]
     },
     "9": {
-      "parafrase": "E Moisés disse a Arão: 'Diga a toda a congregação dos filhos de Israel: Aproximem-se do Senhor, pois Ele ouviu as suas murmurações.'",
-      "references": [],
-      "comentario": "Moisés instrui Arão a convocar a congregação para se aproximar de Deus, pois Ele ouviu suas murmurações. A aproximação é para a revelação da glória de Deus.",
-      "temas": ["Moisés", "Arão", "congregação", "murmuração", "aproximação divina"],
-      "personagens": ["Moisés", "Arão"]
+      "parafrase": "Moisés então instruiu Arão a pegar um pote de ouro – um recipiente sagrado – e colocar nele uma medida do maná. Este pote deveria ser guardado para as gerações futuras, como um testemunho perpétuo de que o Senhor havia sustentado Israel no deserto.",
+      "referencias": [
+        "Hebreus 9:4",
+        "Êxodo 25:16"
+      ],
+      "comentario": "Embora o texto descreva a coleta de um pote de maná para testemunho, o mandamento subsequente (v. 33) detalha o que deve ser guardado: um pote cheio de maná. Este pote foi colocado na Arca da Aliança, simbolizando a provisão contínua de Deus mesmo após a entrada na Terra Prometida.",
+      "temas": [
+        "Testemunho e memória",
+        "Símbolos do pacto",
+        "Propósito da provisão"
+      ],
+      "personagens": [
+        "Moisés",
+        "Arão"
+      ]
     },
     "10": {
-      "parafrase": "E aconteceu que, enquanto Arão falava a toda a congregação dos filhos de Israel, eles olharam para o deserto, e, vejam, a glória do Senhor apareceu na nuvem.",
-      "references": [],
-      "comentario": "Enquanto Arão fala, a glória do Senhor aparece na nuvem, confirmando a presença divina e a resposta de Deus às murmurações. A manifestação é visível e poderosa.",
-      "temas": ["Arão", "glória de Deus", "nuvem", "presença divina", "manifestação"],
-      "personagens": ["Arão"]
+      "parafrase": "Enquanto Arão preparava o pote memorial, Moisés disse ao povo: 'Cheguem mais perto do Senhor! Olhem para a nuvem de glória que paira sobre nós, pois o Senhor está prestes a manifestar Seu poder e Sua presença diante de todos vocês.'",
+      "referencias": [
+        "Êxodo 13:21",
+        "Êxodo 40:34"
+      ],
+      "comentario": "A manifestação da glória (*Shekhinah*) é um evento público, uma demonstração de que Deus não está apenas provendo, mas *habitando* no meio deles. Este ato serve para acalmar o medo gerado pela murmuração anterior e reafirmar a aliança.",
+      "temas": [
+        "Presença de Deus",
+        "Glória Divina",
+        "Reafirmação da aliança"
+      ],
+      "personagens": [
+        "Moisés",
+        "Arão",
+        "Israel"
+      ]
     },
     "11": {
-      "parafrase": "E o Senhor falou a Moisés, dizendo:",
-      "references": [],
-      "comentario": "Deus se comunica diretamente com Moisés, dando-lhe instruções para a provisão de alimento.",
-      "temas": ["Palavra de Deus", "revelação", "instruções"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "E aconteceu que, quando Arão terminou de colocar o pote memorial, a glória do Senhor se manifestou, brilhando como um fogo intenso, e se estendeu sobre todo o acampamento de Israel.",
+      "referencias": [
+        "Êxodo 16:7",
+        "Levítico 9:23"
+      ],
+      "comentario": "A glória aparece no momento exato em que a obediência ritual (guardar o testemunho) é completada, validando a ação dos líderes. É uma teofania visual e poderosa.",
+      "temas": [
+        "Teofania",
+        "Poder divino",
+        "Validação da liderança"
+      ],
+      "personagens": [
+        "Senhor",
+        "Arão",
+        "Israel"
+      ]
     },
     "12": {
-      "parafrase": "'Eu ouvi as murmurações dos filhos de Israel; fale com eles, dizendo: À tarde vocês comerão carne, e pela manhã vocês se fartarão de pão; e vocês saberão que eu sou o Senhor, seu Deus.'",
-      "references": [],
-      "comentario": "Deus ouviu as murmurações de Israel e promete prover carne à tarde e pão pela manhã, para que eles saibam que Ele é o Senhor. A provisão é para o conhecimento de Deus.",
-      "temas": ["murmuração", "carne", "pão", "provisão divina", "conhecimento de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "O Senhor então se dirigiu a Moisés, dizendo: 'Eu ouvi a totalidade das queixas dos filhos de Israel. Diga a eles claramente: ao cair da noite, vocês comerão carne, e pela manhã, serão fartos de pão, e então finalmente verão que Eu sou o Senhor, o seu Deus, Aquele que os resgatou das amarras do Egito.'",
+      "referencias": [
+        "Êxodo 16:6",
+        "Salmos 106:14"
+      ],
+      "comentario": "Este versículo é quase uma repetição do v. 4, mas com a adição da carne (codornizes) no ciclo de provisão. Deus reafirma o ciclo de provisão como prova de Sua identidade redentora. A repetição visa gravar a lição no coração do povo.",
+      "temas": [
+        "Provisão cíclica",
+        "Confirmação da identidade",
+        "Ouvir a queixa"
+      ],
+      "personagens": [
+        "Deus",
+        "Moisés",
+        "Israel"
+      ]
     },
     "13": {
-      "parafrase": "E aconteceu que, à tarde, as codornizes subiram e cobriram o acampamento; e pela manhã o orvalho estava ao redor do acampamento.",
-      "references": [],
-      "comentario": "À tarde, codornizes cobrem o acampamento, e pela manhã, o orvalho está ao redor. Isso é o início da provisão milagrosa de Deus.",
-      "temas": ["codornizes", "orvalho", "provisão milagrosa", "acampamento"],
+      "parafrase": "E aconteceu que, ao anoitecer, as codornizes surgiram de repente, cobrindo toda a área do acampamento. E ao amanhecer, o orvalho havia se evaporado, deixando para trás uma fina camada granulada sobre a terra seca, um alimento que parecia geada.",
+      "referencias": [
+        "Números 11:31",
+        "Salmos 78:27"
+      ],
+      "comentario": "Descrição poética e sinestésica do milagre: o calor do dia evapora o orvalho, revelando o substrato sólido do Maná. O alimento é 'como geada' (*barad* no sentido de granizo ou algo cristalino), sugerindo uma textura leve e fresca.",
+      "temas": [
+        "Chegada da codorniz",
+        "Formação do Maná",
+        "Fenômeno natural orquestrado"
+      ],
       "personagens": []
     },
     "14": {
-      "parafrase": "E quando o orvalho que havia subido se foi, vejam, sobre a face do deserto havia uma coisa pequena e redonda, tão pequena quanto a geada sobre o chão.",
-      "references": [],
-      "comentario": "Quando o orvalho se evapora, uma coisa pequena e redonda, como geada, aparece sobre o deserto. Este é o maná, o pão do céu.",
-      "temas": ["orvalho", "maná", "deserto", "pão do céu", "milagre"],
+      "parafrase": "Quando o sol aqueceu, aquela camada fina de geada do deserto desapareceu, revelando por baixo um pão miúdo, fino, parecido com a casca do floco de neve, espalhado por toda a extensão do chão.",
+      "referencias": [
+        "Êxodo 16:31",
+        "Êxodo 16:18"
+      ],
+      "comentario": "O Maná é descrito com detalhes visuais. A comparação com a 'casca de uma abelha' ou 'floco de neve' (dependendo da tradução do termo hebraico *qatmes*) indica sua leveza e raridade. A remoção da geada/orvalho é o momento da revelação do alimento principal.",
+      "temas": [
+        "Aparência do Maná",
+        "Delicadeza do alimento",
+        "Revelação diária"
+      ],
       "personagens": []
     },
     "15": {
-      "parafrase": "E quando os filhos de Israel a viram, eles disseram um ao outro: 'O que é isso?' pois eles não sabiam o que era. E Moisés lhes disse: 'Este é o pão que o Senhor lhes deu para comer.'",
-      "references": [],
-      "comentario": "Os israelitas não reconhecem o maná, e Moisés lhes explica que é o pão que Deus lhes deu. O nome 'maná' significa 'o que é isso?'.",
-      "temas": ["maná", "ignorância", "explicação", "pão", "provisão divina"],
-      "personagens": ["Moisés"]
+      "parafrase": "Ao verem aquilo, o povo de Israel ficou perplexo e começou a perguntar uns aos outros: 'O que é isto?' Eles não faziam ideia do que era este alimento milagroso, e Moisés lhes disse imediatamente: 'Este é o pão que o Senhor lhes deu para comer todos os dias.'",
+      "referencias": [
+        "Lucas 24:16",
+        "João 6:14"
+      ],
+      "comentario": "A ignorância do povo (v. 14b: 'não sabiam o que era') reforça a necessidade da instrução divina. O termo hebraico para 'o que é isto?' (*Man-hu*) é a origem popular, embora não etimológica, do nome Maná. A resposta de Moisés direciona a mente deles para a fonte divina.",
+      "temas": [
+        "Nome do Maná",
+        "Instrução pastoral",
+        "Fonte do alimento"
+      ],
+      "personagens": [
+        "Israel",
+        "Moisés"
+      ]
     },
     "16": {
-      "parafrase": "'Esta é a coisa que o Senhor ordenou: Ajuntem dele cada homem de acordo com o que puder comer, um ômer por cabeça, de acordo com o número de suas pessoas; cada homem pegará para aqueles que estão em sua tenda.'",
-      "references": [],
-      "comentario": "Deus instrui a ajuntar o maná de acordo com a necessidade de cada um, um ômer por cabeça. A provisão é justa e suficiente para todos.",
-      "temas": ["maná", "ajuntamento", "ômer", "provisão", "justiça"],
-      "personagens": []
+      "parafrase": "O Senhor estabeleceu a regra: 'Cada cabeça de família deve coletar a quantidade que for suficiente para alimentar cada pessoa sob sua responsabilidade, recolhendo um omer – uma medida padrão – para cada um que está em sua tenda. Façam isso a cada manhã, enquanto o sol não estiver forte demais para derreter o alimento.'",
+      "referencias": [
+        "Êxodo 16:18",
+        "2 Coríntios 9:8"
+      ],
+      "comentario": "O 'omer' era uma unidade de medida padrão. O comando de coletar 'para cada um' reforça a responsabilidade familiar e a distribuição equitativa. A coleta deve ser feita pela manhã, antes que o calor do meio-dia destrua o maná, ensinando a disciplina de não deixar para amanhã.",
+      "temas": [
+        "Regra da coleta",
+        "Disciplina",
+        "Medida justa (Omer)"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "17": {
-      "parafrase": "E os filhos de Israel fizeram assim, e ajuntaram, uns mais, outros menos.",
-      "references": [],
-      "comentario": "Os israelitas obedecem à instrução, ajuntando quantidades diferentes de maná. A obediência é parcial, e alguns tentam ajuntar mais do que o necessário.",
-      "temas": ["obediência", "ajuntamento", "quantidade", "desobediência"],
-      "personagens": []
+      "parafrase": "Assim, os filhos de Israel obedeceram: alguns colheram muito, recolhendo mais que um omer, mas quando mediram, viram que era apenas um omer; outros colheram menos, mas quando mediram o que sobrou, viram que tinham exatamente um omer para cada pessoa. Ninguém sobrou com excesso, e ninguém faltou o necessário.",
+      "referencias": [
+        "2 Coríntios 8:15",
+        "Êxodo 16:18"
+      ],
+      "comentario": "Este é um milagre de redistribuição! O texto sugere que a quantidade coletada magicamente se ajustava à necessidade individual após a medição. Aquele que colheu demais não teve sobra, e aquele que colheu de menos não teve falta. Deus garante a porção exata para todos, anulando a ganância e a escassez.",
+      "temas": [
+        "Milagre de redistribuição",
+        "Provisão exata",
+        "Anulação da ganância"
+      ],
+      "personagens": [
+        "Israel"
+      ]
     },
     "18": {
-      "parafrase": "E quando eles o mediram com um ômer, aquele que ajuntou muito não teve excesso, e aquele que ajuntou pouco não teve falta; cada homem ajuntou de acordo com o que pudera comer.",
-      "references": [],
-      "comentario": "Independentemente da quantidade ajuntada, cada um tinha o suficiente, mostrando a provisão milagrosa de Deus e a inutilidade da ganância. A provisão é perfeita.",
-      "temas": ["ômer", "excesso", "falta", "provisão milagrosa", "ganância"],
-      "personagens": []
+      "parafrase": "Moisés então declarou: 'Ninguém deve guardar o que sobrou para o dia seguinte, para que o alimento não estrague.' A intenção era que eles confiassem no milagre que viria pela manhã, e não no estoque da noite.",
+      "referencias": [
+        "Colossenses 3:2",
+        "Êxodo 16:19"
+      ],
+      "comentario": "A proibição de guardar o excedente é o teste prático da fé. Guardar o maná era um ato de desconfiança na provisão futura de Deus. A exceção (o pote memorial) era para um propósito teológico específico, não para consumo diário.",
+      "temas": [
+        "Proibição de estocagem",
+        "Teste de fé no futuro",
+        "Corrupção da desobediência"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "19": {
-      "parafrase": "E Moisés lhes disse: 'Ninguém deixe nada dele até a manhã.'",
-      "referencias": [],
-      "comentario": "Moisés instrui a não guardar o maná até a manhã, testando a obediência e a confiança do povo na provisão diária de Deus.",
-      "temas": ["Moisés", "instrução", "maná", "confiança", "obediência"],
-      "personagens": ["Moisés"]
+      "parafrase": "Contudo, alguns israelitas, não dando ouvidos a Moisés, decidiram guardar um pouco da porção deles para o dia seguinte, na esperança de ter uma reserva.",
+      "referencias": [
+        "Hebreus 3:16-18",
+        "Filipenses 2:14"
+      ],
+      "comentario": "A incredulidade persiste. Mesmo diante de um milagre diário, a mentalidade egípcia de 'guardar para tempos difíceis' prevalece em alguns. Eles tentam subverter a lógica do milagre, exigindo segurança temporal em vez de confiar na fidelidade eterna.",
+      "temas": [
+        "Desobediência persistente",
+        "Ansiedade material",
+        "Insegurança"
+      ],
+      "personagens": [
+        "Israel"
+      ]
     },
     "20": {
-      "parafrase": "No entanto, eles não ouviram Moisés; mas alguns deles deixaram um pouco dele até a manhã, e ele gerou vermes e cheirou mal; e Moisés ficou irado com eles.",
-      "references": [],
-      "comentario": "Alguns israelitas desobedecem a Moisés e guardam o maná, que gera vermes e cheira mal. A desobediência leva à corrupção e à ira de Moisés.",
-      "temas": ["desobediência", "maná", "vermes", "mau cheiro", "ira", "corrupção"],
-      "personagens": ["Moisés"]
+      "parafrase": "Na manhã seguinte, quando foram verificar suas reservas, o pão guardado estava cheio de vermes, apodrecido e fedorento. Moisés ficou irritado com aqueles que haviam desobedecido à ordem do Senhor.",
+      "referencias": [
+        "Tiago 1:15",
+        "Gênesis 3:19"
+      ],
+      "comentario": "O castigo é imediato e inerente ao ato: o maná guardado (a desconfiança) apodrece. O alimento da vida, quando retido por avareza ou medo, torna-se veneno e nojo. A ira de Moisés reflete a tristeza de Deus pela falta de fé.",
+      "temas": [
+        "Apodrecimento da desconfiança",
+        "Consequência da desobediência",
+        "Repreensão"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "21": {
-      "parafrase": "E eles o ajuntavam a cada manhã, cada homem de acordo com o que pudera comer; e quando o sol esquentava, ele derretia.",
-      "references": [],
-      "comentario": "O maná era ajuntado a cada manhã e derretia com o calor do sol, mostrando sua natureza perecível e a necessidade de coleta diária. A provisão é para o presente.",
-      "temas": ["maná", "coleta diária", "perecível", "provisão"],
+      "parafrase": "Eles colhiam o alimento todas as manhãs, no momento em que o sol começava a esquentar e derreter a camada superficial do orvalho, pois quando o calor atingia o pico, tudo o que sobrava era a terra vazia.",
+      "referencias": [
+        "Salmos 105:40",
+        "Mateus 6:34"
+      ],
+      "comentario": "Este versículo reitera a disciplina da coleta matinal e o motivo: o calor destrói o alimento. Isso serve como um lembrete constante de que a provisão de Deus tem um tempo limite e deve ser consumida no dia em que é dada.",
+      "temas": [
+        "Ritmo diário",
+        "Urgência da fé",
+        "Consumo oportuno"
+      ],
       "personagens": []
     },
     "22": {
-      "parafrase": "E aconteceu que no sexto dia eles ajuntaram o dobro de pão, dois ômeres para cada um; e todos os chefes da congregação vieram e contaram a Moisés.",
-      "references": [],
-      "comentario": "No sexto dia, o povo ajunta o dobro de maná, e os chefes informam Moisés. A obediência à instrução de Deus é evidente.",
-      "temas": ["sexto dia", "maná", "dobro", "obediência", "chefes"],
-      "personagens": ["Moisés"]
+      "parafrase": "No sexto dia da semana, porém, o procedimento era diferente. Eles tinham que colher o dobro da quantidade – dois omers para cada pessoa – pois no dia seguinte, o sétimo dia, o Sabbath, não cairia Maná do céu.",
+      "referencias": [
+        "Êxodo 20:8-11",
+        "Marcos 2:27"
+      ],
+      "comentario": "O sexto dia é o teste duplo: obediência à quantidade e obediência ao descanso sabático. A provisão do dobro demonstra que a fé no sábado é mais exigente e, portanto, mais recompensada pela fidelidade de Deus.",
+      "temas": [
+        "Preparação para o Sabbath",
+        "Dupla porção",
+        "Sustento Divino no descanso"
+      ],
+      "personagens": []
     },
     "23": {
-      "parafrase": "E ele lhes disse: 'Esta é a coisa que o Senhor disse: Amanhã é o descanso do sábado santo ao Senhor; assem o que vocês quiserem assar, e cozinhem o que vocês quiserem cozinhar; e tudo o que sobrar, guardem para vocês até a manhã.'",
-      "references": [],
-      "comentario": "Moisés explica que o sexto dia é para preparar o dobro, pois o dia seguinte é o sábado, um dia de descanso santo ao Senhor. A santidade do sábado é enfatizada.",
-      "temas": ["sábado", "descanso", "santidade", "preparação"],
-      "personagens": ["Moisés"]
+      "parafrase": "Moisés lhes explicou: 'Isto é o que o Senhor ordenou. Amanhã é um dia de descanso sagrado, o Sabbath, consagrado ao Senhor. O que vocês precisam para o dia de hoje, comam hoje. O que deve ser guardado para amanhã, guardem-no; mas nada deve ser cozido ou preparado neste dia de repouso.'",
+      "referencias": [
+        "Êxodo 35:3",
+        "Lucas 23:56"
+      ],
+      "comentario": "O maná se torna o catalisador para a observância do Sabbath. A necessidade de coletar o dobro no sexto dia estabelece um paralelo prático com o princípio do Sábado: Deus provê em dobro para que o homem possa descansar inteiramente no sétimo dia, sem trabalho de coleta ou preparo.",
+      "temas": [
+        "Santidade do Sabbath",
+        "Descanso ordenado",
+        "Preparo antecipado"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "24": {
-      "parafrase": "E eles o guardaram até a manhã, como Moisés ordenou; e ele não cheirou mal, nem havia verme nele.",
-      "references": [],
-      "comentario": "O maná guardado para o sábado não cheira mal nem tem vermes, mostrando o milagre da provisão divina e a santidade do sábado. A obediência é recompensada.",
-      "temas": ["maná", "sábado", "milagre", "pureza", "recompensa"],
+      "parafrase": "E eles guardaram o maná excedente para o dia seguinte, conforme Moisés havia instruído. E, milagrosamente, o pão guardado do sexto dia não estragou, não cheirava mal e não criou vermes.",
+      "referencias": [
+        "Êxodo 16:20",
+        "Hebreus 4:4"
+      ],
+      "comentario": "O maná guardado especificamente para o Sabbath é a única exceção à regra de apodrecimento. Este maná preservado simboliza o descanso perfeito de Deus, onde a provisão é estável e não exige esforço humano. O maná guardado para o sábado é um sinal do Messias, o verdadeiro Pão da Vida.",
+      "temas": [
+        "Maná do Sabbath",
+        "Exceção à regra",
+        "Símbolo do descanso eterno"
+      ],
       "personagens": []
     },
     "25": {
-      "parafrase": "E Moisés disse: 'Comam-no hoje; pois hoje é o sábado ao Senhor; hoje vocês não o encontrarão no campo.'",
-      "references": [],
-      "comentario": "Moisés instrui a comer o maná no sábado, pois não haverá provisão no campo. A obediência ao sábado é essencial para a dependência de Deus.",
-      "temas": ["Moisés", "sábado", "maná", "dependência de Deus", "obediência"],
-      "personagens": ["Moisés"]
+      "parafrase": "Moisés disse ao povo: 'Comam o que vocês colheram hoje, pois hoje é o dia do Sabbath, o dia de descanso dedicado ao Senhor. Hoje, não haverá maná no campo. Vocês comerão o que já está coletado, celebrando o repouso que Deus lhes concedeu.'",
+      "referencias": [
+        "Deuteronômio 8:3",
+        "Hebreus 4:3"
+      ],
+      "comentario": "O versículo final do trecho consolida a lição: o dia de descanso é santificado pela ausência de necessidade de provisão imediata. O povo come o que foi duplamente provido no dia anterior, confirmando que a provisão de Deus abrange até mesmo o descanso ordenado por Ele.",
+      "temas": [
+        "Celebração do Sabbath",
+        "Consumo do excedente",
+        "Completude da provisão"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "26": {
-      "parafrase": "'Seis dias vocês o ajuntarão; mas no sétimo dia, que é o sábado, nele não haverá nenhum.'",
-      "references": [],
-      "comentario": "A regra é clara: seis dias de coleta e um dia de descanso, sem maná. Isso reforça a importância do sábado e a provisão divina.",
-      "temas": ["coleta", "sábado", "descanso", "provisão divina"],
-      "personagens": []
+      "parafrase": "Moisés então anunciou ao povo: \"Hoje é o dia de descanso, o Shabat. Guardem este dia, pois Deus o separou como santo para vocês. Por isso, hoje não encontrarão maná caído no chão do deserto. Comam o que recolheram ontem.",
+      "referencias": [
+        "Gênesis 2:2-3",
+        "Êxodo 20:8",
+        "Levítico 23:3"
+      ],
+      "comentario": "O mandamento do Shabat é reforçado de maneira prática. A ausência do maná no sétimo dia serve como uma confirmação tangível da soberania de Deus sobre o sustento diário e a santidade do dia de descanso. O povo precisa aprender a confiar na provisão dobrada de sexta-feira, e não buscar sua comida em um dia que já foi abençoado e separado para o repouso.",
+      "temas": [
+        "Shabat",
+        "Obediência",
+        "Sustento Divino"
+      ],
+      "personagens": [
+        "Moisés",
+        "Povo de Israel"
+      ]
     },
     "27": {
-      "parafrase": "E aconteceu que no sétimo dia alguns do povo saíram para ajuntar, e não encontraram nenhum.",
-      "references": [],
-      "comentario": "Alguns israelitas desobedecem e saem para ajuntar maná no sábado, mas não encontram nenhum. A desobediência é exposta e a fidelidade de Deus é confirmada.",
-      "temas": ["desobediência", "sábado", "maná", "exposição", "fidelidade de Deus"],
-      "personagens": []
+      "parafrase": "Alguns do povo, porém, saíram no sétimo dia para ver se ainda havia algo para colher, mas, é claro, não encontraram nada.",
+      "referencias": [
+        "Números 11:31-32"
+      ],
+      "comentario": "Este versículo destaca a dificuldade humana em aceitar o descanso ordenado por Deus, a tendência persistente da ganância ou da falta de fé em obedecer a um mandamento que parece 'contra-intuitivo' para a sobrevivência imediata. Eles estavam 'testando' a palavra de Deus.",
+      "temas": [
+        "Desobediência",
+        "Ansiedade",
+        "Tentação"
+      ],
+      "personagens": [
+        "Alguns do povo"
+      ]
     },
     "28": {
-      "parafrase": "E o Senhor disse a Moisés: 'Até quando vocês se recusarão a guardar os meus mandamentos e as minhas leis?'",
-      "references": [],
-      "comentario": "Deus repreende Moisés pela desobediência do povo, questionando sua recusa em guardar Seus mandamentos e leis. A paciência de Deus é testada.",
-      "temas": ["repreensão divina", "mandamentos", "leis", "desobediência", "paciência divina"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "Então o Senhor disse a Moisés: \"Até quando esse povo continuará a me desrespeitar e a não querer obedecer às minhas ordens e aos meus estatutos? Continuarão a ignorar os sinais que dou sobre o maná?",
+      "referencias": [
+        "Salmos 95:11",
+        "Hebreus 3:18"
+      ],
+      "comentario": "A reação de Deus é de desapontamento e repreensão. O ato de buscar comida no Shabat não é visto apenas como uma infração de trabalho, mas como um ato direto de 'me desrespeitar' (hebraico: 'me desprezar' ou 'me provocar'). Eles estavam pondo à prova a autoridade do Doador da vida.",
+      "temas": [
+        "Desrespeito a Deus",
+        "Paciência Divina",
+        "Lei Divina"
+      ],
+      "personagens": [
+        "Senhor (Yahweh)",
+        "Moisés"
+      ]
     },
     "29": {
-      "parafrase": "'Vejam, porque o Senhor lhes deu o sábado, portanto Ele lhes dá no sexto dia o pão de dois dias; cada um permaneça em seu lugar; que ninguém saia de seu lugar no sétimo dia.'",
-      "references": [],
-      "comentario": "Deus reitera a provisão dobrada no sexto dia e a proibição de sair no sábado. A obediência ao sábado é um sinal de confiança em Deus.",
-      "temas": ["sábado", "provisão dobrada", "descanso", "obediência", "confiança em Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Lembrem-se que Eu, o Senhor, dei a vocês o sábado para descanso. Por isso, Eu lhes dei alimento em dobro no sexto dia, para que ninguém precise sair de sua tenda ou de seu acampamento no sétimo dia.",
+      "referencias": [
+        "Êxodo 20:10",
+        "Mateus 12:5"
+      ],
+      "comentario": "Este versículo resume o propósito da provisão dobrada: era um arranjo logístico e espiritual para facilitar a santidade do Shabat. O descanso não era para ser uma dificuldade, mas uma bênção facilitada pelo cuidado prévio de Deus.",
+      "temas": [
+        "Propósito do Sábado",
+        "Provisão",
+        "Descanso"
+      ],
+      "personagens": [
+        "Senhor (Yahweh)"
+      ]
     },
     "30": {
-      "parafrase": "Assim o povo descansou no sétimo dia.",
-      "references": [],
-      "comentario": "O povo obedece e descansa no sétimo dia, mostrando sua submissão à vontade de Deus. O descanso é um ato de fé.",
-      "temas": ["descanso", "sábado", "obediência", "fé"],
-      "personagens": []
+      "parafrase": "Dessa forma, o povo descansou no sétimo dia, guardando o que Deus ordenara.",
+      "referencias": [
+        "Neemias 13:18"
+      ],
+      "comentario": "O resultado final da repreensão: o povo finalmente se submete. O verbo hebraico aqui indica que eles cessaram suas atividades conforme a ordem.",
+      "temas": [
+        "Santificação",
+        "Conformidade"
+      ],
+      "personagens": [
+        "Povo de Israel"
+      ]
     },
     "31": {
-      "parafrase": "E a casa de Israel chamou o seu nome de Maná; e ele era como semente de coentro, branco; e o seu sabor era como bolos com mel.",
-      "references": [],
-      "comentario": "O maná é nomeado e descrito em sua aparência e sabor, mostrando sua natureza milagrosa e sua provisão divina. O maná é um alimento celestial.",
-      "temas": ["maná", "nome", "descrição", "milagre", "alimento celestial"],
+      "parafrase": "A casa de Israel deu o nome de 'Mãe' àquela comida (maná). Era branca como semente de coentro e tinha o sabor de biscoito fino feito com mel. Era um alimento celestial, retirado diretamente do céu.",
+      "referencias": [
+        "Números 11:7-8",
+        "Salmos 78:24"
+      ],
+      "comentario": "Este versículo descreve as características sensoriais do maná e revela o nome que Israel deu a ele, 'Mãe' ou talvez 'Manna' (referindo-se à sua natureza), mas o texto sugere uma descrição de sua aparência e sabor. A comparação com mel e bolo fino enfatiza sua doçura e textura desejável, confirmando sua origem milagrosa.",
+      "temas": [
+        "Simbolismo do Maná",
+        "Sabor Divino",
+        "Origem Celestial"
+      ],
       "personagens": []
     },
     "32": {
-      "parafrase": "E Moisés disse: 'Esta é a coisa que o Senhor ordenou: Encha um ômer dele para ser guardado para as suas gerações, para que eles possam ver o pão com que eu os alimentei no deserto, quando eu os tirei da terra do Egito.'",
-      "references": [],
-      "comentario": "Moisés instrui a guardar um ômer de maná como memorial para as futuras gerações, para que eles se lembrem da provisão de Deus no deserto. O memorial é para a fé.",
-      "temas": ["Moisés", "maná", "ômer", "memorial", "provisão divina", "deserto"],
-      "personagens": ["Moisés"]
+      "parafrase": "Então, Moisés recebeu uma ordem direta do Senhor: \"Coloquem um jarro cheio de maná para ser guardado, como memorial para as futuras gerações. Quero que eles vejam o pão que Eu dei a vocês para comer quando estavam no deserto, depois que os tirei do Egito.\"",
+      "referencias": [
+        "Hebreus 9:4"
+      ],
+      "comentario": "Institui-se o primeiro monumento memorial em um recipiente sagrado. O objetivo não era apenas a lembrança histórica, mas garantir que as crianças que não vivenciaram o Êxodo entendessem a fidelidade de Deus. O 'jarro' (ou urna) era um objeto usado para armazenar preciosidades.",
+      "temas": [
+        "Memorial",
+        "Memória",
+        "Fidelidade de Deus"
+      ],
+      "personagens": [
+        "Moisés",
+        "Senhor (Yahweh)"
+      ]
     },
     "33": {
-      "parafrase": "E Moisés disse a Arão: 'Pegue um vaso e ponha um ômer cheio de maná nele, e ponha-o diante do Senhor, para ser guardado para as suas gerações.'",
-      "references": [],
-      "comentario": "Moisés instrui Arão a colocar um ômer de maná em um vaso e guardá-lo diante do Senhor, como um memorial perpétuo. O memorial é para a adoração.",
-      "temas": ["Moisés", "Arão", "vaso", "maná", "memorial", "adoração"],
-      "personagens": ["Moisés", "Arão"]
+      "parafrase": "E Moisés disse a Arão: \"Pegue um pote, coloque nele um omer (cerca de 3,6 litros) de maná e guarde-o diante do Senhor, para que seja preservado para todos os seus descendentes.\"",
+      "referencias": [
+        "Levítico 2:1-10"
+      ],
+      "comentario": "Arão, como sumo sacerdote, é incumbido da custódia deste item sagrado. O 'omer' era uma medida padrão de capacidade. O maná, uma vez guardado, passa de alimento de sobrevivência para objeto de culto e testemunho.",
+      "temas": [
+        "Sacerdócio",
+        "Guarda da Lei",
+        "Adoração"
+      ],
+      "personagens": [
+        "Moisés",
+        "Arão"
+      ]
     },
     "34": {
-      "parafrase": "Como o Senhor ordenou a Moisés, assim Arão o pôs diante do Testemunho, para ser guardado.",
-      "references": [],
-      "comentario": "Arão obedece à ordem de Deus e coloca o maná diante do Testemunho (a Arca da Aliança), mostrando sua obediência e a santidade do memorial.",
-      "temas": ["Arão", "obediência", "Testemunho", "memorial", "santidade"],
-      "personagens": ["Arão"]
+      "parafrase": "E Arão fez exatamente como o Senhor havia ordenado a Moisés, guardando o pote com o maná no Tabernáculo, ao lado da Tábua da Aliança, como testemunho eterno.",
+      "referencias": [
+        "Êxodo 25:16"
+      ],
+      "comentario": "A localização é crucial: ao lado da Arca da Aliança, onde estavam as tábuas dos Dez Mandamentos. Isso estabelece uma tríade de testemunhos da presença e da lei de Deus: a Lei (as tábuas), o pacto de sustento (o maná) e a presença de Deus.",
+      "temas": [
+        "Arca da Aliança",
+        "Presença de Deus",
+        "Testemunho"
+      ],
+      "personagens": [
+        "Arão",
+        "Senhor (Yahweh)",
+        "Moisés"
+      ]
     },
     "35": {
-      "parafrase": "E os filhos de Israel comeram maná por quarenta anos, até que vieram para uma terra habitada; eles comeram maná, até que vieram para as fronteiras da terra de Canaã.",
-      "references": [],
-      "comentario": "Israel come maná por quarenta anos, até que chegam à Terra Prometida. Isso demonstra a fidelidade de Deus em prover para Seu povo durante todo o período do deserto.",
-      "temas": ["maná", "quarenta anos", "Terra Prometida", "fidelidade de Deus", "provisão"],
-      "personagens": []
+      "parafrase": "Os filhos de Israel comeram o maná durante quarenta anos completos, desde o dia em que deixaram a terra do Egito, até que finalmente chegaram a uma terra habitada, onde havia plantações, e comeram o produto da própria terra.",
+      "referencias": [
+        "Josué 5:12",
+        "Deuteronômio 8:3"
+      ],
+      "comentario": "Este versículo oferece um fechamento cronológico marcante para a era do maná. Quarenta anos de milagre contínuo, cessando precisamente no momento em que eles puderam se sustentar com o trabalho regular da terra prometida. A dependência de Deus cede lugar à administração das bênçãos recebidas.",
+      "temas": [
+        "Duração do Deserto",
+        "Terra Prometida",
+        "Transição"
+      ],
+      "personagens": [
+        "Filhos de Israel"
+      ]
     },
     "36": {
-      "parafrase": "Ora, um ômer é a décima parte de um efa.",
-      "references": [],
-      "comentario": "A medida de um ômer é definida em relação a um efa, fornecendo clareza sobre as quantidades mencionadas no capítulo. A precisão é importante para a compreensão.",
-      "temas": ["ômer", "efa", "medida", "precisão"],
+      "parafrase": "E o omer era a medida padrão utilizada para o maná; um omer cheio era a porção designada para cada pessoa, dia após dia, durante todos os anos em que estiveram vagando no deserto.",
+      "referencias": [
+        "Levítico 6:19"
+      ],
+      "comentario": "Este versículo finaliza a explicação sobre a medida da porção diária, reforçando a ideia de suficiência. Cada pessoa recebia exatamente o que precisava para aquele dia, nem mais, nem menos. O termo 'omer' serve como a unidade básica de racionamento celestial.",
+      "temas": [
+        "Suficiência",
+        "Medida",
+        "Organização Divina"
+      ],
       "personagens": []
     }
   }

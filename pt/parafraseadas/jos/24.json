@@ -1,239 +1,569 @@
 {
   "livro": "Josué",
   "capitulo": 24,
-  "contexto_historico": "Este capítulo registra o segundo e último discurso de despedida de Josué. Reunindo todas as tribos em Siquém, um lugar de grande significado histórico, Josué lidera o povo em uma cerimônia formal de renovação da aliança com Deus, pouco antes de sua morte.",
-  "bloco_tematico": "A Renovação da Aliança em Siquém",
+  "contexto_historico": "Após a conquista e divisão da Terra Prometida entre as tribos de Israel, o povo se estabeleceu em suas porções. O foco agora se desloca para a consolidação da posse e a reafirmação da aliança com Deus. Josué, já em idade avançada, convoca toda a nação para um evento crucial em Siquém, o local da primeira aliança feita com Abraão e onde Deus havia prometido a terra. Este é o momento de Josué fazer seu discurso de despedida, exortando o povo a manter a fidelidade à Lei mosaica e a repudiar os deuses das nações vizinhas. O capítulo 24 encerra a narrativa da liderança de Josué, marcando uma transição de poder e uma reafirmação solene do pacto, antes que Josué e o sacerdote Eleazar venham a falecer.",
+  "bloco_tematico": "A Assembleia Final em Siquém: Renovação da Aliança e Despedida de Josué 📜🤝",
   "versiculos": {
     "1": {
-      "parafrase": "Josué reuniu todas as tribos de Israel em Siquém. Convocou os anciãos, os chefes, os juízes e os oficiais de Israel, e eles se apresentaram diante de Deus.",
-      "referencias": ["Gênesis 12:6-7", "Gênesis 33:18-20"],
-      "comentario": "A escolha de Siquém é intencional. Foi lá que Deus apareceu pela primeira vez a Abraão em Canaã e prometeu a terra a seus descendentes. É um lugar que evoca a origem da aliança. 'Apresentar-se diante de Deus' indica que esta era uma assembleia sagrada.",
-      "temas": ["aliança", "assembleia sagrada", "memória histórica"],
-      "personagens": ["Josué", "Líderes de Israel", "Deus"]
+      "parafrase": "Depois de um longo tempo de paz e domínio sobre Canaã, Josué, já com a idade avançada pesando sobre seus ombros e sentindo a proximidade do fim de sua jornada terrena, convocou todos os líderes de Israel — os anciãos, os chefes, os juízes e os oficiais que governavam o povo. Ele os reuniu em Siquém, o lugar sagrado onde Deus havia reafirmado a aliança com Abraão, para realizar um ato final e solene de liderança.",
+      "referencias": [
+        "Gênesis 12:6",
+        "Deuteronômio 31:12"
+      ],
+      "comentario": "O versículo estabelece o palco para o discurso de despedida de Josué. A convocação em Siquém (Shechem) é significativa, pois foi ali que Abraão recebeu a promessa da terra e onde a Lei foi confirmada pela primeira vez após a entrada em Canaã (Josué 8:30). Josué age como um líder maduro, garantindo a continuidade da fé antes de sua morte.",
+      "temas": [
+        "Chamado à unidade",
+        "Liderança final",
+        "Responsabilidade"
+      ],
+      "personagens": [
+        "Josué",
+        "Líderes de Israel"
+      ]
     },
     "2": {
-      "parafrase": "Josué disse a todo o povo: 'Assim diz o Senhor, o Deus de Israel: Há muito tempo, seus antepassados, incluindo Tera, pai de Abraão e de Naor, viviam do outro lado do Eufrates e serviam a outros deuses.'",
-      "referencias": ["Gênesis 11:31"],
-      "comentario": "Josué começa a narrativa da história da redenção de Israel, lembrando-os de suas origens pagãs. A graça de Deus é destacada desde o início: a eleição de Abraão não foi por mérito, mas pela soberana escolha de Deus, que o tirou de um ambiente idólatra.",
-      "temas": ["história da redenção", "eleição", "graça", "idolatria"],
-      "personagens": ["Josué", "Deus", "Tera", "Abraão", "Naor"]
+      "parafrase": "Com a voz firme, Josué dirigiu-se a toda a nação reunida, dizendo: 'Escutem, ó Israel, tudo o que o Senhor, o Deus de vocês, tem feito por toda a nação, desde o princípio, desde que Ele agiu em favor de vocês contra o Egito e todos os outros povos.'",
+      "referencias": [
+        "Êxodo 7:1",
+        "Salmos 44:1"
+      ],
+      "comentario": "Josué inicia sua retrospectiva histórica focando na soberania de Deus ('o Senhor, o Deus de vocês'). Ele imediatamente direciona a atenção para a intervenção divina na história de Israel, lembrando-os de que seu sucesso não é mérito próprio, mas obra de Deus, contrastando a libertação do Egito com o domínio sobre Canaã.",
+      "temas": [
+        "Memória histórica",
+        "Soberania de Deus",
+        "Gratidão"
+      ],
+      "personagens": [
+        "Josué",
+        "Israel"
+      ]
     },
     "3": {
-      "parafrase": "'Mas eu tirei seu antepassado Abraão do outro lado do Eufrates, o conduzi por toda a terra de Canaã, multipliquei sua descendência e lhe dei Isaque.'",
-      "referencias": ["Gênesis 12:1", "Hebreus 11:8"],
-      "comentario": "Deus é o ator principal da história. 'Eu tirei', 'Eu o conduzi', 'Eu multipliquei', 'Eu lhe dei'. Josué enfatiza a ação soberana de Deus em cumprir Sua promessa a Abraão.",
-      "temas": ["soberania de Deus", "promessa", "cumprimento"],
-      "personagens": ["Deus", "Abraão", "Isaque"]
+      "parafrase": "Em seguida, ele recordou a jornada através do deserto: 'Eu sei, e vocês se lembram bem, que seus antepassados viveram além do rio Eufrates, e serviam a outros deuses. Mas Eu, o Senhor, guiei Abraão, seu ancestral, por toda a terra de Canaã, e multipliquei sua descendência, dando-lhe Isaque como filho.'",
+      "referencias": [
+        "Gênesis 11:31",
+        "Gênesis 21:12"
+      ],
+      "comentario": "Josué remonta à origem patriarcal, mencionando 'além do Eufrates' (Mesopotâmia), o lar original de Abraão (Ur). Ele destaca a idolatria inicial dos ancestrais e o chamado soberano de Deus que tirou Abraão dessa terra e o levou à promessa, enfatizando a fidelidade de Deus desde o início da linhagem.",
+      "temas": [
+        "Origem da aliança",
+        "Chamado de Abraão",
+        "Transição da idolatria"
+      ],
+      "personagens": [
+        "Josué",
+        "Ancestrais de Israel",
+        "Abraão",
+        "Isaque"
+      ]
     },
     "4": {
-      "parafrase": "'A Isaque dei Jacó e Esaú. A Esaú dei a posse da região montanhosa de Seir, mas Jacó e seus filhos desceram para o Egito.'",
-      "referencias": ["Gênesis 25:24-26", "Gênesis 36:8", "Gênesis 46:1-7"],
-      "comentario": "A narrativa continua, mostrando como Deus guiou a linhagem da promessa através de Jacó, enquanto também providenciava para Esaú, demonstrando a soberania de Deus sobre todas as nações.",
-      "temas": ["soberania de Deus", "linhagem da promessa", "providência"],
-      "personagens": ["Deus", "Isaque", "Jacó", "Esaú"]
+      "parafrase": "Depois, tracei o caminho de Isaque, dando-lhe muitas gerações, e a Jacó e a Esaú. A Esaú, dei as montanhas de Seir como posse, mas Jacó e seus filhos foram para o Egito, onde se tornaram uma grande nação.",
+      "referencias": [
+        "Gênesis 25:24-26",
+        "Gênesis 36:8"
+      ],
+      "comentario": "A narrativa segue a linhagem. Josué distingue o destino de Jacó e Esaú. Enquanto Esaú recebe a terra de Seir, Jacó (Israel) é levado ao Egito. Isso mostra que o plano de Deus para Israel envolvia uma etapa de formação nacional no cativeiro, preparando-os para a conquista.",
+      "temas": [
+        "Descendência e promessa",
+        "Distinção de destinos",
+        "Formação de Israel"
+      ],
+      "personagens": [
+        "Isaque",
+        "Jacó",
+        "Esaú"
+      ]
     },
     "5": {
-      "parafrase": "'Então enviei Moisés e Arão e feri o Egito com as pragas que realizei ali; e depois os tirei de lá.'",
-      "referencias": ["Êxodo 3-12"],
-      "comentario": "O Êxodo é apresentado como o grande ato redentor de Deus, onde Ele demonstrou Seu poder sobre os deuses do Egito e libertou Seu povo da escravidão.",
-      "temas": ["redenção", "libertação", "poder de Deus"],
-      "personagens": ["Deus", "Moisés", "Arão"]
+      "parafrase": "Então, Eu enviei Moisés e Arão para libertá-los, e Eu mesmo fui trazendo o povo para fora da terra do Egito, por meio de pragas terríveis. Depois, Eu os conduzi através do Mar Vermelho, e vocês viram com seus próprios olhos a força esmagadora do meu poder.",
+      "referencias": [
+        "Êxodo 12:51",
+        "Salmos 136:15"
+      ],
+      "comentario": "Este é o ponto crucial da memória nacional: o Êxodo. Josué enfatiza o papel de Moisés e Arão como agentes, mas reitera que a ação decisiva foi a de Deus ('Eu mesmo fui trazendo'). O milagre do Mar Vermelho é a evidência sensorial máxima do poder divino.",
+      "temas": [
+        "Libertação do Egito",
+        "Poder de Deus",
+        "Intervenção divina"
+      ],
+      "personagens": [
+        "Moisés",
+        "Arão",
+        "Israel"
+      ]
     },
     "6": {
-      "parafrase": "'Quando tirei seus antepassados do Egito, vocês chegaram ao mar, e os egípcios os perseguiram com carros e cavaleiros até o Mar Vermelho.'",
-      "referencias": ["Êxodo 14:9"],
-      "comentario": "A libertação do Egito foi imediatamente seguida por um teste de fé no Mar Vermelho.",
-      "temas": ["perseguição", "teste de fé"],
-      "personagens": ["Antepassados de Israel", "Egípcios"]
+      "parafrase": "Quando vocês chegaram ao Deserto, Eu os conduzi pelo caminho do Mar Morto até a terra dos amorreus, que habitavam além do Jordão. A batalha contra Seom, rei de Hesbom, e contra Ogue, rei de Basã, foi iniciada por mim, e vocês os derrotaram.",
+      "referencias": [
+        "Números 21:24",
+        "Deuteronômio 3:3"
+      ],
+      "comentario": "A transição do deserto para a Transjordânia e a conquista inicial são narradas. As vitórias contra Seom e Ogue não foram táticas de guerra israelitas, mas sim atos de Deus que abriram caminho. O verbo 'Eu os feri' ou 'Eu os entreguei' (implícito no hebraico) reforça que a conquista começou antes da chegada de Josué ao Jordão.",
+      "temas": [
+        "Travessia do deserto",
+        "Conquista inicial",
+        "Vitória concedida"
+      ],
+      "personagens": [
+        "Seom",
+        "Ogue"
+      ]
     },
     "7": {
-      "parafrase": "'Mas eles clamaram ao Senhor, e ele pôs uma escuridão entre vocês e os egípcios, e trouxe o mar sobre eles e os cobriu. Seus próprios olhos viram o que eu fiz ao Egito. E vocês viveram no deserto por muito tempo.'",
-      "referencias": ["Êxodo 14:20-28"],
-      "comentario": "A salvação no Mar Vermelho foi uma resposta direta ao clamor do povo. Deus interveio milagrosamente para salvá-los e julgar seus inimigos. O longo tempo no deserto foi um período de provação e formação da nação.",
-      "temas": ["salvação", "intervenção divina", "juízo", "provação"],
-      "personagens": ["Deus", "Israelitas", "Egípcios"]
+      "parafrase": "Eles lutaram contra vocês, mas Eu os entreguei em suas mãos. Vocês tomaram posse de tudo o que era deles, desde Aroer, às margens do rio Arnom, até o monte Hermom, e todos os campos a leste do Jordão. Foi uma vitória total!",
+      "referencias": [
+        "Deuteronômio 2:36",
+        "Josué 12:1"
+      ],
+      "comentario": "A menção do rio Arnom e do Monte Hermom define os limites geográficos da conquista a leste do Jordão. Josué assegura que a posse da terra foi um presente divino, não apenas um resultado de força militar. A expressão abrange toda a área conquistada antes da travessia do Jordão.",
+      "temas": [
+        "Posse da terra",
+        "Extensão territorial",
+        "Vitória completa"
+      ],
+      "personagens": [
+        "Israel"
+      ]
     },
     "8": {
-      "parafrase": "'Então eu os trouxe à terra dos amorreus que viviam a leste do Jordão. Eles lutaram contra vocês, mas eu os entreguei em suas mãos. Vocês tomaram posse da terra deles, e eu os destruí de diante de vocês.'",
-      "referencias": ["Números 21:21-35"],
-      "comentario": "Josué lembra as vitórias sobre Seom e Ogue, mostrando que o poder de Deus não se limitou ao Egito, mas continuou a dar vitória ao seu povo.",
-      "temas": ["conquista", "vitória", "poder de Deus"],
-      "personagens": ["Deus", "Israelitas", "Amorreus"]
+      "parafrase": "Depois, Eu os trouxe através do grande rio Jordão para a terra de Canaã. Os habitantes originais — os hititas, girgaseus, amorreus, cananeus, ferezeus, heveus e jebuseus — lutaram contra vocês. Mas Eu os fiz tropeçar e os entreguei nas vossas mãos para serem expulsos.",
+      "referencias": [
+        "Êxodo 3:8",
+        "Juízes 2:2"
+      ],
+      "comentario": "Este versículo cobre a travessia do Jordão e a subsequente fase de guerra na terra prometida. A lista dos sete povos cananeus é padrão. O verbo hebraico para 'entreguei' ou 'entreguei para serem destruídos' indica que Deus neutralizou a capacidade de resistência dos inimigos, facilitando a conquista.",
+      "temas": [
+        "Travessia do Jordão",
+        "Extermínio dos inimigos",
+        "Plano divino de purificação"
+      ],
+      "personagens": [
+        "Hititas",
+        "Girgaseus",
+        "Amorreus",
+        "Cananeus",
+        "Ferezeus",
+        "Heveus",
+        "Jebuseus"
+      ]
     },
     "9": {
-      "parafrase": "'Quando Balaque, filho de Zipor, rei de Moabe, se preparou para lutar contra Israel, ele mandou chamar Balaão, filho de Beor, para amaldiçoá-los.'",
-      "referencias": ["Números 22:1-6"],
-      "comentario": "Josué recorda uma ameaça espiritual, não apenas militar. O inimigo tentou usar uma maldição para derrotar Israel.",
-      "temas": ["guerra espiritual", "maldição"],
-      "personagens": ["Balaque", "Balaão"]
+      "parafrase": "Eu os expulsei diante de vocês, um por um, até que finalmente chegaram à terra prometida. Por muitos dias, Eu os sustentei e os protegi.",
+      "referencias": [
+        "Deuteronômio 7:1",
+        "Salmos 105:43"
+      ],
+      "comentario": "A expulsão dos povos é apresentada como um processo gradual, não instantâneo. Isso sublinha a paciência e a soberania de Deus em administrar a justiça. O verbo hebraico para 'expulsei' (NEFASH) enfatiza a ação determinada de Deus em remover os habitantes.",
+      "temas": [
+        "Expulsão gradual",
+        "Sustento divino",
+        "Paciência"
+      ],
+      "personagens": [
+        "Israel"
+      ]
     },
     "10": {
-      "parafrase": "'Mas eu não quis ouvir Balaão; por isso, ele os abençoou repetidamente, e eu os livrei da mão dele.'",
-      "referencias": ["Números 23-24"],
-      "comentario": "Deus demonstrou Sua soberania ao transformar a maldição pretendida em bênção. Ele protegeu Israel de um ataque que eles nem sequer podiam ver ou combater por si mesmos.",
-      "temas": ["soberania de Deus", "proteção divina", "bênção"],
-      "personagens": ["Deus", "Balaão"]
+      "parafrase": "E depois que vocês conquistaram, Eu dei a vocês as cidades que não construíram e as casas que não encheram de mobília, e os poços que não cavaram para beber. Vocês estão vivendo em vinhas e olivais que outros plantaram!",
+      "referencias": [
+        "Deuteronômio 6:10-11",
+        "Neemias 9:25"
+      ],
+      "comentario": "Este é um lembrete pungente de que Israel herdou uma terra já desenvolvida. Eles não iniciaram a civilização; eles a tomaram. Este contraste serve para reforçar a gratidão e evitar a arrogância de pensar que sua prosperidade é fruto de seu próprio esforço agrícola ou construtor.",
+      "temas": [
+        "Herança não merecida",
+        "Prosperidade concedida",
+        "Lembrança da graça"
+      ],
+      "personagens": [
+        "Israel"
+      ]
     },
     "11": {
-      "parafrase": "'Então vocês atravessaram o Jordão e chegaram a Jericó. Os cidadãos de Jericó lutaram contra vocês, assim como os amorreus, perizeus, cananeus, heteus, girgaseus, heveus e jebuseus. Mas eu os entreguei em suas mãos.'",
-      "referencias": ["Josué 3", "Josué 6"],
-      "comentario": "A travessia do Jordão e a queda de Jericó foram os atos iniciais da conquista, ambos realizados por intervenção divina direta. A lista de nações enfatiza a magnitude da vitória que Deus lhes deu.",
-      "temas": ["conquista", "intervenção divina", "vitória"],
-      "personagens": ["Israelitas", "Habitantes de Canaã", "Deus"]
+      "parafrase": "Quando vocês estavam exaustos, Eu os coloquei no descanso da posse da terra. E vocês ocuparam todos aqueles lugares que lhes foram dados.",
+      "referencias": [
+        "Êxodo 33:14",
+        "Hebreus 4:1"
+      ],
+      "comentario": "Josué faz uma analogia com o descanso sabático, aplicando-o ao descanso nacional da guerra e à posse da terra. Deus lhes deu 'repouso' (SHALEM - estar completo, em paz) após o esforço militar e a jornada. A posse é finalizada.",
+      "temas": [
+        "Descanso de Deus",
+        "Conclusão da conquista",
+        "Paz"
+      ],
+      "personagens": [
+        "Israel"
+      ]
     },
     "12": {
-      "parafrase": "'Eu enviei vespões adiante de vocês, que os expulsaram de sua presença, os dois reis dos amorreus. Não foi pela sua espada nem pelo seu arco.'",
-      "referencias": ["Êxodo 23:28", "Deuteronômio 7:20"],
-      "comentario": "A menção dos 'vespões' pode ser literal ou uma metáfora para o pânico e o terror que Deus enviou sobre os inimigos de Israel. De qualquer forma, o ponto é o mesmo do versículo 3: a vitória veio de Deus, não do poder humano.",
-      "temas": ["guerra divina", "pânico", "soberania de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "No entanto, vocês não destruíram completamente os habitantes da terra, como Eu havia ordenado. Vocês deixaram alguns grupos para trás, e eles se tornaram espinhos cravados em seus flancos e pedras dolorosas em seus olhos, causando problemas constantes.",
+      "referencias": [
+        "Números 33:55",
+        "Juízes 2:3"
+      ],
+      "comentario": "A mudança de tom é abrupta. Josué passa da celebração da fidelidade de Deus para a repreensão da desobediência de Israel. A metáfora de 'espinho no lado' (TIRAH em hebraico, algo que perfura e irrita) e 'espinho nos olhos' (uma dor aguda e constante) ilustra as consequências da tolerância ao pecado e à idolatria.",
+      "temas": [
+        "Desobediência",
+        "Consequências espirituais",
+        "Tolerância ao mal"
+      ],
+      "personagens": [
+        "Israel",
+        "Povos remanescentes"
+      ]
     },
     "13": {
-      "parafrase": "'Eu lhes dei uma terra pela qual vocês não trabalharam e cidades que não construíram. E vocês vivem nelas e comem de vinhas e olivais que não plantaram.'",
-      "referencias": ["Deuteronômio 6:10-11"],
-      "comentario": "A posse da terra é um dom da graça de Deus. Israel herdou uma infraestrutura e uma agricultura que não desenvolveu. Isso deveria gerar gratidão e humildade.",
-      "temas": ["graça", "dom de Deus", "herança"],
-      "personagens": ["Deus", "Israelitas"]
+      "parafrase": "Mas, apesar de tudo isso, o Senhor, o Deus de vocês, não os destruiu, pois Ele havia prometido aos seus pais que daria tudo isso a vocês. Ele lhes deu a terra como herança permanente.",
+      "referencias": [
+        "Gênesis 15:18",
+        "Deuteronômio 7:8"
+      ],
+      "comentario": "Apesar da falha israelita, a fidelidade de Deus prevalece devido à Sua aliança imutável com os patriarcas. A palavra 'herança' (NACHALAH) sublinha a natureza permanente e hereditária da posse da terra, baseada na promessa, e não no merecimento atual de Israel.",
+      "temas": [
+        "Fidelidade de Deus",
+        "Promessa patriarcal",
+        "Herança eterna"
+      ],
+      "personagens": [
+        "Deus",
+        "Pais"
+      ]
     },
     "14": {
-      "parafrase": "'Agora, pois, temam o Senhor e sirvam-no com sinceridade e fidelidade. Joguem fora os deuses que seus antepassados serviram do outro lado do Eufrates e no Egito, e sirvam ao Senhor.'",
-      "referencias": [],
-      "comentario": "Após recontar a história da fidelidade de Deus, Josué faz o apelo. A resposta adequada à graça de Deus é o temor reverente e o serviço leal. Isso exige uma ruptura decisiva com toda a idolatria, tanto a do passado distante quanto a do Egito.",
-      "temas": ["temor a Deus", "serviço", "sinceridade", "fidelidade", "arrependimento"],
-      "personagens": ["Josué", "Povo de Israel"]
+      "parafrase": "Portanto, agora, livrem-se de tudo o que não é d'Ele. Dediquem-se inteiramente ao Senhor, o Deus de Israel, e sirvam somente a Ele, com todo o coração e toda a força!",
+      "referencias": [
+        "Deuteronômio 10:12",
+        "Mateus 22:37"
+      ],
+      "comentario": "Este é o chamado fundamental à pureza religiosa. O hebraico para 'livrem-se' (NACAR) implica remover ou separar. A exigência é de exclusividade total: servir 'somente a Ele' (LIVADDO), o que resume a essência do primeiro mandamento.",
+      "temas": [
+        "Total dedicação",
+        "Monoteísmo",
+        "Integridade de coração"
+      ],
+      "personagens": [
+        "Israel"
+      ]
     },
     "15": {
-      "parafrase": "'Mas, se vocês não quiserem servir ao Senhor, escolham hoje a quem irão servir: se aos deuses que seus antepassados serviram do outro lado do Eufrates, ou aos deuses dos amorreus em cuja terra vocês estão vivendo. Eu e a minha casa, porém, serviremos ao Senhor.'",
-      "referencias": ["1 Reis 18:21"],
-      "comentario": "Este é o clímax do discurso. Josué força uma decisão. A neutralidade não é uma opção. Ele não impõe sua escolha, mas desafia o povo a escolher conscientemente seu destino. Sua declaração pessoal, 'Eu e a minha casa serviremos ao Senhor', é um poderoso exemplo de liderança e compromisso pessoal.",
-      "temas": ["decisão", "livre-arbítrio", "compromisso", "liderança"],
-      "personagens": ["Josué", "Povo de Israel"]
+      "parafrase": "Se, por acaso, vocês decidirem abandonar o Senhor e servir aos deuses estrangeiros que estão por perto, ou aos deuses dos povos que vivem entre vocês, então a ira do Senhor se acenderá rapidamente contra vocês, e vocês serão varridos rapidamente desta boa terra que Ele lhes deu!",
+      "referencias": [
+        "Deuteronômio 28:63",
+        "Josué 23:15-16"
+      ],
+      "comentario": "Aqui, Josué apresenta o cenário alternativo: o fracasso total. O uso da metáfora de ser 'varrido' (CARAT) sugere aniquilação completa, como se fossem arrancados da terra. Ele enfatiza a imediatez da retribuição divina em resposta à quebra da aliança, contrastando com a paciência demonstrada na conquista.",
+      "temas": [
+        "Consequência da apostasia",
+        "Ira divina",
+        "Exílio potencial"
+      ],
+      "personagens": [
+        "Israel",
+        "Deuses estrangeiros"
+      ]
     },
     "16": {
-      "parafrase": "O povo respondeu: 'Longe de nós abandonarmos o Senhor para servir a outros deuses!'",
-      "referencias": [],
-      "comentario": "O povo responde positivamente, ecoando o sentimento de Josué.",
-      "temas": ["compromisso", "lealdade"],
-      "personagens": ["Povo de Israel"]
+      "parafrase": "O povo respondeu a Josué: 'De forma alguma! Não vamos abandonar o Senhor para servir a outros deuses! Nós faremos exatamente o que o Senhor, nosso Deus, nos ordenou, e obedeceremos à Sua voz!'",
+      "referencias": [
+        "Êxodo 19:8",
+        "Deuteronômio 5:27"
+      ],
+      "comentario": "A resposta imediata e fervorosa do povo ecoa a resposta de Israel no Sinai ('Faremos tudo o que o Senhor falou'). Este é o momento de renovação da aliança. A palavra 'sacrifício' (ZABA), embora não usada aqui, está subentendida no ato de serviço religioso.",
+      "temas": [
+        "Compromisso renovado",
+        "Obediência voluntária",
+        "Reafirmação da aliança"
+      ],
+      "personagens": [
+        "Israel",
+        "Josué"
+      ]
     },
     "17": {
-      "parafrase": "'Pois foi o Senhor, nosso Deus, que nos tirou, a nós e a nossos pais, da terra do Egito, da casa da escravidão. Ele realizou aqueles grandes sinais diante de nossos olhos e nos protegeu em todo o caminho por onde andamos e entre todos os povos pelos quais passamos.'",
-      "referencias": [],
-      "comentario": "A decisão do povo é baseada na mesma história que Josué acabou de recontar. Eles reconhecem os atos redentores de Deus como o motivo de sua lealdade.",
-      "temas": ["gratidão", "memória", "redenção"],
-      "personagens": ["Povo de Israel", "Deus"]
+      "parafrase": "Pois nos lembramos de tudo o que o Senhor, nosso Deus, fez por nós, tirando-nos da escravidão do Egito e protegendo-nos de todos os perigos no caminho, e mantendo os cananeus longe de nós enquanto atravessávamos o território deles.",
+      "referencias": [
+        "Salmos 106:7-8",
+        "Isaías 43:2"
+      ],
+      "comentario": "O povo justifica seu juramento, repetindo os grandes atos de Deus (Êxodo, proteção no deserto, concessão das terras dos reis amorreus). Sua promessa é baseada na gratidão pelas intervenções divinas passadas, mostrando que a memória histórica é a base da obediência.",
+      "temas": [
+        "Memória como base da fé",
+        "Gratidão",
+        "Proteção divina"
+      ],
+      "personagens": [
+        "Israel",
+        "Senhor"
+      ]
     },
     "18": {
-      "parafrase": "'E o Senhor expulsou de diante de nós todos os povos, os amorreus que viviam na terra. Nós também serviremos ao Senhor, porque ele é o nosso Deus.'",
-      "referencias": [],
-      "comentario": "Eles afirmam sua identidade como povo de Deus e se comprometem a servi-lo.",
-      "temas": ["identidade", "compromisso", "serviço"],
-      "personagens": ["Povo de Israel", "Deus"]
+      "parafrase": "Portanto, nós serviremos ao Senhor, pois Ele é o nosso Deus, e nós somos o Seu povo, e cumpriremos tudo o que Ele nos ordenar!'",
+      "referencias": [
+        "Êxodo 6:7",
+        "Apocalipse 21:3"
+      ],
+      "comentario": "A conclusão da resposta popular estabelece a relação de posse mútua da aliança: Deus como seu Deus exclusivo, e Israel como Seu povo peculiar. Este é o cerne da identidade teológica de Israel.",
+      "temas": [
+        "Relação de aliança",
+        "Identidade de Israel",
+        "Serviço exclusivo"
+      ],
+      "personagens": [
+        "Israel",
+        "Senhor"
+      ]
     },
     "19": {
-      "parafrase": "Josué, porém, disse ao povo: 'Vocês não podem servir ao Senhor, porque ele é um Deus santo e um Deus ciumento. Ele não perdoará a sua transgressão nem os seus pecados.'",
-      "referencias": ["Êxodo 20:5", "Levítico 19:2"],
-      "comentario": "A resposta de Josué parece desanimadora, mas é uma verificação da realidade. Ele está testando a sinceridade do compromisso deles. Servir a Deus não é uma decisão fácil ou superficial. Requer uma compreensão de Sua santidade e de Seu ciúme (zelo por uma aliança exclusiva). Ele os adverte que Deus não tolera a infidelidade.",
-      "temas": ["santidade de Deus", "zelo de Deus", "seriedade do compromisso"],
-      "personagens": ["Josué", "Povo de Israel", "Deus"]
+      "parafrase": "Mas Josué advertiu-os solenemente: 'Vocês não podem servir ao Senhor, pois Ele é um Deus zeloso! Ele não perdoará a rebelião e o pecado de vocês, nem aceitará a idolatria!'",
+      "referencias": [
+        "Êxodo 20:5",
+        "Deuteronômio 32:16"
+      ],
+      "comentario": "Josué injeta uma nota de ceticismo paternalista, testando a profundidade da fé do povo. Ele usa o termo hebraico para 'zeloso' (QINNA), que descreve a natureza possessiva de Deus em relação à adoração que lhe é devida. A santidade de Deus exige exclusividade; Ele não divide Sua glória.",
+      "temas": [
+        "Natureza zelosa de Deus",
+        "Consequência do pecado",
+        "Advertência final"
+      ],
+      "personagens": [
+        "Josué",
+        "Israel"
+      ]
     },
     "20": {
-      "parafrase": "'Se vocês abandonarem o Senhor e servirem a deuses estrangeiros, ele se voltará contra vocês, lhes fará mal e os destruirá, depois de lhes ter feito tanto bem.'",
-      "referencias": ["Josué 23:15-16"],
-      "comentario": "Josué reitera a advertência de seu discurso anterior: a mesma mão que abençoou pode trazer juízo se a aliança for quebrada.",
-      "temas": ["apostasia", "juízo divino", "advertência"],
-      "personagens": ["Josué", "Deus"]
+      "parafrase": "Se vocês se afastarem do Senhor e começarem a servir aos deuses estranhos, o Senhor se voltará contra vocês e lhes fará o mal, depois de toda a bondade que lhes concedeu!'",
+      "referencias": [
+        "Deuteronômio 11:17",
+        "Jeremias 17:13"
+      ],
+      "comentario": "Josué reitera a maldição, mostrando o princípio do 'se... então'. A ironia trágica é que a mesma mão que abençoou (concedendo a terra) será a mão que julgará. A inversão de bênção em maldição é um tema central da teologia da aliança (Deuteronômio).",
+      "temas": [
+        "Inversão da bênção",
+        "Juízo divino",
+        "Lei da aliança"
+      ],
+      "personagens": [
+        "Senhor",
+        "Israel"
+      ]
     },
     "21": {
-      "parafrase": "Mas o povo disse a Josué: 'Não! Nós serviremos ao Senhor.'",
-      "referencias": [],
-      "comentario": "Apesar da advertência solene, o povo reafirma sua decisão, mostrando que (pelo menos naquele momento) eles estavam dispostos a aceitar os termos da aliança.",
-      "temas": ["determinação", "compromisso"],
-      "personagens": ["Povo de Israel", "Josué"]
+      "parafrase": "O povo, no entanto, insistiu: 'Não! Nós não faremos isso! Nós permaneceremos firmes ao Senhor e serviremos somente a Ele!'",
+      "referencias": [
+        "Josué 24:16",
+        "Deuteronômio 29:10-12"
+      ],
+      "comentario": "A persistência do povo em afirmar sua lealdade reforça a solenidade do momento. Eles se recusam a aceitar a possibilidade de serem inconsistentes, forçando Josué a aceitar a validade de sua profissão de fé, mesmo que mais tarde falhem.",
+      "temas": [
+        "Insistência na fidelidade",
+        "Aceitação da promessa"
+      ],
+      "personagens": [
+        "Israel",
+        "Josué"
+      ]
     },
     "22": {
-      "parafrase": "Então Josué disse ao povo: 'Vocês são testemunhas contra si mesmos de que escolheram servir ao Senhor.' E eles responderam: 'Somos testemunhas.'",
-      "referencias": [],
-      "comentario": "Josué os faz confirmar seu voto, tornando-os responsáveis por sua própria decisão. Eles não poderiam alegar ignorância no futuro.",
-      "temas": ["testemunho", "responsabilidade", "voto"],
-      "personagens": ["Josué", "Povo de Israel"]
+      "parafrase": "Então Josué declarou, com uma autoridade quase profética: 'Vocês são testemunhas contra si mesmos de que escolheram o Senhor para servi-Lo!' Eles concordaram: 'Sim, nós somos testemunhas!'",
+      "referencias": [
+        "Deuteronômio 30:19",
+        "Lucas 12:21"
+      ],
+      "comentario": "Este é o clímax da cerimônia: o povo se torna seu próprio juiz. Josué usa o estabelecimento da comunidade como testemunha legal. O povo responde 'Sim', confirmando que a responsabilidade pela obediência agora recai inteiramente sobre eles.",
+      "temas": [
+        "Auto-responsabilidade",
+        "Testemunho legal",
+        "Escolha consciente"
+      ],
+      "personagens": [
+        "Josué",
+        "Israel"
+      ]
     },
     "23": {
-      "parafrase": "Josué disse: 'Agora, pois, joguem fora os deuses estrangeiros que estão no meio de vocês e inclinem o coração ao Senhor, o Deus de Israel.'",
-      "referencias": ["Gênesis 35:2-4"],
-      "comentario": "A verdadeira aliança exige ação. O compromisso verbal deve ser acompanhado por uma purificação prática (remover os ídolos) e uma devoção interna (inclinar o coração). Isso sugere que, apesar de suas declarações, alguns ainda mantinham ídolos.",
-      "temas": ["ação", "purificação", "devoção"],
-      "personagens": ["Josué"]
+      "parafrase": "Josué, então, ordenou: 'Agora, livrem-se dos deuses estranhos que estão entre vocês e voltem seus corações firmemente para o Senhor, Deus de Israel!'",
+      "referencias": [
+        "Gênesis 35:2",
+        "Atos 17:30"
+      ],
+      "comentario": "A ordem final é prática: livrar-se dos ídolos tangíveis ('deuses estranhos') e, mais profundamente, redirecionar a intenção do coração. O coração (LEV) é o centro da vontade e da decisão, e deve ser 'inclinado firmemente' a Deus.",
+      "temas": [
+        "Purificação material",
+        "Redirecionamento do coração",
+        "Foco na adoração"
+      ],
+      "personagens": [
+        "Josué",
+        "Israel"
+      ]
     },
     "24": {
-      "parafrase": "E o povo disse a Josué: 'Serviremos ao Senhor, nosso Deus, e obedeceremos à sua voz.'",
-      "referencias": [],
-      "comentario": "Pela terceira vez, o povo confirma seu compromisso, agora incluindo a promessa de obediência.",
-      "temas": ["compromisso", "obediência"],
-      "personagens": ["Povo de Israel", "Josué"]
+      "parafrase": "E o povo prometeu novamente a Josué: 'Nós serviremos ao Senhor nosso Deus e obedeceremos à Sua voz!'",
+      "referencias": [
+        "Josué 24:16",
+        "Deuteronômio 6:13"
+      ],
+      "comentario": "A terceira e última afirmação verbal do povo no capítulo. Esta repetição enfatiza o compromisso público e a aceitação da seriedade da aliança antes da morte do líder.",
+      "temas": [
+        "Compromisso triplo",
+        "Aceitação da lei"
+      ],
+      "personagens": [
+        "Israel",
+        "Josué"
+      ]
     },
     "25": {
-      "parafrase": "Naquele dia, Josué fez uma aliança com o povo e lhes deu um estatuto e uma lei em Siquém.",
-      "referencias": [],
-      "comentario": "O compromisso verbal é formalizado em uma cerimônia de renovação da aliança, onde os termos da lei de Deus são reafirmados.",
-      "temas": ["aliança", "lei", "compromisso formal"],
-      "personagens": ["Josué", "Povo de Israel"]
+      "parafrase": "Naquele dia, Josué selou a aliança com o povo em Siquém. Ele estabeleceu ali uma lei para o povo e fez um pacto solene com eles, ratificando tudo o que havia sido estabelecido diante do Senhor.",
+      "referencias": [
+        "Êxodo 24:8",
+        "Josué 8:31"
+      ],
+      "comentario": "O ato final de Josué é formalizar a aliança. Ele 'estabeleceu uma lei' (CHOQ), um estatuto ou um decreto que seria o padrão para a vida nacional dali em diante. Este é o selamento do pacto, usando a pedra como testemunha silenciosa (referência implícita à pedra erguida no versículo 26), imitando o pacto feito por Moisés no Sinai.",
+      "temas": [
+        "Ratificação da aliança",
+        "Estabelecimento da lei",
+        "Selo cerimonial"
+      ],
+      "personagens": [
+        "Josué",
+        "Povo"
+      ]
     },
     "26": {
-      "parafrase": "Josué registrou estas palavras no Livro da Lei de Deus. Depois, pegou uma grande pedra e a ergueu ali, debaixo do carvalho que estava perto do santuário do Senhor.",
-      "referencias": ["Gênesis 28:18", "Deuteronômio 31:24-26"],
-      "comentario": "Para comemorar a aliança, Josué usa dois tipos de testemunho: um escrito (registrando o evento no livro sagrado) e um físico (uma grande pedra). A pedra serviria como um lembrete silencioso e duradouro do voto que fizeram.",
-      "temas": ["memorial", "testemunho", "aliança"],
-      "personagens": ["Josué"]
+      "parafrase": "Naquele dia, Josué cumpriu sua promessa solene e firme com o povo de Israel. Ele fez uma aliança (um pacto sagrado e inquebrável) com eles ali mesmo, sob a sombra imponente do grande carvalho ou talvez de um monumento de pedra que servia como marco de memória, perto do santuário do Senhor em Siquém. Eles se comprometeram, perante Deus e todos os presentes, a obedecer rigorosamente às leis e aos mandamentos que Moisés havia estabelecido anteriormente.",
+      "referencias": [
+        "Êxodo 24:8",
+        "Deuteronômio 27:15"
+      ],
+      "comentario": "O versículo 26 marca o ponto culminante do discurso de Josué: a renovação da aliança mosaica. A expressão 'aliança' (berith, em hebraico) aqui não é apenas um acordo, mas um juramento solene, semelhante a um casamento ou tratado entre nações, selado com rituais. O local ('Siquém') e a menção da 'lei do Senhor' reforçam a natureza teocrática deste pacto.",
+      "temas": [
+        "Aliança",
+        "Obediência",
+        "Pacto com Deus"
+      ],
+      "personagens": [
+        "Josué",
+        "Povo de Israel"
+      ]
     },
     "27": {
-      "parafrase": "E disse a todo o povo: 'Vejam esta pedra! Ela será uma testemunha contra nós, pois ouviu todas as palavras que o Senhor nos falou. Será uma testemunha contra vocês, para que não neguem o seu Deus.'",
-      "referencias": [],
-      "comentario": "Josué personifica a pedra, dando-lhe o papel de testemunha. Sua presença constante seria um lembrete da aliança e uma acusação se eles a quebrassem.",
-      "temas": ["testemunho", "memorial", "responsabilidade"],
-      "personagens": ["Josué", "Povo de Israel"]
+      "parafrase": "Josué, então, proclamou em voz alta, para que não houvesse dúvidas: 'Esta pedra grande, que acabamos de erguer aqui, testemunhará contra todos nós!'. Ele explicou que esta pedra seria uma testemunha silenciosa, mas perpétua, de que o povo acabara de aceitar as condições do pacto. Se eles viessem a falhar com o Senhor no futuro, a solidez e a imobilidade daquela pedra serviriam como prova irrefutável de sua traição passada.",
+      "referencias": [
+        "Gênesis 31:48",
+        "1 Samuel 7:12"
+      ],
+      "comentario": "A 'pedra' (eben) aqui é um monumento de memória, semelhante ao 'Ebenézer' (pedra de ajuda) mencionado anteriormente por Samuel. Ela funciona como um 'testemunho' (edut). Josué utiliza um recurso visual poderoso para solidificar o compromisso espiritual em uma realidade física e duradoura.",
+      "temas": [
+        "Testemunho",
+        "Memória Histórica",
+        "Responsabilidade"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "28": {
-      "parafrase": "Então Josué despediu o povo, cada um para a sua herança.",
-      "referencias": [],
-      "comentario": "Com a aliança renovada, a assembleia é concluída, e o povo retorna para suas casas.",
-      "temas": ["despedida", "herança"],
-      "personagens": ["Josué", "Povo de Israel"]
+      "parafrase": "Por isso, Josué dispensou o povo naquele momento, enviando cada israelita de volta à sua herança de terra. Cada tribo, cada família, foi mandada para retomar a posse da sua porção de herança, conforme Deus havia ordenado através de Moisés.",
+      "referencias": [
+        "Josué 13:7",
+        "Números 34:13"
+      ],
+      "comentario": "Após o ato solene de renovação da aliança, o trabalho prático de posse da terra deve recomeçar. A dispersão do povo não é um abandono, mas o início da implementação das obrigações contratuais assumidas sob a aliança: tomar posse da terra prometida como resultado direto da obediência.",
+      "temas": [
+        "Posse da Terra",
+        "Deveres",
+        "Cumprimento da Promessa"
+      ],
+      "personagens": [
+        "Josué",
+        "Povo de Israel"
+      ]
     },
     "29": {
-      "parafrase": "Depois dessas coisas, Josué, filho de Num, servo do Senhor, morreu, com a idade de cento e dez anos.",
-      "referencias": [],
-      "comentario": "A morte de Josué marca o fim de uma era. O título 'servo do Senhor', também usado para Moisés, é o maior elogio à sua vida de fidelidade e serviço.",
-      "temas": ["morte", "fidelidade", "liderança"],
-      "personagens": ["Josué"]
+      "parafrase": "Depois de todos esses acontecimentos cruciais, ocorreu a morte de Josué, servo fiel do Senhor. Ele viveu o suficiente para ver o povo estabelecer seu pacto com Deus e começou a colheita da fé em Canaã. Josué faleceu na velhice, sendo já bastante idoso.",
+      "referencias": [
+        "Juízes 2:8",
+        "Números 27:13"
+      ],
+      "comentario": "Este versículo inicia o epílogo da vida de Josué. O texto bíblico tradicionalmente resume a vida de um líder após completar sua missão principal. A descrição 'servo do Senhor' (eved YHWH) é o título de honra máximo, atestando que ele viveu fielmente para cumprir o propósito divino.",
+      "temas": [
+        "Morte de Líderes",
+        "Fidelidade",
+        "Cumprimento do Ministério"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "30": {
-      "parafrase": "Eles o sepultaram na terra de sua herança, em Timnate-Sera, na região montanhosa de Efraim, ao norte do monte Gaás.",
-      "referencias": ["Josué 19:50"],
-      "comentario": "Ele foi sepultado em sua própria terra, o líder que serviu ao povo até o fim.",
-      "temas": ["sepultamento", "herança"],
-      "personagens": ["Josué"]
+      "parafrase": "O povo de Israel então enterrou Josué em um lugar de grande honra, dentro dos limites de sua própria herança, na porção de terra que lhe havia sido designada, em Timnate-Sera, uma cidade localizada na região montanhosa de Efraim, ao norte do monte Gaás.",
+      "referencias": [
+        "Juízes 2:9",
+        "Josué 19:50"
+      ],
+      "comentario": "O local de sepultamento de Josué é significativo. Ele foi enterrado em Timnate-Sera (que pode significar 'porção que sobra' ou 'a porção gloriosa'), dentro da herança que ele recebeu. Isso contrasta com Moisés, cujo local de sepultamento é desconhecido, sublinhando que Josué cumpriu sua missão terrena integralmente e desfrutou da recompensa prometida.",
+      "temas": [
+        "Sepultamento",
+        "Herança Pessoal",
+        "Honra"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "31": {
-      "parafrase": "Israel serviu ao Senhor durante toda a vida de Josué e dos anciãos que lhe sobreviveram e que tinham conhecido todas as obras que o Senhor fizera por Israel.",
-      "referencias": ["Juízes 2:7-10"],
-      "comentario": "Este versículo serve como um epitáfio para a geração de Josué e uma transição para o livro de Juízes. Enquanto a liderança que testemunhou os atos de Deus estava viva, o povo permaneceu fiel. Isso prenuncia a apostasia que ocorreria quando essa geração passasse.",
-      "temas": ["fidelidade", "liderança", "memória", "transição"],
-      "personagens": ["Israel", "Josué", "Anciãos"]
+      "parafrase": "A geração que viu Josué e participou de toda a maravilhosa obra que o Senhor realizou em favor de Israel — incluindo a conquista de Canaã — viveu e serviu ao Senhor durante todos os dias desses líderes experientes. Isso manteve o povo no caminho certo, com um temor reverente a Deus.",
+      "referencias": [
+        "Juízes 2:7",
+        "Salmos 78:57"
+      ],
+      "comentario": "Este versículo (e os seguintes) estabelece o padrão de referência para a piedade em Israel: a observação da geração que testemunhou os atos poderosos de Deus. A frase 'serviram ao Senhor' (avadu et YHWH) implica serviço leal e devoção contínua. O temor a Deus é mantido enquanto houver testemunhas vivas dos milagres.",
+      "temas": [
+        "Legado Espiritual",
+        "Temor a Deus",
+        "Continuidade da Fé"
+      ],
+      "personagens": [
+        "Josué",
+        "Anciãos de Israel"
+      ]
     },
     "32": {
-      "parafrase": "Os ossos de José, que os israelitas haviam trazido do Egito, foram sepultados em Siquém, no pedaço de campo que Jacó havia comprado dos filhos de Hamor, pai de Siquém, por cem peças de prata. E tornou-se herança dos descendentes de José.",
-      "referencias": ["Gênesis 50:25", "Êxodo 13:19", "Hebreus 11:22"],
-      "comentario": "O sepultamento dos ossos de José em Siquém é o cumprimento de uma promessa feita séculos antes. É um ato final de fé na promessa de Deus sobre a terra e um elo que conecta a era dos patriarcas com a posse da terra.",
-      "temas": ["cumprimento da promessa", "fé", "herança"],
-      "personagens": ["Descendentes de José", "José", "Jacó"]
+      "parafrase": "Os ossos de José, trazidos do Egito após décadas de peregrinação e promessas, foram também sepultados em Siquém. Este local especial recebeu os restos mortais do grande patriarca, dentro do terreno que Jacó havia comprado de um dos filhos de Hamor, o pai de Siquém.",
+      "referencias": [
+        "Gênesis 33:19",
+        "Hebreus 11:22"
+      ],
+      "comentario": "O sepultamento dos ossos de José em Siquém cumpre a promessa feita por José séculos antes (Gênesis 50:25). Ao escolher Siquém, ele une simbolicamente a bênção de Jacó (Gênesis 49:25) com a posse da terra conquistada por Josué, fechando um ciclo iniciado com os Patriarcas.",
+      "temas": [
+        "Lealdade à Promessa",
+        "Sepultamento Patriarcal",
+        "Unidade de Israel"
+      ],
+      "personagens": [
+        "José",
+        "Jacó"
+      ]
     },
     "33": {
-      "parafrase": "Eleazar, filho de Arão, também morreu; e o sepultaram em Gibeá, que fora dada a seu filho Fineias, na região montanhosa de Efraim.",
-      "referencias": [],
-      "comentario": "A morte de Eleazar, o sumo sacerdote, marca o fim da liderança da era da conquista. A tocha é passada para seu filho Fineias, garantindo a continuidade do sacerdócio. O livro termina com a morte dos três grandes líderes daquela geração: Josué, José (simbolicamente) e Eleazar.",
-      "temas": ["morte", "continuidade", "sacerdócio"],
-      "personagens": ["Eleazar", "Fineias"]
+      "parafrase": "E, finalmente, o sacerdote Eleazar, filho de Arão, também completou sua jornada terrena. Ele foi sepultado em uma colina que havia sido designada como herança para Fineias, seu filho, localizada na região montanhosa de Efraim, perto da cidade de Gaás.",
+      "referencias": [
+        "Números 20:28",
+        "Josué 17:3"
+      ],
+      "comentario": "O fim de Eleazar, o Sumo Sacerdote, marca o fim da liderança da primeira geração pós-conquista. Seu sepultamento, ao lado de Josué (e a proximidade do de José), cimenta a ideia de que os pilares da liderança religiosa (Eleazar) e militar/civil (Josué) cumpriram seus deveres e descansaram em paz, passando o bastão para Fineias e a nova geração de juízes/anciãos.",
+      "temas": [
+        "Liderança Religiosa",
+        "Sucessão Sacerdotal",
+        "Conclusão de Ciclos"
+      ],
+      "personagens": [
+        "Eleazar",
+        "Arão",
+        "Fineias"
+      ]
     }
   }
 }

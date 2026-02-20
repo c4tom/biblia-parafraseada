@@ -1,157 +1,387 @@
 {
   "livro": "Êxodo",
   "capitulo": 3,
-  "contexto_historico": "Este capítulo de Êxodo descreve o chamado de Moisés por Deus no monte Horebe (Sinai), através da sarça ardente. Deus se revela a Moisés como o Deus de Abraão, Isaque e Jacó, e anuncia Seu plano de libertar Israel da escravidão no Egito e levá-los para uma terra que mana leite e mel. Moisés, inicialmente relutante, questiona sua própria capacidade e a identidade de Deus. Deus revela Seu nome, YHWH (Eu Sou o Que Sou), e promete estar com Moisés, capacitando-o para sua missão. O capítulo enfatiza a santidade de Deus, Sua compaixão pelo sofrimento de Seu povo e Sua soberania em escolher e capacitar Seus servos para cumprir Seus propósitos.",
-  "bloco_tematico": "O Chamado de Moisés na Sarça Ardente e a Revelação do Nome de Deus",
+  "contexto_historico": "O povo de Israel está no Monte Sinai ⛰️, logo após a libertação milagrosa do Egito (Êxodo 1-18) e a recepção dos Dez Mandamentos (Êxodo 20). A nação recém-formada, ainda traumatizada pela escravidão e insegura sobre seu futuro, precisa de uma estrutura legal e de um relacionamento claro com Deus. Moisés agora atua como o mediador principal entre Deus e o povo. Este capítulo marca a transição de eventos históricos (partida do Egito) para a legislação divina (a Lei).",
+  "bloco_tematico": "O Monte da Presença Divina e a Aliança: A Vocação de Moisés e a Revelação da Sarça Ardente 🔥📜",
   "versiculos": {
     "1": {
-      "parafrase": "Ora, Moisés apascentava o rebanho de Jetro, seu sogro, o sacerdote de Midiã; e ele conduziu o rebanho para trás do deserto e veio ao monte de Deus, Horebe.",
-      "referencias": [],
-      "comentario": "Moisés, agora um pastor em Midiã, leva o rebanho de seu sogro Jetro ao monte Horebe, o monte de Deus. Este local se tornará significativo para a revelação divina.",
-      "temas": ["Moisés", "pastor", "Midiã", "Horebe", "monte de Deus"],
-      "personagens": ["Moisés", "Jetro"]
+      "parafrase": "Moisés, então, levou consigo o seu rebanho, aquelas ovelhas e cabras, e partiu, atravessando o deserto vasto e seco, até chegar ao lendário Monte de Deus, o Horebe, o mesmo lugar onde Deus lhe havia aparecido anteriormente.",
+      "referencias": [
+        "Êxodo 19:1",
+        "Deuteronômio 4:10"
+      ],
+      "comentario": "O verbo hebraico 'lâqach' (tomar, pegar) indica a ação deliberada de levar o rebanho. O Horebe, frequentemente sinônimo de Sinai, é o palco da teofania anterior, estabelecendo a continuidade do chamado divino.",
+      "temas": [
+        "Liderança",
+        "Chamado Divino",
+        "Retorno ao Local Sagrado"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "2": {
-      "parafrase": "E o anjo do Senhor lhe apareceu em uma chama de fogo do meio de uma sarça; e ele olhou, e, vejam, a sarça queimava com fogo, mas a sarça não era consumida.",
-      "referencias": [],
-      "comentario": "O anjo do Senhor aparece a Moisés em uma sarça que queima com fogo, mas não é consumida. Este é um sinal sobrenatural da presença de Deus e de Sua santidade.",
-      "temas": ["anjo do Senhor", "sarça ardente", "fogo", "sobrenatural", "presença divina", "santidade"],
-      "personagens": []
+      "parafrase": "Ali, no silêncio profundo do ermo, a glória do Senhor se manifestou a ele, aparecendo no meio de uma chama intensa que irrompia de um arbusto espinhoso. Moisés ficou paralisado observando o espetáculo: a sarça queimava, crepitava, mas, incrivelmente, não se consumia, não virava cinzas.",
+      "referencias": [
+        "Êxodo 19:18",
+        "Deuteronômio 4:24"
+      ],
+      "comentario": "A teofania se dá no fogo ('esh' - fogo intenso). O detalhe crucial é que a sarça ('sneh') não era consumida ('lo telacham'). Isso simboliza a presença poderosa de Deus que sustenta e não destrói, um prelúdio à Sua presença sustentadora em Israel.",
+      "temas": [
+        "Teofania",
+        "Presença Divina",
+        "Mistério"
+      ],
+      "personagens": [
+        "Moisés",
+        "O Senhor"
+      ]
     },
     "3": {
-      "parafrase": "E Moisés disse: 'Eu me voltarei agora e verei esta grande visão, por que a sarça não se queima.'",
-      "referencias": [],
-      "comentario": "Moisés, curioso e intrigado, decide se aproximar para investigar o fenômeno. Sua curiosidade é um passo para a revelação divina.",
-      "temas": ["curiosidade", "visão", "investigação", "revelação"],
-      "personagens": ["Moisés"]
+      "parafrase": "Movido pela curiosidade assombrada, Moisés pensou consigo mesmo: 'Que coisa extraordinária é esta que estou vendo? Por que aquela moita, que deveria virar pó pelo fogo, permanece intacta? Preciso me aproximar para investigar essa visão maravilhosa.'",
+      "referencias": [
+        "Gênesis 15:17",
+        "Judas 1:23"
+      ],
+      "comentario": "A reação de Moisés é de 'curiosidade' e 'desvio' ('suur' - virar-se). Ele se move da posição de pastor para a de observador ativo, indicando a seriedade com que encarava o evento sobrenatural.",
+      "temas": [
+        "Investigação",
+        "Espanto",
+        "Aproximação"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "4": {
-      "parafrase": "E quando o Senhor viu que ele se voltava para ver, Deus o chamou do meio da sarça e disse: 'Moisés, Moisés!' E ele disse: 'Aqui estou.'",
-      "referencias": [],
-      "comentario": "Deus chama Moisés pelo nome do meio da sarça, mostrando Sua atenção pessoal e Sua escolha. A resposta de Moisés, 'Aqui estou', indica sua prontidão para ouvir.",
-      "temas": ["chamado divino", "nome", "atenção pessoal", "prontidão"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "Quando o Senhor percebeu que ele estava se aproximando para olhar mais de perto, a voz de Deus o chamou de dentro do fogo ardente: 'Moisés! Moisés!', e ele prontamente respondeu, com o coração na mão: 'Eis-me aqui!'",
+      "referencias": [
+        "1 Samuel 3:4",
+        "Isaías 6:8"
+      ],
+      "comentario": "O Senhor o chama pelo nome duas vezes, um sinal de intimidade e foco. A resposta 'Hineini' (Eis-me aqui) é a fórmula bíblica de total disponibilidade e prontidão para o serviço.",
+      "temas": [
+        "Diálogo Divino",
+        "Prontidão",
+        "Vocação"
+      ],
+      "personagens": [
+        "O Senhor",
+        "Moisés"
+      ]
     },
     "5": {
-      "parafrase": "E Ele disse: 'Não se aproxime para cá; tire os seus sapatos dos seus pés, pois o lugar em que você está é terra santa.'",
-      "referencias": [],
-      "comentario": "Deus ordena a Moisés que tire os sapatos, pois o lugar é santo. Isso enfatiza a santidade da presença de Deus e a necessidade de reverência e pureza para se aproximar Dele.",
-      "temas": ["santidade", "reverência", "pureza", "terra santa", "presença divina"],
-      "personagens": ["Deus"]
+      "parafrase": "Deus o advertiu severamente: 'Não chegue mais perto! Tire as sandálias dos seus pés, pois o chão onde você está pisando agora é terra santa, consagrada pela minha presença.'",
+      "referencias": [
+        "Josué 5:15",
+        "Atos 7:33"
+      ],
+      "comentario": "A ordem de tirar o calçado é um ato de profunda reverência e reconhecimento da santidade ('qadosh'). A terra tocada pela glória divina torna-se 'terra santa', exigindo descalço para evitar profanação pelo objeto que toca o chão (o calçado).",
+      "temas": [
+        "Santidade",
+        "Reverência",
+        "Obediência"
+      ],
+      "personagens": [
+        "O Senhor",
+        "Moisés"
+      ]
     },
     "6": {
-      "parafrase": "Além disso, Ele disse: 'Eu sou o Deus de seu pai, o Deus de Abraão, o Deus de Isaque e o Deus de Jacó.' E Moisés escondeu o seu rosto, pois temeu olhar para Deus.",
-      "references": [],
-      "comentario": "Deus se revela como o Deus dos patriarcas, estabelecendo Sua fidelidade à aliança e Sua identidade. Moisés esconde o rosto em temor e reverência diante da glória de Deus.",
-      "temas": ["Deus dos patriarcas", "aliança", "identidade divina", "temor", "reverência"],
-      "personagens": ["Deus", "Moisés", "Abraão", "Isaque", "Jacó"]
+      "parafrase": "Então, o Senhor continuou, revelando Sua linhagem: 'Eu sou o Deus do seu pai, o Deus de Abraão, o Deus de Isaque e o Deus de Jacó.' Ao ouvir isso, Moisés cobriu o rosto com as mãos, tomado por um temor avassalador, incapaz de sustentar o olhar para Deus.",
+      "referencias": [
+        "Gênesis 17:7",
+        "Mateus 22:32"
+      ],
+      "comentario": "Esta é a primeira vez que Deus se apresenta formalmente como 'Eu Sou' (embora o pronome implícito seja o verbo ser) em relação aos patriarcas. Cobrir o rosto ('chasah panav') é uma resposta instintiva de quem reconhece a glória intransponível de Deus (a Shekinah).",
+      "temas": [
+        "Aliança Patriarcal",
+        "Temor de Deus",
+        "Glória Divina"
+      ],
+      "personagens": [
+        "O Senhor",
+        "Moisés",
+        "Abraão",
+        "Isaque",
+        "Jacó"
+      ]
     },
     "7": {
-      "parafrase": "E o Senhor disse: 'Eu certamente vi a aflição do meu povo que está no Egito, e ouvi o seu clamor por causa de seus capatazes; pois eu conheço as suas dores.'",
-      "references": [],
-      "comentario": "Deus expressa Sua compaixão pelo sofrimento de Seu povo no Egito, mostrando que Ele vê, ouve e conhece suas dores. Sua compaixão é a motivação para a libertação.",
-      "temas": ["compaixão divina", "aflição", "clamor", "conhecimento divino", "sofrimento"],
-      "personagens": ["Deus"]
+      "parafrase": "O Senhor, então, expressou Sua profunda compaixão: 'Eu vi claramente a aflição do meu povo que está no Egito. Testemunhei a maneira como são explorados e a dor que sentem sob o jugo dos opressores. Eu ouvi seus clamores por socorro.'",
+      "referencias": [
+        "Êxodo 2:24",
+        "Salmos 106:44"
+      ],
+      "comentario": "O verbo 'ra'ah' (ver) aqui carrega o peso de cuidado atento e compaixão ativa. Ele não apenas notou, mas sentiu a dor do povo. O povo estava 'nas suas labutas' ('be'amala'm'), indicando trabalho forçado e sofrimento contínuo.",
+      "temas": [
+        "Compaixão Divina",
+        "Opressão",
+        "Escuta de Deus"
+      ],
+      "personagens": [
+        "O Senhor",
+        "O Povo de Israel"
+      ]
     },
     "8": {
-      "parafrase": "'E eu desci para livrá-los da mão dos egípcios e para fazê-los subir daquela terra para uma terra boa e espaçosa, para uma terra que mana leite e mel, para o lugar dos cananeus, e dos hititas, e dos amorreus, e dos perizeus, e dos heveus, e dos jebuseus.'",
-      "references": [],
-      "comentario": "Deus anuncia Seu plano de descer para livrar Israel da escravidão e levá-los para a Terra Prometida, uma terra de abundância. A libertação é para a herança.",
-      "temas": ["libertação", "Terra Prometida", "abundância", "herança", "plano divino"],
-      "personagens": ["Deus"]
+      "parafrase": "'Por isso, Eu desci para resgatá-los das garras dos egípcios, para tirá-los daquela terra de escravidão e conduzi-los a uma terra vasta e fértil, uma terra que transborda com o melhor da natureza — leite e mel. Esta terra é prometida aos cananeus, hititas, amorreus, perizeus, heveus e jebuseus.'",
+      "referencias": [
+        "Gênesis 15:18",
+        "Números 13:27"
+      ],
+      "comentario": "A descida de Deus é uma ação de intervenção. A descrição da terra como 'que mana leite e mel' ('zabat halav u'dvash') é a metáfora máxima de prosperidade e fartura agrícola no Antigo Oriente Próximo.",
+      "temas": [
+        "Libertação",
+        "Promessa da Terra",
+        "Fartura"
+      ],
+      "personagens": [
+        "O Senhor"
+      ]
     },
     "9": {
-      "parafrase": "'Agora, portanto, vejam, o clamor dos filhos de Israel chegou a mim; e eu também vi a opressão com que os egípcios os oprimem.'",
-      "references": [],
-      "comentario": "Deus reitera que ouviu o clamor de Israel e viu a opressão egípcia, reafirmando Sua motivação para intervir. A justiça divina é para a libertação.",
-      "temas": ["clamor", "opressão", "justiça divina", "intervenção divina"],
-      "personagens": ["Deus"]
+      "parafrase": "E agora, vá! Eu o envio com urgência ao Faraó para que tire o meu povo, os israelitas, para fora do Egito.",
+      "referencias": [
+        "Mateus 28:19",
+        "Marcos 16:15"
+      ],
+      "comentario": "O 'agora' ('atta') enfatiza a urgência da missão. A tarefa de Moisés é clara: ser o agente da libertação ('hotzi' - tirar/guiar para fora).",
+      "temas": [
+        "Missão",
+        "Urgência",
+        "Intercessão"
+      ],
+      "personagens": [
+        "O Senhor",
+        "Moisés",
+        "Faraó"
+      ]
     },
     "10": {
-      "parafrase": "'Venha agora, portanto, e eu o enviarei ao Faraó, para que você possa tirar o meu povo, os filhos de Israel, do Egito.'",
-      "references": [],
-      "comentario": "Deus comissiona Moisés para ir ao Faraó e tirar Israel do Egito. A comissão é direta e desafiadora.",
-      "temas": ["comissão divina", "Moisés", "Faraó", "libertação"],
-      "personagens": ["Deus", "Moisés", "Faraó"]
+      "parafrase": "Moisés, sentindo-se completamente inadequado, respondeu a Deus: 'Quem sou eu, afinal, para me apresentar diante do Faraó e liderar os filhos de Israel para fora desta terra de cativeiro?'",
+      "referencias": [
+        "Jeremias 1:6",
+        "Lucas 1:26"
+      ],
+      "comentario": "Esta é a primeira de quatro objeções de Moisés. Sua pergunta foca na sua identidade ('Mi anochi' - Quem sou eu?) e capacidade, evidenciando sua insegurança após 40 anos no deserto.",
+      "temas": [
+        "Insegurança",
+        "Autodesqualificação",
+        "Medo da Autoridade"
+      ],
+      "personagens": [
+        "Moisés",
+        "O Senhor"
+      ]
     },
     "11": {
-      "parafrase": "E Moisés disse a Deus: 'Quem sou eu para ir ao Faraó e para tirar os filhos de Israel do Egito?'",
-      "references": [],
-      "comentario": "Moisés questiona sua própria capacidade e sua identidade para cumprir uma missão tão grandiosa. Sua relutância é um sinal de humildade e de reconhecimento da magnitude da tarefa.",
-      "temas": ["Moisés", "relutância", "capacidade", "humildade", "identidade"],
-      "personagens": ["Moisés"]
+      "parafrase": "Deus o tranquilizou imediatamente, dizendo: 'Não tema, pois Eu estarei com você. E como prova de que Eu sou quem o envia, este será o seu sinal: quando você tiver conduzido o povo para fora do Egito, todos vocês me adorarão neste mesmo monte.'",
+      "referencias": [
+        "Isaías 41:10",
+        "Mateus 28:20"
+      ],
+      "comentario": "A promessa 'Ani Imach' (Eu estarei com você) é a garantia fundamental para a missão. A profecia sobre a adoração no monte serve como um selo de autenticidade da missão, ligando o futuro ao presente.",
+      "temas": [
+        "Garantia Divina",
+        "Profecia",
+        "Fidelidade"
+      ],
+      "personagens": [
+        "O Senhor",
+        "Moisés"
+      ]
     },
     "12": {
-      "parafrase": "E Ele disse: 'Certamente eu estarei com você; e este será o sinal para você de que eu o enviei: quando você tiver tirado o povo do Egito, vocês servirão a Deus neste monte.'",
-      "references": [],
-      "comentario": "Deus promete estar com Moisés, e o sinal de Sua presença será que eles O servirão no monte Horebe após a libertação. A presença divina é a garantia do sucesso.",
-      "temas": ["presença divina", "sinal", "serviço a Deus", "Horebe", "garantia"],
-      "personagens": ["Deus"]
+      "parafrase": "Moisés, ainda hesitante, contestou: 'Mas, suponhamos que eu vá aos israelitas e diga que o Deus dos meus ancestrais me enviou, e eles perguntem: Qual é o nome Dele? O que devo responder para que acreditem em mim?'",
+      "referencias": [
+        "João 6:30",
+        "1 Reis 19:11"
+      ],
+      "comentario": "Esta é a segunda objeção, focada na autoridade e na identidade nomeada do emissário. Para o mundo antigo, o nome era sinônimo de essência e poder (o 'Nome' revelado é a manifestação do poder).",
+      "temas": [
+        "Autoridade Delegada",
+        "Nome de Deus",
+        "Credibilidade"
+      ],
+      "personagens": [
+        "Moisés",
+        "O Senhor"
+      ]
     },
     "13": {
-      "parafrase": "E Moisés disse a Deus: 'Vejam, quando eu for aos filhos de Israel e lhes disser: O Deus de seus pais me enviou a vocês; e eles me perguntarem: Qual é o seu nome? O que lhes direi?'",
-      "references": [],
-      "comentario": "Moisés questiona a Deus sobre Seu nome, pois a identidade de Deus é crucial para a fé e a autoridade. Ele busca uma resposta para o povo.",
-      "temas": ["Moisés", "nome de Deus", "identidade divina", "fé", "autoridade"],
-      "personagens": ["Moisés"]
+      "parafrase": "Deus respondeu a Moisés com uma declaração de autoexistência que ecoa através dos séculos: 'Eu Sou o Que Sou. Diga-lhes assim: O 'EU SOU' (YHWH) me enviou a vocês. Este é o meu nome eterno, o nome pelo qual serei conhecido de geração em geração.'",
+      "referencias": [
+        "João 8:58",
+        "Apocalipse 1:8"
+      ],
+      "comentario": "A revelação central: 'Ehyeh Asher Ehyeh' (Eu Sou o Que Sou/Serei). O nome revelado, YHWH (o Tetragrama), é a forma causativa do verbo 'ser' (havah), indicando a divindade que é autossuficiente, presente e fiel em todas as épocas.",
+      "temas": [
+        "Autoexistência",
+        "Revelação do Nome",
+        "Eternidade"
+      ],
+      "personagens": [
+        "O Senhor",
+        "Moisés"
+      ]
     },
     "14": {
-      "parafrase": "E Deus disse a Moisés: 'EU SOU O QUE SOU'; e Ele disse: 'Assim você dirá aos filhos de Israel: EU SOU me enviou a vocês.'",
-      "references": [],
-      "comentario": "Deus revela Seu nome, YHWH (Eu Sou o Que Sou), que significa Sua autoexistência, Sua eternidade e Sua fidelidade. Este nome é a garantia de Sua presença e de Seu poder.",
-      "temas": ["nome de Deus", "YHWH", "autoexistência", "eternidade", "fidelidade", "poder divino"],
-      "personagens": ["Deus"]
+      "parafrase": "Deus continuou, instruindo Moisés a reunir os líderes dos israelitas e dizer-lhes: 'O Eterno, o Deus dos seus antepassados — o Deus de Abraão, de Isaque e de Jacó — enviou-me a vocês. Esta é a mensagem oficial, o meu nome imutável.'",
+      "referencias": [
+        "Gênesis 32:30",
+        "Isaías 63:16"
+      ],
+      "comentario": "Aqui, YHWH é explicitamente conectado aos ancestrais, reforçando a continuidade da aliança. A instrução é clara: usar o nome recém-revelado ao se dirigir aos anciãos.",
+      "temas": [
+        "Continuidade da Aliança",
+        "Liderança",
+        "Revelação Formal"
+      ],
+      "personagens": [
+        "O Senhor",
+        "Moisés",
+        "Anciãos de Israel"
+      ]
     },
     "15": {
-      "parafrase": "E Deus disse a Moisés: 'Assim você dirá aos filhos de Israel: O Senhor, o Deus de seus pais, o Deus de Abraão, o Deus de Isaque e o Deus de Jacó, me enviou a vocês; este é o meu nome para sempre, e este é o meu memorial para todas as gerações.'",
-      "references": [],
-      "comentario": "Deus reitera Seu nome como o Deus dos patriarcas, enfatizando Sua aliança e Sua fidelidade através das gerações. Seu nome é eterno e para ser lembrado.",
-      "temas": ["nome de Deus", "Deus dos patriarcas", "aliança", "fidelidade", "eternidade", "memorial"],
-      "personagens": ["Deus", "Abraão", "Isaque", "Jacó"]
+      "parafrase": "Deus então acrescentou uma diretriz para a posteridade: 'Vá e diga a eles também: O Senhor, o Deus dos seus pais, o Deus de Abraão, Isaque e Jacó, enviou-me a vocês. Este é o meu memorial, o meu título de soberano, de agora em diante, para sempre.'",
+      "referencias": [
+        "Salmos 135:13",
+        "Lamentações 3:22"
+      ],
+      "comentario": "YHWH ('Yahweh') é estabelecido como o 'nome de memorial' ('zheker'), o título permanente pelo qual Ele deseja ser lembrado e invocado em todas as gerações futuras.",
+      "temas": [
+        "Memorial",
+        "Soberania",
+        "Tradição"
+      ],
+      "personagens": [
+        "O Senhor",
+        "Moisés"
+      ]
     },
     "16": {
-      "parafrase": "'Vá e ajunte os anciãos de Israel e diga-lhes: O Senhor, o Deus de seus pais, o Deus de Abraão, de Isaque e de Jacó, me apareceu, dizendo: Eu certamente os visitei e vi o que lhes foi feito no Egito.'",
-      "references": [],
-      "comentario": "Moisés deve ajuntar os anciãos de Israel e lhes comunicar a mensagem de Deus, que Ele os visitou e viu sua aflição. A mensagem é de esperança e de intervenção divina.",
-      "temas": ["anciãos", "visitação divina", "aflição", "esperança", "intervenção divina"],
-      "personagens": ["Moisés"]
+      "parafrase": "Moisés, agora com a mensagem autorizada, recebeu uma instrução adicional: 'Vá, reúna os mais velhos de Israel e diga-lhes: O Senhor, o Deus de Abraão, Isaque e Jacó, apareceu para mim e disse: 'Eu tenho observado com atenção o que lhes tem acontecido no Egito.'",
+      "referencias": [
+        "Gênesis 50:24",
+        "Jeremias 32:39"
+      ],
+      "comentario": "Este verso começa a terceira parte da mensagem de Moisés, destinada especificamente aos líderes. O verbo 'paqad' (visitar, lembrar com propósito) indica uma intervenção iminente baseada na observação divina.",
+      "temas": [
+        "Organização",
+        "Observação Atenta",
+        "Liderança Comunitária"
+      ],
+      "personagens": [
+        "Moisés",
+        "O Senhor",
+        "Anciãos de Israel"
+      ]
     },
     "17": {
-      "parafrase": "'E eu disse: Eu os farei subir da aflição do Egito para a terra dos cananeus, e dos hititas, e dos amorreus, e dos perizeus, e dos heveus, e dos jebuseus, para uma terra que mana leite e mel.'",
-      "references": [],
-      "comentario": "Deus reitera Sua promessa de levá-los para a Terra Prometida, uma terra de abundância. A promessa é de libertação e de herança.",
-      "temas": ["Terra Prometida", "abundância", "libertação", "herança", "promessa divina"],
-      "personagens": ["Deus"]
+      "parafrase": "E Ele prometeu solenemente: 'Eu vou tirá-los da opressão desta terra egípcia e levá-los para a terra da fertilidade, que já mencionei, a terra dos cananeus, hititas, amorreus, perizeus, heveus e jebuseus, um lugar onde a fartura jorra.'",
+      "referencias": [
+        "Deuteronômio 6:10",
+        "Josué 1:6"
+      ],
+      "comentario": "Repetição da promessa da terra, agora como parte da mensagem oficial aos anciãos, reforçando o destino final da peregrinação e o cumprimento da aliança patriarcal.",
+      "temas": [
+        "Promessa Cumprida",
+        "Destino Geográfico",
+        "Riqueza Natural"
+      ],
+      "personagens": [
+        "O Senhor"
+      ]
     },
     "18": {
-      "parafrase": "'E eles ouvirão a sua voz; e você virá, você e os anciãos de Israel, ao rei do Egito, e vocês lhe dirão: O Senhor, o Deus dos hebreus, nos encontrou; e agora, por favor, deixe-nos ir por três dias de jornada no deserto, para que possamos sacrificar ao Senhor, nosso Deus.'",
-      "references": [],
-      "comentario": "Os anciãos de Israel ouvirão a voz de Moisés, e eles irão ao Faraó para pedir permissão para ir ao deserto sacrificar a Deus. A estratégia é de negociação e de obediência a Deus.",
-      "temas": ["anciãos", "Faraó", "sacrifício", "deserto", "negociação", "obediência"],
-      "personagens": ["Moisés", "Faraó"]
+      "parafrase": "Os anciãos de Israel, ao ouvirem a mensagem, obedecerão. Então, você e eles juntos deverão ir ao encontro do rei do Egito e dizer-lhe: 'O Deus dos hebreus nos chamou para um propósito sagrado. Por favor, permita-nos viajar três dias para o deserto, a fim de oferecermos sacrifícios ao Senhor, nosso Deus.'",
+      "referencias": [
+        "Êxodo 5:3",
+        "Números 10:33"
+      ],
+      "comentario": "A missão inicial é restrita: 'três dias de caminho no deserto' para um sacrifício. Isto demonstra que a intenção imediata não era a saída definitiva, mas sim uma convocação religiosa, uma 'festa' ao Deus que se revelou.",
+      "temas": [
+        "Negociação",
+        "Proposta Inicial",
+        "Adoração"
+      ],
+      "personagens": [
+        "Anciãos de Israel",
+        "Moisés",
+        "Faraó",
+        "O Senhor"
+      ]
     },
     "19": {
-      "parafrase": "'E eu sei que o rei do Egito não os deixará ir, nem mesmo por uma mão forte.'",
-      "references": [],
-      "comentario": "Deus revela a Moisés que o Faraó não os deixará ir facilmente, mas que será necessária uma mão forte (intervenção divina). A resistência do Faraó é prevista.",
-      "temas": ["Faraó", "resistência", "mão forte", "intervenção divina"],
-      "personagens": ["Deus", "Faraó"]
+      "parafrase": "Mas Eu sei, com total certeza, que o Faraó, com sua arrogância e poder, jamais lhes dará permissão para partir, a menos que seja compelido por uma mão poderosa e visível.",
+      "referencias": [
+        "Êxodo 7:3",
+        "Salmos 106:42"
+      ],
+      "comentario": "Esta é uma profecia antecipada da resistência egípcia. A expressão 'não vos deixará ir' ('lo yishlachchem') e 'senão por mão forte' ('ki im be'yad chazakah') estabelece o cenário para as pragas como atos de força irresistível.",
+      "temas": [
+        "Resistência Humana",
+        "Poder Divino",
+        "Profecia da Adversidade"
+      ],
+      "personagens": [
+        "O Senhor",
+        "Faraó"
+      ]
     },
     "20": {
-      "parafrase": "'E eu estenderei a minha mão e ferirei o Egito com todas as minhas maravilhas que farei no meio dele; e depois disso ele os deixará ir.'",
-      "references": [],
-      "comentario": "Deus promete estender Sua mão e ferir o Egito com maravilhas (pragas), e depois disso o Faraó os deixará ir. As pragas são um meio de juízo e de libertação.",
-      "temas": ["mão de Deus", "pragas", "Egito", "libertação", "juízo divino"],
-      "personagens": ["Deus"]
+      "parafrase": "Portanto, Eu estenderei a Minha mão e ferirei o Egito com todos os prodígios maravilhosos que realizarei contra ele. Depois disso, acredite, o Faraó não terá escolha a não ser deixá-los ir, forçado a libertá-los.",
+      "referencias": [
+        "Êxodo 7:5",
+        "Salmos 135:9"
+      ],
+      "comentario": "A mão de Deus ('yad') é o instrumento do julgamento e da libertação. As pragas são descritas como 'nifla'ot' (maravilhas, prodígios), mostrando que os atos de julgamento são também demonstrações de poder sobrenatural.",
+      "temas": [
+        "Julgamento",
+        "Pragas",
+        "Libertação Compulsória"
+      ],
+      "personagens": [
+        "O Senhor",
+        "Faraó"
+      ]
     },
     "21": {
-      "parafrase": "'E eu darei a este povo favor aos olhos dos egípcios; e acontecerá que, quando vocês forem, vocês não irão vazios;
+      "parafrase": "E farei com que os egípcios se voltem favoráveis ao povo de Israel. Quando vocês estiverem prontos para partir, eles lhes darão tudo o que for necessário — joias de ouro, prata e roupas finas, como presentes, de modo que vocês esvaziarão a riqueza daquela nação.",
+      "referencias": [
+        "Êxodo 12:35-36",
+        "2 Coríntios 8:21"
+      ],
+      "comentario": "O 'enfeitiçamento' dos egípcios ('veheniti et mitzrayim') é o ato de dispor seus corações. Isso garante que a saída não seja apenas uma fuga, mas também um ato de reparação econômica, conforme prenunciado em Êxodo 12.",
+      "temas": [
+        "Reparação",
+        "Riqueza Material",
+        "Mudança de Coração"
+      ],
+      "personagens": [
+        "O Senhor",
+        "Egípcios",
+        "Israelitas"
+      ]
+    },
     "22": {
-      "parafrase": "mas cada mulher pedirá à sua vizinha e àquela que habita em sua casa, vasos de prata, e vasos de ouro, e vestes; e vocês os porão sobre os seus filhos e sobre as suas filhas; e vocês despojarão os egípcios.'",
-      "references": [],
-      "comentario": "Deus promete que Israel encontrará favor aos olhos dos egípcios e os despojará de seus bens. A provisão divina é abundante e a retribuição é justa.",
-      "temas": ["favor divino", "despojo", "provisão divina", "retribuição"],
-      "personagens": ["Deus"]
+      "parafrase": "Assim, cada mulher israelita pedirá à sua vizinha egípcia, ou à mulher que for sua hóspede, objetos de prata e ouro e belas vestes. E por meio destes bens, vocês despojarão o Egito, cumprindo o que foi estabelecido.",
+      "referencias": [
+        "Gênesis 15:14",
+        "1 Pedro 1:18"
+      ],
+      "comentario": "Este verso detalha o método prático do 'despojo'. O uso de 'sh'al' (pedir/solicitar) demonstra um processo socializado de transferência de bens, preparando Israel materialmente para a longa jornada no deserto.",
+      "temas": [
+        "Despojo",
+        "Preparação para a Jornada",
+        "Justiça Social"
+      ],
+      "personagens": [
+        "Mulheres Israelitas",
+        "Mulheres Egípcias"
+      ]
     }
   }
 }

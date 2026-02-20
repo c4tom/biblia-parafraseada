@@ -1,225 +1,509 @@
 {
   "livro": "Romanos",
   "capitulo": 3,
-  "contexto_historico": "Ver contexto anterior em Romanos 2. Depois de argumentar que tanto os gentios (cap. 1) quanto os judeus (cap. 2) estão sob a condenação do pecado, Paulo antecipa uma objeção: qual é, então, a vantagem de ser judeu? Neste capítulo, ele responde a essa pergunta e, em seguida, apresenta sua tese central, usando uma série de citações do Antigo Testamento para provar a pecaminosidade universal da humanidade. Ele conclui o capítulo introduzindo a solução de Deus: a justificação pela fé em Jesus Cristo, à parte das obras da Lei.",
-  "bloco_tematico": "A Pecaminosidade Universal e a Justiça de Deus pela Fé",
+  "contexto_historico": "O capítulo 3 de Romanos se insere no desenvolvimento da argumentação de Paulo, que, após estabelecer no capítulo 1 a condenação universal dos gentios (pelo pecado contra Deus revelado na natureza) e no capítulo 2 a condenação dos judeus (pelo pecado contra a Lei), prepara o clímax da sua doutrina central: a justificação pela fé. Este capítulo atinge o ponto crucial ao demonstrar que 'todos, tanto judeus como gregos, estão debaixo do pecado' (Rm 3:9), universalizando a necessidade da salvação. É aqui que Paulo introduz a citação do Antigo Testamento (Salmos e Isaías) para comprovar a falência humana e, em seguida, apresenta a solução divina através de Cristo. ⏳🏛️📜",
+  "bloco_tematico": "A Universalidade do Pecado e a Justificação pela Fé: A Solução Divina ⚖️✝️🔑",
   "versiculos": {
     "1": {
-      "parafrase": "Qual é, então, a vantagem de ser judeu? Ou qual é o valor da circuncisão?",
-      "referencias": [],
-      "comentario": "Paulo começa com uma pergunta retórica que seus oponentes fariam. Se os judeus são julgados da mesma forma que os gentios, qual o sentido de ser o povo da aliança?",
-      "temas": ["vantagem do judeu", "objeção teológica"],
-      "personagens": []
+      "parafrase": "Diante de tudo isso, qual é a real vantagem que o povo judeu possui? Sejamos honestos: a herança da aliança, o privilégio de serem os guardiões da Lei de Deus, são dons preciosos. Mas será que essa herança por si só garante a salvação eterna e a aceitação incondicional diante do Criador? A questão é profunda, pois ser descendente de Abraão não é automático para todos os seus herdeiros biológicos.",
+      "referencias": [
+        "Gálatas 6:16",
+        "Filipenses 3:5"
+      ],
+      "comentario": "Paulo inicia a argumentação reconhecendo o valor inestimável da 'superioridade' judaica (πλεονέκτημα - *pleonéktema*), que reside na posse da Lei e na relação de pacto de Deus com Israel. No entanto, ele imediatamente questiona se essa vantagem legal ou nacional é suficiente para justificar a pessoa diante de Deus, preparando o terreno para a doutrina da justificação pela fé, não pela descendência ou obras da Lei.",
+      "temas": [
+        "Vantagem Judaica",
+        "Aliança",
+        "Privilégio de Israel"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "2": {
-      "parafrase": "Muita, em todos os sentidos! Principalmente porque aos judeus foram confiadas as palavras de Deus.",
-      "referencias": ["Deuteronômio 4:7-8", "Salmo 147:19-20"],
-      "comentario": "A resposta de Paulo é que a vantagem é enorme. O maior privilégio de Israel foi ser o guardião da revelação de Deus, as Escrituras do Antigo Testamento. Eles foram os depositários da Palavra de Deus para o mundo.",
-      "temas": ["privilégios de Israel", "Palavra de Deus", "revelação"],
-      "personagens": ["Deus"]
+      "parafrase": "A resposta direta é: eles possuíam muitas vantagens, e a principal delas era a confiança sagrada em Deus, pois foram a eles confiadas as próprias Palavras reveladas do Altíssimo. Esta era uma responsabilidade monumental, um tesouro guardado com extremo cuidado.",
+      "referencias": [
+        "Salmos 147:19",
+        "Deuteronômio 4:8"
+      ],
+      "comentario": "O termo chave aqui é 'confiaram-lhes os oráculos de Deus' (τὰ λόγια τοῦ Θεοῦ - *ta logia tou Theou*). Isso se refere especificamente às revelações divinas entregues a Israel, culminando na Lei mosaica. A vantagem não era apenas ter a Lei, mas ser o depositário da verdade revelada de Deus.",
+      "temas": [
+        "Revelação Divina",
+        "Responsabilidade",
+        "Depósito da Lei"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "3": {
-      "parafrase": "Pois, que importa se alguns deles foram infiéis? A infidelidade deles anulará a fidelidade de Deus?",
-      "referencias": ["Números 23:19"],
-      "comentario": "Outra objeção: a infidelidade de Israel não invalida o plano de Deus? Paulo responde que a infidelidade humana não pode anular ou cancelar a fidelidade de Deus às Suas próprias promessas.",
-      "temas": ["fidelidade de Deus", "infidelidade humana", "soberania de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Mas, e se alguns entre o povo escolhido falharam em manter sua fidelidade? Se alguns não creram, isso anularia a fidelidade eterna de Deus para com eles? É impossível que a descrença humana desfaça a promessa imutável do Criador! ✋",
+      "referencias": [
+        "Números 23:19",
+        "Hebreus 6:17"
+      ],
+      "comentario": "Paulo levanta uma objeção retórica crucial: a infidelidade de Israel (*apistia* - falta de fé ou incredulidade) pode anular a fidelidade (*pistis* - fé, constância) de Deus? A resposta implícita é um enfático 'não'. A fidelidade de Deus é independente da falibilidade humana. Ele é fiel ao Seu caráter e às Suas promessas.",
+      "temas": [
+        "Fidelidade de Deus",
+        "Incredulidade",
+        "Invariabilidade Divina"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "4": {
-      "parafrase": "De maneira nenhuma! Seja Deus verdadeiro, e todo homem mentiroso. Como está escrito: \"Para que sejas justificado em tuas palavras e venças quando fores julgado.\"",
-      "referencias": ["Salmo 51:4"],
-      "comentario": "Paulo rejeita veementemente a ideia. A verdade de Deus permanece intacta, mesmo que todos os seres humanos se provem falsos. Ele cita o Salmo 51, onde Davi confessa seu pecado, para mostrar que a confissão do pecado humano serve para vindicar a justiça e a retidão de Deus.",
-      "temas": ["verdade de Deus", "pecaminosidade humana", "justificação de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "De modo algum! Mesmo que os homens provem ser mentirosos e infiéis, Deus permanecerá inabalável em Sua verdade. As Escrituras testemunham isso, afirmando que Ele será julgado justo em Suas palavras e, ao julgar, mostrará que ninguém pode provar que Ele está errado ou que falhou em cumprir o que disse.",
+      "referencias": [
+        "Salmos 51:4",
+        "Apocalipse 15:3"
+      ],
+      "comentario": "Este versículo é uma afirmação poderosa da soberania e da verdade de Deus. Deus deve ser considerado verdadeiro (*alethēs*) mesmo quando todos os homens são mentirosos (*pseustēs*). Isso estabelece o caráter de Deus como o padrão absoluto da verdade, fundamental para a teologia paulina.",
+      "temas": [
+        "Verdade Absoluta",
+        "Soberania Divina",
+        "Julgamento Justo"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "5": {
-      "parafrase": "Mas, se a nossa injustiça ressalta a justiça de Deus, que diremos? Acaso Deus é injusto por trazer sobre nós a sua ira? (Falo como homem.)",
-      "referencias": [],
-      "comentario": "Paulo levanta outra objeção cínica: se o nosso pecado acaba destacando a justiça de Deus, como Deus pode nos punir? Ele se apressa em dizer que está argumentando de uma perspectiva puramente humana e falha.",
-      "temas": ["objeção cínica", "justiça de Deus", "ira de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Agora, se nossa injustiça humana serve para realçar a justiça de Deus, o que diremos então? Isso significa que Deus se torna injusto ao aplicar o Seu castigo? De jeito nenhum! Seria absurdo pensar que o Juiz de toda a terra faria algo que não fosse perfeitamente reto. ⚖️",
+      "referencias": [
+        "Jó 34:17",
+        "Gênesis 18:25"
+      ],
+      "comentario": "Paulo antecipa outra objeção: se a falha humana serve para manifestar a glória e a justiça de Deus (o que será provado no capítulo 5), isso implicaria que Deus usa o mal para o bem, tornando-o injusto? O termo 'injustiça' (ἀδικία - *adikia*) é usado aqui em um sentido forense. A resposta categórica é 'De maneira nenhuma' (*mē genoito*).",
+      "temas": [
+        "Justiça de Deus",
+        "Injustiça Humana",
+        "Objeção Retórica"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "6": {
-      "parafrase": "De maneira nenhuma! Se fosse assim, como Deus poderia julgar o mundo?",
-      "referencias": ["Gênesis 18:25"],
-      "comentario": "Ele rejeita a objeção novamente. Se Deus não pudesse punir o pecado, Ele não poderia ser o juiz moral do universo. O próprio conceito de julgamento mundial depende da justiça de Deus em punir o mal.",
-      "temas": ["juízo mundial", "justiça de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Se Deus fosse injusto ao aplicar Sua ira e juízo, como Ele poderia, então, julgar o mundo inteiro com retidão? Isso é logicamente impossível, pois Ele é o Juiz supremo e perfeito.",
+      "referencias": [
+        "Gênesis 18:25",
+        "Jó 8:3"
+      ],
+      "comentario": "A lógica aqui é que a capacidade de Deus de julgar o mundo depende intrinsecamente de Sua própria justiça. Se a Sua maneira de lidar com a humanidade (mesmo o Israel infiel) fosse injusta, Sua autoridade como Juiz universal seria comprometida. A justiça divina é a base de Seu julgamento cósmico.",
+      "temas": [
+        "Autoridade Judicial",
+        "Lógica Teológica",
+        "Julgamento Universal"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "7": {
-      "parafrase": "Pois, se pela minha mentira a verdade de Deus se destacou para a sua glória, por que ainda sou julgado como pecador?",
-      "referencias": [],
-      "comentario": "Ele reformula a objeção cínica do versículo 5.",
-      "temas": ["objeção cínica", "glória de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Pelo contrário, pode-se argumentar: se minha falsidade torna a verdade de Deus mais brilhante e gloriosa, por que Ele ainda me condena como pecador? A minha falha, então, O glorifica! Não seria mais justo que Ele simplesmente me deixasse como estou, se meu estado evidencia Sua glória?",
+      "referencias": [
+        "2 Pedro 3:9",
+        "1 Coríntios 1:29"
+      ],
+      "comentario": "Esta é a continuação da objeção cínica iniciada no v. 5, focando na glória de Deus (*dóxa*). Se a desonestidade humana (*eudokimē* - boa aparência, parecer bom) serve para exaltar a fidelidade de Deus, por que Ele se incomodaria em condenar o pecador? Paulo está expondo a presunção humana de tentar 'negociar' com a justiça divina.",
+      "temas": [
+        "Glória de Deus",
+        "Pecado como Contraste",
+        "Presunção Humana"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "8": {
-      "parafrase": "E por que não dizer, como alguns caluniosamente afirmam que dizemos: \"Façamos o mal para que venha o bem\"? A condenação deles é justa.",
-      "referencias": ["Romanos 6:1"],
-      "comentario": "Paulo leva o argumento cínico à sua conclusão lógica e absurda: se o pecado aumenta a glória de Deus, então deveríamos pecar mais. Ele menciona que alguns já o acusavam falsamente de ensinar isso. Ele não se digna a refutar tal absurdo, apenas afirma que aqueles que pensam assim merecem a condenação.",
-      "temas": ["antinomianismo", "falsa acusação", "justa condenação"],
-      "personagens": []
+      "parafrase": "Poderíamos concluir, então, que devemos fazer o mal para que o bem (*glória*) de Deus venha à tona? Que tolice! Na verdade, aqueles que espalham tal ensino e afirmam que é permissível pecar para que Deus pareça mais justo estão condenados, e sua condenação é justa e merecida. 😈",
+      "referencias": [
+        "Judas 1:4",
+        "Gálatas 5:13"
+      ],
+      "comentario": "Este é um forte rechaço à doutrina antinomiana (contra a Lei) que, por vezes, era mal-interpretada nas comunidades gentias e judaicas. Paulo usa o termo *kakōs* (mal, perversamente) para descrever a ideia de pecar deliberadamente. A condenação daqueles que ensinam tal heresia é certa (*ên dikaia* - justa condenação).",
+      "temas": [
+        "Antinomianismo",
+        "Condenação do Mal",
+        "Ética Cristã"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "9": {
-      "parafrase": "Que se conclui, então? Somos nós, judeus, melhores do que eles? De maneira nenhuma! Pois já demonstramos que tanto judeus como gregos estão todos debaixo do pecado.",
-      "referencias": [],
-      "comentario": "Paulo retorna à sua linha principal de argumentação. Ele conclui que os judeus não têm nenhuma superioridade moral sobre os gentios. Sua tese é que toda a humanidade, sem exceção, está sob o poder e a condenação do pecado.",
-      "temas": ["pecaminosidade universal", "igualdade no pecado"],
-      "personagens": []
+      "parafrase": "Então, qual é a situação real? Estamos nós, judeus, em posição melhor do que os gentios? De forma alguma! Já demonstrei claramente que tanto judeus quanto gentios estão igualmente presos sob o poder esmagador do pecado. Todos estão sob o mesmo jugo. ⛓️",
+      "referencias": [
+        "Gálatas 3:22",
+        "Romanos 1:16"
+      ],
+      "comentario": "Paulo passa à conclusão prática da primeira parte de sua argumentação: a igualdade perante o pecado. O termo 'em nada estamos acima' (οὐδὲν προέχομεν - *ouden proechomen*) refuta qualquer ideia de superioridade espiritual baseada na etnia ou na posse da Lei. A universalidade do pecado é o próximo ponto central.",
+      "temas": [
+        "Universalidade do Pecado",
+        "Igualdade de Judeus e Gentios",
+        "Conclusão Prática"
+      ],
+      "personagens": [
+        "Judeus",
+        "Gentios"
+      ]
     },
     "10": {
-      "parafrase": "Como está escrito: \"Não há um justo, nem um sequer.\"",
-      "referencias": ["Salmo 14:1-3", "Salmo 53:1-3", "Eclesiastes 7:20"],
-      "comentario": "Para provar sua tese da pecaminosidade universal, Paulo agora desfia uma corrente de citações do Antigo Testamento. Ele começa com a declaração abrangente de que ninguém, por natureza, é justo diante de Deus.",
-      "temas": ["depravação total", "falta de justiça"],
-      "personagens": []
+      "parafrase": "As Escrituras, que são a voz de Deus, confirmam isso de maneira inequívoca: 'Não há um só justo sequer; ninguém que faça o bem e entenda o caminho da retidão.' O padrão de Deus está inatingível para todos nós.",
+      "referencias": [
+        "Salmos 14:1-3",
+        "Eclesiastes 7:20"
+      ],
+      "comentario": "Aqui começa a série de citações do Antigo Testamento (principalmente do Salmo 14 e Isaías), que Paulo usa como uma 'muralha de fogo' probatória. O termo 'justo' (δίκαιος - *dikaios*) é a pedra angular, referindo-se àquele que cumpre o padrão legal e moral de Deus.",
+      "temas": [
+        "Padrão Divino",
+        "Incapacidade Humana",
+        "Citação do AT"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "11": {
-      "parafrase": "\"Não há ninguém que entenda; não há ninguém que busque a Deus.\"",
-      "referencias": ["Salmo 14:2"],
-      "comentario": "O pecado afetou o intelecto humano (ninguém entende a verdade espiritual) e a vontade humana (ninguém busca a Deus por iniciativa própria).",
-      "temas": ["cegueira espiritual", "vontade cativa"],
-      "personagens": ["Deus"]
+      "parafrase": "Ninguém, absolutamente ninguém, possui a capacidade inata de buscar a Deus com o coração puro. Não há quem compreenda a Sua vontade de forma que O agrada, nem quem procure sinceramente o Seu rosto.",
+      "referencias": [
+        "Isaías 53:6",
+        "Jeremias 29:13"
+      ],
+      "comentario": "A incapacidade é abrangente: não há quem entenda (*syniōn*), nem quem busque a Deus. A busca não é apenas um ato físico, mas um desejo espiritual profundo e genuíno, que está ausente na humanidade caída.",
+      "temas": [
+        "Busca a Deus",
+        "Incompreensão Espiritual",
+        "Estado Natural do Homem"
+      ],
+      "personagens": [
+        "Homem"
+      ]
     },
     "12": {
-      "parafrase": "\"Todos se desviaram, juntamente se tornaram inúteis. Não há quem faça o bem, não há nem um sequer.\"",
-      "referencias": ["Salmo 14:3"],
-      "comentario": "A condição é universal. Todos se afastaram do caminho de Deus e se tornaram moralmente inúteis.",
-      "temas": ["desvio universal", "incapacidade moral"],
-      "personagens": []
+      "parafrase": "Todos, sem exceção, desviaram-se do caminho correto. Tornaram-se inúteis para os propósitos divinos, como um metal sem valor ou um instrumento quebrado. Em essência, eles são como um só grupo que se corrompeu, e não há ninguém que consiga praticar o bem de forma consistente.",
+      "referencias": [
+        "Salmos 53:3",
+        "Isaías 59:7"
+      ],
+      "comentario": "A descrição é de total decadência. Eles se tornaram inúteis (*ácheistos* - inaproveitáveis, que não servem para nada). O desvio (φθέγγομαι - *exepathun*) implica que perderam a trilha e se tornaram impróprios para o propósito pelo qual foram criados.",
+      "temas": [
+        "Corrupção Total",
+        "Perda de Propósito",
+        "Desvio Moral"
+      ],
+      "personagens": [
+        "Humanidade"
+      ]
     },
     "13": {
-      "parafrase": "\"A sua garganta é um sepulcro aberto; com a sua língua, enganam.\" \"Veneno de áspides está debaixo de seus lábios.\"",
-      "referencias": ["Salmo 5:9", "Salmo 140:3"],
-      "comentario": "Paulo agora descreve como a depravação se manifesta em partes específicas do corpo, começando com a fala. A garganta, a língua e os lábios produzem palavras mortais, enganosas e venenosas.",
-      "temas": ["pecado na fala", "engano", "palavras venenosas"],
-      "personagens": []
+      "parafrase": "A sua garganta, o órgão da expressão, é um poço de perigo aberto. Eles falam com a boca cheia de mentiras venenosas e enganos sutis. O veneno da cobra está nos seus lábios, pronto para destruir quem se aproxima. 🐍",
+      "referencias": [
+        "Salmos 5:9",
+        "Tiago 3:8"
+      ],
+      "comentario": "Paulo move o foco do ser interior para a manifestação externa: a fala. A garganta (laringe) é descrita como um 'sepulcro aberto' (τάφος ἀνεῳγμένος - *taphos anoegmenos*), sugerindo que tudo que sai é como a podridão de um túmulo. A língua usa engano (*dolos*).",
+      "temas": [
+        "Pecado na Fala",
+        "Engano e Mentira",
+        "Imagens de Podridão"
+      ],
+      "personagens": [
+        "Pecadores"
+      ]
     },
     "14": {
-      "parafrase": "\"A sua boca está cheia de maldição e amargura.\"",
-      "referencias": ["Salmo 10:7"],
-      "comentario": "A fala humana natural está cheia de hostilidade contra Deus e os outros.",
-      "temas": ["maldição", "amargura"],
-      "personagens": []
+      "parafrase": "A sua boca está cheia de maldições amargas e de ódio destrutivo. Eles estão prontos para ferir e destruir quem quer que ouça a sua voz.",
+      "referencias": [
+        "Salmos 10:7",
+        "Provérbios 12:18"
+      ],
+      "comentario": "A maldição (*katáres* - praga, injúria) e a amargura (*pikrias*) indicam que a comunicação deles não é apenas falsa, mas ativamente destrutiva e hostil contra os outros, refletindo um coração envenenado.",
+      "temas": [
+        "Amargura",
+        "Maldição",
+        "Hostilidade Verbal"
+      ],
+      "personagens": [
+        "Pecadores"
+      ]
     },
     "15": {
-      "parafrase": "\"Os seus pés são velozes para derramar sangue.\"",
-      "referencias": ["Isaías 59:7", "Provérbios 1:16"],
-      "comentario": "O pecado se manifesta nas ações (pés), mostrando uma prontidão para a violência.",
-      "temas": ["violência", "derramamento de sangue"],
-      "personagens": []
+      "parafrase": "Eles são rápidos e ágeis em correr para derramar sangue. Seus pés são velozes para causar destruição, violência e morte.",
+      "referencias": [
+        "Isaías 59:7",
+        "Provérbios 1:16"
+      ],
+      "comentario": "O foco muda da fala para a ação física: os pés. A rapidez (*tachýnēs*) com que se movem para derramar sangue (*ekchýsai aima*) ilustra a disposição imediata para atos de violência e maldade extrema, ecoando a natureza destrutiva da humanidade.",
+      "temas": [
+        "Violência",
+        "Ação Destrutiva",
+        "Rapidez para o Mal"
+      ],
+      "personagens": [
+        "Pecadores"
+      ]
     },
     "16": {
-      "parafrase": "\"Nos seus caminhos há destruição e miséria;\"",
-      "referencias": ["Isaías 59:7"],
-      "comentario": "O resultado do caminho pecaminoso é a ruína e a infelicidade.",
-      "temas": ["destruição", "miséria"],
-      "personagens": []
+      "parafrase": "Onde quer que cheguem, deixam um rastro de desolação e sofrimento. A paz, a tranquilidade e a harmonia são completamente estranhas ao seu caminho. Não há um vislumbre de sossego onde eles pisam.",
+      "referencias": [
+        "Isaías 59:8",
+        "Lucas 10:6"
+      ],
+      "comentario": "O resultado prático de suas ações é a destruição da paz (*eirēnē*). A ausência do caminho da paz indica que a própria rota que trilham é marcada pelo conflito e pela ausência da ordem divina.",
+      "temas": [
+        "Ausência de Paz",
+        "Desolação",
+        "Conflito"
+      ],
+      "personagens": [
+        "Pecadores"
+      ]
     },
     "17": {
-      "parafrase": "\"e não conheceram o caminho da paz.\"",
-      "referencias": ["Isaías 59:8"],
-      "comentario": "A humanidade pecadora é incapaz de encontrar o caminho da paz, seja com Deus ou com os outros.",
-      "temas": ["falta de paz"],
-      "personagens": []
+      "parafrase": "Portanto, o resultado de suas vidas é este: eles não conhecem o caminho da tranquilidade. A senda que leva à harmonia com Deus e com o próximo lhes é totalmente desconhecida.",
+      "referencias": [
+        "João 14:6",
+        "Isaías 35:8"
+      ],
+      "comentario": "Este versículo resume as consequências práticas dos versículos anteriores. A falta de conhecimento (*gnōsis*) do caminho da paz não é ignorância acidental, mas uma condição da separação de Deus, que é a fonte da paz.",
+      "temas": [
+        "Conhecimento de Deus",
+        "Caminho da Paz",
+        "Separação"
+      ],
+      "personagens": [
+        "Humanidade"
+      ]
     },
     "18": {
-      "parafrase": "\"Não há temor de Deus diante de seus olhos.\"",
-      "referencias": ["Salmo 36:1"],
-      "comentario": "Paulo conclui a cadeia de citações com a raiz de todo o problema: a falta de temor a Deus. A ausência de uma reverência e respeito saudáveis por Deus é a fonte de toda a anarquia moral.",
-      "temas": ["falta de temor a Deus", "raiz do pecado"],
-      "personagens": ["Deus"]
+      "parafrase": "Eles não têm temor algum a Deus em seus corações. Não há reverência saudável, nem o senso de autoridade divina que os impeça de cometer todas as atrocidades já citadas. O medo do Criador se foi. 😨",
+      "referencias": [
+        "Salmos 36:1",
+        "Provérbios 1:7"
+      ],
+      "comentario": "A raiz de toda a depravação descrita é a ausência do temor de Deus (*phóbos Theou*). Este temor não é paralisante, mas sim o respeito reverente pela santidade e pelo poder de Deus, que serve como limite moral. Sua ausência resulta na liberdade para pecar sem restrições.",
+      "temas": [
+        "Temor de Deus",
+        "Raiz do Pecado",
+        "Reverência"
+      ],
+      "personagens": [
+        "Pecadores"
+      ]
     },
     "19": {
-      "parafrase": "Ora, sabemos que tudo o que a Lei diz, diz aos que estão debaixo da Lei, para que toda boca se cale e todo o mundo seja considerado culpado diante de Deus.",
-      "referencias": [],
-      "comentario": "Paulo aplica suas citações. Ele argumenta que a Lei foi dada primariamente aos judeus, e se ela condena os judeus (o povo mais privilegiado), então, por extensão, ela silencia o mundo inteiro. O propósito da Lei, neste contexto, não é salvar, mas calar toda autojustificação e provar a culpa universal.",
-      "temas": ["propósito da Lei", "culpa universal", "silêncio diante de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Agora, tudo isso que descrevi — a boca cheia de engano, os pés rápidos para o mal, a falta de paz e o temor a Deus — é aplicado especificamente à Lei, para que todos os argumentos daquele que se julga cumpridor da Lei sejam silenciados. A Lei serve para mostrar a culpa de todos, sem distinção.",
+      "referencias": [
+        "1 Coríntios 14:34",
+        "Gálatas 2:16"
+      ],
+      "comentario": "Paulo volta ao tema inicial (a vantagem judaica, v. 1). A Lei não veio para justificar, mas sim para silenciar (*phimōthē*) qualquer reivindicação de superioridade moral, especialmente por parte dos judeus que se apoiavam nela. A Lei expõe o pecado universal.",
+      "temas": [
+        "Função da Lei",
+        "Silenciamento da Justificação Própria",
+        "Culpa Universal"
+      ],
+      "personagens": [
+        "Lei"
+      ]
     },
     "20": {
-      "parafrase": "Porque pelas obras da Lei nenhuma carne será justificada diante dele; pois, por meio da Lei, vem o pleno conhecimento do pecado.",
-      "referencias": ["Salmo 143:2", "Gálatas 2:16"],
-      "comentario": "Esta é a conclusão devastadora do argumento de Paulo até agora. Ninguém pode ser declarado justo diante de Deus por tentar guardar a Lei. A função da Lei não é justificar, mas diagnosticar. Ela age como um raio-X, revelando a fratura (o pecado), mas não pode curá-la.",
-      "temas": ["justificação pelas obras é impossível", "função da Lei", "conhecimento do pecado"],
-      "personagens": []
+      "parafrase": "Pois é inegável: nenhuma pessoa viva jamais será declarada justa diante de Deus por cumprir os mandamentos da Lei. Os atos de obediência à Lei apenas servem para mostrar, de forma clara e incontestável, a profundidade e a extensão real do nosso fracasso em cumprir o padrão exigido. É o reconhecimento do pecado, e não a perfeição, que a Lei revela. 📜",
+      "referencias": [
+        "Gálatas 2:16",
+        "Tiago 2:10"
+      ],
+      "comentario": "Esta é uma das declarações mais contundentes sobre a insuficiência da Lei para a salvação. A palavra 'conhecimento' (*epígnōsis*) refere-se ao conhecimento pleno e claro do pecado. A Lei age como um espelho perfeito, mas não fornece o meio para limpar a mancha.",
+      "temas": [
+        "Insuficiência da Lei",
+        "Conhecimento do Pecado",
+        "Justificação por Obras"
+      ],
+      "personagens": [
+        "Homem"
+      ]
     },
     "21": {
-      "parafrase": "Mas agora, sem a Lei, a justiça de Deus se manifestou, sendo testemunhada pela Lei e pelos Profetas.",
-      "referencias": [],
-      "comentario": "Este é o grande ponto de virada da carta. Após provar a necessidade, Paulo agora revela a solução. Uma justiça vinda de Deus foi revelada, e ela opera independentemente da obediência à Lei. No entanto, não é uma novidade, pois o próprio Antigo Testamento (a Lei e os Profetas) já apontava para ela.",
-      "temas": ["justiça de Deus revelada", "solução divina", "testemunho do Antigo Testamento"],
-      "personagens": ["Deus"]
+      "parafrase": "Mas agora, existe um caminho totalmente novo, uma esperança radiante que não depende da observância da Lei! A justiça de Deus, que sempre esteve latente e era o ideal divino, manifestou-se de outra maneira, confirmada e testemunhada tanto pela Lei antiga quanto pelos Profetas.",
+      "referencias": [
+        "Filipenses 3:9",
+        "Hebreus 9:15"
+      ],
+      "comentario": "Paulo introduz a grande virada do livro: a justiça de Deus (*dikaiosýnē Theou*) revelada *fora* da Lei. Esta justiça não é uma invenção humana, mas um dom divino que estava profetizado no Antigo Testamento ('Lei e Profetas').",
+      "temas": [
+        "Nova Revelação",
+        "Justiça de Deus Revelada",
+        "Confirmação Profética"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "22": {
-      "parafrase": "Justiça de Deus que vem pela fé em Jesus Cristo para todos os que creem. Pois não há distinção,",
-      "referencias": [],
-      "comentario": "Paulo explica como essa justiça é obtida: não por obras, mas pela fé em Jesus Cristo. E está disponível a todos, sem distinção de raça ou status, com a única condição sendo a fé.",
-      "temas": ["justiça pela fé", "fé em Cristo", "universalidade da salvação"],
-      "personagens": ["Deus", "Jesus Cristo"]
+      "parafrase": "Esta justiça gloriosa é acessível a todos pela pura e simples confiança em Jesus Cristo. Não há distinção aqui: quem crê, seja judeu de nascimento ou gentio de qualquer nação, recebe essa dádiva.",
+      "referencias": [
+        "Gálatas 3:28",
+        "Romanos 10:12"
+      ],
+      "comentario": "O mecanismo para receber essa justiça é a fé (*pístis*), aplicada em Jesus Cristo (*eis Christon Iēsoûn*). É uma justiça 'de Deus', mas recebida através da fé 'em Jesus Cristo'. A universalidade da oferta é enfatizada.",
+      "temas": [
+        "Fé em Cristo",
+        "Acesso Universal",
+        "Justiça Imputada"
+      ],
+      "personagens": [
+        "Jesus Cristo"
+      ]
     },
     "23": {
-      "parafrase": "pois todos pecaram и carecem da glória de Deus,",
-      "referencias": [],
-      "comentario": "A razão pela qual não há distinção na salvação é porque não há distinção no problema. Todos, sem exceção, pecaram e falharam em alcançar o padrão perfeito da glória de Deus.",
-      "temas": ["pecado universal", "carência da glória de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Afinal, a situação é clara para todos: todas as pessoas falharam em atingir o padrão de glória que Deus estabeleceu. Todos pecaram, todos caíram aquém, e todos estão, portanto, destituídos da Sua plena e radiante presença. 💔",
+      "referencias": [
+        "Romanos 6:23",
+        "1 Reis 8:46"
+      ],
+      "comentario": "Este é talvez o versículo mais famoso do argumento de Paulo sobre a universalidade do pecado. 'Todos pecaram' (*pantes ēmarton*). O termo *hymartano* (errar o alvo) descreve a condição humana de falhar em atingir a glória (*dóxa*) de Deus, o padrão de Sua perfeição e presença.",
+      "temas": [
+        "Foco no Pecado",
+        "Perda da Glória Divina",
+        "Universalidade da Culpa"
+      ],
+      "personagens": [
+        "Humanidade"
+      ]
     },
     "24": {
-      "parafrase": "sendo justificados gratuitamente por sua graça, por meio da redenção que há em Cristo Jesus.",
-      "referencias": ["Efésios 2:8"],
-      "comentario": "A justificação é um dom gratuito, motivado pela graça (favor imerecido) de Deus. O meio pelo qual essa justificação foi alcançada é a redenção (libertação mediante o pagamento de um preço) que foi realizada por Cristo Jesus.",
-      "temas": ["justificação gratuita", "graça de Deus", "redenção em Cristo"],
-      "personagens": ["Deus", "Cristo Jesus"]
+      "parafrase": "Entretanto, apesar dessa falha coletiva, somos declarados justos. Somos libertados da punição, não por nossos méritos ou por um ritual, mas como um presente imerecido de Deus. Ele nos liberta pela graça, como um ato soberano de bondade. ✨",
+      "referencias": [
+        "Efésios 2:8-9",
+        "Tito 3:5"
+      ],
+      "comentario": "Aqui surge a 'justificação' (*dikaioúmenoi*), o ato forense de Deus declarar o pecador justo. Isso acontece 'gratuitamente' (*dōrean*), ou seja, sem custo para o receptor. A graça (*kháris*) é o fundamento de todo o processo.",
+      "temas": [
+        "Justificação pela Graça",
+        "Dom Imerecido",
+        "Liberdade da Punição"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "25": {
-      "parafrase": "Deus o apresentou como propiciação, pelo seu sangue, a ser recebida pela fé. Fez isso para demonstrar a sua justiça, por ter ele, em sua tolerância, deixado impunes os pecados anteriormente cometidos.",
-      "referencias": ["Levítico 16:15", "1 João 2:2"],
-      "comentario": "Deus apresentou Jesus como uma 'propiciação' (hilasterion), um sacrifício que desvia a ira de Deus. O sangue de Cristo satisfaz as exigências da justiça divina. Deus precisava fazer isso para demonstrar Sua própria justiça, pois no Antigo Testamento Ele pareceu tolerar o pecado. O sacrifício de Cristo mostra que os pecados passados não foram ignorados, mas pagos retroativamente.",
-      "temas": ["propiciação", "sacrifício de Cristo", "justiça de Deus", "expiação"],
-      "personagens": ["Deus", "Jesus"]
+      "parafrase": "Deus Lhe ofereceu como sacrifício de expiação, o meio pelo qual a Sua justiça poderia ser satisfeita, e isso foi tornado efetivo por meio da fé no Seu sangue derramado. Esta é a demonstração pública da Sua retidão, pois Ele foi paciente e tolerou os pecados cometidos anteriormente, antes que Cristo viesse, sem que as pessoas fossem imediatamente punidas.",
+      "referencias": [
+        "Levítico 16:15",
+        "1 João 2:2"
+      ],
+      "comentario": "Este versículo complexo define o papel de Cristo. Ele é a 'propiciação' (*hilastērion*), o lugar onde a ira de Deus é aplacada e Sua justiça é satisfeita. A fé (*pístis*) é o meio pelo qual nos apropriamos desse sacrifício. A paciência de Deus (*anokhē*) com os pecados passados é notável, pois agora, com Cristo, Seu padrão de justiça é plenamente estabelecido.",
+      "temas": [
+        "Propiciação (Expiatório)",
+        "Sangue de Cristo",
+        "Paciência de Deus"
+      ],
+      "personagens": [
+        "Jesus Cristo",
+        "Deus"
+      ]
     },
     "26": {
-      "parafrase": "mas para demonstrar a sua justiça no tempo presente, a fim de ser ele mesmo justo e o justificador daquele que tem fé em Jesus.",
-      "referencias": [],
-      "comentario": "Este é o coração do evangelho. No sacrifício de Cristo, Deus resolve o dilema divino: como Ele pode ser um Deus justo (que deve punir o pecado) e, ao mesmo tempo, justificar (declarar justos) pecadores? A resposta é que Ele puniu o pecado em Seu próprio Filho, satisfazendo assim Sua justiça e permitindo-lhe justificar pecadores pela graça, através da fé.",
-      "temas": ["justiça de Deus", "justificação", "dilema divino resolvido"],
-      "personagens": ["Deus", "Jesus"]
+      "parafrase": "Deus revelou Sua justiça suprema, a qual se manifesta agora de forma palpável neste momento histórico. Ele demonstrou que estava plenamente justificado em ignorar os pecados do passado — aqueles cometidos pelas gerações anteriores que viveram sob a Antiga Aliança — pois Ele estava pacientemente aguardando o momento exato. Este momento é quando Ele trouxe Seu Filho, Jesus, à existência e o ofereceu como sacrifício.",
+      "referencias": [
+        "Atos 17:30",
+        "Hebreus 9:15"
+      ],
+      "comentario": "Paulo conecta a manifestação da justiça de Deus (Dikaiosyne) com o ato redentor de Cristo. O termo grego para 'manifestação' é 'endeixis' (mostra, evidência). Deus provou, de forma inquestionável, que Sua maneira de lidar com o pecado era justa. Os pecados passados não foram apagados, mas sim 'passados por alto' (paresis) — tolerados temporariamente — porque o preço final ainda não havia sido pago. A cruz é a solução eterna para o problema do tempo.",
+      "temas": [
+        "Justiça de Deus",
+        "Manifestação de Cristo",
+        "Tolerância Divina"
+      ],
+      "personagens": [
+        "Deus",
+        "Jesus Cristo"
+      ]
     },
     "27": {
-      "parafrase": "Onde está, então, o orgulho? Foi excluído. Por que lei? Pela lei das obras? Não, mas pela lei da fé.",
-      "referencias": [],
-      "comentario": "Uma consequência da justificação pela fé é que todo orgulho humano é eliminado. Ninguém pode se gabar de sua salvação, pois ela não foi conquistada por obras, mas recebida como um dom pela fé.",
-      "temas": ["exclusão do orgulho", "lei da fé"],
-      "personagens": []
+      "parafrase": "Sendo assim, onde está o espaço para a vaidade humana ou para o orgulho? Que motivo haveria para se gabar? A resposta é clara: todo o sistema de salvação foi removido da capacidade de se vangloriar. Não há mais espaço para se orgulhar de rituais, da descendência ou de obras humanas, pois o método escolhido por Deus exclui qualquer possibilidade de auto-glorificação humana. É o fim da arrogância religiosa!",
+      "referencias": [
+        "Efésios 2:8-9",
+        "Gálatas 6:14"
+      ],
+      "comentario": "A questão retórica visa eliminar o orgulho (kauchesis). Se a justificação fosse pelas obras da Lei, o homem teria motivo para se gloriar. A palavra 'onde' (pou) enfatiza a inexistência de tal lugar ou razão. O sistema sacrificial/legalista que culmina na Lei de Moisés é agora completamente substituído pela fé na obra consumada de Cristo, o que garante a humildade.",
+      "temas": [
+        "Humildade",
+        "Orgulho Humano",
+        "Abolição da Glória Humana"
+      ],
+      "personagens": [
+        "Homem"
+      ]
     },
     "28": {
-      "parafrase": "Pois sustentamos que o homem é justificado pela fé, independentemente das obras da Lei.",
-      "referencias": ["Gálatas 2:16"],
-      "comentario": "Paulo resume sua tese. A justificação é somente pela fé, à parte de qualquer tentativa de guardar a Lei.",
-      "temas": ["justificação pela fé", "sola fide"],
-      "personagens": []
+      "parafrase": "Portanto, chegamos à conclusão inegável: a pessoa é declarada justa diante de Deus unicamente pela fé no que Cristo fez, e não por obedecer meticulosamente a qualquer regra ou exigência legalista. A fé sozinha é o caminho validado para a salvação e para um relacionamento reto com o Criador. 🕊️",
+      "referencias": [
+        "Gálatas 2:16",
+        "Tiago 2:24"
+      ],
+      "comentario": "Este é o resumo da doutrina central da Epístola: 'concluímos' (logizometha). A justificação (ser declarado justo) é 'sem as obras da lei' (choris ergon nomou). A fé (pistis) é apresentada como o meio exclusivo, um conceito que será intensamente debatido nos próximos capítulos, especialmente em contraste com Tiago. A fé não é a obra, mas o instrumento pelo qual a graça de Deus é recebida.",
+      "temas": [
+        "Justificação pela Fé",
+        "Fé vs. Obras",
+        "Graça"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "29": {
-      "parafrase": "Acaso Deus é Deus apenas dos judeus? Não é também dos gentios? Sim, também dos gentios,",
-      "referencias": [],
-      "comentario": "Outra consequência da justificação pela fé é a universalidade de Deus. Se a salvação fosse pelas obras da Lei (que só os judeus tinham), então Deus seria apenas o Deus dos judeus. Mas como é pela fé (que está disponível a todos), Ele é o Deus de toda a humanidade.",
-      "temas": ["universalidade de Deus", "Deus de todos"],
-      "personagens": ["Deus"]
+      "parafrase": "Será que Deus é apenas o Deus do povo judeu, o Deus de uma nação específica? De modo algum! Ele é também o Deus de todas as outras nações, dos gentios. A Sua capacidade de perdoar e justificar não está limitada a um único grupo étnico ou a um conjunto específico de tradições religiosas.",
+      "referencias": [
+        "Isaías 49:6",
+        "Atos 10:34-35"
+      ],
+      "comentario": "Paulo antecipa a objeção de que essa teologia da fé universalmente aplicável desvaloriza a aliança com Israel. Ele usa a mesma estrutura de negação enfática ('Mē genoito' - de modo algum!) vista anteriormente. O plano de Deus transcende a nacionalidade. Se a salvação dependesse da Lei, Deus seria apenas o 'Deus dos Judeus' (como em Êxodo 34:14).",
+      "temas": [
+        "Universalidade do Evangelho",
+        "Aliança",
+        "Nação Israel"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "30": {
-      "parafrase": "visto que Deus é um só, que justificará os da circuncisão pela fé e os da incircuncisão por meio da mesma fé.",
-      "referencias": ["Gálatas 3:8"],
-      "comentario": "Há um só Deus e, portanto, um só caminho de salvação para todos: a fé. Tanto judeus (circuncisão) quanto gentios (incircuncisão) são justificados pelo mesmo e único princípio.",
-      "temas": ["um só Deus", "um só caminho de salvação", "fé"],
-      "personagens": ["Deus"]
+      "parafrase": "Sim, pois há apenas um único Deus. E Ele justificará os circuncidados — os judeus — não por causa de sua circuncisão ritualística, mas através da fé que eles compartilham com todos os outros. E, da mesma maneira, Ele declarará justos os incircuncisos — os gentios — por meio dessa mesma fé que lhes foi dada.",
+      "referencias": [
+        "Gálatas 5:6",
+        "Colossenses 2:11"
+      ],
+      "comentario": "Este versículo sintetiza a unidade do caminho da salvação. 'Circuncidados' e 'incircuncisos' são os termos técnicos para judeus e gentios, respectivamente. A circuncisão (símbolo da aliança mosaica) é esvaziada de seu poder salvífico. A fé é o fator unificador. O grego implica que Deus justificará um grupo 'pela' fé e o outro grupo 'através' da fé, sugerindo a mesma via de acesso para ambos.",
+      "temas": [
+        "Unidade na Fé",
+        "Circuncisão",
+        "Inclusão dos Gentios"
+      ],
+      "personagens": [
+        "Judeus",
+        "Gentios"
+      ]
     },
     "31": {
-      "parafrase": "Anulamos, então, a Lei pela fé? De maneira nenhuma! Pelo contrário, confirmamos a Lei.",
-      "referencias": ["Mateus 5:17"],
-      "comentario": "Paulo antecipa a última objeção: a doutrina da justificação pela fé torna a Lei irrelevante? Ele responde que não. A fé não anula a Lei, mas a estabelece. Ela cumpre o propósito da Lei (que era apontar para o pecado e para a necessidade de um salvador) e capacita o crente a começar a cumprir as justas exigências da Lei por meio do poder do Espírito, como ele explicará mais tarde.",
-      "temas": ["fé e a Lei", "confirmação da Lei"],
-      "personagens": []
+      "parafrase": "Isso significa que, ao validarmos a fé como o único caminho, nós de forma alguma anulamos ou desvalorizamos a Lei de Moisés? De maneira alguma! Pelo contrário, ao apresentar a fé como o meio, nós, na verdade, estabelecemos a Lei em sua posição correta e suprema, confirmando que o padrão de Deus exige uma retidão que só pode ser alcançada por meio da intervenção divina providenciada em Cristo. 🔥",
+      "referencias": [
+        "Mateus 5:17",
+        "Romanos 8:4"
+      ],
+      "comentario": "A conclusão lógica da doutrina da justificação pela fé não é o libertinismo, mas sim o cumprimento da Lei. Paulo usa novamente o enfático 'Mē genoito!'. A Lei ainda mantém seu padrão moral elevado. O propósito da Lei é revelar o pecado (como visto nos caps. 1-2) e mostrar a necessidade de um Salvador. Quando a fé justifica, ela honra a Lei ao demonstrar que o homem não consegue cumpri-la sozinho, validando assim a necessidade do sacrifício de Cristo para satisfazer as exigências divinas.",
+      "temas": [
+        "Propósito da Lei",
+        "Cumprimento da Lei",
+        "Retidão"
+      ],
+      "personagens": [
+        "Deus",
+        "Cristo"
+      ]
     }
   }
 }

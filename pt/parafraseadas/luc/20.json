@@ -1,337 +1,776 @@
 {
   "livro": "Lucas",
   "capitulo": 20,
-  "contexto_historico": "Este capítulo continua os confrontos de Jesus com os líderes religiosos em Jerusalém durante a semana da Paixão. Jesus é questionado sobre Sua autoridade, conta a parábola dos lavradores maus, responde a perguntas capciosas sobre impostos e a ressurreição, e questiona a filiação do Messias. Ele adverte Seus discípulos sobre a hipocrisia dos escribas e a seriedade do juízo divino.",
-  "bloco_tematico": "Confrontos com os Líderes Religiosos e Ensinamentos sobre o Reino",
+  "contexto_historico": "O Evangelho de Lucas, escrito por volta de 80-90 d.C., se insere no contexto da Igreja primitiva enfrentando desafios doutrinários e a perseguição romana. Lucas, um médico e companheiro de Paulo, buscou apresentar uma obra ordenada e detalhada (Lc 1:1-4) para Teófilo (provavelmente um oficial romano ou cristão de alta patente), enfatizando a universalidade da salvação em Jesus, o Filho do Homem, com foco nos pobres, marginalizados e mulheres. O capítulo 20 ocorre durante a última semana da vida de Jesus em Jerusalém, um período de intenso confronto teológico com as autoridades judaicas (saduceus e fariseus) que viam Jesus como uma ameaça à sua autoridade e à ordem estabelecida sob o domínio romano. É a fase final antes da Paixão, onde Jesus expõe a hipocrisia e a incredulidade dos líderes.",
+  "bloco_tematico": "O Confronto Final: Autoridade Divina vs. Legalidade Humana 🏛️❓",
   "versiculos": {
     "1": {
-      "parafrase": "Aconteceu que, num daqueles dias, enquanto ele ensinava o povo no Templo e pregava o evangelho, os chefes dos sacerdotes, os escribas e os anciãos se aproximaram,",
-      "referencias": ["Mateus 21:23", "Marcos 11:27"],
-      "comentario": "Jesus continua Seu ministério de ensino no Templo, onde é confrontado pelos líderes religiosos sobre Sua autoridade. A pregação do evangelho é central em Seu ministério.",
-      "temas": ["Templo", "ensino", "evangelho", "confronto"],
-      "personagens": ["Jesus", "Chefes dos sacerdotes", "Escribas", "Anciãos"]
+      "parafrase": "Certa vez, enquanto Jesus ensinava ao povo reunido no Templo, os líderes religiosos — os sacerdotes, os mestres da Lei e os anciãos — aproximaram-se, cheios de intenção questionadora.",
+      "referencias": [
+        "Mateus 21:23",
+        "Marcos 11:27"
+      ],
+      "comentario": "Lucas estabelece o cenário: Jesus está ensinando publicamente no Templo (o centro da autoridade judaica). A chegada dos chefes religiosos indica um confronto direto e planejado, buscando uma brecha para acusá-lo.",
+      "temas": [
+        "Autoridade de Jesus",
+        "Confronto religioso"
+      ],
+      "personagens": [
+        "Jesus",
+        "Líderes religiosos"
+      ]
     },
     "2": {
-      "parafrase": "e lhe perguntaram: 'Dize-nos, com que autoridade fazes estas coisas? Ou quem te deu tal autoridade?'",
-      "referencias": ["Mateus 21:23", "Marcos 11:28"],
-      "comentario": "Os líderes religiosos questionam a autoridade de Jesus, buscando deslegitimá-lo diante do povo. Eles querem saber a fonte de Seu poder e de Suas ações.",
-      "temas": ["autoridade de Jesus", "questionamento", "oposição"],
-      "personagens": []
+      "parafrase": "Eles o desafiaram diretamente: 'Diga-nos, com que poder ou autoridade você está realizando tudo isso? Quem lhe deu permissão para agir assim?'",
+      "referencias": [
+        "João 2:18",
+        "Atos 4:7"
+      ],
+      "comentario": "O 'tudo isso' refere-se aos ensinamentos e milagres (como os descritos em Lucas 19). A pergunta foca na fonte da autoridade ('exousia' em grego), um ataque direto à legitimidade do ministério de Jesus.",
+      "temas": [
+        "Questionamento da autoridade",
+        "Legitimidade divina"
+      ],
+      "personagens": [
+        "Jesus",
+        "Líderes religiosos"
+      ]
     },
     "3": {
-      "parafrase": "Ele lhes respondeu: 'Eu também lhes farei uma pergunta. Respondam-me:'",
-      "referencias": ["Mateus 21:24", "Marcos 11:29"],
-      "comentario": "Jesus responde com uma contra-pergunta, colocando os líderes religiosos em uma armadilha. Ele os desafia a responder sobre a autoridade de João Batista.",
-      "temas": ["contra-pergunta", "armadilha", "autoridade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus, conhecendo a maquinação deles, respondeu com uma pergunta astuta: 'Eu lhes farei uma única pergunta. Se vocês me responderem com sinceridade, eu lhes direi com que poder eu faço tudo isso.'",
+      "referencias": [
+        "Mateus 14:8",
+        "Marcos 6:30"
+      ],
+      "comentario": "Jesus demonstra onisciência ('sabendo o que pensavam'). Ele inverte a dinâmica, forçando-os a se comprometerem com uma verdade que eles mesmos precisavam primeiro reconhecer. O poder de Jesus não é mundano, mas espiritual.",
+      "temas": [
+        "Sabedoria de Jesus",
+        "Inversão de papéis"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "4": {
-      "parafrase": "'O batismo de João, de onde era? Do céu ou dos homens?'",
-      "referencias": ["Mateus 21:25", "Marcos 11:30"],
-      "comentario": "Jesus os desafia a responder sobre a autoridade de João Batista, que era um profeta reconhecido pelo povo. A resposta deles revelaria sua hipocrisia.",
-      "temas": ["autoridade de João Batista", "dilema", "hipocrisia"],
-      "personagens": ["Jesus"]
+      "parafrase": "'Me digam, então: O batismo de João, era uma obra vinda do próprio céu, ou era apenas invenção humana?'",
+      "referencias": [
+        "João Batista 1:6",
+        "Atos 1:22"
+      ],
+      "comentario": "O ponto de inflexão é João Batista. Se eles reconhecessem João, estariam tacitamente aceitando a mensagem preparatória para o Messias. Se negassem, estariam rejeitando uma obra claramente ungida por Deus.",
+      "temas": [
+        "O papel de João Batista",
+        "Julgamento moral"
+      ],
+      "personagens": [
+        "João Batista",
+        "Jesus"
+      ]
     },
     "5": {
-      "parafrase": "Eles discutiam entre si, dizendo: 'Se dissermos: Do céu, ele dirá: Por que, então, não creram nele?'",
-      "referencias": ["Mateus 21:25", "Marcos 11:31"],
-      "comentario": "Os líderes religiosos ficam em um dilema. Se disserem que a autoridade de João era divina, eles se condenarão por não terem crido nele. Se disserem que era humana, temerão a reação do povo, que considerava João um profeta.",
-      "temas": ["dilema", "autoridade de João Batista", "medo do povo"],
-      "personagens": []
+      "parafrase": "Eles ficaram confusos e começaram a discutir entre si, sussurrando: 'Se dissermos que era do céu, ele perguntará: Por que, então, não acreditaram nele?'",
+      "referencias": [
+        "Mateus 21:25",
+        "Marcos 11:31"
+      ],
+      "comentario": "O impasse é total. Eles haviam rejeitado publicamente João Batista e seus ensinamentos sobre arrependimento. Reconhecer a origem celestial do ministério de João implicaria admitir que seu próprio julgamento sobre João estava errado.",
+      "temas": [
+        "Hipocrisia",
+        "Inconsistência teológica"
+      ],
+      "personagens": [
+        "Líderes religiosos"
+      ]
     },
     "6": {
-      "parafrase": "'Mas, se dissermos: Dos homens, todo o povo nos apedrejará, pois estão convencidos de que João era um profeta.'",
-      "referencias": ["Mateus 21:26", "Marcos 11:32"],
-      "comentario": "O medo da reação do povo os impede de responder honestamente. Sua preocupação é com a opinião humana, não com a verdade.",
-      "temas": ["medo do povo", "hipocrisia", "verdade"],
-      "personagens": []
+      "parafrase": "'Mas se ousarmos dizer que foi coisa de homens, o povo se revoltará contra nós, pois a maioria considera João um verdadeiro profeta de Deus!'",
+      "referencias": [
+        "Mateus 14:5",
+        "Lucas 19:47"
+      ],
+      "comentario": "O medo do povo era o fator decisivo. A opinião pública protegia João. Os líderes priorizam a manutenção de sua popularidade e controle social sobre a verdade teológica.",
+      "temas": [
+        "Medo da multidão",
+        "Popularidade versus verdade"
+      ],
+      "personagens": [
+        "Povo",
+        "Líderes religiosos"
+      ]
     },
     "7": {
-      "parafrase": "Então responderam que não sabiam de onde era.",
-      "referencias": ["Mateus 21:27", "Marcos 11:33"],
-      "comentario": "A recusa em responder revela sua hipocrisia e sua falta de honestidade. Eles preferem a ignorância à verdade.",
-      "temas": ["hipocrisia", "falta de honestidade", "ignorância"],
-      "personagens": []
+      "parafrase": "Assim, eles voltaram para Jesus, admitindo, com vergonha, que não podiam dar uma resposta honesta à pergunta.",
+      "referencias": [
+        "Mateus 21:27",
+        "Marcos 11:33"
+      ],
+      "comentario": "A incapacidade de responder revela a falha moral e intelectual da liderança. A verdade sobre João os encurralou, provando que sua oposição a Jesus não era baseada em princípios, mas em agendas ocultas.",
+      "temas": [
+        "Render-se à verdade",
+        "Fracasso em julgar"
+      ],
+      "personagens": [
+        "Jesus",
+        "Líderes religiosos"
+      ]
     },
     "8": {
-      "parafrase": "Jesus lhes disse: 'Nem eu lhes direi com que autoridade faço estas coisas.'",
-      "referencias": ["Mateus 21:27", "Marcos 11:33"],
-      "comentario": "Jesus, por sua vez, se recusa a responder à sua pergunta, pois eles não estão buscando a verdade, mas uma armadilha.",
-      "temas": ["rejeição da verdade", "armadilha"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus, então, declarou enfaticamente: 'Pois bem, se vocês não querem me dizer com que autoridade eu falo, eu também não lhes direi com que autoridade faço todas essas coisas.'",
+      "referencias": [
+        "João 1:26",
+        "Mateus 17:17"
+      ],
+      "comentario": "A recusa em responder com integridade resultou no fechamento da porta para a revelação. A autoridade de Cristo não é forçada; ela é discernida por aqueles que estão dispostos a ver.",
+      "temas": [
+        "Julgamento por omissão",
+        "Revelação condicional"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "9": {
-      "parafrase": "Então ele começou a contar ao povo esta parábola: 'Um homem plantou uma vinha, arrendou-a a alguns lavradores e foi viajar para um país distante por muito tempo.'",
-      "referencias": ["Mateus 21:33", "Marcos 12:1"],
-      "comentario": "A parábola dos lavradores maus ilustra a história de Israel e sua rejeição aos profetas e, finalmente, ao próprio Messias. A vinha representa Israel, e o proprietário, Deus.",
-      "temas": ["parábola", "Israel", "rejeição", "vinha"],
-      "personagens": ["Jesus"]
+      "parafrase": "Em seguida, Jesus começou a contar uma história para ilustrar seu ponto, dirigida a todos que estavam ouvindo: 'Havia um homem proprietário de terras que plantou uma vinha excelente. Ele a cercou, preparou um lugar para pisar as uvas e construiu uma torre de vigia. Depois, alugou a vinha para alguns lavradores e partiu para uma longa viagem.'",
+      "referencias": [
+        "Isaías 5:1-7",
+        "Mateus 21:33"
+      ],
+      "comentario": "Esta é a Parábola dos Lavradores Maus. A vinha ('vinea') simboliza Israel, o povo escolhido por Deus (referência a Isaías 5). A estrutura demonstra o cuidado meticuloso de Deus ao preparar seu povo.",
+      "temas": [
+        "Parábola",
+        "O cuidado de Deus",
+        "Aliança"
+      ],
+      "personagens": [
+        "Dono da vinha",
+        "Lavradores"
+      ]
     },
     "10": {
-      "parafrase": "'No tempo da colheita, ele enviou um servo aos lavradores para que lhe dessem a sua parte dos frutos da vinha. Mas os lavradores o espancaram e o mandaram embora de mãos vazias.'",
-      "referencias": ["Mateus 21:34", "Marcos 12:2-3"],
-      "comentario": "O servo representa os profetas que Deus enviou a Israel para receber os frutos de justiça. Os lavradores (líderes de Israel) rejeitam e maltratam os profetas de Deus, demonstrando sua rebelião e violência.",
-      "temas": ["profetas", "rejeição dos profetas", "violência", "rebelião"],
-      "personagens": ["Jesus"]
+      "parafrase": "Quando chegou a época da colheita, o dono enviou um servo para receber a sua parte dos frutos dos lavradores. Mas eles o agarraram, o espancaram severamente e o mandaram de volta de mãos vazias.",
+      "referencias": [
+        "Jeremias 7:25",
+        "2 Crônicas 36:15"
+      ],
+      "comentario": "Os servos representam os profetas enviados por Deus ao longo da história de Israel para recolher os 'frutos' (obediência, justiça) da aliança. A violência demonstra a rejeição persistente da mensagem de Deus.",
+      "temas": [
+        "Perseguição dos profetas",
+        "Injustiça"
+      ],
+      "personagens": [
+        "Servo",
+        "Lavradores"
+      ]
     },
     "11": {
-      "parafrase": "'E enviou ainda outro servo; mas eles também o espancaram, o insultaram e o mandaram embora de mãos vazias.'",
-      "referencias": ["Mateus 21:35", "Marcos 12:4"],
-      "comentario": "A paciência de Deus é grande, e Ele continua a enviar mensageiros, mas a rebelião dos lavradores persiste.",
-      "temas": ["paciência de Deus", "rebelião persistente", "insulto"],
-      "personagens": ["Jesus"]
+      "parafrase": "O dono enviou um segundo servo, mas eles o feriram na cabeça, maltrataram-no e o trataram com desonra, mandando-o embora sem nada.",
+      "referencias": [
+        "Neemias 9:26",
+        "Hebreus 11:36"
+      ],
+      "comentario": "A repetição da violência enfatiza a obstinação dos lavradores. A injúria contra este segundo mensageiro mostra um endurecimento progressivo do coração.",
+      "temas": [
+        "Rejeição contínua",
+        "Desonra"
+      ],
+      "personagens": [
+        "Segundo servo",
+        "Lavradores"
+      ]
     },
     "12": {
-      "parafrase": "'E enviou ainda um terceiro; mas eles também o feriram e o lançaram fora.'",
-      "referencias": ["Mateus 21:36", "Marcos 12:5"],
-      "comentario": "A violência e a rejeição dos profetas se intensificam, culminando na morte de muitos mensageiros de Deus.",
-      "temas": ["violência", "rejeição", "morte de profetas"],
-      "personagens": ["Jesus"]
+      "parafrase": "Finalmente, o dono enviou um terceiro servo. A este, eles o jogaram para fora e o mataram, destruindo-o completamente.",
+      "referencias": [
+        "2 Reis 21:16",
+        "Mateus 5:12"
+      ],
+      "comentario": "O assassinato do terceiro servo é o ato final de rebelião. Historicamente, isso alude à perseguição e morte dos últimos profetas enviados por Deus antes da chegada de Seu Filho.",
+      "temas": [
+        "Assassinato",
+        "Clímax da rebelião"
+      ],
+      "personagens": [
+        "Terceiro servo",
+        "Lavradores"
+      ]
     },
     "13": {
-      "parafrase": "'Então o dono da vinha disse: O que farei? Enviarei o meu filho amado; talvez o respeitem.'",
-      "referencias": ["Mateus 21:37", "Marcos 12:6"],
-      "comentario": "O filho representa o próprio Jesus, o Messias. Deus envia Seu Filho como a última e suprema tentativa de reconciliação.",
-      "temas": ["Filho amado", "Messias", "reconciliação"],
-      "personagens": ["Jesus"]
+      "parafrase": "O dono da vinha, observando tudo aquilo, disse a si mesmo: 'O que devo fazer agora? Tenho que enviar meu amado filho! Talvez, ao vê-lo, eles o respeitem e deem a ele o que lhe é devido.'",
+      "referencias": [
+        "Gênesis 22:2",
+        "Salmos 2:7"
+      ],
+      "comentario": "O ponto central da parábola: o envio do 'Filho amado' (grego: 'agapētos'). Isso aponta inequivocamente para Jesus, o Messias, o herdeiro supremo, esperando uma resposta diferente dos servos anteriores.",
+      "temas": [
+        "Envio do Filho",
+        "Esperança redentora"
+      ],
+      "personagens": [
+        "Dono da vinha",
+        "Filho amado"
+      ]
     },
     "14": {
-      "parafrase": "'Mas, ao vê-lo, os lavradores discutiram entre si, dizendo: Este é o herdeiro. Venham, vamos matá-lo, para que a herança seja nossa.'",
-      "referencias": ["Mateus 21:38", "Marcos 12:7"],
-      "comentario": "Os lavradores reconhecem a identidade do filho como o herdeiro, mas sua ganância e maldade os levam a planejar Sua morte para se apossarem da herança. Isso é uma profecia da crucificação de Jesus.",
-      "temas": ["ganância", "maldade", "crucificação", "herança"],
-      "personagens": ["Jesus"]
+      "parafrase": "Contudo, quando aqueles lavradores viram o filho chegando, eles se reuniram, planejando friamente: 'Este é o herdeiro! Vamos matá-lo para que a herança fique conosco, e a propriedade será nossa!'",
+      "referencias": [
+        "Salmos 2:2",
+        "Atos 7:52"
+      ],
+      "comentario": "A escuridão do coração humano é revelada. A possessividade e a ganância substituem qualquer reverência. Eles querem eliminar a autoridade legítima para usurpar a propriedade (o povo de Deus).",
+      "temas": [
+        "Usurpação",
+        "Intenção de matar"
+      ],
+      "personagens": [
+        "Lavradores",
+        "Filho"
+      ]
     },
     "15": {
-      "parafrase": "'E, lançando-o para fora da vinha, o mataram. O que fará, então, o dono da vinha a eles?'",
-      "referencias": ["Mateus 21:39", "Marcos 12:8"],
-      "comentario": "A execução do filho fora da vinha simboliza a crucificação de Jesus fora dos muros de Jerusalém.",
-      "temas": ["crucificação", "morte"],
-      "personagens": ["Jesus"]
+      "parafrase": "Então, eles o arrastaram para fora da vinha e o executaram cruelmente. A pergunta final é: O que o dono da vinha fará com eles quando voltar?",
+      "referencias": [
+        "Atos 2:23",
+        "Hebreus 13:12"
+      ],
+      "comentario": "O clímax da injustiça: o assassinato do herdeiro fora dos limites sagrados do Templo. Jesus está descrevendo sua própria iminente paixão e morte.",
+      "temas": [
+        "Crucificação",
+        "Julgamento vindouro"
+      ],
+      "personagens": [
+        "Filho",
+        "Lavradores",
+        "Dono da vinha"
+      ]
     },
     "16": {
-      "parafrase": "'Ele virá e destruirá aqueles lavradores e dará a vinha a outros.' Ao ouvirem isso, disseram: 'Que isso nunca aconteça!'",
-      "referencias": ["Mateus 21:41", "Marcos 12:9"],
-      "comentario": "Jesus questiona os líderes religiosos sobre o juízo que virá sobre eles por sua rejeição ao Filho. A vinha será entregue a outros, o que se refere à rejeição de Israel e à inclusão dos gentios no Reino. A reação deles é de horror diante da profecia.",
-      "temas": ["juízo", "rejeição de Israel", "inclusão dos gentios", "consequência"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus fez uma pausa, esperando a resposta, mas os ouvintes entenderam a gravidade. Eles responderam, com um arrepio: 'Certamente o dono virá, destruirá esses perversos com rapidez e entregará a vinha para outros agricultores que lhe darão os frutos na época certa.'",
+      "referencias": [
+        "Mateus 21:41",
+        "Apocalipse 18:21"
+      ],
+      "comentario": "O público, sem perceber, emite um veredito contra si mesmos e seus líderes. Eles descrevem a substituição de Israel (os lavradores judeus) pela Igreja (os 'outros agricultores', gentios e crentes).",
+      "temas": [
+        "Substituição",
+        "Julgamento anunciado"
+      ],
+      "personagens": [
+        "Jesus",
+        "Ouvintes"
+      ]
     },
     "17": {
-      "parafrase": "Mas ele, olhando para eles, disse: 'Então, o que significa esta Escritura: A pedra que os construtores rejeitaram, essa se tornou a pedra angular?'",
-      "referencias": ["Salmos 118:22", "Mateus 21:42", "Marcos 12:10"],
-      "comentario": "Jesus cita o Salmo, identificando-se como a pedra angular rejeitada pelos construtores (os líderes religiosos), mas que Deus exaltou para ser o fundamento de Sua nova construção (a igreja).",
-      "temas": ["pedra angular", "rejeição", "exaltação", "igreja"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus então olhou diretamente para eles e disse, citando as Escrituras: 'O que isto significa, então? Que dizer da pedra que os construtores rejeitaram? Ela se tornou a pedra angular, a peça fundamental da construção!'",
+      "referencias": [
+        "Salmos 118:22",
+        "Atos 4:11"
+      ],
+      "comentario": "Jesus cita o Salmo 118, aplicando-o a Si mesmo. A pedra rejeitada pelos líderes ('construtores') torna-se a 'pedra angular' ('kephale gonias'), o ponto de união essencial para a nova estrutura (o Reino de Deus).",
+      "temas": [
+        "Rejeição do Messias",
+        "Pilar central"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "18": {
-      "parafrase": "'Todo aquele que cair sobre esta pedra será despedaçado; e sobre quem ela cair, será esmagado.'",
-      "referencias": ["Mateus 21:44"],
-      "comentario": "Jesus adverte sobre as consequências de rejeitá-Lo. Aqueles que tropeçam Nele serão feridos, mas aqueles sobre quem Ele cair (no juízo) serão completamente destruídos.",
-      "temas": ["juízo", "rejeição", "consequência"],
-      "personagens": ["Jesus"]
+      "parafrase": "'Quem quer que tropece nesta pedra quebrará a sua força, mas se esta pedra cair sobre alguém, o reduzirá a pó.'",
+      "referencias": [
+        "Daniel 2:44",
+        "Isaías 8:14"
+      ],
+      "comentario": "Este versículo descreve o destino duplo da pedra angular. Para aqueles que a rejeitam (como os líderes), ela será um obstáculo fatal. Para aqueles que a aceitam, Ela será um fundamento de salvação, mas a resistência será esmagadora.",
+      "temas": [
+        "Juízo e fundação",
+        "Força esmagadora"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "19": {
-      "parafrase": "Os chefes dos sacerdotes e os escribas procuravam prendê-lo naquela mesma hora, pois entenderam que ele havia contado esta parábola contra eles. Mas temeram o povo.",
-      "referencias": ["Mateus 21:45-46", "Marcos 12:12"],
-      "comentario": "Os líderes religiosos compreendem que a parábola de Jesus é uma acusação direta contra eles, o que aumenta sua hostilidade. No entanto, o medo da multidão os impede de agir imediatamente.",
-      "temas": ["oposição", "medo da multidão", "hostilidade"],
-      "personagens": []
+      "parafrase": "Os mestres da Lei e os sacerdotes, tendo compreendido que aquela parábola era diretamente contra eles, ficaram furiosos e pensaram em prender Jesus naquele exato momento, mas temeram a reação do povo.",
+      "referencias": [
+        "Mateus 26:3",
+        "Marcos 12:12"
+      ],
+      "comentario": "A clareza da condenação é inegável; a parábola os expôs como os lavradores assassinos. O temor da multidão continua sendo a única barreira física que impede a prisão imediata de Jesus.",
+      "temas": [
+        "Fúria dos inimigos",
+        "Restrição popular"
+      ],
+      "personagens": [
+        "Mestres da Lei",
+        "Sacerdotes",
+        "Jesus"
+      ]
     },
     "20": {
-      "parafrase": "Então, observando-o, enviaram espiões que se fingiam de justos, para o apanharem em alguma palavra, a fim de o entregarem ao poder e à autoridade do governador.",
-      "referencias": ["Mateus 22:15", "Marcos 12:13"],
-      "comentario": "Os líderes religiosos enviam espiões disfarçados para tentar Jesus com perguntas capciosas, buscando uma armadilha verbal para incriminá-lo e entregá-lo às autoridades romanas.",
-      "temas": ["espiões", "armadilha", "autoridade romana", "conspiração"],
-      "personagens": []
+      "parafrase": "Esperando uma oportunidade melhor, eles mandaram espiões disfarçados de homens devotos, para tentar flagrá-lo em alguma palavra, para que pudessem entregá-lo à autoridade romana com uma acusação formal.",
+      "referencias": [
+        "Mateus 22:15",
+        "Salmos 56:5"
+      ],
+      "comentario": "A estratégia muda de um ataque teológico direto para a infiltração e a espionagem. Eles buscam uma declaração que possa ser distorcida como sedição contra Roma, o que era um crime capital.",
+      "temas": [
+        "Espionagem",
+        "Armadilha política"
+      ],
+      "personagens": [
+        "Espiões",
+        "Jesus"
+      ]
     },
     "21": {
-      "parafrase": "Eles lhe perguntaram: 'Mestre, sabemos que falas e ensinas corretamente, e não fazes acepção de pessoas, mas ensinas o caminho de Deus em verdade.'",
-      "referencias": [],
-      "comentario": "Eles começam com um elogio falso para tentar fazer Jesus cair em uma armadilha. Eles reconhecem Sua sabedoria e Sua imparcialidade, mas sua intenção é maligna.",
-      "temas": ["elogio falso", "sabedoria", "imparcialidade"],
-      "personagens": []
+      "parafrase": "Esses espiões o abordaram com adulação: 'Mestre, nós sabemos que o senhor fala a verdade com integridade, ensina o caminho de Deus com autenticidade, e não se importa com a opinião de ninguém, pois o senhor não faz acepção de pessoas.'",
+      "referencias": [
+        "Mateus 22:16",
+        "Gálatas 2:6"
+      ],
+      "comentario": "A bajulação é calculada. Reconhecer a integridade de Jesus (não ser 'parcial') é um preâmbulo para tentar encurralá-lo em uma contradição legal ou teológica.",
+      "temas": [
+        "Adulação",
+        "Imparcialidade"
+      ],
+      "personagens": [
+        "Espiões",
+        "Jesus"
+      ]
     },
     "22": {
-      "parafrase": "'É lícito pagarmos imposto a César ou não?'",
-      "referencias": ["Mateus 22:17", "Marcos 12:14"],
-      "comentario": "A pergunta sobre o imposto a César é uma armadilha política. Se Jesus dissesse sim, Ele seria impopular entre os judeus. Se dissesse não, Ele seria acusado de rebelião contra Roma.",
-      "temas": ["imposto a César", "armadilha política", "dilema"],
-      "personagens": []
+      "parafrase": "'Diga-nos, então, é permitido a nós, judeus, pagar impostos ao imperador César, ou não devemos pagar?'",
+      "referencias": [
+        "Mateus 22:17",
+        "Romanos 13:7"
+      ],
+      "comentario": "Esta é a armadilha clássica: o imposto de César. Se Jesus dissesse 'sim', seria visto como traidor do povo judeu e apoiador da ocupação romana. Se dissesse 'não', seria acusado de sedição contra Roma.",
+      "temas": [
+        "Impostos",
+        "Lealdade política"
+      ],
+      "personagens": [
+        "Espiões",
+        "Jesus"
+      ]
     },
     "23": {
-      "parafrase": "Mas ele, percebendo a astúcia deles, disse-lhes: 'Por que vocês me tentam?'",
-      "referencias": [],
-      "comentario": "Jesus, em Sua onisciência, expõe a astúcia e a maldade deles. Ele não cai na armadilha.",
-      "temas": ["astúcia", "maldade", "onisciência de Jesus"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus percebeu a astúcia por trás da pergunta e lhes disse: 'Por que estão tentando me testar? Mostrem-me uma moeda usada para pagar este tributo.'",
+      "referencias": [
+        "Marcos 12:15",
+        "1 Pedro 1:18"
+      ],
+      "comentario": "Jesus expõe a motivação ('tentar me testar' - grego: 'peirazō', tentação hostil). Ele pede a moeda, o objeto físico sobre o qual a questão gira.",
+      "temas": [
+        "Exposição da tentação",
+        "A moeda"
+      ],
+      "personagens": [
+        "Jesus",
+        "Espiões"
+      ]
     },
     "24": {
-      "parafrase": "'Mostrem-me um denário. De quem é esta imagem e esta inscrição?' Eles responderam: 'De César.'",
-      "referencias": ["Mateus 22:19-20", "Marcos 12:15-16"],
-      "comentario": "Jesus pede a moeda para usar como um objeto de ensino. A pergunta de Jesus os leva a reconhecer a autoridade de César sobre a moeda.",
-      "temas": ["moeda", "imagem", "inscrição", "autoridade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Eles lhe apresentaram um denário. Ele então perguntou: 'De quem é a imagem e a inscrição gravada nesta moeda?' Eles responderam: 'É do César.'",
+      "referencias": [
+        "Gênesis 1:27",
+        "1 Coríntios 15:49"
+      ],
+      "comentario": "A imagem de César na moeda representava sua autoridade e soberania terrena. O povo reconhecia, ao usar a moeda, a autoridade de fato do império sobre eles.",
+      "temas": [
+        "Símbolos de poder",
+        "Reconhecimento de autoridade terrena"
+      ],
+      "personagens": [
+        "Jesus",
+        "Espiões",
+        "César"
+      ]
     },
     "25": {
-      "parafrase": "Então ele lhes disse: 'Deem, pois, a César o que é de César, e a Deus o que é de Deus.'",
-      "referencias": ["Mateus 22:21", "Marcos 12:17"],
-      "comentario": "Jesus dá uma resposta sábia que transcende a armadilha. Ele estabelece o princípio da dupla cidadania: os crentes têm obrigações tanto para com o governo civil quanto para com Deus. A autoridade de Deus é suprema.",
-      "temas": ["sabedoria de Jesus", "dupla cidadania", "autoridade de Deus", "imposto"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus lhes deu a resposta célebre e balanceada: 'Então, deem a César aquilo que pertence a César — seus bens e obrigações terrenas — mas deem a Deus aquilo que é exclusivamente de Deus — sua lealdade, sua alma e sua vida.'",
+      "referencias": [
+        "Romanos 13:1",
+        "1 Tessalonicenses 5:23"
+      ],
+      "comentario": "Esta é a síntese da separação de esferas: o terreno e o divino. O imposto é uma obrigação cívica (dado a César). No entanto, a vida, a adoração e a natureza humana (criada à imagem de Deus) pertencem a Deus. Jesus resolve a armadilha, elevando a questão ao nível espiritual.",
+      "temas": [
+        "Lealdade dupla",
+        "Dever cívico vs. Dever divino"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "26": {
-      "parafrase": "E não puderam apanhá-lo em palavra diante do povo; e, admirados com a sua resposta, calaram-se.",
-      "referencias": [],
-      "comentario": "A sabedoria de Jesus os silencia e os deixa admirados. Eles não conseguem encontrar uma forma de incriminá-lo.",
-      "temas": ["sabedoria de Jesus", "silêncio", "admiração"],
-      "personagens": []
+      "parafrase": "Então, Jesus olhou para aquele homem, que já estava sendo seguido por uma multidão, e viu a centelha de inteligência em seus olhos, mas também a armadilha teológica. Ele respondeu com sabedoria, dizendo: 'Você compreendeu muito bem o ponto principal da Lei e dos Profetas: há apenas um Deus verdadeiro, e a Ele devemos devotar toda a nossa existência'.",
+      "referencias": [
+        "Deuteronômio 6:4",
+        "Marcos 12:29"
+      ],
+      "comentario": "Jesus aqui valida a resposta do escriba, confirmando o 'Shemá' (Deuteronômio 6:4), que é a declaração central da fé judaica: a unicidade de Deus. A palavra grega para 'entender' (synidōn) sugere uma percepção perspicaz, não apenas audição passiva.",
+      "temas": [
+        "Unicidade de Deus",
+        "Obediência à Lei",
+        "Sabedoria Divina"
+      ],
+      "personagens": [
+        "Jesus",
+        "Escriba"
+      ]
     },
     "27": {
-      "parafrase": "Então alguns dos saduceus, que negam a ressurreição, aproximaram-se dele e perguntaram:",
-      "referencias": ["Mateus 22:23", "Marcos 12:18"],
-      "comentario": "Os saduceus, que não acreditavam na ressurreição, tentam Jesus com uma pergunta que eles acreditavam ser irrefutável, buscando ridicularizar a doutrina da ressurreição.",
-      "temas": ["saduceus", "ressurreição", "questionamento", "doutrina"],
-      "personagens": ["Saduceus", "Jesus"]
+      "parafrase": "Ao perceber que o homem havia respondido com sinceridade e profundidade, Jesus o elogiou publicamente, mandando que ele se afastasse da multidão e seguisse o caminho da verdade completa. Sua resposta deveria ser: 'Você está muito perto de entrar no Reino de Deus, pois amar a Deus com todo o seu ser é o princípio de tudo, mas faça isso com todo o seu coração, com toda a sua alma e com toda a sua força mental'.",
+      "referencias": [
+        "Mateus 22:37",
+        "Marcos 12:30"
+      ],
+      "comentario": "Este é o cumprimento do primeiro e maior mandamento. O escriba demonstrou conhecimento intelectual, mas Jesus o chama à totalidade da dedicação: 'coração' (pathos/emoção), 'alma' (psyche/ser interior) e 'força' (ischys/poder ativo). É um chamado ao compromisso total (holístico).",
+      "temas": [
+        "O Grande Mandamento",
+        "Compromisso Total",
+        "Amor a Deus"
+      ],
+      "personagens": [
+        "Jesus",
+        "Escriba"
+      ]
     },
     "28": {
-      "parafrase": "'Mestre, Moisés nos escreveu que, se o irmão de um homem morrer e deixar esposa sem filhos, o irmão deverá casar-se com a viúva e levantar descendência para seu irmão.'",
-      "referencias": ["Deuteronômio 25:5"],
-      "comentario": "Eles citam a lei do levirato, que exigia que um irmão se casasse com a viúva de seu irmão falecido para levantar descendência para ele.",
-      "temas": ["lei do levirato", "casamento", "descendência"],
-      "personagens": []
+      "parafrase": "O escriba, vendo que Jesus não o estava criticando, mas sim elevando seu entendimento, ousou fazer uma pergunta de acompanhamento, buscando clareza sobre o segundo mandamento, o qual era crucial para a vida prática e social. Ele perguntou, esperando confirmar sua doutrina: 'Mestre, é verdade que amar o próximo como a si mesmo é tão fundamental quanto amar a Deus?'",
+      "referencias": [
+        "Levítico 19:18",
+        "Gálatas 5:14"
+      ],
+      "comentario": "O escriba, ao formular a pergunta, demonstra uma compreensão profunda da interconexão entre a teologia (amor a Deus) e a ética (amor ao próximo). O termo 'parece-lhe' (eu ge/realmente) indica que ele busca uma confirmação oficial dessa equivalência.",
+      "temas": [
+        "O Segundo Mandamento",
+        "Ética Prática",
+        "Relacionamento Humano"
+      ],
+      "personagens": [
+        "Escriba",
+        "Jesus"
+      ]
     },
     "29": {
-      "parafrase": "'Ora, havia sete irmãos. O primeiro casou-se e morreu sem filhos.'",
-      "referencias": [],
-      "comentario": "Eles apresentam um cenário hipotético que eles acreditavam ser absurdo, para provar que a ressurreição é ilógica.",
-      "temas": ["cenário hipotético", "ressurreição", "lógica"],
-      "personagens": []
+      "parafrase": "Jesus, observando a sabedoria com que o homem havia tecido os dois pilares da Lei, respondeu com afirmação imediata e enfática: 'Você acertou em cheio! Sua resposta está correta. Se você praticar isso fielmente, se viver o amor a Deus de forma integral e o amor ao seu próximo como se fosse o seu próprio ser, então você viverá verdadeiramente — terá a vida plena que Deus deseja para você!'",
+      "referencias": [
+        "Tiago 2:8",
+        "Mateus 7:12"
+      ],
+      "comentario": "A resposta de Jesus é um endosso poderoso. A expressão grega para 'viverás' (zēsēis) no futuro implica a promessa de vida eterna ou vida plena aqui e agora, baseada na obediência prática dos mandamentos. Não é apenas um ato religioso, mas a essência da existência humana correta.",
+      "temas": [
+        "Vida Plena",
+        "Obediência Prática",
+        "Recompensa Espiritual"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "30": {
-      "parafrase": "'O segundo casou-se com ela, e também morreu sem filhos.'",
-      "referencias": [],
-      "comentario": "A situação se repete com todos os sete irmãos, tornando a questão da esposa no céu ainda mais complexa para eles.",
-      "temas": ["cenário hipotético", "ressurreição"],
-      "personagens": []
+      "parafrase": "No entanto, querendo se justificar diante de Jesus e talvez testar a profundidade do conhecimento do Mestre sobre a necessidade de atos externos, o escriba insistiu: 'E quem é o meu próximo, afinal? Pois, se eu tiver que amar a todos, onde traço a linha de quem devo priorizar?'",
+      "referencias": [
+        "Romanos 13:9",
+        "João 13:34"
+      ],
+      "comentario": "Esta pergunta ('quem é o meu próximo?') é a deixa para a parábola mais famosa de Lucas. Ela revela a tendência humana de limitar a responsabilidade moral. Para o judeu da época, 'próximo' frequentemente se restringia à comunidade israelita ou, no máximo, a um judeu religioso. Jesus usará isso para expandir drasticamente o conceito.",
+      "temas": [
+        "Definição de 'Próximo'",
+        "Limites da Moralidade",
+        "Justificativa Pessoal"
+      ],
+      "personagens": [
+        "Escriba"
+      ]
     },
     "31": {
-      "parafrase": "'E o terceiro da mesma forma. E assim os sete; e não deixaram filhos, e morreram.'",
-      "referencias": [],
-      "comentario": "A mulher se casa com todos os sete irmãos, e nenhum deles tem filhos com ela.",
-      "temas": ["cenário hipotético", "ressurreição"],
-      "personagens": []
+      "parafrase": "Jesus começou a narrar uma história impactante para desmantelar a visão estreita do escriba. Ele disse: 'Imagine um homem que estava viajando de Jerusalém para Jericó, uma estrada notória por ser perigosa e isolada. No meio do caminho, ele foi atacado por ladrões violentos, que o despiram de tudo, o espancaram brutalmente até quase o deixar morto, e fugiram, deixando-o sangrando na beira da estrada'.",
+      "referencias": [
+        "Salmos 38:8",
+        "Atos 9:3"
+      ],
+      "comentario": "A rota de Jerusalém a Jericó era conhecida como 'Caminho Sangrento' (Az-Zarqa). A descrição dos ladrões é vívida, focando na violência ('despojaram', 'espancaram') e na negligência ('deixaram meio morto'). O estado da vítima exige socorro imediato e custoso.",
+      "temas": [
+        "Violência e Abandono",
+        "Vulnerabilidade Humana",
+        "Ato de Misericórdia"
+      ],
+      "personagens": [
+        "Viajante",
+        "Ladrões"
+      ]
     },
     "32": {
-      "parafrase": "'Por último, depois de todos, morreu também a mulher.'",
-      "referencias": [],
-      "comentario": "A mulher morre, e a questão é levantada sobre quem será seu marido na ressurreição.",
-      "temas": ["morte", "ressurreição"],
-      "personagens": []
+      "parafrase": "Pouco tempo depois, um sacerdote, alguém dedicado ao serviço sagrado no Templo, vinha descendo pelo mesmo caminho. Ao ver o homem ferido e gemendo, este homem de Deus simplesmente deu um desvio para não ser tocado pela impureza de um corpo ensanguentado, passou por ele e seguiu seu caminho para o seu dever religioso.",
+      "referencias": [
+        "Números 19:11-13",
+        "Hebreus 7:26"
+      ],
+      "comentario": "O sacerdote representa a religião institucionalizada, que prioriza o ritual e a pureza cerimonial (o contato com um cadáver tornava-o ritualmente impuro, impedindo-o de servir) acima da compaixão humana imediata. Ele escolhe a lei ritual sobre a lei moral.",
+      "temas": [
+        "Hipocrisia Religiosa",
+        "Pureza Ritual vs. Compaixão",
+        "O Perigo da Formalidade"
+      ],
+      "personagens": [
+        "Sacerdote"
+      ]
     },
     "33": {
-      "parafrase": "'Na ressurreição, de qual deles ela será esposa? Pois os sete a tiveram como esposa.'",
-      "referencias": [],
-      "comentario": "A pergunta final dos saduceus, que eles acreditavam ser um dilema insolúvel para Jesus.",
-      "temas": ["dilema", "ressurreição", "casamento"],
-      "personagens": []
+      "parafrase": "Mais tarde, um levita, que também estava a caminho, provavelmente voltando do Templo onde servia, chegou ao mesmo local. Ele olhou para o homem desamparado, mas, assim como o sacerdote, sentiu-se impedido por algum motivo — talvez o medo de se contaminar ou o receio de se atrasar —, e também se afastou, ignorando o grito de socorro.",
+      "referencias": [
+        "Números 3:6-10",
+        "Filipenses 2:21"
+      ],
+      "comentario": "O levita reforça a mensagem: a falha não é isolada. Ele era um assistente no serviço do Templo. A falha aqui é a omissão ativa: ver o sofrimento e escolher não agir. Ambas as figuras representam a falha da liderança religiosa em demonstrar a misericórdia esperada de quem serve a Deus.",
+      "temas": [
+        "Omissão do Dever",
+        "Conformidade",
+        "Falha da Liderança"
+      ],
+      "personagens": [
+        "Levita"
+      ]
     },
     "34": {
-      "parafrase": "Jesus lhes respondeu: 'Os filhos deste mundo casam-se e dão-se em casamento;'",
-      "referencias": [],
-      "comentario": "Jesus explica que o casamento é uma instituição terrena, para a procriação e a continuidade da raça humana.",
-      "temas": ["casamento", "vida terrena", "procriação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Finalmente, um terceiro indivíduo chegou à cena, um samaritano, um homem que era desprezado e odiado pelos judeus, considerado um herege e um mestiço impuro. Este homem, ao ver o viajante mutilado, sentiu uma dor profunda que superou qualquer preconceito ou distância social. Seu coração se moveu com uma compaixão genuína.",
+      "referencias": [
+        "João 4:9",
+        "Atos 1:8"
+      ],
+      "comentario": "Este é o ponto de virada dramático. O samaritano (que era um inimigo cultural e religioso dos judeus) demonstra a verdadeira prática do amor ao próximo. O grego 'esplanchnisthē' (teve suas entranhas movidas) indica a mais profunda reação de misericórdia, uma reação visceral e involuntária.",
+      "temas": [
+        "Misericórdia Inesperada",
+        "Quebra de Preconceitos",
+        "Identidade do Próximo"
+      ],
+      "personagens": [
+        "Samaritano"
+      ]
     },
     "35": {
-      "parafrase": "'mas os que forem considerados dignos de alcançar aquele mundo e a ressurreição dos mortos, não se casarão nem se darão em casamento;'",
-      "referencias": [],
-      "comentario": "Jesus revela a natureza da vida na ressurreição, que é diferente da vida terrena. O casamento é uma instituição terrena, e na ressurreição, a vida será como a dos anjos, sem casamento.",
-      "temas": ["ressurreição", "vida celestial", "anjos", "casamento"],
-      "personagens": ["Jesus"]
+      "parafrase": "Agindo sem hesitação, este forasteiro se aproximou do ferido, prestou os primeiros socorros e o colocou sobre o seu próprio animal de carga. Ele o levou para uma pousada segura e, ali, dedicou-se noite adentro a cuidar de cada ferida e esgotar-se em seu serviço.",
+      "referencias": [
+        "Êxodo 21:19",
+        "1 Tessalonicenses 5:14"
+      ],
+      "comentario": "O samaritano não apenas parou, mas assumiu o custo e o risco. Ele inverte a posição de poder: o samaritano se torna o servo do judeu ferido, cuidando dele como se fosse seu próprio irmão de sangue.",
+      "temas": [
+        "Serviço Ativo",
+        "Cuidado Integral",
+        "Sacrifício Pessoal"
+      ],
+      "personagens": [
+        "Samaritano"
+      ]
     },
     "36": {
-      "parafrase": "'pois não podem mais morrer, porque são iguais aos anjos e são filhos de Deus, sendo filhos da ressurreição.'",
-      "referencias": [],
-      "comentario": "Na ressurreição, os crentes serão imortais e semelhantes aos anjos, sendo filhos de Deus por meio da ressurreição. A vida será eterna e glorificada.",
-      "temas": ["imortalidade", "semelhança com anjos", "filhos de Deus", "ressurreição"],
-      "personagens": ["Jesus"]
+      "parafrase": "Na manhã seguinte, ele sabia que precisaria de mais tempo e recursos. Ele então chamou o estalajadeiro, entregou-lhe duas moedas de prata (uma quantia considerável para a época) e lhe disse: 'Cuide bem deste homem, por favor. Se os gastos excederem estas duas moedas, eu prometo voltar e pagar tudo o que for necessário para sua recuperação completa'.",
+      "referencias": [
+        "2 Coríntios 9:7",
+        "1 Timóteo 5:17"
+      ],
+      "comentario": "As duas moedas (denários) representavam aproximadamente dois dias de trabalho para um homem comum, um investimento significativo. O samaritano garante a continuidade do cuidado, mostrando que sua misericórdia não era um ato isolado, mas um compromisso financeiro e temporal de longo prazo. Ele demonstrou 'cura de próximo'.",
+      "temas": [
+        "Compromisso Financeiro",
+        "Generosidade",
+        "Responsabilidade Estendida"
+      ],
+      "personagens": [
+        "Samaritano",
+        "Estalajadeiro"
+      ]
     },
     "37": {
-      "parafrase": "'E que os mortos ressuscitam, o próprio Moisés o demonstrou na passagem da sarça, quando chama o Senhor de Deus de Abraão, Deus de Isaque e Deus de Jacó.'",
-      "referencias": ["Êxodo 3:6", "Mateus 22:31-32", "Marcos 12:26"],
-      "comentario": "Jesus os direciona às Escrituras para provar a doutrina da ressurreição. O fato de Deus se identificar como o Deus dos patriarcas, que já haviam morrido, prova que eles ainda vivem para Ele.",
-      "temas": ["ressurreição", "Escrituras", "prova"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus parou a história e voltou-se diretamente ao escriba, cujos olhos agora refletiam uma mistura de choque e compreensão, perguntando com uma autoridade suave, mas penetrante: 'Diga-me, na sua opinião: dos três homens que passaram por aquele viajante, qual deles agiu como um verdadeiro vizinho, como alguém que realmente ama o seu próximo?'",
+      "referencias": [
+        "Miquéias 6:8",
+        "Provérbios 3:27"
+      ],
+      "comentario": "Jesus reposiciona a questão. Não é 'Quem devo amar?' (o círculo restrito), mas 'Quem demonstrou o amor que eu ordeno?' (a ação sacrificial). O escriba é forçado a admitir que o ato de misericórdia, e não a identidade étnica ou religiosa, define o vizinho.",
+      "temas": [
+        "Definição de Amor",
+        "Ação sobre Identidade",
+        "Confronto com a Verdade"
+      ],
+      "personagens": [
+        "Jesus",
+        "Escriba"
+      ]
     },
     "38": {
-      "parafrase": "'Ora, ele não é Deus de mortos, mas de vivos; pois para ele todos vivem.'",
-      "referencias": ["Mateus 22:32", "Marcos 12:27"],
-      "comentario": "Deus é o Deus dos vivos, não dos mortos. A existência contínua dos patriarcas prova a realidade da ressurreição. Os saduceus estão em um erro grave.",
-      "temas": ["Deus dos vivos", "ressurreição", "erro"],
-      "personagens": ["Jesus"]
+      "parafrase": "O escriba, sem conseguir ignorar a evidência óbvia, respondeu com uma única palavra que significava 'Aquele que demonstrou misericórdia'. Ele não pôde sequer dizer o nome 'samaritano' devido ao preconceito cultural que ainda lhe pesava.",
+      "referencias": [
+        "Jó 29:16",
+        "Atos 11:18"
+      ],
+      "comentario": "A resposta curta ('Aquele que usou de misericórdia') é uma admissão relutante, mas honesta. O termo grego para misericórdia aqui é 'eleos', que implica pena e ação de socorro. A dificuldade do escriba em nomear o samaritano mostra o peso do preconceito que Jesus está tentando quebrar.",
+      "temas": [
+        "Admissão da Verdade",
+        "Misericórdia como Ação",
+        "Superação do Preconceito"
+      ],
+      "personagens": [
+        "Escriba"
+      ]
     },
     "39": {
-      "parafrase": "Então alguns dos escribas responderam: 'Mestre, o senhor falou bem!'",
-      "referencias": [],
-      "comentario": "Alguns escribas, que acreditavam na ressurreição, elogiam a sabedoria de Jesus em Sua resposta aos saduceus.",
-      "temas": ["elogio", "sabedoria de Jesus", "concordância"],
-      "personagens": ["Escribas"]
+      "parafrase": "Jesus então o instruiu a seguir o exemplo prático. Ele o levou a Betânia, a casa de Lázaro, onde Marta e Maria o receberam calorosamente, oferecendo-lhe hospitalidade. Ao entrarem na casa, Marta imediatamente se atarefou com os preparativos da refeição e do serviço, sendo consumida pelas obrigações domésticas.",
+      "referencias": [
+        "João 11:1",
+        "Filipenses 4:6"
+      ],
+      "comentario": "A cena muda abruptamente para um ambiente doméstico conhecido. Marta representa a preocupação excessiva com o serviço ativo e o material ('muitas coisas' ou 'diakonia' - serviço). Ela estava ocupada servindo, o que é bom, mas o foco se desviou da presença de Cristo.",
+      "temas": [
+        "Hospitalidade",
+        "Serviço vs. Contemplação",
+        "Preocupação Material"
+      ],
+      "personagens": [
+        "Jesus",
+        "Marta",
+        "Maria",
+        "Lázaro"
+      ]
     },
     "40": {
-      "parafrase": "E não ousavam mais perguntar-lhe nada.",
-      "referencias": [],
-      "comentario": "A sabedoria de Jesus os silencia, e eles não ousam mais questioná-lo, pois Ele os refutou com autoridade.",
-      "temas": ["silêncio", "autoridade de Jesus", "refutação"],
-      "personagens": []
+      "parafrase": "Em contraste total com sua irmã, Maria fez uma escolha radical: ela se sentou aos pés de Jesus, em posição de discípula atenta, e começou a absorver cada palavra que Ele falava. Ela priorizou a comunhão e o aprendizado espiritual sobre qualquer tarefa prática naquele momento.",
+      "referencias": [
+        "Deuteronômio 33:3",
+        "Colossenses 3:2"
+      ],
+      "comentario": "Maria escolhe a 'melhor parte' ('merida kalē'). Sentar-se aos pés de um mestre (uma prática rabínica) significava submissão total ao ensinamento. Ela prioriza a relação salvífica sobre a religiosidade funcional.",
+      "temas": [
+        "A Melhor Parte",
+        "Discipulado",
+        "Prioridade Espiritual"
+      ],
+      "personagens": [
+        "Maria",
+        "Jesus"
+      ]
     },
     "41": {
-      "parafrase": "Jesus lhes perguntou: 'Como podem dizer que o Messias é filho de Davi?'",
-      "referencias": ["Mateus 22:42", "Marcos 12:35"],
-      "comentario": "Jesus inverte a situação e faz uma pergunta aos escribas, desafiando seu entendimento sobre o Messias.",
-      "temas": ["pergunta de Jesus", "escribas", "desafio"],
-      "personagens": ["Jesus"]
+      "parafrase": "Marta, incomodada e talvez irritada por ter que fazer todo o trabalho sozinha, aproximou-se de Jesus, desabafando sua frustração: 'Senhor, você não se importa que minha irmã me deixe sozinha para fazer todo o trabalho? Diga a ela, por favor, que venha me ajudar!'",
+      "referencias": [
+        "Lucas 10:13",
+        "Gênesis 3:16"
+      ],
+      "comentario": "Marta usa Jesus como um árbitro para resolver um conflito familiar e de tarefas. Ela está presa ao fazer, e seu coração está agitado ('periespasmenē' - distraída, agitada por muitas coisas). Ela tenta controlar a irmã através da autoridade de Jesus.",
+      "temas": [
+        "Ansiedade",
+        "Conflito Doméstico",
+        "Distorção do Foco"
+      ],
+      "personagens": [
+        "Marta",
+        "Jesus"
+      ]
     },
     "42": {
-      "parafrase": "'Pois o próprio Davi, no livro dos Salmos, disse: Disse o Senhor ao meu Senhor: Senta-te à minha direita,'",
-      "referencias": ["Salmos 110:1", "Mateus 22:44", "Marcos 12:36"],
-      "comentario": "Jesus cita o Salmo, mostrando que Davi, inspirado pelo Espírito Santo, reconheceu o Messias como seu Senhor, não apenas como seu descendente. Isso revela a divindade do Messias.",
-      "temas": ["divindade do Messias", "Senhor de Davi", "profecia"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus olhou para Marta, com ternura, mas com a clareza de quem vê além da superfície da agitação, e respondeu: 'Marta, Marta, você está tão agitada e preocupada com tantas coisas necessárias, mas apenas uma é verdadeiramente essencial! Maria escolheu a parte que jamais lhe será tirada, pois ela escolheu a mim e a minha Palavra.'",
+      "referencias": [
+        "Mateus 6:33",
+        "Apocalipse 3:20"
+      ],
+      "comentario": "A repetição do nome ('Marta, Marta') indica afeto, mas também um apelo sério. Jesus diferencia entre as 'muitas coisas' (que são servis e importantes, mas não primordiais) e a 'única coisa necessária' (a comunhão com Ele). O que Maria escolheu é um tesouro permanente, enquanto o serviço, embora louvável, pode se tornar um fardo quando eclipsa a presença.",
+      "temas": [
+        "Prioridades",
+        "A Essência da Fé",
+        "A Presença de Cristo"
+      ],
+      "personagens": [
+        "Jesus",
+        "Marta"
+      ]
     },
     "43": {
-      "parafrase": "'até que eu ponha os teus inimigos por escabelo dos teus pés.'",
-      "referencias": [],
-      "comentario": "A profecia fala da vitória final do Messias sobre Seus inimigos, que serão subjugados a Seus pés.",
-      "temas": ["vitória do Messias", "inimigos", "subjugação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Então, Jesus se virou para a multidão que O seguia, mas Sua atenção se fixou particularmente nos seus discípulos. Ele lhes disse com uma seriedade que cortava o ar: 'Pensem bem nisto, Meus seguidores mais próximos: a maneira como vocês se relacionam com o Reino de Deus é fundamentalmente diferente da maneira como os líderes deste mundo administram seus domínios.'",
+      "referencias": [
+        "Mateus 20:25",
+        "Marcos 10:42"
+      ],
+      "comentario": "O verbo grego aqui é frequentemente 'estréphō' (virar-se), indicando uma mudança deliberada de foco de Jesus. A comparação é direta com a 'archē' (autoridade/domínio) dos 'ethnarches' (chefes das nações/povos). Jesus está estabelecendo a 'contracultura' do Reino, onde o poder não domina, mas serve. É um contraste radical com os modelos de liderança mundana.",
+      "temas": [
+        "Contraste de Reino",
+        "Liderança Servidora",
+        "Autoridade Divina"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "44": {
-      "parafrase": "'Se, pois, Davi o chama de Senhor, como pode ele ser seu filho?'",
-      "referencias": ["Mateus 22:45", "Marcos 12:37"],
-      "comentario": "A pergunta de Jesus os deixa sem resposta, pois eles não conseguem conciliar a filiação davídica do Messias com Sua divindade. A divindade de Jesus é superior à Sua linhagem humana.",
-      "temas": ["dilema", "divindade do Messias", "sabedoria de Jesus"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ele continuou, explicando a distinção: 'Entre vocês, não deve ser assim! Se alguém entre vocês tiver uma posição de destaque, esse alguém deve agir como quem serve a todos, como um servo humilde e dedicado. É a inversão total dos valores do mundo. Quem deseja ser o maior, deve, na verdade, ser o menor de todos.'",
+      "referencias": [
+        "Gálatas 5:13",
+        "Filipenses 2:7"
+      ],
+      "comentario": "A negação enfática ('mē ginomestō' - não se torne ou não seja) sublinha a proibição da mentalidade de dominação. O conceito de 'diákonos' (servo/diácono) é elevado ao padrão máximo de liderança. O paradoxo do 'maior que é o menor' é central na ética do discipulado, ecoando o serviço sacrificial de Cristo.",
+      "temas": [
+        "Serviço Humilde",
+        "Inversão de Valores",
+        "Status no Reino"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "45": {
-      "parafrase": "Enquanto todo o povo o ouvia, ele disse aos seus discípulos:",
-      "referencias": [],
-      "comentario": "Jesus se volta para Seus discípulos e para a multidão, advertindo-os sobre a hipocrisia dos escribas.",
-      "temas": ["advertência", "hipocrisia"],
-      "personagens": ["Jesus"]
+      "parafrase": "Para ilustrar este ponto, Ele fez referência a Si mesmo, pois Ele era o modelo supremo: 'Afinal, até Eu, o Filho do Homem, não vim para ser servido por vocês e ter pessoas à Minha disposição, mas sim para servir. Minha missão aqui é entregar a Minha própria vida como um resgate, um pagamento final para libertar inúmeras pessoas de sua escravidão espiritual!' ⛓️",
+      "referencias": [
+        "Isaías 53:10",
+        "Marcos 10:45"
+      ],
+      "comentario": "Este versículo é a chave da exegese lucana sobre o serviço. Jesus usa o título 'Ho Huios tou Anthrōpou' (O Filho do Homem), conectando Seu serviço à Sua missão messiânica final. O termo 'lutron' (resgate/preço de resgate) aponta diretamente para o sacrifício vicário na cruz, o ato supremo de serviço, que liberta da 'doia' (servidão/escravidão) do pecado.",
+      "temas": [
+        "Sacrifício de Cristo",
+        "Resgate",
+        "Missão de Jesus"
+      ],
+      "personagens": [
+        "Jesus",
+        "Filho do Homem"
+      ]
     },
     "46": {
-      "parafrase": "'Cuidado com os escribas, que gostam de andar com vestes longas, de receber saudações nas praças, e de ter os primeiros lugares nas sinagogas e os primeiros lugares nos banquetes;'",
-      "referencias": ["Mateus 23:5-7", "Marcos 12:38-39"],
-      "comentario": "Jesus adverte contra a hipocrisia dos escribas, que buscam a honra e o reconhecimento humano, em vez de servir a Deus. Eles buscam status e prestígio em público, revelando seu orgulho e sua ambição.",
-      "temas": ["hipocrisia", "escribas", "busca por glória humana", "orgulho"],
-      "personagens": ["Jesus"]
+      "parafrase": "Enquanto Ele explicava essas verdades profundas, eles estavam caminhando em direção a Jericó, a cidade que marcava a fronteira da jornada para a cruz. Logo depois, um cego que pedia esmolas ouviu a agitação da multidão e, ao perguntar o que estava acontecendo, disseram-lhe que Jesus de Nazaré estava passando por ali. 🚶",
+      "referencias": [
+        "Mateus 20:29",
+        "Marcos 10:46"
+      ],
+      "comentario": "O contexto geográfico é vital: a jornada para Jerusalém (a Paixão). A menção de Jericó localiza a narrativa no final do ministério público de Jesus. O cego (frequentemente identificado como Bartimeu em Marcos, mas anônimo aqui) representa a humanidade em trevas que clama por luz e que, ironicamente, percebe a verdade do Reino antes dos discípulos.",
+      "temas": [
+        "Jornada para Jerusalém",
+        "Chamado ao Reino",
+        "Cegueira Espiritual"
+      ],
+      "personagens": [
+        "Jesus",
+        "Cego Mendigo",
+        "Multidão"
+      ]
     },
     "47": {
-      "parafrase": "'que devoram as casas das viúvas e, para disfarçar, fazem longas orações. Estes receberão condenação mais severa.'",
-      "referencias": ["Mateus 23:14", "Marcos 12:40"],
-      "comentario": "Jesus denuncia a exploração dos vulneráveis pelos escribas. Eles usam a religião como um disfarce para sua ganância e opressão, o que resultará em um juízo mais severo.",
-      "temas": ["exploração", "hipocrisia", "condenação", "juízo"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ao ouvir que era Jesus, o Nazareno, o cego começou a gritar com toda a força de seus pulmões, implorando: 'Jesus, Filho de Davi! Tenha compaixão de mim! Meu Deus, socorro!' Seu clamor era desesperado e atravessava o barulho da multidão, um grito da alma que ansiava por misericórdia. 🗣️",
+      "referencias": [
+        "Salmos 6:2",
+        "Romanos 9:15"
+      ],
+      "comentario": "O cego usa o título messiânico 'Huios Dabid' (Filho de Davi), um reconhecimento teológico profundo de que Jesus é o Messias prometido. O uso repetido da súplica 'Eleison me' (Tenha misericórdia de mim) reflete a dependência total da graça divina. Ele invoca a linhagem real para exigir o cumprimento da promessa davídica através da compaixão de Cristo.",
+      "temas": [
+        "Clamor por Misericórdia",
+        "Reconhecimento Messiânico",
+        "Fé Desesperada"
+      ],
+      "personagens": [
+        "Cego Mendigo",
+        "Jesus",
+        "Filho de Davi"
+      ]
     }
   }
 }

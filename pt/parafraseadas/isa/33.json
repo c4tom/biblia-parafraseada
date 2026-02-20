@@ -1,176 +1,399 @@
 {
   "livro": "Isaías",
   "capitulo": 33,
-  "contexto_historico": "Este capítulo é uma resposta litúrgica à crise da invasão assíria. Parece ser uma mistura de lamento, oração e profecia. O povo clama a Deus por salvação diante do ataque do destruidor (Assíria). Deus responde com uma promessa de se levantar e agir. A visão então se volta para o futuro, contrastando o destino dos pecadores em Sião com a segurança dos justos, e culmina com uma visão do Rei em Sua beleza e da Sião segura e perdoada.",
-  "bloco_tematico": "Lamento, Oração e a Salvação de Sião",
+  "contexto_historico": "O capítulo 33 de Isaías é frequentemente situado durante o cerco de Jerusalém pelo exército assírio, sob o reinado do Rei Ezequias (cerca de 701 a.C.). O povo de Judá, em especial a liderança, havia confiado em alianças políticas (com o Egito) em vez de confiar totalmente em Yahweh. O profeta Isaías, atuando como porta-voz de Deus, denuncia a confiança vã e o pecado da nação, enquanto proclama a soberania e a proteção de Deus para aqueles que buscam a justiça e a retidão. Este capítulo serve como um oráculo de julgamento contra os opressores externos (Assíria) e uma promessa de restauração e paz para os fiéis dentro de Jerusalém, contrastando a segurança do justo com a destruição do ímpio. É um momento de crise militar iminente e de despertar espiritual forçado. ⚔️🛡️",
+  "bloco_tematico": "A Soberania de Yahweh: Juízo sobre os Opressores e a Paz do Fiel 👑🕊️",
   "versiculos": {
     "1": {
-      "parafrase": "Ai de você, destruidor, que não foi destruído! Ai de você, traidor, que não foi traído! Quando você terminar de destruir, será destruído; quando terminar de trair, será traído.",
-      "referencias": ["Apocalipse 13:10"],
-      "comentario": "Uma sentença contra a Assíria. O profeta declara o princípio da retribuição: o opressor, que agiu com traição e destruição, sofrerá o mesmo destino que infligiu aos outros. Seu tempo de poder é limitado.",
-      "temas": ["sentença", "retribuição", "destruidor", "traidor"],
-      "personagens": ["Assíria"]
+      "parafrase": "Escutem bem, todos vocês que estão esperando ansiosamente a vinda da justiça divina! O Soberano Senhor revela agora a sua voz, e aqueles que se mostram fiéis e fiéis às promessas ouvirão o Seu chamado de resgate, pois Ele está prestes a agir decisivamente contra a opressão.",
+      "referencias": [
+        "Salmos 85:8",
+        "Miquéias 4:1"
+      ],
+      "comentario": "O profeta inicia com um apelo à atenção ('ouvi') para um público específico: os que aguardam a intervenção divina (os fiéis). O termo hebraico para 'esperar' ou 'aguardar' aqui sugere uma expectativa ativa e vigilante. A palavra de Deus será revelada no tempo certo para aqueles que mantêm a fidelidade.",
+      "temas": [
+        "A Voz de Deus",
+        "Expectativa da Justiça",
+        "Fidelidade"
+      ],
+      "personagens": [
+        "Isaías",
+        "Os Fiéis"
+      ]
     },
     "2": {
-      "parafrase": "Ó Senhor, tem misericórdia de nós; pois em ti esperamos. Sê a nossa força a cada manhã, a nossa salvação em tempos de angústia.",
-      "referencias": ["Salmos 33:20"],
-      "comentario": "O povo de Judá clama a Deus em meio à crise. Eles expressam sua dependência e esperança em Deus, pedindo por Sua misericórdia, força diária e salvação em meio à aflição.",
-      "temas": ["oração", "misericórdia", "esperança", "salvação"],
-      "personagens": []
+      "parafrase": "Ó Yahweh, nós o buscamos com todo o nosso ser! Temos clamado por Ti com o coração ardente. Fortaleça-nos, Senhor, quando as lutas parecem intransponíveis, pois vivemos em meio a um povo que Te ignorou e se afastou do caminho da retidão.",
+      "referencias": [
+        "Jeremias 29:13",
+        "Salmos 119:10"
+      ],
+      "comentario": "Esta é uma oração modelo ou uma intercessão representativa da comunidade. O 'buscar a Ti de coração' (em hebraico: 'darash' ou procurar diligentemente) indica uma busca sincera. A menção de 'não ter guardado as tuas ordenanças' (ou 'mandamentos') estabelece o contraste entre a comunidade de fé e a nação desviada.",
+      "temas": [
+        "Oração Sincera",
+        "Arrependimento Comunitário",
+        "Obediência"
+      ],
+      "personagens": [
+        "O Povo de Deus"
+      ]
     },
     "3": {
-      "parafrase": "Ao som do teu trovão, os povos fogem; quando te levantas, as nações se dispersam.",
-      "referencias": [],
-      "comentario": "O povo expressa sua fé no poder de Deus. A simples manifestação da presença de Deus (Seu trovão) é suficiente para derrotar e dispersar os exércitos inimigos.",
-      "temas": ["poder de Deus", "derrota dos inimigos", "teofania"],
-      "personagens": ["Deus"]
+      "parafrase": "Onde estão os teus atos maravilhosos, ó Deus de Abraão? Lembrai-vos das maravilhas que fizeste no passado, dos atos poderosos que viram nossos antepassados! Pois agora, na terra de nossos pais, o povo vive em profundo estado de desolação e ruína.",
+      "referencias": [
+        "Êxodo 13:8",
+        "Salmos 78:3-4"
+      ],
+      "comentario": "Há uma invocação da memória histórica de Deus. O profeta apela para o passado patriarcal ('terra de nossos pais') como prova do poder divino. A desolação mencionada reflete a devastação causada pelo jugo estrangeiro ou a crise interna enfrentada por Judá no tempo de Isaías.",
+      "temas": [
+        "Memória da Salvação",
+        "Desolação Nacional",
+        "Poder de Deus"
+      ],
+      "personagens": [
+        "Abraão"
+      ]
     },
     "4": {
-      "parafrase": "O seu despojo, ó nações, será ajuntado como o gafanhoto ajunta; como o gafanhoto salta, os homens saltarão sobre ele.",
-      "referencias": [],
-      "comentario": "Após a derrota do exército assírio, seus despojos de guerra serão tão abundantes que o povo de Judá os recolherá com a mesma avidez com que um enxame de gafanhotos devora um campo.",
-      "temas": ["despojo de guerra", "vitória", "recompensa"],
-      "personagens": []
+      "parafrase": "Sim, nós nos curvamos diante de Ti, mas é como um corpo inerte, sem energia. Ninguém se levanta para Lhe dar o devido louvor ou falar em Seu nome com autoridade, como faziam os antigos.",
+      "referencias": [
+        "Isaías 26:18",
+        "Salmos 115:1"
+      ],
+      "comentario": "A imagem é de paralisia espiritual. O povo está 'morto' ou inerte ('sem vigor'). O clamor é pela ausência de intercessores ou porta-vozes espirituais ativos que possam defender a causa de Deus publicamente.",
+      "temas": [
+        "Inércia Espiritual",
+        "Falta de Testemunho",
+        "Intercessão"
+      ],
+      "personagens": [
+        "O Povo"
+      ]
     },
     "5": {
-      "parafrase": "O Senhor é exaltado, pois habita nas alturas; ele encherá Sião de justiça e de retidão.",
-      "referencias": ["Salmos 97:9"],
-      "comentario": "A vitória revela a exaltação e a soberania de Deus. Como resultado de Sua intervenção, Ele estabelecerá Seu reino de justiça e retidão em Sião.",
-      "temas": ["exaltação de Deus", "soberania", "justiça", "retidão"],
-      "personagens": ["Deus"]
+      "parafrase": "Ainda assim, Tu, ó Deus, atende ao nosso clamor silencioso e fervoroso. Tu nos olhas com olhos de ternura, pois és Aquele que age poderosamente para aqueles que O temem, e sabe que, apesar do nosso estado, ainda praticamos a santidade.",
+      "referencias": [
+        "Salmos 34:15",
+        "Jó 34:29"
+      ],
+      "comentario": "Contraste com o versículo 4. Deus não ignora o gemido interior. O hebraico para 'temer' (yare') indica reverência e submissão. A ação de Deus é direcionada especificamente àqueles que O servem com temor, mesmo na fraqueza aparente.",
+      "temas": [
+        "Misericórdia Divina",
+        "Temor a Deus",
+        "Ação Oculta"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "6": {
-      "parafrase": "Ele será o firme fundamento para os seus tempos, uma rica provisão de salvação, sabedoria e conhecimento; o temor do Senhor será o seu tesouro.",
-      "referencias": ["Provérbios 1:7"],
-      "comentario": "A verdadeira segurança de Judá não estará em alianças ou poder militar, mas no próprio Deus. Ele proverá estabilidade, salvação e sabedoria. O bem mais valioso e o verdadeiro tesouro da nação será a reverência e o relacionamento correto com Deus.",
-      "temas": ["segurança em Deus", "salvação", "sabedoria", "temor de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Pois a nossa terra está sob a ameaça de invasores estrangeiros, e ninguém se importa em levantar os olhos para o oriente, de onde o poder dos ídolos domina. O povo se prostrou perante o ouro e a prata, oferecendo sacrifícios inúteis aos seus próprios ídolos feitos pelas mãos humanas.",
+      "referencias": [
+        "Isaías 2:8",
+        "Oséias 8:4"
+      ],
+      "comentario": "A ameaça externa ('o oriente') refere-se frequentemente aos exércitos da Mesopotâmia ou Assíria. O povo trocou a verdadeira adoração pela idolatria materialista ('o ouro e a prata'), investindo em objetos sem vida, negligenciando a fonte da vida.",
+      "temas": [
+        "Idolatria",
+        "Ameaça Estrangeira",
+        "Materialismo"
+      ],
+      "personagens": [
+        "O Povo"
+      ]
     },
     "7": {
-      "parafrase": "Vejam, os seus heróis gritam nas ruas; os embaixadores da paz choram amargamente.",
-      "referencias": [],
-      "comentario": "A cena volta para a crise presente. Os guerreiros de Judá estão impotentes, e os diplomatas que tentaram negociar a paz com a Assíria retornam em desespero, pois seus esforços falharam.",
-      "temas": ["desespero", "falha humana", "lamento"],
-      "personagens": []
+      "parafrase": "Por isso, ó Deus, Tu nos abandonaste temporariamente, permitindo que a tristeza e o desânimo nos dominassem, pois nos cansamos de buscar a Tua presença constante e de invocar o Teu nome sagrado.",
+      "referencias": [
+        "Lamentações 3:26",
+        "Salmos 44:23"
+      ],
+      "comentario": "O abandono ('entregaste') não é definitivo, mas uma consequência da negligência humana. O pecado de não invocar o Nome de Deus (uma falta grave no contexto hebraico, pois o Nome representa a essência e o poder de Deus) justifica o afastamento temporário da Sua presença consoladora.",
+      "temas": [
+        "Consequência do Pecado",
+        "Abandono Temporário",
+        "Ocultação de Deus"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "8": {
-      "parafrase": "As estradas estão desertas, ninguém viaja pelas veredas. O tratado foi quebrado, as testemunhas são desprezadas, não se respeita ninguém.",
-      "referencias": [],
-      "comentario": "A invasão assíria paralisou a vida no país. O comércio e as viagens cessaram. A Assíria quebrou o tratado que havia feito com o rei Ezequias (que lhe pagou um pesado tributo), mostrando sua total falta de palavra e honra.",
-      "temas": ["caos", "paralisia", "traição"],
-      "personagens": []
+      "parafrase": "Contudo, meu Pai, meu clamor sincero ainda sobe aos Teus ouvidos! Ah, como clamamos por Ti, como o corpo que anseia pela água! És Tu que nos mostras o caminho da vida e da redenção, ó Luz de Israel!",
+      "referencias": [
+        "Isaías 42:16",
+        "Salmos 42:1-2"
+      ],
+      "comentario": "O contraste retorna. 'Meu Pai' (Abbá) expressa uma intimidade profunda. A comparação com o corpo sedento ('como o animal no deserto') enfatiza a urgência vital da busca por Deus. Deus é a fonte da orientação ('luz').",
+      "temas": [
+        "Intimidade com Deus",
+        "Sede Espiritual",
+        "Guia Divino"
+      ],
+      "personagens": [
+        "O Profeta",
+        "Deus"
+      ]
     },
     "9": {
-      "parafrase": "A terra pranteia e definha; o Líbano está envergonhado e murcha; Sarom é como o deserto, e Basã e Carmelo perdem a sua folhagem.",
-      "referencias": [],
-      "comentario": "A devastação afeta toda a terra, das planícies férteis (Sarom) às montanhas gloriosas (Líbano, Carmelo). A natureza inteira lamenta a invasão.",
-      "temas": ["lamento da terra", "devastação", "juízo"],
-      "personagens": []
+      "parafrase": "Por que, Senhor, pareces tão distante, como um estranho que passa rapidamente, como um viajante que pernoita e segue adiante? Por que nos deixas mergulhados em nossa própria confusão e sofrimento?",
+      "referencias": [
+        "Salmos 10:1",
+        "Jeremias 14:8"
+      ],
+      "comentario": "São perguntas retóricas de angústia. Deus é comparado a um transeunte ('um forasteiro') ou um 'viajante' que não se demora. Isso expressa a sensação de abandono e a falta da presença reconfortante de Deus no meio da tribulação.",
+      "temas": [
+        "Sensação de Abandono",
+        "Aflição",
+        "Aproximação de Deus"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "10": {
-      "parafrase": "'Agora me levantarei', diz o Senhor. 'Agora serei exaltado; agora me erguerei.'",
-      "referencias": ["Salmos 12:5"],
-      "comentario": "No momento de maior desespero, Deus anuncia Sua intervenção. A repetição tripla ('Agora...') enfatiza a iminência e a certeza de Sua ação. Ele se levantará para defender Seu nome e Seu povo.",
-      "temas": ["intervenção divina", "exaltação de Deus", "salvação"],
-      "personagens": ["Deus"]
+      "parafrase": "Tu és Aquele que nos viu nascer e nos sustenta, mas por que agora Te escondes de nós? Por que nos deixas perecer, quando necessitamos desesperadamente da Tua intervenção para nos livrar dos nossos inimigos?",
+      "referencias": [
+        "Salmos 71:6",
+        "Jó 13:24"
+      ],
+      "comentario": "A acusação é baseada no relacionamento de criação e providência ('nos criaste'). O esconderijo divino ('Tu te escondes de nós') é visto como um ato deliberado, intensificando o senso de desamparo diante da opressão externa e interna.",
+      "temas": [
+        "Providência Divina",
+        "Mistério da Ocultação",
+        "Desamparo"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "11": {
-      "parafrase": "'Vocês concebem palha e dão à luz restolho; o seu sopro é um fogo que os consome.'",
-      "referencias": [],
-      "comentario": "Deus se dirige aos assírios. Seus planos e esforços são inúteis como palha. Sua própria fúria e orgulho ('seu sopro') se tornarão o fogo que os destruirá. Eles são autodestrutivos.",
-      "temas": ["futilidade do mal", "autodestruição", "juízo"],
-      "personagens": ["Deus"]
+      "parafrase": "Contudo, nós sabemos quem Tu és! Tu és o nosso Pai, o nosso Redentor, o nome pelo qual sempre Te invocamos desde tempos imemoriais! Por que então, ó Senhor, nos abandonaste neste momento de grande necessidade?",
+      "referencias": [
+        "Deuteronômio 32:6",
+        "Malaquias 3:7"
+      ],
+      "comentario": "Reforço da identidade de Deus como Criador e Redentor ('nosso Redentor', ou 'Góel' em hebraico, o parente resgatador). A repetição da pergunta sobre o abandono ('por que nos deixaste?') sublinha a tensão entre a crença na fidelidade de Deus e a realidade da provação.",
+      "temas": [
+        "Identidade de Deus",
+        "Redenção",
+        "Testemunho da Fé"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "12": {
-      "parafrase": "'E os povos serão como os fornos de cal, como espinheiros cortados que são queimados no fogo.'",
-      "referencias": [],
-      "comentario": "As nações inimigas serão completamente consumidas pelo fogo do juízo de Deus, de forma rápida e total.",
-      "temas": ["destruição total", "juízo pelo fogo"],
-      "personagens": ["Deus"]
+      "parafrase": "Ó Yahweh, olha agora para nós! Levanta-Te e age! Livra-nos rapidamente, pois tudo o que possuímos, tudo o que é nosso, já foi roubado pelos nossos opressores!",
+      "referencias": [
+        "Salmos 44:26",
+        "Salmos 7:6"
+      ],
+      "comentario": "O clímax do apelo. O verbo 'Levanta-te' (ou 'Levante-se') é um chamado para a ação militar/judicial de Deus. O povo reconhece a perda total de suas posses ('as tuas coisas' ou 'a tua herança'), indicando que a calamidade atingiu o cerne da sua existência terrena.",
+      "temas": [
+        "Intervenção Imediata",
+        "Restauração de Bens",
+        "Julgamento Divino"
+      ],
+      "personagens": [
+        "Yahweh"
+      ]
     },
     "13": {
-      "parafrase": "Ouçam, vocês que estão longe, o que eu fiz; e vocês que estão perto, reconheçam o meu poder.",
-      "referencias": [],
-      "comentario": "Deus conclama o mundo inteiro, tanto as nações distantes quanto as vizinhas, a testemunharem Seu ato de salvação e a reconhecerem Seu poder soberano.",
-      "temas": ["testemunho universal", "poder de Deus", "reconhecimento"],
-      "personagens": ["Deus"]
+      "parafrase": "Ouçam agora, vocês que estão distantes, vocês que vivem em terras estranhas e distantes! Que importância tem o que acontece aqui para vocês? Vocês que nunca viram o esplendor da glória de Deus, prestem atenção à voz do Profeta, pois uma tragédia terrível está chegando para aqueles que vivem em segurança, achando que estão blindados contra o destino.",
+      "referencias": [
+        "Isaías 24:16",
+        "Romanos 11:25"
+      ],
+      "comentario": "O profeta se dirige aos gentios ou aos povos distantes (aqui possivelmente o exílio babilônico ou nações vizinhas). O v. 13 estabelece um contraste dramático: enquanto a nação infiel de Judá será julgada, os que estão longe serão convidados a testemunhar. A expressão 'terra de longe' sugere um lugar onde a luz divina não brilhou plenamente. O julgamento iminente é tão grandioso que até os distantes devem parar para observar.",
+      "temas": [
+        "Julgamento Universal",
+        "Testemunho",
+        "Isolamento Espiritual"
+      ],
+      "personagens": [
+        "Povo Distante",
+        "Profeta"
+      ]
     },
     "14": {
-      "parafrase": "Os pecadores em Sião estão apavorados; o tremor se apodera dos ímpios: 'Quem de nós pode habitar com o fogo consumidor? Quem de nós pode habitar com as chamas eternas?'",
-      "referencias": ["Hebreus 12:29"],
-      "comentario": "A manifestação do poder de Deus, que salva os justos, aterroriza os pecadores dentro do próprio povo de Deus. Eles percebem que o Deus que destrói a Assíria é um fogo consumidor, e se perguntam como alguém pode sobreviver em Sua santa presença.",
-      "temas": ["medo dos pecadores", "fogo consumidor", "santidade de Deus"],
-      "personagens": []
+      "parafrase": "Os pecadores em Sião, aqueles que se voltaram de Deus, estão tomados por um pavor gélido! Até os hipócritas, aqueles que fingiam devoção, sentem o tremor da destruição. Eles perguntam, assustados: 'Quem de nós pode suportar este fogo consumidor? Quem pode viver com este calor eterno que devora tudo?' 😨",
+      "referencias": [
+        "Isaías 29:6",
+        "Apocalipse 6:17"
+      ],
+      "comentario": "Aqui, o foco retorna a Sião (Jerusalém/Judá). 'Os pecadores em Sião' são os infiéis dentro da comunidade da aliança. O 'fogo consumidor' (Heb. 'oekhal') é uma metáfora para o juízo divino implacável, prenunciando o castigo que purificará ou destruirá. A pergunta retórica expressa o pânico diante da soberania de Deus.",
+      "temas": [
+        "Destruição Iminente",
+        "Julgamento Interno",
+        "Fogo Divino"
+      ],
+      "personagens": [
+        "Pecadores de Sião",
+        "Hipócritas"
+      ]
     },
     "15": {
-      "parafrase": "Aquele que anda em justiça e fala o que é reto, que rejeita o ganho da extorsão, que com a mão recusa o suborno, que tapa os ouvidos para não ouvir de derramamento de sangue e fecha os olhos para não ver o mal.",
-      "referencias": ["Salmos 15:1-5", "Salmos 24:3-4"],
-      "comentario": "A resposta à pergunta anterior. Aquele que pode habitar com Deus é a pessoa de caráter justo, que vive uma vida de integridade, rejeitando a injustiça, a violência e a corrupção.",
-      "temas": ["justiça", "retidão", "integridade", "caráter do justo"],
-      "personagens": []
+      "parafrase": "Para responder a esse terror, Deus estabelece os critérios de quem poderá sobreviver a este cataclismo. Somente aquele que vive com retidão imaculada, que age com justiça inabalável, e que se recusa a participar de práticas enganosas, este terá uma chance. Aquele que rejeita o ganho fácil obtido pela trapaça e que desvia a mão de aceitar subornos para não distorcer a verdade, este permanecerá.",
+      "referencias": [
+        "Salmos 15:1-2",
+        "Miquéias 6:11"
+      ],
+      "comentario": "Este versículo introduz o contraste entre os condenados e os que serão salvos (os 'remanescentes'). O padrão de sobrevivência é ético e prático: andar com justiça ('tsedaqah') e falar a verdade ('emet'). A recusa em aceitar suborno ('b’tza’) aponta para a integridade na administração da justiça, um tema recorrente em Isaías.",
+      "temas": [
+        "Integridade Moral",
+        "Justiça",
+        "Critérios de Salvação"
+      ],
+      "personagens": [
+        "O Justo",
+        "O Enganador"
+      ]
     },
     "16": {
-      "parafrase": "Este é o que habitará nas alturas; as fortalezas das rochas serão o seu alto refúgio. O seu pão lhe será dado, e a sua água será garantida.",
-      "referencias": ["Salmos 91:1-2"],
-      "comentario": "A pessoa justa encontrará segurança perfeita em Deus (seu refúgio nas alturas) e terá todas as suas necessidades supridas por Ele. Sua provisão é certa.",
-      "temas": ["segurança do justo", "refúgio em Deus", "provisão divina"],
-      "personagens": []
+      "parafrase": "E mais: este homem justo é aquele que recusa o caminho da ganância, que olha para o luxo e o poder com desdém, e que se afasta deliberadamente de qualquer conspiração para obter riquezas ilícitas. Ele não se importa com as promessas vazias de prosperidade obtida pelo erro.",
+      "referencias": [
+        "Mateus 6:19-21",
+        "1 Timóteo 6:10"
+      ],
+      "comentario": "Este versículo detalha a rejeição à avareza e ao materialismo desenfreado. O verbo hebraico para 'desviar o olhar' (Heb. 'yabitu') implica uma decisão consciente de não cobiçar. Ele rejeita a ilusão de segurança material, preferindo confiar em princípios eternos.",
+      "temas": [
+        "Rejeição à Avareza",
+        "Desprendimento Material",
+        "Fidelidade"
+      ],
+      "personagens": [
+        "O Homem Íntegro"
+      ]
     },
     "17": {
-      "parafrase": "Seus olhos verão o Rei em sua beleza; contemplarão uma terra que se estende ao longe.",
-      "referencias": ["Apocalipse 22:4"],
-      "comentario": "A recompensa final para os justos é a comunhão com Deus. Eles verão o Rei messiânico em toda a sua glória e herdarão um reino vasto e seguro.",
-      "temas": ["visão do Rei", "recompensa dos justos", "reino eterno"],
-      "personagens": ["Rei (Messias)"]
+      "parafrase": "Mas o lugar onde ele habitará não será entre os ricos ou poderosos desta terra! Seus olhos verão, em contraste, a majestade do Rei em todo o Seu esplendor e glória. Sua morada segura estará na visão da realeza divina, não na segurança mundana. 👑",
+      "referencias": [
+        "Salmos 27:4",
+        "João 14:2-3"
+      ],
+      "comentario": "Aqui, a recompensa é transcendental. O justo não buscará segurança política ou econômica, mas sim a comunhão com Deus (o 'Rei'). 'Verão o Rei em Sua formosura' (ou glória) é a visão beatífica, a satisfação espiritual suprema, o oposto do medo do fogo do v. 14.",
+      "temas": [
+        "Recompensa Espiritual",
+        "Visão de Deus",
+        "Segurança Eterna"
+      ],
+      "personagens": [
+        "O Rei (Deus)",
+        "O Justo"
+      ]
     },
     "18": {
-      "parafrase": "Em seu coração você meditará sobre o terror passado: 'Onde está o escrivão? Onde está o que pesava o tributo? Onde está o que contava as torres?'",
-      "referencias": [],
-      "comentario": "No futuro de paz, o povo se lembrará do terror da opressão assíria como algo distante. Os oficiais inimigos que registravam o povo, coletavam impostos e planejavam o cerco terão desaparecido completamente.",
-      "temas": ["memória do passado", "paz", "fim da opressão"],
-      "personagens": []
+      "parafrase": "A mente do homem justo nunca mais será assombrada pela memória do perigo; ele não precisará mais se preocupar com os inimigos que hoje o ameaçam. Ele não dará ouvidos aos sussurros de esquemas malignos que circulam pela cidade.",
+      "referencias": [
+        "Salmos 112:7-8",
+        "Filipenses 4:6-7"
+      ],
+      "comentario": "O medo ('terrores') é substituído pela paz. A memória do perigo desaparece porque a fonte da verdadeira segurança foi encontrada. O justificado está imune às 'tramas' ou 'conspirações' (referência à intriga política ou social), pois sua lealdade é superior.",
+      "temas": [
+        "Paz Interior",
+        "Imunidade ao Medo",
+        "Memória Redimida"
+      ],
+      "personagens": [
+        "O Justo"
+      ]
     },
     "19": {
-      "parafrase": "Você não verá mais aquele povo arrogante, aquele povo de fala obscura, que não se pode entender, de língua estranha e incompreensível.",
-      "referencias": ["Deuteronômio 28:49-50"],
-      "comentario": "O povo opressor, com sua língua estrangeira e intimidadora, não será mais visto na terra.",
-      "temas": ["libertação", "fim do inimigo"],
-      "personagens": []
+      "parafrase": "O povo que oprime os outros verá com os próprios olhos a realidade de Deus; eles olharão fixamente para o lugar onde os opressores de Sião se reuniam, mas não verão mais nada, apenas a evidência do juízo passado. Eles se perguntarão: 'Onde está o tirano que fazia seus relatórios e contava seus tesouros?' Tudo terá desaparecido. 💨",
+      "referencias": [
+        "Isaías 17:14",
+        "Lucas 21:24"
+      ],
+      "comentario": "Os opressores serão varridos. A ideia de que eles 'olharão' é enfática. Eles verão o vazio onde antes havia poder. O 'homem que fazia relatórios' (ou aquele que mediava o imposto, ou o escriba/contador) simboliza toda a estrutura burocrática da opressão que será desfeita.",
+      "temas": [
+        "Destruição dos Opressores",
+        "Vazio de Poder",
+        "Julgamento Visível"
+      ],
+      "personagens": [
+        "Oprimidos",
+        "Opressores"
+      ]
     },
     "20": {
-      "parafrase": "Olhe para Sião, a cidade das nossas festas! Seus olhos verão Jerusalém, uma habitação tranquila, uma tenda que não será removida; as suas estacas nunca serão arrancadas, nem nenhuma de suas cordas será rompida.",
-      "referencias": ["Isaías 54:2"],
-      "comentario": "Em contraste com a destruição dos inimigos, Sião será um lugar de estabilidade e permanência. Como uma tenda firmemente fixada, ela será uma morada segura e eterna para o povo de Deus.",
-      "temas": ["Sião eterna", "segurança", "permanência", "paz"],
-      "personagens": []
+      "parafrase": "Mas olhem para nós, que somos o remanescente fiel! Onde está o lugar de adoração que nos foi prometido? Não precisaremos mais correr desesperadamente para os santuários improvisados em meio à crise. Teremos a nossa própria morada segura.",
+      "referencias": [
+        "Salmos 23:6",
+        "Hebreus 11:10"
+      ],
+      "comentario": "O profeta muda a perspectiva para o grupo fiel ('nós'). Em tempos de desolação (como a futura destruição de Jerusalém), o povo de Deus geralmente precisava se refugiar em locais ocultos ou temporários. Aqui, é prometida uma estabilidade permanente e segura, contrastando com a insegurança dos ímpios.",
+      "temas": [
+        "Remanescente Fiel",
+        "Segurança Pactual",
+        "Refúgio Permanente"
+      ],
+      "personagens": [
+        "Remanescente Fiel"
+      ]
     },
     "21": {
-      "parafrase": "Pois ali o Senhor, em sua majestade, será para nós um lugar de rios largos e de correntes espaçosas, pelo qual não passará navio de remo, nem grande embarcação o atravessará.",
-      "referencias": ["Ezequiel 47:1-12"],
-      "comentario": "Jerusalém não tinha um rio navegável, o que era uma desvantagem militar e comercial. No futuro, o próprio Senhor será como um grande rio protetor para a cidade, uma barreira intransponível para os navios de guerra inimigos.",
-      "temas": ["Deus como protetor", "rio divino", "segurança"],
-      "personagens": ["Deus"]
+      "parafrase": "Nossos olhos verão Jerusalém, a Cidade Santa, mas ela não será mais um centro de perigo e pecado, mas sim um lugar de paz e tranquilidade. Ela se tornará como uma tenda que não será desarmada; nenhuma de suas estacas será arrancada, e nenhuma de suas cordas será quebrada. Sua fundação será firme como pedra.",
+      "referencias": [
+        "Isaías 2:2-4",
+        "Apocalipse 21:2"
+      ],
+      "comentario": "Esta é uma visão escatológica ou messiânica da cidade restaurada. As metáforas da tenda ('oeket') e suas partes (estacas/cordas) enfatizam a estabilidade e a permanência inabalável do novo reino ou da nova comunidade de fé. Não será mais um acampamento temporário, mas uma fortaleza duradoura.",
+      "temas": [
+        "Restauração de Sião",
+        "Estabilidade",
+        "Permanência da Aliança"
+      ],
+      "personagens": [
+        "Jerusalém (A Cidade)"
+      ]
     },
     "22": {
-      "parafrase": "Pois o Senhor é o nosso juiz, o Senhor é o nosso legislador, o Senhor é o nosso rei; é ele que nos salvará.",
-      "referencias": ["Tiago 4:12"],
-      "comentario": "Uma declaração fundamental da teocracia. Deus cumpre todas as funções do governo: Ele é o Juiz, o Legislador e o Rei. Como Ele detém todo o poder, Ele é o único capaz de salvar Seu povo.",
-      "temas": ["teocracia", "soberania de Deus", "salvação"],
-      "personagens": ["Deus"]
+      "parafrase": "Pois é o Senhor, nosso Juiz supremo, quem se torna nosso Legislador e nosso Rei. Ele é Quem estabelece as regras e Quem garante a ordem. Ele é Quem nos salvará. É Ele quem nos mantém firmes em meio à tempestade. 🛡️",
+      "referencias": [
+        "Miquéias 4:3",
+        "Tiago 4:12"
+      ],
+      "comentario": "Este versículo resume a soberania tripartida de Deus sobre o remanescente: Ele é Juiz (relação com o passado e o pecado), Legislador (relação com o presente e a lei) e Rei (relação com o futuro e a autoridade). O termo 'nosso Salvador' (Heb. 'moshi'enu') é crucial, pois liga a justiça terrena à redenção final.",
+      "temas": [
+        "Soberania de Deus",
+        "Justiça Divina",
+        "Salvação"
+      ],
+      "personagens": [
+        "O Senhor (Deus)"
+      ]
     },
     "23": {
-      "parafrase": "As suas cordas estão frouxas; não firmam o mastro, nem desfraldam a vela. Então, se repartirá um grande despojo, e até os coxos levarão a sua parte.",
-      "referencias": [],
-      "comentario": "O navio inimigo (Assíria) está naufragado e indefeso. Seus despojos serão tão abundantes e a vitória, tão completa, que até os mais fracos (os coxos) poderão participar do saque.",
-      "temas": ["derrota do inimigo", "despojo", "vitória para os fracos"],
-      "personagens": []
+      "parafrase": "Quando a tempestade de julgamento passar, os tesouros espirituais serão abundantemente concedidos àqueles que foram fiéis. As riquezas que o remanescente obterá serão muitas, e o despojo da vitória sobre o mal será grande e glorioso. Vocês compartilharão de uma prosperidade que não se compara aos tesouros roubados dos ímpios. 💰",
+      "referencias": [
+        "Salmos 68:12",
+        "Apocalipse 21:24"
+      ],
+      "comentario": "Este é um clássico paralelo bíblico: o despojo dos ímpios torna-se a riqueza dos justos. O 'despojo' (Heb. 'shalal') frequentemente se refere aos despojos de guerra. Aqui, o despojo é moral e espiritual, simbolizando a recompensa abundante que aguarda aqueles que perseveraram durante o tempo de aflição (o julgamento dos vizinhos).",
+      "temas": [
+        "Recompensa Abundante",
+        "Vitória",
+        "Prosperidade Espiritual"
+      ],
+      "personagens": [
+        "O Remanescente"
+      ]
     },
     "24": {
-      "parafrase": "E nenhum habitante dirá: 'Estou doente.' E o povo que nela habita terá a sua iniquidade perdoada.",
-      "referencias": ["Jeremias 31:34"],
-      "comentario": "A salvação final inclui a cura física e o perdão espiritual. A ausência de doença e o perdão dos pecados são as características da Sião restaurada, onde a comunhão com Deus é completa.",
-      "temas": ["cura", "perdão dos pecados", "salvação completa", "shalom"],
-      "personagens": []
+      "parafrase": "E o habitante de Sião, aquele que ficou, que não se deixou corromper, não terá mais motivo para se queixar de doença ou sofrimento. O erro (ou a iniquidade) que residia naquela terra terá sido completamente apagado e perdoado. Ninguém mais dirá: 'Eu estou doente, eu falhei.' Pois o perdão de Deus terá curado a própria fundação da nação. 🙏",
+      "referencias": [
+        "Salmos 103:3",
+        "Apocalipse 21:4"
+      ],
+      "comentario": "Conclusão poderosa: o julgamento não visa apenas a destruição, mas a erradicação final da causa do sofrimento. O termo 'erro/iniquidade' (Heb. 'avon') aqui se refere à culpa carregada. A cura mencionada não é apenas física, mas a cura total da relação entre Deus e seu povo, simbolizada pela ausência de queixas sobre doença (que era frequentemente associada ao pecado).",
+      "temas": [
+        "Perdão Total",
+        "Restauração da Saúde",
+        "Fim da Queixa"
+      ],
+      "personagens": [
+        "O Habitante de Sião"
+      ]
     }
   }
 }

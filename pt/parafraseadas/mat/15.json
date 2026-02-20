@@ -1,281 +1,665 @@
 {
   "livro": "Mateus",
   "capitulo": 15,
-  "contexto_historico": "Este capítulo continua a série de confrontos de Jesus com os fariseus e escribas, destacando a hipocrisia deles em valorizar as tradições humanas acima dos mandamentos de Deus. Jesus ensina sobre a verdadeira impureza, que vem do coração, e não de rituais externos. Ele também realiza milagres de cura para gentios, demonstrando que Sua salvação se estende além das fronteiras de Israel, e alimenta uma grande multidão novamente.",
-  "bloco_tematico": "Tradições Humanas vs. Mandamentos de Deus e a Fé Gentia",
+  "contexto_historico": "",
+  "bloco_tematico": "",
   "versiculos": {
     "1": {
-      "parafrase": "Então alguns fariseus e escribas de Jerusalém vieram a Jesus e perguntaram:",
-      "referencias": ["Marcos 7:1"],
-      "comentario": "Os fariseus e escribas, líderes religiosos de Jerusalém, vêm de longe para confrontar Jesus, indicando a crescente oposição à Sua autoridade e ensino.",
-      "temas": ["fariseus", "escribas", "oposição", "confronto"],
-      "personagens": ["Fariseus", "Escribas", "Jesus"]
+      "parafrase": "Certo dia, um grupo de fariseus e alguns mestres da Lei, vindos da região de Jerusalém, aproximaram-se de Jesus, trazendo consigo uma pergunta carregada de intenção. Eles estavam observando atentamente, prontos para encontrar uma falha ou um deslize em Seus ensinamentos e práticas.",
+      "referencias": [
+        "Marcos 7:1",
+        "Lucas 5:17"
+      ],
+      "comentario": "A chegada dos fariseus e escribas de Jerusalém estabelece imediatamente um tom de confronto teológico. Eles não vieram para aprender, mas para fiscalizar ('examinar' - Gr. *anakrinō*), indicando que Jesus estava sendo julgado sob os padrões estritos da tradição oral judaica, não apenas pela Torá escrita.",
+      "temas": [
+        "Conflito religioso",
+        "Hipocrisia",
+        "Tradição oral"
+      ],
+      "personagens": [
+        "Fariseus",
+        "Mestres da Lei",
+        "Jesus"
+      ]
     },
     "2": {
-      "parafrase": "'Por que os seus discípulos transgridem a tradição dos anciãos? Pois não lavam as mãos quando comem pão.'",
-      "referencias": [],
-      "comentario": "A acusação deles não é sobre a Lei de Deus, mas sobre uma tradição humana (lavar as mãos ritualisticamente) que eles consideravam tão importante quanto a Lei.",
-      "temas": ["tradição humana", "transgressão", "legalismo", "hipocrisia"],
-      "personagens": []
+      "parafrase": "Eles perguntaram: 'Mestre, por que os seus discípulos desobedecem às antigas tradições? Vimos que eles não lavam as mãos da maneira correta antes de comer, um ritual essencial para nós!'",
+      "referencias": [
+        "Gênesis 49:1",
+        "Deuteronômio 32:7"
+      ],
+      "comentario": "O cerne da acusação não é a higiene, mas a violação das regras de pureza ritualística (*taharah*). Os fariseus davam um peso enorme à tradição dos anciãos (a base do Talmud posterior), que incluía lavagens rituais complexas, ignorando a pureza do coração.",
+      "temas": [
+        "Pureza ritual",
+        "Tradição dos anciãos",
+        "Obediência exterior"
+      ],
+      "personagens": [
+        "Fariseus",
+        "Discípulos de Jesus"
+      ]
     },
     "3": {
-      "parafrase": "Ele lhes respondeu: 'E por que vocês transgridem o mandamento de Deus por causa da sua tradição?'",
-      "referencias": [],
-      "comentario": "Jesus inverte a acusação, mostrando que eles são os verdadeiros transgressores, pois sua tradição anula o mandamento de Deus. Ele expõe a hipocrisia deles.",
-      "temas": ["hipocrisia", "mandamento de Deus", "tradição humana", "inversão"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus, percebendo a armadilha e a motivação deles, respondeu com uma pergunta desafiadora: 'E por que vocês insistem em ignorar o mandamento direto de Deus, tudo isso para proteger os seus próprios costumes estabelecidos?'",
+      "referencias": [
+        "Isaías 29:13",
+        "Colossenses 2:8"
+      ],
+      "comentario": "A resposta de Jesus expõe a inversão de valores: eles priorizavam a tradição humana (o 'costume dos anciãos') sobre a Lei divina. O verbo 'anulais' (*atheteite*) sugere que eles tornavam ineficaz o mandamento de Deus ao sobrepô-lo com regras humanas.",
+      "temas": [
+        "A Lei de Deus versus tradição humana",
+        "Hipocrisia religiosa",
+        "Autoridade de Cristo"
+      ],
+      "personagens": [
+        "Jesus",
+        "Fariseus"
+      ]
     },
     "4": {
-      "parafrase": "'Pois Deus disse: Honre seu pai e sua mãe; e: Quem amaldiçoar o pai ou a mãe, seja punido com a morte.'",
-      "referencias": ["Êxodo 20:12", "Êxodo 21:17"],
-      "comentario": "Jesus cita o mandamento de Deus sobre honrar os pais, que é um mandamento fundamental da Lei.",
-      "temas": ["mandamento", "honra aos pais", "Lei de Deus"],
-      "personagens": ["Jesus"]
+      "parafrase": "Pois Deus mesmo ordenou: 'Honre seu pai e sua mãe.' E Ele ainda acrescentou uma advertência séria: 'Quem amaldiçoar o pai ou a mãe, certamente morrerá.'",
+      "referencias": [
+        "Êxodo 20:12",
+        "Êxodo 21:17",
+        "Deuteronômio 5:16"
+      ],
+      "comentario": "Jesus cita o Quinto Mandamento (Êxodo 20:12), um dos pilares da moralidade mosaica, reforçando que a honra parental era uma lei divina inegociável.",
+      "temas": [
+        "Honra aos pais",
+        "Mandamentos divinos",
+        "A Lei"
+      ],
+      "personagens": [
+        "Deus",
+        "Pais"
+      ]
     },
     "5": {
-      "parafrase": "'Mas vocês dizem: Se alguém disser ao pai ou à mãe: Aquilo que eu poderia usar para ajudá-lo é uma oferta dedicada a Deus (Corbã),'",
-      "referencias": ["Marcos 7:11"],
-      "comentario": "Os fariseus tinham uma tradição (Corbã) que permitia a uma pessoa dedicar seus bens a Deus, evitando assim a responsabilidade de sustentar seus pais. Isso era uma forma de anular o mandamento de Deus por causa de uma tradição humana.",
-      "temas": ["tradição humana", "Corbã", "anulação do mandamento", "hipocrisia"],
-      "personagens": ["Jesus"]
+      "parafrase": "Contudo, vocês ensinam que, se alguém declarar que o dinheiro ou os bens que deveria usar para sustentar seus pais está dedicado a Deus, sob o termo 'Corbã' (oferta consagrada), então ele está isento de qualquer obrigação de cuidar deles.",
+      "referencias": [
+        "Levítico 1:2",
+        "Números 30:2"
+      ],
+      "comentario": "Aqui está o cerne da doutrina condenada: o 'Corbã'. Esta era uma prática onde alguém declarava algo como 'consagrado a Deus' (o termo grego *Korban* vem do aramaico *Qorban*, 'oferenda'), essencialmente um voto que impedia o uso desse bem para qualquer outro propósito, inclusive o sustento dos pais, mesmo que os pais estivessem necessitados.",
+      "temas": [
+        "Votos religiosos",
+        "Doutrinas humanas",
+        "Corbã"
+      ],
+      "personagens": [
+        "Fariseus"
+      ]
     },
     "6": {
-      "parafrase": "'ele não precisa mais honrar seu pai ou sua mãe. Assim, vocês anulam a palavra de Deus por causa da sua tradição.'",
-      "referencias": [],
-      "comentario": "Jesus conclui Sua repreensão, mostrando que a tradição deles, embora pareça piedosa, na verdade desobedece a Deus e anula Sua palavra. A prioridade das tradições humanas sobre os mandamentos divinos é um pecado grave.",
-      "temas": ["anulação da palavra de Deus", "tradição humana", "hipocrisia"],
-      "personagens": ["Jesus"]
+      "parafrase": "Dessa forma, vocês usam essa doutrina para invalidar completamente a Palavra de Deus, tornando-a sem efeito por causa dessa tradição que vocês mesmos criaram! E vocês fazem isso repetidamente, em muitas outras ocasiões.",
+      "referencias": [
+        "Tiago 2:8",
+        "Romanos 3:31"
+      ],
+      "comentario": "O resultado prático dessa doutrina era a anulação do mandamento de honrar os pais. Jesus acusa-os de 'invalidar' (*aktēreō*) a Palavra de Deus, mostrando que suas regras criadas pelo homem eram mais fortes para eles do que o decreto divino.",
+      "temas": [
+        "Anulação da Palavra",
+        "Falsa piedade",
+        "Julgamento"
+      ],
+      "personagens": [
+        "Jesus",
+        "Fariseus"
+      ]
     },
     "7": {
-      "parafrase": "'Hipócritas! Bem profetizou Isaías a respeito de vocês, dizendo:'",
-      "referencias": [],
-      "comentario": "Jesus os chama de hipócritas e cita a profecia de Isaías, mostrando que a atitude deles não é nova, mas já havia sido denunciada por Deus no passado.",
-      "temas": ["hipocrisia", "cumprimento da profecia", "repreensão"],
-      "personagens": ["Jesus"]
+      "parafrase": "Hipócritas! Isaías previu o que aconteceria com vocês há muito tempo. Ele escreveu profeticamente, referindo-se ao povo de sua época, mas descrevendo perfeitamente a sua situação atual:",
+      "referencias": [
+        "Isaías 29:13",
+        "Jeremias 8:8"
+      ],
+      "comentario": "O termo 'Hipócritas' (*Hypocritai*) era um termo teatral, significando 'atores' ou 'mascarados'. Jesus os acusa de desempenhar um papel de piedade enquanto seu coração estava longe de Deus. A citação de Isaías 29:13 é direta e poderosa.",
+      "temas": [
+        "Hipocrisia",
+        "Profecia",
+        "Ato de fé"
+      ],
+      "personagens": [
+        "Isaías",
+        "Jesus"
+      ]
     },
     "8": {
-      "parafrase": "'Este povo se aproxima de mim com a boca e me honra com os lábios, mas o seu coração está longe de mim.'",
-      "referencias": ["Isaías 29:13"],
-      "comentario": "A citação de Isaías expõe a superficialidade da adoração deles. Sua religião é externa e formal, mas seus corações estão distantes de Deus. A falta de sinceridade é o cerne de sua hipocrisia.",
-      "temas": ["adoração superficial", "coração distante", "hipocrisia"],
-      "personagens": ["Jesus"]
+      "parafrase": "'Este povo me honra com os lábios, com palavras bonitas e reverências superficiais, mas seus corações estão muito distantes de mim.'",
+      "referencias": [
+        "Salmos 29:2",
+        "Apocalipse 3:20"
+      ],
+      "comentario": "A honra externa (o ritual de lavar as mãos, as orações públicas) não alcança o verdadeiro alvo: o coração. Esta é a essência da adoração fútil.",
+      "temas": [
+        "Adoração de lábios",
+        "Sinceridade",
+        "Distância de Deus"
+      ],
+      "personagens": [
+        "Povo",
+        "Deus"
+      ]
     },
     "9": {
-      "parafrase": "'Em vão me adoram, ensinando doutrinas que são preceitos de homens.'",
-      "referencias": [],
-      "comentario": "A adoração deles é inútil porque é baseada em regras e tradições humanas, não na verdade e na vontade de Deus. A doutrina deles é falsa.",
-      "temas": ["adoração vã", "doutrinas humanas", "falsa adoração"],
-      "personagens": ["Jesus"]
+      "parafrase": "'Pois de nada adianta me adorarem, se os ensinamentos que transmitem e impõem às pessoas são apenas regras e costumes inventados pela própria humanidade.'",
+      "referencias": [
+        "Gálatas 1:10",
+        "Efésios 2:3"
+      ],
+      "comentario": "Jesus reafirma o princípio: o ensino humano, quando elevado ao nível de mandamento divino, torna a adoração vã (*mataios* - fútil, sem propósito).",
+      "temas": [
+        "Ensino humano",
+        "Adoração vã",
+        "Regras vazias"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "10": {
-      "parafrase": "Chamando a multidão para junto de si, disse: 'Ouçam e entendam:'",
-      "referencias": ["Marcos 7:14"],
-      "comentario": "Jesus se volta para a multidão, ensinando-lhes uma verdade fundamental que contraria as tradições dos fariseus.",
-      "temas": ["ensino", "multidão", "verdade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Então, Jesus chamou a multidão para perto de Si e disse: 'Escutem bem o que vou dizer e entendam a verdade. Prestem atenção nisso que vou explicar!'",
+      "referencias": [
+        "Marcos 7:14",
+        "Lucas 6:27"
+      ],
+      "comentario": "Jesus muda o foco do confronto teológico para uma instrução direta à população (a multidão), indicando que a próxima lição é de importância fundamental e contrária à visão farisaica.",
+      "temas": [
+        "Instrução pública",
+        "Autoridade de ensino",
+        "Atenção"
+      ],
+      "personagens": [
+        "Jesus",
+        "Multidão"
+      ]
     },
     "11": {
-      "parafrase": "'Não é o que entra pela boca que contamina o homem, mas o que sai da boca, isso sim, contamina o homem.'",
-      "referencias": [],
-      "comentario": "Jesus ensina que a verdadeira impureza não vem de alimentos ou rituais externos, mas do coração. O que contamina o homem são as palavras e as intenções que vêm de dentro.",
-      "temas": ["impureza", "coração", "palavras", "intenção"],
-      "personagens": ["Jesus"]
+      "parafrase": "O que contamina uma pessoa, aquilo que a torna impura aos olhos de Deus, não é o que entra pela boca – a comida que se come – mas sim aquilo que sai dela, as palavras e intenções que brotam do coração.",
+      "referencias": [
+        "Tiago 3:6",
+        "Lucas 6:45"
+      ],
+      "comentario": "Esta é a inversão central: a pureza não é externa (o que entra), mas interna (o que sai). O conceito de 'contaminar' (*koinoō*) é revertido do ritual para o moral.",
+      "temas": [
+        "Fonte da impureza",
+        "Poder da palavra",
+        "Pureza interior"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "12": {
-      "parafrase": "Então os seus discípulos se aproximaram e lhe disseram: 'Sabes que os fariseus se escandalizaram ao ouvir esta palavra?'",
-      "referencias": [],
-      "comentario": "Os discípulos percebem a reação dos fariseus, que se sentiram ofendidos pelo ensino de Jesus, pois ele desafiava suas tradições e sua autoridade.",
-      "temas": ["escândalo", "fariseus", "ensino de Jesus"],
-      "personagens": ["Discípulos"]
+      "parafrase": "Nesse momento, os discípulos se aproximaram e perguntaram, um pouco confusos: 'Mestre, você sabe que os fariseus se ofenderam profundamente com a sua afirmação?'",
+      "referencias": [
+        "Marcos 7:17",
+        "João 13:36"
+      ],
+      "comentario": "Os discípulos percebem a afronta direta à autoridade farisaica, mas ainda entendem a pureza no nível ritualístico. Eles temem a reação dos líderes religiosos.",
+      "temas": [
+        "Reação dos discípulos",
+        "Ofensa",
+        "Conflito de autoridade"
+      ],
+      "personagens": [
+        "Discípulos",
+        "Fariseus",
+        "Jesus"
+      ]
     },
     "13": {
-      "parafrase": "Ele, porém, respondeu: 'Toda planta que meu Pai celestial não plantou será arrancada.'",
-      "referencias": ["João 15:2"],
-      "comentario": "Jesus afirma que toda tradição ou ensino que não vem de Deus será removido. A autoridade final é de Deus, não dos homens.",
-      "temas": ["autoridade divina", "tradição", "remoção"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus respondeu, com firmeza: 'Toda planta que o meu Pai celestial não plantou com as próprias mãos, será arrancada pela raiz. Ela não vai prosperar.'",
+      "referencias": [
+        "João 15:2",
+        "Hebreus 12:27"
+      ],
+      "comentario": "Jesus usa a metáfora da agricultura: se a doutrina ou a prática religiosa não tem origem divina ('não plantada pelo Pai'), ela é inautêntica e será destruída ('arrancada pela raiz' - Gr. *ekrizōthēsetai*).",
+      "temas": [
+        "Origem divina",
+        "Destino da falsidade",
+        "Metáfora da planta"
+      ],
+      "personagens": [
+        "Jesus",
+        "Pai celestial"
+      ]
     },
     "14": {
-      "parafrase": "'Deixem-nos; são cegos guias de cegos. E, se um cego guiar outro cego, ambos cairão na cova.'",
-      "referencias": ["Lucas 6:39"],
-      "comentario": "Jesus descreve os fariseus como líderes cegos que guiam outros cegos, levando-os à destruição. A falta de discernimento espiritual é perigosa.",
-      "temas": ["cegueira espiritual", "falsos guias", "perigo"],
-      "personagens": ["Jesus"]
+      "parafrase": "'Deixem-nos em paz! Eles são guias cegos, conduzindo outros cegos. E se um cego guia outro cego, os dois acabarão caindo juntos no fosso!'",
+      "referencias": [
+        "Mateus 23:16",
+        "Lucas 6:39"
+      ],
+      "comentario": "Esta é uma condenação severa. Guias cegos não apenas falham em ver a verdade, mas ativamente conduzem seus seguidores à ruína espiritual (o fosso).",
+      "temas": [
+        "Liderança cega",
+        "Consequências espirituais",
+        "Julgamento"
+      ],
+      "personagens": [
+        "Fariseus",
+        "Discípulos"
+      ]
     },
     "15": {
-      "parafrase": "Pedro, porém, respondeu e disse-lhe: 'Explica-nos esta parábola.'",
-      "referencias": [],
-      "comentario": "Pedro, em nome dos discípulos, pede a Jesus que explique o significado de Seu ensino sobre a impureza, pois eles ainda não o entenderam completamente.",
-      "temas": ["busca por entendimento", "parábola", "explicação"],
-      "personagens": ["Pedro", "Jesus"]
+      "parafrase": "Então, Pedro interveio e disse a Jesus: 'Por favor, explique-nos essa parábola da planta arrancada; não entendemos o sentido completo dessa história.'",
+      "referencias": [
+        "Marcos 7:17",
+        "Lucas 11:1"
+      ],
+      "comentario": "Pedro, falando em nome dos discípulos, admite a dificuldade da metáfora, pedindo uma explicação clara, o que move Jesus para a seção exegética do ensinamento.",
+      "temas": [
+        "Busca por entendimento",
+        "Parábola",
+        "Ensino a sós"
+      ],
+      "personagens": [
+        "Pedro",
+        "Jesus"
+      ]
     },
     "16": {
-      "parafrase": "Jesus disse: 'Vocês também ainda não entendem?'",
-      "referencias": [],
-      "comentario": "Jesus expressa uma certa surpresa com a falta de entendimento de Seus discípulos, que deveriam ter compreendido a verdade.",
-      "temas": ["falta de entendimento", "surpresa"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus olhou para eles, um pouco impaciente com a lentidão em captar a ideia fundamental, e perguntou: 'Vocês ainda não conseguem entender isso? Nem mesmo agora?'",
+      "referencias": [
+        "Efésios 4:14",
+        "Hebreus 5:12"
+      ],
+      "comentario": "A expressão de Jesus sugere uma frustração com a persistência deles em pensar em termos de pureza externa, apesar de terem ouvido ensinamentos semelhantes antes. O foco continua sendo a compreensão do *interior* sobre o *exterior*.",
+      "temas": [
+        "Lentidão para entender",
+        "Discernimento espiritual",
+        "Paciência"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "17": {
-      "parafrase": "'Não percebem que tudo o que entra pela boca vai para o estômago e depois é eliminado?'",
-      "referencias": [],
-      "comentario": "Jesus explica a fisiologia da digestão para mostrar que o alimento em si não contamina o homem espiritualmente.",
-      "temas": ["fisiologia", "impureza"],
-      "personagens": ["Jesus"]
+      "parafrase": "Vocês não percebem que tudo o que entra pela boca passa pelo estômago e depois é expelido? Não pode haver contaminação vinda dali, pois o alimento é eliminado do corpo.",
+      "referencias": [
+        "Atos 10:14",
+        "Romanos 14:17"
+      ],
+      "comentario": "Jesus usa um argumento biológico simples e irrefutável para os padrões da época: o alimento ingerido é digerido e eliminado. Ele não pode residir no corpo para 'contaminar' a alma.",
+      "temas": [
+        "Processo digestivo",
+        "Impureza física vs. espiritual",
+        "Realidade material"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "18": {
-      "parafrase": "'Mas o que sai da boca procede do coração, e isso contamina o homem.'",
-      "referencias": [],
-      "comentario": "A verdadeira fonte da impureza é o coração. As palavras e as ações são um reflexo do que está dentro.",
-      "temas": ["coração", "impureza", "palavras", "intenção"],
-      "personagens": ["Jesus"]
+      "parafrase": "Mas o que realmente polui e torna uma pessoa impura é o que procede da boca. Isso nasce no coração, pois é dali que saem os pensamentos mais sombrios, como os atos que ofendem a Deus e ao próximo.",
+      "referencias": [
+        "Tiago 1:14",
+        "Provérbios 4:23"
+      ],
+      "comentario": "Ele contrasta o alimento (expelido no v. 17) com a palavra (expelida aqui). O coração (*kardia*) é o centro da vontade, das emoções e da moralidade. O que sai da boca é o *fruto* do estado do coração.",
+      "temas": [
+        "Coração como fonte",
+        "Pecado falado",
+        "Contaminação moral"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "19": {
-      "parafrase": "'Pois do coração procedem os maus pensamentos, assassinatos, adultérios, imoralidades sexuais, roubos, falsos testemunhos e calúnias.'",
-      "referencias": [],
-      "comentario": "Jesus lista os pecados que vêm do coração, mostrando a profundidade da corrupção humana e a necessidade de uma transformação interna.",
-      "temas": ["pecados do coração", "corrupção humana", "transformação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Porque do coração brotam as más intenções: os assassínios, os adultérios, as prostituições, os furtos, os falsos testemunhos e as calúnias destrutivas. É disso que a pessoa fica impura!",
+      "referencias": [
+        "Gênesis 6:5",
+        "Jeremias 17:9"
+      ],
+      "comentario": "Esta lista enumera os pecados capitais. Note que Jesus não menciona as impurezas rituais dos fariseus. Ele lista apenas pecados morais graves. O verbo 'procedem' (*exerchontai*) implica que estes pecados são a manifestação ativa da doença do coração.",
+      "temas": [
+        "Lista dos pecados",
+        "Maldades do coração",
+        "Pecado original"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "20": {
-      "parafrase": "'Estas são as coisas que contaminam o homem; mas comer sem lavar as mãos não contamina o homem.'",
-      "referencias": [],
-      "comentario": "Jesus conclui Seu ensino, reafirmando que a impureza é uma questão do coração e não de rituais externos. Ele desafia as tradições dos fariseus.",
-      "temas": ["impureza", "tradição", "ritualismo"],
-      "personagens": ["Jesus"]
+      "parafrase": "Comer pão sem lavar as mãos, na verdade, não torna ninguém impuro aos olhos de Deus. É a saída dessas coisas más, vindas de um coração doente, que traz a verdadeira mancha espiritual!'",
+      "referencias": [
+        "1 Samuel 16:7",
+        "Romanos 2:29"
+      ],
+      "comentario": "Uma conclusão clara e direta sobre a acusação inicial. A ação ritualística dos fariseus é irrelevante para a santidade perante Deus.",
+      "temas": [
+        "Irrelevância ritualística",
+        "Pureza diante de Deus",
+        "Julgamento interno"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "21": {
-      "parafrase": "Saindo dali, Jesus retirou-se para a região de Tiro e Sidom.",
-      "referencias": ["Marcos 7:24"],
-      "comentario": "Jesus se retira para uma região gentia, indicando que Sua missão se estenderá além das fronteiras de Israel.",
-      "temas": ["ministério gentio", "retirada", "missão"],
-      "personagens": ["Jesus"]
+      "parafrase": "Deixando aquele lugar, Jesus seguiu em direção à região de Tiro e Sidom, cidades pagãs, fora do território judaico.",
+      "referencias": [
+        "Atos 11:19",
+        "Marcos 7:24"
+      ],
+      "comentario": "A mudança de cenário para regiões gentias (Tiro e Sidom, na Fenícia) marca uma transição geográfica e temática, preparando o terreno para a próxima grande lição sobre a inclusão dos gentios.",
+      "temas": [
+        "Viagem missionária",
+        "Território pagão",
+        "Separação de conflitos"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "22": {
-      "parafrase": "E eis que uma mulher cananeia, vindo daquela região, clamou, dizendo: 'Senhor, Filho de Davi, tem misericórdia de mim! Minha filha está terrivelmente endemoninhada.'",
-      "referencias": [],
-      "comentario": "Uma mulher gentia (cananeia) se aproxima de Jesus com fé e humildade, reconhecendo Sua identidade messiânica (Filho de Davi) e clamando por Sua misericórdia para sua filha.",
-      "temas": ["fé gentia", "clamor", "endemoninhada", "misericórdia"],
-      "personagens": ["Mulher cananeia", "Jesus"]
+      "parafrase": "E eis que uma mulher daquela região, uma fenícia, que não era judia, veio gritando atrás dele: 'Senhor, Filho de Davi, tenha piedade de mim! Minha filha está sendo terrivelmente atormentada por um demônio!'",
+      "referencias": [
+        "Marcos 7:25",
+        "Lucas 18:38"
+      ],
+      "comentario": "A mulher, uma gentia (fenícia), usa o título messiânico 'Filho de Davi', reconhecendo Jesus como o herdeiro prometido, mesmo em um ambiente hostil à fé judaica. Sua súplica é urgente ('grita').",
+      "temas": [
+        "Apelo por misericórdia",
+        "Reconhecimento messiânico",
+        "Opressão demoníaca"
+      ],
+      "personagens": [
+        "Mulher Cananeia/Fenícia",
+        "Jesus",
+        "Filho de Davi"
+      ]
     },
     "23": {
-      "parafrase": "Mas ele não lhe respondeu palavra. E os seus discípulos, aproximando-se, suplicaram-lhe: 'Despede-a, pois ela vem gritando atrás de nós.'",
-      "referencias": [],
-      "comentario": "Jesus inicialmente não responde, testando a fé da mulher e a atitude dos discípulos. Os discípulos querem que ela seja dispensada, talvez por preconceito ou por considerá-la um incômodo.",
-      "temas": ["teste de fé", "silêncio de Jesus", "preconceito"],
-      "personagens": ["Jesus", "Discípulos"]
+      "parafrase": "Mas Jesus não lhe dirigiu uma palavra, ignorando-a completamente. Os discípulos, incomodados com a persistência dela, aproximaram-se e pediram: 'Mande-a embora, Mestre, pois ela não para de nos incomodar com seus gritos.'",
+      "referencias": [
+        "Lucas 18:1",
+        "Marcos 7:26"
+      ],
+      "comentario": "O silêncio inicial de Jesus é interpretado pelos discípulos como rejeição (e talvez como um teste para a mulher). A reação dos discípulos revela seu preconceito judaico: é inapropriado um gentio buscar o Messias judeu.",
+      "temas": [
+        "Teste de fé",
+        "Preconceito dos discípulos",
+        "Persistência na oração"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos",
+        "Mulher"
+      ]
     },
     "24": {
-      "parafrase": "Ele, porém, respondeu: 'Não fui enviado senão às ovelhas perdidas da casa de Israel.'",
-      "referencias": ["Mateus 10:5-6"],
-      "comentario": "Jesus reafirma Sua missão primária para Israel, o que parece ser uma rejeição da mulher cananeia. Isso serve para testar ainda mais a fé dela e para ensinar aos discípulos.",
-      "temas": ["missão para Israel", "ovelhas perdidas", "teste de fé"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus finalmente respondeu, mas sua declaração era direcionada unicamente aos Seus seguidores, dizendo: 'Fui enviado unicamente para as ovelhas perdidas da nação de Israel.'",
+      "referencias": [
+        "João 1:11",
+        "Atos 13:46"
+      ],
+      "comentario": "Esta é uma afirmação da missão primária de Jesus durante Seu ministério terrestre (a 'prioridade israelita'). Ele usa a metáfora da ovelha perdida (o povo de Israel) que necessita do pastor.",
+      "temas": [
+        "Prioridade de Israel",
+        "Missão restrita",
+        "Metáfora das ovelhas"
+      ],
+      "personagens": [
+        "Jesus",
+        "Israel"
+      ]
     },
     "25": {
-      "parafrase": "Mas ela, aproximando-se, o adorou, dizendo: 'Senhor, ajuda-me!'",
-      "referencias": [],
-      "comentario": "A mulher persiste em sua fé e humildade, adorando a Jesus e clamando por ajuda, mesmo diante da aparente rejeição.",
-      "temas": ["fé persistente", "humildade", "adoração"],
-      "personagens": ["Mulher cananeia", "Jesus"]
+      "parafrase": "A mulher, então, veio e se prostrou diante dele, com o rosto no chão, implorando: 'Senhor, ajude-me! Eu aceito o que o Senhor diz, mas por favor, não negue a mim também a sua ajuda!' 😩",
+      "referencias": [
+        "Romanos 10:12",
+        "Jó 42:6"
+      ],
+      "comentario": "A mulher demonstra humildade absoluta (prostrando-se) e aceita a restrição de Jesus. Ela não argumenta sobre ser gentia; ela simplesmente se coloca abaixo da condição imposta, pedindo 'migalhas' da graça. Este ato de submissão extrema move Jesus.",
+      "temas": [
+        "Humildade e submissão",
+        "Fé perseverante",
+        "Reconhecimento da autoridade"
+      ],
+      "personagens": [
+        "Mulher",
+        "Senhor"
+      ]
     },
     "26": {
-      "parafrase": "Ele, porém, respondeu: 'Não é certo tirar o pão dos filhos e jogá-lo aos cachorrinhos.'",
-      "referencias": [],
-      "comentario": "Jesus usa uma analogia que, à primeira vista, parece ofensiva. Os \"filhos\" são Israel, e os \"cachorrinhos\" são os gentios. Ele está testando a fé da mulher e a atitude dos discípulos, mostrando que a prioridade da salvação é para Israel.",
-      "temas": ["analogia", "prioridade da salvação", "teste de fé"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus olhou para a mulher e, com uma serenidade que acalmava a tempestade em seu coração, respondeu-lhe com uma verdade dura, mas necessária: 'Não é justo pegar o pão reservado aos filhos e jogá-lo para os cachorrinhos que estão debaixo da mesa'. Ele usou uma imagem forte, comparando os gentios (a mulher cananeia) a animais domésticos, enfatizando que a prioridade primária do 'pão' do Reino e das bênçãos messiânicas era, inicialmente, o povo de Israel, os 'filhos' da promessa.",
+      "referencias": [
+        "Romanos 9:4-5",
+        "Gênesis 12:3"
+      ],
+      "comentario": "A palavra grega para 'cachorrinhos' é *kynaria*, um diminutivo carinhoso (cães pequenos, de estimação), o que suaviza ligeiramente o insulto comparado a *kyon* (cão). No entanto, o contexto da pergunta da mulher é de extrema humildade e reconhecimento da ordem divina da salvação, que primeiro Israel receberia. Jesus testa a fé dela, elevando o nível do desafio.",
+      "temas": [
+        "Soberania da Mensagem",
+        "Humildade",
+        "Prioridade da Salvação"
+      ],
+      "personagens": [
+        "Jesus",
+        "Mulher Cananeia"
+      ]
     },
     "27": {
-      "parafrase": "Ela, porém, disse: 'Sim, Senhor, mas até os cachorrinhos comem das migalhas que caem da mesa dos seus donos.'",
-      "referencias": [],
-      "comentario": "A mulher demonstra uma fé e uma humildade extraordinárias. Ela aceita a analogia, mas argumenta que, mesmo as migalhas da mesa dos filhos são suficientes para os cachorrinhos. Ela reconhece a soberania de Jesus e Sua capacidade de prover, mesmo com o mínimo.",
-      "temas": ["fé extraordinária", "humildade", "sabedoria", "misericórdia"],
-      "personagens": ["Mulher cananeia"]
+      "parafrase": "A mulher, em vez de se ofender ou recuar diante da comparação, demonstrou uma astúcia espiritual incomparável. Com um sorriso interior de aceitação, ela rebateu: 'Sim, Senhor, é verdade! Mas até mesmo os cachorrinhos que ficam debaixo da mesa ganham as migalhas que caem dos pratos dos donos. Eu aceito o que cair da Sua mesa farta!'. Ela não exigiu o banquete completo, mas se contentou com a sobra da graça, revelando uma fé que era totalmente desprovida de orgulho.",
+      "referencias": [
+        "Tiago 4:6",
+        "Salmos 34:8"
+      ],
+      "comentario": "Esta resposta é um modelo de fé e humildade. Ela não discute a analogia de Jesus, mas a aceita e a utiliza a seu favor. Ela reconhece a superioridade da mesa (a fonte da bênção, Jesus) e se coloca em uma posição de dependência total, pedindo apenas o 'resto', as migalhas (*psíchia* no grego), um sinal de que estava disposta a receber o mínimo da Sua misericórdia.",
+      "temas": [
+        "Fé Inabalável",
+        "Humildade Extrema",
+        "Aceitação da Graça"
+      ],
+      "personagens": [
+        "Mulher Cananeia",
+        "Jesus"
+      ]
     },
     "28": {
-      "parafrase": "Então Jesus lhe respondeu: 'Ó mulher, grande é a sua fé! Seja feito a você como você deseja.' E a sua filha foi curada naquele mesmo instante.",
-      "referencias": [],
-      "comentario": "Jesus elogia a grande fé da mulher e a cura instantaneamente. A fé dela, mesmo sendo gentia, é recompensada com a cura de sua filha. Isso demonstra que a salvação de Jesus se estende a todos que creem, independentemente de sua origem.",
-      "temas": ["grande fé", "cura", "milagre", "salvação para os gentios"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ao ver tamanha profundidade de confiança, Jesus parou. O rosto que momentos antes parecia severo, agora irradiava aprovação. Ele disse, com admiração visível: 'Mulher, sua fé é extraordinária! É tão grande que você a provou merecedora. Vá agora, pois o que você deseja está concedido, sua cura se cumpriu neste exato instante'. Aquele pedido mínimo foi recompensado com a bênção máxima.",
+      "referencias": [
+        "Hebreus 11:6",
+        "Marcos 10:52"
+      ],
+      "comentario": "Este versículo é o clímax da interação. Jesus elogia explicitamente a 'grandeza' (*megálē*) da fé dela. A fé dela não se baseava em rituais, nacionalidade ou mérito visível, mas na absoluta confiança no poder e na generosidade de Cristo. O termo 'como esta' indica que Jesus viu nela um padrão exemplar de fé, que até mesmo muitos em Israel não possuíam.",
+      "temas": [
+        "Poder da Fé",
+        "Recompensa Divina",
+        "Admiração de Cristo"
+      ],
+      "personagens": [
+        "Jesus",
+        "Mulher Cananeia"
+      ]
     },
     "29": {
-      "parafrase": "Saindo dali, Jesus foi para a beira do mar da Galileia. Então subiu a um monte e sentou-se ali.",
-      "referencias": [],
-      "comentario": "Jesus se retira para um monte, um lugar de ensino e oração, após os eventos em Tiro e Sidom.",
-      "temas": ["retirada", "ensino", "oração"],
-      "personagens": ["Jesus"]
+      "parafrase": "Deixando aquele lugar, Jesus seguiu adiante, caminhando até as margens do grande Mar da Galileia, onde o povo o esperava ansiosamente. Ele subiu em uma elevação, como se quisesse que Sua presença fosse vista por todos, e começou a ensinar as multidões que se ajuntavam.",
+      "referencias": [
+        "Mateus 4:18",
+        "Mateus 5:1"
+      ],
+      "comentario": "A narrativa muda o foco, mostrando Jesus se afastando do contato com gentios (embora tenha abençoado um) e retornando à sua missão principal, que era a audiência judaica, conforme o plano inicial da Sua vinda, agora reiterando os ensinamentos do Reino.",
+      "temas": [
+        "Missão Contínua",
+        "Ensino de Cristo"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "30": {
-      "parafrase": "E grandes multidões vieram a ele, trazendo consigo coxos, cegos, aleijados, mudos e muitos outros doentes, e os puseram aos seus pés; e ele os curou.",
-      "referencias": [],
-      "comentario": "Jesus continua Seu ministério de cura, demonstrando Sua compaixão e poder sobre todas as doenças. As multidões trazem seus enfermos a Ele, e Ele os cura a todos.",
-      "temas": ["cura", "milagres", "compaixão"],
-      "personagens": ["Jesus"]
+      "parafrase": "Grandes multidões vieram até Ele, trazendo consigo muitos que estavam doentes, aleijados, cegos, mudos e com toda sorte de enfermidades terríveis. Eram pessoas com corpos quebrados e vidas em ruínas, carregadas por seus familiares e amigos, buscando o toque milagroso do Mestre.",
+      "referencias": [
+        "Lucas 6:17-19",
+        "Marcos 1:32"
+      ],
+      "comentario": "Este versículo descreve um cenário de grande necessidade e a atração magnética de Jesus como fonte de cura. O detalhamento das doenças ('cegos, coxos, mudos') enfatiza a abrangência total da Sua capacidade de restaurar o ser humano em todos os seus aspectos.",
+      "temas": [
+        "Cura",
+        "Misericórdia",
+        "Afligidos"
+      ],
+      "personagens": [
+        "Jesus",
+        "Multidão"
+      ]
     },
     "31": {
-      "parafrase": "De modo que a multidão ficou maravilhada ao ver os mudos falando, os aleijados curados, os coxos andando e os cegos vendo. E glorificaram o Deus de Israel.",
-      "referencias": [],
-      "comentario": "A reação da multidão é de admiração e louvor a Deus. Eles reconhecem o poder de Jesus e glorificam o Deus de Israel por Suas obras.",
-      "temas": ["admiração", "glória a Deus", "milagres"],
-      "personagens": []
+      "parafrase": "As pessoas ficaram maravilhadas e extasiadas, vendo com os próprios olhos que os mudos voltavam a falar com clareza, os coxos corriam como gazelas, e os cegos, que antes tateavam no escuro, agora viam a luz do sol e o rosto de seus entes queridos. Por causa destes prodígios, o povo de Israel glorificava o Deus do Céu, reconhecendo que Ele estava agindo entre eles.",
+      "referencias": [
+        "Isaías 35:5-6",
+        "Atos 3:8"
+      ],
+      "comentario": "A reação da multidão ('se maravilharam') é de reconhecimento da intervenção divina. A restauração física era um testemunho visível do poder do Reino. O ato de 'glorificar a Deus' mostra que eles ligavam os milagres de Jesus diretamente à fidelidade de Deus para com Israel.",
+      "temas": [
+        "Milagres",
+        "Glória a Deus",
+        "Restauração"
+      ],
+      "personagens": [
+        "Jesus",
+        "Multidão"
+      ]
     },
     "32": {
-      "parafrase": "Jesus chamou os seus discípulos e disse: 'Tenho compaixão desta multidão, pois já faz três dias que estão comigo e não têm o que comer. Não quero despedi-los em jejum, para que não desmaiem no caminho.'",
-      "referencias": ["Marcos 8:1-10"],
-      "comentario": "Jesus demonstra Sua compaixão pela multidão, que está com Ele há três dias e precisa de alimento. Ele se preocupa com o bem-estar físico deles.",
-      "temas": ["compaixão de Jesus", "provisão", "fome"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus, então, chamou a multidão para mais perto, pois sentia profunda compaixão por eles, vendo-os exaustos e sem rumo, como ovelhas sem pastor. Ele disse: 'Tenho pena deste povo, pois já faz três dias que estão comigo e não lhes dei comida. Não quero mandá-los para casa famintos, para que não desmaiem no caminho'.",
+      "referencias": [
+        "Números 27:17",
+        "Ezequiel 34:2"
+      ],
+      "comentario": "A palavra grega para 'pena' aqui é *splagchnizomai*, indicando uma compaixão profunda que atinge as entranhas, as vísceras. Jesus não estava apenas preocupado com a logística, mas com o bem-estar total dessas pessoas. Ele assume o papel do Bom Pastor, que cuida das necessidades físicas (comida) e espirituais (orientação).",
+      "temas": [
+        "Compaixão",
+        "Cuidado Pastoral",
+        "Necessidade Física"
+      ],
+      "personagens": [
+        "Jesus",
+        "Multidão"
+      ]
     },
     "33": {
-      "parafrase": "Os discípulos lhe perguntaram: 'Onde poderíamos conseguir pão suficiente neste lugar deserto para alimentar tanta gente?'",
-      "referencias": [],
-      "comentario": "Os discípulos, apesar do milagre anterior da alimentação dos cinco mil, ainda demonstram falta de fé e esquecimento do poder de Jesus.",
-      "temas": ["falta de fé", "esquecimento", "provisão"],
-      "personagens": ["Discípulos"]
+      "parafrase": "Os discípulos, vendo a situação, ficaram preocupados e trouxeram a Jesus a dificuldade prática: 'Onde vamos encontrar pão suficiente no deserto, para alimentar tanta gente? São quatro mil homens, sem contar as mulheres e as crianças!'. Eles estavam pensando em termos de recursos limitados e logística humana.",
+      "referencias": [
+        "Mateus 14:15",
+        "João 6:5"
+      ],
+      "comentario": "Esta é a segunda multiplicação de pães registrada em Mateus. A preocupação dos discípulos serve para destacar o milagre subsequente. Eles ainda operavam dentro da mentalidade da escassez humana, não da provisão divina que Jesus representava.",
+      "temas": [
+        "Dúvida dos Discípulos",
+        "Limitações Humanas",
+        "Provisão"
+      ],
+      "personagens": [
+        "Discípulos",
+        "Jesus"
+      ]
     },
     "34": {
-      "parafrase": "Jesus lhes perguntou: 'Quantos pães vocês têm?' Eles responderam: 'Sete, e alguns peixinhos.'",
-      "referencias": [],
-      "comentario": "Jesus pede o que eles têm, por menor que seja, para que Ele possa multiplicá-lo.",
-      "temas": ["provisão", "fé"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus perguntou a eles, testando a fé e o conhecimento deles sobre o que havia sido feito anteriormente: 'Quantos pães vocês conseguiram reunir?'. Os discípulos responderam, trazendo as poucas provisões que haviam encontrado: 'Sete pães, e alguns peixinhos pequenos'.",
+      "referencias": [
+        "João 6:9",
+        "2 Reis 4:42-44"
+      ],
+      "comentario": "A quantidade é diferente da primeira multiplicação (cinco pães para cinco mil). Aqui, temos sete pães e 'peixinhos pequenos' (*opsária*). O número sete tem conotações de plenitude ou perfeição na Bíblia, sugerindo uma provisão completa para os presentes.",
+      "temas": [
+        "Pequenas Ofertas",
+        "Multiplicação",
+        "Perguntas de Jesus"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "35": {
-      "parafrase": "Então ele ordenou à multidão que se sentasse no chão.",
-      "referencias": [],
-      "comentario": "Jesus prepara a multidão para o milagre, organizando-os para a distribuição do alimento.",
-      "temas": ["organização", "milagre"],
-      "personagens": ["Jesus"]
+      "parafrase": "Então, Jesus ordenou que a grande multidão se sentasse no chão, formando um grande tapete humano de pessoas esperando a refeição. Ele pegou os sete pães, agradeceu a Deus por eles, e começou a distribuí-los através de Seus discípulos, junto com os peixinhos, para alimentar a todos.",
+      "referencias": [
+        "João 6:10-11",
+        "1 Coríntios 11:24"
+      ],
+      "comentario": "O ato de Jesus de 'agradecer' (*eucharistēsas*) antes de distribuir estabelece o modelo da Ceia (Eucaristia). Ele abençoa o pouco que há, transformando-o em muito. A distribuição é sempre feita 'por meio dos discípulos', implicando que a obra de Cristo continua através de Seus seguidores.",
+      "temas": [
+        "Ação de Graças",
+        "Distribuição",
+        "Comunhão"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos",
+        "Multidão"
+      ]
     },
     "36": {
-      "parafrase": "Pegando os sete pães e os peixes, e dando graças, partiu-os e os deu aos discípulos, e os discípulos, às multidões.",
-      "referencias": [],
-      "comentario": "Jesus repete o milagre da multiplicação dos pães, demonstrando Sua autoridade e poder. Ele dá graças a Deus, parte o pão e o distribui através dos discípulos.",
-      "temas": ["milagre", "alimentação dos quatro mil", "provisão divina", "ação de graças"],
-      "personagens": ["Jesus"]
+      "parafrase": "Todos comeram até se fartar, saciando completamente a fome daquela imensa plateia. E, quando a última pessoa foi servida e estava plenamente satisfeita, os discípulos foram instruídos a recolher os restos da comida.",
+      "referencias": [
+        "João 6:12",
+        "Salmos 23:5"
+      ],
+      "comentario": "O milagre não apenas alimentou, mas saciou ('comeram e se fartaram'). A abundância é tão grande que sobra. Isso reforça a ideia de que a provisão de Deus nunca é apenas o suficiente para sobreviver, mas sim para transbordar.",
+      "temas": [
+        "Abundância",
+        "Saturação",
+        "Provisão Completa"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos",
+        "Multidão"
+      ]
     },
     "37": {
-      "parafrase": "Todos comeram e ficaram satisfeitos. E recolheram do que sobrou sete cestos cheios de pedaços.",
-      "referencias": [],
-      "comentario": "A abundância da provisão de Jesus é evidente. Todos foram alimentados, e sobrou mais do que o que havia no início, simbolizando a superabundância de Deus.",
-      "temas": ["abundância", "satisfação", "superabundância"],
-      "personagens": []
+      "parafrase": "Quando terminaram de juntar os pedaços que sobraram, os discípulos encheram sete cestos grandes, transbordando com os restos daquele banquete milagroso no deserto. Isso provava que nada havia sido desperdiçado.",
+      "referencias": [
+        "2 Reis 4:43",
+        "Salmos 136:25"
+      ],
+      "comentario": "A sobra é significativa: sete cestos cheios, correspondendo aos sete pães iniciais. O termo para 'cestos' aqui é *kophinous*, os mesmos usados quando Jesus alimentou os cinco mil, reforçando a consistência do poder de Deus em multiplicar, independentemente do número inicial de pessoas.",
+      "temas": [
+        "Coleta de Sobras",
+        "Testemunho da Multiplicação",
+        "Fidelidade"
+      ],
+      "personagens": [
+        "Discípulos"
+      ]
     },
     "38": {
-      "parafrase": "Os que comeram eram quatro mil homens, além de mulheres e crianças.",
-      "referencias": [],
-      "comentario": "O número de pessoas alimentadas é vasto, destacando a magnitude do milagre.",
-      "temas": ["milagre", "multidão"],
-      "personagens": []
+      "parafrase": "Os homens que participaram da refeição, sem contar as mulheres e as crianças, eram exatamente quatro mil. E, após o milagre, todos foram despedidos.",
+      "referencias": [
+        "Mateus 14:21",
+        "Lucas 8:39"
+      ],
+      "comentario": "A confirmação dos números reforça a precisão do relato e a magnitude do milagre. Este evento, distinto da primeira multiplicação, demonstra a atenção contínua de Jesus às necessidades temporais de Seus seguidores.",
+      "temas": [
+        "Contagem do Povo",
+        "Despedida"
+      ],
+      "personagens": [
+        "Jesus",
+        "Multidão"
+      ]
     },
     "39": {
-      "parafrase": "Depois de despedir as multidões, ele entrou no barco e foi para a região de Magadã.",
-      "referencias": [],
-      "comentario": "Jesus se afasta das multidões, continuando Seu ministério em outra região.",
-      "temas": ["retirada", "ministério"],
-      "personagens": ["Jesus"]
+      "parafrase": "Imediatamente após dispersar a multidão, Jesus entrou em uma barca e navegou rumo à região de Magadã (ou Dalmanuta, dependendo do manuscrito). A missão ali estava cumprida, e Ele se dirigia para o próximo desafio.",
+      "referencias": [
+        "Marcos 8:10",
+        "Atos 13:52"
+      ],
+      "comentario": "A partida de barco indica uma transição geográfica e, possivelmente, um afastamento temporário das multidões, preparando-se para um confronto mais direto com os fariseus e saduceus sobre os sinais que Ele já havia realizado. A menção de Magadã/Dalmanuta marca o início de uma nova fase em Seu ministério.",
+      "temas": [
+        "Transição Geográfica",
+        "Viagem",
+        "Confronto Iminente"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     }
   }
 }

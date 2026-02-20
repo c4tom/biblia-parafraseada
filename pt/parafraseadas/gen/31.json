@@ -1,393 +1,949 @@
 {
   "livro": "Gênesis",
   "capitulo": 31,
-  "contexto_historico": "Ver contexto anterior em Gênesis 30. Após vinte anos de serviço, a riqueza de Jacó aumentou exponencialmente, causando ressentimento nos filhos de Labão e uma mudança na atitude do próprio Labão. Sentindo a hostilidade e recebendo uma ordem direta de Deus, Jacó decide que é hora de fugir de Harã e voltar para a terra prometida. Este capítulo narra a fuga secreta, a perseguição de Labão e o confronto final entre os dois, que termina com um pacto.",
-  "bloco_tematico": "A Fuga de Jacó e o Confronto com Labão",
+  "contexto_historico": "O capítulo 31 de Gênesis narra o clímax da separação de Jacó de seu sogro, Labão, em Harã. Após vinte anos trabalhando para Labão (servindo 14 anos por Raquel e Lia, e 6 anos por seu rebanho), Jacó sente que o momento de retornar à terra de seus pais (Canaã) chegou, especialmente após a mudança na atitude de Labão e a percepção divina de que ele deveria voltar (Gn 31:3). Jacó reúne suas esposas, Lia e Raquel, e seus filhos secretamente, fugindo enquanto Labão está tosquiando suas ovelhas. Labão descobre a fuga e os persegue por sete dias até o monte Gileade. O encontro é tenso, mas mediado por Deus, que havia advertido Labão em um sonho para não falar mal a Jacó. A narrativa foca na disputa por bens e na acusação de roubo dos ídolos de família (terafim) por Raquel. O capítulo culmina em um pacto de não-agressão entre Jacó e Labão, selado com um monte de pedras (Galeed) e uma pedra de marco (Mizpá), estabelecendo limites territoriais e um juramento mútuo sob a vigilância de Deus.",
+  "bloco_tematico": "A Fuga Estratégica e o Pacto da Separação: O Cuidado Divino e a Ruptura Familiar 🏃‍♂️🐑🤝",
   "versiculos": {
     "1": {
-      "parafrase": "Jacó ouviu os filhos de Labão dizendo: 'Jacó tomou tudo o que era de nosso pai e construiu toda a sua riqueza à custa de nosso pai'.",
-      "referencias": [],
-      "comentario": "A prosperidade de Jacó gera inveja e acusação. Os filhos de Labão o acusam de roubo, ignorando o acordo que foi feito e a bênção de Deus sobre Jacó.",
-      "temas": ["inveja", "acusação", "conflito"],
-      "personagens": ["Jacó", "filhos de Labão"]
+      "parafrase": "Então, Jacó soube que os filhos de Labão estavam tramando contra ele, murmurando coisas como: 'Jacó se apoderou de tudo o que pertencia ao nosso pai e, com isso, acumulou toda essa riqueza que vemos agora!'. O coração de Jacó ficou pesado ao perceber que o ambiente em sua casa havia mudado, e o tratamento que recebia não era mais o mesmo de antes.",
+      "referencias": [
+        "Provérbios 10:22",
+        "Eclesiastes 5:13"
+      ],
+      "comentario": "O sucesso de Jacó (conforme narrado nos versículos anteriores) gerou inveja. O verbo hebraico para 'soube' ou 'ouviu' (שָׁמַע, shama) indica uma percepção aguda da mudança de atmosfera. A 'maldade' ou 'mau agouro' (רָעָה, ra'ah) nos olhos dos irmãos aponta para a hostilidade crescente, um prenúncio de conflito familiar.",
+      "temas": [
+        "Inveja",
+        "Conflito Familiar",
+        "Percepção de Perigo"
+      ],
+      "personagens": [
+        "Jacó",
+        "Filhos de Labão"
+      ]
     },
     "2": {
-      "parafrase": "E Jacó percebeu que a atitude de Labão para com ele não era mais a mesma de antes.",
-      "referencias": [],
-      "comentario": "A hostilidade dos filhos se reflete no comportamento de Labão. A relação amigável, mesmo que tensa, havia se deteriorado completamente.",
-      "temas": ["hostilidade", "relacionamento deteriorado"],
-      "personagens": ["Jacó", "Labão"]
+      "parafrase": "O Senhor então se dirigiu a Jacó, confortando-o, e disse: 'Volte agora para a terra dos seus antepassados, a terra onde você nasceu. Eu estarei firmemente ao seu lado, protegendo-o e guiando-o nesta jornada de regresso'.",
+      "referencias": [
+        "Gênesis 28:13",
+        "Isaías 41:10"
+      ],
+      "comentario": "Esta é uma intervenção divina direta, um chamado pastoral de Deus (o 'Elohim'). Deus reafirma a aliança feita com Abraão e Isaque, focando na terra prometida ('terra de seus pais'). O verbo 'retorna' (שׁוּב, shuv) é um comando para reverter a rota, mas a garantia de proteção ('estarei com você') é a chave.",
+      "temas": [
+        "Chamado Divino",
+        "Confiança em Deus",
+        "Proteção"
+      ],
+      "personagens": [
+        "Deus",
+        "Jacó"
+      ]
     },
     "3": {
-      "parafrase": "Então o Senhor disse a Jacó: 'Volte para a terra de seus pais e de seus parentes, e eu estarei com você'.",
-      "referencias": ["Gênesis 28:15"],
-      "comentario": "No meio da crescente hostilidade, Deus intervém com uma ordem clara. É o momento de Jacó voltar para casa. Deus reafirma a promessa de Sua presença, dando a Jacó a segurança necessária para a perigosa jornada.",
-      "temas": ["ordem divina", "retorno", "promessa da presença de Deus"],
-      "personagens": ["Deus", "Jacó"]
+      "parafrase": "Então, Jacó convocou Raquel e Lia, suas esposas, para o campo onde seus rebanhos estavam pastando, e lhes disse com sinceridade: 'Percebi claramente que a maneira como meu sogro, Labão, me trata mudou; ele não é mais o mesmo de antes. Mas o Deus do meu pai tem estado comigo, protegendo-me.'",
+      "referencias": [
+        "Gênesis 3:12",
+        "Salmos 118:23"
+      ],
+      "comentario": "Jacó demonstra transparência com suas esposas, um sinal de maturidade em um ambiente tenso. Ele atribui sua preservação não à sua própria astúcia, mas ao 'Deus de meu pai' (referindo-se a Abraão e Isaque), ligando sua situação atual à história da aliança.",
+      "temas": [
+        "Transparência",
+        "Aliança Familiar",
+        "Reconhecimento da Providência"
+      ],
+      "personagens": [
+        "Jacó",
+        "Raquel",
+        "Lia"
+      ]
     },
     "4": {
-      "parafrase": "Então Jacó mandou chamar Raquel e Lia para virem ao campo, onde estavam seus rebanhos.",
-      "referencias": [],
-      "comentario": "Jacó age com prudência, chamando suas esposas para uma reunião secreta no campo, longe dos ouvidos da casa de Labão, para discutir o plano de partida.",
-      "temas": ["prudência", "planejamento secreto"],
-      "personagens": ["Jacó", "Raquel", "Lia"]
+      "parafrase": "Ele continuou: 'Vocês viram com seus próprios olhos que trabalhei incansavelmente para seu pai. Mesmo assim, ele tem me enganado repetidamente e mudado meu salário dez vezes ou mais. Mas Deus não permitiu que ele me prejudicasse com suas trapaças.'",
+      "referencias": [
+        "Gênesis 29:20",
+        "Romanos 8:28"
+      ],
+      "comentario": "Este é o ponto central da queixa de Jacó. O termo para 'enganar' é forte, mas o ponto crucial é que, apesar de múltiplas alterações salariais (dez vezes), a mão de Deus neutralizou a intenção maliciosa de Labão. É um testemunho da soberania divina sobre as finanças humanas.",
+      "temas": [
+        "Trabalho Duro",
+        "Engano Financeiro",
+        "Soberania de Deus"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "5": {
-      "parafrase": "E lhes disse: 'Vejo que a atitude de seu pai para comigo não é como antes, mas o Deus de meu pai tem estado comigo'.",
-      "referencias": [],
-      "comentario": "Jacó explica a situação, contrastando a hostilidade de Labão com a fidelidade de Deus. Ele reconhece que sua prosperidade e proteção vieram de Deus.",
-      "temas": ["contraste", "fidelidade de Deus", "hostilidade humana"],
-      "personagens": ["Jacó", "Labão", "Deus"]
+      "parafrase": "E acrescentou: 'Agora, escutem bem, se o Deus que me protegeu no deserto, o Deus que esteve com Isaque, meu pai, decidir que é hora de irmos, eu irei embora imediatamente, sem hesitação.'",
+      "referencias": [
+        "Gênesis 28:20",
+        "Êxodo 3:12"
+      ],
+      "comentario": "Jacó estabelece uma condição para sua partida: a confirmação da vontade divina. Ele invoca o Deus de Isaque, demonstrando continuidade na fé familiar. A disposição de partir 'imediatamente' mostra que sua lealdade primária é a Deus, não ao conforto material obtido por meio de Labão.",
+      "temas": [
+        "Obediência",
+        "Continuidade da Fé",
+        "Disposição para Mudar"
+      ],
+      "personagens": [
+        "Jacó",
+        "Isaque"
+      ]
     },
     "6": {
-      "parafrase": "'Vocês sabem que trabalhei para seu pai com todas as minhas forças'.",
-      "referencias": [],
-      "comentario": "Ele apela para o conhecimento de suas esposas sobre seu trabalho árduo e serviço fiel, defendendo sua própria integridade.",
-      "temas": ["serviço fiel", "integridade", "defesa"],
-      "personagens": ["Jacó"]
+      "parafrase": "Raquel e Lia responderam a ele, dizendo: 'Será que ainda nos resta alguma parte ou herança na casa do nosso pai? Ele nos tratou como estrangeiras, vendendo-nos, e até gastou todo o dinheiro que ganhamos com o nosso trabalho, pagando por nós!'",
+      "referencias": [
+        "Gênesis 29:25",
+        "Efésios 6:5"
+      ],
+      "comentario": "As esposas apoiam a decisão, validando a exploração sofrida. O verbo hebraico (מָכַר, makar) traduzido como 'vender' ou 'tratar como propriedade' sublinha a objetificação delas. Elas sentem que foram usadas como mercadoria, e o patrimônio familiar lhes foi negado.",
+      "temas": [
+        "Exploração",
+        "Direitos de Herança",
+        "Posição da Mulher"
+      ],
+      "personagens": [
+        "Raquel",
+        "Lia"
+      ]
     },
     "7": {
-      "parafrase": "'No entanto, seu pai me enganou e mudou meu salário dez vezes. Mas Deus não permitiu que ele me prejudicasse'.",
-      "referencias": [],
-      "comentario": "Jacó detalha a injustiça de Labão, que repetidamente tentou enganá-lo. Ele novamente atribui sua proteção e sucesso à intervenção soberana de Deus.",
-      "temas": ["engano", "injustiça", "proteção divina", "soberania de Deus"],
-      "personagens": ["Jacó", "Labão", "Deus"]
+      "parafrase": "Pois, como vocês bem sabem, eu trabalhei para o seu pai com todas as minhas forças, mas ele zombou de mim e me tratou com desprezo, mudando minha remuneração repetidamente.",
+      "referencias": [
+        "Provérbios 14:20",
+        "Tiago 5:4"
+      ],
+      "comentario": "Este versículo resume a queixa de Jacó com foco na emoção. O desprezo (נָתַן אֶת פָּנָיו, 'colocou o seu rosto') implica um tratamento humilhante e desdenhoso, indo além da mera questão financeira.",
+      "temas": [
+        "Desprezo",
+        "Humilhação",
+        "Injustiça Salarial"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "8": {
-      "parafrase": "'Se ele dizia: ‘Os salpicados serão o seu salário’, então todos os rebanhos davam crias salpicadas. E se ele dizia: ‘Os listrados serão o seu salário’, então todos os rebanhos davam crias listradas'.",
-      "referencias": [],
-      "comentario": "Jacó explica como Deus frustrou as tentativas de Labão de manipulá-lo, fazendo com que os rebanhos produzissem exatamente a cor que beneficiaria Jacó, independentemente das mudanças de Labão no acordo.",
-      "temas": ["intervenção divina", "bênção", "justiça"],
-      "personagens": ["Jacó", "Labão"]
+      "parafrase": "Se Labão insistisse em me dar apenas as ovelhas manchadas e pintadas como pagamento, então todo o seu rebanho se tornaria meu! Mas, pelo contrário, ele continuou a me enganar com o gado que ainda era forte.",
+      "referencias": [
+        "Gênesis 30:33",
+        "Malaquias 1:8"
+      ],
+      "comentario": "Aqui Jacó detalha o esquema de pagamento: animais com defeitos (manchados ou pintados). O ponto é que Labão prometeu o que ele considerava de pouco valor, mas ao permitir que Jacó ficasse com o 'bom' gado, ele perdeu o controle sobre o aumento subsequente do rebanho de Jacó.",
+      "temas": [
+        "Acordos Contratuais",
+        "Valorização de Bens",
+        "Substituição de Bens"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "9": {
-      "parafrase": "'Assim, Deus tirou os rebanhos de seu pai e os deu a mim'.",
-      "referencias": [],
-      "comentario": "Jacó resume a situação como um ato de transferência de riqueza por parte de Deus, daquele que foi injusto para aquele que foi fiel.",
-      "temas": ["justiça divina", "transferência de riqueza"],
-      "personagens": ["Deus", "Jacó"]
+      "parafrase": "E assim, se Labão decidisse que os cabritos pintados seriam o meu salário, então todo o rebanho daria à luz cabritos pintados, e esse seria o meu pagamento justo.",
+      "referencias": [
+        "Deuteronômio 28:3",
+        "Salmos 1:3"
+      ],
+      "comentario": "Jacó descreve a inversão: quando o pagamento era o gado de cor específica (pintado), Deus fazia com que a procriação resultasse naquilo que Jacó precisava. A natureza, sob a ordem de Deus, trabalhava a favor de Jacó, independentemente dos acordos humanos.",
+      "temas": [
+        "Prosperidade Inesperada",
+        "Controle da Natureza",
+        "Sinal de Bênção"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "10": {
-      "parafrase": "'Na época de acasalamento, tive um sonho e vi que os bodes que cobriam o rebanho eram listrados, salpicados e malhados'.",
-      "referencias": [],
-      "comentario": "Jacó agora revela a suas esposas que sua técnica de criação não era a causa real de seu sucesso. Foi uma revelação divina em um sonho que lhe mostrou que Deus estava controlando a genética dos rebanhos a seu favor.",
-      "temas": ["revelação em sonho", "soberania de Deus", "bênção"],
-      "personagens": ["Jacó"]
+      "parafrase": "E assim, sempre que o rebanho mais forte e saudável ficava para acasalar, eu olhava para os riachos e colocava ramos verdes com casca clara na frente dos animais, para que concebessem as cores que eu desejava, tornando-os meus.",
+      "referencias": [
+        "Cantares 2:15",
+        "Jeremias 17:7"
+      ],
+      "comentario": "Este é o ponto da famosa estratégia de Jacó (referência ao 'método de pular' ou 'padrões'). Embora a Bíblia atribua o resultado à bênção divina (como visto nos versículos anteriores e posteriores), Jacó usa um método naturalístico que, sob a permissão e direção de Deus, funcionou para separar o gado de Labão.",
+      "temas": [
+        "Estratégia",
+        "Manipulação da Proliferação",
+        "Astúcia"
+      ],
+      "personagens": [
+        "Jacó"
+      ]
     },
     "11": {
-      "parafrase": "'O anjo de Deus me disse no sonho: ‘Jacó!’ E eu respondi: ‘Eis-me aqui’.'",
-      "referencias": [],
-      "comentario": "Ele relata o encontro divino, mostrando que estava agindo sob a orientação de Deus.",
-      "temas": ["encontro divino", "orientação"],
-      "personagens": ["anjo de Deus", "Jacó"]
+      "parafrase": "No entanto, quando o rebanho mais fraco e de cor mais uniforme ficava para se reproduzir, eu não colocava os ramos, permitindo que Labão ficasse com esses animais menos valiosos.",
+      "referencias": [
+        "Provérbios 13:6",
+        "Romanos 1:28"
+      ],
+      "comentario": "Jacó aplicava o método de forma seletiva, visando maximizar o lucro nos animais mais valiosos e deixando os menos desejáveis para Labão, garantindo que a porção de Labão fosse a mais fraca.",
+      "temas": [
+        "Diferenciação de Valor",
+        "Otimização de Recursos",
+        "Justiça Pragmática"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "12": {
-      "parafrase": "'E ele disse: ‘Olhe e veja que todos os bodes que cobrem o rebanho são listrados, salpicados e malhados, pois eu vi tudo o que Labão tem feito a você’.'",
-      "referencias": [],
-      "comentario": "Deus revela a Jacó que Ele está ciente da injustiça de Labão e que está agindo para fazer justiça. A prosperidade de Jacó é um ato deliberado de Deus para corrigir a exploração de Labão.",
-      "temas": ["onisciência de Deus", "justiça divina", "intervenção"],
-      "personagens": ["anjo de Deus", "Labão"]
+      "parafrase": "Portanto, esses animais, os mais fortes, eram a minha riqueza e se reproduziam conforme a minha vontade. Assim, em todos os anos de seca, Jacó ficava mais rico, enquanto Labão ficava cada vez mais empobrecido.",
+      "referencias": [
+        "Provérbios 28:8",
+        "Ageu 1:6"
+      ],
+      "comentario": "O resultado prático da estratégia e da bênção divina é que a riqueza migrou para Jacó, especialmente em um período difícil ('seca' ou escassez), provando quem estava sendo favorecido por Deus.",
+      "temas": [
+        "Migração de Riqueza",
+        "Prosperidade em Tempos Difíceis",
+        "Impacto Econômico"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "13": {
-      "parafrase": "'‘Eu sou o Deus de Betel, onde você ungiu uma coluna e me fez um voto. Agora, levante-se, saia desta terra e volte para a sua terra natal’.'",
-      "referencias": ["Gênesis 28:18-22"],
-      "comentario": "Deus se identifica como o Deus que encontrou Jacó em Betel, lembrando-o da promessa e do voto feitos vinte anos antes. A ordem para partir é uma continuação daquela aliança. O tempo do exílio terminou.",
-      "temas": ["memória da aliança", "Betel", "ordem de retorno", "fim do exílio"],
-      "personagens": ["Deus", "Jacó"]
+      "parafrase": "Certa vez, uma mulher, que era como uma mensageira para mim, contou-me em sonho: 'Jacó, eu vi tudo o que Labão está fazendo com você!'.",
+      "referencias": [
+        "Jó 33:15",
+        "Atos 16:9"
+      ],
+      "comentario": "A intervenção divina retorna, mas desta vez através de um sonho. O anjo ou a própria voz divina assume o papel de 'mensageiro' (מַלְאָךְ, mal'akh), confirmando que Deus estava ciente da exploração, da mesma forma que havia instruído Jacó sobre como sair de casa anos antes.",
+      "temas": [
+        "Revelação em Sonhos",
+        "Testemunho Divino",
+        "A Voz de Deus"
+      ],
+      "personagens": [
+        "Jacó",
+        "Deus (via mensageiro/sonho)"
+      ]
     },
     "14": {
-      "parafrase": "Raquel e Lia responderam: 'Temos ainda alguma porção ou herança na casa de nosso pai?'",
-      "referencias": [],
-      "comentario": "A resposta das esposas mostra sua total alienação de sua família de origem. Elas sentem que não têm mais futuro ou herança com Labão.",
-      "temas": ["alienação familiar", "herança", "lealdade"],
-      "personagens": ["Raquel", "Lia"]
+      "parafrase": "Então, uma voz me instruiu: 'Levante-se, saia desta terra e volte para a terra dos seus parentes. Eu o abençoarei abundantemente!'.",
+      "referencias": [
+        "Gênesis 12:1",
+        "Lucas 12:32"
+      ],
+      "comentario": "Este é o comando final para a partida, ecoando a primeira ordem do versículo 3, mas agora com a força da confirmação da injustiça sofrida. A promessa de 'abundante bênção' (גָּדוֹל, gadol - grande/muito) reforça o favor divino sobre a saída.",
+      "temas": [
+        "Comando de Partida",
+        "Abundância",
+        "Promessa Cumprida"
+      ],
+      "personagens": [
+        "Deus",
+        "Jacó"
+      ]
     },
     "15": {
-      "parafrase": "'Não somos consideradas por ele como estrangeiras? Pois ele nos vendeu e ainda por cima gastou todo o nosso dinheiro'.",
-      "referencias": [],
-      "comentario": "Elas acusam o pai de tratá-las como mercadoria. Ele as 'vendeu' em troca do trabalho de Jacó e, em vez de guardar o dote para elas (como era o costume), ele o usou para si mesmo. A ganância de Labão custou-lhe a lealdade de suas próprias filhas.",
-      "temas": ["acusação", "ganância", "exploração", "lealdade perdida"],
-      "personagens": ["Raquel", "Lia", "Labão"]
+      "parafrase": "Raquel e Lia responderam juntas, com amargura nos corações: 'Nós não temos mais nenhuma parte ou direito de herança em nossa casa paterna. Ele nos tratou como se fôssemos mercadorias estranhas, e ainda por cima gastou todo o dinheiro que ganhamos com o nosso esforço para nos comprar de volta!'",
+      "referencias": [
+        "Gênesis 29:25",
+        "Colossenses 3:11"
+      ],
+      "comentario": "Este versículo repete, com ênfase, a queixa das esposas (cf. v. 6), sublinhando o sentimento de alienação e a apropriação indevida dos bens adquiridos. O uso do termo 'estranhas' (נָכְרִיּוֹת, nokhriyyot) mostra que elas se sentiam desassociadas da família original de Labão.",
+      "temas": [
+        "Alienação Familiar",
+        "Direitos Negados",
+        "Amargura"
+      ],
+      "personagens": [
+        "Raquel",
+        "Lia"
+      ]
     },
     "16": {
-      "parafrase": "'Certamente, toda a riqueza que Deus tirou de nosso pai pertence a nós e a nossos filhos. Portanto, faça tudo o que Deus lhe disse para fazer'.",
-      "referencias": [],
-      "comentario": "Elas veem a riqueza de Jacó como sua própria herança legítima, recuperada por Deus. Elas dão a Jacó seu total apoio e o encorajam a obedecer a Deus, mostrando que sua lealdade agora está totalmente com seu marido e seu Deus.",
-      "temas": ["apoio", "lealdade conjugal", "obediência a Deus", "justiça"],
-      "personagens": ["Raquel", "Lia", "Deus", "Jacó"]
+      "parafrase": "Todo o rebanho que tiramos das mãos de Labão, toda a riqueza que ele nos roubou com sua exploração, de fato, pertence a nós e aos nossos filhos. Por isso, vamos fazer tudo o que Deus nos ordenou e partir agora mesmo!'",
+      "referencias": [
+        "Gênesis 27:36",
+        "Salmos 127:1"
+      ],
+      "comentario": "As mulheres veem a riqueza acumulada não como um presente de Labão, mas como um 'roubo' recuperado, que pertence legitimamente a elas e à sua descendência. Elas demonstram ser mais resolutas que Jacó, impulsionando a ação imediata em obediência a Deus.",
+      "temas": [
+        "Reivindicação de Bens",
+        "Legitimidade da Herança",
+        "Resolução"
+      ],
+      "personagens": [
+        "Raquel",
+        "Lia",
+        "Labão"
+      ]
     },
     "17": {
-      "parafrase": "Então Jacó se preparou e colocou seus filhos e suas mulheres sobre os camelos.",
-      "referencias": [],
-      "comentario": "Com o apoio de sua família, Jacó inicia a fuga.",
-      "temas": ["fuga", "partida"],
-      "personagens": ["Jacó"]
+      "parafrase": "Então, Jacó fez seus filhos e suas esposas montarem nos camelos, e ele juntou todos os seus bens, todo o gado que havia conquistado com seu próprio trabalho e poder, para iniciar a longa viagem de volta para Canaã, a terra de seu pai Isaque.",
+      "referencias": [
+        "Gênesis 24:61",
+        "Hebreus 11:13"
+      ],
+      "comentario": "A partida é organizada e focada no destino final (Canaã). O 'trabalho de suas mãos' (כֹּחַ יָדִי, koach yadi) enfatiza que a riqueza era fruto de seu esforço, agora validado pela ordem divina.",
+      "temas": [
+        "Partida Organizada",
+        "Êxodo Pessoal",
+        "Destino Bíblico"
+      ],
+      "personagens": [
+        "Jacó",
+        "Filhos de Jacó",
+        "Raquel",
+        "Lia"
+      ]
     },
     "18": {
-      "parafrase": "E levou consigo todo o seu rebanho e todos os bens que havia adquirido em Padã-Arã, para voltar a seu pai Isaque, na terra de Canaã.",
-      "referencias": [],
-      "comentario": "Ele leva tudo o que acumulou durante seus vinte anos de serviço, com o objetivo de retornar à sua casa e à terra prometida.",
-      "temas": ["retorno", "riqueza", "terra prometida"],
-      "personagens": ["Jacó", "Isaque"]
+      "parafrase": "Jacó partiu, deixando para trás todo o seu rebanho e seus bens. Ele partiu secretamente, sem avisar Labão sobre sua intenção de se mudar.",
+      "referencias": [
+        "Gênesis 27:43",
+        "2 Coríntios 6:5"
+      ],
+      "comentario": "A partida é 'oculta' ou 'secreta' (בַּגְּנֵבָה, bag-genevah). Isso reflete a desconfiança mútua: Jacó temia a reação imediata de Labão e a possibilidade de ser impedido de levar embora o que considerava seu.",
+      "temas": [
+        "Partida Secreta",
+        "Desconfiança",
+        "Fuga Tática"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "19": {
-      "parafrase": "Enquanto Labão tinha ido tosquiar suas ovelhas, Raquel roubou os ídolos da casa que pertenciam a seu pai.",
-      "referencias": [],
-      "comentario": "Aproveitando a ausência de Labão, Raquel comete um ato de roubo e idolatria. Os ídolos domésticos (terafins) eram pequenas estátuas que se acreditava trazerem proteção e prosperidade, e também podiam servir como uma espécie de título de propriedade. O ato de Raquel mostra que, apesar de sua lealdade a Jacó, ela ainda estava presa à superstição de sua família de origem.",
-      "temas": ["roubo", "idolatria", "superstição", "fé imperfeita"],
-      "personagens": ["Labão", "Raquel"]
+      "parafrase": "Enquanto isso, Labão estava fora da cidade, tosquiando suas ovelhas. Foi nesse exato momento que Raquel aproveitou para furtar os ídolos da casa de seu pai, os pequenos deuses domésticos que eram considerados parte da herança familiar.",
+      "referencias": [
+        "1 Samuel 19:13",
+        "Êxodo 20:3"
+      ],
+      "comentario": "A ação de Raquel é surpreendente e complexa. Ela rouba os 'terafim' (ídolos domésticos). A razão para o roubo é debatida: proteger Jacó de qualquer maldição associada a eles ou garantir que, ao deixar a casa de Labão, ela levasse um símbolo de autoridade ou proteção familiar, mesmo que fosse pagão.",
+      "temas": [
+        "Idolatria Doméstica",
+        "Roubo de Relíquias",
+        "Iniciativa de Raquel"
+      ],
+      "personagens": [
+        "Labão",
+        "Raquel"
+      ]
     },
     "20": {
-      "parafrase": "E Jacó enganou Labão, o arameu, não lhe dizendo que estava fugindo.",
-      "referencias": [],
-      "comentario": "Jacó, o 'enganador', age de acordo com seu nome mais uma vez, partindo em segredo para evitar um confronto.",
-      "temas": ["engano", "fuga secreta"],
-      "personagens": ["Jacó", "Labão"]
+      "parafrase": "E, sem que Labão soubesse, Jacó se afastou muito, atravessando o Rio Eufrates e seguindo em direção às colinas de Gileade, no território que ficava além do rio.",
+      "referencias": [
+        "Gênesis 15:18",
+        "Josué 1:4"
+      ],
+      "comentario": "A travessia do Eufrates (o grande rio) marca uma separação física e cultural definitiva entre a Mesopotâmia (terra de Labão) e Canaã (terra prometida). Eles alcançaram Gileade, a fronteira oriental da terra prometida.",
+      "temas": [
+        "Separação Geográfica",
+        "Travessia de Fronteira",
+        "Cumprimento da Jornada"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "21": {
-      "parafrase": "Ele fugiu com tudo o que tinha e, atravessando o rio Eufrates, dirigiu-se para a região montanhosa de Gileade.",
-      "referencias": [],
-      "comentario": "A fuga é bem-sucedida inicialmente. Atravessar o Eufrates era um ponto de não retorno, e ele se dirige a Gileade, na fronteira da terra prometida.",
-      "temas": ["fuga", "jornada"],
-      "personagens": ["Jacó"]
+      "parafrase": "Três dias depois de sua partida, Labão finalmente descobriu que Jacó havia fugido com tudo o que era seu.",
+      "referencias": [
+        "Gênesis 31:26",
+        "Salmos 119:147"
+      ],
+      "comentario": "O atraso de três dias foi crucial. Esse tempo permitiu que Jacó ganhasse uma distância significativa, tornando a perseguição de Labão muito mais difícil e dispendiosa, cumprindo o plano tático.",
+      "temas": [
+        "Descoberta Tardia",
+        "Vantagem Estratégica",
+        "Perseguição"
+      ],
+      "personagens": [
+        "Labão",
+        "Jacó"
+      ]
     },
     "22": {
-      "parafrase": "No terceiro dia, Labão foi informado de que Jacó havia fugido.",
-      "referencias": [],
-      "comentario": "A notícia da fuga chega a Labão, que imediatamente se prepara para a perseguição.",
-      "temas": ["notícia", "perseguição"],
-      "personagens": ["Labão", "Jacó"]
+      "parafrase": "No sétimo dia, Labão conseguiu alcançar Jacó e sua comitiva, que já estavam acampados nas montanhas de Gileade.",
+      "referencias": [
+        "Jó 1:14"
+      ],
+      "comentario": "A perseguição durou sete dias. Ao alcançá-los em Gileade, Labão os encurralou, transformando a fuga em um confronto iminente. A menção do sétimo dia pode sugerir um ciclo completo de trabalho ou espera.",
+      "temas": [
+        "Confronto Iminente",
+        "Encalhe",
+        "Perseguição Agressiva"
+      ],
+      "personagens": [
+        "Labão",
+        "Jacó"
+      ]
     },
     "23": {
-      "parafrase": "Tomando consigo seus parentes, perseguiu-o por sete dias e o alcançou na região montanhosa de Gileade.",
-      "referencias": [],
-      "comentario": "A perseguição é longa e determinada. Labão e seu clã alcançam Jacó em Gileade, preparando o cenário para um confronto tenso.",
-      "temas": ["perseguição", "confronto iminente"],
-      "personagens": ["Labão", "Jacó"]
+      "parafrase": "Naquela mesma noite, Deus apareceu a Labão em um sonho, e o advertiu severamente: 'Não ouse proferir uma palavra sequer contra Jacó, seja ela de ameaça ou de ofensa!'",
+      "referencias": [
+        "Gênesis 20:3",
+        "Jó 5:17"
+      ],
+      "comentario": "Mais uma vez, Deus intervém antes do conflito físico, usando o sono como veículo de sua soberania. A advertência é absoluta ('não fale mal' ou 'não fale bem/mal'), proibindo qualquer tipo de provocação ou acusação formal contra Jacó.",
+      "temas": [
+        "Advertência Divina",
+        "Intervenção Celestial",
+        "Proibição de Hostilidade"
+      ],
+      "personagens": [
+        "Deus",
+        "Labão"
+      ]
     },
     "24": {
-      "parafrase": "Mas Deus veio a Labão, o arameu, em um sonho, durante a noite, e lhe disse: 'Cuidado! Não diga nada a Jacó, nem bom nem mau'.",
-      "referencias": ["Gênesis 20:3"],
-      "comentario": "Assim como com Abimeleque, Deus intervém para proteger Seu servo. Ele aparece a Labão em um sonho e lhe dá uma advertência severa, neutralizando sua raiva e impedindo-o de prejudicar Jacó. A ordem para não dizer 'nem bom nem mau' era uma ordem para não interferir de forma alguma.",
-      "temas": ["intervenção divina", "proteção", "revelação em sonho", "advertência"],
-      "personagens": ["Deus", "Labão", "Jacó"]
+      "parafrase": "No dia seguinte, Labão acordou e foi ao encontro de Jacó. Ele estava pronto para brigar, mas o medo da ordem recebida de Deus o continha.",
+      "referencias": [
+        "Gênesis 31:29",
+        "Salmos 34:4"
+      ],
+      "comentario": "O contraste entre a intenção original de Labão ('confrontar', como no versículo anterior) e sua postura no dia seguinte é evidente. O temor de Deus (יראת אלהים, yirat Elohim) se torna uma força coercitiva poderosa que impede a violência contra o fugitivo.",
+      "temas": [
+        "Temor de Deus",
+        "Contenção da Ira",
+        "Medo Reverencial"
+      ],
+      "personagens": [
+        "Labão",
+        "Jacó"
+      ]
     },
     "25": {
-      "parafrase": "Labão alcançou Jacó, que havia armado sua tenda nas montanhas. Labão e seus parentes também acamparam na região montanhosa de Gileade.",
-      "referencias": [],
-      "comentario": "O encontro acontece, mas a ameaça de violência foi neutralizada pela intervenção de Deus.",
-      "temas": ["encontro", "tensão"],
-      "personagens": ["Labão", "Jacó"]
+      "parafrase": "Chegando-se a Jacó, Labão disse: 'O que você fez, agindo de forma tão sorrateira? Por que fugiu sem me avisar, como um ladrão? Por que não me deu a chance de me despedir de minhas filhas e netos com uma festa e uma bênção?',",
+      "referencias": [
+        "Gênesis 31:27",
+        "Provérbios 29:11"
+      ],
+      "comentario": "Labão, embora impedido de agir violentamente, expressa sua fúria através de acusações verbais. Ele se concentra na quebra da etiqueta social e familiar (a falta de um adeus cerimonial), desviando a atenção da injustiça que ele mesmo cometeu, ao mesmo tempo que demonstra interesse nos bens ('o que você fez').",
+      "temas": [
+        "Acusação Formal",
+        "Quebra de Protocolo",
+        "Hipocrisia"
+      ],
+      "personagens": [
+        "Labão",
+        "Jacó"
+      ]
     },
     "26": {
-      "parafrase": "E Labão disse a Jacó: 'O que você fez? Você me enganou e levou minhas filhas como se fossem prisioneiras de guerra'.",
-      "referencias": [],
-      "comentario": "Labão confronta Jacó, acusando-o de engano e de tratar suas filhas como cativas, o que era uma grande desonra.",
-      "temas": ["confronto", "acusação", "desonra"],
-      "personagens": ["Labão", "Jacó"]
+      "parafrase": "Então, Labão, ao ouvir a conversa e vendo a tristeza profunda de Raquel e Lia, sentiu-se encurralado e respondeu aos seus genros com uma expressão de surpresa e até um pouco de desafio, perguntando-lhes: 'De onde vocês tiraram a ideia de ir embora, deixando minha casa e minhas filhas? O que eu fiz para merecer isso? Saibam que elas são minhas preciosidades, meus maiores tesouros, e eu as criei com tanto carinho!'",
+      "referencias": [
+        "Êxodo 3:7",
+        "Mateus 7:12"
+      ],
+      "comentario": "Labão percebe que a união dos irmãos (Jacó e Esaú, em um sentido mais amplo de família) é agora contra ele. Ele apela ao laço pessoal ('minhas filhas'), tentando manipular a culpa. O tom é de indignação defensiva, buscando manter o controle sobre o patrimônio familiar (as mulheres).",
+      "temas": [
+        "Conflito Familiar",
+        "Manipulação",
+        "Posse"
+      ],
+      "personagens": [
+        "Labão",
+        "Jacó",
+        "Lia",
+        "Raquel"
+      ]
     },
     "27": {
-      "parafrase": "'Por que você fugiu em segredo e me enganou? Por que não me avisou, para que eu pudesse despedi-lo com alegria e cânticos, ao som de tamborins e harpas?'",
-      "referencias": [],
-      "comentario": "Labão finge que teria dado a Jacó uma festa de despedida, uma afirmação duvidosa, dado seu comportamento anterior. Ele tenta se colocar em uma posição moralmente superior.",
-      "temas": ["falsa indignação", "manipulação"],
-      "personagens": ["Labão"]
+      "parafrase": "Labão continuou, tentando negociar e ganhar tempo, dizendo: 'Se ao menos eu tivesse encontrado graça aos seus olhos, eu lhes pediria que ficassem! Eu lhes daria um salário justo e um bom acordo, pois vocês trabalharam fielmente para mim por anos a fio.'",
+      "referencias": [
+        "Êxodo 21:2",
+        "Colossenses 3:23"
+      ],
+      "comentario": "Aqui Labão tenta reverter a situação, transformando uma fuga planejada em uma negociação. O Hebraico sugere que ele deveria ter recebido um 'presente' ou 'recompensa' (um costume social) antes da partida, o que ele reconhece tardiamente, tentando salvar a honra.",
+      "temas": [
+        "Negociação",
+        "Retenção",
+        "Dever"
+      ],
+      "personagens": [
+        "Labão",
+        "Jacó"
+      ]
     },
     "28": {
-      "parafrase": "'Você nem mesmo me deixou beijar meus netos e minhas filhas em despedida. Você agiu como um tolo'.",
-      "referencias": [],
-      "comentario": "Ele acusa Jacó de crueldade e tolice, apelando para os laços familiares que ele mesmo havia explorado.",
-      "temas": ["acusação", "apelo emocional"],
-      "personagens": ["Labão"]
+      "parafrase": "Ele então estabelece uma condição clara, como quem tenta impor um limite: 'Vocês podem ir embora agora se quiserem, mas estabeleçam um preço! Digam-me qual será a minha compensação por todo o serviço que vocês me prestaram, e eu aceito, contanto que não seja um acordo injusto.'",
+      "referencias": [
+        "Lucas 10:7",
+        "1 Coríntios 9:14"
+      ],
+      "comentario": "A menção de 'salário' mostra que Labão reconhece o valor do trabalho de Jacó. Ele está disposto a pagar, mas apenas sob suas próprias regras e sob a pressão da partida iminente. Ele está tentando legalizar a libertação, mas mantendo a vantagem financeira.",
+      "temas": [
+        "Compensação",
+        "Acordo",
+        "Poder Econômico"
+      ],
+      "personagens": [
+        "Labão",
+        "Jacó"
+      ]
     },
     "29": {
-      "parafrase": "'Eu tenho poder para prejudicá-lo, mas na noite passada o Deus de seu pai me disse: ‘Cuidado! Não diga nada a Jacó, nem bom nem mau’.'",
-      "referencias": [],
-      "comentario": "Labão revela a verdadeira razão pela qual não atacou Jacó. Ele admite que tem o poder militar, mas foi contido por uma advertência divina. Ele revela a intervenção de Deus, talvez para intimidar Jacó ou para se justificar.",
-      "temas": ["ameaça velada", "intervenção divina", "confissão"],
-      "personagens": ["Labão", "Deus", "Jacó"]
+      "parafrase": "Jacó, firme em sua decisão e cansado das manobras de Labão, respondeu com a verdade dura, lembrando o passado: 'Vocês bem sabem o quanto eu trabalhei arduamente aqui, e como o senhor administrou seus rebanhos sob minha guarda. Pense em como Deus o abençoou através do meu esforço durante esses anos todos.'",
+      "referencias": [
+        "Gênesis 30:30",
+        "Provérbios 13:22"
+      ],
+      "comentario": "Jacó se apoia na evidência divina. Ele não pede um favor; ele reivindica o que lhe é devido, citando o testemunho de Labão em favor de sua fidelidade e a bênção visível de Deus sobre os bens de Labão enquanto ele estava lá. O trabalho de Jacó foi o catalisador da prosperidade de Labão.",
+      "temas": [
+        "Fidelidade",
+        "Reivindicação",
+        "Reconhecimento Divino"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "30": {
-      "parafrase": "'Agora, eu sei que você partiu porque tinha muita saudade da casa de seu pai, mas por que você roubou os meus deuses?'",
-      "referencias": [],
-      "comentario": "Labão faz uma concessão, mas depois passa para sua acusação principal e a verdadeira razão de sua raiva: o roubo de seus ídolos domésticos, que tinham valor tanto espiritual quanto material para ele.",
-      "temas": ["acusação principal", "roubo", "idolatria"],
-      "personagens": ["Labão"]
+      "parafrase": "'Antes que eu chegasse, o senhor tinha poucos bens; mas desde que eu cheguei e servi, o Senhor fez suas posses se multiplicarem de maneira impressionante. Agora, quando devo cuidar da minha própria família e dos meus bens, o senhor quer me pagar pouco?'",
+      "referencias": [
+        "Deuteronômio 28:12",
+        "2 Coríntios 9:6"
+      ],
+      "comentario": "Este é o cerne do argumento de Jacó: a correlação direta entre sua presença e a multiplicação da riqueza de Labão. Ele estabelece um contraste claro entre o estado anterior e posterior à sua chegada, fundamentando sua reivindicação na observação empírica da prosperidade concedida por Deus.",
+      "temas": [
+        "Prosperidade",
+        "Contraste",
+        "Causa e Efeito"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "31": {
-      "parafrase": "Jacó respondeu a Labão: 'Tive medo, pois pensei que você poderia tomar suas filhas de mim à força'.",
-      "referencias": [],
-      "comentario": "Jacó responde à primeira acusação, explicando que sua fuga secreta foi motivada pelo medo do comportamento imprevisível de Labão.",
-      "temas": ["justificativa", "medo"],
-      "personagens": ["Jacó", "Labão"]
+      "parafrase": "Labão, sentindo-se acuado pela lógica irrefutável de Jacó, respondeu, tentando soar ofendido: 'Mas eu amo minhas filhas! E amo os netos que elas lhe deram! E todo esse rebanho que você vê, tudo isso já é seu, ou pelo menos uma parte substancial foi conquistada por você através de métodos que permiti!'",
+      "referencias": [
+        "Provérbios 18:24",
+        "Tiago 2:15"
+      ],
+      "comentario": "Labão muda o foco da discussão de dívida financeira para laços emocionais ('amo minhas filhas'), uma tática clássica para desviar a atenção da justiça. Ele tenta incluir nos 'presentes' já dados o que Jacó claramente ainda não havia recebido formalmente.",
+      "temas": [
+        "Desvio de Assunto",
+        "Afeto Superficial",
+        "Propriedade Mista"
+      ],
+      "personagens": [
+        "Labão",
+        "Jacó"
+      ]
     },
     "32": {
-      "parafrase": "'Mas, quanto aos seus deuses, com quem quer que você os encontrar, essa pessoa não viverá. Na presença de nossos parentes, veja você mesmo se há algo seu comigo e pegue-o'. Ora, Jacó não sabia que Raquel os havia roubado.",
-      "referencias": [],
-      "comentario": "Confiante em sua inocência (e na de sua casa), Jacó pronuncia uma sentença de morte sobre o culpado, sem saber que estava amaldiçoando sua própria esposa amada. Sua declaração precipitada coloca Raquel em grande perigo.",
-      "temas": ["declaração precipitada", "maldição involuntária", "ironia", "perigo"],
-      "personagens": ["Jacó", "Labão", "Raquel"]
+      "parafrase": "Jacó então aponta para o passado recente, lembrando de um acordo específico que Labão havia feito anteriormente: 'Qualquer animal manchado, com pintas ou com cores diversas que aparecer entre as ovelhas e cabras, considere isso meu salário. Este foi o trato acordado há muito tempo!'",
+      "referencias": [
+        "Gênesis 30:31-33",
+        "Hebreus 6:17"
+      ],
+      "comentario": "Jacó traz à memória o acordo original sobre o gado de cor. Ele força Labão a confrontar um contrato que, na época, parecia desvantajoso para Jacó, mas que, devido ao método de reprodução (imaginado ou milagroso), tornou-se sua grande fonte de riqueza.",
+      "temas": [
+        "Acordo Pretérito",
+        "Justiça Contratual",
+        "Salário"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "33": {
-      "parafrase": "Então Labão entrou na tenda de Jacó, na de Lia e na das duas servas, mas não encontrou nada. Depois de sair da tenda de Lia, entrou na de Raquel.",
-      "referencias": [],
-      "comentario": "Labão realiza uma busca completa, determinado a encontrar seus ídolos.",
-      "temas": ["busca", "investigação"],
-      "personagens": ["Labão", "Jacó", "Lia", "Raquel"]
+      "parafrase": "A realidade é que, logo depois de selarem este acordo, Labão rapidamente moveu todos os animais que tinham cores definidas (manchados, pintados ou com pintas) para um lugar bem distante, a uma distância de três dias de caminhada. Ele fez isso para que seus próprios animais estivessem longe dos animais que Jacó estava acumulando como pagamento.",
+      "referencias": [
+        "Gênesis 30:35",
+        "Apocalipse 12:9"
+      ],
+      "comentario": "Este versículo expõe a má-fé imediata de Labão. Assim que o acordo foi feito, ele tentou sabotar Jacó, removendo a 'matéria-prima' para o salário prometido. A distância de 'três dias' era significativa no contexto da época, um grande esforço para o gado.",
+      "temas": [
+        "Má-fé",
+        "Sabotagem",
+        "Distância Estratégica"
+      ],
+      "personagens": [
+        "Labão",
+        "Jacó"
+      ]
     },
     "34": {
-      "parafrase": "Raquel havia pegado os ídolos da casa, os colocado na sela de um camelo e estava sentada sobre eles. Labão vasculhou toda a tenda, mas não os encontrou.",
-      "referencias": [],
-      "comentario": "Raquel usa de astúcia para esconder os ídolos, sentando-se sobre eles.",
-      "temas": ["astúcia", "engano", "esconderijo"],
-      "personagens": ["Raquel", "Labão"]
+      "parafrase": "No entanto, mesmo com essa separação imposta por Labão, os animais com pelagem fraca e comum que restaram com Jacó continuaram a procriar, e Deus estava claramente abençoando o rebanho de Jacó de uma maneira que desafiava a lógica do pastor.",
+      "referencias": [
+        "Gênesis 30:37-39",
+        "Salmos 1:3"
+      ],
+      "comentario": "A intervenção divina é a resposta de Jacó à sabotagem de Labão. Mesmo com o gado 'errado' ou 'inferior' sob sua guarda, Deus garantiu a multiplicação, frustrando o plano de Labão de deixar para Jacó apenas o gado de cor simples e sem valor comercial.",
+      "temas": [
+        "Providente",
+        "Frustração do Mal",
+        "Multiplicação"
+      ],
+      "personagens": [
+        "Deus",
+        "Jacó",
+        "Labão"
+      ]
     },
     "35": {
-      "parafrase": "E ela disse a seu pai: 'Que meu senhor não se irrite por eu não poder me levantar em sua presença, pois estou com o costume das mulheres'. E ele procurou, mas não encontrou os ídolos.",
-      "referencias": [],
-      "comentario": "Raquel usa a desculpa da menstruação para evitar se levantar, um tabu cultural que Labão respeitaria. O engano dela é bem-sucedido, e ela supera seu pai em astúcia, assim como Jacó.",
-      "temas": ["engano", "desculpa", "astúcia"],
-      "personagens": ["Raquel", "Labão"]
+      "parafrase": "Naquele dia específico, Labão separou os bodes que tinham listras e manchas e todos os animais de cor branca misturada no rebanho que eram machos, e os deu sob a custódia de seus próprios filhos, como um ato final de distanciamento do que Jacó merecia.",
+      "referencias": [
+        "Gênesis 30:35",
+        "1 Samuel 1:5"
+      ],
+      "comentario": "Labão tenta garantir que os animais geneticamente mais propensos a gerar descendentes com as marcas desejadas fiquem com sua linhagem (seus filhos). É um ato de transferência de propriedade para a próxima geração, tentando minimizar a perda futura para ele mesmo.",
+      "temas": [
+        "Herança de Filhos",
+        "Controle de Recursos",
+        "Transferência de Bens"
+      ],
+      "personagens": [
+        "Labão",
+        "Jacó",
+        "Filhos de Labão"
+      ]
     },
     "36": {
-      "parafrase": "Então Jacó ficou irado e discutiu com Labão. E lhe disse: 'Qual foi o meu crime, qual foi o meu pecado, para que você me perseguisse com tanto furor?'",
-      "referencias": [],
-      "comentario": "Sentindo-se vindicado após a busca infrutífera, a raiva reprimida de Jacó explode. Ele passa da defesa para o ataque, confrontando Labão com a injustiça da perseguição.",
-      "temas": ["ira", "confronto", "justa indignação"],
-      "personagens": ["Jacó", "Labão"]
+      "parafrase": "Assim, Labão colocou uma distância considerável — o equivalente a uma jornada de três dias de caminho — entre os seus próprios rebanhos e os rebanhos confiados a Jacó, impedindo o contato direto entre eles.",
+      "referencias": [
+        "Gênesis 31:41",
+        "Atos 15:39"
+      ],
+      "comentario": "A distância estabelecida reforça a desconfiança. Três dias de caminhada era o tempo suficiente para que a reprodução não misturasse imediatamente os padrões genéticos desejados por Jacó com os padrões controlados por Labão. A separação física era uma tentativa de controle reprodutivo.",
+      "temas": [
+        "Separação Física",
+        "Controle Reprodutivo",
+        "Desconfiança Mútua"
+      ],
+      "personagens": [
+        "Labão",
+        "Jacó"
+      ]
     },
     "37": {
-      "parafrase": "'Agora que você vasculhou todos os meus bens, que objeto de sua casa você encontrou? Coloque-o aqui, na frente dos meus e dos seus parentes, para que eles julguem entre nós dois'.",
-      "referencias": [],
-      "comentario": "Jacó desafia Labão publicamente, exigindo provas de sua acusação e pedindo que seus parentes em comum ajam como juízes.",
-      "temas": ["desafio", "exigência de provas", "justiça"],
-      "personagens": ["Jacó", "Labão"]
+      "parafrase": "Então, Jacó pegou varas frescas e verdes de álamo, de salgueiro e de plátano, tirou a casca de algumas partes delas, revelando o branco por baixo, criando assim um padrão mosqueado nas varas.",
+      "referencias": [
+        "Gênesis 30:37",
+        "Jeremias 17:9"
+      ],
+      "comentario": "Aqui se inicia a 'estratégia das varas'. Jacó utiliza um método empírico, mas baseado na observação da natureza, para influenciar a concepção. O ato de descascar as varas até o branco era um estímulo visual que ele acreditava ser a chave para obter o gado pintado (embora a ciência moderna não apoie totalmente essa visão, na narrativa é o instrumento da fé de Jacó).",
+      "temas": [
+        "Estratégia",
+        "Manipulação Ambiental",
+        "Sinal Visual"
+      ],
+      "personagens": [
+        "Jacó"
+      ]
     },
     "38": {
-      "parafrase": "'Estive com você por vinte anos. Suas ovelhas e cabras nunca abortaram, e eu nunca comi os carneiros de seu rebanho'.",
-      "referencias": [],
-      "comentario": "Jacó começa a listar seu histórico de serviço impecável, destacando sua honestidade e o cuidado que teve com os rebanhos de Labão.",
-      "temas": ["defesa do caráter", "serviço fiel", "honestidade"],
-      "personagens": ["Jacó"]
+      "parafrase": "Ele colocou essas varas descascadas diretamente nos canais de água, no local onde os animais mais fortes e saudáveis iam beber e se acasalavam, de modo que eles vissem o branco das varas enquanto se uniam.",
+      "referencias": [
+        "Salmos 105:30",
+        "1 Reis 12:28"
+      ],
+      "comentario": "A colocação estratégica das varas no bebedouro, local de alta atividade reprodutiva, maximiza a exposição visual durante o ato sexual. Jacó estava apostando que a visão dos padrões influenciava a descendência, um princípio que ele havia observado ou aprendido.",
+      "temas": [
+        "Estímulo Visual",
+        "Ato Reprodutivo",
+        "Método Prático"
+      ],
+      "personagens": [
+        "Jacó"
+      ]
     },
     "39": {
-      "parafrase": "'Eu não lhe trazia os animais despedaçados por feras; eu mesmo arcava com o prejuízo. Você exigia de mim o que fosse roubado de dia ou de noite'.",
-      "referencias": ["Êxodo 22:12-13"],
-      "comentario": "Jacó ressalta que foi além de suas obrigações como pastor. Pela lei, um pastor não era responsável por animais mortos por feras, mas Jacó assumia a perda. Ele acusa Labão de ser um mestre exigente e injusto.",
-      "temas": ["serviço exemplar", "injustiça", "responsabilidade"],
-      "personagens": ["Jacó", "Labão"]
+      "parafrase": "Consequentemente, quando as fêmeas mais fortes e vigorosas ficavam excitadas e acasalavam perto dessas varas marcadas, elas geravam descendentes listrados, pintados e manchados — ou seja, o rebanho que fora contratado como pagamento de Jacó.",
+      "referencias": [
+        "Gênesis 30:39",
+        "Provérbios 27:17"
+      ],
+      "comentario": "O resultado da ação de Jacó é apresentado como um sucesso imediato e direto. O texto bíblico atribui a mudança genética ao estímulo visual promovido por Jacó, consolidando seu pagamento com o gado de cor desejada.",
+      "temas": [
+        "Resultado Direto",
+        "Sucesso da Estratégia",
+        "Geração"
+      ],
+      "personagens": [
+        "Jacó"
+      ]
     },
     "40": {
-      "parafrase": "'De dia o calor me consumia, e de noite, o frio; e o sono fugia dos meus olhos'.",
-      "referencias": [],
-      "comentario": "Ele descreve as duras condições de seu trabalho, enfatizando seu sacrifício e diligência.",
-      "temas": ["trabalho árduo", "sacrifício", "diligência"],
-      "personagens": ["Jacó"]
+      "parafrase": "Dessa forma, Jacó separava as crias, colocando-as separadamente. Ele fazia com que o gado mais forte do rebanho de Labão olhasse para as varas marcadas, garantindo que os animais fortes gerassem descendentes pintados para si, enquanto deixava os rebanhos mais fracos sem o estímulo visual, para Labão.",
+      "referencias": [
+        "Gênesis 30:41-43",
+        "Romanos 12:2"
+      ],
+      "comentario": "Jacó implementa um sistema de separação rigoroso: o gado forte (o que Labão queria manter) era exposto aos 'sinais' para gerar descendentes para Jacó; o gado fraco (o que Jacó estava disposto a aceitar) não recebia o estímulo, beneficiando Labão. Isso demonstra uma astúcia notável na gestão dos rebanhos.",
+      "temas": [
+        "Gestão Estratégica",
+        "Separação de Rebanhos",
+        "Astúcia"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "41": {
-      "parafrase": "'Foi assim que passei vinte anos em sua casa. Trabalhei para você catorze anos por suas duas filhas e seis anos por seu rebanho, e você mudou meu salário dez vezes'.",
-      "referencias": [],
-      "comentario": "Ele resume seus vinte anos de serviço e reitera a acusação de que Labão o enganou repetidamente.",
-      "temas": ["resumo do serviço", "acusação", "engano"],
-      "personagens": ["Jacó", "Labão"]
+      "parafrase": "Sempre que as fêmeas mais fortes ficavam prenhes, Jacó colocava as varas na frente delas, de modo que o resultado do acasalamento fosse o gado malhado e pintado, conforme o seu próprio salário.",
+      "referencias": [
+        "Gênesis 30:39",
+        "Tiago 1:22"
+      ],
+      "comentario": "O texto reafirma o método e o resultado nos momentos cruciais da gestação. Jacó era diligente em aplicar a técnica no momento exato em que a influência visual seria mais eficaz para garantir a cor desejada em sua parte da criação.",
+      "temas": [
+        "Diligência",
+        "Resultado Desejado",
+        "Foco"
+      ],
+      "personagens": [
+        "Jacó"
+      ]
     },
     "42": {
-      "parafrase": "'Se o Deus de meu pai, o Deus de Abraão e o Temor de Isaque, não estivesse comigo, certamente você me teria despedido de mãos vazias. Mas Deus viu o meu sofrimento e o trabalho das minhas mãos, e na noite passada ele fez justiça'.",
-      "referencias": [],
-      "comentario": "Jacó conclui sua defesa atribuindo sua sobrevivência e sucesso unicamente a Deus. Ele usa um novo título para Deus, 'o Temor de Isaque', mostrando seu respeito pelo Deus de seu pai. Ele vê a advertência de Deus a Labão na noite anterior como a vindicação final de sua causa.",
-      "temas": ["testemunho da fidelidade de Deus", "vindicação divina", "justiça", "sofrimento"],
-      "personagens": ["Jacó", "Deus", "Abraão", "Isaque", "Labão"]
+      "parafrase": "Mas quando o rebanho mais fraco, aquele destinado a Labão, estava para conceber, Jacó não colocava as varas na frente delas. Assim, os animais mais fracos geravam filhos de cor uniforme, que ficavam para Labão, enquanto Jacó enriquecia com os melhores.",
+      "referencias": [
+        "Provérbios 11:24",
+        "Filipenses 2:4"
+      ],
+      "comentario": "Este versículo completa o contraste. Jacó praticava a 'retenção seletiva' do estímulo visual. Ele era generoso em aplicar a técnica onde o retorno era para ele (gado forte) e econômico onde o retorno seria para Labão (gado fraco). É o ápice de sua gestão astuta.",
+      "temas": [
+        "Retenção Seletiva",
+        "Ganho Pessoal",
+        "Distinção"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "43": {
-      "parafrase": "Labão respondeu a Jacó: 'As mulheres são minhas filhas, os filhos são meus filhos, os rebanhos são meus rebanhos. Tudo o que você vê é meu. Mas o que posso fazer hoje por estas minhas filhas ou pelos filhos que elas geraram?'",
-      "referencias": [],
-      "comentario": "Labão, incapaz de refutar as acusações de Jacó, responde com uma reivindicação possessiva sobre tudo. No entanto, ele termina em um tom de resignação, reconhecendo que não pode fazer nada contra sua própria família. É uma admissão de derrota.",
-      "temas": ["possessividade", "resignação", "derrota"],
-      "personagens": ["Labão", "Jacó"]
+      "parafrase": "Dessa maneira, Jacó se tornou extremamente rico, acumulando vastos rebanhos de ovelhas e cabras, além de grandes quantidades de camelos, jumentos e escravos, pois sua habilidade e a bênção de Deus o fizeram prosperar muito além das expectativas de Labão.",
+      "referencias": [
+        "Gênesis 24:35",
+        "2 Coríntios 9:8"
+      ],
+      "comentario": "O resultado final é a declaração explícita da riqueza de Jacó. Não se tratava apenas de gado listrado, mas de todos os tipos de bens. A prosperidade era tão grande que ele superou o patrão que o explorava, cumprindo o plano de Deus para sua vida.",
+      "temas": [
+        "Riqueza Extrema",
+        "Superação",
+        "Prosperidade Completa"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "44": {
-      "parafrase": "'Venha agora, façamos um pacto, eu e você, e que ele sirva de testemunha entre nós'.",
-      "referencias": [],
-      "comentario": "Labão, percebendo que não pode vencer, propõe um pacto de não agressão para proteger seus próprios interesses e estabelecer uma fronteira entre eles.",
-      "temas": ["proposta de pacto", "não agressão", "fronteira"],
-      "personagens": ["Labão", "Jacó"]
+      "parafrase": "Então, Jacó, exausto e determinado, disse a Labão: 'Chegou a hora de eu partir e retornar à minha terra, à minha casa, para onde meus pais e minha família me esperam. Eu servi fielmente por todos esses anos, e peço que agora me libere para que eu possa seguir meu caminho.'",
+      "referencias": [
+        "Êxodo 12:40",
+        "Gênesis 28:20"
+      ],
+      "comentario": "Este é o ponto de ruptura da aliança de serviço. Jacó estabelece sua reivindicação baseada no tempo de serviço ('vinte anos'). A frase 'para minha casa' (Heb. 'beit'i) sublinha a anseio pela terra de seus ancestrais, contrastando com a terra estrangeira de Labão. A atitude de Jacó demonstra maturidade e firmeza recém-adquirida.",
+      "temas": [
+        "Partida",
+        "Reivindicação",
+        "Fidelidade"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "45": {
-      "parafrase": "Então Jacó pegou uma pedra e a ergueu como uma coluna.",
-      "referencias": ["Gênesis 28:18"],
-      "comentario": "Jacó, como fez em Betel, ergue uma pedra como um pilar memorial para marcar o local do pacto.",
-      "temas": ["pilar memorial", "pacto"],
-      "personagens": ["Jacó"]
+      "parafrase": "Mas Jacó continuou, dirigindo-se a Labão com um tom que misturava paciência e cansaço: 'Vejam bem, vocês testemunharam como trabalhei arduamente para o seu lado; como cuidei do seu rebanho em todas estas longas estações, cuidando de cada animal com o máximo zelo.'",
+      "referencias": [
+        "Gênesis 30:29",
+        "Salmos 101:6"
+      ],
+      "comentario": "Jacó invoca a Deus como testemunha ('e tu sabes') de sua dedicação. O foco é a diligência ('nâti yâgôn' - esforcei-me com dor/trabalho árduo) no pastoreio do gado de Labão, estabelecendo a base para a compensação que ele espera receber.",
+      "temas": [
+        "Testemunho",
+        "Diligência",
+        "Contrato"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "46": {
-      "parafrase": "E disse a seus parentes: 'Juntem pedras'. Eles pegaram pedras e fizeram um monte, e comeram ali, sobre o monte.",
-      "referencias": [],
-      "comentario": "O monte de pedras serviria como uma testemunha visual do acordo. A refeição compartilhada sobre o monte era uma forma de selar o pacto em comunhão.",
-      "temas": ["testemunha de pedras", "refeição pactual", "comunhão"],
-      "personagens": ["Jacó"]
+      "parafrase": "Jacó, então, confronta Labão com a injustiça de sua remuneração passada, sentindo que o seu devido lhe foi constantemente negado: 'Antes que eu chegasse, o que você possuía era pouco, mas agora, após meu serviço, seu patrimônio cresceu e se multiplicou enormemente. O Senhor tem me abençoado diretamente por causa do meu esforço em seu favor.'",
+      "referencias": [
+        "Deuteronômio 28:12",
+        "Provérbios 10:22"
+      ],
+      "comentario": "Este versículo é crucial: Jacó atribui o aumento da riqueza de Labão à intervenção divina em seu favor, e não meramente à sorte. O crescimento do rebanho de Labão (que era o capital dele) é visto como resultado indireto da bênção de Deus sobre Jacó. Há uma clara acusação de que Labão se beneficiou imensamente sem pagar o preço justo.",
+      "temas": [
+        "Prosperidade",
+        "Injustiça",
+        "Bênção Divina"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "47": {
-      "parafrase": "Labão o chamou de Jegar-Saaduta, e Jacó o chamou de Galeede.",
-      "referencias": [],
-      "comentario": "Ambos nomeiam o monte de pedras em suas respectivas línguas (aramaico para Labão, hebraico para Jacó), mas com o mesmo significado: 'Monte de Testemunho'.",
-      "temas": ["nome significativo", "testemunho", "pacto"],
-      "personagens": ["Labão", "Jacó"]
+      "parafrase": "Prosseguindo, Jacó insiste na necessidade de uma transição justa: 'Agora, quando devo, finalmente, cuidar da minha própria família e dos meus bens? Quando o Senhor me permitirá construir minha própria riqueza e me ausentar deste lugar?'",
+      "referencias": [
+        "Gênesis 15:14",
+        "Lucas 12:17"
+      ],
+      "comentario": "Jacó está focando em sua subsistência futura. O foco muda da compensação passada para a provisão futura para sua família. Ele expressa uma necessidade urgente de acumular recursos próprios, pois os anos produtivos estão passando.",
+      "temas": [
+        "Provisão Familiar",
+        "Tempo Certo",
+        "Acúmulo de Bens"
+      ],
+      "personagens": [
+        "Jacó"
+      ]
     },
     "48": {
-      "parafrase": "Labão disse: 'Este monte é uma testemunha entre mim e você hoje'. Por isso foi chamado de Galeede.",
-      "referencias": [],
-      "comentario": "Labão declara o propósito do monte como uma testemunha perpétua do acordo.",
-      "temas": ["testemunha", "acordo"],
-      "personagens": ["Labão"]
+      "parafrase": "Jacó então propõe um acordo final, um plano claro de separação: 'Eu digo: Se Labão me permitir partir, eu prometo que, a partir deste momento, serei muito mais seletivo e rigoroso na maneira como separo meus animais dos seus, não mais aceitando as antigas condições ambíguas que nos governavam.'",
+      "referencias": [
+        "Malaquias 3:14",
+        "Hebreus 13:5"
+      ],
+      "comentario": "Este versículo é a declaração de Jacó sobre o novo regime de trabalho que ele propõe para si mesmo, que será detalhado nos versículos seguintes. Ele estabelece a condição para sua saída: a permissão de Labão, mas sob os termos de um novo e rígido sistema de separação de rebanhos.",
+      "temas": [
+        "Acordo",
+        "Separação",
+        "Regras Claras"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "49": {
-      "parafrase": "E também foi chamado de Mispá, porque ele disse: 'Que o Senhor vigie entre mim e você, quando estivermos longe um do outro'.",
-      "referencias": [],
-      "comentario": "O lugar também recebe o nome de Mispá ('torre de vigia'). A declaração de Labão é uma invocação a Deus para que atue como fiscal do pacto, garantindo que nenhum dos dois o quebre quando estiverem fora da vista um do outro. É uma oração baseada na desconfiança mútua.",
-      "temas": ["Mispá", "vigilância divina", "desconfiança", "pacto"],
-      "personagens": ["Labão", "Deus"]
+      "parafrase": "Labão, receoso de perder seu empregado mais produtivo, tentou barganhar ou talvez reter Jacó, mas Jacó já estava decidido. A resposta de Jacó foi firme: 'Você sabe que eu nunca o enganei, nem deixei de cuidar de seu rebanho com toda a minha força e astúcia durante estes anos todos.'",
+      "referencias": [
+        "Números 27:18",
+        "1 Coríntios 7:5"
+      ],
+      "comentario": "O versículo 49 resume a defesa da honra de Jacó. Ele reafirma sua integridade em todas as transações financeiras e de pastoreio, usando a palavra 'repreensão' ou 'acusações' (Heb. 'hârimâ') para indicar que nenhuma falha de sua parte existiu.",
+      "temas": [
+        "Honra",
+        "Integridade",
+        "Defesa Pessoal"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "50": {
-      "parafrase": "'Se você maltratar minhas filhas ou tomar outras mulheres além delas, mesmo que ninguém esteja conosco, lembre-se de que Deus é testemunha entre mim e você'.",
-      "referencias": [],
-      "comentario": "Labão estabelece as condições do pacto, focando no bem-estar de suas filhas e proibindo a poligamia futura para Jacó. Ele invoca Deus como a testemunha final.",
-      "temas": ["condições do pacto", "proteção familiar", "testemunha divina"],
-      "personagens": ["Labão", "Deus"]
+      "parafrase": "Se o meu próprio Deus, o Senhor que viu a aflição do meu pai Abraão e que protegeu Isaque, não estivesse do meu lado, você certamente me mandaria embora de mãos vazias hoje, sem nada para sustentar minha família. Mas a aliança de Deus garante minha recompensa!'",
+      "referencias": [
+        "Gênesis 17:19",
+        "Gênesis 28:13-15"
+      ],
+      "comentario": "Este é o ápice da teologia de Jacó neste momento. Ele atribui sua segurança e futura riqueza diretamente à Aliança de Deus com seus antepassados (Abraão e Isaque). Ele reconhece que, se não fosse pela intervenção divina, a astúcia humana de Labão o teria despojado completamente. A bênção é vista como uma dívida divina a ser paga, superando qualquer contrato humano.",
+      "temas": [
+        "Aliança Abraâmica",
+        "Intervenção Divina",
+        "Segurança"
+      ],
+      "personagens": [
+        "Jacó",
+        "Abraão",
+        "Isaque"
+      ]
     },
     "51": {
-      "parafrase": "Labão disse ainda a Jacó: 'Aqui estão este monte e esta coluna que ergui entre mim e você'.",
-      "referencias": [],
-      "comentario": "Ele reafirma os símbolos físicos do pacto.",
-      "temas": ["símbolos do pacto"],
-      "personagens": ["Labão", "Jacó"]
+      "parafrase": "Então Labão se dirigiu a Jacó com uma expressão grave, e perguntou: 'Olhe bem para esta pilha de pedras que levantamos entre nós, e esta grande pedra que serve de marco testemunhal. Eu te ordeno, e que Deus nos veja, que você nunca, jamais, passe por baixo desta barreira para buscar vingança contra minha família, nem para levar minhas filhas embora, a menos que seja para tomar outra esposa, o que não desejo, além das que já lhe dei. Não cruze esta fronteira para me fazer mal.'",
+      "referencias": [
+        "Deuteronômio 19:14",
+        "Provérbios 14:21"
+      ],
+      "comentario": "Este versículo estabelece um juramento solene e um pacto territorial. A 'pedra' (Massé, em hebraico) e o 'montão' (Gal-ed, que significa 'monte de testemunho') tornam este acordo visível e sagrado. Labão, temendo a retaliação de Jacó e a possível perda de suas filhas e bens, usa a linguagem de um juramento formal, invocando Deus como testemunha principal (veja Deus). A cláusula sobre não tomar outra esposa é um aceno à tradição, mas o cerne é a proibição de hostilidade mútua.",
+      "temas": [
+        "Pacto",
+        "Juramento",
+        "Rivalidade Familiar",
+        "Limites Territoriais"
+      ],
+      "personagens": [
+        "Labão",
+        "Jacó"
+      ]
     },
     "52": {
-      "parafrase": "'Este monte é uma testemunha, e esta coluna é uma testemunha, de que não passarei deste monte para o seu lado para prejudicá-lo, e você não passará deste monte e desta coluna para o meu lado para me prejudicar'.",
-      "referencias": [],
-      "comentario": "O monte de pedras e o pilar se tornam uma fronteira. O pacto é um tratado de não agressão, estabelecendo um limite que nenhum dos dois deve cruzar com más intenções.",
-      "temas": ["fronteira", "pacto de não agressão", "testemunha"],
-      "personagens": []
+      "parafrase": "Este montículo de pedras será, a partir de agora, nossa fronteira mútua. Eu o chamo de Gal-ed, que significa 'Testemunho' ou 'Monte da Prova'. E esta outra pedra, que erigi, será um sinal de aliança entre nós. Se um de nós violar este acordo, que o Senhor seja o juiz entre nós e veja o que faremos um com o outro.'",
+      "referencias": [
+        "Juízes 11:29",
+        "1 Samuel 7:11"
+      ],
+      "comentario": "O nome dado ao local, 'Gal-ed' (hebraico: גַּלְעֵד), é crucial. 'Gal' significa monte ou montão, e 'Ed' significa testemunho ou memorial. Jacó e Labão criam um monumento físico para perpetuar a memória deste acordo. Isso transforma um local geográfico comum em um lugar sagrado de jurisdição divina.",
+      "temas": [
+        "Memorial",
+        "Julgamento Divino",
+        "Aliança",
+        "Testemunho"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "53": {
-      "parafrase": "'Que o Deus de Abraão e o Deus de Naor, o Deus do pai deles, julgue entre nós'. E Jacó fez um juramento pelo Temor de seu pai Isaque.",
-      "referencias": [],
-      "comentario": "Labão invoca os deuses de ambas as linhagens. Jacó, no entanto, jura apenas pelo 'Temor de seu pai Isaque', o Deus da aliança, mostrando que sua lealdade é exclusiva ao Senhor e não aos deuses de seus antepassados em Harã.",
-      "temas": ["juramento", "lealdade exclusiva", "pacto"],
-      "personagens": ["Labão", "Deus", "Abraão", "Naor", "Jacó", "Isaque"]
+      "parafrase": "O Deus de Abraão, o Deus de Naor — o Deus que era o ancestral de ambos os nossos povos — que seja o juiz que nos julgará, observando esta promessa que firmamos entre nós!'",
+      "referencias": [
+        "Gênesis 24:48",
+        "Gênesis 28:13"
+      ],
+      "comentario": "A invocação aqui é notável: eles não invocam apenas 'Deus', mas especificamente 'o Deus de Abraão' (o avô de Jacó) e 'o Deus de Naor' (o avô de Labão). Isso força Labão a reconhecer a linhagem divina que une Jacó a ele através da família de Terá. É um apelo à unidade ancestral através da fé partilhada, embora de forma forçada.",
+      "temas": [
+        "Ancestralidade",
+        "Religião Comum",
+        "Soberania Divina"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "54": {
-      "parafrase": "Então Jacó ofereceu um sacrifício na montanha e convidou seus parentes para uma refeição. Depois de comerem, passaram a noite na montanha.",
-      "referencias": [],
-      "comentario": "Jacó sela o pacto com um sacrifício a Deus e uma refeição comunitária, transformando um confronto tenso em um acordo pacífico e ratificado.",
-      "temas": ["sacrifício", "refeição pactual", "paz"],
-      "personagens": ["Jacó"]
+      "parafrase": "Após selarem o acordo com palavras e pedras, Jacó ofereceu um sacrifício de celebração naquele monte. Ele convidou sua comitiva e a família de Labão para participarem de um banquete festivo, sob o olhar das montanhas.",
+      "referencias": [
+        "Gênesis 8:20",
+        "Êxodo 24:5"
+      ],
+      "comentario": "A oferta de um sacrifício (provavelmente um holocausto e/ou sacrifício de comunhão) é o ato final de ratificação religiosa. A carne consumida no banquete ('comeram ali') simboliza a comunhão e a paz restaurada, selando o tratado não apenas com palavras e pedras, mas com comunhão ritualística. 🍖",
+      "temas": [
+        "Sacrifício",
+        "Comunhão",
+        "Paz",
+        "Restauração"
+      ],
+      "personagens": [
+        "Jacó",
+        "Labão"
+      ]
     },
     "55": {
-      "parafrase": "Na manhã seguinte, Labão levantou-se cedo, beijou seus netos e suas filhas e os abençoou. Então partiu e voltou para casa.",
-      "referencias": [],
-      "comentario": "Com o pacto estabelecido, a despedida final é pacífica. Labão parte, e sua presença na vida de Jacó chega ao fim. O longo exílio de Jacó terminou.",
-      "temas": ["despedida pacífica", "fim do exílio", "paz"],
-      "personagens": ["Labão", "Jacó"]
+      "parafrase": "Ao amanhecer, Labão se despediu de seus parentes e de Jacó com abraços e beijos calorosos. Ele então se virou e retornou para sua casa, no lugar de onde veio, mas Jacó permaneceu ali, naquele monte testemunhal.",
+      "referencias": [
+        "Lucas 15:20",
+        "Atos 20:37"
+      ],
+      "comentario": "A despedida é agridoce. Labão parte, voltando à sua terra (Haran). O contraste final é forte: Labão vai 'para o seu lugar', enquanto Jacó permanece, indicando que sua jornada agora segue em outra direção — para Canaã, conforme seu destino divino. A troca de abraços e beijos (símbolos de afeto) contrasta com o histórico de brigas, sugerindo uma paz forçada ou genuína no momento da separação. 👋",
+      "temas": [
+        "Despedida",
+        "Partida",
+        "Destino",
+        "Trégua"
+      ],
+      "personagens": [
+        "Labão",
+        "Jacó"
+      ]
     }
   }
 }

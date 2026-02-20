@@ -1,157 +1,379 @@
 {
   "livro": "Êxodo",
   "capitulo": 1,
-  "contexto_historico": "O livro de Êxodo é o segundo livro da Torá (Pentateuco) e da Bíblia Hebraica. Ele narra a libertação do povo de Israel da escravidão no Egito, a entrega da Lei no Monte Sinai, a construção do Tabernáculo e o início de sua jornada para a Terra Prometida. Este primeiro capítulo descreve o crescimento e a multiplicação dos filhos de Israel no Egito após a morte de José e sua geração. Um novo faraó, que não conhecia José, se levanta e, temendo o crescimento do povo de Israel, os oprime com trabalho forçado e tenta controlar sua população através do infanticídio. O capítulo enfatiza a providência de Deus em preservar Seu povo, mesmo em meio à opressão, e a fidelidade das parteiras em temer a Deus mais do que ao faraó.",
-  "bloco_tematico": "A Opressão dos Israelitas no Egito e a Fidelidade das Parteiras",
+  "contexto_historico": "Após a morte de José, o povo de Israel viveu no Egito por várias gerações. Embora inicialmente tenham sido bem-vindos e prosperado (Gênesis 47), com o tempo, o relacionamento azedou. Um novo faraó, que não conhecia a aliança de José com seu povo, ascendeu ao trono. Esse novo líder temia o grande número de israelitas e seu potencial poderio militar e social, vendo-os como uma ameaça à estabilidade egípcia. 😟 Esta é a transição da bênção da estabilidade (José) para a opressão e escravidão (Êxodo 1:8-10). O palco está montado para a intervenção divina.",
+  "bloco_tematico": "Multiplicação e Opressão: O Gênesis da Escravidão ⛓️👶",
   "versiculos": {
     "1": {
-      "parafrase": "Ora, estes são os nomes dos filhos de Israel que vieram para o Egito; cada homem e sua casa vieram com Jacó:",
-      "referencias": [],
-      "comentario": "O capítulo começa listando os nomes dos filhos de Israel que vieram para o Egito com Jacó, estabelecendo a conexão com o livro de Gênesis e a origem do povo.",
-      "temas": ["nomes", "Israel", "Egito", "Jacó", "origem"],
-      "personagens": ["Jacó"]
+      "parafrase": "Estes são os nomes dos filhos de Israel que, seguindo seus patriarcas, vieram para o Egito, cada um trazendo sua família consigo para se estabelecerem naquela terra de abundância sob a proteção de José: Rúben, Simeão, Levi e Judá.",
+      "referencias": [
+        "Gênesis 46:8",
+        "Números 26:5"
+      ],
+      "comentario": "O capítulo começa com uma lista genealógica, um recurso narrativo comum no Antigo Testamento para estabelecer a identidade e a continuidade do povo de Deus. O termo 'Filhos de Israel' (B’nei Yisra’el) aqui serve como um lembrete da herança pactuada, mesmo enquanto estão em terra estrangeira.",
+      "temas": [
+        "Identidade",
+        "Genealogia",
+        "Imigração"
+      ],
+      "personagens": [
+        "Filhos de Israel"
+      ]
     },
     "2": {
-      "parafrase": "Rúben, Simeão, Levi e Judá,",
-      "referencias": [],
-      "comentario": "Os primeiros filhos de Jacó são listados, continuando a genealogia e a identificação das tribos de Israel.",
-      "temas": ["Rúben", "Simeão", "Levi", "Judá", "tribos"],
-      "personagens": []
+      "parafrase": "A lista prossegue com Issacar, Zebulom e Benjamim. Além deles, vieram também Dã e Naftali, que entraram no Egito acompanhados de seus clãs familiares.",
+      "referencias": [
+        "Gênesis 46:23",
+        "Gênesis 46:25"
+      ],
+      "comentario": "A menção dessas tribos reforça a ideia de que o povo escolhido migrou como uma unidade familiar completa, essencial para a futura formação da nação de Israel no Sinai.",
+      "temas": [
+        "Unidade",
+        "Tribos de Israel",
+        "Estabelecimento"
+      ],
+      "personagens": [
+        "Issacar",
+        "Zebulom",
+        "Benjamim",
+        "Dã",
+        "Naftali"
+      ]
     },
     "3": {
-      "parafrase": "Issacar, Zebulom e Benjamim,",
-      "referencias": [],
-      "comentario": "Os filhos seguintes de Jacó são listados, completando a genealogia das tribos.",
-      "temas": ["Issacar", "Zebulom", "Benjamim", "tribos"],
-      "personagens": []
+      "parafrase": "E também vieram Gade e Aser, juntamente com todas as suas descendências. No total, a família que desceu ao Egito, vinda da linhagem de Jacó, era composta por setenta almas.",
+      "referencias": [
+        "Gênesis 46:27",
+        "Deuteronômio 10:22"
+      ],
+      "comentario": "O número setenta (ou 'setenta almas', Nefesh) é crucial. É o número total de descendentes de Jacó que se mudaram para o Egito, um número que se tornará simbolicamente importante em outras narrativas bíblicas de formação de grupos representativos (como os 70 anciãos em Números 11).",
+      "temas": [
+        "Totalidade",
+        "Povo Escolhido",
+        "Símbolo Numérico"
+      ],
+      "personagens": [
+        "Gade",
+        "Aser",
+        "Jacó"
+      ]
     },
     "4": {
-      "parafrase": "Dã e Naftali, Gade e Aser.",
-      "referencias": [],
-      "comentario": "Os últimos filhos de Jacó são listados, finalizando a genealogia das tribos de Israel.",
-      "temas": ["Dã", "Naftali", "Gade", "Aser", "tribos"],
-      "personagens": []
+      "parafrase": "José já estava no Egito quando essa grande migração familiar ocorreu. E como resultado, todos os descendentes de Jacó totalizaram setenta pessoas no total.",
+      "referencias": [
+        "Gênesis 45:9",
+        "Atos 7:14"
+      ],
+      "comentario": "Este versículo serve como um resumo para contextualizar o leitor: eles vieram para o Egito porque José já estava lá, cumprindo o plano divino de preservação da família durante a fome.",
+      "temas": [
+        "Providência Divina",
+        "Preservação",
+        "Contexto Histórico"
+      ],
+      "personagens": [
+        "José"
+      ]
     },
     "5": {
-      "parafrase": "E todas as almas que saíram dos lombos de Jacó eram setenta almas; pois José já estava no Egito.",
-      "referencias": [],
-      "comentario": "O número total de pessoas que vieram para o Egito com Jacó é setenta, e José já estava lá. Isso estabelece o ponto de partida para o crescimento do povo.",
-      "temas": ["número", "Jacó", "José", "Egito", "crescimento"],
-      "personagens": ["José"]
+      "parafrase": "Após a chegada, os descendentes de Jacó — os filhos de Israel — totalizaram um grupo de setenta pessoas, incluindo os filhos de José que já haviam nascido no Egito, que eram Manassés e Efraim.",
+      "referencias": [
+        "Gênesis 46:26",
+        "Gênesis 50:23"
+      ],
+      "comentario": "Este é um ponto teologicamente importante: a contagem de setenta inclui os netos já nascidos (José não é contado como alguém que 'veio', pois já estava lá, mas seus filhos são incluídos na contagem final do grupo que agora habita o Egito).",
+      "temas": [
+        "Contagem",
+        "Família Estendida",
+        "Inclusão"
+      ],
+      "personagens": [
+        "Manassés",
+        "Efraim"
+      ]
     },
     "6": {
-      "parafrase": "E José morreu, e todos os seus irmãos, e toda aquela geração.",
-      "references": [],
-      "comentario": "A morte de José e de toda a sua geração marca o fim de uma era de favor para os israelitas no Egito, preparando o terreno para a opressão.",
-      "temas": ["morte", "José", "fim de era", "opressão"],
-      "personagens": ["José"]
+      "parafrase": "Eventualmente, José e seus irmãos, junto com toda aquela geração que veio com eles, faleceram. Todos morreram ali.",
+      "referencias": [
+        "Gênesis 50:22",
+        "Josué 24:4"
+      ],
+      "comentario": "A morte da primeira geração estabelecida no Egito marca o fim da fase de 'hospedagem' e o início de um novo ciclo, preparando o palco para a opressão que se seguiria, pois a memória dos favores de José se desvaneceria.",
+      "temas": [
+        "Mortalidade",
+        "Passagem do Tempo",
+        "Mudança de Era"
+      ],
+      "personagens": [
+        "José",
+        "Irmãos de José"
+      ]
     },
     "7": {
-      "parafrase": "E os filhos de Israel foram frutíferos e multiplicaram-se abundantemente, e se tornaram muito numerosos, e se fortaleceram extremamente; e a terra se encheu deles.",
-      "references": [],
-      "comentario": "Os israelitas crescem e se multiplicam abundantemente, tornando-se muito numerosos e fortes. Isso cumpre a promessa de Deus a Abraão e se torna uma ameaça para o Egito.",
-      "temas": ["frutificação", "multiplicação", "crescimento", "força", "promessa divina"],
-      "personagens": []
+      "parafrase": "Entretanto, os filhos de Israel, descendentes daqueles setenta, não apenas sobreviveram, mas se multiplicaram de maneira assustadora. Cresceram tanto em número que chegaram a ser tão numerosos quanto o campo fértil, tornando-se uma multidão poderosa.",
+      "referencias": [
+        "Gênesis 15:5",
+        "Apocalipse 7:4"
+      ],
+      "comentario": "O verbo hebraico para 'multiplicaram-se' (parah) é o mesmo usado para as ordens de Deus a Adão e Noé (serem férteis e multiplicarem-se). O crescimento 'assustadoramente' populacional é o cumprimento da promessa feita a Abraão, mas agora se torna um problema político para os egípcios.",
+      "temas": [
+        "Fecundidade",
+        "Cumprimento da Promessa",
+        "Multiplicação"
+      ],
+      "personagens": [
+        "Filhos de Israel"
+      ]
     },
     "8": {
-      "parafrase": "Ora, um novo rei se levantou sobre o Egito, que não conhecia José.",
-      "references": [],
-      "comentario": "Um novo faraó, que não tem memória de José e de seus serviços, ascende ao trono. Isso marca o início da opressão dos israelitas.",
-      "temas": ["novo rei", "Faraó", "esquecimento", "opressão"],
-      "personagens": ["Faraó"]
+      "parafrase": "Depois de um longo tempo, um novo faraó, que não tinha conhecimento algum de José e de todos os benefícios que ele havia trazido ao Egito, ascendeu ao trono.",
+      "referencias": [
+        "Atos 7:18",
+        "Salmos 105:23"
+      ],
+      "comentario": "A 'ignorância' do novo faraó (que não conhecia José) é, na verdade, uma deliberada decisão política de apagar a memória de um forasteiro que havia sido tão poderoso. Isso simboliza a transição do favor para o perigo.",
+      "temas": [
+        "Esquecimento Histórico",
+        "Autoridade",
+        "Mudança Política"
+      ],
+      "personagens": [
+        "Faraó"
+      ]
     },
     "9": {
-      "parafrase": "E ele disse ao seu povo: 'Vejam, o povo dos filhos de Israel é mais numeroso e mais poderoso do que nós.'",
-      "references": [],
-      "comentario": "O faraó reconhece o crescimento e o poder dos israelitas, vendo-os como uma ameaça à sua própria nação. O medo é a motivação de sua opressão.",
-      "temas": ["medo", "crescimento", "poder", "ameaça"],
-      "personagens": ["Faraó"]
+      "parafrase": "Este novo rei disse ao seu povo: 'Olhem bem! Os israelitas se tornaram um número excessivo, muito mais numerosos e mais fortes do que nós, os egípcios. Isso é perigoso!'",
+      "referencias": [
+        "Deuteronômio 7:7",
+        "Salmos 83:4"
+      ],
+      "comentario": "O Faraó percebe o crescimento demográfico não como um milagre, mas como uma ameaça militar e econômica. O medo da inversão de poder ('mais numerosos e mais fortes') é o catalisador da perseguição.",
+      "temas": [
+        "Medo",
+        "Ameaça Populacional",
+        "Opressão Iniciada"
+      ],
+      "personagens": [
+        "Faraó"
+      ]
     },
     "10": {
-      "parafrase": "'Venham, vamos agir com astúcia com eles, para que não se multipliquem, e aconteça que, se houver guerra, eles também se juntem aos nossos inimigos e lutem contra nós, e subam da terra.'",
-      "references": [],
-      "comentario": "O faraó propõe um plano astuto para controlar a população israelita, temendo que eles se juntem aos inimigos em caso de guerra. A astúcia é para a opressão.",
-      "temas": ["astúcia", "controle populacional", "guerra", "inimigos", "opressão"],
-      "personagens": ["Faraó"]
+      "parafrase": "Precisamos agir com inteligência e astúcia para evitar que sua multiplicação continue. Se descuidarmos, eles poderão se juntar aos nossos inimigos em tempos de guerra, lutar contra nós e, por fim, escapar desta terra fabulosa que é o Egito! 😟",
+      "referencias": [
+        "Êxodo 15:16",
+        "Deuteronômio 28:25"
+      ],
+      "comentario": "A mentalidade do Faraó é puramente geopolítica. Ele teme que os hebreus, ao se tornarem uma massa crítica, se unam a nações vizinhas hostis e usem a força para libertar-se, revertendo assim a estabilidade egípcia.",
+      "temas": [
+        "Estratégia Política",
+        "Desconfiança",
+        "Temor de Guerra"
+      ],
+      "personagens": [
+        "Faraó"
+      ]
     },
     "11": {
-      "parafrase": "Portanto, eles puseram sobre eles capatazes de obras para afligi-los com seus fardos. E eles construíram para o Faraó cidades-celeiros, Pitom e Ramessés.",
-      "references": [],
-      "comentario": "Os egípcios impõem trabalho forçado aos israelitas, usando capatazes para afligi-los. Eles são forçados a construir cidades-celeiros, Pitom e Ramessés, para o faraó. A opressão é física e brutal.",
-      "temas": ["trabalho forçado", "capatazes", "fardos", "cidades-celeiros", "opressão"],
-      "personagens": ["Faraó"]
+      "parafrase": "Portanto, o Faraó imediatamente impôs chefes de trabalhos forçados sobre eles. Com o objetivo de castigá-los e enfraquecê-los, ordenou que o povo de Israel construísse cidades de provisão, como Pitom e Ramsés, para o Egito.",
+      "referencias": [
+        "Amós 3:11",
+        "Deuteronômio 26:6"
+      ],
+      "comentario": "O trabalho forçado (corveia) era uma tática comum egípcia. A escolha dos nomes das cidades ('Pitom' e 'Ramsés') sugere uma referência a cidades reais associadas ao período do Novo Reino, dando um fundo histórico à narrativa.",
+      "temas": [
+        "Escravidão",
+        "Trabalho Forçado",
+        "Construção de Cidades"
+      ],
+      "personagens": [
+        "Faraó"
+      ]
     },
     "12": {
-      "parafrase": "Mas quanto mais os afligiam, mais eles se multiplicavam e mais se espalhavam. E eles se afligiam por causa dos filhos de Israel.",
-      "references": [],
-      "comentario": "Apesar da opressão, os israelitas continuam a se multiplicar e a se espalhar, mostrando a providência de Deus em preservar Seu povo. A opressão egípcia é ineficaz.",
-      "temas": ["opressão", "multiplicação", "espalhamento", "provisão divina", "ineficácia"],
-      "personagens": []
+      "parafrase": "Contudo, quanto mais os egípcios os oprimiam e os atormentavam com tarefas pesadas, mais e mais os israelitas se multiplicavam e se espalhavam. O sofrimento deles apenas serviu para alimentar o crescimento da população! 🤯",
+      "referencias": [
+        "Atos 7:17",
+        "Gênesis 17:6"
+      ],
+      "comentario": "Este é o grande paradoxo do livro: a tentativa humana de sufocar o plano de Deus resulta, paradoxalmente, em seu avanço. A opressão falha em seu objetivo primordial.",
+      "temas": [
+        "Paradoxo da Opressão",
+        "Resiliência",
+        "Fracasso Humano"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Egípcios"
+      ]
     },
     "13": {
-      "parafrase": "E os egípcios fizeram os filhos de Israel servir com rigor.",
-      "references": [],
-      "comentario": "Os egípcios impõem um serviço rigoroso aos israelitas, tornando sua vida amarga com trabalho pesado. A crueldade é evidente.",
-      "temas": ["serviço rigoroso", "crueldade", "trabalho pesado", "opressão"],
-      "personagens": []
+      "parafrase": "Por causa disso, os egípcios começaram a odiar e a tratar os israelitas com extrema crueldade, forçando-os a trabalhos muito mais duros e infelizes do que qualquer serviço que tivessem prestado antes.",
+      "referencias": [
+        "Deuteronômio 4:34",
+        "Salmos 81:6"
+      ],
+      "comentario": "A escalada da violência mostra que o plano A (opressão leve) falhou, levando ao plano B (opressão brutal), visando quebrar o espírito do povo e controlar sua procriação pelo esgotamento físico.",
+      "temas": [
+        "Crueldade",
+        "Opressão Crescente",
+        "Amargura"
+      ],
+      "personagens": [
+        "Egípcios"
+      ]
     },
     "14": {
-      "parafrase": "E eles amargaram a sua vida com trabalho pesado em argamassa e em tijolos, e em todo tipo de serviço no campo; todo o seu serviço, no qual os fizeram servir, era com rigor.",
-      "references": [],
-      "comentario": "A vida dos israelitas é amargada com trabalho pesado em argamassa, tijolos e no campo. A opressão é total e sem alívio.",
-      "temas": ["vida amargada", "trabalho pesado", "argamassa", "tijolos", "opressão"],
-      "personagens": []
+      "parafrase": "Eles submeteram os hebreus a trabalhos de lama e tijolo, sujeitando-os a todo tipo de serviço árduo no campo. A vida deles tornou-se completamente miserável e sem alegria, sob o chicote constante dos supervisores egípcios.",
+      "referencias": [
+        "Êxodo 5:7",
+        "Lamentações 1:3"
+      ],
+      "comentario": "O trabalho com tijolos (feitas de barro misturado com palha, como é descrito em versículos posteriores) era um dos trabalhos mais pesados e essenciais para a construção egípcia. A descrição sensorial enfatiza a miséria absoluta.",
+      "temas": [
+        "Trabalho Penoso",
+        "Miséria",
+        "Sobrevivência"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "15": {
-      "parafrase": "E o rei do Egito falou às parteiras hebraicas, das quais o nome de uma era Sifrá, e o nome da outra era Puá;
+      "parafrase": "Então, o rei do Egito chamou as duas parteiras hebraicas de maior prestígio, cujos nomes eram Sifrá e Puá, e deu-lhes uma ordem secreta e terrível.",
+      "referencias": [
+        "Atos 7:19",
+        "Tiago 2:12"
+      ],
+      "comentario": "Aqui, o Faraó recorre a táticas de genocídio direto, usando intermediários da própria comunidade hebraica. Sifrá e Puá são as primeiras personagens com nome a serem introduzidas ativamente no drama da libertação.",
+      "temas": [
+        "Genocídio Planejado",
+        "Ordens Secretas",
+        "Função das Parteiras"
+      ],
+      "personagens": [
+        "Faraó",
+        "Sifrá",
+        "Puá"
+      ]
+    },
     "16": {
-      "parafrase": "e ele disse: 'Quando vocês ajudarem as mulheres hebraicas no parto, e as virem sobre os assentos, se for um filho, então o matarão; mas se for uma filha, então ela viverá.'",
-      "references": [],
-      "comentario": "O faraó ordena às parteiras hebraicas que matem os meninos recém-nascidos, mas deixem as meninas viverem. Isso é um ato de infanticídio e uma tentativa de controlar a população israelita.",
-      "temas": ["Faraó", "parteiras", "infanticídio", "controle populacional", "crueldade"],
-      "personagens": ["Faraó", "Sifrá", "Puá"]
+      "parafrase": "'Quando estiverem ajudando as mulheres hebraicas a dar à luz', instruiu o rei, 'observem com atenção o momento do nascimento. Se for um menino, matem-no imediatamente, jogando-o no rio Nilo. Mas se for uma menina, deixem-na viver!'",
+      "referencias": [
+        "Deuteronômio 1:16",
+        "Jeremias 1:5"
+      ],
+      "comentario": "O Nilo era a fonte da vida egípcia, mas aqui é transformado em um instrumento de morte para os israelitas, um ato de profunda inversão simbólica e crueldade estatal.",
+      "temas": [
+        "Infanticídio",
+        "O Rio Nilo",
+        "Discriminação de Gênero"
+      ],
+      "personagens": [
+        "Parteiras",
+        "Faraó"
+      ]
     },
     "17": {
-      "parafrase": "Mas as parteiras temeram a Deus e não fizeram como o rei do Egito lhes ordenou, mas salvaram os meninos.",
-      "references": [],
-      "comentario": "As parteiras temem a Deus mais do que ao faraó e desobedecem à sua ordem, salvando os meninos. Sua fidelidade a Deus é um ato de coragem e de fé.",
-      "temas": ["parteiras", "temor a Deus", "desobediência civil", "coragem", "fé"],
-      "personagens": ["Sifrá", "Puá"]
+      "parafrase": "As parteiras, contudo, temiam a Deus mais do que temiam o rei do Egito. Por isso, desobedeceram à ordem cruel que lhes fora dada.",
+      "referencias": [
+        "Daniel 3:18",
+        "Atos 5:29"
+      ],
+      "comentario": "Este é um momento crucial de fé prática. Sifrá e Puá demonstram a 't'eomologia' (o medo reverente a Deus) superior à 'obediência cega' ao poder humano. Este é o primeiro ato de resistência ativa.",
+      "temas": [
+        "Temor a Deus",
+        "Obediência vs. Desobediência",
+        "Resistência Moral"
+      ],
+      "personagens": [
+        "Sifrá",
+        "Puá"
+      ]
     },
     "18": {
-      "parafrase": "E o rei do Egito chamou as parteiras e lhes disse: 'Por que vocês fizeram isso, e salvaram os meninos?'",
-      "references": [],
-      "comentario": "O faraó questiona as parteiras sobre sua desobediência, buscando uma explicação para suas ações. Sua autoridade é desafiada.",
-      "temas": ["Faraó", "parteiras", "questionamento", "desobediência"],
-      "personagens": ["Faraó"]
+      "parafrase": "O Faraó então as convocou novamente e exigiu: 'Por que vocês permitiram que os meninos ficassem vivos? Qual é a desculpa para não terem cumprido minhas ordens?'",
+      "referencias": [
+        "Marcos 15:15",
+        "Romanos 13:2"
+      ],
+      "comentario": "A ira do Faraó se manifesta quando sua ordem explícita é ignorada. O poder secular exige prestação de contas por atos de desobediência civil.",
+      "temas": [
+        "Confronto",
+        "Autoridade Questionada",
+        "Ira Real"
+      ],
+      "personagens": [
+        "Faraó",
+        "Parteiras"
+      ]
     },
     "19": {
-      "parafrase": "E as parteiras disseram ao Faraó: 'Porque as mulheres hebraicas não são como as mulheres egípcias; pois elas são vigorosas e dão à luz antes que a parteira chegue a elas.'",
-      "references": [],
-      "comentario": "As parteiras dão uma desculpa ao faraó, afirmando que as mulheres hebraicas são vigorosas e dão à luz rapidamente. Sua astúcia é para proteger os meninos.",
-      "temas": ["parteiras", "desculpa", "astúcia", "proteção"],
-      "personagens": []
+      "parafrase": "As duas mulheres, com grande astúcia, responderam ao rei: 'Vimos que as mulheres hebraicas são diferentes das egípcias; elas são fortes e dão à luz com muita rapidez antes que possamos chegar ao local. Não conseguimos pegá-las a tempo!'",
+      "referencias": [
+        "Provérbios 1:5",
+        "Mateus 10:16"
+      ],
+      "comentario": "A mentira das parteiras é motivada pela fé (v. 17). Elas atribuem a sobrevivência dos meninos a uma suposta vitalidade natural ou rapidez de parto incomum dos hebreus, desviando a culpa de si mesmas.",
+      "temas": [
+        "Astúcia",
+        "Justificativa",
+        "Rapidez do Parto"
+      ],
+      "personagens": [
+        "Sifrá",
+        "Puá"
+      ]
     },
     "20": {
-      "parafrase": "Portanto, Deus tratou bem as parteiras; e o povo se multiplicou e se tornou muito forte.",
-      "references": [],
-      "comentario": "Deus abençoa as parteiras por sua fidelidade, e o povo de Israel continua a se multiplicar e a se fortalecer. A providência de Deus é evidente.",
-      "temas": ["bênção divina", "parteiras", "multiplicação", "força", "provisão divina"],
-      "personagens": []
+      "parafrase": "Por causa da sabedoria e da fé demonstradas por Sifrá e Puá, Deus as recompensou grandemente. Enquanto isso, a população israelita continuava a crescer de forma extraordinária, tornando-se ainda mais numerosa.",
+      "referencias": [
+        "Tiago 2:25",
+        "Salmos 113:9"
+      ],
+      "comentario": "A bênção de Deus sobre as parteiras é explícita e direta, ligando sua fidelidade à prosperidade do povo. A desobediência ao tirano resultou em bênção divina para a comunidade.",
+      "temas": [
+        "Recompensa Divina",
+        "Prosperidade",
+        "Fidelidade Recompensada"
+      ],
+      "personagens": [
+        "Deus",
+        "Sifrá",
+        "Puá"
+      ]
     },
     "21": {
-      "parafrase": "E aconteceu que, porque as parteiras temeram a Deus, Ele lhes construiu casas.",
-      "references": [],
-      "comentario": "Deus recompensa as parteiras por seu temor a Ele, construindo-lhes casas (famílias e prosperidade). A fidelidade a Deus é recompensada.",
-      "temas": ["recompensa", "temor a Deus", "casas", "prosperidade", "fidelidade"],
-      "personagens": []
+      "parafrase": "Como resultado, porque as parteiras respeitaram o medo do Senhor — e não o medo do faraó —, Deus garantiu que suas próprias famílias fossem estabelecidas e prosperassem grandemente no Egito.",
+      "referencias": [
+        "Provérbios 14:26",
+        "Lucas 1:50"
+      ],
+      "comentario": "Este versículo solidifica a prioridade teológica: o 'temor do Senhor' é a base da sabedoria e da proteção, contrastando com a política do Faraó baseada no medo e na opressão.",
+      "temas": [
+        "Temor a Deus",
+        "Estabelecimento Familiar",
+        "Sabedoria"
+      ],
+      "personagens": [
+        "Deus",
+        "Sifrá",
+        "Puá"
+      ]
     },
     "22": {
-      "parafrase": "E o Faraó ordenou a todo o seu povo, dizendo: 'Todo filho que nascer, vocês o lançarão no rio, e toda filha vocês salvarão viva.'",
-      "references": [],
-      "comentario": "O faraó, frustrado com a desobediência das parteiras, ordena a todo o seu povo que lance os meninos no rio Nilo. O infanticídio se torna uma política de estado.",
-      "temas": ["Faraó", "ordem", "infanticídio", "Nilo", "política"],
-      "personagens": ["Faraó"]
+      "parafrase": "Finalmente, o Faraó, percebendo que seu plano inicial de infanticídio falhara miseravelmente, emitiu um decreto público e terrível para todo o seu povo: 'Qualquer menino hebreu que nascer de agora em diante deve ser jogado no rio Nilo. Somente as meninas podem permanecer vivas!' 🌊☠️",
+      "referencias": [
+        "Gênesis 9:6",
+        "Atos 4:19"
+      ],
+      "comentario": "A falha do plano encoberto força o Faraó a escalar para a política de extermínio aberta. Este decreto público estabelece o palco para a intervenção direta de Deus através do nascimento de Moisés, que será salvo em um cesto (arca) no mesmo rio sentenciado à morte.",
+      "temas": [
+        "Decreto Público",
+        "Escalada da Opressão",
+        "Preparação para Moisés"
+      ],
+      "personagens": [
+        "Faraó"
+      ]
     }
   }
 }

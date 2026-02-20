@@ -1,219 +1,492 @@
-
 {
   "livro": "Jeremias",
   "capitulo": 22,
-  "contexto_historico": "Este capítulo contém uma série de profecias de juízo contra os reis de Judá que sucederam Josias: Salum (Jeoacaz), Jeoiaquim e Conias (Jeoaquim). Deus os condena por sua injustiça, opressão e falta de retidão, contrastando suas ações com o reinado justo de Josias. A profecia anuncia o exílio e a morte desonrosa para esses reis, e a desolação para Jerusalém, enfatizando que a linhagem davídica não garante a bênção se houver desobediência.",
-  "bloco_tematico": "Juízo sobre os Reis de Judá e a Desolação de Jerusalém",
+  "contexto_historico": "O capítulo 22 de Jeremias ocorre durante um período de profunda crise política e moral em Judá, pouco antes da destruição de Jerusalém e do exílio babilônico (final do século VII/início do século VI a.C.). O povo e seus líderes, incluindo os reis, persistem em práticas de injustiça, opressão aos vulneráveis (órfãos, viúvas, estrangeiros) e idolatria, apesar dos repetidos avisos proféticos de Jeremias. Este capítulo foca especificamente na condenação dos reis sucessivos (Jeoacaz e Jeoaquim) e na promessa de desolação do reino se não houver arrependimento.",
+  "bloco_tematico": "Julgamento Real e a Queda de Jerusalém: Fim da Injustiça 👑🔥",
   "versiculos": {
     "1": {
-      "parafrase": "Assim diz o Senhor: Desce à casa do rei de Judá, e fala ali esta palavra,",
-      "referencias": [],
-      "comentario": "Deus instrui Jeremias a ir diretamente ao palácio real para entregar uma mensagem de juízo aos reis de Judá.",
-      "temas": ["Mensagem Profética", "Autoridade Divina"],
-      "personagens": ["Senhor"]
+      "parafrase": "Assim diz o Senhor, a Voz que ecoa do trono celestial: 'Vá depressa, desça agora mesmo ao palácio do rei de Judá, onde reside o poder terreno, e proclame estas palavras solenes ali, à porta principal de entrada!'",
+      "referencias": [
+        "Isaías 22:15",
+        "Jeremias 7:2"
+      ],
+      "comentario": "O verbo hebraico usado para 'proclamar' (qara) indica uma convocação pública e autoritativa. Deus está enviando Jeremias diretamente ao centro do poder (o portão do rei), exigindo que a mensagem seja entregue onde possa ser ouvida pela corte.",
+      "temas": [
+        "Chamado Profético",
+        "Autoridade Divina",
+        "Entrega da Mensagem"
+      ],
+      "personagens": [
+        "Senhor",
+        "Rei de Judá"
+      ]
     },
     "2": {
-      "parafrase": "E dize: Ouve a palavra do Senhor, ó rei de Judá, que te assentas sobre o trono de Davi, tu, e os teus servos, e o teu povo, que entrais por estas portas.",
-      "referencias": [],
-      "comentario": "A mensagem é dirigida ao rei e a toda a sua corte, que deveriam ser os guardiões da justiça e da lei de Deus.",
-      "temas": ["Chamado à Atenção", "Responsabilidade Real"],
-      "personagens": ["Senhor"]
+      "parafrase": "Diga assim, ó profeta: 'Preste muita atenção, ó rei que se assenta sobre o trono de Davi! Olhe ao redor do seu reino, examine com atenção os seus cortesãos, o seu povo que o serve e as multidões que transitam por estas portas. Vocês verão a destruição que está para chegar!'",
+      "referencias": [
+        "Jeremias 17:25",
+        "Oséias 13:10"
+      ],
+      "comentario": "A exortação 'ouve a palavra do Senhor' (sh'ma, em hebraico) é um chamado à atenção imediata. O foco é no trono de Davi, lembrando o rei de sua linhagem e responsabilidade de proteger Judá.",
+      "temas": [
+        "Responsabilidade Real",
+        "Observação e Consciência",
+        "Julgamento Iminente"
+      ],
+      "personagens": [
+        "Rei de Judá",
+        "Povo de Judá"
+      ]
     },
     "3": {
-      "parafrase": "Assim diz o Senhor: Praticai o juízo e a justiça, e livrai o oprimido da mão do opressor; e não oprimais ao estrangeiro, nem ao órfão, nem à viúva; e não derrameis sangue inocente neste lugar.",
-      "referencias": ["Jeremias 21:12"],
-      "comentario": "Deus exige justiça social e proteção para os vulneráveis. A prática da retidão é a condição para a bênção.",
-      "temas": ["Justiça Social", "Proteção dos Vulneráveis", "Retidão"],
-      "personagens": ["Senhor"]
+      "parafrase": "Ouça isto, ó líder de Judá! O Senhor Altíssimo, o Deus de Israel, que está prestes a lançar um raio contra vocês, está falando através de mim. Vocês se ocuparam em fortificar a si mesmos, achando que tinham segurança, mas é hora de se arrependerem de verdade.",
+      "referencias": [
+        "Jeremias 4:11",
+        "Miquéias 1:3"
+      ],
+      "comentario": "O termo 'Tsoaba' (Senhor dos Exércitos) confere poder militar à palavra. A menção de preparar-se para a guerra indica que Judá estava dependendo de defesas humanas, ignorando a causa espiritual do perigo.",
+      "temas": [
+        "Dependência Humana vs. Divina",
+        "Soberania de Deus",
+        "Arrependimento Necessário"
+      ],
+      "personagens": [
+        "Senhor dos Exércitos"
+      ]
     },
     "4": {
-      "parafrase": "Porque, se deveras cumprirdes esta palavra, então entrarão pelas portas desta casa reis que se assentem sobre o trono de Davi, andando em carros e em cavalos, eles e os seus servos e o seu povo.",
-      "referencias": ["Jeremias 17:25"],
-      "comentario": "A promessa de continuidade da linhagem davídica e da prosperidade para Jerusalém é condicionada à obediência à justiça de Deus.",
-      "temas": ["Bênção Condicional", "Reinado Davídico", "Prosperidade"],
+      "parafrase": "Que vergonha! Vocês se dedicaram a preparar as suas casas, construindo aposentos luxuosos e fortes, pensando em se proteger com pedras e madeira, mas esqueceram de cuidar da sua alma e da aliança com Deus! Por isso, lhes digo: não haverá paz para seus palácios!",
+      "referencias": [
+        "Mateus 7:24-27",
+        "Ageu 1:4"
+      ],
+      "comentario": "O contraste entre a construção de 'casas' (bāttîm) e a negligência espiritual é central. Eles investiram em segurança material, mas negligenciaram a segurança espiritual, o que torna seus esforços fúteis.",
+      "temas": [
+        "Materialismo vs. Espiritualidade",
+        "Futilidade dos Esforços Mundanos",
+        "Ameaça à Dinastia"
+      ],
       "personagens": []
     },
     "5": {
-      "parafrase": "Mas, se não ouvirdes estas palavras, por mim mesmo juro, diz o Senhor, que esta casa se tornará em desolação.",
-      "referencias": [],
-      "comentario": "A advertência é severa: a desobediência resultará na destruição do palácio real, que se tornará uma ruína.",
-      "temas": ["Advertência", "Desobediência", "Desolação"],
-      "personagens": ["Senhor"]
+      "parafrase": "Este dia que se aproxima será um dia de grande alvoroço, de confusão e de pânico absoluto! Será um dia de tumulto total, enviado pelo próprio Senhor Deus, onde as cidades serão esmagadas e os gritos de desespero ecoarão dos muros de Jerusalém!",
+      "referencias": [
+        "Joel 2:11",
+        "Sofonias 1:15"
+      ],
+      "comentario": "O dia é descrito com termos fortes: 'dia de alvoroço' (yom mehumah), indicando desordem generalizada e pânico, não apenas uma batalha comum, mas um juízo divino coordenado.",
+      "temas": [
+        "Dia do Juízo",
+        "Caos e Desordem",
+        "Soberania no Caos"
+      ],
+      "personagens": [
+        "Senhor Deus"
+      ]
     },
     "6": {
-      "parafrase": "Porque assim diz o Senhor acerca da casa do rei de Judá: Tu és para mim Gileade, e a cabeça do Líbano; mas certamente farei de ti um deserto, e cidades não habitadas.",
-      "referencias": [],
-      "comentario": "Deus compara a casa real a regiões férteis e gloriosas (Gileade, Líbano), mas promete transformá-la em um deserto, mostrando a inversão de sua glória.",
-      "temas": ["Desolação", "Perda da Glória", "Juízo"],
-      "personagens": ["Senhor"]
+      "parafrase": "Vejam a invasão! O Senhor está enviando um exército de destruidores vindos de terras distantes, do Leste, onde o sol nasce. Eles estão armados com dardos e estão prontos para rasgar o tecido da sua nação!",
+      "referencias": [
+        "Jeremias 1:14",
+        "Habacuque 1:6"
+      ],
+      "comentario": "A menção de 'terras distantes' (me-erets-tsaphon, embora o hebraico aqui aponte para o Leste, o contexto de invasores vindos do norte/leste é comum) enfatiza a natureza estrangeira e implacável da força invasora (provavelmente os caldeus/babilônios).",
+      "temas": [
+        "Invasão Estrangeira",
+        "Instrumento de Deus",
+        "Violência Militar"
+      ],
+      "personagens": []
     },
     "7": {
-      "parafrase": "E prepararei contra ti destruidores, cada um com as suas armas; e cortarão os teus cedros escolhidos, e os lançarão no fogo.",
-      "referencias": ["Jeremias 4:7"],
-      "comentario": "Deus enviará exércitos para destruir o palácio real, cortando seus cedros (símbolo de sua força e beleza) e queimando-os.",
-      "temas": ["Destruição", "Juízo", "Fogo"],
+      "parafrase": "Eles armarão suas tendas junto às muralhas da cidade, como um exército acampado, prontos para atacar por todos os lados. As escadas serão encostadas, e eles perfurarão suas defesas com lanças e flechas, derrubando tudo que vocês construíram!",
+      "referencias": [
+        "Jeremias 6:3-5",
+        "Ezequiel 21:21-22"
+      ],
+      "comentario": "Esta é uma descrição vívida da tática de cerco. O acampamento (sukkot) implica um cerco prolongado e metódico, visando a aniquilação total das defesas.",
+      "temas": [
+        "Cerco Militar",
+        "Assédio",
+        "Queda das Defesas"
+      ],
       "personagens": []
     },
     "8": {
-      "parafrase": "E muitas nações passarão por esta cidade, e dirá cada um ao seu próximo: Por que fez o Senhor assim a esta grande cidade?",
-      "referencias": ["Deuteronômio 29:24-28"],
-      "comentario": "A destruição de Jerusalém será tão grande que as nações estrangeiras se perguntarão a razão de tal calamidade, reconhecendo a mão de Deus.",
-      "temas": ["Espanto das Nações", "Reconhecimento do Juízo"],
-      "personagens": ["Senhor"]
+      "parafrase": "Ó Judá, quando vi isso, quando Deus revelou esta cena de destruição, minha força me abandonou. Coloquei minha mão sobre a boca em choque e desespero, pois entendi a profundidade do desastre que viria sobre vocês!",
+      "referencias": [
+        "Jeremias 1:9",
+        "Ezequiel 2:9-10"
+      ],
+      "comentario": "Esta é uma reação pessoal de Jeremias, demonstrando o peso da profecia. O gesto de cobrir a boca é um sinal de mudez forçada ou profunda admiração/horror diante da revelação divina.",
+      "temas": [
+        "Dor do Profeta",
+        "Impacto da Revelação",
+        "Impotência Humana"
+      ],
+      "personagens": [
+        "Jeremias"
+      ]
     },
     "9": {
-      "parafrase": "Então responderão: Porque deixaram a aliança do Senhor seu Deus, e adoraram a outros deuses, e os serviram.",
-      "referencias": ["Jeremias 16:11"],
-      "comentario": "A resposta será clara: a causa da destruição foi a quebra da aliança com Deus e a idolatria.",
-      "temas": ["Quebra da Aliança", "Idolatria", "Consequência do Pecado"],
-      "personagens": ["Senhor seu Deus"]
+      "parafrase": "E o Senhor disse-me: 'Use essa dor! Grite, pregue, pois a calamidade que lhes contei está chegando sem parar, como uma onda do mar que bate e nunca recua. Ela varrerá tudo em seu caminho!'",
+      "referencias": [
+        "Jeremias 18:7-10",
+        "Isaías 8:7-8"
+      ],
+      "comentario": "A imagem do mar revolto (Yam) é usada para descrever o juízo como algo imparável e avassalador. A ordem é continuar pregando apesar do choque pessoal.",
+      "temas": [
+        "Persistência na Proclamação",
+        "Juízo Inevitável",
+        "Força da Natureza como Metáfora"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "10": {
-      "parafrase": "Não choreis o morto, nem o lamenteis; mas chorai amargamente aquele que sai; porque nunca mais tornará, nem verá a terra onde nasceu.",
-      "referencias": ["2 Reis 23:30"],
-      "comentario": "O profeta instrui o povo a não lamentar a morte do rei Josias, mas sim o exílio de seu filho Salum (Jeoacaz), que nunca mais retornará à sua terra natal.",
-      "temas": ["Lamento pelo Exílio", "Perda da Pátria", "Juízo"],
-      "personagens": []
+      "parafrase": "Mas, ó povo de Judá, vocês ainda insistem em dizer: 'Não se preocupem, nós estamos seguros aqui! Vamos usar nossos tesouros e nossas ferramentas para reconstruir e nos defender. Vamos confiar nas nossas obras e não no Senhor!'",
+      "referencias": [
+        "Lamentações 2:14",
+        "Zacarias 4:6"
+      ],
+      "comentario": "A arrogância e a autossuficiência do povo são evidentes. Eles confiam em seus 'bens' ou 'tesouros' (osheh), acreditando que a prosperidade material lhes garantirá a segurança, desconsiderando a soberania divina.",
+      "temas": [
+        "Arrogância Espiritual",
+        "Autossuficiência",
+        "Rejeição da Palavra"
+      ],
+      "personagens": [
+        "Povo de Judá"
+      ]
     },
     "11": {
-      "parafrase": "Porque assim diz o Senhor acerca de Salum, filho de Josias, rei de Judá, que reinou em lugar de Josias, seu pai, e que saiu deste lugar: Nunca mais para ali tornará.",
-      "referencias": ["2 Reis 23:31-34"],
-      "comentario": "Deus anuncia o destino de Salum (Jeoacaz): ele não retornará do exílio, confirmando a profecia.",
-      "temas": ["Profecia Cumprida", "Exílio", "Não Retorno"],
-      "personagens": ["Senhor", "Salum"]
+      "parafrase": "Portanto, o que acontecerá? Eu, o Deus de vocês, vou trazer contra vocês uma nação terrível, que virá do seu lado, da direção dos seus inimigos mais ferozes. Esta nação não terá respeito pelos idosos nem piedade dos jovens!",
+      "referencias": [
+        "Jeremias 6:22-23",
+        "Deuteronômio 28:50"
+      ],
+      "comentario": "O julgamento é direcionado por Deus ('meu povo'). A crueldade da nação inimiga (Babilônia) é destacada pela ausência de misericórdia ('não pouparão') para nenhuma faixa etária.",
+      "temas": [
+        "Crueldade do Inimigo",
+        "Juízo Sem Piedade",
+        "Ação Coordenada de Deus"
+      ],
+      "personagens": [
+        "Deus",
+        "Nação Terrível"
+      ]
     },
     "12": {
-      "parafrase": "Mas no lugar para onde o levaram cativo, ali morrerá, e nunca mais verá esta terra.",
-      "referencias": [],
-      "comentario": "Ele morrerá em terra estrangeira, sem ver sua pátria novamente.",
-      "temas": ["Morte no Exílio", "Perda"],
+      "parafrase": "Eles virão, e cada um gritará ao seu companheiro: 'Tragam os seus melhores machados e suas ferramentas de demolição! Preparem-se para derrubar os muros de Jerusalém, pois este é o momento de destruí-la completamente, como madeira seca sendo quebrada!'",
+      "referencias": [
+        "Jeremias 50:25",
+        "Ezequiel 21:22"
+      ],
+      "comentario": "O foco muda para as ferramentas da destruição (machados, 'maasei' - instrumentos de trabalho). A ordem é para o uso prático da força destrutiva contra a capital.",
+      "temas": [
+        "Ferramentas de Destruição",
+        "Execução do Juízo",
+        "Desmantelamento Urbano"
+      ],
       "personagens": []
     },
     "13": {
-      "parafrase": "Ai daquele que edifica a sua casa com injustiça, e os seus aposentos sem direito; que se serve do seu próximo sem paga, e não lhe dá o salário do seu trabalho;",
-      "referencias": ["Habacuque 2:9"],
-      "comentario": "Deus pronuncia um lamento sobre o rei Jeoiaquim, que construiu seu palácio com injustiça, explorando os trabalhadores e não pagando seus salários.",
-      "temas": ["Injustiça Social", "Opressão", "Exploração"],
-      "personagens": []
+      "parafrase": "Mas, ouçam bem esta verdade: o Senhor está dizendo que, embora o inimigo faça tudo isso com a Sua permissão, o fogo que se levantará sobre vocês não será obra dos babilônios, mas um fogo que Eu mesmo acenderei nas suas próprias casas!",
+      "referencias": [
+        "Amós 3:6",
+        "Deuteronômio 32:23"
+      ],
+      "comentario": "Uma distinção teológica crucial: o inimigo é o instrumento, mas a causa primária e o poder real por trás da destruição é o próprio Deus ('Eu acenderei o fogo').",
+      "temas": [
+        "Soberania sobre o Mal",
+        "Fogo Purificador/Destruidor",
+        "Causalidade Divina"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "14": {
-      "parafrase": "Que diz: Edificarei para mim uma casa espaçosa, e aposentos arejados; e abre nela janelas, e a forra de cedro, e a pinta de vermelhão.",
-      "referencias": [],
-      "comentario": "A descrição do luxo e da ostentação do palácio de Jeoiaquim, construído com opressão.",
-      "temas": ["Luxo", "Ostentação", "Vaidade"],
+      "parafrase": "Sim, as chamas divinas consumirão os palácios do rei, e elas não deixarão pedra sobre pedra, nem mesmo em suas mais bem guardadas fortalezas!",
+      "referencias": [
+        "Jeremias 17:27",
+        "Naum 3:13"
+      ],
+      "comentario": "O fogo consumirá tanto as estruturas reais quanto as fortalezas ('bāttê-ham’lākh’khîm'), indicando a derrubada de toda a estrutura de poder de Judá.",
+      "temas": [
+        "Destruição Total",
+        "Queda da Monarquia",
+        "Incapacidade de Resistir"
+      ],
       "personagens": []
     },
     "15": {
-      "parafrase": "Porventura reinarás, porque te encerras em cedro? Porventura teu pai não comeu e bebeu, e praticou juízo e justiça? Então lhe ia bem.",
-      "referencias": ["2 Reis 23:25"],
-      "comentario": "Deus contrasta a ostentação de Jeoiaquim com o reinado justo de seu pai, Josias, que praticou a justiça e a retidão, e por isso prosperou.",
-      "temas": ["Contraste", "Justiça", "Prosperidade", "Reinado Justo"],
-      "personagens": ["Josias"]
+      "parafrase": "Então, o Senhor falou especificamente sobre os chefes de Edom e os seus vizinhos. Ele disse: 'Eu lhes darei o povo de Judá como pagamento, como um troféu de guerra, para que vocês façam o que quiserem com eles, até mesmo transformá-los em escravos para sempre!'",
+      "referencias": [
+        "Jeremias 49:7-10",
+        "Ezequiel 35:5"
+      ],
+      "comentario": "Esta é uma revelação paralela sobre Edom (descendentes de Esaú), que se alegravam com a queda de Israel. Deus os pune por sua alegria maligna ao entregar Judá nas mãos deles como 'pagamento' ou 'presa' ('mish'bāth').",
+      "temas": [
+        "Juízo sobre Nações Vizinhas",
+        "Alegria na Calamidade Alheia",
+        "Escravidão e Saque"
+      ],
+      "personagens": [
+        "Chefes de Edom"
+      ]
     },
     "16": {
-      "parafrase": "Julgou a causa do pobre e do necessitado; então lhe ia bem. Porventura não é isso conhecer-me? diz o Senhor.",
-      "referencias": ["Provérbios 31:9"],
-      "comentario": "A verdadeira medida de conhecer a Deus não é o ritualismo, mas a prática da justiça social, especialmente para com os pobres e necessitados.",
-      "temas": ["Conhecimento de Deus", "Justiça Social", "Retidão"],
-      "personagens": ["Senhor"]
+      "parafrase": "Por causa de tudo isso, o Senhor me ordenou que eu lhes falasse sobre o castigo que viria sobre os sacerdotes e sobre os falsos profetas que vocês têm em Jerusalém, aqueles que pregam mentiras!",
+      "referencias": [
+        "Jeremias 5:30-31",
+        "Miquéias 3:5"
+      ],
+      "comentario": "A ira divina se estende agora ao corpo religioso. Os 'falsos profetas' (hanevi'im hakeshavim) são condenados por mascarar a verdade de Deus com conforto indevido.",
+      "temas": [
+        "Condenação dos Falsos Profetas",
+        "Corrupção Religiosa",
+        "A Verdade Oculta"
+      ],
+      "personagens": [
+        "Sacerdotes",
+        "Falsos Profetas"
+      ]
     },
     "17": {
-      "parafrase": "Mas os teus olhos e o teu coração só cuidam da tua avareza, e de derramar sangue inocente, e de praticar a opressão e a violência.",
-      "referencias": ["Jeremias 7:6"],
-      "comentario": "Jeoiaquim é condenado por sua ganância, violência e derramamento de sangue inocente, em contraste com a justiça de seu pai.",
-      "temas": ["Avareza", "Violência", "Opressão"],
-      "personagens": []
+      "parafrase": "Portanto, preparem-se para uma peregrinação de luto, pois o castigo contra vocês, povo de Jerusalém, será como uma caminhada dolorosa e longa. Vocês serão arrastados para o exílio, sendo levados para longe da terra que lhes foi prometida.",
+      "referencias": [
+        "Jeremias 29:18-19",
+        "Lamentações 1:3"
+      ],
+      "comentario": "O ato de 'reunir' (qab'tsu) aqui é invertido; em vez de Deus reunir Seu povo, Ele reúne os inimigos para dispersá-los. A 'peregrinação' (mass’ei) é forçada e cheia de tristeza.",
+      "temas": [
+        "Exílio Forçado",
+        "Luto e Peregrinação",
+        "Consequências da Desobediência"
+      ],
+      "personagens": [
+        "Povo de Jerusalém"
+      ]
     },
     "18": {
-      "parafrase": "Portanto, assim diz o Senhor acerca de Jeoiaquim, filho de Josias, rei de Judá: Não o lamentarão, dizendo: Ah, meu irmão! Ou: Ah, minha irmã! Nem o lamentarão, dizendo: Ah, senhor! Ou: Ah, sua glória!",
-      "referencias": ["Jeremias 36:30"],
-      "comentario": "Deus anuncia que Jeoiaquim terá uma morte desonrosa, sem luto ou honra, em contraste com o luto por um rei justo.",
-      "temas": ["Morte Desonrosa", "Falta de Luto", "Juízo"],
-      "personagens": ["Senhor", "Jeoiaquim"]
+      "parafrase": "Então, ó Jeremias, pergunte a eles: 'O que aconteceu com aquela alegria que vocês sentiam? Onde está a festa? O vinho doce que vocês bebiam nas celebrações desapareceu completamente!'",
+      "referencias": [
+        "Isaías 24:11",
+        "Amós 8:11-12"
+      ],
+      "comentario": "O profeta é instruído a confrontar a ausência de alegria. A falta de vinho (símbolo de celebração e bênção) indica que as fontes de alegria terrena foram secas pelo juízo.",
+      "temas": [
+        "Fim da Alegria",
+        "Perda das Bênçãos",
+        "Confrontação Direta"
+      ],
+      "personagens": [
+        "Jeremias"
+      ]
     },
     "19": {
-      "parafrase": "Com o enterro de um jumento será enterrado, arrastado e lançado para fora das portas de Jerusalém.",
-      "referencias": [],
-      "comentario": "Sua morte será humilhante e sem dignidade, como a de um animal, com seu corpo sendo arrastado e jogado para fora da cidade.",
-      "temas": ["Humilhação", "Morte Desonrosa", "Falta de Sepultamento"],
+      "parafrase": "Pois o fogo que virá os consumirá, e as suas casas, que vocês tanto prezavam, serão transformadas em ruínas estéreis, e ninguém mais irá se preocupar em consertá-las. O luto será eterno!",
+      "referencias": [
+        "Lamentações 1:20",
+        "Jeremias 30:11"
+      ],
+      "comentario": "As casas deixam de ser lugares de habitação e tornam-se montes de ruínas ('adamah sharu’ah'), um lugar desolado e não redimido.",
+      "temas": [
+        "Desolação",
+        "Perda da Herança",
+        "Fogo Consumidor"
+      ],
       "personagens": []
     },
     "20": {
-      "parafrase": "Sobe ao Líbano, e clama; e levanta a tua voz em Basã, e clama desde Abarim; porque todos os teus amantes estão quebrantados.",
-      "referencias": [],
-      "comentario": "Jerusalém é convidada a lamentar em lugares altos, pois seus aliados (amantes) estão derrotados. O Líbano, Basã e Abarim são regiões elevadas.",
-      "temas": ["Lamento", "Derrota de Aliados", "Desespero"],
-      "personagens": []
+      "parafrase": "Ainda há esperança para as cidades vizinhas, aquelas que não são de Judá. O povo de Israel, que era unido a vocês, agora está completamente perdido, levado cativo, e eles gemem como feridos em batalha, pois não podem voltar!",
+      "referencias": [
+        "Jeremias 31:1-2",
+        "Oséias 1:11"
+      ],
+      "comentario": "Há um contraste sutil com as outras nações (incluindo o Reino do Norte, Israel, que já havia caído). O juízo sobre Judá é mais severo, mas o texto insinua que outras regiões podem ter caminhos de recuperação.",
+      "temas": [
+        "Contraste de Juízo",
+        "Perda da Unidade",
+        "A Dor do Cativeiro"
+      ],
+      "personagens": [
+        "Povo de Israel"
+      ]
     },
     "21": {
-      "parafrase": "Falei contigo na tua prosperidade, mas tu disseste: Não ouvirei. Este foi o teu modo desde a tua mocidade, pois nunca obedeceste à minha voz.",
-      "referencias": ["Jeremias 7:23-26"],
-      "comentario": "Deus lembra a Jerusalém de sua persistente desobediência, mesmo em tempos de prosperidade. A rebelião tem sido seu padrão desde o início.",
-      "temas": ["Desobediência Persistente", "Rebelião", "Ingratidão"],
-      "personagens": []
+      "parafrase": "Isso é o que o Senhor diz sobre Edom, que se alegrou com a sua dor: 'Eles se erguerão como leões, prontos para atacar, e sairão das suas tocas para atacar os seus cordeiros indefesos, mas Eu os destruirei da face da terra!'",
+      "referencias": [
+        "Jeremias 49:19-21",
+        "Isaías 31:4"
+      ],
+      "comentario": "Edom é novamente atacada, desta vez por sua postura predatória ('como leões', chayot). Deus promete que o agressor será destruído por sua própria ferocidade.",
+      "temas": [
+        "Justiça contra os Opressores",
+        "Predação",
+        "Retribuição Divina"
+      ],
+      "personagens": [
+        "Edom"
+      ]
     },
     "22": {
-      "parafrase": "O vento apascentará a todos os teus pastores, e os teus amantes irão para o cativeiro; certamente então serás envergonhada e confundida por toda a tua maldade.",
-      "referencias": [],
-      "comentario": "Os líderes (pastores) e os aliados (amantes) de Jerusalém serão dispersos pelo vento do juízo, e a cidade será envergonhada por sua maldade.",
-      "temas": ["Dispersão", "Cativeiro", "Vergonha", "Consequência do Pecado"],
-      "personagens": []
+      "parafrase": "O Senhor está prestes a agir, e a sua ira será descarregada sobre Judá. Eles serão humilhados e envergonhados para sempre por causa de sua teimosia contra a Palavra de Deus!",
+      "referencias": [
+        "Jeremias 20:11",
+        "Daniel 9:7"
+      ],
+      "comentario": "'Pois o Senhor os fez cair' (pāqad) denota uma visitação punitiva. A vergonha pública é parte integrante do castigo, pois eles desprezaram a honra de Deus.",
+      "temas": [
+        "Ira de Deus",
+        "Humilhação",
+        "Teimosia"
+      ],
+      "personagens": [
+        "Senhor",
+        "Judá"
+      ]
     },
     "23": {
-      "parafrase": "Ó moradora do Líbano, que fazes o teu ninho nos cedros, quão lastimosa serás quando te vierem as dores, como as de parturiente, as angústias como as de quem está dando à luz!",
-      "referencias": ["Jeremias 4:31"],
-      "comentario": "Jerusalém, que se sente segura em sua glória (cedros do Líbano), será atingida por dores e angústias como as de uma mulher em trabalho de parto, simbolizando a severidade do juízo.",
-      "temas": ["Sofrimento", "Angústia", "Juízo"],
-      "personagens": []
+      "parafrase": "Ó Judá, vocês são como árvores que não conseguem produzir frutos bons e que nunca dão sombra para ninguém. Estão enraizados no solo, mas não servem para nada de útil, nem mesmo para fazer lenha no fogo!",
+      "referencias": [
+        "Mateus 7:17-19",
+        "Lucas 13:6-9"
+      ],
+      "comentario": "A metáfora da árvore estéril (''ets bōr') é poderosa. Ela significa que Judá, embora plantada e protegida (enraizada), falhou em seu propósito teológico de produzir fruto de justiça e sustento.",
+      "temas": [
+        "Esterilidade Espiritual",
+        "Propósito Negado",
+        "Falta de Fruto"
+      ],
+      "personagens": [
+        "Judá"
+      ]
     },
     "24": {
-      "parafrase": "Vivo eu, diz o Senhor, ainda que Conias, filho de Jeoiaquim, rei de Judá, fosse o anel do meu selo na minha mão direita, contudo dali te arrancaria.",
-      "referencias": ["Ageu 2:23"],
-      "comentario": "Deus jura que, mesmo que Conias (Jeoaquim), o último rei da linhagem davídica, fosse tão precioso quanto um anel de selo em Sua mão, Ele o removeria. Isso mostra a decisão irrevogável de Deus de julgar a linhagem real.",
-      "temas": ["Juízo Irrevogável", "Rejeição Real", "Soberania de Deus"],
-      "personagens": ["Senhor", "Conias"]
+      "parafrase": "E o Senhor declara: 'Tirarei a força dos seus guerreiros mais valentes, e os líderes do seu povo fugirão de medo, escondendo-se em seus esconderijos mais secretos, pois eu mesma trarei o terror sobre eles!'",
+      "referencias": [
+        "Jeremias 48:42",
+        "Isaías 19:16"
+      ],
+      "comentario": "Deus desmantela a força militar (homens fortes, '’ishshēy g'būrāh') e a liderança política. O terror ('pachad') é tão grande que os guerreiros se escondem como covardes.",
+      "temas": [
+        "Desmoralização Militar",
+        "Fuga dos Líderes",
+        "Poder do Terror"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "25": {
-      "parafrase": "E te entregarei na mão dos que procuram a tua vida, e na mão daqueles a quem temes, a saber, na mão de Nabucodonosor, rei de Babilônia, e na mão dos caldeus.",
-      "referencias": [],
-      "comentario": "Conias será entregue aos seus inimigos, Nabucodonosor e os caldeus, que o levarão cativo.",
-      "temas": ["Entrega ao Inimigo", "Cativeiro", "Juízo"],
-      "personagens": ["Nabucodonosor"]
+      "parafrase": "Pelo contrário, Eu os jogarei entre as nações, espalhados por terras distantes, e vocês ficarão em meio aos povos estrangeiros, perdidos e abandonados. E então, finalmente, vocês saberão que Eu sou o Senhor, aquele que é soberano e julga!",
+      "referencias": [
+        "Jeremias 29:14",
+        "Levítico 26:33"
+      ],
+      "comentario": "Este é o clímax da punição: dispersão ('b’tok ha-goyim', entre as nações). O objetivo final do exílio não é apenas o sofrimento, mas a epistemologia: que eles reconheçam a soberania de YHWH (o 'saber que Eu Sou o Senhor').",
+      "temas": [
+        "Dispersão (Diáspora)",
+        "Reconhecimento da Soberania",
+        "Propósito Final do Sofrimento"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "26": {
-      "parafrase": "E te lançarei a ti, e a tua mãe que te deu à luz, para uma terra estranha, onde não nasceste, e ali morrereis.",
-      "referencias": [],
-      "comentario": "Conias e sua mãe serão exilados para uma terra estrangeira, onde morrerão, sem retornar à sua pátria.",
-      "temas": ["Exílio", "Morte no Exílio", "Perda"],
-      "personagens": []
+      "parafrase": "Deus declara solenemente: 'Eu cortei pela raiz o meu povo, Israel, e o lancei longe de mim, como um arbusto seco que não produz mais frutos! Mesmo que eu os tenha guardado por tanto tempo, mostrando minha fidelidade, eles não se arrependeram. Portanto, não há esperança de que eu os reconduza à terra que lhes dei, pois a iniquidade deles se tornou um cheiro insuportável para o meu Espírito.' 💔",
+      "referencias": [
+        "Os 9:17",
+        "Am 8:2",
+        "Mq 7:13"
+      ],
+      "comentario": "O termo hebraico para 'cortar pela raiz' é שָׁרַשׁ ('sharash'), indicando uma remoção completa e definitiva, não apenas uma poda. Deus usa uma imagem de esterilidade agrícola, que era a base da vida israelita. A frase 'lançá-los-ei para longe de mim' (ou 'arrancá-los-ei') ressalta a rejeição ativa. A razão é a persistência da 'maldade' (עָוֹן, 'avon') que atingiu um ponto de saturação espiritual.",
+      "temas": [
+        "Julgamento Divino",
+        "Iniquidade",
+        "Exílio",
+        "Fidelidade quebrada"
+      ],
+      "personagens": [
+        "Deus (Javé)",
+        "Povo de Israel"
+      ]
     },
     "27": {
-      "parafrase": "Mas à terra para onde a sua alma anseia voltar, para ali não voltarão.",
-      "referencias": [],
-      "comentario": "Apesar de seu desejo de retornar, eles nunca mais verão sua terra natal.",
-      "temas": ["Não Retorno", "Perda"],
-      "personagens": []
+      "parafrase": "Mas esperem! Mesmo após essa rejeição, o Senhor revela um plano mais profundo: 'Vou fazer com que os profetas continuem a contar seus sonhos e visões, mas farei com que suas palavras sejam tão vazias quanto as mentiras que eles dizem. Eles perguntarão a mim, o Senhor, buscando orientação, mas eu lhes darei respostas evasivas e sem sentido. Eles não ouvirão a verdade que os guiaria ao arrependimento.' 🤥",
+      "referencias": [
+        "1 Rs 22:22",
+        "Mq 3:11",
+        "Pv 1:28"
+      ],
+      "comentario": "Este versículo mostra a severidade do juízo: Deus passa a enganar ativamente os falsos profetas com 'sonhos' e 'revelações' vazias (חֲלוֹם, 'chalom'). Eles buscam o oráculo divino (דָּרַשׁ, 'darash'), mas Deus responde com silêncio divino ou oráculos inúteis, pois a comunidade já não está disposta a ouvir a verdade pura (Jeremias 5:13).",
+      "temas": [
+        "Falsos Profetas",
+        "Engano Divino",
+        "Busca Vazia",
+        "Profecia"
+      ],
+      "personagens": [
+        "Profetas",
+        "Deus (Javé)"
+      ]
     },
     "28": {
-      "parafrase": "É este homem Conias um vaso desprezado e quebrado? Ou um vaso de que ninguém se agrada? Por que razão foram lançados fora, ele e a sua descendência, e arremessados para uma terra que não conhecem?",
-      "referencias": ["Jeremias 19:11"],
-      "comentario": "O profeta lamenta a condição de Conias, que se tornou um vaso quebrado e desprezado, sem valor. A pergunta retórica enfatiza a totalidade de sua rejeição e exílio.",
-      "temas": ["Vaso Quebrado", "Desprezo", "Exílio"],
-      "personagens": ["Conias"]
+      "parafrase": "Portanto, prestem muita atenção ao que esses visionários dizem. Ao invés de ouvirem a voz do Senhor, eles estão trocando o peso da verdade de Deus por histórias vazias. É como se estivessem pegando ouro puro e o substituindo por palha barata. Eles se tornaram ladrões da verdade que roubam a fé do meu povo através das suas ilusões.",
+      "referencias": [
+        "Tg 3:15",
+        "Ef 4:14",
+        "Mt 15:14"
+      ],
+      "comentario": "A comparação central aqui é a troca de 'palha' (תֶּבֶן, 'teben' – resíduo de grãos) por 'ouro'. Isso implica que os falsos profetas pegavam o que era inútil e sem substância (palha) e o apresentavam como o mais valioso (ouro). Eles não apenas erram, mas ativamente distorcem o valor da mensagem divina para benefício próprio ou para manter a popularidade.",
+      "temas": [
+        "Distinção entre Verdade e Falsidade",
+        "Corrupção da Mensagem",
+        "Preço da Mentira"
+      ],
+      "personagens": [
+        "Falsos Profetas"
+      ]
     },
     "29": {
-      "parafrase": "Ó terra, terra, terra! Ouve a palavra do Senhor!",
-      "referencias": [],
-      "comentario": "Um chamado solene e urgente para toda a terra ouvir a palavra de Deus, enfatizando a importância da mensagem.",
-      "temas": ["Chamado Solene", "Palavra de Deus", "Urgência"],
-      "personagens": ["Senhor"]
+      "parafrase": "Por causa dessa traição espiritual, a palavra do Senhor será severa contra esses 'poetas' da ilusão. Ele diz: 'Minha palavra não é como um fogo consumidor que purifica, ou como um martelo poderoso que quebra a rocha em pedaços? Eu sou como um fogo que destrói o que é falso e inútil!' 🔥🔨",
+      "referencias": [
+        "Hb 4:12",
+        "Is 55:11",
+        "Jr 5:14"
+      ],
+      "comentario": "Este versículo utiliza duas metáforas poderosas para a Palavra de Deus. Primeiro, o fogo (como em Jeremias 5:14), que consome a impureza. Segundo, o martelo/ferro (פַּטִּישׁ, 'pattish'), que quebra a pedra dura. A Palavra de Deus tem o poder transformador e destrutivo contra o engano, contrastando com a 'palha' mencionada anteriormente.",
+      "temas": [
+        "Poder da Palavra de Deus",
+        "Juízo sobre a Falsidade",
+        "Purificação"
+      ],
+      "personagens": [
+        "Deus (Javé)",
+        "A Palavra"
+      ]
     },
     "30": {
-      "parafrase": "Assim diz o Senhor: Escrevei este homem como um homem sem filhos, um homem que não prosperará nos seus dias; porque nenhum da sua descendência prosperará para se assentar sobre o trono de Davi, e reinar mais em Judá.",
-      "referencias": ["Jeremias 36:30"],
-      "comentario": "Deus decreta que Conias será como um homem sem filhos, sem descendência que prospere no trono de Davi. Isso significa o fim da linhagem real de Davi através de Conias, abrindo caminho para uma nova esperança messiânica.",
-      "temas": ["Fim da Linhagem Real", "Juízo", "Não Prosperidade"],
-      "personagens": ["Senhor"]
+      "parafrase": "Portanto, ó povo, vejam! Estou em oposição direta a esses profetas que roubam um ao outro, fingindo trazer mensagens minhas. Vejam como eles agem: um sussurra uma mentira para seu colega profeta, e o outro a repete, fingindo que foi uma revelação divina. Eles estão tecendo uma teia de engano uns com os outros, e tudo isso para manterem seu prestígio e popularidade no meio do povo reunido!' 😮‍💨",
+      "referencias": [
+        "2 Pe 2:13",
+        "1 Tm 4:1",
+        "Jz 10:14"
+      ],
+      "comentario": "O ato de 'roubar um ao outro' (גָּנַב, 'ganav') sugere uma cumplicidade mútua na fraude. Eles não estão apenas sendo enganados; eles estão ativamente conspirando. O versículo descreve o ambiente de falsidade religiosa como um ciclo vicioso de mentira transmitida. A ação culmina na adoração de suas próprias 'línguas' (suas palavras) ao invés da revelação autêntica de Deus.",
+      "temas": [
+        "Conluio de Mentiras",
+        "Hipocrisia Religiosa",
+        "Consequências Comunitárias"
+      ],
+      "personagens": [
+        "Profetas Falsos",
+        "Povo"
+      ]
     }
   }
 }

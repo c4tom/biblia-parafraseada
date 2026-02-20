@@ -1,274 +1,655 @@
 {
   "livro": "Gênesis",
   "capitulo": 19,
-  "contexto_historico": "Ver contexto anterior em Gênesis 18. Este capítulo é a continuação direta da visita divina a Abraão e sua intercessão. Os dois anjos chegam a Sodoma para executar o juízo e resgatar Ló. A narrativa descreve vividamente a depravação da cidade, a destruição de Sodoma e Gomorra, e as consequências trágicas das escolhas de Ló e sua família.",
-  "bloco_tematico": "A Destruição de Sodoma e Gomorra",
+  "contexto_historico": "Após o dilúvio e a promessa de Deus de nunca mais destruir a terra com água (Gênesis 9), a humanidade começa a se multiplicar novamente, mas o pecado, ainda presente, leva a eventos como a Torre de Babel (Gênesis 11). O foco se desloca para Abraão (ainda Abrão), um homem piedoso chamado por Deus para sair de Ur dos Caldeus (Mesopotâmia) e ir para uma terra desconhecida, Canaã. Este capítulo marca o início da aliança de Deus com Abraão, estabelecendo as bases para a formação do povo de Israel. A tensão principal neste ponto é a esterilidade da esposa de Abrão, Sarai, que se torna um obstáculo imediato para o cumprimento da promessa de uma grande descendência. É um momento de fé testada em meio à dificuldade conjugal e à promessa divina aparentemente impossível. 🏛️🔥👶",
+  "bloco_tematico": "A Chamada e a Promessa Divina: Esterilidade, Fé e o Início da Aliança 🕊️🏜️💍",
   "versiculos": {
     "1": {
-      "parafrase": "Os dois anjos chegaram a Sodoma ao anoitecer, e Ló estava sentado à porta da cidade. Ao vê-los, Ló se levantou para recebê-los e curvou-se com o rosto em terra.",
-      "referencias": ["Gênesis 18:22"],
-      "comentario": "Ló, como Abraão, mostra hospitalidade, embora sua posição 'à porta da cidade' sugira que ele era um oficial ou juiz, indicando sua integração na sociedade de Sodoma. Ele reconhece os visitantes como mensageiros importantes e oferece reverência.",
-      "temas": ["hospitalidade", "anjos", "Sodoma"],
-      "personagens": ["anjos", "Ló"]
+      "parafrase": "Quando o sol já estava se pondo no horizonte de Sodooma, Ló, o sobrinho de Abraão, estava sentado à porta da sua casa, na cidade. Naquele exato momento, o Senhor estava prestes a executar Seu juízo sobre aquela região perversa, mas Ló, sem saber, recebia em sua casa a manifestação divina.",
+      "referencias": [
+        "Gênesis 18:1",
+        "Gênesis 13:10"
+      ],
+      "comentario": "A chegada dos anjos é registrada à noite, um momento crucial de transição entre o dia (visível) e a noite (o tempo do juízo oculto). Ló está 'sentado à porta', indicando uma posição de relativa importância ou, ironicamente, de vigilância passiva na cidade corrompida.",
+      "temas": [
+        "Hospitalidade",
+        "Juízo Iminente",
+        "Inocência Relativa"
+      ],
+      "personagens": [
+        "Ló",
+        "Anjos do Senhor"
+      ]
     },
     "2": {
-      "parafrase": "Ele disse: 'Meus senhores, por favor, venham à casa de seu servo para lavar os pés e passar a noite. Amanhã, poderão seguir seu caminho'. Eles responderam: 'Não, passaremos a noite na praça'.",
-      "referencias": [],
-      "comentario": "A recusa inicial dos anjos pode ter sido um teste para a sinceridade de Ló, ou uma forma de avaliar a condição da cidade por si mesmos. Passar a noite na praça pública seria expor-se ao perigo da cidade.",
-      "temas": ["hospitalidade", "teste", "perigo"],
-      "personagens": ["Ló", "anjos"]
+      "parafrase": "Ao ver aqueles dois visitantes que pareciam ser apenas viajantes cansados, Ló se levantou imediatamente, correu ao encontro deles e se prostrou com o rosto tocando o chão, numa reverência profunda. 'Por favor, meus senhores', ele implorou, 'aceitem a hospitalidade em minha casa e descansem aqui esta noite.'",
+      "referencias": [
+        "Gênesis 18:2",
+        "Hebreus 13:2"
+      ],
+      "comentario": "A prostração de Ló (em hebraico, 'shachah') demonstra um profundo respeito, embora ele não soubesse que estava recebendo mensageiros divinos. Sua ação imediata destaca a virtude da hospitalidade, um valor cultural essencial no Oriente Próximo antigo, que Abraão havia exemplificado.",
+      "temas": [
+        "Hospitalidade",
+        "Reverência",
+        "Hospitalidade como Dever"
+      ],
+      "personagens": [
+        "Ló",
+        "Anjos"
+      ]
     },
     "3": {
-      "parafrase": "Mas ele insistiu tanto que eles foram com ele e entraram em sua casa. Ló preparou-lhes uma refeição, assou pão sem fermento, e eles comeram.",
-      "referencias": [],
-      "comentario": "A insistência de Ló mostra que ele conhecia o perigo de sua cidade e estava genuinamente preocupado com a segurança de seus hóspedes. Sua hospitalidade é um ponto de luz na escuridão de Sodoma.",
-      "temas": ["insistência", "hospitalidade", "proteção"],
-      "personagens": ["Ló", "anjos"]
+      "parafrase": "Após a súplica, Ló insistiu veementemente, dizendo: 'Agora que vocês honraram seu servo aceitando entrar, por favor, permaneçam aqui! Preparei um lugar para vocês descansarem, com pão fresco e água limpa para lavarem os pés cansados da jornada.'",
+      "referencias": [
+        "Gênesis 24:32",
+        "Judges 19:20"
+      ],
+      "comentario": "Ló não apenas convida, ele 'insiste' ('veemente' ou 'muito'). Ele oferece o básico essencial para a sobrevivência do viajante no deserto: descanso, alimento e a purificação dos pés. Isso sublinha o quão profundamente ele valorizava a segurança de seus convidados.",
+      "temas": [
+        "Insistência na Bondade",
+        "Cuidado com o Viajante",
+        "Pão e Água"
+      ],
+      "personagens": [
+        "Ló",
+        "Anjos"
+      ]
     },
     "4": {
-      "parafrase": "Antes que se deitassem, todos os homens de todas as partes da cidade de Sodoma, jovens e velhos, cercaram a casa.",
-      "referencias": [],
-      "comentario": "A depravação de Sodoma é revelada em sua totalidade. A cidade inteira, sem exceção de idade, participa do ato maligno, mostrando que a corrupção era universal e não havia nem mesmo os dez justos pelos quais Abraão intercedeu.",
-      "temas": ["depravação", "maldade universal", "ameaça"],
-      "personagens": ["homens de Sodoma"]
+      "parafrase": "Mas, antes que os anjos aceitassem e se acomodassem, os homens daquela cidade, os sodomitas, cercaram a casa. Eram homens de todas as idades, de todas as partes da cidade, e rodearam a residência de Ló.",
+      "referencias": [
+        "Gênesis 18:20",
+        "Juízes 19:22"
+      ],
+      "comentario": "O contraste entre a santidade da hospitalidade de Ló e a depravação coletiva de Sodoma é imediato. A multidão cercando a casa sinaliza que a ameaça não é apenas de roubo, mas de violência social e sexual, típica da descrição bíblica sobre Sodoma.",
+      "temas": [
+        "Confronto Moral",
+        "Assédio Comunitário",
+        "Depravação"
+      ],
+      "personagens": [
+        "Homens de Sodoma",
+        "Ló"
+      ]
     },
     "5": {
-      "parafrase": "Eles chamaram Ló e lhe disseram: 'Onde estão os homens que vieram à sua casa esta noite? Traga-os para fora, para que possamos ter relações com eles'.",
-      "referencias": ["Juízes 19:22", "Romanos 1:27"],
-      "comentario": "A exigência da multidão é de violência sexual homossexual em grupo, uma violação brutal das leis da hospitalidade e da moralidade. Este ato revela a profundidade da perversão e da violência que caracterizavam a cidade.",
-      "temas": ["perversão sexual", "violência", "inospitalidade", "pecado"],
-      "personagens": ["homens de Sodoma", "Ló"]
+      "parafrase": "Eles gritaram para Ló, exigindo: 'Onde estão os homens que vieram a você esta noite? Traga-os para fora! Queremos conhecê-los intimamente!' (no sentido de ter relações sexuais com eles).",
+      "referencias": [
+        "Levítico 18:22",
+        "Juízes 19:24"
+      ],
+      "comentario": "O verbo hebraico para 'conhecer' (yada) aqui, no contexto das exigências dos sodomitas, é um eufemismo claro para relações sexuais ilícitas e violentas. Este ato é o ápice da maldade que levaria ao julgamento da cidade.",
+      "temas": [
+        "Pecado Sexual",
+        "Agressão",
+        "Violência Urbana"
+      ],
+      "personagens": [
+        "Homens de Sodoma",
+        "Ló"
+      ]
     },
     "6": {
-      "parafrase": "Ló saiu para falar com eles, fechando a porta atrás de si,",
-      "referencias": [],
-      "comentario": "Ló tenta proteger seus hóspedes, colocando-se como uma barreira entre eles e a multidão enfurecida.",
-      "temas": ["proteção", "coragem"],
-      "personagens": ["Ló"]
+      "parafrase": "Ló saiu para a entrada, fechando a porta firmemente atrás de si, para proteger seus hóspedes, e se dirigiu à multidão com um tom de súplica e autoridade. Ele disse: 'Por favor, meus irmãos, não cometam essa maldade terrível!'",
+      "referencias": [
+        "Juízes 19:23",
+        "Romanos 12:13"
+      ],
+      "comentario": "Ló demonstra coragem ao se colocar fisicamente entre os agressores e os anjos, usando o termo 'irmãos' (achaím) na tentativa desesperada de apelar para alguma memória de parentesco ou decência humana, embora fosse fútil contra aquela multidão.",
+      "temas": [
+        "Proteção dos Hóspedes",
+        "Apelo à Moral",
+        "Sacrifício Pessoal"
+      ],
+      "personagens": [
+        "Ló",
+        "Homens de Sodoma"
+      ]
     },
     "7": {
-      "parafrase": "e disse: 'Não, meus amigos! Por favor, não façam essa maldade!'",
-      "referencias": [],
-      "comentario": "Ló apela à razão da multidão, chamando seu ato pelo que é: uma grande maldade.",
-      "temas": ["apelo", "maldade"],
-      "personagens": ["Ló"]
+      "parafrase": "E ele continuou, argumentando com a multidão: 'Vejam, tenho duas filhas que ainda não tiveram intimidade com homem algum. Eu as trarei para vocês, e vocês podem fazer com elas o que lhes aprouver. Mas, por favor, não toquem nestes homens, pois eles estão sob a minha proteção e é meu dever sagrado protegê-los!'",
+      "referencias": [
+        "Gênesis 18:8",
+        "Juízes 19:24"
+      ],
+      "comentario": "Este é o momento mais chocante e revelador da falha moral de Ló. Ele troca a santidade de seus hóspedes (os anjos) pela vida deles, oferecendo suas próprias filhas em um ato desesperado. Isso reflete uma inversão completa de valores: a hospitalidade é honrada, mas o custo é a dignidade de sua própria família.",
+      "temas": [
+        "Inversão de Valores",
+        "Sacrifício Familiar",
+        "Desespero Moral"
+      ],
+      "personagens": [
+        "Ló",
+        "Filhas de Ló",
+        "Homens de Sodoma"
+      ]
     },
     "8": {
-      "parafrase": "'Olhem, tenho duas filhas que nunca conheceram homem. Vou trazê-las para vocês, e poderão fazer com elas o que quiserem. Mas não façam nada a estes homens, pois estão sob a proteção do meu teto'.",
-      "referencias": ["Juízes 19:24"],
-      "comentario": "Em seu desespero e com uma noção distorcida de honra, Ló faz uma oferta terrível. Ele prioriza a proteção de seus hóspedes (um dever sagrado de hospitalidade) acima da segurança de suas próprias filhas. Isso mostra o quanto sua mente foi corrompida pela cultura de Sodoma, mesmo que ele não participasse de seus piores pecados.",
-      "temas": ["escolha terrível", "desespero", "moralidade distorcida", "proteção da hospitalidade"],
-      "personagens": ["Ló"]
+      "parafrase": "Os sodomitas, no entanto, responderam com escárnio e zombaria, gritando: 'Saia do caminho! Você é apenas um estrangeiro vindo morar aqui, e agora quer se achar no direito de nos julgar! Prepare-se, pois vamos tratar você pior do que a eles!' E então, eles avançaram para arrombar a porta.",
+      "referencias": [
+        "Ezequiel 16:49",
+        "Judas 1:7"
+      ],
+      "comentario": "A multidão rejeita a autoridade de Ló, apontando seu status de forasteiro ('estrangeiro' ou 'peregrino'). Eles veem a lei de hospitalidade como uma intromissão em seus costumes depravados. O plano de atacá-lo a ele próprio ('pior que a eles') mostra a fúria e a sede de violência que os dominava.",
+      "temas": [
+        "Rejeição da Lei Divina",
+        "Arrogância",
+        "Violência Direcionada"
+      ],
+      "personagens": [
+        "Homens de Sodoma",
+        "Ló"
+      ]
     },
     "9": {
-      "parafrase": "Mas eles gritaram: 'Saia da frente! Este homem veio como estrangeiro e agora quer ser nosso juiz! Faremos a você pior do que a eles'. E avançaram contra Ló, forçando a porta.",
-      "referencias": [],
-      "comentario": "A multidão rejeita a oferta de Ló e se volta contra ele. Eles o veem como um forasteiro sem direitos e ressentem sua tentativa de impor um padrão moral. A violência deles escala, e a vida de Ló fica em perigo.",
-      "temas": ["rejeição", "violência", "ameaça"],
-      "personagens": ["homens de Sodoma", "Ló"]
+      "parafrase": "Mas, no auge da confusão, os dois homens que estavam dentro da casa estenderam as mãos, puxaram Ló de volta para dentro, e trancaram a porta com força.",
+      "referencias": [
+        "2 Reis 6:18",
+        "Atos 12:7"
+      ],
+      "comentario": "A intervenção angélica é rápida e decisiva. Eles protegem Ló, cumprindo a promessa de livrá-lo. O ato de puxá-lo para dentro simboliza o resgate da esfera do perigo humano para a esfera da proteção divina.",
+      "temas": [
+        "Intervenção Divina",
+        "Resgate",
+        "Proteção Angular"
+      ],
+      "personagens": [
+        "Anjos",
+        "Ló"
+      ]
     },
     "10": {
-      "parafrase": "Mas os dois homens (os anjos) estenderam os braços, puxaram Ló para dentro de casa e fecharam a porta.",
-      "referencias": [],
-      "comentario": "Os anjos intervêm para salvar Ló, demonstrando seu poder sobrenatural e cumprindo sua missão de resgatá-lo.",
-      "temas": ["intervenção divina", "resgate", "poder sobrenatural"],
-      "personagens": ["anjos", "Ló"]
+      "parafrase": "Em seguida, os homens de fora, que estavam tentando arrombar a porta, foram atingidos por uma cegueira repentina. Eles ficaram completamente desorientados e não conseguiam mais encontrar a entrada da casa de Ló.",
+      "referencias": [
+        "2 Reis 6:18",
+        "Atos 9:8"
+      ],
+      "comentario": "A cegueira (cegueira espiritual e física) é um sinal claro do poder divino em ação. É um julgamento preventivo. Eles não conseguem acessar o que cobiçavam porque sua visão espiritual foi removida.",
+      "temas": [
+        "Cegueira Espiritual",
+        "Julgamento Imediato",
+        "Sinal de Deus"
+      ],
+      "personagens": [
+        "Homens de Sodoma",
+        "Anjos"
+      ]
     },
     "11": {
-      "parafrase": "Em seguida, feriram de cegueira todos os homens que estavam à porta da casa, jovens e velhos, de modo que não conseguiam mais encontrar a entrada.",
-      "referencias": ["2 Reis 6:18"],
-      "comentario": "O primeiro ato de juízo é a cegueira. É um juízo apropriado, pois eles estavam cegos pela luxúria. Mesmo cegos, eles continuam tentando encontrar a porta, mostrando sua impenitência total.",
-      "temas": ["juízo divino", "cegueira", "impenitência"],
-      "personagens": ["anjos"]
+      "parafrase": "Então, aqueles dois visitantes disseram a Ló, de forma urgente: 'Rápido! Pegue sua esposa e suas duas filhas que estão aqui, e saia imediatamente desta cidade! Porque o Senhor está prestes a lançar o Seu fogo e enxofre sobre ela!'",
+      "referencias": [
+        "Lucas 17:29",
+        "Gênesis 7:4"
+      ],
+      "comentario": "A urgência ('depressa!/rápido!') é mandatória. O aviso explícito do juízo de fogo e enxofre (a destruição característica de Sodoma) é dado. A salvação depende da obediência imediata e total.",
+      "temas": [
+        "Urgência da Salvação",
+        "Fogo e Enxofre",
+        "Obediência"
+      ],
+      "personagens": [
+        "Anjos",
+        "Ló",
+        "Esposa de Ló",
+        "Filhas de Ló"
+      ]
     },
     "12": {
-      "parafrase": "Os dois homens disseram a Ló: 'Você tem mais alguém aqui? Genros, filhos, filhas ou qualquer outro parente na cidade? Tire-os daqui,'",
-      "referencias": [],
-      "comentario": "Os anjos revelam sua missão a Ló. A oferta de resgate se estende a toda a sua família, um ato de misericórdia por causa de Abraão.",
-      "temas": ["revelação", "resgate", "misericórdia"],
-      "personagens": ["anjos", "Ló"]
+      "parafrase": "Ló hesitou, respondendo aos anjos: 'Meus senhores, por favor, sejam gentis com seu servo! Eu encontrei um pouco de favor aos seus olhos, mas eu preciso de mais tempo. Por favor, esperem um pouco mais enquanto eu tento convencer meus genros a virem conosco, pois eles são casados com minhas filhas!'",
+      "referencias": [
+        "Gênesis 18:3",
+        "Lucas 17:28"
+      ],
+      "comentario": "Ló demonstra sua profunda conexão e apego à vida em Sodoma. Ele tenta negociar com o divino, o que revela sua relutância em deixar para trás sua posição social e seus genros, que já haviam demonstrado sua rejeição à mensagem de Abraão.",
+      "temas": [
+        "Apego ao Mundo",
+        "Negociação com Deus",
+        "Hesitação"
+      ],
+      "personagens": [
+        "Ló",
+        "Anjos",
+        "Genros"
+      ]
     },
     "13": {
-      "parafrase": "'porque estamos prestes a destruir este lugar. O clamor contra seu povo chegou ao Senhor, e ele nos enviou para destruí-lo'.",
-      "referencias": ["Gênesis 18:20"],
-      "comentario": "A razão do juízo é declarada explicitamente. A destruição não é arbitrária, mas uma resposta divina à maldade avassaladora da cidade.",
-      "temas": ["juízo iminente", "destruição", "pecado"],
-      "personagens": ["anjos", "Deus"]
+      "parafrase": "Os anjos responderam com firmeza: 'Você está tentando salvar seus genros? Saiba que esta cidade está marcada para a destruição total. Não há mais tempo para convencê-los. Se eles ficarem, perecerão com todos os outros!'",
+      "referencias": [
+        "Provérbios 29:1",
+        "Mateus 24:38-39"
+      ],
+      "comentario": "A resposta é um ultimato. A firmeza dos mensageiros divinos contrasta com a fraqueza de Ló. A frase 'Se eles ficarem, perecerão' estabelece a consequência direta da escolha de permanecer no pecado.",
+      "temas": [
+        "Ultimato",
+        "Consequência do Pecado",
+        "Firmeza Divina"
+      ],
+      "personagens": [
+        "Anjos",
+        "Genros de Ló"
+      ]
     },
     "14": {
-      "parafrase": "Então Ló saiu e falou com seus futuros genros, que estavam prometidos para casar com suas filhas. Ele disse: 'Levantem-se e saiam deste lugar, porque o Senhor vai destruir a cidade!' Mas eles pensaram que ele estava brincando.",
-      "referencias": [],
-      "comentario": "A influência de Ló sobre sua própria família é nula. Seus genros, completamente imersos na cultura de Sodoma, não conseguem levar a sério o aviso de juízo. A zombaria deles selou seu destino.",
-      "temas": ["incredulidade", "zombaria", "falta de influência"],
-      "personagens": ["Ló", "genros"]
+      "parafrase": "Ló, então, correu para falar com seus genros, que aparentemente estavam na casa deles. Ele tentou persuadi-los com urgência: 'Saiam deste lugar! O Senhor está prestes a destruir a cidade!' Mas eles olharam para ele como se fosse um velho tolo dizendo piadas sem sentido.",
+      "referencias": [
+        "Lucas 17:32",
+        "Gênesis 17:17"
+      ],
+      "comentario": "Este versículo confirma que os genros não apenas recusaram, mas zombaram abertamente de Ló. A incredulidade deles espelha a geração do Dilúvio (como em Mateus 24). Sua rejeição foi consciente e desdenhosa.",
+      "temas": [
+        "Escárnio da Palavra",
+        "Incredulidade",
+        "Rejeição da Advertência"
+      ],
+      "personagens": [
+        "Ló",
+        "Genros"
+      ]
     },
     "15": {
-      "parafrase": "Ao amanhecer, os anjos insistiram com Ló, dizendo: 'Rápido! Leve sua mulher e suas duas filhas que estão aqui, ou vocês serão destruídos quando a cidade for punida'.",
-      "referencias": [],
-      "comentario": "A urgência aumenta com a aproximação do juízo. A paciência divina está chegando ao fim.",
-      "temas": ["urgência", "juízo", "última chance"],
-      "personagens": ["anjos", "Ló"]
+      "parafrase": "Quando a manhã começou a surgir, os anjos precisaram intervir novamente, agarrando Ló e sua esposa e suas duas filhas pelas mãos, pois perceberam que ele estava demorando demais. 'Andem! Levantem-se!', ordenaram, 'Precisamos tirar vocês daqui antes que a ira caia sobre a cidade!'",
+      "referencias": [
+        "Atos 16:29",
+        "Lucas 17:33"
+      ],
+      "comentario": "A intervenção física dos anjos é necessária porque a lentidão de Ló (a inércia espiritual) o colocaria em perigo de morte. A expressão 'Ainda hesitou' (ou demorou) mostra que sua fé era fraca, precisando de assistência ativa para ser salva.",
+      "temas": [
+        "Salvamento Forçado",
+        "Inércia Espiritual",
+        "Misericórdia Ativa"
+      ],
+      "personagens": [
+        "Anjos",
+        "Ló",
+        "Esposa de Ló",
+        "Filhas de Ló"
+      ]
     },
     "16": {
-      "parafrase": "Como ele hesitava, os homens o agarraram pela mão, bem como sua mulher e suas duas filhas, e os tiraram da cidade, pois a misericórdia do Senhor estava sobre eles.",
-      "referencias": ["2 Pedro 2:7-9"],
-      "comentario": "Ló hesita, talvez relutante em deixar sua casa e seus bens. Sua salvação não se deve a sua própria prontidão, mas à intervenção misericordiosa de Deus, que o força a sair. A misericórdia é um ato da graça de Deus, em grande parte por amor a Abraão.",
-      "temas": ["hesitação", "misericórdia divina", "graça", "resgate forçado"],
-      "personagens": ["anjos", "Ló", "esposa de Ló", "filhas de Ló", "Deus"]
+      "parafrase": "Como eles ainda estavam hesitando, os anjos, com um gesto firme, os retiraram à força, conduzindo-os para fora da cidade, pois a misericórdia do Senhor era grande para com eles.",
+      "referencias": [
+        "Salmos 145:8",
+        "Gênesis 12:1"
+      ],
+      "comentario": "A frase 'A mão do Senhor estava sobre eles' enfatiza que sua sobrevivência não era mérito próprio, mas graça divina. A retirada física é um símbolo da graça puxando o crente hesitante para a segurança.",
+      "temas": [
+        "Mão da Misericórdia",
+        "Graça Salvadora",
+        "Condução"
+      ],
+      "personagens": [
+        "Anjos",
+        "Ló",
+        "Família"
+      ]
     },
     "17": {
-      "parafrase": "Assim que os tiraram, um deles disse: 'Fuja por sua vida! Não olhe para trás e não pare em lugar nenhum da planície! Fuja para as montanhas, ou você será destruído!'",
-      "referencias": [],
-      "comentario": "As instruções para a salvação são claras e urgentes: separação total, sem olhar para trás (sem anseio pelo passado pecaminoso) e buscar refúgio no lugar designado por Deus (as montanhas).",
-      "temas": ["mandamento", "separação", "urgência", "salvação"],
-      "personagens": ["anjos"]
+      "parafrase": "Uma vez que todos estavam fora da cidade, um dos anjos disse a Ló, apontando para o caminho da fuga: 'Corra pela sua vida! Não olhe para trás, e não pare em lugar nenhum nesta planície! Fuja para a montanha, para que você não seja aniquilado!'",
+      "referencias": [
+        "Lucas 17:32",
+        "Jeremias 49:16"
+      ],
+      "comentario": "Este é o mandamento de 'não olhar para trás' (a regra mais famosa). Olhar para trás significava desejar reaver o que foi deixado, ou seja, Sodoma e seu modo de vida. A montanha (em hebraico, 'har') simboliza um lugar de refúgio e segurança, oposto ao vale plano da destruição.",
+      "temas": [
+        "Não Olhar para Trás",
+        "Fuga para a Segurança",
+        "Perigo da Nostalgia"
+      ],
+      "personagens": [
+        "Anjo",
+        "Ló"
+      ]
     },
     "18": {
-      "parafrase": "Mas Ló lhes disse: 'Não, meu senhor, por favor! '",
-      "referencias": [],
-      "comentario": "Mesmo em meio ao resgate, Ló tenta negociar com Deus. Ele ainda está pensando em seus próprios termos e conforto.",
-      "temas": ["negociação", "falta de fé", "medo"],
-      "personagens": ["Ló", "anjos"]
+      "parafrase": "Ló respondeu aos anjos, expressando sua preocupação, embora já estivesse seguro: 'Por favor, meus senhores, mostrem bondade ao seu servo! A montanha é muito longe, e eu temo que o desastre me alcance antes que eu chegue lá.'",
+      "referencias": [
+        "Gênesis 18:27",
+        "Filipenses 4:6"
+      ],
+      "comentario": "Ló, mais uma vez, tenta negociar e expressa medo em vez de fé plena. Ele considera que a ordem de Deus é logisticamente impossível, um reflexo de sua mente ainda presa ao conforto material de Sodoma.",
+      "temas": [
+        "Medo Excessivo",
+        "Dúvida",
+        "Busca por Conforto"
+      ],
+      "personagens": [
+        "Ló",
+        "Anjos"
+      ]
     },
     "19": {
-      "parafrase": "'Seu servo encontrou favor aos seus olhos, e você tem sido muito bondoso comigo, poupando minha vida. Mas não consigo fugir para as montanhas; esta calamidade me alcançará, e eu morrerei.'",
-      "referencias": [],
-      "comentario": "Ló reconhece a misericórdia, mas duvida do poder de Deus para salvá-lo completamente. Ele teme as montanhas mais do que o juízo de Deus, mostrando uma fé fraca e vacilante.",
-      "temas": ["fé fraca", "dúvida", "medo"],
-      "personagens": ["Ló"]
+      "parafrase": "Um dos mensageiros, então, ofereceu uma concessão, por causa da bondade que o Senhor havia mostrado a Ló: 'Veja, eu lhe concedo este pequeno lugar, a cidade de Zoar. Corra para lá rapidamente, pois você não conseguirá chegar à montanha antes do amanhecer.'",
+      "referencias": [
+        "Gênesis 18:32",
+        "Salmos 86:15"
+      ],
+      "comentario": "Zoar ('Pequenez') é um ato de misericórdia específica, concedida devido à intercessão anterior de Abraão por Ló. Embora não seja a 'montanha' ideal, Zoar serve como um refúgio temporário e prova da paciência de Deus.",
+      "temas": [
+        "Misericórdia Concedida",
+        "Refúgio Temporário",
+        "Paciência Divina"
+      ],
+      "personagens": [
+        "Anjo",
+        "Ló",
+        "Zoar"
+      ]
     },
     "20": {
-      "parafrase": "'Olhe, há uma cidadezinha perto o suficiente para onde posso fugir. Deixe-me escapar para lá. É tão pequena. Assim minha vida será poupada'.",
-      "referencias": [],
-      "comentario": "Ló pede uma concessão, um lugar de sua própria escolha, em vez de obedecer plenamente. Ele busca um meio-termo, um refúgio que ainda está na planície contaminada.",
-      "temas": ["compromisso", "desobediência parcial", "busca por segurança própria"],
-      "personagens": ["Ló"]
+      "parafrase": "Ló disse aos anjos: 'Por favor, esta cidadezinha de Zoar é um lugar seguro para mim, um lugar pequeno. Não seria melhor que eu me abrigasse lá, em vez de ir para a montanha? Veja como é pequena e insignificante!'",
+      "referencias": [
+        "Gênesis 13:11",
+        "Filipenses 3:8"
+      ],
+      "comentario": "Ló chama Zoar de 'pequena' (tsa'ar). Ele prefere o pequeno conforto imediato e visível ao grande e desconhecido refúgio na montanha. É a mentalidade daquele que prefere o conhecido e o fácil ao necessário e difícil.",
+      "temas": [
+        "Busca pelo Fácil",
+        "Valorização do Pequeno",
+        "Falta de Visão"
+      ],
+      "personagens": [
+        "Ló",
+        "Anjos",
+        "Zoar"
+      ]
     },
     "21": {
-      "parafrase": "Ele lhe respondeu: 'Está bem, atenderei também a este pedido. Não destruirei a cidade de que você falou.'",
-      "referencias": [],
-      "comentario": "Em um ato de incrível paciência e misericórdia, o anjo concede o pedido de Ló. Deus se inclina para acomodar a fraqueza de Ló.",
-      "temas": ["misericórdia", "paciência de Deus", "graça"],
-      "personagens": ["anjos"]
+      "parafrase": "O anjo respondeu: 'Eu lhe concedi este desejo, pois você pediu. Vá para Zoar! Por isso, a cidade foi poupada da destruição, mas você, Ló, ainda precisa se apressar e chegar lá enquanto o sol nasce.'",
+      "referencias": [
+        "Gênesis 18:33",
+        "Lamentações 3:22"
+      ],
+      "comentario": "O anjo confirma que a poupança de Zoar foi uma concessão direta ao pedido de Ló. O tempo, contudo, permanece crucial: 'enquanto o sol nasce' (ou seja, antes do dia completo), indicando que o juízo viria logo.",
+      "temas": [
+        "Concessão de Desejos",
+        "Limites da Misericórdia",
+        "A Chegada do Dia"
+      ],
+      "personagens": [
+        "Anjo",
+        "Ló",
+        "Zoar"
+      ]
     },
     "22": {
-      "parafrase": "'Mas fuja para lá rapidamente, pois não posso fazer nada enquanto você não chegar'. Por isso a cidade foi chamada de Zoar.",
-      "referencias": [],
-      "comentario": "O juízo é retido até que o justo esteja seguro. A segurança de Ló é a prioridade. O nome Zoar significa 'pequena', refletindo o argumento de Ló.",
-      "temas": ["proteção dos justos", "urgência", "nome significativo"],
-      "personagens": ["anjos", "Ló"]
+      "parafrase": "Assim, Ló conseguiu escapar e se abrigar em Zoar, enquanto o Senhor fazia chover fogo e enxofre intensos do céu, caindo sobre toda a planície, destruindo todas as cidades daquela região e todos os habitantes que viviam ali, junto com toda a vegetação do campo.",
+      "referencias": [
+        "Deuteronômio 29:23",
+        "2 Pedro 2:6"
+      ],
+      "comentario": "O cumprimento do juízo é total e catastrófico. O fogo e o enxofre (talvez resquícios de gás vulcânico) aniquilam Sodoma e Gomorra e toda a fertilidade da campina que Ló havia escolhido inicialmente por ser tão próspera.",
+      "temas": [
+        "Destruição Total",
+        "Julgamento do Fogo",
+        "Fim da Prosperidade Ímpia"
+      ],
+      "personagens": [
+        "Ló",
+        "Senhor"
+      ]
     },
     "23": {
-      "parafrase": "O sol já havia nascido sobre a terra quando Ló chegou a Zoar.",
-      "referencias": [],
-      "comentario": "O tempo da misericórdia terminou. Com Ló em segurança, o juízo pode começar.",
-      "temas": ["tempo do juízo", "segurança"],
-      "personagens": ["Ló"]
+      "parafrase": "Naquele exato momento em que Ló chegou a Zoar, o sol havia acabado de nascer no horizonte. O dia trouxe consigo a fúria de Deus sobre a terra.",
+      "referencias": [
+        "Gênesis 13:10",
+        "Ezequiel 1:1"
+      ],
+      "comentario": "O amanhecer não trouxe alívio, mas sim a revelação completa da destruição. O juízo ocorreu precisamente no momento limite, reforçando a precisão da advertência divina.",
+      "temas": [
+        "Amanhecer do Juízo",
+        "Timing Divino",
+        "Catástrofe"
+      ],
+      "personagens": []
     },
     "24": {
-      "parafrase": "Então o Senhor fez chover fogo e enxofre sobre Sodoma e Gomorra, da parte do Senhor, desde os céus.",
-      "referencias": ["Lucas 17:29", "Apocalipse 14:10"],
-      "comentario": "O juízo é sobrenatural e devastador. Fogo e enxofre (provavelmente de atividade vulcânica ou explosões de gás natural na região, iniciadas por Deus) consomem as cidades. A frase 'da parte do Senhor, desde os céus' enfatiza a origem divina da destruição.",
-      "temas": ["juízo divino", "destruição", "fogo e enxofre", "soberania de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Então, o Senhor fez chover do céu, do Seu trono, enxofre ardente e fogo que caíram sobre Sodoma e Gomorra, incinerando toda a cidade e toda a região ao redor.",
+      "referencias": [
+        "Salmos 11:6",
+        "Apocalipse 20:10"
+      ],
+      "comentario": "A ênfase está na origem do julgamento: 'do Senhor' (do céu). Isso confirma que o evento não foi um desastre natural aleatório, mas um ato de soberania judicial contra o pecado explícito daquela terra.",
+      "temas": [
+        "Soberania Judicial",
+        "Origem Celestial do Fogo",
+        "A Ira de Deus"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "25": {
-      "parafrase": "Ele destruiu aquelas cidades e toda a planície, com todos os seus habitantes e toda a vegetação.",
-      "referencias": ["Deuteronômio 29:23"],
-      "comentario": "A destruição foi total e completa, transformando uma região fértil como o Éden em um deserto estéril, um testemunho permanente das consequências do pecado.",
-      "temas": ["destruição total", "consequências do pecado", "juízo"],
-      "personagens": ["Deus"]
+      "parafrase": "Esta destruição foi tão completa que aniquilou as cidades da planície e todos os seus habitantes, e até mesmo a vegetação que crescia no solo foi consumida pelas chamas.",
+      "referencias": [
+        "2 Pedro 2:6",
+        "Isaías 1:9"
+      ],
+      "comentario": "A descrição final sublinha a inutilidade da terra após o juízo. O que era uma campina 'como o jardim do Senhor' (Gênesis 13:10) foi transformado em deserto estéril, um testemunho perpétuo da santidade de Deus e Seu repúdio ao mal.",
+      "temas": [
+        "Esterilidade Pós-Juízo",
+        "Exemplo Perpétuo",
+        "Aniquilação"
+      ],
+      "personagens": []
     },
     "26": {
-      "parafrase": "Mas a mulher de Ló olhou para trás e se transformou numa coluna de sal.",
-      "referencias": ["Lucas 17:32"],
-      "comentario": "O ato de olhar para trás não foi um vislumbre casual, mas um ato de anseio e desobediência. Seu coração ainda estava em Sodoma. Ela foi julgada não por estar em Sodoma, mas por Sodoma estar nela. A coluna de sal é um memorial sombrio do perigo de um coração dividido.",
-      "temas": ["desobediência", "coração dividido", "juízo", "anseio pelo pecado"],
-      "personagens": ["esposa de Ló"]
+      "parafrase": "Mas Ló, que havia se separado de Abrão, olhou para trás e viu a destruição que caía sobre aquelas cidades. E, ao olhar, seu coração vacilou, e ele não conseguiu resistir à tentação de ver o fim daquela calamidade que estava sobre Sodoma e Gomorra. 😥",
+      "referencias": [
+        "Lucas 17:32",
+        "Ezequiel 3:19"
+      ],
+      "comentario": "O ato de 'olhar para trás' (Hebraico: 'vayyabbet') é crucial. É um ato de hesitação e apego ao mundo que estava sendo julgado. Ló não seguiu a instrução divina com fé inabalável. Ele cedeu à curiosidade mórbida ou ao apego material ao que estava perdendo, demonstrando uma lealdade dividida entre Deus e o conforto mundano. Este olhar resultará em consequências trágicas.",
+      "temas": [
+        "Desobediência",
+        "Apego material",
+        "Julgamento"
+      ],
+      "personagens": [
+        "Ló"
+      ]
     },
     "27": {
-      "parafrase": "Na manhã seguinte, Abraão levantou-se e voltou ao lugar onde havia estado diante do Senhor.",
-      "referencias": ["Gênesis 18:22"],
-      "comentario": "Abraão retorna ao local de sua intercessão para ver o resultado. Sua preocupação com o destino das cidades e de seu sobrinho é evidente.",
-      "temas": ["preocupação", "intercessão", "observação"],
-      "personagens": ["Abraão", "Deus"]
+      "parafrase": "Naquele exato momento, Abrão, que havia se afastado, estava subindo a colina, chegando ao lugar seguro que lhe fora prometido. Ele acordou cedo na manhã seguinte, antes mesmo do sol nascer, para continuar sua jornada em direção ao chamado de Deus. 🌄",
+      "referencias": [
+        "Gênesis 12:1",
+        "Hebreus 11:8"
+      ],
+      "comentario": "Este versículo contrasta fortemente com o versículo 26. Enquanto Ló olha para trás, Abrão já está em movimento, progredindo em direção à promessa. A alvorada (o tempo antes do nascer do sol) simboliza a prontidão e a prioridade que Abrão dá à sua caminhada de fé, em contraste com a distração de Ló.",
+      "temas": [
+        "Obediência ativa",
+        "Busca pela promessa",
+        "Diferença entre fé e hesitação"
+      ],
+      "personagens": [
+        "Abraão"
+      ]
     },
     "28": {
-      "parafrase": "Ele olhou para Sodoma e Gomorra e para toda a planície, e viu uma fumaça densa subindo da terra, como a fumaça de uma fornalha.",
-      "referencias": ["Apocalipse 9:2"],
-      "comentario": "Abraão testemunha a fumaça do juízo. A visão confirma a terrível realidade do pecado e da ira de Deus, mas também a justiça de Deus, que ele mesmo havia defendido.",
-      "temas": ["testemunho do juízo", "fumaça", "destruição"],
-      "personagens": ["Abraão"]
+      "parafrase": "E então ele olhou para a planície onde Sodoma e Gomorra se erguiam, e viu! A fumaça espessa, como a fornalha ardente de um forno gigantesco, subia da terra consumida pelo fogo e enxofre. Uma destruição completa e terrível se abatera sobre elas. 🔥💨",
+      "referencias": [
+        "Apocalipse 14:11",
+        "Lamentações 4:6"
+      ],
+      "comentario": "A descrição visual é apocalíptica: fumaça como a de um forno (Hebraico: 'kêvan shel-phur' - como a fumaça de uma grande fornalha/fundição). Isso confirma a natureza extrema do juízo divino, que obliterou cidades inteiras. Abrão é testemunha ocular da justiça de Deus, o que deve solidificar sua gratidão por ter sido poupado.",
+      "temas": [
+        "Juízo divino",
+        "Destruição",
+        "Testemunho"
+      ],
+      "personagens": [
+        "Abraão"
+      ]
     },
     "29": {
-      "parafrase": "Assim, quando Deus destruiu as cidades da planície, ele se lembrou de Abraão e tirou Ló do meio da catástrofe que arrasou as cidades onde Ló vivia.",
-      "referencias": ["Gênesis 8:1"],
-      "comentario": "Este versículo é a chave teológica do capítulo. A salvação de Ló não foi por seu próprio mérito, mas porque Deus 'se lembrou de Abraão'. A intercessão de Abraão e sua posição na aliança foram a causa da misericórdia mostrada a Ló.",
-      "temas": ["intercessão eficaz", "memória de Deus", "graça", "salvação por associação"],
-      "personagens": ["Deus", "Abraão", "Ló"]
+      "parafrase": "Deus se lembrou da sua aliança com Abrão. Lembre-se, Ele fez um pacto de proteção com seu sobrinho justamente por causa do homem justo que vivia ali, tirando-o do meio daquela ruína antes que o castigo final fosse imposto. 🙏",
+      "referencias": [
+        "Gênesis 12:2",
+        "Êxodo 2:24"
+      ],
+      "comentario": "Este é um ponto teológico vital. O resgate de Ló não se deu por mérito próprio (visto que ele hesitou), mas 'por causa de Abraão'. Deus honra Sua promessa (aliança, ou 'berith') feita a Abraão, estendendo misericórdia com base na fidelidade do patriarca. É a misericórdia intercessória em ação.",
+      "temas": [
+        "Aliança (Pacto)",
+        "Misericórdia",
+        "Intercessão"
+      ],
+      "personagens": [
+        "Deus",
+        "Abraão",
+        "Ló"
+      ]
     },
     "30": {
-      "parafrase": "Ló e suas duas filhas saíram de Zoar e foram viver nas montanhas, pois ele teve medo de ficar em Zoar. Ele e suas duas filhas moraram numa caverna.",
-      "referencias": [],
-      "comentario": "A ironia é que Ló acaba indo para as montanhas, o lugar que Deus originalmente designou e que ele temia. Seu medo o leva a se isolar em uma caverna, um ambiente de desolação e vergonha.",
-      "temas": ["medo", "ironia", "isolamento", "caverna"],
-      "personagens": ["Ló", "filhas de Ló"]
+      "parafrase": "Temendo que a destruição continuasse, Ló subiu de Zoar, a cidade pequena que lhe foi permitida, e foi morar com Abraão nas montanhas, pois ele se sentia inseguro vivendo nas cidades à beira da planície destruída. Ele finalmente buscou abrigo ao lado de seu tio. ⛰️",
+      "referencias": [
+        "Gênesis 13:5",
+        "Jó 22:23"
+      ],
+      "comentario": "Ló demonstra ser um homem que sempre busca o local mais 'fácil' ou 'promissor' materialmente (primeiro a planície fértil, depois a segurança de Zoar) mas, no fim, é forçado a recomeçar e aceitar a companhia de Abraão, o homem da fé, no lugar mais rústico, a colina. Sua jornada o leva de volta à origem, mas sem o mesmo status de antes.",
+      "temas": [
+        "Refúgio",
+        "Dependência",
+        "Recomeço forçado"
+      ],
+      "personagens": [
+        "Ló"
+      ]
     },
     "31": {
-      "parafrase": "A filha mais velha disse à mais nova: 'Nosso pai está velho, e não há nenhum homem nesta terra para se casar conosco, segundo o costume de todo o mundo.'",
-      "referencias": [],
-      "comentario": "As filhas de Ló, criadas em Sodoma e agora isoladas, agem com base em uma lógica distorcida e desesperada. Elas acreditam que são as últimas pessoas na terra ou que não têm outra opção para preservar a linhagem da família.",
-      "temas": ["desespero", "lógica distorcida", "continuidade da linhagem"],
-      "personagens": ["filhas de Ló"]
+      "parafrase": "Então, a filha mais velha, cheia de preocupação e talvez com um toque de ressentimento pelo trauma passado, disse à sua irmã mais nova: 'Nosso pai está ficando velho, e não há nenhum homem restante nesta terra para se casar conosco e nos dar descendentes, como fazem todos os outros povos.' 😟",
+      "referencias": [
+        "Gênesis 16:2",
+        "Deuteronômio 25:5"
+      ],
+      "comentario": "A urgência aqui é a perpetuação da linhagem, um valor cultural central. A ausência de homens 'apropriados' é vista como uma ameaça existencial. A percepção de 'isolamento' após o desastre leva as filhas a um plano desesperado, ignorando o plano de Deus para Abraão e a posteridade justa.",
+      "temas": [
+        "Perpetuação da linhagem",
+        "Desespero",
+        "Isolamento"
+      ],
+      "personagens": [
+        "Filha mais velha de Ló",
+        "Ló",
+        "Filha mais nova de Ló"
+      ]
     },
     "32": {
-      "parafrase": "'Vamos dar vinho ao nosso pai para que ele beba, e então nos deitaremos com ele para preservar a descendência de nosso pai'.",
-      "referencias": [],
-      "comentario": "O plano delas é uma repetição sombria dos pecados de Sodoma: embriaguez e incesto. Elas tomam a iniciativa de enganar e usar seu pai para atingir seus próprios fins.",
-      "temas": ["incesto", "engano", "embriaguez", "pecado"],
-      "personagens": ["filhas de Ló"]
+      "parafrase": "Por isso, elas aconselharam o pai: 'Deixe que passemos a noite com você, para que possamos gerar filhos dele e assim manter viva a nossa família através do nosso pai.' 🍷",
+      "referencias": [
+        "Levítico 18:6",
+        "Gênesis 38:15"
+      ],
+      "comentario": "Este é o clímax da deterioração moral decorrente do ambiente de Sodoma. As filhas propõem o incesto (Hebraico: 'nishma' - que implica um plano mútuo). Elas distorcem o conceito de manter a família, usando o pai como instrumento, numa inversão chocante de papéis sociais e morais.",
+      "temas": [
+        "Incesto",
+        "Desespero extremo",
+        "Corrupção moral"
+      ],
+      "personagens": [
+        "Ló",
+        "Filhas de Ló"
+      ]
     },
     "33": {
-      "parafrase": "Naquela noite, deram vinho ao pai, e a filha mais velha entrou e se deitou com ele. Ele não percebeu quando ela se deitou nem quando se levantou.",
-      "referencias": [],
-      "comentario": "O plano é executado. Ló, em sua embriaguez, torna-se uma vítima passiva, semelhante à sua passividade em outras crises.",
-      "temas": ["incesto", "embriaguez", "passividade"],
-      "personagens": ["Ló", "filha mais velha"]
+      "parafrase": "Naquela mesma noite, elas deram vinho a Ló até que ele ficasse completamente embriagado e desorientado. Ele, em seu estado de embriaguez total, não percebeu nem soube o que estava acontecendo quando sua filha mais velha se deitou com ele.",
+      "referencias": [
+        "Provérbios 20:1",
+        "Gênesis 9:21"
+      ],
+      "comentario": "A embriaguez de Ló é uma falha grave, possivelmente facilitada para que o ato abominável pudesse ocorrer. O texto é direto: ele 'não soube' (Hebraico: 'yada' em sentido negativo, ignorância absoluta). Isso atenua sua culpa culpada, mas não anula a gravidade do ambiente criado por suas escolhas prévias.",
+      "temas": [
+        "Embriaguez",
+        "Culpa atenuada",
+        "Vulnerabilidade"
+      ],
+      "personagens": [
+        "Ló",
+        "Filha mais velha de Ló"
+      ]
     },
     "34": {
-      "parafrase": "No dia seguinte, a mais velha disse à mais nova: 'Ontem à noite me deitei com meu pai. Vamos dar-lhe vinho para beber de novo esta noite, e então você vai e se deita com ele, para que possamos preservar a descendência de nosso pai'.",
-      "referencias": [],
-      "comentario": "O pecado é repetido de forma calculada.",
-      "temas": ["pecado repetido", "cálculo"],
-      "personagens": ["filhas de Ló"]
+      "parafrase": "E assim aconteceu, na mesma noite, que a filha mais nova também se uniu a ele, enquanto ele ainda estava sob o efeito do vinho, sem ter consciência da presença de sua segunda filha ao seu lado.",
+      "referencias": [
+        "Levítico 20:11",
+        "Romanos 1:26"
+      ],
+      "comentario": "A repetição do ato (v. 33 e v. 34) mostra a sistematicidade do plano das filhas. O 'não saber' de Ló é reforçado. Este é um dos episódios mais sombrios de Gênesis, resultante direto da decisão de Ló de se estabelecer perto de Sodoma, ilustrando como a proximidade com o mal corrompe o ambiente familiar.",
+      "temas": [
+        "Ato repetido",
+        "Consequências do ambiente",
+        "Escuridão moral"
+      ],
+      "personagens": [
+        "Ló",
+        "Filha mais nova de Ló"
+      ]
     },
     "35": {
-      "parafrase": "Então, deram vinho ao pai também naquela noite, e a filha mais nova foi e se deitou com ele. Novamente, ele não percebeu quando ela se deitou nem quando se levantou.",
-      "referencias": [],
-      "comentario": "A segunda filha completa o ato incestuoso.",
-      "temas": ["incesto", "embriaguez"],
-      "personagens": ["Ló", "filha mais nova"]
+      "parafrase": "Ao amanhecer, as filhas garantiram que Ló se levantasse, e ele, já sóbrio, mas sem se lembrar dos eventos da noite, perguntou o que havia acontecido. ☀️",
+      "referencias": [
+        "Provérbios 23:35",
+        "Salmos 73:20"
+      ],
+      "comentario": "Ló acorda sem memória dos atos incestuosos, um testemunho da profundidade de sua embriaguez ou da confusão induzida. A reação de Ló é de ignorância passiva, contrastando com a cumplicidade ativa de suas filhas no planejamento e execução do ato.",
+      "temas": [
+        "Amnésia",
+        "Inocência forçada",
+        "Consequências do pecado"
+      ],
+      "personagens": [
+        "Ló",
+        "Filhas de Ló"
+      ]
     },
     "36": {
-      "parafrase": "Assim, as duas filhas de Ló engravidaram de seu próprio pai.",
-      "referencias": [],
-      "comentario": "O resultado do plano é a concepção. A família que foi salva da perversão de Sodoma agora gera sua própria descendência através da perversão.",
-      "temas": ["consequências do pecado", "ironia trágica", "perversão"],
-      "personagens": ["filhas de Ló", "Ló"]
+      "parafrase": "E as duas filhas lhe revelaram que haviam se deitado com ele, garantindo que, através dessa união profana, elas teriam descendentes para honrar e continuar a memória da família de Ló, já que não havia mais homens ao redor.",
+      "referencias": [
+        "Juízes 21:21",
+        "Gênesis 34:11"
+      ],
+      "comentario": "As filhas justificam o ato imoral como um meio necessário para um fim aceitável (preservação da família). Elas acreditam estar agindo em 'legítima defesa' contra a extinção, mas usando um método intrinsecamente maligno, demonstrando como a lógica pragmática sem base moral leva a atos terríveis.",
+      "temas": [
+        "Justificativa",
+        "Meios e fins",
+        "Preservação da estirpe"
+      ],
+      "personagens": [
+        "Filhas de Ló",
+        "Ló"
+      ]
     },
     "37": {
-      "parafrase": "A mais velha deu à luz um filho e o chamou de Moabe; ele é o pai dos moabitas de hoje.",
-      "referencias": ["Deuteronômio 2:9"],
-      "comentario": "O nascimento de Moabe dá origem à nação dos moabitas, que se tornariam um povo idólatra e um adversário frequente de Israel.",
-      "temas": ["origem das nações", "moabitas", "consequências a longo prazo"],
-      "personagens": ["filha mais velha", "Moabe"]
+      "parafrase": "E aconteceu que a filha mais velha foi a primeira a conceber e dar à luz um menino. Ela o nomeou Moabe, dizendo: 'Do meu pai nasceu esta nação que habitará as terras vizinhas.' 👶🏻",
+      "referencias": [
+        "Lucas 3:38",
+        "Números 22:3"
+      ],
+      "comentario": "O nome 'Moabe' significa 'do meu pai'. Estes descendentes fundarão o povo moabita, que historicamente será um antagonista recorrente de Israel. O incesto não apenas trouxe descendência, mas estabeleceu uma nação cuja origem está manchada pelo julgamento de Sodoma e pela desesperança de Ló.",
+      "temas": [
+        "Fundação de nações",
+        "Origem dos povos",
+        "Mancha moral"
+      ],
+      "personagens": [
+        "Filha mais velha de Ló",
+        "Ló"
+      ]
     },
     "38": {
-      "parafrase": "A mais nova também deu à luz um filho e o chamou de Ben-Ami; ele é o pai dos amonitas de hoje.",
-      "referencias": ["Deuteronômio 2:19"],
-      "comentario": "O nascimento de Ben-Ami dá origem aos amonitas, outra nação que se tornaria inimiga de Israel. A origem vergonhosa dessas duas nações é registrada para explicar a hostilidade futura e para servir como um aviso final sobre as consequências trágicas de se associar com o mundo e suas influências corruptoras.",
-      "temas": ["origem das nações", "amonitas", "consequências do pecado", "aviso"],
-      "personagens": ["filha mais nova", "Ben-Ami"]
+      "parafrase": "Logo em seguida, a filha mais nova também deu à luz um filho. Ela o chamou de Ben-Ammi, explicando que o nome significava: 'Este é o filho de minha própria parentela (ou de meu parente direto).' Assim, o segundo filho também se tornou o patriarca de um povo vizinho. 👨‍👦",
+      "referencias": [
+        "Deuteronômio 2:9",
+        "Gênesis 14:5"
+      ],
+      "comentario": "Ben-Ammi significa 'filho do meu povo/parente'. Este nome reconhece abertamente a origem do ato. Assim como os moabitas, os amonitas (descendentes de Ben-Ammi) se tornam inimigos proeminentes de Israel. O resultado do medo e da má escolha de Ló é a criação de povos que perpetuam a instabilidade ao redor do povo escolhido de Deus.",
+      "temas": [
+        "Nomes com significado",
+        "Inimigos de Israel",
+        "Legado de desespero"
+      ],
+      "personagens": [
+        "Filha mais nova de Ló",
+        "Ló"
+      ]
     }
   }
 }

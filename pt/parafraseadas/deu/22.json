@@ -1,218 +1,464 @@
 {
   "livro": "Deuteronômio",
   "capitulo": 22,
-  "contexto_historico": "Moisés continua a instruir o povo de Israel sobre as leis que regeriam a vida na Terra Prometida. Este capítulo aborda uma série de leis diversas que visam promover a justiça, a compaixão, a pureza sexual e a ordem social, protegendo os direitos dos indivíduos e a santidade da comunidade.",
-  "bloco_tematico": "Leis Diversas: Responsabilidade Social, Pureza Sexual e Ordem",
+  "contexto_historico": "Este capítulo situa-se no final da jornada de Israel no deserto, pouco antes de entrarem na Terra Prometida. Moisés reafirma a Lei (Torá) para a nova geração que cruzará o Jordão. O foco está na manutenção da aliança e nas consequências imediatas e futuras da obediência ou desobediência. É um momento de forte exortação e lembrança do pacto feito em Horebe/Sinai. 📜⛰️",
+  "bloco_tematico": "A Grande Bênção e a Maldição da Desobediência: O Pacto Ratificado em Siquém ⚖️🌳",
   "versiculos": {
     "1": {
-      "parafrase": "Se vocês virem o boi ou a ovelha do seu irmão perdidos, não os ignorem. Certamente os levarão de volta ao seu irmão.",
-      "referencias": ["Êxodo 23:4"],
-      "comentario": "A lei promove a responsabilidade social e a ajuda mútua entre os israelitas. Não se deve ignorar a necessidade do próximo.",
-      "temas": ["responsabilidade social", "ajuda mútua", "próximo"],
-      "personagens": ["Moisés"]
+      "parafrase": "Se você estiver caminhando por um campo e encontrar um animal perdido, talvez o boi ou o jumento do seu vizinho, não o ignore nem finja que não viu. Você tem a obrigação solene de levar esse animal de volta para quem o perdeu.",
+      "referencias": [
+        "Êxodo 23:4",
+        "Lucas 10:36"
+      ],
+      "comentario": "Este é o princípio da responsabilidade mútua e do cuidado com a propriedade alheia. O termo hebraico para 'encontrar' é 'matsa', indicando uma descoberta ativa ou acidental. A lei demonstra que a comunidade deve operar com integridade, impedindo que a ganância ou a preguiça prevaleçam sobre o dever cívico.",
+      "temas": [
+        "Responsabilidade Comunitária",
+        "Integridade",
+        "Cuidado com o Próximo"
+      ],
+      "personagens": [
+        "O Vizinho (Perdedor)",
+        "O Encontrador"
+      ]
     },
     "2": {
-      "parafrase": "Se o seu irmão não morar perto de vocês, ou se vocês não o conhecerem, levem o animal para a sua casa e ele ficará com vocês até que o seu irmão o procure; então vocês o devolverão a ele.",
-      "referencias": [],
-      "comentario": "A lei se estende mesmo quando o proprietário não é conhecido, exigindo cuidado e honestidade na devolução da propriedade perdida.",
-      "temas": ["honestidade", "cuidado", "propriedade perdida"],
+      "parafrase": "E se por acaso o dono do animal não estiver por perto ou você não o conhecer, você deve abrigar o animal na sua própria casa ou propriedade. Ele ficará sob sua custódia segura até que o verdadeiro dono apareça para reclamá-lo.",
+      "referencias": [
+        "Levítico 22:15"
+      ],
+      "comentario": "Esta cláusula estabelece a 'guarda de achados' temporária. O dever não termina apenas em encontrar, mas em garantir a segurança. Isso previne que terceiros se apropriem do bem perdido (furto), reforçando a ética da posse temporária.",
+      "temas": [
+        "Custódia",
+        "Integridade na Posse",
+        "Paciência"
+      ],
       "personagens": []
     },
     "3": {
-      "parafrase": "Assim vocês farão com o seu jumento, com as suas roupas e com qualquer coisa perdida do seu irmão que vocês encontrarem. Não poderão ignorá-las.",
-      "referencias": [],
-      "comentario": "A lei se aplica a todos os tipos de bens perdidos, reforçando o princípio da responsabilidade e da ajuda ao próximo.",
-      "temas": ["bens perdidos", "responsabilidade", "ajuda"],
+      "parafrase": "Você repetirá esse processo com o jumento do seu vizinho, com o seu cavalo, e com o seu gado, e com qualquer outra coisa que seu irmão perder e você achar. Você fará o mesmo com toda e qualquer coisa que seu irmão perder e você encontrar, sob pena de ter que guardá-la.",
+      "referencias": [
+        "Êxodo 23:5"
+      ],
+      "comentario": "A generalização da lei para incluir todos os bens móveis importantes ('qualquer outra coisa') mostra que a aplicação do princípio de restituição não se restringe apenas ao gado de tração (boi e jumento), mas a qualquer perda significativa dentro da estrutura agrária israelita.",
+      "temas": [
+        "Restituição Universal",
+        "Dever Legal",
+        "Generalização da Lei"
+      ],
       "personagens": []
     },
     "4": {
-      "parafrase": "Se vocês virem o jumento ou o boi do seu irmão caído no caminho, não os ignorem. Certamente o ajudarão a levantá-lo.",
-      "referencias": ["Êxodo 23:5"],
-      "comentario": "A lei exige compaixão e ajuda prática para com os animais do próximo, mesmo que isso exija esforço.",
-      "temas": ["compaixão", "ajuda prática", "animais"],
+      "parafrase": "Caso você veja o jumento ou o boi do seu vizinho caído sob o peso da carga, não o abandone, vencido pelo cansaço. Você deve, imediatamente, ajudá-lo a levantar, mesmo que seja um animal de quem você não gosta.",
+      "referencias": [
+        "Êxodo 23:5",
+        "Mateus 11:28"
+      ],
+      "comentario": "Aqui o foco muda da perda para o sofrimento do animal. O verbo hebraico para 'cair' ou 'desfalecer' é 'nāphal'. A lei exige compaixão imediata (a ação não pode esperar), aplicando a misericórdia até mesmo a um animal, um princípio que será expandido para os humanos.",
+      "temas": [
+        "Compaixão Animal",
+        "Ação Imediata",
+        "Alívio do Sofrimento"
+      ],
       "personagens": []
     },
     "5": {
-      "parafrase": "A mulher não usará roupa de homem, nem o homem usará roupa de mulher, pois isso é uma abominação ao Senhor, o seu Deus.",
-      "referencias": [],
-      "comentario": "A proibição de roupas que misturam os gêneros visa preservar a distinção entre masculino e feminino, que é parte da ordem criada por Deus. Isso também pode ter sido uma advertência contra práticas pagãs de travestismo em rituais de fertilidade.",
-      "temas": ["distinção de gêneros", "ordem criada", "abominação", "práticas pagãs"],
-      "personagens": ["Deus"]
+      "parafrase": "Uma mulher não deve usar roupas de homem, nem um homem deve se vestir com trajes femininos. Isso é considerado uma abominação detestável aos olhos do Senhor, seu Deus, e deve ser evitado a todo custo.",
+      "referencias": [
+        "Levítico 18:22",
+        "Romanos 1:26-27"
+      ],
+      "comentario": "Este é um mandamento de distinção de gênero, profundamente enraizado na ordem da criação (Gênesis 1:27). O termo 'to'evah' (abominação) denota algo que é eticamente repugnante para a santidade de Israel. A razão subjacente geralmente é vista como a proibição de práticas idólatras associadas a cultos pagãos que envolviam a transgressão de papéis de gênero.",
+      "temas": [
+        "Santidade",
+        "Distinção de Gênero",
+        "Proibição de Idolatria"
+      ],
+      "personagens": []
     },
     "6": {
-      "parafrase": "Se vocês encontrarem um ninho de pássaros no caminho, em qualquer árvore ou no chão, com filhotes ou ovos, e a mãe estiver chocando os filhotes ou os ovos, não peguem a mãe junto com os filhotes.",
-      "referencias": [],
-      "comentario": "A lei demonstra compaixão pelos animais e visa preservar a espécie, garantindo que a mãe possa continuar a procriar. É um princípio de sustentabilidade e cuidado com a criação.",
-      "temas": ["compaixão pelos animais", "preservação da espécie", "sustentabilidade", "cuidado com a criação"],
+      "parafrase": "Se você estiver viajando e se deparar com um ninho de pássaros numa árvore ou no chão, e encontrar ovos ou filhotes, não os pegue junto com a mãe pássaro. Deixe a ave materna voar livremente, mas você pode pegar o que estiver no ninho para seu uso.",
+      "referencias": [
+        "Salmos 85:10"
+      ],
+      "comentario": "Este é um dos primeiros exemplos conhecidos de conservação ambiental e ética ecológica. A proibição de 'cozer o cabrito no leite de sua mãe' (Êxodo 23:19) e esta lei mostram um cuidado especial para não destruir a linhagem ou causar sofrimento desnecessário à progenitora. O princípio é: honrar a fonte da vida (a mãe).",
+      "temas": [
+        "Conservação",
+        "Ética Ambiental",
+        "Misericórdia da Criação"
+      ],
       "personagens": []
     },
     "7": {
-      "parafrase": "Deixem a mãe ir, mas peguem os filhotes para vocês, para que tudo lhes vá bem e vocês prolonguem os seus dias.",
-      "referencias": [],
-      "comentario": "A obediência a esta lei traria bênçãos de longevidade, mostrando que o cuidado com a criação é recompensado por Deus.",
-      "temas": ["bênção de longevidade", "cuidado com a criação", "recompensa"],
+      "parafrase": "Ao fazer isso, você garantirá longevidade para si mesmo e desfrutará de uma vida longa e plena na terra prometida pelo Senhor.",
+      "referencias": [
+        "Deuteronômio 4:40",
+        "Efésios 6:2-3"
+      ],
+      "comentario": "Aqui a obediência à lei, mesmo em detalhes aparentemente menores como este, está diretamente ligada à bênção da longevidade. Isso reforça a teologia de Israel: viver em aliança resulta em estabilidade e prosperidade na Terra.",
+      "temas": [
+        "Bênção e Longevidade",
+        "Obediência",
+        "Aliança"
+      ],
       "personagens": []
     },
     "8": {
-      "parafrase": "Quando vocês construírem uma casa nova, façam um parapeito ao redor do telhado, para que não tragam culpa de sangue sobre a sua casa, se alguém cair dele.",
-      "referencias": [],
-      "comentario": "A lei exige medidas de segurança para proteger a vida humana, demonstrando a importância da responsabilidade e da prevenção de acidentes. A negligência poderia resultar em culpa de sangue.",
-      "temas": ["segurança", "responsabilidade", "prevenção de acidentes", "culpa de sangue"],
+      "parafrase": "Quando você for construir uma casa nova, faça um parapeito seguro ao redor do telhado plano. Isso é crucial para que ninguém caia de lá, pois o sangue de alguém que cair seria derramado sobre você, e você seria considerado culpado de homicídio involuntário.",
+      "referencias": [
+        "Números 35:22-23"
+      ],
+      "comentario": "Esta é uma lei pioneira de segurança civil e responsabilidade edilícia. Em muitas culturas antigas, os telhados eram usados como terraços sociais. O parapeito ('mâgēaḥ') era obrigatório. Deus estabelece uma responsabilidade legal pela negligência preventiva: a omissão de prevenir o perigo é vista como causadora do dano.",
+      "temas": [
+        "Segurança Civil",
+        "Responsabilidade Preventiva",
+        "Proteção da Vida"
+      ],
       "personagens": []
     },
     "9": {
-      "parafrase": "Não semeiem a sua vinha com duas espécies de sementes, para que não se contamine todo o produto, tanto a semente que vocês semearam quanto o produto da vinha.",
-      "referencias": ["Levítico 19:19"],
-      "comentario": "A proibição de semear duas espécies de sementes na mesma vinha visa preservar a pureza e a distinção das espécies, refletindo a ordem de Deus na criação.",
-      "temas": ["pureza", "distinção", "ordem na criação"],
+      "parafrase": "Não plante duas espécies diferentes de sementes juntas no seu campo de lavoura. Não misture linho e cevada, pois isso profana o solo e invalida a colheita resultante, que será considerada sacrílega.",
+      "referencias": [
+        "Levítico 19:19",
+        "1 Coríntios 6:14"
+      ],
+      "comentario": "O princípio aqui é a 'kelayim' (mistura proibida). Isso pode ter implicações litúrgicas (pureza do cultivo) ou agrícolas (evitar o enfraquecimento das espécies). A mistura é vista como uma violação da ordem criacional de Deus para que as coisas se multipliquem 'segundo as suas espécies'.",
+      "temas": [
+        "Pureza Agrícola",
+        "Ordem Divina",
+        "Não Mistura"
+      ],
       "personagens": []
     },
     "10": {
-      "parafrase": "Não arem com um boi e um jumento juntos.",
-      "referencias": [],
-      "comentario": "A proibição de arar com animais de espécies diferentes demonstra compaixão pelos animais, pois o jumento seria prejudicado pela força desigual do boi. Também pode simbolizar a importância de não misturar o que é diferente.",
-      "temas": ["compaixão pelos animais", "força desigual", "não misturar"],
+      "parafrase": "Você também não deve usar um jugo de bois e jumentos juntos para arar. A disparidade de força e a diferença no modo de andar causaria dor e sofrimento ao animal mais fraco, e isso é inaceitável sob a lei de Deus.",
+      "referencias": [
+        "2 Coríntios 6:14",
+        "Lucas 14:5"
+      ],
+      "comentario": "Semelhante ao versículo anterior, esta lei visa evitar a dor desnecessária ('impedir o sofrimento'). A imagem de dois animais de natureza e força distintas atrelados juntos ilustra a crueldade da desigualdade forçada. É um chamado à coerência e à adaptação ao nível de cada ser.",
+      "temas": [
+        "Compaixão no Trabalho",
+        "Evitar Sofrimento Animal",
+        "Coerência"
+      ],
       "personagens": []
     },
     "11": {
-      "parafrase": "Não usem roupas feitas de lã e linho misturados.",
-      "referencias": ["Levítico 19:19"],
-      "comentario": "A proibição de misturar lã e linho (linho) em roupas (shatnez) visa preservar a distinção e a pureza, refletindo a ordem de Deus na criação e a separação de Israel das práticas pagãs.",
-      "temas": ["pureza", "distinção", "ordem na criação", "separação"],
+      "parafrase": "Além disso, você não deve usar um manto feito de lã misturada com fios de linho. Esta mistura, que chamamos de 'sha'atnez', é proibida e deve ser evitada em suas vestimentas.",
+      "referencias": [
+        "Levítico 19:19"
+      ],
+      "comentario": "O termo 'sha'atnez' é altamente específico e é outro exemplo da proibição de misturas. Enquanto a lei anterior era sobre agricultura e trabalho, esta se concentra no vestuário pessoal. Alguns eruditos ligam isso à pureza dos materiais usados nos rituais do templo, enquanto outros veem como um distintivo cultural para evitar assimilação a costumes pagãos.",
+      "temas": [
+        "Pureza Ritual",
+        "Distinção Cultural",
+        "Vestuário"
+      ],
       "personagens": []
     },
     "12": {
-      "parafrase": "Façam borlas nas quatro pontas da capa com que vocês se cobrem.",
-      "referencias": ["Números 15:38-40"],
-      "comentario": "As borlas (tsitsit) serviam como um lembrete visual dos mandamentos de Deus, para que o povo se lembrasse de obedecer e não se desviasse.",
-      "temas": ["borlas", "lembrete visual", "mandamentos", "obediência"],
+      "parafrase": "Você fará borlas ou franjas especiais (chamadas 'tsitsiyot') nas quatro pontas do seu manto, aquele que cobre todo o seu corpo.",
+      "referencias": [
+        "Números 15:38-39",
+        "Mateus 9:20"
+      ],
+      "comentario": "As 'tsitsiyot' eram mechas de fio azul (ou uma cor distinta) presas aos cantos do manto exterior. Seu propósito era servir como lembretes visuais constantes dos mandamentos de Deus, impedindo que o usuário caísse em tentação ao olhar para elas.",
+      "temas": [
+        "Lembrança da Lei",
+        "Adorno Religioso",
+        "Disciplina Visual"
+      ],
       "personagens": []
     },
     "13": {
-      "parafrase": "Se um homem se casar com uma mulher, e depois de se deitar com ela, a odiar,",
-      "referencias": [],
-      "comentario": "A lei agora trata de casos de difamação e calúnia contra a honra de uma mulher, especialmente em relação à sua virgindade.",
-      "temas": ["difamação", "calúnia", "honra da mulher", "virgindade"],
-      "personagens": []
+      "parafrase": "Quando um homem se casa, e depois, na primeira noite de núpcias, sua esposa o acusa de não ser virgem, apresentando evidências falsas.",
+      "referencias": [
+        "Levítico 21:9"
+      ],
+      "comentario": "Esta lei lida com uma das situações mais delicadas e destrutivas: a alegação de fraude conjugal logo após o casamento. A honra da esposa e a validade do casamento estão em jogo. A lei busca um equilíbrio entre proteger a família e punir a calúnia grave.",
+      "temas": [
+        "Honra Conjugal",
+        "Fraude",
+        "Estabelecimento da Família"
+      ],
+      "personagens": [
+        "O Marido",
+        "A Esposa"
+      ]
     },
     "14": {
-      "parafrase": "e a acusar de coisas vergonhosas, e espalhar má fama sobre ela, dizendo: 'Casei-me com esta mulher, mas quando me aproximei dela, não a encontrei virgem',",
-      "referencias": [],
-      "comentario": "A acusação de não virgindade era grave e poderia ter sérias consequências para a mulher, incluindo a morte.",
-      "temas": ["acusação grave", "consequências", "virgindade"],
-      "personagens": []
+      "parafrase": "Neste caso, a jovem deve levar ao tribunal uma prova clara de sua virgindade, como um pedaço de tecido que demonstra o sinal da união consumada.",
+      "referencias": [
+        "Joel 2:23"
+      ],
+      "comentario": "A 'prova' aqui refere-se ao lençol de casamento (quatro cantos), que deveria ser apresentado aos anciãos. Embora seja um aspecto culturalmente específico da época, o princípio é o da necessidade de evidência factual para sustentar uma acusação de grande peso.",
+      "temas": [
+        "Evidência Legal",
+        "Verdade Processual",
+        "Cultura Matrimonial"
+      ],
+      "personagens": [
+        "A Jovem"
+      ]
     },
     "15": {
-      "parafrase": "então o pai e a mãe da moça pegarão as provas da virgindade da moça e as levarão aos anciãos da cidade, à porta.",
-      "referencias": [],
-      "comentario": "Os pais da moça tinham o direito de apresentar provas de sua virgindade para defender sua honra e a de sua filha.",
-      "temas": ["defesa da honra", "provas de virgindade"],
-      "personagens": ["Pai", "Mãe", "Anciãos da cidade"]
+      "parafrase": "Mas se a evidência de sua virgindade for encontrada, o ancião da cidade deve pegar o lençol e exibi-lo publicamente aos líderes da comunidade, como prova de que a acusação do marido foi falsa e maliciosa.",
+      "referencias": [
+        "Provérbios 31:23"
+      ],
+      "comentario": "A exibição pública do tecido, após verificação pelos anciãos, serve para restaurar completamente a honra da mulher e expor a mentira do marido. O ancião atua como mediador imparcial e guardião da justiça.",
+      "temas": [
+        "Restauração da Honra",
+        "Julgamento Comunitário",
+        "Exposição da Mentira"
+      ],
+      "personagens": [
+        "O Ancião"
+      ]
     },
     "16": {
-      "parafrase": "E o pai da moça dirá aos anciãos: 'Dei a minha filha a este homem por mulher, mas ele a odeia,'",
-      "referencias": [],
-      "comentario": "O pai apresenta o caso aos anciãos, buscando justiça para sua filha.",
-      "temas": ["justiça", "defesa"],
-      "personagens": ["Pai"]
+      "parafrase": "O pai da noiva, então, deve trazer provas adicionais aos anciãos, demonstrando que sua filha realmente era virgem antes de se casar com aquele homem.",
+      "referencias": [
+        "1 Timóteo 5:19"
+      ],
+      "comentario": "O pai apoia a filha fornecendo evidências adicionais, talvez testemunhos ou o histórico da filha. Isto assegura que a decisão não se baseie apenas na evidência física, mas num conjunto probatório mais robusto, protegendo a reputação familiar.",
+      "temas": [
+        "Testemunho Familiar",
+        "Verificação de Acusações",
+        "Apoio Paterno"
+      ],
+      "personagens": [
+        "O Pai da Noiva"
+      ]
     },
     "17": {
-      "parafrase": "'e a acusa de coisas vergonhosas, dizendo: 'Não encontrei a sua filha virgem.' Mas estas são as provas da virgindade da minha filha.' E eles estenderão a roupa diante dos anciãos da cidade.",
-      "referencias": [],
-      "comentario": "A apresentação da roupa manchada de sangue era a prova física da virgindade da noiva, um costume da época.",
-      "temas": ["prova física", "costume"],
-      "personagens": ["Pai"]
-    },
-    "18": {
-      "parafrase": "Então, os anciãos daquela cidade pegarão o homem e o castigarão.",
-      "referencias": [],
-      "comentario": "Se a acusação fosse falsa, o homem seria punido por difamação e calúnia.",
-      "temas": ["punição por difamação", "calúnia"],
-      "personagens": ["Anciãos da cidade"]
-    },
-    "19": {
-      "parafrase": "E o multarão em cem siclos de prata, que darão ao pai da moça, porque ele espalhou má fama sobre uma virgem de Israel. E ela continuará sendo sua mulher; ele não poderá se divorciar dela por toda a sua vida.",
-      "referencias": [],
-      "comentario": "A multa e a proibição de divórcio visavam proteger a mulher difamada e garantir sua honra e seu futuro.",
-      "temas": ["multa", "proibição de divórcio", "proteção da mulher", "honra"],
+      "parafrase": "Se as provas apresentadas pela moça e por seu pai provarem inequivocamente que ela era virgem ao casar, e que o marido mentiu ao acusá-la...",
+      "referencias": [
+        "Salmos 14:1"
+      ],
+      "comentario": "Este versículo estabelece a condição para a punição do marido. A justiça exige a confirmação da verdade. O coração do homem que acusa falsamente é julgado como insensato ('nabal') por desafiar a verdade estabelecida.",
+      "temas": [
+        "Comprovação da Verdade",
+        "Inocência",
+        "Acusação Falsa"
+      ],
       "personagens": []
     },
+    "18": {
+      "parafrase": "...então os anciãos deverão pegar o homem caluniador e arrastá-lo para fora das muralhas da cidade.",
+      "referencias": [
+        "Deuteronômio 17:5"
+      ],
+      "comentario": "A punição capital era executada fora dos muros da cidade para simbolizar a exclusão do transgressor da comunidade santa de Israel. A remoção física era um ato de purificação social.",
+      "temas": [
+        "Exclusão Comunitária",
+        "Punição Capital",
+        "Purificação Social"
+      ],
+      "personagens": [
+        "Os Anciãos"
+      ]
+    },
+    "19": {
+      "parafrase": "E lá, todos os homens da cidade deverão apedrejá-lo até a morte, pois ele cometeu um ato de grande maldade ao difamar uma mulher israelita, destruindo sua reputação e seu casamento.",
+      "referencias": [
+        "Levítico 24:14",
+        "Apocalipse 20:12"
+      ],
+      "comentario": "A pena para a calúnia grave contra a honra de uma mulher israelita era a morte por apedrejamento. Este rigor demonstra o valor extremo que a sociedade dava à pureza e à reputação dentro da estrutura da aliança.",
+      "temas": [
+        "Pena de Morte",
+        "Defesa da Mulher",
+        "Gravidade da Calúnia"
+      ],
+      "personagens": [
+        "Os Homens da Cidade"
+      ]
+    },
     "20": {
-      "parafrase": "Mas, se a acusação for verdadeira, e não forem encontradas provas da virgindade da moça,",
-      "referencias": [],
-      "comentario": "A lei agora trata do caso em que a acusação de não virgindade é verdadeira.",
-      "temas": ["acusação verdadeira", "não virgindade"],
+      "parafrase": "Mas se, de fato, as provas mostrarem que a moça não era virgem e que ela escondeu a verdade de seu marido...",
+      "referencias": [
+        "Jeremias 20:10"
+      ],
+      "comentario": "Inversão da situação: a esposa é a ofensor na lei, tendo escondido sua condição pré-nupcial. O casamento sob falsas premissas invalidava o pacto matrimonial aos olhos da lei.",
+      "temas": [
+        "Fraude Conjugal",
+        "Invalidação do Pacto",
+        "Culpa da Noiva"
+      ],
       "personagens": []
     },
     "21": {
-      "parafrase": "então a moça será levada à porta da casa de seu pai, e os homens da sua cidade a apedrejarão até a morte, pois ela cometeu uma infâmia em Israel, prostituindo-se na casa de seu pai. Assim, vocês eliminarão o mal do meio de vocês.",
-      "referencias": [],
-      "comentario": "A pena de morte por apedrejamento para a mulher que se prostituiu antes do casamento era uma medida severa para proteger a pureza sexual da comunidade e a santidade do casamento.",
-      "temas": ["pena de morte", "pureza sexual", "santidade do casamento", "eliminação do mal"],
-      "personagens": ["Homens da cidade"]
+      "parafrase": "...os anciãos deverão tirá-la para a porta da casa de seu pai, e os homens da cidade a apedrejarão até a morte, para que o mal seja removido do meio de vocês.",
+      "referencias": [
+        "Levítico 21:9"
+      ],
+      "comentario": "A punição é severa, refletindo a importância da pureza sexual como sustentáculo da estrutura familiar e social de Israel. Ao ser executada na casa do pai, a desonra recai diretamente sobre a família que falhou em supervisionar a filha.",
+      "temas": [
+        "Pena de Morte por Imoralidade",
+        "Desonra Familiar",
+        "Remoção do Mal"
+      ],
+      "personagens": [
+        "Os Anciãos",
+        "Os Homens da Cidade",
+        "O Pai da Noiva"
+      ]
     },
     "22": {
-      "parafrase": "Se um homem for encontrado deitado com uma mulher casada, ambos morrerão: o homem que se deitou com a mulher e a mulher. Assim, vocês eliminarão o mal de Israel.",
-      "referencias": ["Levítico 20:10"],
-      "comentario": "A pena de morte para o adultério protege a santidade do casamento e a fidelidade conjugal.",
-      "temas": ["pena de morte", "adultério", "santidade do casamento"],
-      "personagens": []
+      "parafrase": "Se um homem for encontrado dormindo com uma mulher casada, ambos devem morrer. Assim, o adultério será erradicado de Israel, pois vocês devem eliminar essa perversidade.",
+      "referencias": [
+        "Levítico 20:10",
+        "João 8:5"
+      ],
+      "comentario": "Esta lei é clara e implacável contra o adultério (o ato de um homem casado ter relações com uma mulher casada). O adultério não é apenas uma ofensa moral, mas um crime contra a ordem social, pois introduz ilegitimidade e desordem na sucessão e na posse da terra.",
+      "temas": [
+        "Adultério",
+        "Pena de Morte",
+        "Preservação da Ordem Social"
+      ],
+      "personagens": [
+        "O Homem Adultéreo",
+        "A Mulher Casada"
+      ]
     },
     "23": {
-      "parafrase": "Se houver uma moça virgem noiva de um homem, e outro homem a encontrar na cidade e se deitar com ela,",
-      "referencias": [],
-      "comentario": "A lei trata do caso de estupro de uma noiva virgem dentro da cidade.",
-      "temas": ["estupro", "noiva virgem", "cidade"],
-      "personagens": []
+      "parafrase": "Se uma moça que for prometida em casamento a um homem for encontrada no centro da cidade dormindo com outro homem...",
+      "referencias": [
+        "Gênesis 34:25"
+      ],
+      "comentario": "Aqui, a lei trata da 'noiva prometida' (noiva sob contrato). A relação sexual com um homem que não seja o noivo, sendo no centro da cidade (indicando que ela não gritou por socorro ou que a relação não foi forçada), é tratada como um ato público de quebra de compromisso.",
+      "temas": [
+        "Quebra de Noivado",
+        "Compromisso Contratual",
+        "Pecado Público"
+      ],
+      "personagens": [
+        "A Moça Prometida",
+        "O Outro Homem"
+      ]
     },
     "24": {
-      "parafrase": "então vocês os levarão ambos à porta daquela cidade e os apedrejarão até a morte: a moça, porque não gritou por socorro na cidade, e o homem, porque humilhou a mulher do seu próximo. Assim, vocês eliminarão o mal do meio de vocês.",
-      "referencias": [],
-      "comentario": "Ambos são punidos com a morte, a moça por não ter gritado (indicando consentimento ou falta de resistência) e o homem por ter violado a mulher de outro. A pena é severa para proteger a pureza sexual e a honra do casamento.",
-      "temas": ["pena de morte", "consentimento", "violação", "pureza sexual", "honra do casamento"],
-      "personagens": []
+      "parafrase": "...então você deve levar os dois para fora da cidade, e a moça e o homem que dormiu com ela deverão ser apedrejados até a morte.",
+      "referencias": [
+        "Deuteronômio 21:22"
+      ],
+      "comentario": "Novamente, a execução fora dos muros. A gravidade reside na quebra do voto matrimonial futuro e na desonra pública. A pena de morte é aplicada a ambos os parceiros por concordarem com a transgressão.",
+      "temas": [
+        "Execução por Apedrejamento",
+        "Quebra de Voto",
+        "Punição Mútua"
+      ],
+      "personagens": [
+        "Os Dois Transgressores"
+      ]
     },
     "25": {
-      "parafrase": "Mas, se o homem encontrar a moça noiva no campo e a forçar, e se deitar com ela, então somente o homem que se deitou com ela morrerá.",
-      "referencias": [],
-      "comentario": "Se o estupro ocorresse no campo, onde não haveria como a moça gritar por socorro, apenas o homem seria punido com a morte, pois a moça seria considerada vítima.",
-      "temas": ["estupro no campo", "vítima", "pena de morte"],
-      "personagens": []
+      "parafrase": "Contudo, se tudo isso aconteceu no campo, e o homem a forçou a se deitar com ele, tendo ela gritado por socorro, mas não havia ninguém por perto para salvá-la, então somente o homem que cometeu o ato deve morrer.",
+      "referencias": [
+        "Gênesis 19:8",
+        "Juízes 19:25"
+      ],
+      "comentario": "Este versículo é crucial, pois introduz a distinção fundamental entre adultério consensual e estupro. O fator decisivo é a ausência de resistência ou o grito de socorro. Se ela clamou e não foi salva, presume-se que foi forçada, e a culpa recai unicamente sobre o agressor ('o homem'), poupando a mulher da pena capital.",
+      "temas": [
+        "Estupro",
+        "Inocência da Vítima",
+        "Proteção Legal"
+      ],
+      "personagens": [
+        "A Mulher Forçada",
+        "O Agressor"
+      ]
     },
     "26": {
-      "parafrase": "Não farão nada à moça; ela não cometeu pecado digno de morte, pois este caso é como quando um homem se levanta contra o seu próximo e o mata.",
-      "referencias": [],
-      "comentario": "A moça é inocentada, pois foi vítima de violência, comparando o ato ao homicídio.",
-      "temas": ["inocência da vítima", "violência", "homicídio"],
-      "personagens": []
+      "parafrase": "E acontecerá que, se alguém disser aos moradores daquela cidade: 'Eu não conheço este homem que vocês estão apedrejando', nem os seus irmãos lhe darão ouvidos, nem os seus próprios filhos se importarão com o seu lamento. Eles certamente o abandonarão em meio à multidão, e o coração dele ficará desolado e sem consolo. 💔",
+      "referencias": [
+        "Levítico 20:13",
+        "Romanos 6:23"
+      ],
+      "comentario": "Este versículo estabelece o rigor absoluto da lei mosaica relativa à imoralidade sexual (especificamente o incesto, no contexto anterior). A morte por apedrejamento era a pena capital designada. O foco aqui é a total ausência de piedade ou clemência social. Nem a família (irmãos, filhos) deveria demonstrar compaixão ou defendê-lo, mostrando que o crime era visto como uma mancha tão grave que quebrava os laços mais sagrados da sociedade. A dor emocional ('coração desolado') é o resultado final da rejeição total.",
+      "temas": [
+        "Justiça Divina",
+        "Rejeição Familiar",
+        "Pecado Público",
+        "Consequências da Transgressão"
+      ],
+      "personagens": [
+        "O Transgressor",
+        "A Comunidade"
+      ]
     },
     "27": {
-      "parafrase": "Pois ele a encontrou no campo, e a moça noiva gritou, mas não havia ninguém para salvá-la.",
-      "referencias": [],
-      "comentario": "A ausência de testemunhas e a impossibilidade de socorro são fatores que justificam a inocência da moça.",
-      "temas": ["ausência de testemunhas", "impossibilidade de socorro", "inocência"],
-      "personagens": []
+      "parafrase": "Pois eles se lembrarão intensamente do mandamento: 'Arrependei-vos ou morrereis'. Eles serão arrastados para fora da cidade, longe das tendas sagradas, e uma chuva de pedras cumprirá o decreto de morte. Assim, o mal será completamente erradicado do meio de vocês, e todos verão o que aconteceu e temerão. 🌩️",
+      "referencias": [
+        "Números 15:35-36",
+        "Deuteronômio 13:5"
+      ],
+      "comentario": "O ato de levar a pessoa para 'fora do arraial' (ou cidade) é crucial. Isso simboliza a separação total do pecador do espaço de santidade e comunhão com Deus e o povo de Israel. O apedrejamento público servia como um poderoso agente dissuasor. A frase 'o mal será extirpado' (erradicado) reflete a teologia de Israel: a purificação da comunidade através da remoção física da impureza moral, garantindo que a ira de Deus não caia sobre todos.",
+      "temas": [
+        "Extermínio do Mal",
+        "Santidade Comunitária",
+        "O Poder do Exemplo",
+        "Execução da Lei"
+      ],
+      "personagens": [
+        "O Povo de Israel",
+        "Os Executores"
+      ]
     },
     "28": {
-      "parafrase": "Se um homem encontrar uma moça virgem que não é noiva, e a pegar, e se deitar com ela, e eles forem descobertos,",
-      "referencias": [],
-      "comentario": "A lei trata do caso de sedução ou estupro de uma virgem não noiva.",
-      "temas": ["sedução", "estupro", "virgem não noiva"],
-      "personagens": []
+      "parafrase": "Se um homem for encontrado dormindo com uma mulher virgem que esteja prometida a outro homem, mas que ainda não tenha sido formalmente entregue a ele como esposa, ambos devem ser levados para fora da cidade. Ali, eles deverão ser apedrejados até a morte, pois ela estava na cidade e, mesmo sendo virgem, não gritou pedindo ajuda ou alertando os vizinhos. 🤫",
+      "referencias": [
+        "Gênesis 34:7",
+        "Juízes 19:22-24"
+      ],
+      "comentario": "Este versículo trata de um cenário de sedução ou estupro/adultério de uma noiva não consumada. O ponto chave é que a mulher era considerada 'comprometida' (propriamente falando, uma 'mulher prometida' ou 'noiva'). Se ela estivesse na cidade e pudesse ter gritado, sua omissão em fazê-lo implicava consentimento ou cumplicidade no ato ilícito. A pena é compartilhada (ambos morrem) porque ambos violaram o contrato social e moral que protegia a honra familiar e a pureza da linhagem.",
+      "temas": [
+        "Integridade do Noivado",
+        "Cumplicidade no Pecado",
+        "Obrigações de Testemunho",
+        "Punição Compartilhada"
+      ],
+      "personagens": [
+        "O Homem Comprometido",
+        "A Mulher Prometida"
+      ]
     },
     "29": {
-      "parafrase": "então o homem que se deitou com ela dará ao pai da moça cinquenta siclos de prata, e ela será sua mulher, porque ele a humilhou. Ele não poderá se divorciar dela por toda a sua vida.",
-      "referencias": ["Êxodo 22:16-17"],
-      "comentario": "A lei exige que o homem se case com a moça e pague uma multa ao pai, protegendo a honra da moça e garantindo seu futuro. A proibição de divórcio visa proteger a mulher de ser abandonada após a humilhação.",
-      "temas": ["casamento forçado", "multa", "proteção da mulher", "honra", "proibição de divórcio"],
-      "personagens": []
+      "parafrase": "Neste caso específico, o homem que se deitou com a moça que lhe pertencia — a virgem prometida —, pagará com a própria vida. Ele deverá ser apedrejado até morrer, pois desonrou publicamente a pureza que estava sob a alçada de outra família. ⚔️",
+      "referencias": [
+        "Levítico 19:20-22",
+        "Êxodo 21:7"
+      ],
+      "comentario": "Embora o versículo 28 trate de um cenário de noiva comprometida, este versículo 29 parece focar na infração que envolvia uma mulher que pertencia, ou estava sob a tutela, de outro homem (embora a tradução exata do hebraico seja complexa, o foco aqui é a desonra de uma propriedade/pessoa designada). O ponto central é a violação da integridade de um relacionamento futuro ou um contrato de tutela. O castigo é a morte imediata para restaurar a ordem social violada.",
+      "temas": [
+        "Restauração da Honra",
+        "Direitos de Propriedade/Tutela",
+        "Lei da Compensação",
+        "Morte como Expiação"
+      ],
+      "personagens": [
+        "O Ofensor",
+        "O Dono da Mulher"
+      ]
     },
     "30": {
-      "parafrase": "Nenhum homem tomará a mulher de seu pai, nem descobrirá a orla de seu pai.",
-      "referencias": ["Levítico 18:8"],
-      "comentario": "A proibição de incesto com a madrasta (mulher do pai) é uma lei fundamental para a pureza familiar e a ordem social.",
-      "temas": ["incesto", "pureza familiar", "ordem social"],
-      "personagens": []
+      "parafrase": "Ninguém jamais deverá casar-se com a esposa de seu pai, ou seja, desposar a concubina de seu pai. Este ato é uma profanação extrema, uma afronta direta à honra de seu progenitor, e por isso, este pecado grave deve ser julgado e expiado com a morte de ambos os envolvidos, para que o fogo da desgraça não se alastre por todo o povo de Israel. 🔥",
+      "referencias": [
+        "Levítico 18:8",
+        "1 Coríntios 5:1"
+      ],
+      "comentario": "Este versículo aborda o incesto mais grave, a relação com a concubina do pai (que, embora não fosse a esposa principal em todos os casos, era uma mulher ligada à casa paterna e, portanto, uma relação proibida). O termo hebraico sugere uma 'descoberta da nudez' do pai. O ato é tão abominável que a pena capital se aplica a ambos os infratores, garantindo que o 'fogo' (o juízo de Deus ou a contaminação moral) seja contido e não destrua a nação inteira.",
+      "temas": [
+        "Incesto",
+        "Profanação Paternal",
+        "Contenção do Juízo",
+        "Abominação"
+      ],
+      "personagens": [
+        "O Filho",
+        "A Concubina do Pai"
+      ]
     }
   }
 }

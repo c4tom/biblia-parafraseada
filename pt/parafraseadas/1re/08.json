@@ -1,470 +1,1086 @@
 {
   "livro": "1 Reis",
   "capitulo": 8,
-  "contexto_historico": "Após a conclusão da construção do Templo do Senhor, Salomão reúne todo o Israel para a cerimônia de dedicação. Este capítulo descreve a solene procissão da Arca da Aliança para o Santo dos Santos, a manifestação da glória de Deus, a oração de dedicação de Salomão e a bênção do povo, marcando um momento culminante na história de Israel e na relação de Deus com Seu povo.",
-  "bloco_tematico": "A Dedicação do Templo e a Oração de Salomão",
+  "contexto_historico": "Após a morte de Davi 🤴, Salomão assume o trono de Israel 👑. O capítulo 8 narra a dedicação triunfal do Templo de Jerusalém 🕍, o ápice da obra de seu pai e dele mesmo. É um momento de grande unificação nacional, religiosa e política, consolidando a soberania de Salomão e a presença de Deus em Sião. O foco é a transferência da Arca da Aliança para o Santo dos Santos e a subsequente oração de dedicação de Salomão, que pede a Deus que ouça as súplicas feitas naquele local. Este evento marca o estabelecimento formal do centro de adoração de Israel. 🙏",
+  "bloco_tematico": "A Consagração do Templo: Oração e Presença Divina 🛐✨",
   "versiculos": {
     "1": {
-      "parafrase": "Então Salomão reuniu os anciãos de Israel, todos os chefes das tribos e os chefes das casas paternas dos filhos de Israel, ao rei Salomão em Jerusalém, para trazer a Arca da Aliança do Senhor da Cidade de Davi, que é Sião.",
-      "referencias": ["2 Samuel 6:17"],
-      "comentario": "Salomão convoca os líderes de todo o Israel para a cerimônia de dedicação do Templo e para a transferência da Arca da Aliança, o símbolo mais sagrado da presença de Deus, para seu novo lar.",
-      "temas": ["dedicação do templo", "Arca da Aliança", "unificação"],
-      "personagens": ["Salomão", "Anciãos de Israel"]
+      "parafrase": "Então, o Rei Salomão reuniu todos os anciãos de Israel, os líderes das tribos e os chefes das famílias. Eles vieram a Jerusalém, a cidade que ele havia escolhido, para a grande ocasião: mover a Arca da Aliança do seu antigo esconderijo temporário até o seu lugar de honra, o Templo recém-construído.",
+      "referencias": [
+        "2 Crônicas 5:2",
+        "Êxodo 25:10-22"
+      ],
+      "comentario": "O versículo estabelece o clímax da construção do Templo. Salomão demonstra prudência política e religiosa ao convocar toda a liderança de Israel (anciãos, chefes de tribos), garantindo legitimidade e participação nacional no evento sagrado, que é a transferência da Arca (o símbolo da presença de Deus).",
+      "temas": [
+        "Reunião Nacional",
+        "Inauguração do Templo",
+        "Autoridade Real"
+      ],
+      "personagens": [
+        "Salomão",
+        "Anciãos de Israel"
+      ]
     },
     "2": {
-      "parafrase": "Todos os homens de Israel se reuniram ao rei Salomão na festa, no mês de Etanim (que é o sétimo mês).",
-      "referencias": ["Levítico 23:34"],
-      "comentario": "A reunião ocorre durante a Festa dos Tabernáculos, uma das grandes festas de peregrinação, o que aumenta a solenidade e a importância do evento.",
-      "temas": ["festa religiosa", "solenidade"],
-      "personagens": ["Homens de Israel", "Salomão"]
+      "parafrase": "Essa reunião ocorreu durante a festa dos Tabernáculos, no sétimo mês, um tempo que historicamente era dedicado à celebração da colheita e da proteção divina durante a jornada no deserto. Aquele era o momento ideal para a solenidade.",
+      "referencias": [
+        "Levítico 23:34-36",
+        "Deuteronômio 16:13"
+      ],
+      "comentario": "A escolha da Festa dos Tabernáculos (Sucot) não foi acidental. Esta festa celebrava a peregrinação e a morada de Deus com Seu povo. Colocar a Arca no Santuário permanente durante essa celebração reforçava a ideia de que Deus agora habitava permanentemente entre eles em Seu novo lar.",
+      "temas": [
+        "Festividades Judaicas",
+        "Tempo Propício",
+        "Presença de Deus"
+      ],
+      "personagens": []
     },
     "3": {
-      "parafrase": "Todos os anciãos de Israel vieram, e os sacerdotes carregaram a Arca.",
-      "referencias": ["Números 4:15"],
-      "comentario": "Os sacerdotes, de acordo com a lei, carregam a Arca, demonstrando a reverência e a obediência às instruções divinas, em contraste com a primeira tentativa de Davi.",
-      "temas": ["reverência", "obediência", "sacerdócio"],
-      "personagens": ["Anciãos de Israel", "Sacerdotes"]
+      "parafrase": "Quando os sacerdotes e levitas finalmente colocaram as mãos na Arca da Aliança do Senhor, e também na antiga Caixa do Testemunho, eles começaram a movê-la com extremo cuidado e reverência.",
+      "referencias": [
+        "Êxodo 25:13-15",
+        "Números 4:15"
+      ],
+      "comentario": "O texto distingue entre a 'Arca da Aliança do Senhor' (o conteúdo sagrado) e a 'Caixa do Testemunho' (o receptáculo físico). A menção de que somente os sacerdotes (descendentes de Arão) e levitas estavam autorizados a tocar ou transportar a Arca sublinha a pureza ritual exigida para lidar com o objeto mais sagrado da nação.",
+      "temas": [
+        "Rituais Sagrados",
+        "Transporte da Arca",
+        "Separação Sacrificial"
+      ],
+      "personagens": [
+        "Sacerdotes",
+        "Levitas"
+      ]
     },
     "4": {
-      "parafrase": "Eles trouxeram a Arca do Senhor, a Tenda do Encontro e todos os utensílios sagrados que estavam na Tenda. Os sacerdotes e os levitas os trouxeram.",
-      "referencias": [],
-      "comentario": "Todos os elementos sagrados do tabernáculo são transferidos para o Templo, simbolizando a continuidade da adoração e da presença de Deus.",
-      "temas": ["transferência", "continuidade", "santidade"],
-      "personagens": ["Sacerdotes", "Levitas"]
+      "parafrase": "Junto com a Arca, eles trouxeram todos os utensílios santos que pertenciam à Presença de Deus, incluindo os objetos que Moisés havia separado, todos os utensílios sagrados que estavam guardados no Tabernáculo anterior.",
+      "referencias": [
+        "Números 4:1-33",
+        "2 Samuel 6:3"
+      ],
+      "comentario": "Isso indica a transferência completa de todo o mobiliário cultual do antigo santuário móvel (o Tabernáculo) para a estrutura fixa e permanente do Templo de Salomão. Tudo foi transferido metodicamente, mostrando a continuidade da adoração.",
+      "temas": [
+        "Utensílios do Santuário",
+        "Continuidade da Adoração",
+        "Fidelidade ao Pacto"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "5": {
-      "parafrase": "O rei Salomão e toda a comunidade de Israel que se havia reunido a ele estavam diante da Arca, sacrificando ovelhas e bois em tal quantidade que não podiam ser contados nem numerados.",
-      "referencias": [],
-      "comentario": "A grandiosidade dos sacrifícios demonstra a devoção e a gratidão de Salomão e do povo a Deus. A quantidade inumerável de animais reflete a abundância da bênção de Deus.",
-      "temas": ["sacrifício", "devoção", "abundância"],
-      "personagens": ["Salomão", "Comunidade de Israel"]
+      "parafrase": "O Rei Salomão, para essa cerimônia monumental, não apenas trouxe a Arca, mas também reuniu um rebanho imenso de bois e ovelhas, tão numerosos que era impossível contá-los ou calcular a quantidade, tamanha era a multidão de sacrifícios.",
+      "referencias": [
+        "2 Crônicas 5:6",
+        "Levítico 3:1-17"
+      ],
+      "comentario": "A magnitude dos sacrifícios (bois e ovelhas) era um sinal público da gratidão e da bênção de Deus sobre o reinado de Salomão, e também um ato de consagração do novo Templo. Isso demonstra a opulência e a dedicação do rei em honrar a Deus.",
+      "temas": [
+        "Sacrifício em Massa",
+        "Consagração",
+        "Prosperidade"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "6": {
-      "parafrase": "Os sacerdotes trouxeram a Arca da Aliança do Senhor para o seu lugar, no santuário interior da casa, no Santo dos Santos, debaixo das asas dos querubins.",
-      "referencias": ["Êxodo 25:22"],
-      "comentario": "A Arca é finalmente colocada em seu lugar de descanso no Santo dos Santos, o local mais sagrado do Templo, sob a proteção dos querubins.",
-      "temas": ["Arca da Aliança", "Santo dos Santos", "presença de Deus"],
-      "personagens": ["Sacerdotes"]
+      "parafrase": "Os sacerdotes então levaram a Arca da Aliança e a colocaram no Lugar Santíssimo do Templo, o Santo dos Santos, sob as asas dos Querubins esculpidos.",
+      "referencias": [
+        "1 Reis 6:19-28",
+        "Êxodo 26:33-34"
+      ],
+      "comentario": "O ponto crucial. A Arca, contendo as Tábuas da Lei, foi finalmente posta em seu lugar definitivo, sob a proteção das figuras angelicais (Querubins) que cobriam o propiciatório. O Santo dos Santos era o ápice da santidade, onde a glória de Deus manifestava-se.",
+      "temas": [
+        "Santo dos Santos",
+        "Habitação Divina",
+        "Querubins"
+      ],
+      "personagens": []
     },
     "7": {
-      "parafrase": "Pois os querubins estendiam suas asas sobre o lugar da Arca, e os querubins cobriam a Arca e seus varais por cima.",
-      "referencias": [],
-      "comentario": "Os querubins, feitos por Salomão, protegem e cobrem a Arca, simbolizando a guarda da presença de Deus.",
-      "temas": ["querubins", "proteção", "simbolismo"],
+      "parafrase": "As asas dos Querubins eram tão grandes que suas pontas se estendiam sobre a área onde a Arca repousava, de modo que as asas cobriam tanto a Arca quanto as varas de transporte, mas não se via nada além das asas estendidas lá dentro.",
+      "referencias": [
+        "Êxodo 25:20",
+        "Hebreus 9:4"
+      ],
+      "comentario": "A descrição detalhada enfatiza a função das asas dos Querubins: proteção e reverência. É importante notar que o autor bíblico (possivelmente seguindo a descrição do Tabernáculo) afirma que as varas de transporte (usadas para mover a Arca) permaneciam ali. Mais tarde, essa seria a única coisa encontrada dentro da Arca (2 Reis 8:21).",
+      "temas": [
+        "Simbolismo dos Querubins",
+        "Detalhes Arquitetônicos",
+        "Presença Oculta"
+      ],
       "personagens": []
     },
     "8": {
-      "parafrase": "Os varais eram tão longos que suas pontas podiam ser vistas do Lugar Santo, em frente ao santuário interior, mas não de fora. E ali estão até o dia de hoje.",
-      "referencias": [],
-      "comentario": "Os varais da Arca, usados para transportá-la, eram visíveis do Lugar Santo, mas não do exterior, mantendo a santidade e o mistério da Arca.",
-      "temas": ["mistério", "santidade"],
+      "parafrase": "Aquelas varas de carregar a Arca eram longas e estavam posicionadas de tal maneira que seus cabos podiam ser vistos saindo de ambos os lados da Arca, do interior do Santíssimo, mas não se podia enxergá-las de qualquer outro lugar fora daquele recinto sagrado.",
+      "referencias": [
+        "Êxodo 25:15",
+        "Números 4:6"
+      ],
+      "comentario": "As varas eram um lembrete constante de que a Arca era móvel, mesmo estando em seu lar permanente. O fato de serem visíveis apenas da entrada do Santo dos Santos, e não do Santo lugar, reforça a distinção de acesso e a sacralidade do espaço mais interno.",
+      "temas": [
+        "Acesso Restrito",
+        "Mobilidade Teológica",
+        "Símbolos do Pacto"
+      ],
       "personagens": []
     },
     "9": {
-      "parafrase": "Nada havia na Arca, senão as duas tábuas de pedra que Moisés havia posto ali em Horebe, quando o Senhor fez uma aliança com os israelitas, ao saírem da terra do Egito.",
-      "referencias": ["Êxodo 25:16", "Deuteronômio 10:1-5"],
-      "comentario": "O conteúdo da Arca é especificado: as duas tábuas da Lei, que representam a aliança de Deus com Israel. Isso enfatiza a centralidade da Lei na relação de Deus com Seu povo.",
-      "temas": ["conteúdo da Arca", "Lei", "aliança"],
-      "personagens": ["Moisés", "Deus"]
+      "parafrase": "Até aquele dia, apenas as duas tábuas de pedra da aliança, que Moisés havia colocado na Arca no Monte Horebe, estavam guardadas ali; não havia mais nada dentro da caixa além delas.",
+      "referencias": [
+        "Êxodo 34:1",
+        "Deuteronômio 10:1-5"
+      ],
+      "comentario": "Este é um detalhe exegético crucial. Sugere que outros itens que foram colocados na Arca (como o pote de maná ou a vara de Arão, conforme Hebreus 9:4) não estavam mais presentes na época da dedicação do Templo por Salomão, talvez tendo sido removidos com o passar do tempo ou nunca colocados ali, dependendo da interpretação teológica.",
+      "temas": [
+        "As Dez Palavras",
+        "Conteúdo da Arca",
+        "Verdade Histórica"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "10": {
-      "parafrase": "Quando os sacerdotes saíram do Lugar Santo, a nuvem encheu a casa do Senhor,",
-      "referencias": ["Êxodo 40:34-35"],
-      "comentario": "A manifestação da glória de Deus (Shekinah) enche o Templo, assim como havia enchido o tabernáculo. Isso é um sinal da aprovação divina e da presença de Deus em Seu novo lar.",
-      "temas": ["glória de Deus", "presença divina", "aprovação"],
-      "personagens": ["Sacerdotes", "Deus"]
+      "parafrase": "No instante em que os sacerdotes se retiraram do Lugar Santíssimo, uma nuvem gloriosa e intensa, o esplendor da Presença do Senhor, desceu e encheu completamente o interior do Templo!",
+      "referencias": [
+        "Êxodo 40:34-35",
+        "2 Crônicas 7:1-3"
+      ],
+      "comentario": "A chegada da nuvem (a 'Shekinah', a glória manifesta de Deus) é a confirmação divina da aceitação do Templo como a morada terrestre de Deus. Este fenômeno espelha a dedicação do Tabernáculo no deserto, indicando que Salomão cumpriu com sucesso a missão dada a Moisés.",
+      "temas": [
+        "Glória de Deus (Shekinah)",
+        "Aceitação Divina",
+        "Manifestação Sobrenatural"
+      ],
+      "personagens": []
     },
     "11": {
-      "parafrase": "de modo que os sacerdotes não podiam permanecer para ministrar por causa da nuvem, pois a glória do Senhor havia enchido a casa do Senhor.",
-      "referencias": [],
-      "comentario": "A intensidade da glória de Deus é tão grande que os sacerdotes não conseguem permanecer em pé para ministrar, demonstrando a santidade e o poder avassalador de Deus.",
-      "temas": ["santidade", "poder avassalador", "adoração"],
-      "personagens": ["Sacerdotes", "Deus"]
+      "parafrase": "Os sacerdotes, tomados pelo temor, não conseguiram continuar seus deveres litúrgicos ali, pois a luz da glória de Deus havia se tornado tão poderosa que preenchia todo o espaço sagrado.",
+      "referencias": [
+        "Isaías 6:5",
+        "Apocalipse 15:8"
+      ],
+      "comentario": "O termo hebraico aqui sugere uma incapacidade física ou um impedimento de realizar o serviço. A glória de Deus era avassaladora; era impossível servir *na presença* da manifestação total da santidade divina, forçando uma pausa solene.",
+      "temas": [
+        "Temor Reverencial",
+        "Santidade Inacessível",
+        "Interrupção do Culto"
+      ],
+      "personagens": [
+        "Sacerdotes"
+      ]
     },
     "12": {
-      "parafrase": "Então Salomão disse: 'O Senhor disse que habitaria na escuridão densa.'",
-      "referencias": ["Deuteronômio 4:11"],
-      "comentario": "Salomão reconhece a manifestação de Deus na nuvem escura, que simboliza a presença misteriosa e inacessível de Deus.",
-      "temas": ["presença misteriosa", "escuridão", "adoração"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "Então, Salomão falou, reconhecendo a verdade profunda: 'O Senhor escolheu habitar nas trevas, na densa escuridão do recinto sagrado.'",
+      "referencias": [
+        "Salmos 18:11",
+        "Deuteronômio 5:22"
+      ],
+      "comentario": "Esta é uma declaração teológica profunda. Salomão reconhece que Deus não reside em algo visível ou tangível, mas sim na obscuridade misteriosa (hebraico: 'atarah' ou 'araphel', escuridão densa/nuvem). Ele afirma que o Templo é o 'lugar do trono' de Deus, ainda que oculto da vista humana.",
+      "temas": [
+        "Mistério de Deus",
+        "Morada nas Trevas",
+        "Reconhecimento da Soberania"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "13": {
-      "parafrase": "'Certamente eu te edifiquei uma casa de morada, um lugar para a tua habitação para sempre.'",
-      "referencias": [],
-      "comentario": "Salomão reafirma o propósito do Templo como um lugar de habitação para Deus, embora reconheça que Deus não está limitado a um edifício.",
-      "temas": ["propósito do templo", "habitação divina"],
-      "personagens": ["Salomão"]
+      "parafrase": "Contudo, eu, Salomão, construí este magnífico palácio para Ti, ó Deus, um lugar onde Tua presença possa residir permanentemente aqui na Terra, um lar construído para sempre, meu Rei.",
+      "referencias": [
+        "2 Crônicas 6:2",
+        "Salmos 132:13-14"
+      ],
+      "comentario": "Salomão contrasta a escuridão natural onde Deus habita (v. 12) com o edifício físico que ele construiu. Ele afirma que o propósito do Templo é servir de 'casa' terrena para o Deus que é, por natureza, inacessível. O uso do termo 'para sempre' reflete a esperança messiânica da permanência da Aliança.",
+      "temas": [
+        "Templo como Morada",
+        "Esperança Eterna",
+        "Dedicatória"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "14": {
-      "parafrase": "Então o rei virou o rosto e abençoou toda a comunidade de Israel, enquanto toda a comunidade de Israel estava de pé.",
-      "referencias": [],
-      "comentario": "Salomão, como líder sacerdotal, abençoa o povo, transmitindo a bênção divina.",
-      "temas": ["bênção sacerdotal", "liderança"],
-      "personagens": ["Salomão", "Comunidade de Israel"]
+      "parafrase": "Então, virando-se para toda a congregação de Israel que estava reunida, Salomão os abençoou com fervor e gratidão.",
+      "referencias": [
+        "2 Crônicas 6:3",
+        "Números 6:24-26"
+      ],
+      "comentario": "O rei assume o papel de mediador entre Deus e o povo. A bênção que ele profere é a bênção sacerdotal tradicional, mas proferida por um rei ungido, selando o momento com a autoridade real e espiritual.",
+      "temas": [
+        "Bênção Real",
+        "Mediação",
+        "Congregação"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "15": {
-      "parafrase": "Ele disse: 'Bendito seja o Senhor, o Deus de Israel, que falou com sua própria boca a Davi, meu pai, e com sua própria mão o cumpriu, dizendo:'",
-      "referencias": [],
-      "comentario": "Salomão louva a Deus por Sua fidelidade em cumprir as promessas feitas a Davi, seu pai.",
-      "temas": ["louvor", "fidelidade de Deus", "cumprimento da promessa"],
-      "personagens": ["Salomão", "Deus", "Davi"]
+      "parafrase": "'Bendito seja o Senhor, o Deus de Israel', declarou Salomão, 'cujas mãos realizaram o que Sua boca havia prometido a meu pai, Davi.'",
+      "referencias": [
+        "2 Samuel 7:12-13",
+        "Salmos 89:3"
+      ],
+      "comentario": "Salomão conecta a concretização do Templo à promessa feita a Davi. O Templo não é uma ideia humana, mas o cumprimento da promessa de Deus ('o que Sua boca havia prometido'). Isso confirma a legitimidade do projeto através da linhagem davídica.",
+      "temas": [
+        "Fidelidade à Promessa",
+        "Davi",
+        "Cumprimento da Palavra"
+      ],
+      "personagens": [
+        "Salomão",
+        "Davi"
+      ]
     },
     "16": {
-      "parafrase": "'Desde o dia em que tirei o meu povo Israel do Egito, não escolhi cidade alguma de todas as tribos de Israel para edificar uma casa, para que o meu nome estivesse ali. Mas escolhi Davi para estar sobre o meu povo Israel.'",
-      "referencias": ["2 Samuel 7:8"],
-      "comentario": "Salomão relembra a história da escolha de Deus: Ele escolheu Davi como rei antes de escolher um lugar para o Templo, enfatizando a prioridade da liderança sobre a estrutura.",
-      "temas": ["escolha divina", "prioridade", "liderança"],
-      "personagens": ["Deus", "Davi", "Israel"]
+      "parafrase": "Agora, Senhor, realize o restante da Tua promessa, dizendo: 'Você sempre terá um descendente seu sentado no trono de Israel, contanto que seus filhos permaneçam fiéis no caminho em que andaram comigo.'",
+      "referencias": [
+        "2 Samuel 7:16",
+        "2 Crônicas 6:16"
+      ],
+      "comentario": "Este é um eco direto da Aliança Davídica (2 Samuel 7). Salomão reconhece a condição: a permanência da dinastia está ligada à obediência. O reinado de Salomão representa o auge dessa fidelidade, mas também carrega a semente da futura divisão se a obediência falhar.",
+      "temas": [
+        "Aliança Davídica",
+        "Condicionalidade da Promessa",
+        "Obediência"
+      ],
+      "personagens": [
+        "Salomão",
+        "Davi"
+      ]
     },
     "17": {
-      "parafrase": "'Ora, Davi, meu pai, teve no coração edificar uma casa para o nome do Senhor, o Deus de Israel.'",
-      "referencias": ["2 Samuel 7:2"],
-      "comentario": "Salomão reconhece o desejo sincero de Davi de construir o Templo, mesmo que não tenha sido permitido a ele.",
-      "temas": ["desejo sincero", "legado"],
-      "personagens": ["Salomão", "Davi"]
+      "parafrase": "Ó Deus, eu sei que Tu decidiste, há muito tempo, que este lugar, Jerusalém, seria o centro do Teu nome e da Tua adoração, e que Seu Templo seria construído.",
+      "referencias": [
+        "Deuteronômio 12:5",
+        "Jeremias 7:3"
+      ],
+      "comentario": "Salomão reconhece que a escolha de Jerusalém e do Templo como centro de adoração não foi uma decisão de última hora, mas uma determinação divina antiga, estabelecida nas leis do deserto, alinhando o projeto de seu pai e o seu próprio com o plano original.",
+      "temas": [
+        "Escolha do Lugar",
+        "Centro da Adoração",
+        "Plano Divino"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "18": {
-      "parafrase": "'Mas o Senhor disse a Davi, meu pai: 'Visto que você teve no coração edificar uma casa ao meu nome, você fez bem em ter isso no coração.'",
-      "referencias": [],
-      "comentario": "Deus aprova a intenção de Davi, mesmo que não tenha permitido que ele construísse o Templo. A intenção do coração é valorizada por Deus.",
-      "temas": ["aprovação divina", "intenção do coração"],
-      "personagens": ["Deus", "Davi"]
+      "parafrase": "Mas agora, a pergunta é: Tu realmente morarás conosco, conosco, ó Deus? Pois eis que o céu, e o céu dos céus, não pode conter-Te completamente; quão menos este santuário que construí!",
+      "referencias": [
+        "Isaías 66:1",
+        "Atos 7:48-49"
+      ],
+      "comentario": "Salomão expressa humildade teológica diante da transcendência divina. Ele sabe que Deus é infinito ('céu dos céus') e que nenhuma estrutura humana, por mais grandiosa que seja (o Templo), pode genuinamente 'conter' o Criador. O Templo é um ponto focal, não um recipiente.",
+      "temas": [
+        "Transcendência Divina",
+        "Humildade",
+        "Limites da Criação"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "19": {
-      "parafrase": "'No entanto, você não edificará a casa, mas seu filho, que sairá de suas entranhas, ele edificará a casa ao meu nome.'",
-      "referencias": ["2 Samuel 7:12-13"],
-      "comentario": "Salomão reitera a profecia de que seria ele, e não Davi, quem construiria o Templo, confirmando o cumprimento da palavra de Deus.",
-      "temas": ["cumprimento da profecia", "construção do templo"],
-      "personagens": ["Deus", "Davi", "Salomão"]
+      "parafrase": "Portanto, atende, ó Senhor meu Deus, à oração fervorosa e ao clamor que teu servo está apresentando diante de Ti hoje.",
+      "referencias": [
+        "2 Crônicas 6:19",
+        "Salmos 17:1"
+      ],
+      "comentario": "O rei faz um apelo direto a Deus para que Ele preste atenção ao que será dito a seguir: uma série de orações condicionais para quando o povo se voltar para o Templo em momentos de necessidade.",
+      "temas": [
+        "Oração do Rei",
+        "Apelo à Atenção",
+        "Intercessão"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "20": {
-      "parafrase": "'O Senhor cumpriu a sua palavra que falou, pois me levantei em lugar de Davi, meu pai, e me sentei no trono de Israel, como o Senhor prometeu, e edifiquei a casa ao nome do Senhor, o Deus de Israel.'",
-      "referencias": [],
-      "comentario": "Salomão testemunha o cumprimento da promessa de Deus em sua própria vida: ele está no trono e construiu o Templo.",
-      "temas": ["testemunho", "cumprimento da promessa", "reinado"],
-      "personagens": ["Salomão", "Deus", "Davi"]
+      "parafrase": "Que Teus olhos estejam sempre abertos para este lugar, dia e noite, o lugar que Tu declaraste ser o palco onde Teu Nome seria honrado e lembrado; que Tu possas ouvir toda súplica feita neste santuário.",
+      "referencias": [
+        "Salmos 121:8",
+        "Jeremias 42:3"
+      ],
+      "comentario": "Esta é a primeira das sete 'orações condicionais' de Salomão. O pedido é que Deus mantenha vigilância perpétua ('olhos abertos, dia e noite') sobre o Templo, reconhecendo-o como o lugar preferencial para a comunicação divina.",
+      "temas": [
+        "Vigilância Divina",
+        "Honra ao Nome de Deus",
+        "Oração Contínua"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "21": {
-      "parafrase": "'E ali preparei um lugar para a Arca, na qual está a aliança do Senhor, que ele fez com nossos pais, quando os tirou da terra do Egito.'",
-      "referencias": [],
-      "comentario": "O propósito final do Templo é abrigar a Arca da Aliança, o símbolo da aliança de Deus com Israel.",
-      "temas": ["propósito do templo", "Arca da Aliança", "aliança"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "Se um homem, seja ele ou um israelita fiel ou um estrangeiro que vive aqui entre nós, tiver um grande pesar em seu coração e se voltar para orar neste Templo, escuta-o desde o Teu lar nos céus e, depois de ouvir, perdoa-o.",
+      "referencias": [
+        "Isaías 56:6-7",
+        "Lucas 18:10-14"
+      ],
+      "comentario": "Salomão demonstra uma visão inclusiva. Não apenas os israelitas, mas também o 'estrangeiro' (ger), aquele que reside em Israel, tem acesso a Deus através do Templo. O foco é o arrependimento sincero ('grande pesar') e o perdão que se segue.",
+      "temas": [
+        "Inclusão do Estrangeiro",
+        "Arrependimento",
+        "Perdão"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "22": {
-      "parafrase": "Salomão se pôs diante do altar do Senhor, na presença de toda a comunidade de Israel, e estendeu as mãos para o céu.",
-      "referencias": [],
-      "comentario": "Salomão inicia sua oração de dedicação, um ato solene de intercessão em nome de todo o Israel. Estender as mãos para o céu é um gesto de súplica e adoração.",
-      "temas": ["oração de dedicação", "intercessão", "súplica", "adoração"],
-      "personagens": ["Salomão", "Comunidade de Israel", "Deus"]
+      "parafrase": "Se um israelita for forçado a jurar um voto perante o altar, mesmo que seja um juramento precipitado ou imprudente, e depois vier aqui para declarar seu caso diante de Ti neste Templo...",
+      "referencias": [
+        "Êxodo 22:11",
+        "Mateus 5:33-37"
+      ],
+      "comentario": "Este cenário trata de questões legais e juramentais. O Templo se torna o tribunal final para a resolução de disputas sob juramento. O perigo aqui é o juramento feito sem cautela, o que era uma infração grave contra a santidade do nome de Deus.",
+      "temas": [
+        "Juramentos",
+        "Resolução de Conflitos",
+        "Integridade"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "23": {
-      "parafrase": "Ele disse: 'Ó Senhor, Deus de Israel, não há Deus como tu, nem nos céus acima, nem na terra abaixo, que guardas a aliança e a bondade para com os teus servos que andam diante de ti de todo o coração.'",
-      "referencias": ["Deuteronômio 4:39"],
-      "comentario": "Salomão exalta a singularidade e a fidelidade de Deus, que guarda Sua aliança e mostra bondade àqueles que O servem de todo o coração.",
-      "temas": ["singularidade de Deus", "fidelidade de Deus", "aliança", "bondade"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "...então, ouve do céu, ó Deus, e julga a causa do Teu servo. Condena o ímpio, fazendo com que sua maldade caia sobre sua própria cabeça, e absolve o justo, dando-lhe a recompensa que lhe é devida.",
+      "referencias": [
+        "Deuteronômio 25:1",
+        "Salmos 7:9"
+      ],
+      "comentario": "O Templo é invocado como um lugar de justiça retributiva. Deus deve atuar como o Juiz supremo, confirmando a justiça terrena: retribuindo o mal ao malfeitor e confirmando a inocência do justo. Isso estabelece o Templo como um santuário de apelo judicial.",
+      "temas": [
+        "Justiça Divina",
+        "Retribuição",
+        "Julgamento"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "24": {
-      "parafrase": "'Tu guardaste a teu servo Davi, meu pai, o que lhe prometeste. Sim, tu falaste com a tua boca e com a tua mão o cumpriste, como acontece hoje.'",
-      "referencias": [],
-      "comentario": "Salomão reconhece o cumprimento da promessa de Deus a Davi, seu pai, em sua própria vida. A fidelidade de Deus é evidente.",
-      "temas": ["fidelidade de Deus", "cumprimento da promessa"],
-      "personagens": ["Salomão", "Deus", "Davi"]
+      "parafrase": "Se Israel for derrotado por seus inimigos porque pecaram contra Ti, mas depois se voltarem para Ti, confessando Teu nome e suplicando fervorosamente a Ti neste santo lugar...",
+      "referencias": [
+        "Deuteronômio 28:1-14",
+        "2 Crônicas 7:13-14"
+      ],
+      "comentario": "Este é o cenário de desgraça nacional causada pela desobediência. A condição para a restauração divina é o reconhecimento do pecado, a confissão do nome de Deus (reafirmação da aliança) e a oração feita no local designado.",
+      "temas": [
+        "Derrota Nacional",
+        "Confissão de Pecado",
+        "Restauração"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "25": {
-      "parafrase": "'Agora, pois, ó Senhor, Deus de Israel, guarda a teu servo Davi, meu pai, o que lhe prometeste, dizendo: 'Nunca lhe faltará um homem diante de mim para se sentar no trono de Israel, se tão somente seus filhos guardarem o seu caminho, andando diante de mim como você andou.''",
-      "referencias": ["1 Reis 2:4"],
-      "comentario": "Salomão pede a Deus que continue a cumprir a promessa da Aliança Davídica, que garante uma dinastia eterna, mas que está condicionada à obediência dos descendentes de Davi.",
-      "temas": ["Aliança Davídica", "promessa divina", "obediência condicional"],
-      "personagens": ["Salomão", "Deus", "Davi"]
+      "parafrase": "...então, ouve do alto dos céus, ó Senhor, perdoa o erro do Teu povo Israel, e permite que eles retornem à terra que prometeste a eles e a seus antepassados, para que adorem a Ti lá.",
+      "referencias": [
+        "2 Reis 20:5",
+        "Neemias 1:6-7"
+      ],
+      "comentario": "A conclusão da seção de orações. O perdão de Deus não visa apenas a absolvição moral, mas a restauração da relação com a terra prometida ('a terra que deste a eles'). O objetivo final é que a adoração no lugar correto (Terra Santa) seja restabelecida.",
+      "temas": [
+        "Perdão Nacional",
+        "Restauração da Terra",
+        "Adoração no Lar"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "26": {
-      "parafrase": "'Agora, pois, ó Deus de Israel, que a tua palavra que falaste a teu servo Davi, meu pai, seja confirmada.'",
-      "referencias": [],
-      "comentario": "Salomão pede a Deus que confirme Sua palavra, confiando em Sua fidelidade.",
-      "temas": ["confirmação da palavra", "fidelidade de Deus"],
-      "personagens": ["Salomão", "Deus", "Davi"]
+      "parafrase": "Assim, todos os anciãos de Israel se reuniram e subiram ao encontro do rei Salomão, chegando a Jerusalém para participar desta grandiosa cerimônia.",
+      "referencias": [
+        "Êxodo 19:7",
+        "Deuteronômio 31:28"
+      ],
+      "comentario": "A convocação dos 'ancião' (זְקֵנִים - z'kenim) representava a totalidade da liderança tribal e civil de Israel. Sua presença legitima a dedicação do Templo perante toda a nação, demonstrando unidade.",
+      "temas": [
+        "Unidade Nacional",
+        "Liderança",
+        "Assembleia"
+      ],
+      "personagens": [
+        "Anciãos de Israel",
+        "Salomão"
+      ]
     },
     "27": {
-      "parafrase": "'Mas será que Deus realmente habitará na terra? Eis que os céus e o céu dos céus não te podem conter; quanto menos esta casa que edifiquei!'",
-      "referencias": ["Isaías 66:1"],
-      "comentario": "Salomão reconhece a transcendência de Deus, que não pode ser contido por nenhum edifício feito por mãos humanas. Ele demonstra uma compreensão teológica profunda da natureza de Deus.",
-      "temas": ["transcendência de Deus", "limitação humana", "humildade"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "Quando chegaram, os sacerdotes, responsáveis pelo serviço sagrado, e os levitas, que cuidavam da estrutura do culto, trouxeram a Arca da Aliança, o símbolo máximo da presença de Deus, do seu local de repouso temporário (a tenda em Sião) para o santuário recém-construído.",
+      "referencias": [
+        "2 Samuel 6:17",
+        "Hebreus 9:4"
+      ],
+      "comentario": "A 'Arca da Aliança' (אֲרוֹן הַבְּרִית - Aron HaBrit) continha as Tábuas dos Dez Mandamentos. Mover a Arca era o ponto culminante da transferência da glória divina do tabernáculo para o Templo permanente, o 'Monte Sião' sendo a localização do tabernáculo anterior.",
+      "temas": [
+        "A Arca da Aliança",
+        "Transição de Culto",
+        "Presença Divina"
+      ],
+      "personagens": [
+        "Sacerdotes",
+        "Levitas"
+      ]
     },
     "28": {
-      "parafrase": "'No entanto, atende à oração de teu servo e à sua súplica, ó Senhor, meu Deus, para ouvires o clamor e a oração que o teu servo faz hoje diante de ti.'",
-      "referencias": [],
-      "comentario": "Salomão pede a Deus que ouça as orações e súplicas que serão feitas no Templo, reconhecendo que o Templo é um lugar de encontro com Deus.",
-      "temas": ["oração", "súplica", "lugar de encontro"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "Juntamente com a Arca, trouxeram também todos os utensílios sagrados que o rei Davi havia separado para o serviço a Deus, objetos consagrados que agora seriam guardados no Lugar Santíssimo.",
+      "referencias": [
+        "2 Crônicas 5:1",
+        "Números 4:15"
+      ],
+      "comentario": "Os 'utensílios' (כְּלֵי הַקֹּדֶשׁ - klei haQodesh) incluíam os vasos de ouro e prata usados nos rituais. A menção a Davi honra o preparo iniciado por seu pai, mostrando a continuidade do projeto de Deus.",
+      "temas": [
+        "Consagração",
+        "Objetos Litúrgicos",
+        "Legado de Davi"
+      ],
+      "personagens": [
+        "Davi",
+        "Sacerdotes"
+      ]
     },
     "29": {
-      "parafrase": "'Que os teus olhos estejam abertos para esta casa noite e dia, para o lugar do qual tu disseste: 'O meu nome estará ali', para ouvires a oração que o teu servo fará neste lugar.'",
-      "referencias": ["Deuteronômio 12:11"],
-      "comentario": "Salomão pede a Deus que Sua presença esteja constantemente no Templo, e que Ele ouça as orações feitas ali, pois o Templo é o lugar onde o nome de Deus habita.",
-      "temas": ["presença divina", "oração", "nome de Deus"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "O rei e todo o povo de Israel se reuniram em frente ao Templo, oferecendo um sacrifício tão vasto e incontável quanto a areia da praia, tamanha era a gratidão e a alegria pela conclusão da Casa do Senhor.",
+      "referencias": [
+        "Gênesis 22:17",
+        "Juízes 6:11"
+      ],
+      "comentario": "A oferta de sacrifícios era tão numerosa que a comparação com a 'areia do mar' (כַּחֹל אֲשֶׁר עַל־שְׂפַת הַיָּם - ka'chol asher al-sefat hayam) enfatiza a magnitude da celebração e a devoção do povo.",
+      "temas": [
+        "Sacrifício",
+        "Celebração",
+        "Gratidão"
+      ],
+      "personagens": [
+        "Salomão",
+        "Povo de Israel"
+      ]
     },
     "30": {
-      "parafrase": "'Ouve a súplica de teu servo e de teu povo Israel, quando orarem neste lugar. Ouve no céu, teu lugar de habitação, e quando ouvires, perdoa.'",
-      "referencias": [],
-      "comentario": "Salomão pede a Deus que ouça as orações de Seu povo e que os perdoe quando pecarem e se arrependerem. Ele reconhece a necessidade de perdão e a misericórdia de Deus.",
-      "temas": ["oração", "perdão", "misericórdia"],
-      "personagens": ["Salomão", "Deus", "Israel"]
+      "parafrase": "Então, Salomão se posicionou diante do altar de bronze — o grande altar onde os holocaustos eram apresentados — e, levantando as mãos em profunda oração, clamou ao céu.",
+      "referencias": [
+        "Êxodo 27:1",
+        "Salmos 134:2"
+      ],
+      "comentario": "O gesto de 'levantar as mãos' (נָשָׂא אֶת־יָדָיו - nasa et yadav) é o gesto universal de súplica e entrega a Deus. O altar de bronze representava o ponto de contato entre o pecador e a santidade divina.",
+      "temas": [
+        "Oração Sacerdotal",
+        "Mediação",
+        "O Altar"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "31": {
-      "parafrase": "'Se alguém pecar contra o seu próximo e lhe for exigido um juramento, e ele vier e jurar diante do teu altar nesta casa,'",
-      "referencias": [],
-      "comentario": "Salomão apresenta vários cenários de pecado e aflição, pedindo a Deus que intervenha quando o povo buscar Sua face no Templo.",
-      "temas": ["pecado", "juramento", "justiça"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "Ele iniciou seu clamor dizendo: 'Ó Eterno, Deus de Israel, que não há nada semelhante a Ti nem acima nem abaixo, nem no céu nem na terra; Tu és Aquele que guarda a aliança de amor e demonstra fidelidade inabalável aos Teus servos que caminham com integridade diante de Ti!'",
+      "referencias": [
+        "Deuteronômio 4:39",
+        "Isaías 44:6"
+      ],
+      "comentario": "Salomão começa a oração estabelecendo a singularidade (הַיֹּשֵׁר - hayosher, retidão/singularidade) e a soberania de Yahweh. A 'aliança de amor' aqui é baseada no termo hebraico חֶסֶד (Chesed), amor leal ou misericórdia constante.",
+      "temas": [
+        "Soberania de Deus",
+        "Fidelidade",
+        "Caráter de Deus"
+      ],
+      "personagens": [
+        "Salomão",
+        "Yahweh"
+      ]
     },
     "32": {
-      "parafrase": "'então ouve no céu e age, e julga os teus servos, condenando o culpado e fazendo recair sobre sua cabeça o seu caminho, e justificando o justo, dando-lhe segundo a sua justiça.'",
-      "referencias": [],
-      "comentario": "Salomão pede a Deus que julgue com justiça, retribuindo a cada um de acordo com suas ações.",
-      "temas": ["justiça divina", "julgamento", "retribuição"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "Ó Deus, atende agora a este pedido que Tu fizeste ao meu pai Davi, prometendo: 'Não te faltará sucessor sentado no trono de Israel, desde que seus descendentes sejam diligentes em trilhar o caminho da Retidão, como Tu fizeste.'",
+      "referencias": [
+        "2 Samuel 7:12-13",
+        "Salmos 89:30"
+      ],
+      "comentario": "Salomão fundamenta sua oração na promessa incondicional (condicionada à obediência) feita a Davi, citando a promessa davídica. A 'retidão' (כַּאֲשֶׁר הָלַכְתָּ - ka'asher halachta) se refere à integridade de Davi.",
+      "temas": [
+        "Promessa Davídica",
+        "Herança",
+        "Obediência"
+      ],
+      "personagens": [
+        "Salomão",
+        "Davi",
+        "Deus"
+      ]
     },
     "33": {
-      "parafrase": "'Quando o teu povo Israel for derrotado diante de um inimigo por ter pecado contra ti, e eles se voltarem para ti, confessarem o teu nome e orarem e suplicarem a ti nesta casa,'",
-      "referencias": ["Deuteronômio 28:25"],
-      "comentario": "Salomão ora por livramento em caso de derrota militar, condicionando a resposta de Deus ao arrependimento e à oração do povo no Templo.",
-      "temas": ["derrota", "arrependimento", "oração", "livramento"],
-      "personagens": ["Salomão", "Deus", "Israel"]
+      "parafrase": "E agora, pedimos: se um israelita, por ter tropeçado em pecado ou por desobediência, for ferido em batalha contra um inimigo e for forçado a fugir, e então se voltar sinceramente para este lugar sagrado, voltando-se para Ti...",
+      "referencias": [
+        "Levítico 26:17",
+        "Deuteronômio 28:25"
+      ],
+      "comentario": "Aqui inicia-se a série de 'se's' (condicionais) que descrevem situações de aflição nacional ou pessoal. O ato de 'virar-se para este lugar' (פָּנָה אֶל־הַמָּקוֹם - panah el-hammaqom) simboliza o reconhecimento do Templo como o ponto focal da expiação e intercessão.",
+      "temas": [
+        "Arrependimento",
+        "Aflição",
+        "Intercessão"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "34": {
-      "parafrase": "'então ouve no céu e perdoa o pecado de teu povo Israel, e os traz de volta à terra que deste a seus pais.'",
-      "referencias": [],
-      "comentario": "Ele pede perdão e restauração da terra em caso de arrependimento.",
-      "temas": ["perdão", "restauração"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "...que Tu então ouças o seu clamor vindo do céu, de onde reside a Tua glória, e que lhes concedas o perdão pelos seus erros, restaurando-os à sua terra que deste a eles e aos seus antepassados.",
+      "referencias": [
+        "Salmos 61:2",
+        "Jeremias 29:13"
+      ],
+      "comentario": "A escuta vem 'do céu' (מִן־הַשָּׁמַיִם - min-hashamayim), reiterando que o Templo é o ponto de recepção, mas Deus está em Sua morada celestial. A restauração é uma bênção dupla: perdão e posse da terra.",
+      "temas": [
+        "Perdão",
+        "Restauração",
+        "Território Prometido"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "35": {
-      "parafrase": "'Quando o céu se fechar e não houver chuva por terem pecado contra ti, e eles orarem neste lugar, confessarem o teu nome e se desviarem de seu pecado, porque tu os afligiste,'",
-      "referencias": ["Deuteronômio 28:23-24"],
-      "comentario": "Salomão ora por chuva em caso de seca, reconhecendo que a seca é um juízo divino e que a oração e o arrependimento são a chave para a restauração.",
-      "temas": ["seca", "juízo divino", "oração", "arrependimento"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "E se o céu estiver fechado e não houver chuva, porque o povo pecou contra Ti, mas eles reconhecerem o erro e orarem voltados para este Templo...",
+      "referencias": [
+        "Deuteronômio 11:17",
+        "Amós 4:7"
+      ],
+      "comentario": "A seca (céu fechado) era classicamente interpretada como um sinal direto da ira divina pelo pecado (culto a ídolos ou quebra da Lei). A oração específica aqui é pela cessação da seca.",
+      "temas": [
+        "Juízo Climático",
+        "Pecado e Consequência",
+        "Súplica por Chuva"
+      ],
+      "personagens": [
+        "Povo"
+      ]
     },
     "36": {
-      "parafrase": "'então ouve no céu e perdoa o pecado de teus servos e de teu povo Israel, quando tu lhes ensinares o bom caminho em que devem andar. E envia chuva sobre a tua terra, que deste ao teu povo como herança.'",
-      "referencias": [],
-      "comentario": "Ele pede perdão, orientação e chuva, demonstrando a dependência de Israel da provisão divina.",
-      "temas": ["perdão", "orientação", "provisão"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "...então, ouve do alto, da Tua morada celestial, perdoa o pecado de Teus servos e do Teu povo Israel. Ensina-lhes o caminho correto a seguir, para que possam viver novamente sob o Sol de Tua bênção na terra que lhes deste.",
+      "referencias": [
+        "Salmos 145:18",
+        "Miquéias 6:8"
+      ],
+      "comentario": "O foco muda para o aspecto pedagógico: Deus deve 'ensinar-lhes o caminho reto' (לַלְמָדָם אֶת־הַדֶּרֶךְ הַטּוֹבָה - lammadah et hadderekh hattovah). O Templo não é só um lugar de perdão, mas de instrução ética e legal.",
+      "temas": [
+        "Instrução Divina",
+        "Retidão",
+        "Bênção"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "37": {
-      "parafrase": "'Quando houver fome na terra, ou peste, ou ferrugem, ou mofo, ou gafanhotos, ou lagartas; quando seus inimigos os cercarem em suas cidades; qualquer praga ou doença que houver,'",
-      "referencias": ["Deuteronômio 28:21-22"],
-      "comentario": "Salomão ora por livramento em caso de diversas calamidades, reconhecendo que todas vêm da mão de Deus.",
-      "temas": ["calamidades", "juízo divino", "oração"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "E se houver fome na terra, seja por invasão inimiga, praga ou qualquer calamidade, e o povo se humilhar perante este Templo...",
+      "referencias": [
+        "Jeremias 14:1-3",
+        "Joel 1:13"
+      ],
+      "comentario": "Salomão cobre as três grandes calamidades agrícolas e militares: praga (dificuldade interna), seca (ver v. 35) e fome (resultado da interrupção da produção). A resposta do povo deve ser a 'humilhação' (וְהִתְפַּלְל֣וּ - vehitpalle'lu, oração intensa).",
+      "temas": [
+        "Calamidades",
+        "Humilhação",
+        "Petição"
+      ],
+      "personagens": [
+        "Povo"
+      ]
     },
     "38": {
-      "parafrase": "'qualquer oração ou súplica que for feita por qualquer homem ou por todo o teu povo Israel, cada um conhecendo a praga de seu próprio coração, e estendendo as mãos para esta casa,'",
-      "referencias": [],
-      "comentario": "Ele pede que Deus ouça as orações individuais e coletivas, reconhecendo a dor e o arrependimento do coração.",
-      "temas": ["oração individual e coletiva", "arrependimento"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "...e se um homem, ou todo o Israel em conjunto, erguer uma oração sincera, com o rosto voltado para este Templo, confessando sua angústia e pecado...",
+      "referencias": [
+        "Jó 42:6",
+        "Daniel 9:4"
+      ],
+      "comentario": "A oração não é só individual, mas coletiva ('ou todo Israel'). A confissão deve ser explícita: 'confessando a sua aflição' (אֶת־עִנְיָנָם - et inyanam), o reconhecimento da origem do sofrimento.",
+      "temas": [
+        "Confissão",
+        "Angústia",
+        "Oração Coletiva"
+      ],
+      "personagens": [
+        "Homens de Israel"
+      ]
     },
     "39": {
-      "parafrase": "'então ouve no céu, teu lugar de habitação, e perdoa, e age, e dá a cada um segundo todos os seus caminhos, cujo coração tu conheces (pois só tu conheces o coração de todos os filhos dos homens),'",
-      "referencias": ["1 Crônicas 28:9"],
-      "comentario": "Salomão apela para a onisciência de Deus, que conhece o coração de cada um, e pede que Ele julgue com justiça e perdoe.",
-      "temas": ["onisciência de Deus", "justiça divina", "perdão"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "...que Tu, então, ouças do Teu santuário no céu, que perdoarás e agirás em favor deles, pois Tu és o único que conhece o coração de cada ser humano, sabendo quem está verdadeiramente arrependido.",
+      "referencias": [
+        "Salmos 139:23",
+        "Provérbios 16:2"
+      ],
+      "comentario": "Este versículo é crucial: Deus não depende apenas da aparência da oração, mas da intenção interior. Ele é o único que conhece o coração (לֵב - lev), o centro da vontade e das emoções humanas.",
+      "temas": [
+        "Conhecimento do Coração",
+        "Misericórdia",
+        "Intenção"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "40": {
-      "parafrase": "'para que te temam todos os dias em que viverem na terra que deste a nossos pais.'",
-      "referencias": [],
-      "comentario": "O propósito final da oração é que o povo tema a Deus e O sirva fielmente, resultando em uma vida de obediência e bênção.",
-      "temas": ["temor a Deus", "obediência", "bênção"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "Assim, eles Te temerão e honrarão, e continuarão a caminhar em Teus mandamentos, enquanto viverem nesta terra que foi dada aos nossos ancestrais.",
+      "referencias": [
+        "Deuteronômio 6:2",
+        "Salmos 119:6"
+      ],
+      "comentario": "O objetivo final de toda intervenção divina é incutir o 'temor do Senhor' (יִרְאוּ אֹתְךָ - yir'u otkha), que significa respeito reverente e obediência contínua aos preceitos.",
+      "temas": [
+        "Temor a Deus",
+        "Obediência",
+        "Legado"
+      ],
+      "personagens": [
+        "Israel"
+      ]
     },
     "41": {
-      "parafrase": "'Também quanto ao estrangeiro, que não é do teu povo Israel, mas que vem de uma terra distante por causa do teu nome,'",
-      "referencias": ["Isaías 56:6-7"],
-      "comentario": "Salomão ora pelos estrangeiros que vêm adorar a Deus no Templo, demonstrando a natureza universal da salvação de Deus.",
-      "temas": ["universalidade da salvação", "estrangeiros", "adoração"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "E também, ó Deus, ouve quando um estrangeiro, que não é do Teu povo Israel, mas que veio de terras distantes por causa do Teu grande Nome e da Tua fama...",
+      "referencias": [
+        "Jonas 1:3",
+        "Isaías 56:6-7"
+      ],
+      "comentario": "Salomão expande a inclusão para os gentios ('estrangeiro' - גֵּר - ger). O estrangeiro vem atraído pelo 'Nome' (שִׁמְךָ הַגָּדוֹל - shimkha hagadol), a reputação de Yahweh no mundo.",
+      "temas": [
+        "Inclusão dos Gentios",
+        "Fama de Deus",
+        "Peregrinação"
+      ],
+      "personagens": [
+        "Estrangeiros",
+        "Deus"
+      ]
     },
     "42": {
-      "parafrase": "'(pois eles ouvirão falar do teu grande nome, da tua mão poderosa e do teu braço estendido), quando ele vier e orar nesta casa,'",
-      "referencias": [],
-      "comentario": "Ele reconhece que a fama de Deus se espalhará entre as nações, atraindo estrangeiros para adorá-Lo.",
-      "temas": ["fama de Deus", "adoração"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "...e que, ao saber da Tua majestade e poder, vier orar voltado para este Templo, atende o seu pedido, para que todos os povos da terra conheçam o Teu nome e O temam, assim como o povo de Israel...",
+      "referencias": [
+        "Miquéias 4:2",
+        "Apocalipse 15:4"
+      ],
+      "comentario": "A função universal do Templo é ser um farol de revelação. As ações de Deus em Jerusalém devem ser testemunhadas por todas as 'nações' (כֹּל־עַמֵּי הָאָרֶץ - kol 'ammei ha'aretz) como prova de Seu poder.",
+      "temas": [
+        "Missão Universal",
+        "Testemunho",
+        "Reconhecimento Global"
+      ],
+      "personagens": [
+        "Estrangeiros",
+        "Povos da Terra"
+      ]
     },
     "43": {
-      "parafrase": "'então ouve no céu, teu lugar de habitação, e faze tudo o que o estrangeiro te pedir, para que todos os povos da terra conheçam o teu nome e te temam, como o teu povo Israel, e saibam que esta casa que edifiquei é chamada pelo teu nome.'",
-      "referencias": [],
-      "comentario": "Salomão pede que Deus responda às orações dos estrangeiros, para que o nome de Deus seja conhecido e temido em toda a terra, e para que o Templo seja reconhecido como o lugar onde o nome de Deus habita.",
-      "temas": ["glória de Deus", "adoração universal", "nome de Deus"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "...e que reconheçam que este Templo que construí leva o Teu Nome, e que Tu és o Deus que traz justiça e redenção ao Teu povo.",
+      "referencias": [
+        "Isaías 60:21",
+        "Salmos 103:6"
+      ],
+      "comentario": "O Templo é santificado porque leva o 'Nome' de Deus, um ato de apropriação divina. A justiça (מִשְׁפָּט - mishpat) e a redenção (נְקָמָה - neqamah) são atributos que Deus manifesta através de Seu povo.",
+      "temas": [
+        "Nome do Templo",
+        "Justiça Divina",
+        "Redenção"
+      ],
+      "personagens": [
+        "Deus",
+        "Israel"
+      ]
     },
     "44": {
-      "parafrase": "'Quando o teu povo sair para a guerra contra o seu inimigo, por onde quer que tu o enviares, e eles orarem ao Senhor, voltados para a cidade que tu escolheste e para a casa que edifiquei ao teu nome,'",
-      "referencias": [],
-      "comentario": "Salomão ora por vitória em batalha, condicionando a resposta de Deus à oração do povo no Templo.",
-      "temas": ["guerra", "oração", "vitória"],
-      "personagens": ["Salomão", "Deus", "Israel"]
+      "parafrase": "E se o Teu povo sair para lutar contra seus inimigos, seguindo a Tua ordem, e se eles orarem fervorosamente a Ti, voltados para esta cidade que é Tua e para este Templo que edifiquei em honra ao Teu Nome...",
+      "referencias": [
+        "Deuteronômio 20:1-4",
+        "Josué 1:5"
+      ],
+      "comentario": "Esta é a condição para o sucesso militar. Não é apenas a bravura humana, mas a oração voltada para o Templo que garante a intervenção divina na batalha.",
+      "temas": [
+        "Guerra Justa",
+        "Intervenção Militar",
+        "Direção Divina"
+      ],
+      "personagens": [
+        "Povo de Israel",
+        "Deus"
+      ]
     },
     "45": {
-      "parafrase": "'então ouve no céu a sua oração e a sua súplica, e defende a sua causa.'",
-      "referencias": [],
-      "comentario": "Ele pede que Deus ouça e defenda a causa de Seu povo em batalha.",
-      "temas": ["oração", "defesa divina"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "...que Tu ouças do céu, e atendas ao seu clamor, e restabeleças o direito deles e lhes dês a vitória sobre os adversários.",
+      "referencias": [
+        "Salmos 20:6",
+        "Isaías 41:10"
+      ],
+      "comentario": "O pedido é claro: vitória militar através da mediação do Templo. O resultado é a restauração de seu 'direito' ou 'causa' (מִשְׁפָּטָם - mishpatam) perante os inimigos.",
+      "temas": [
+        "Vitória Militar",
+        "Intercessão Efetiva",
+        "Restauração de Causa"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "46": {
-      "parafrase": "'Se eles pecarem contra ti (pois não há homem que não peque), e tu te irares contra eles e os entregares nas mãos de um inimigo, de modo que seus captores os levem cativos para uma terra inimiga, distante ou próxima,'",
-      "referencias": ["Provérbios 20:9", "Eclesiastes 7:20"],
-      "comentario": "Salomão reconhece a universalidade do pecado e ora por misericórdia em caso de cativeiro, que era uma consequência comum da desobediência.",
-      "temas": ["pecado universal", "cativeiro", "misericórdia"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "E se eles pecarem contra Ti — pois não há homem que não peque —, e Tu te indignares com eles, permitindo que sejam derrotados e levados cativos para terras distantes...",
+      "referencias": [
+        "Eclesiastes 7:20",
+        "Romanos 3:23"
+      ],
+      "comentario": "Aqui está a admissão da falibilidade humana. 'Não há homem que não peque' (כִּי אֵין אָדָם אֲשֶׁר לֹא יֶחֱטָא - ki ein adam asher lo yecheta) é uma verdade universal, aceitando a natureza pecaminosa da humanidade.",
+      "temas": [
+        "Pecado Humano Universal",
+        "Consequência da Desobediência",
+        "Cativeiro"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "47": {
-      "parafrase": "'e se eles caírem em si na terra para onde foram levados cativos, e se arrependerem e te suplicarem na terra de seus captores, dizendo: 'Pecamos, agimos perversamente, cometemos iniquidade','",
-      "referencias": [],
-      "comentario": "Ele ora por arrependimento e confissão de pecado em meio ao cativeiro, como condição para o retorno.",
-      "temas": ["arrependimento", "confissão", "cativeiro"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "...mas se lá no cativeiro, em terra estrangeira, eles se lembrarem de Ti, voltarem-se para Ti com profundo arrependimento e clamarem: 'Nós pecamos, agimos perversamente e fizemos o mal!'...",
+      "referencias": [
+        "Lamentações 3:39-40",
+        "Oseias 6:1"
+      ],
+      "comentario": "O arrependimento no exílio deve ser ativo: lembrança (זָכְרוּ - zakhar) e confissão explícita dos atos cometidos ('fizemos o mal' - עָשִׂינוּ הָרָע - asinu hara).",
+      "temas": [
+        "Arrependimento no Exílio",
+        "Confissão de Culpa",
+        "Memória"
+      ],
+      "personagens": [
+        "Cativos"
+      ]
     },
     "48": {
-      "parafrase": "'e se eles se voltarem para ti de todo o coração e de toda a alma na terra de seus inimigos, que os levaram cativos, e orarem a ti, voltados para a sua terra, que deste a seus pais, para a cidade que tu escolheste e para a casa que edifiquei ao teu nome,'",
-      "referencias": [],
-      "comentario": "Salomão pede que Deus ouça as orações dos cativos, mesmo em terras estrangeiras, quando eles se voltarem para Ele em arrependimento.",
-      "temas": ["oração dos cativos", "arrependimento", "retorno"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "...e se, então, orarem a Ti com todo o coração e com toda a alma, voltados para a Terra que deste a seus pais e para esta Cidade santa e para este Templo que construí para o Teu Nome...",
+      "referencias": [
+        "Deuteronômio 4:29",
+        "Atos 2:37"
+      ],
+      "comentario": "O grau de arrependimento é intensificado: 'com todo o coração e com toda a alma' (בְּכָל־לְבָבָם וּבְכָל־נַפְשָׁם - bekhol levavam uveckhol nafsham), um compromisso total.",
+      "temas": [
+        "Sinceridade",
+        "Compromisso Total",
+        "Identidade com a Terra"
+      ],
+      "personagens": [
+        "Cativos de Israel"
+      ]
     },
     "49": {
-      "parafrase": "'então ouve no céu, teu lugar de habitação, a sua oração e a sua súplica, e defende a sua causa.'",
-      "referencias": [],
-      "comentario": "Ele pede que Deus ouça e defenda a causa de Seu povo em cativeiro.",
-      "temas": ["oração", "defesa divina"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "...então, que ouças as suas súplicas e o seu clamor vindos do céu, do lugar do Teu trono, e que lhes faças justiça e lhes perdoes o teu povo.",
+      "referencias": [
+        "Salmos 106:44",
+        "Isaías 1:18"
+      ],
+      "comentario": "O apelo final no exílio exige uma resposta da morada de Deus ('do lugar do Teu trono' - מִמְּקוֹם כִּסְאֲךָ - mim'qom kis'akha). O perdão deve vir acompanhado de 'justiça' (מִשְׁפָּטָם - mishpatam), ou seja, a restauração de sua posição legal e nacional.",
+      "temas": [
+        "Justiça Restauradora",
+        "Misericórdia no Exílio",
+        "Intercessão Celestial"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "50": {
-      "parafrase": "'E perdoa o teu povo que pecou contra ti, e todas as suas transgressões que cometeram contra ti. E faze com que encontrem compaixão diante daqueles que os levaram cativos, para que tenham misericórdia deles.'",
-      "referencias": [],
-      "comentario": "Salomão pede perdão e misericórdia para o povo em cativeiro, buscando a compaixão de seus captores.",
-      "temas": ["perdão", "misericórdia", "compaixão"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "Que os Teus ouvidos estejam abertos para perdoar o pecado deste povo que Te ofendeu, e para ouvir as orações que eles e seus descendentes farão a Ti neste lugar sagrado. Pois eles são Teu povo, resgatado do Egito pela Tua grande mão de poder.",
+      "referencias": [
+        "Êxodo 13:3",
+        "Neemias 1:6"
+      ],
+      "comentario": "Salomão conclui amarrando o perdão à identidade do povo. Eles não são perdoados por mérito, mas porque são 'Teu povo' (עַמְּךָ - am'kha) redimido do Egito. O Templo é o ponto de encontro onde a graça da libertação inicial é continuamente aplicada.",
+      "temas": [
+        "Identidade Pactual",
+        "Graça",
+        "Libertação Fundacional"
+      ],
+      "personagens": [
+        "Salomão",
+        "Deus",
+        "Israel"
+      ]
     },
     "51": {
-      "parafrase": "'Pois eles são o teu povo e a tua herança, que tu tiraste do Egito, do meio do forno de ferro.'",
-      "referencias": ["Deuteronômio 4:20"],
-      "comentario": "Salomão apela para a identidade de Israel como povo de Deus, resgatado do Egito, como base para a misericórdia divina.",
-      "temas": ["identidade", "resgate divino", "misericórdia"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "Então, Salomão, com a coroa do seu reinado firmemente posta, ergueu-se diante do altar do Senhor, e com uma grande audiência reunida, ele ergueu as mãos, um gesto de súplica e autoridade, e proferiu uma oração solene, bendizendo todo o povo de Israel que ali estava reunido.",
+      "referencias": [
+        "2 Crônicas 6:12",
+        "Salmos 145:18"
+      ],
+      "comentario": "Este versículo marca a transição da conclusão física do templo (v. 49) para o ato inaugural de consagração e a oração de dedicação de Salomão. O ato de levantar as mãos é um gesto universal de oração e recepção da bênção divina (cf. Levítico 9:22).",
+      "temas": [
+        "Dedicatória",
+        "Oração de Salomão",
+        "Soberania de Deus"
+      ],
+      "personagens": [
+        "Salomão",
+        "Povo de Israel"
+      ]
     },
     "52": {
-      "parafrase": "'Que os teus olhos estejam abertos para a súplica de teu servo e para a súplica de teu povo Israel, para ouvires a eles em tudo o que te clamarem.'",
-      "referencias": [],
-      "comentario": "Ele pede que Deus esteja atento às orações de Seu povo, em todas as circunstâncias.",
-      "temas": ["oração", "atenção divina"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "Ele começou pedindo a Deus que mantivesse os olhos abertos, fixos neste Templo, dia e noite, e que Sua atenção estivesse sempre voltada para este lugar, pois é o ponto focal onde Seu Nome deveria habitar, e o local onde Ele prometeu atender às súplicas de Seu servo, o rei, e de todo o Seu povo, quando viessem orar voltados para esta casa sagrada.",
+      "referencias": [
+        "Deuteronômio 12:11",
+        "Salmos 132:13-14"
+      ],
+      "comentario": "Salomão estabelece a condição fundamental para a bênção do Templo: a vigilância perpétua de Deus ('olhos abertos'). O conceito de 'habitação do Nome' (Shem Yahweh) é teologicamente central, significando a presença e a autoridade de Deus, sem que Ele precise 'habitar' fisicamente de forma limitada.",
+      "temas": [
+        "Presença de Deus",
+        "Vigilância Divina",
+        "A Casa de Deus"
+      ],
+      "personagens": [
+        "Salomão",
+        "Deus"
+      ]
     },
     "53": {
-      "parafrase": "'Pois tu os separaste para ti como herança de todos os povos da terra, como falaste por meio de Moisés, teu servo, quando tiraste nossos pais do Egito, ó Senhor Deus.'",
-      "referencias": ["Êxodo 19:5"],
-      "comentario": "Salomão conclui sua oração reafirmando a eleição de Israel como povo de Deus, baseada na promessa feita a Moisés.",
-      "temas": ["eleição", "promessa", "identidade"],
-      "personagens": ["Salomão", "Deus", "Moisés"]
+      "parafrase": "Ó Senhor, peço que Tu escutes do Teu lugar celestial, do alto dos Céus, onde reside a Tua glória e o Teu trono inatingível. Quando o povo orar para este lugar, ou quando clamarem a Ti, ouve-os e perdoa-os, pois Tu és o Único que perdoa e atende!",
+      "referencias": [
+        "Salmos 2:4",
+        "Isaías 66:1"
+      ],
+      "comentario": "Aqui, Salomão expressa a teologia da transcendência (Deus no alto, 'lugar celestial') e imanência (Deus ouvindo a oração voltada para o Templo). O pedido de perdão (salvação) está intrinsecamente ligado à resposta divina às súplicas feitas na presença do santuário.",
+      "temas": [
+        "Transcendência e Imanência",
+        "Ouvir e Perdoar",
+        "Súplica"
+      ],
+      "personagens": [
+        "Salomão",
+        "Senhor"
+      ]
     },
     "54": {
-      "parafrase": "Quando Salomão terminou de fazer toda esta oração e súplica ao Senhor, ele se levantou de diante do altar do Senhor, onde estava ajoelhado com as mãos estendidas para o céu.",
-      "referencias": [],
-      "comentario": "Salomão conclui sua longa e abrangente oração de dedicação, um ato de profunda devoção e intercessão.",
-      "temas": ["oração", "súplica", "devoção"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "E assim que Salomão terminou de proferir esta longa oração a Deus, pedindo por todo este povo, ele se ajoelhou diante do altar do Senhor, estendendo as palmas das mãos abertas para o céu, um sinal de total entrega e dependência.",
+      "referencias": [
+        "Esdras 9:5",
+        "Lucas 22:41"
+      ],
+      "comentario": "O ato de se ajoelhar após a oração é a conclusão física do rito de dedicação. O gesto de abrir as palmas é novamente enfatizado, simbolizando a aceitação da soberania de Deus sobre o ato que acabara de ser realizado.",
+      "temas": [
+        "Humildade",
+        "Oração Concluída",
+        "Dependência"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "55": {
-      "parafrase": "Ele se pôs de pé e abençoou toda a comunidade de Israel em alta voz, dizendo:",
-      "referencias": [],
-      "comentario": "Salomão, como líder sacerdotal, abençoa o povo, transmitindo a bênção divina.",
-      "temas": ["bênção sacerdotal", "liderança"],
-      "personagens": ["Salomão", "Comunidade de Israel"]
+      "parafrase": "Então, ele se levantou e, com voz forte e cheia de autoridade real, abençoou toda a congregação de Israel, dizendo: 'Bendito seja o Senhor, que deu repouso ao Seu povo, Israel, em suas terras, e que cumpriu cada promessa maravilhosa que havia feito através de Seu servo Moisés!'",
+      "referencias": [
+        "Josué 1:3",
+        "Hebreus 4:8"
+      ],
+      "comentario": "A bênção final de Salomão é um eco da fidelidade de Deus através da história. Ele conecta a paz presente (repouso/shalom) com a promessa feita através de Moisés (a posse da Terra Prometida). É o reconhecimento de que a construção do Templo é o ápice da fidelidade de Deus à Aliança.",
+      "temas": [
+        "Fidelidade de Deus",
+        "Bênção",
+        "Cumprimento das Promessas"
+      ],
+      "personagens": [
+        "Salomão",
+        "Senhor",
+        "Moisés"
+      ]
     },
     "56": {
-      "parafrase": "'Bendito seja o Senhor, que deu descanso ao seu povo Israel, segundo tudo o que prometeu. Nenhuma palavra falhou de toda a sua boa promessa que ele falou por meio de Moisés, seu servo.'",
-      "referencias": ["Josué 21:45"],
-      "comentario": "Salomão louva a Deus por Sua fidelidade em cumprir todas as Suas promessas, especialmente a de dar descanso a Israel. Ele reconhece que a palavra de Deus é totalmente confiável.",
-      "temas": ["louvor", "fidelidade de Deus", "cumprimento da promessa", "confiança"],
-      "personagens": ["Salomão", "Deus", "Moisés"]
+      "parafrase": "Que o Senhor, nosso Deus, esteja integralmente conosco, como esteve com nossos antepassados. Que Ele jamais nos deixe, nem nos abandone em momento algum.",
+      "referencias": [
+        "Deuteronômio 31:6",
+        "Josué 1:5"
+      ],
+      "comentario": "Este é um desejo fervoroso por continuidade da presença divina. O paralelo com a promessa feita a Josué (e antes a Moisés) estabelece que a presença de Deus não é um direito adquirido pela construção do Templo, mas uma concessão contínua baseada na fidelidade.",
+      "temas": [
+        "Permanência Divina",
+        "Não Abandono",
+        "Aliança"
+      ],
+      "personagens": [
+        "Senhor Deus"
+      ]
     },
     "57": {
-      "parafrase": "'Que o Senhor, nosso Deus, esteja conosco, como esteve com nossos pais. Que ele não nos abandone nem nos desampare.'",
-      "referencias": [],
-      "comentario": "Salomão pede a Deus que continue Sua presença e Seu favor com a nova geração, assim como esteve com as gerações passadas.",
-      "temas": ["presença de Deus", "favor divino", "continuidade"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "Que Ele incline o nosso coração para Si, para que sempre sigamos Seus mandamentos, guardemos Seus decretos e obedecendo a todas as leis que Ele deu a Israel através de Seu servo Moisés, para que nossos dias na terra sejam longos e prósperos.",
+      "referencias": [
+        "Deuteronômio 5:33",
+        "Jeremias 31:33"
+      ],
+      "comentario": "A bênção da permanência (v. 56) está condicionada à obediência do coração. O termo 'inclinar o coração' (Heb. 'natah lev') significa direcionar a vontade. A prosperidade e longevidade são resultados diretos da vida em conformidade com a Torá (Lei).",
+      "temas": [
+        "Obediência do Coração",
+        "Mandamentos",
+        "Vida Abundante"
+      ],
+      "personagens": [
+        "Senhor",
+        "Moisés"
+      ]
     },
     "58": {
-      "parafrase": "'Que ele incline nossos corações para ele, para andarmos em todos os seus caminhos e guardarmos seus mandamentos, seus estatutos e seus juízos, que ele ordenou a nossos pais.'",
-      "referencias": [],
-      "comentario": "Ele ora para que o povo tenha um coração obediente e fiel aos mandamentos de Deus, reconhecendo que a obediência é essencial para a bênção.",
-      "temas": ["coração obediente", "fidelidade", "obediência"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "E que Ele nos conceda um coração temente a Ti, Senhor, para que nos dediquemos sempre a praticar todas as ordenanças que te instruí a guardar, porque elas são a fonte da nossa vida e bênção.",
+      "referencias": [
+        "Êxodo 20:20",
+        "Salmos 111:10"
+      ],
+      "comentario": "O 'coração temente' (yirah) não é medo paralisante, mas reverência profunda e respeito que motiva a ação correta. Isso reforça que a piedade ativa (prática das ordenanças) é a verdadeira resposta à graça de Deus.",
+      "temas": [
+        "Temor a Deus",
+        "Reverência",
+        "Prática da Lei"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "59": {
-      "parafrase": "'E que estas minhas palavras, com as quais supliquei diante do Senhor, estejam perto do Senhor, nosso Deus, dia e noite, para que ele defenda a causa de seu servo e a causa de seu povo Israel, conforme a necessidade de cada dia,'",
-      "referencias": [],
-      "comentario": "Salomão pede que suas orações sejam continuamente lembradas por Deus, para que Ele defenda a causa de Seu povo em todas as suas necessidades diárias.",
-      "temas": ["oração contínua", "defesa divina", "necessidade"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "E que estas minhas palavras, que dirigi ao Senhor neste dia de consagração, fiquem sempre próximas de Ti, Senhor nosso Deus, dia e noite. Que elas ecoem diante de Ti, para que Tu lembres de nós e atendas ao teu servo e ao teu povo Israel, conforme for necessário a cada momento.",
+      "referencias": [
+        "Filipenses 4:6",
+        "Apocalipse 5:8"
+      ],
+      "comentario": "Salomão pede que sua oração não seja esquecida, mas que ela ascenda continuamente ao trono divino. Isso estabelece o Templo como um ponto de referência constante para a memória de Deus sobre Israel, um mediador da intercessão contínua.",
+      "temas": [
+        "Memória de Deus",
+        "Intercessão",
+        "Frequência da Oração"
+      ],
+      "personagens": [
+        "Salomão",
+        "Senhor nosso Deus"
+      ]
     },
     "60": {
-      "parafrase": "'para que todos os povos da terra saibam que o Senhor é Deus, e que não há outro.'",
-      "referencias": ["Deuteronômio 4:35"],
-      "comentario": "O propósito final da oração é a glória de Deus: que todas as nações reconheçam que o Senhor é o único Deus verdadeiro.",
-      "temas": ["glória de Deus", "adoração universal", "singularidade de Deus"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "Assim, todos os povos da Terra saberão, com certeza, que o Senhor é o único Deus verdadeiro, e que não há outro além Dele, conhecendo a Tua grandeza através do nosso testemunho.",
+      "referencias": [
+        "Isaías 45:22-23",
+        "João 17:3"
+      ],
+      "comentario": "O propósito do Templo e da bênção de Israel é fundamentalmente missionário. A manifestação da aliança de Deus com Israel deve servir de testemunho universal, para que todas as nações reconheçam a unicidade do Javé (Yahweh).",
+      "temas": [
+        "Testemunho Universal",
+        "Monoteísmo",
+        "Reconhecimento Divino"
+      ],
+      "personagens": [
+        "Povos da Terra",
+        "Senhor"
+      ]
     },
     "61": {
-      "parafrase": "'Que o coração de vocês seja perfeito para com o Senhor, nosso Deus, para andar em seus estatutos e guardar seus mandamentos, como acontece hoje.'",
-      "referencias": [],
-      "comentario": "Salomão exorta o povo a ter um coração íntegro e obediente a Deus, seguindo o exemplo de fidelidade que ele mesmo demonstrou naquele dia.",
-      "temas": ["coração íntegro", "obediência", "fidelidade"],
-      "personagens": ["Salomão", "Deus"]
+      "parafrase": "Portanto, que nossos corações sejam totalmente dedicados ao Senhor, nosso Deus, para que sigamos fielmente todos os Seus estatutos e preceitos que hoje vos tenho apresentado, para que vivamos em comunhão plena com Ele.",
+      "referencias": [
+        "Mateus 6:24",
+        "Tiago 1:22"
+      ],
+      "comentario": "Este versículo funciona como uma conclusão prática do sermão de Salomão. A fidelidade deve ser 'inteira' ou 'completa' (Heb. 'shalem'). O foco volta-se para a aplicação imediata dos ensinamentos dados naquele dia.",
+      "temas": [
+        "Dedicacão Integral",
+        "Aplicação da Palavra",
+        "Integridade"
+      ],
+      "personagens": [
+        "Salomão",
+        "Senhor nosso Deus"
+      ]
     },
     "62": {
-      "parafrase": "Então o rei e todo o Israel com ele ofereceram sacrifícios diante do Senhor.",
-      "referencias": [],
-      "comentario": "A oração de dedicação é seguida por uma vasta oferta de sacrifícios, demonstrando a devoção e a gratidão do rei e do povo.",
-      "temas": ["sacrifício", "devoção", "gratidão"],
-      "personagens": ["Salomão", "Israel", "Deus"]
+      "parafrase": "E, além disso, o rei ofereceu sacrifícios de comunhão ao Senhor: vinte e dois mil bois e cento e vinte mil ovelhas, como uma oferta massiva de gratidão e consagração, celebrando a dedicação do Templo.",
+      "referencias": [
+        "Levítico 3:1",
+        "2 Crônicas 7:5"
+      ],
+      "comentario": "O sacrifício de comunhão (ou paz) simboliza a restauração da amizade e da comunhão entre Deus e o povo após a dedicação. A escala dos animais oferecidos é colossal, refletindo a riqueza de Salomão e a magnitude do evento.",
+      "temas": [
+        "Sacrifício de Comunhão",
+        "Gratidão",
+        "Abundância"
+      ],
+      "personagens": [
+        "Salomão",
+        "Senhor"
+      ]
     },
     "63": {
-      "parafrase": "Salomão ofereceu como sacrifício de comunhão ao Senhor vinte e dois mil bois e cento e vinte mil ovelhas. Assim, o rei e todos os israelitas dedicaram a casa do Senhor.",
-      "referencias": [],
-      "comentario": "A quantidade de sacrifícios é imensa, refletindo a magnitude da dedicação do Templo e a abundância da bênção de Deus.",
-      "temas": ["sacrifício", "dedicação", "abundância"],
-      "personagens": ["Salomão", "Israel", "Deus"]
+      "parafrase": "Assim, o rei Salomão e todo o Israel realizaram a cerimônia de dedicação do Templo do Senhor com grande alegria, um momento de júbilo que se estendeu por sete dias inteiros de festividades.",
+      "referencias": [
+        "2 Crônicas 7:8",
+        "Apocalipse 19:7"
+      ],
+      "comentario": "A duração de sete dias de festa é um padrão bíblico para celebrações importantes (cf. Festa dos Tabernáculos). Isso indica que a alegria não era apenas um sentimento, mas um evento litúrgico prolongado e público.",
+      "temas": [
+        "Celebração",
+        "Júbilo",
+        "Duração da Festa"
+      ],
+      "personagens": [
+        "Salomão",
+        "Todo o Israel"
+      ]
     },
     "64": {
-      "parafrase": "Naquele mesmo dia, o rei consagrou o meio do pátio que estava diante da casa do Senhor, pois ali ele ofereceu os holocaustos, as ofertas de cereal e a gordura das ofertas de comunhão, porque o altar de bronze que estava diante do Senhor era muito pequeno para conter os holocaustos, as ofertas de cereal e a gordura das ofertas de comunhão.",
-      "referencias": [],
-      "comentario": "A quantidade de sacrifícios é tão grande que o altar de bronze não é suficiente, e Salomão precisa consagrar uma parte do pátio para os sacrifícios, mostrando a escala da adoração.",
-      "temas": ["escala da adoração", "sacrifício"],
-      "personagens": ["Salomão"]
+      "parafrase": "Naquele tempo, o próprio rei dedicou, em especial, o altar central, que ficava em frente ao Templo, oferecendo nele sacrifícios queimados de oferta total, ofertas de cereais e a gordura dos sacrifícios de paz, completando assim a consagração formal do local.",
+      "referencias": [
+        "Levítico 1:1-17",
+        "Hebreus 10:10"
+      ],
+      "comentario": "A dedicação do altar é crucial, pois é o ponto de contato para o sacrifício. Salomão realizou a dedicação do altar antes de finalizar a dedicação geral do Templo, oferecendo todos os tipos principais de sacrifícios (holocausto, oferta de manjares e sacrifício pacífico).",
+      "temas": [
+        "Consagração do Altar",
+        "Tipologia Sacrificial",
+        "Oferta Completa"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "65": {
-      "parafrase": "Salomão celebrou a festa naquele tempo, e todo o Israel com ele, uma grande congregação desde a entrada de Hamate até o ribeiro do Egito, diante do Senhor, nosso Deus, por sete dias e mais sete dias, quatorze dias.",
-      "referencias": [],
-      "comentario": "A festa de dedicação dura quatorze dias, um período prolongado de celebração e adoração, com a participação de todo o Israel, desde as fronteiras do norte até as do sul.",
-      "temas": ["celebração", "festa", "adoração", "unidade"],
-      "personagens": ["Salomão", "Israel", "Deus"]
+      "parafrase": "Naquela ocasião, Salomão celebrou a festa em Jerusalém por sete dias, e com ele todo o Israel — uma multidão imensa vinda de todas as partes, desde a entrada de Hamate, no extremo norte, até o rio do Egito, no sul.",
+      "referencias": [
+        "Números 34:5",
+        "2 Crônicas 7:8"
+      ],
+      "comentario": "Este versículo define a abrangência geográfica da participação. A menção da 'entrada de Hamate' (Lebonah/Lebo-Hamath) e do 'rio do Egito' (Wadi el Arish) demarca a fronteira idealizada da Terra Prometida sob o reinado de Davi e Salomão, mostrando que toda a nação estava unida para o evento.",
+      "temas": [
+        "Unidade Nacional",
+        "Extensão Territorial",
+        "Reino Unido"
+      ],
+      "personagens": [
+        "Salomão",
+        "Todo o Israel"
+      ]
     },
     "66": {
-      "parafrase": "No oitavo dia, ele despediu o povo. E eles abençoaram o rei e foram para suas tendas, alegres e com o coração contente por todo o bem que o Senhor havia feito a Davi, seu servo, e a Israel, seu povo.",
-      "referencias": [],
-      "comentario": "O povo é despedido com alegria e gratidão, reconhecendo a bondade de Deus para com Davi e Israel. A dedicação do Templo é um momento de grande bênção e unidade para a nação.",
-      "temas": ["despedida", "alegria", "gratidão", "bênção", "unidade"],
-      "personagens": ["Salomão", "Povo de Israel", "Deus", "Davi"]
+      "parafrase": "Ao final dos sete dias de celebração, o rei Salomão despediu o povo com bênçãos, e eles voltaram para suas casas e famílias, cheios de alegria e com o coração exultante pela bondade que o Senhor havia demonstrado a Davi, Seu servo, e a Israel, Seu povo eleito.",
+      "referencias": [
+        "Salmos 122:1",
+        "Romanos 15:13"
+      ],
+      "comentario": "O desfecho é de alegria plena (simcha). O povo retorna para casa com o coração 'alegre' e 'bom' (ou 'exultante'). A bênção final liga a prosperidade e a alegria presente à fidelidade anterior de Davi, reconhecendo a continuidade da graça divina através das gerações.",
+      "temas": [
+        "Alegria Final",
+        "Bênção de Partida",
+        "Legado de Davi"
+      ],
+      "personagens": [
+        "Salomão",
+        "Povo",
+        "Davi",
+        "Senhor"
+      ]
     }
   }
 }

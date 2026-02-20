@@ -1,127 +1,265 @@
 {
   "livro": "Levítico",
   "capitulo": 17,
-  "contexto_historico": "Ver contexto anterior em Levítico 16. Este capítulo estabelece leis cruciais sobre o sangue e o sacrifício, enfatizando a santidade da vida e a importância do sangue como o meio de expiação. Ele proíbe o consumo de sangue e a oferta de sacrifícios fora do Tabernáculo, garantindo a pureza da adoração e a centralidade do sistema sacrificial de Deus.",
-  "bloco_tematico": "A Santidade do Sangue e a Centralidade do Sacrifício",
+  "contexto_historico": "O livro de Levítico estabelece as leis e rituais para a nação de Israel após o Êxodo do Egito e a recepção da Torá no Sinai. O foco central é a santidade de Deus e como o povo pecador pode se aproximar de um Deus santo. Os capítulos 1 a 16 cobriram os sacrifícios, a ordenação dos sacerdotes e o Dia da Expiação (Yom Kippur). O capítulo 17 marca uma transição crucial: saindo dos rituais sacerdotais formais para estabelecer as bases da vida comunitária e pessoal em santidade, movendo-se da esfera do Tabernáculo para a vida diária de Israel.",
+  "bloco_tematico": "Santidade na Mesa e no Culto: O Sangue, a Vida e a Proibição da Idolatria 🩸🥩🚫",
   "versiculos": {
     "1": {
-      "parafrase": "Então o Senhor disse a Moisés:",
-      "referencias": [],
-      "comentario": "Deus dá instruções sobre a santidade do sangue e o local correto para os sacrifícios.",
-      "temas": ["instrução divina", "santidade do sangue", "sacrifício"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "Então o Senhor convocou Moisés, instruindo-o com um chamado solene vindo da Tenda do Encontro, o lugar onde Deus se manifestava. Ele disse: 'Fale diretamente a Arão e a toda a comunidade de Israel. Estabeleça estas regras vitais para o manejo dos sacrifícios que lhes apresento.'",
+      "referencias": [
+        "Êxodo 29:38",
+        "Números 9:1"
+      ],
+      "comentario": "Este versículo inicia uma nova seção legislativa, focada na pureza e na ordem dos rituais. O termo 'Tenda do Encontro' (Ohel Mo'ed) sublinha que a comunicação divina é direta e ocorre em um local santificado. A ordem é para falar tanto a Arão (o sacerdote principal) quanto a todo o povo, indicando que as leis do sacrifício afetam a todos.",
+      "temas": [
+        "Comunicação Divina",
+        "Ordem Ritual",
+        "Vocação Sacerdotal"
+      ],
+      "personagens": [
+        "Senhor",
+        "Moisés",
+        "Arão"
+      ]
     },
     "2": {
-      "parafrase": "'Diga a Arão, a seus filhos e a todos os israelitas: ‘Esta é a ordem que o Senhor deu:'.",
-      "referencias": [],
-      "comentario": "A ordem é para toda a comunidade, enfatizando a importância dessas leis para a pureza de Israel.",
-      "temas": ["ordem divina", "pureza"],
-      "personagens": ["Arão", "filhos de Arão", "israelitas"]
+      "parafrase": "Diga a eles: 'Qualquer homem, de toda a sua linhagem em Israel, que se aproximar do altar para oferecer qualquer parte de um animal em holocausto ou em oferta de comunhão, e estiver impuro, deverá ser cortado de meu povo, pois profanou as coisas santas do Senhor.'",
+      "referencias": [
+        "Levítico 15:31",
+        "Números 19:20"
+      ],
+      "comentario": "Aqui, a ênfase recai sobre a pureza ritual necessária para se aproximar do sagrado. A impureza (seja por doença, contato com morte, ou emissões corporais) torna o indivíduo inadequado para o serviço ou participação nos ritos. A consequência ('cortado do seu povo') é severa, indicando a seriedade da santidade de Deus. O hebraico para 'cortado' (כרת - karat) implica excomunhão ou até mesmo punição divina.",
+      "temas": [
+        "Santidade",
+        "Pureza Ritual",
+        "Consequência da Profanação"
+      ],
+      "personagens": [
+        "Homem Israelita"
+      ]
     },
     "3": {
-      "parafrase": "'Qualquer homem da casa de Israel que matar um boi, ou um cordeiro, ou uma cabra no acampamento, ou que o matar fora do acampamento,",
-      "referencias": [],
-      "comentario": "A lei proíbe o abate de animais para consumo pessoal fora do Tabernáculo, para evitar práticas pagãs e garantir que todo o sangue seja derramado corretamente.",
-      "temas": ["proibição de abate fora do Tabernáculo", "pureza", "sacrifício"],
-      "personagens": []
+      "parafrase": "Se um homem estiver impuro por causa de algum contato, mas ainda assim se achegar à Tenda do Encontro, tal pessoa deverá ser eliminada da presença do Senhor, pois não obedeceu à minha palavra.'",
+      "referencias": [
+        "Levítico 22:3",
+        "Números 15:30"
+      ],
+      "comentario": "Este versículo reforça o versículo anterior, especificando que a impureza deve ser tratada *antes* de entrar no espaço sagrado da Tenda. A ofensa não é apenas o ato físico de tocar algo, mas a desobediência intencional ('não obedeceu à minha palavra') em manter o estado de pureza exigido pela presença de Deus.",
+      "temas": [
+        "Obediência",
+        "Presença de Deus",
+        "Punição Divina"
+      ],
+      "personagens": [
+        "Homem"
+      ]
     },
     "4": {
-      "parafrase": "'e não o trouxer à entrada da Tenda do Encontro para oferecê-lo como oferta ao Senhor diante do Tabernáculo do Senhor, esse homem será eliminado de seu povo. Ele derramou sangue'.",
-      "referencias": [],
-      "comentario": "A pena para a desobediência é a eliminação da comunidade, enfatizando a seriedade da violação. O derramamento de sangue fora do local designado é uma profanação.",
-      "temas": ["pena de morte", "profanação", "exclusão"],
-      "personagens": ["Deus"]
+      "parafrase": "Se alguém, seja por acidente ou de forma deliberada, tocar em algo impuro — seja a pele de um animal morto, um animal que morreu por causas naturais, ou um réptil que rasteja na terra — e mesmo assim tocar em algo santo, ele estará contaminado e será culpado.",
+      "referencias": [
+        "Levítico 11:29-30",
+        "Levítico 5:2"
+      ],
+      "comentario": "Aqui, a lei abrange diferentes fontes de impureza: animais proibidos (Levítico 11), morte acidental (neveilah) e a impureza associada a répteis rastejantes. A contaminação se propaga por toque ('tocar em algo impuro'). O ponto crucial é que a impureza se transfere para 'algo santo' (como os utensílios do santuário ou a oferta), tornando-o inutilizável e o transgressor 'culpado' (שם - ashem), devendo reparação.",
+      "temas": [
+        "Transmissão da Impureza",
+        "Profanação de Ofertas",
+        "Culpa Ritual"
+      ],
+      "personagens": []
     },
     "5": {
-      "parafrase": "'Isso é para que os israelitas tragam seus sacrifícios, que eles oferecem no campo aberto, ao Senhor, à entrada da Tenda do Encontro, ao sacerdote, e os ofereçam como sacrifícios de paz ao Senhor'.",
-      "referencias": [],
-      "comentario": "O propósito da lei é centralizar a adoração e o sacrifício no Tabernáculo, evitando a idolatria e as práticas pagãs que eram comuns no campo aberto.",
-      "temas": ["centralização da adoração", "prevenção da idolatria", "sacrifício de paz"],
-      "personagens": ["Deus", "sacerdote"]
+      "parafrase": "Ou, se uma pessoa tiver se contaminado ao tocar em algum resto de animal que servia como oferenda, mesmo que tenha sido por descuido, e tiver se contaminado sem perceber, ela ainda assim deverá confessar sua falha.",
+      "referencias": [
+        "Levítico 5:4",
+        "Números 5:7"
+      ],
+      "comentario": "A lei reconhece a possibilidade de contaminação 'sem perceber' (ignorância ou acidente). Mesmo na ausência de má-fé, o erro exige uma resposta formal: a confissão ('confessar sua falha'). Isto estabelece o princípio de que o desconhecimento da contaminação não isenta a responsabilidade de restaurar a relação com o sagrado.",
+      "temas": [
+        "Confissão",
+        "Ignorância Ritual",
+        "Restauração"
+      ],
+      "personagens": []
     },
     "6": {
-      "parafrase": "'O sacerdote aspergir o sangue sobre o altar do Senhor, à entrada da Tenda do Encontro, e queimará a gordura como aroma agradável ao Senhor'.",
-      "referencias": [],
-      "comentario": "O sangue é aspergido no altar para expiação, e a gordura é queimada como aroma agradável a Deus, simbolizando a aceitação.",
-      "temas": ["sangue da expiação", "aroma agradável", "aceitação divina"],
-      "personagens": ["sacerdote", "Deus"]
+      "parafrase": "E, havendo percebido seu erro, aquele que se contaminou deverá trazer um animal como reparação pelo pecado cometido. Para esta ofensa específica, ele deve trazer uma fêmea do rebanho, uma ovelha ou uma cabra, para que o sacerdote realize a expiação por ele.",
+      "referencias": [
+        "Levítico 5:15",
+        "Números 6:11"
+      ],
+      "comentario": "A reparação específica para este tipo de contaminação não intencional é um sacrifício de expiação pelo pecado (chatat). A escolha de uma fêmea ('ovelha ou cabra') era geralmente menos dispendiosa, adequada para quem pecou por negligência e não por desafio aberto. O sacerdote atua como mediador para obter o perdão.",
+      "temas": [
+        "Sacrifício de Expiação",
+        "Mediação Sacerdotal",
+        "Reparação"
+      ],
+      "personagens": [
+        "Sacerdote"
+      ]
     },
     "7": {
-      "parafrase": "'E eles não oferecerão mais seus sacrifícios aos demônios, com os quais se prostituíram. Este será um estatuto perpétuo para eles por todas as suas gerações'.",
-      "referencias": ["Deuteronômio 32:17"],
-      "comentario": "A lei proíbe a adoração a demônios, que era uma prática comum entre os pagãos. A oferta de sacrifícios a demônios é considerada prostituição espiritual. A proibição é um estatuto perpétuo, enfatizando a lealdade exclusiva a Deus.",
-      "temas": ["proibição de adoração a demônios", "prostituição espiritual", "lealdade exclusiva", "estatuto perpétuo"],
-      "personagens": ["Deus"]
+      "parafrase": "Se, contudo, a pessoa for muito pobre para oferecer um animal, deverá trazer como pagamento pelo seu erro duas rolas ou dois pombinhos jovens ao Senhor. Um será para sacrifício pelo pecado, e o outro, para holocausto, como o sacerdote determinar.",
+      "referencias": [
+        "Levítico 14:22",
+        "Lucas 2:24"
+      ],
+      "comentario": "Este é um ato de misericórdia divina. O sistema sacrificial não era exclusivo para os ricos. Para os pobres, a oferta era reduzida a aves (rolas ou pombinhos), que eram a forma mais barata de sacrifício. A combinação de um sacrifício pelo pecado (pelo erro) e um holocausto (dedicação renovada) era crucial para a purificação completa.",
+      "temas": [
+        "Misericórdia Divina",
+        "Acessibilidade ao Culto",
+        "Pobreza e Oferenda"
+      ],
+      "personagens": [
+        "Pessoa Pobre",
+        "Sacerdote"
+      ]
     },
     "8": {
-      "parafrase": "Então o Senhor disse a Moisés:",
-      "referencias": [],
-      "comentario": "Deus dá a próxima instrução.",
-      "temas": ["instrução divina"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "O sacerdote, então, apresentará as aves, oferecendo primeiro aquela destinada ao sacrifício pelo pecado. Ele a matará de forma brutal, apertando seu pescoço, mas sem arrancar completamente a cabeça, mantendo-a presa ao corpo, conforme a norma.",
+      "referencias": [
+        "Levítico 1:15",
+        "Ezequiel 47:18"
+      ],
+      "comentario": "A descrição do abate é específica. No caso das aves, a cabeça não era removida totalmente (diferente dos sacrifícios maiores), mas o pescoço era rompido de maneira a garantir a morte e o escoamento do sangue, mas mantendo uma ligação física. Isso enfatiza a distinção processual entre os tipos de sacrifício.",
+      "temas": [
+        "Detalhes do Ritual",
+        "Morte Simbólica",
+        "Prescrição Litúrgica"
+      ],
+      "personagens": [
+        "Sacerdote"
+      ]
     },
     "9": {
-      "parafrase": "'Diga-lhes: ‘Qualquer homem da casa de Israel, ou qualquer estrangeiro que vive entre vocês, que oferecer holocausto ou sacrifício,",
-      "referencias": [],
-      "comentario": "A lei se aplica tanto aos israelitas quanto aos estrangeiros que vivem entre eles, enfatizando a universalidade da lei de Deus.",
-      "temas": ["universalidade da lei", "holocausto", "sacrifício"],
-      "personagens": []
+      "parafrase": "Em seguida, o sacerdote molhará um dedo no sangue do sacrifício pelo pecado e tocará com ele a extremidade do peito da ave, no lado do altar, e o restante do sangue deverá ser derramado na base do altar, pois é um sacrifício destinado a remover o pecado.",
+      "referencias": [
+        "Levítico 4:33",
+        "Hebreus 9:22"
+      ],
+      "comentario": "O ato de tocar o sangue no peito da ave (ou no lado do altar, dependendo da interpretação do termo hebraico para 'lado') simboliza a aplicação da expiação diretamente no local da oferenda. O derramamento na base do altar é a purificação final do solo sagrado que foi contaminado pelo contato humano.",
+      "temas": [
+        "Aplicação do Sangue",
+        "Expiation",
+        "Purificação do Altar"
+      ],
+      "personagens": [
+        "Sacerdote"
+      ]
     },
     "10": {
-      "parafrase": "'e não o trouxer à entrada da Tenda do Encontro para oferecê-lo ao Senhor, esse homem será eliminado de seu povo'.",
-      "referencias": [],
-      "comentario": "A pena para a desobediência é a eliminação da comunidade, enfatizando a seriedade da violação e a centralidade do Tabernáculo.",
-      "temas": ["pena de morte", "exclusão", "centralidade do Tabernáculo"],
-      "personagens": ["Deus"]
+      "parafrase": "Com a ave do pecado já oferecida, o sacerdote prosseguirá com a segunda ave, o holocausto, e a preparará de acordo com as regras estabelecidas, garantindo que a expiação pelo erro e a dedicação completa sejam realizadas.",
+      "referencias": [
+        "Levítico 1:17",
+        "Romanos 12:1"
+      ],
+      "comentario": "A segunda ave serve para completar o processo. Enquanto o primeiro sacrifício lida com a culpa da transgressão ('pecado'), o segundo (holocausto) restaura a relação de dedicação total a Deus. A combinação garante tanto a remissão da culpa quanto a santificação renovada.",
+      "temas": [
+        "Dedicacao Total",
+        "Holocausto",
+        "Restauração do Relacionamento"
+      ],
+      "personagens": [
+        "Sacerdote"
+      ]
     },
     "11": {
-      "parafrase": "'Se alguém da casa de Israel, ou qualquer estrangeiro que vive entre vocês, comer qualquer tipo de sangue, eu porei minha face contra essa pessoa que comer sangue e a eliminarei de seu povo'.",
-      "referencias": ["Gênesis 9:4"],
-      "comentario": "A proibição de comer sangue é reiterada com uma pena severa. O sangue representa a vida, que pertence a Deus, e seu consumo é uma profanação. A face de Deus contra a pessoa indica Seu juízo.",
-      "temas": ["proibição de comer sangue", "santidade da vida", "profanação", "juízo divino"],
-      "personagens": ["Deus"]
+      "parafrase": "Por fim, o sacerdote fará a oferta do holocausto conforme a lei, queimando a ave inteira sobre o fogo do altar, como um aroma agradável que sobe ao Senhor, pois este é o procedimento para o sacrifício de reparação.",
+      "referencias": [
+        "Levítico 1:9",
+        "Efésios 5:2"
+      ],
+      "comentario": "O holocausto, mesmo sendo parte de uma reparação, deve ser completamente consumido pelo fogo, produzindo 'aroma agradável' (ריח ניחוח - re'ach nichoach), o sinal da aceitação divina da oferta e do pecador arrependido.",
+      "temas": [
+        "Aroma Agradável",
+        "Consumação pelo Fogo",
+        "Aceitação Divina"
+      ],
+      "personagens": [
+        "Sacerdote"
+      ]
     },
     "12": {
-      "parafrase": "'Pois a vida da carne está no sangue, e eu o dei a vocês sobre o altar para fazer expiação por suas almas. Pois é o sangue que faz expiação pela alma'.",
-      "referencias": ["Hebreus 9:22"],
-      "comentario": "A razão fundamental para a proibição do sangue é revelada: o sangue é o meio de expiação. A vida está no sangue, e o sangue é dado por Deus para cobrir o pecado. É um princípio central da redenção.",
-      "temas": ["sangue da expiação", "santidade da vida", "redenção", "princípio central"],
-      "personagens": ["Deus"]
+      "parafrase": "Contudo, se a pessoa tiver condições de oferecer um cordeiro, ela o levará ao sacerdote como sacrifício pelo pecado, e o sacerdote deverá apresentá-lo da maneira correta, cumprindo todas as etapas do rito.",
+      "referencias": [
+        "Levítico 4:23",
+        "Salmos 118:27"
+      ],
+      "comentario": "O texto retorna à opção padrão para quem pode pagar mais: um cordeiro (macho, geralmente). O sacerdote deve seguir o protocolo exato (o 'maneira correta') para o sacrifício pelo pecado, adaptando o ritual ao tipo de animal trazido.",
+      "temas": [
+        "Regras de Oferta",
+        "Sacrifício Padrão",
+        "Precisão Ritual"
+      ],
+      "personagens": [
+        "Pessoa",
+        "Sacerdote"
+      ]
     },
     "13": {
-      "parafrase": "'Portanto, eu disse aos israelitas: ‘Nenhum de vocês comerá sangue, nem o estrangeiro que vive entre vocês comerá sangue’.",
-      "referencias": [],
-      "comentario": "A proibição é reiterada para todos, enfatizando sua importância.",
-      "temas": ["proibição"],
-      "personagens": ["Deus"]
+      "parafrase": "O sacerdote, então, fará a expiação pelo erro da pessoa com aquele cordeiro, e ela será perdoada de sua ofensa, pois trouxe uma oferta específica para o pecado perante o Senhor.",
+      "referencias": [
+        "Hebreus 10:4",
+        "Tiago 5:15"
+      ],
+      "comentario": "A posse do sacrifício apropriado (cordeiro, se possível) e sua oferta completa resultam na remissão do pecado ('será perdoada'). A eficácia do rito está ligada à obediência na apresentação da oferta exigida pela sua condição econômica.",
+      "temas": [
+        "Remissão do Pecado",
+        "Eficácia do Ritual",
+        "Perdão"
+      ],
+      "personagens": [
+        "Sacerdote"
+      ]
     },
     "14": {
-      "parafrase": "'Qualquer homem dos israelitas, ou qualquer estrangeiro que vive entre vocês, que caçar um animal ou uma ave que possa ser comida, ele derramará o sangue e o cobrirá com terra'.",
-      "referencias": [],
-      "comentario": "A lei exige que o sangue de animais caçados seja derramado e coberto com terra, para reconhecer que a vida pertence a Deus e para evitar o consumo de sangue.",
-      "temas": ["derramamento de sangue", "respeito pela vida", "pureza"],
-      "personagens": []
+      "parafrase": "O Senhor falou a Moisés dizendo: 'Quando alguém tiver inadvertidamente tocado em algo consagrado ao Senhor, tornando-o impuro, e tiver cometido um erro, deverá trazer um carneiro, sem defeito, do rebanho, como uma oferenda de reparação específica.'",
+      "referencias": [
+        "Levítico 22:15",
+        "Números 31:50"
+      ],
+      "comentario": "Este ponto trata de uma categoria específica de contaminação: tocar algo que já foi separado para Deus (consagrado/dedicado, hebraico: qodesh), mas não necessariamente um animal de sacrifício. A punição exige um 'carneiro, sem defeito' como reparação (asham), enfatizando a seriedade de profanar o que já pertence a Deus.",
+      "temas": [
+        "Profanação do Consagrado",
+        "Reparação Específica",
+        "Perfeição do Animal"
+      ],
+      "personagens": [
+        "Senhor",
+        "Moisés"
+      ]
     },
     "15": {
-      "parafrase": "'Pois a vida de toda carne é o seu sangue. Por isso eu disse aos israelitas: ‘Não comerão o sangue de nenhuma carne, pois a vida de toda carne é o seu sangue. Quem o comer será eliminado’.",
-      "referencias": [],
-      "comentario": "A razão da proibição é reiterada: a vida está no sangue. O consumo de sangue é uma profanação da vida e resulta em eliminação da comunidade.",
-      "temas": ["proibição de comer sangue", "santidade da vida", "profanação", "exclusão"],
-      "personagens": ["Deus"]
+      "parafrase": "O sacerdote deve então calcular o valor daquele objeto santo profanado, acrescentando um quinto (vinte por cento) sobre o valor de avaliação, e então oferecerá o carneiro em sacrifício para cobrir o dano causado ao sagrado.",
+      "referencias": [
+        "Levítico 27:13",
+        "Esdras 8:25"
+      ],
+      "comentario": "Este é o mandamento da Oferenda de Reparação (Asham). O transgressor não apenas deve repor o objeto ou seu valor, mas deve pagar uma penalidade adicional de 20% (um quinto) sobre o valor calculado por um sacerdote. Este valor extra compensa a 'sanção' sofrida pelo santuário devido à profanação.",
+      "temas": [
+        "Penalidade Financeira",
+        "Avaliação Sacerdotal",
+        "Compensação de Dano"
+      ],
+      "personagens": [
+        "Sacerdote"
+      ]
     },
     "16": {
-      "parafrase": "'E toda pessoa que comer o que morreu por si mesmo ou o que foi despedaçado por feras, seja nativo ou estrangeiro, lavará suas roupas e se lavará com água, e será impura até a tarde; então será pura'.",
-      "referencias": [],
-      "comentario": "Comer carne de animais que morreram naturalmente ou foram despedaçados causa impureza, exigindo purificação. Isso enfatiza a importância do abate ritual e da pureza.",
-      "temas": ["impureza por contato", "purificação", "abate ritual"],
-      "personagens": []
-    },
-    "17": {
-      "parafrase": "'Mas, se ele não as lavar nem lavar seu corpo, ele levará sua iniquidade'.",
-      "referencias": [],
-      "comentario": "A falha em se purificar resulta em culpa e iniquidade, mostrando a seriedade da obediência às leis de pureza.",
-      "temas": ["desobediência", "culpa", "iniquidade"],
-      "personagens": []
+      "parafrase": "Se alguém tocar em qualquer coisa sagrada por ignorância, e depois for descoberto o erro, terá que pagar o preço calculado, mais o acréscimo de um quinto, e o sacerdote fará a expiação por ele com o carneiro, garantindo assim que a dívida para com o santuário seja completamente quitada.",
+      "referencias": [
+        "Números 5:8",
+        "Salmos 51:4"
+      ],
+      "comentario": "O versículo finaliza o protocolo da Oferenda de Reparação por profanação acidental de algo sagrado. O pagamento da multa (valor + 20%) e o sacrifício do carneiro garantem a 'cobertura' (expiação) da dívida. O rito de expiação sacerdotal é o selo final para que o indivíduo seja purificado da obrigação e da culpa perante Deus.",
+      "temas": [
+        "Quitação de Dívidas",
+        "Expição Final",
+        "Restabelecimento da Comunhão"
+      ],
+      "personagens": [
+        "Sacerdote"
+      ]
     }
   }
 }

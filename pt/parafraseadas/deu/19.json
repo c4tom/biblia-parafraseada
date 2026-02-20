@@ -1,154 +1,322 @@
 {
   "livro": "Deuteronômio",
   "capitulo": 19,
-  "contexto_historico": "Moisés continua a instruir o povo de Israel sobre as leis que regeriam a vida na Terra Prometida. Este capítulo detalha as leis para as cidades de refúgio, que protegiam aqueles que cometessem homicídio involuntário, e as leis sobre o falso testemunho, enfatizando a importância da justiça e da proteção do inocente.",
-  "bloco_tematico": "Cidades de Refúgio e Falso Testemunho",
+  "contexto_historico": "O livro de Deuteronômio representa o segundo discurso de despedida de Moisés ao povo de Israel, logo antes de entrarem na Terra Prometida, após 40 anos no deserto. Este capítulo, especificamente, foca nas leis relativas à vida social e econômica em Canaã, preparando a nova geração para viverem de forma justa e piedosa na terra que herdarão. É um período de transição crucial, onde a obediência às leis de Deus é a chave para a permanência e prosperidade na nova nação 🇮🇱. A comunidade está prestes a consolidar-se, e a ordem social deve refletir o caráter de Deus.",
+  "bloco_tematico": "Direitos Humanos e Justiça Social: Leis de Misericórdia e Equidade na Nova Terra ⚖️💖",
   "versiculos": {
     "1": {
-      "parafrase": "Quando o Senhor, o seu Deus, expulsar as nações cuja terra ele lhes dá, e vocês as possuírem e habitarem nas suas cidades e nas suas casas,",
-      "referencias": [],
-      "comentario": "Moisés estabelece o contexto para as leis das cidades de refúgio: a posse da Terra Prometida e a expulsão das nações cananeias.",
-      "temas": ["posse da terra", "expulsão de nações", "contexto legal"],
-      "personagens": ["Moisés"]
+      "parafrase": "Quando o Senhor, seu Deus, lhes conceder a terra prometida, aquela que Ele jurou dar aos seus antepassados Abraão, Isaque e Jacó, e vocês a tomarem posse, estabelecendo-se nela, estabeleçam imediatamente três cidades específicas para serem refúgios sagrados.",
+      "referencias": [
+        "Gênesis 12:7",
+        "Deuteronômio 6:10"
+      ],
+      "comentario": "Este versículo estabelece a condição legal e territorial para a instituição das cidades de refúgio. O termo hebraico para 'terra' é 'erets', indicando posse estabelecida. A ordem é imediata ('quando...') após a conquista, mostrando a urgência da proteção legal.",
+      "temas": [
+        "Possessão da Terra",
+        "Estabelecimento da Lei",
+        "Provisão Divina"
+      ],
+      "personagens": [
+        "O Senhor Deus",
+        "Abraão",
+        "Isaque",
+        "Jacó"
+      ]
     },
     "2": {
-      "parafrase": "vocês separarão três cidades para vocês no meio da sua terra, que o Senhor, o seu Deus, lhes dá para possuírem.",
-      "referencias": ["Números 35:9-15"],
-      "comentario": "Três cidades de refúgio seriam designadas a oeste do Jordão, além das três já estabelecidas a leste, totalizando seis cidades.",
-      "temas": ["cidades de refúgio", "designação", "proteção"],
-      "personagens": ["Israel"]
+      "parafrase": "Vocês devem separar três cidades dentro da terra que o Senhor, seu Deus, está dando a vocês para que sirvam de abrigo seguro. Preparem os caminhos de acesso a esses lugares santos, facilitando a jornada de qualquer um que precise fugir em desespero.",
+      "referencias": [
+        "Números 35:11"
+      ],
+      "comentario": "A preparação dos caminhos ('mesukah') era crucial. Isso indica que a misericórdia não era apenas um conceito, mas uma infraestrutura prática. A facilidade de acesso era fundamental para garantir que o fugitivo chegasse antes da vingança precipitada ('hot-blooded avenger').",
+      "temas": [
+        "Misericórdia Prática",
+        "Infraestrutura Legal",
+        "Proteção ao Inocente"
+      ],
+      "personagens": [
+        "O Senhor Deus"
+      ]
     },
     "3": {
-      "parafrase": "Vocês prepararão o caminho para elas e dividirão em três partes o território da sua terra que o Senhor, o seu Deus, lhes dará como herança, para que todo homicida possa fugir para lá.",
-      "referencias": [],
-      "comentario": "A acessibilidade às cidades de refúgio era crucial. Os caminhos deveriam ser mantidos e a terra dividida para facilitar a fuga do homicida involuntário.",
-      "temas": ["acessibilidade", "fuga", "homicídio involuntário"],
-      "personagens": ["Israel"]
+      "parafrase": "Dividam a extensão da terra que lhes será dada em três partes iguais, de modo que, a qualquer ponto onde um acidente fatal possa ocorrer, a jornada até a cidade de refúgio mais próxima não seja longa demais, e a segurança seja alcançável rapidamente.",
+      "referencias": [
+        "Josué 20:7"
+      ],
+      "comentario": "A clareza na distribuição geográfica ('sheleeshayim' – terços) demonstra a intenção de justiça equitativa. A distância razoável é o cerne da provisão, protegendo contra a 'ira imediata' antes que a verdade possa ser estabelecida.",
+      "temas": [
+        "Justiça Equitativa",
+        "Distância Segura",
+        "Prevenção da Vingança"
+      ],
+      "personagens": []
     },
     "4": {
-      "parafrase": "Esta é a lei para o homicida que fugir para lá e viver: aquele que matar o seu próximo sem intenção, sem o odiar antes,",
-      "referencias": [],
-      "comentario": "A lei distingue claramente entre homicídio involuntário (acidental) e premeditado, sendo as cidades de refúgio destinadas apenas ao primeiro caso.",
-      "temas": ["homicídio involuntário", "distinção legal", "proteção"],
-      "personagens": []
+      "parafrase": "Se alguém, por um descuido, matar seu próximo sem intenção maligna – por exemplo, se estiver cortando lenha com o machado e o cabo se soltar, fazendo com que a lâmina voe e atinja fatalmente o vizinho –, este terá o direito de correr para uma dessas cidades e salvar a própria vida.",
+      "referencias": [
+        "Êxodo 21:13",
+        "Números 35:22"
+      ],
+      "comentario": "Este é o exemplo clássico do assassinato não premeditado (homicídio culposo). O hebraico para 'inimizade' ou 'ódio' ('me-qamrim') está ausente. A ação é 'ni-pga' (ferir/atingir), mas não com intenção deliberada de causar mal.",
+      "temas": [
+        "Homicídio Culposo",
+        "Intenção versus Acidente",
+        "Salvaguarda da Vida"
+      ],
+      "personagens": [
+        "O Acusado",
+        "A Vítima"
+      ]
     },
     "5": {
-      "parafrase": "como quando um homem vai com o seu próximo ao bosque para cortar lenha, e a sua mão, ao levantar o machado para cortar a árvore, escapa, e o ferro salta do cabo e atinge o seu próximo, e ele morre; esse poderá fugir para uma dessas cidades e viver.",
-      "referencias": [],
-      "comentario": "Um exemplo prático de homicídio involuntário é dado para ilustrar a aplicação da lei.",
-      "temas": ["exemplo prático", "aplicação da lei"],
-      "personagens": []
+      "parafrase": "Considere o caso de dois homens que foram juntos à floresta cortar madeira. Enquanto um balança o machado com força contra uma árvore, se a cabeça de ferro do instrumento se desprender da haste e, por mero acaso, atingir e matar o companheiro, o culpado deve fugir imediatamente para uma dessas cidades para escapar do parente vingador.",
+      "referencias": [
+        "Juízes 9:53"
+      ],
+      "comentario": "Este versículo reforça o cenário do versículo anterior, sublinhando a ausência de ódio prévio ('lo hayah eoiv' – não era seu inimigo). O ato é 'hittah' (um golpe que atinge), puro infortúnio mecânico.",
+      "temas": [
+        "Acidente Mecânico",
+        "Ausência de Inimizade",
+        "Fuga Imediata"
+      ],
+      "personagens": [
+        "Dois Homens"
+      ]
     },
     "6": {
-      "parafrase": "Para que o vingador de sangue não o persiga enquanto o seu coração estiver quente, e o alcance, e o mate, visto que ele não é digno de morte, pois não o odiava antes.",
-      "referencias": [],
-      "comentario": "As cidades de refúgio protegiam o homicida involuntário da vingança imediata do vingador de sangue, garantindo um julgamento justo.",
-      "temas": ["proteção", "vingador de sangue", "julgamento justo"],
-      "personagens": []
+      "parafrase": "Pois, se ele não fugir correndo para a cidade de refúgio, o parente mais próximo da vítima, aquele que tem o dever de vingar o sangue, poderá encontrá-lo no caminho e matá-lo, e não haverá culpa de assassinato sobre ele, porque o parente agiu por justiça imediata contra quem não tinha a intenção de matar, mas cuja mão provocou a morte.",
+      "referencias": [
+        "Números 35:27",
+        "Levítico 24:19"
+      ],
+      "comentario": "Aqui se define a pena para a não-fuga: a morte pelas mãos do 'go'el hadam' (vingador do sangue). A lei diferencia a intenção; a pena de morte só se aplica se o fugitivo for pego fora do refúgio, pois sua fuga o inocenta preliminarmente.",
+      "temas": [
+        "Vingança de Sangue",
+        "Ato de Justiça Precipitada",
+        "Responsabilidade do Fugitivo"
+      ],
+      "personagens": [
+        "O Parente Vingador (Go'el hadam)"
+      ]
     },
     "7": {
-      "parafrase": "Por isso, eu lhes ordeno que separem três cidades para vocês.",
-      "referencias": [],
-      "comentario": "A ordem de separar as cidades de refúgio é reiterada, enfatizando sua importância para a justiça na terra.",
-      "temas": ["reiteração da ordem", "importância da justiça"],
-      "personagens": ["Moisés"]
+      "parafrase": "É por isso que ordeno: separem estas três cidades com cuidado, garantindo que sejam fáceis de alcançar para qualquer um que, sem querer, tire a vida de alguém.",
+      "referencias": [
+        "Josué 20:2"
+      ],
+      "comentario": "Reiteração da ordem divina ('zekhor' – lembra-te e faz). A lei de refúgio é um ato de misericórdia instituído pela autoridade divina, não uma invenção humana.",
+      "temas": [
+        "Mandamento Divino",
+        "Organização Legal"
+      ],
+      "personagens": [
+        "O Senhor"
+      ]
     },
     "8": {
-      "parafrase": "E se o Senhor, o seu Deus, alargar as suas fronteiras, como ele jurou a seus antepassados, e lhes der toda a terra que prometeu dar a seus antepassados,",
-      "referencias": [],
-      "comentario": "Moisés prevê a expansão futura das fronteiras de Israel, o que exigiria a designação de mais cidades de refúgio.",
-      "temas": ["expansão de fronteiras", "promessa divina", "futuro"],
-      "personagens": ["Deus"]
+      "parafrase": "Agora, se Deus estender o território de Israel como prometeu aos seus antepassados, e lhes der toda a terra que ele se comprometeu a entregar, e vocês obedecerem a todos esses mandamentos, e se houverem reservado seis cidades de refúgio (o dobro das três primeiras),",
+      "referencias": [
+        "Gênesis 15:18",
+        "Josué 13:7"
+      ],
+      "comentario": "Este versículo lida com uma expansão territorial futura. O aumento de cidades de três para seis é condicional à fidelidade de Israel e à concretização da promessa de terra ('ge'ulim').",
+      "temas": [
+        "Expansão Territorial",
+        "Condicionalidade da Bênção",
+        "Fidelidade"
+      ],
+      "personagens": [
+        "Deus",
+        "Antepassados"
+      ]
     },
     "9": {
-      "parafrase": "se vocês guardarem todos estes mandamentos que hoje lhes ordeno, para os cumprirem, amando o Senhor, o seu Deus, e andando sempre nos seus caminhos, então vocês acrescentarão mais três cidades a estas três,",
-      "referencias": [],
-      "comentario": "A obediência à Lei é a condição para a expansão territorial e a necessidade de mais cidades de refúgio.",
-      "temas": ["obediência", "expansão territorial", "cidades de refúgio"],
-      "personagens": ["Moisés"]
+      "parafrase": "Se vocês mantiverem toda a Lei que estou prescrevendo hoje, amando o Senhor seu Deus e andando sempre nos Seus caminhos, então essas outras três cidades adicionais devem ser separadas para proteger qualquer israelita ou estrangeiro que resida entre vocês, caso causem a morte não intencional de alguém.",
+      "referencias": [
+        "Deuteronômio 11:22",
+        "Levítico 24:22"
+      ],
+      "comentario": "A expansão da proteção legal se estende a 'ger' (o estrangeiro residente). Isso mostra que a misericórdia sob a Lei mosaica não era exclusiva para o nascimento, mas para a residência legal sob o pacto.",
+      "temas": [
+        "Inclusão do Estrangeiro",
+        "Amor a Deus",
+        "Obediência à Lei"
+      ],
+      "personagens": [
+        "O Senhor"
+      ]
     },
     "10": {
-      "parafrase": "para que não se derrame sangue inocente no meio da sua terra, que o Senhor, o seu Deus, lhes dá como herança, e para que não haja culpa de sangue sobre vocês.",
-      "referencias": [],
-      "comentario": "O propósito das cidades de refúgio é evitar o derramamento de sangue inocente e a culpa de sangue sobre a terra, mantendo a pureza e a santidade da nação.",
-      "temas": ["derramamento de sangue inocente", "culpa de sangue", "pureza", "santidade"],
-      "personagens": ["Deus"]
+      "parafrase": "Isso deve ser feito para que nenhum derramamento de sangue inocente caia sobre vocês, pois matar alguém sem intenção não merece a morte, e vocês não carregarão a culpa de um assassinato não merecido.",
+      "referencias": [
+        "Números 35:33"
+      ],
+      "comentario": "A razão teológica é clara: evitar a contaminação da terra ('dam neqi' – sangue inocente). A terra ficaria impura se o assassino não intencional fosse morto sem devido processo legal no refúgio.",
+      "temas": [
+        "Pureza da Terra",
+        "Evitar Culpa de Sangue",
+        "Justiça Diferenciada"
+      ],
+      "personagens": []
     },
     "11": {
-      "parafrase": "Mas, se houver um homem que odeia o seu próximo, e o espreita, e se levanta contra ele, e o fere de morte, e ele morre, e ele foge para uma dessas cidades,",
-      "referencias": [],
-      "comentario": "A lei agora trata do homicídio premeditado, onde havia ódio e intenção de matar. Para esses casos, as cidades de refúgio não ofereciam proteção.",
-      "temas": ["homicídio premeditado", "ódio", "intenção de matar", "sem proteção"],
-      "personagens": []
+      "parafrase": "Mas atenção! Se alguém, por puro ódio ou por causa de uma inimizade antiga, preparar uma emboscada, assassinar seu vizinho, e então correr para uma dessas cidades buscando proteção,",
+      "referencias": [
+        "Êxodo 21:14"
+      ],
+      "comentario": "Aqui está a distinção crucial entre o homicídio culposo (anterior) e o assassinato premeditado ('me-qamim'). O motivo do coração ('lev') anula o direito ao refúgio.",
+      "temas": [
+        "Premeditação",
+        "Ódio Premeditado",
+        "Anulação do Refúgio"
+      ],
+      "personagens": [
+        "O Assassino"
+      ]
     },
     "12": {
-      "parafrase": "então os anciãos da sua cidade o enviarão e o tirarão dali, e o entregarão nas mãos do vingador de sangue, para que ele morra.",
-      "referencias": [],
-      "comentario": "O assassino premeditado deveria ser entregue ao vingador de sangue para ser executado, garantindo a justiça e a retribuição.",
-      "temas": ["execução", "vingador de sangue", "justiça", "retribuição"],
-      "personagens": []
+      "parafrase": "os anciãos da sua cidade devem, então, mandar buscá-lo de lá, tirando-o da segurança da cidade de refúgio, e entregá-lo imediatamente ao parente vingador para que ele receba o castigo merecido pela sua maldade.",
+      "referencias": [
+        "Números 35:24"
+      ],
+      "comentario": "O processo de extradição. Os anciãos ('zekenim') têm a autoridade para julgar a intenção. Se a premeditação for provada, a santidade do refúgio é suspensa, e a justiça do vingador é restaurada.",
+      "temas": [
+        "Jurisdição dos Anciãos",
+        "Extradição Legal",
+        "Sentença de Morte"
+      ],
+      "personagens": [
+        "Anciãos"
+      ]
     },
     "13": {
-      "parafrase": "Não tenha piedade dele. Assim, vocês eliminarão o derramamento de sangue inocente de Israel, e tudo lhes irá bem.",
-      "referencias": [],
-      "comentario": "A ausência de piedade para com o assassino premeditado é um ato de justiça que purifica a terra do derramamento de sangue inocente e traz bênçãos sobre a nação.",
-      "temas": ["ausência de piedade", "justiça", "purificação da terra", "bênçãos"],
-      "personagens": ["Moisés"]
+      "parafrase": "Vocês não devem ter pena dele, nem poupá-lo de forma alguma. Vocês têm a obrigação de remover o sangue inocente de Israel, para que tudo corra bem com vocês.",
+      "referencias": [
+        "Deuteronômio 13:8"
+      ],
+      "comentario": "Este é um mandamento severo contra a parcialidade. A compaixão pelo assassino premeditado seria, na verdade, um pecado contra a justiça e contra a comunidade ('dam' – sangue).",
+      "temas": [
+        "Severidade da Lei",
+        "Remoção do Mal",
+        "Justiça Comunitária"
+      ],
+      "personagens": []
     },
     "14": {
-      "parafrase": "Não mudem os marcos do seu próximo, que os seus antepassados estabeleceram na sua herança, na terra que o Senhor, o seu Deus, lhes dá para possuírem.",
-      "referencias": ["Provérbios 22:28"],
-      "comentario": "A proibição de mover os marcos de propriedade visava proteger os direitos de herança e a ordem social. A terra era um dom de Deus, e suas divisões deveriam ser respeitadas.",
-      "temas": ["proibição de mover marcos", "direitos de herança", "ordem social"],
-      "personagens": ["Moisés"]
+      "parafrase": "Não mudem os marcos de fronteira dos limites da terra dos seus vizinhos, aqueles limites que foram estabelecidos na divisão original da herança no tempo em que as tribos receberam suas porções.",
+      "referencias": [
+        "Provérbios 22:28",
+        "Deuteronômio 27:17"
+      ],
+      "comentario": "A transição para a lei de fronteiras. Mudar marcos ('gevul') era considerado um ato de roubo grave, pois desestabilizava a posse da terra dada por Deus.",
+      "temas": [
+        "Direito de Propriedade",
+        "Integridade Territorial",
+        "Ordem Estabelecida"
+      ],
+      "personagens": []
     },
     "15": {
-      "parafrase": "Uma só testemunha não será suficiente para condenar alguém por qualquer iniquidade ou por qualquer pecado que ele tenha cometido. Com base no testemunho de duas ou três testemunhas, a questão será estabelecida.",
-      "referencias": ["Números 35:30"],
-      "comentario": "A lei exige o testemunho de múltiplas testemunhas para condenar alguém, protegendo contra falsas acusações e garantindo a justiça.",
-      "temas": ["testemunho", "justiça", "proteção contra falsas acusações"],
-      "personagens": []
+      "parafrase": "Um único testemunho, de uma só pessoa, não é suficiente para acusar alguém de um crime grave que possa levar à morte ou a qualquer condenação séria. Um veredito só pode ser formado com base em duas ou três testemunhas confiáveis.",
+      "referencias": [
+        "Números 35:30",
+        "Mateus 18:16"
+      ],
+      "comentario": "Este é o princípio do testemunho duplo ou triplo ('pi shnayim o shi-losha'). É uma salvaguarda contra falsas acusações, garantindo que a morte seja decretada apenas após um escrutínio rigoroso.",
+      "temas": [
+        "Princípio do Testemunho",
+        "Devido Processo Legal",
+        "Evitar Falsa Acusação"
+      ],
+      "personagens": [
+        "Testemunhas"
+      ]
     },
     "16": {
-      "parafrase": "Se uma testemunha falsa se levantar contra alguém para acusá-lo de transgressão,",
-      "referencias": [],
-      "comentario": "A lei agora trata do caso de falso testemunho, que era uma grave ofensa contra a justiça e a verdade.",
-      "temas": ["falso testemunho", "grave ofensa", "justiça"],
-      "personagens": []
+      "parafrase": "Se uma testemunha se levantar para acusar alguém de ter cometido um ato de traição ou rebelião contra Deus, mas essa acusação não for confirmada pela segunda testemunha,",
+      "referencias": [
+        "Deuteronômio 17:6"
+      ],
+      "comentario": "A ênfase é colocada em crimes contra a comunidade ou contra Deus ('hedel' – rebelião/apostasia), que exigem o padrão mais alto de prova.",
+      "temas": [
+        "Crimes Capitais",
+        "Dúvida Razoável",
+        "Padrão de Prova"
+      ],
+      "personagens": [
+        "A Testemunha Falsa"
+      ]
     },
     "17": {
-      "parafrase": "então os dois homens que têm a contenda se apresentarão diante do Senhor, diante dos sacerdotes e dos juízes que estiverem em ofício naqueles dias.",
-      "referencias": [],
-      "comentario": "O caso de falso testemunho seria levado ao tribunal superior, onde os sacerdotes e juízes julgariam a questão na presença de Deus.",
-      "temas": ["tribunal superior", "sacerdotes", "juízes", "presença de Deus"],
-      "personagens": []
+      "parafrase": "então ambas as partes envolvidas na disputa devem se apresentar perante os sacerdotes e os juízes que estiverem em exercício naquela ocasião para que o caso seja definitivamente julgado.",
+      "referencias": [
+        "Levítico 17:10"
+      ],
+      "comentario": "O caso é levado ao tribunal superior (sacerdotes e juízes). Este é o recurso final para resolver disputas complexas onde a primeira avaliação falhou em chegar a um consenso baseado em evidências.",
+      "temas": [
+        "Julgamento Final",
+        "Autoridade Judiciária"
+      ],
+      "personagens": [
+        "Sacerdotes",
+        "Juízes"
+      ]
     },
     "18": {
-      "parafrase": "Os juízes investigarão diligentemente. Se for comprovado que a testemunha é falsa e deu falso testemunho contra o seu irmão,",
-      "referencias": [],
-      "comentario": "A investigação diligente é crucial para descobrir a verdade e expor o falso testemunho.",
-      "temas": ["investigação diligente", "verdade", "falso testemunho"],
-      "personagens": []
+      "parafrase": "Os juízes deverão investigar minuciosamente o assunto, com todo o cuidado e rigor necessários, para descobrir a verdade da situação.",
+      "referencias": [
+        "Salmos 82:3"
+      ],
+      "comentario": "O mandamento é 'v’heqer heqer' – pesquisar com pesquisa. Isso exige uma investigação forense, não apenas aceitar alegações superficiais. O zelo pela verdade é primordial.",
+      "temas": [
+        "Investigação Rigorosa",
+        "Busca pela Verdade"
+      ],
+      "personagens": [
+        "Juízes"
+      ]
     },
     "19": {
-      "parafrase": "então vocês farão a ele o que ele planejou fazer ao seu irmão. Assim, vocês eliminarão o mal do meio de vocês.",
-      "referencias": [],
-      "comentario": "A lei do talião (olho por olho, dente por dente) é aplicada ao falso testemunho, garantindo que a punição corresponda ao crime e que a justiça seja feita.",
-      "temas": ["lei do talião", "punição proporcional", "justiça"],
-      "personagens": []
+      "parafrase": "Se for comprovado que a testemunha era falsa e mentiu sobre o seu irmão, você deve aplicar a ela a mesma punição que ela pretendia infligir ao seu irmão acusado.",
+      "referencias": [
+        "Levítico 24:19-20"
+      ],
+      "comentario": "A aplicação da 'lex talionis' (lei de talião) neste contexto: 'olho por olho'. É uma punição retributiva que visa dissuadir o falso testemunho, visto como uma agressão grave à justiça.",
+      "temas": [
+        "Punição do Falso Testemunho",
+        "Lex Talionis",
+        "Dissuasão Criminal"
+      ],
+      "personagens": [
+        "A Testemunha Falsa"
+      ]
     },
     "20": {
-      "parafrase": "Os outros ouvirão e temerão, e nunca mais farão uma coisa tão má como esta no meio de vocês.",
-      "referencias": [],
-      "comentario": "A punição severa serve como um aviso para toda a comunidade, para que o temor a Deus e o respeito à verdade prevaleçam.",
-      "temas": ["aviso", "temor a Deus", "respeito à verdade"],
-      "personagens": ["Israel"]
+      "parafrase": "Assim, os demais israelitas ouvirão sobre isso, temerão, e não se atreverão a cometer o mesmo ato de maldade no meio de vocês, agindo com falsidade.",
+      "referencias": [
+        "Deuteronômio 13:11"
+      ],
+      "comentario": "O propósito da punição severa: o medo ('yira') como ferramenta de preservação moral da comunidade. A execução pública do castigo serve como um aviso poderoso para todos.",
+      "temas": [
+        "Temor Reverente",
+        "Consequências Públicas",
+        "Preservação Moral"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "21": {
-      "parafrase": "Não tenha piedade: vida por vida, olho por olho, dente por dente, mão por mão, pé por pé.",
-      "referencias": ["Êxodo 21:23-25", "Levítico 24:19-20"],
-      "comentario": "A lei do talião é reafirmada como um princípio de justiça retributiva, garantindo que a punição seja proporcional ao dano causado.",
-      "temas": ["lei do talião", "justiça retributiva", "punição proporcional"],
+      "parafrase": "Seus olhos não devem mostrar pena! Exija vida por vida, olho por olho, dente por dente, mão por mão, pé por pé. O agressor deve receber exatamente o castigo que planejou para a vítima, sem qualquer misericórdia ou hesitação humana.",
+      "referencias": [
+        "Êxodo 21:23-25"
+      ],
+      "comentario": "Este versículo finaliza a seção sobre falsos testemunhos, mas ecoa o princípio da retribuição estrita ('nekesh'). No contexto de falso testemunho capital, isso significa a morte do mentiroso. É a lei da equivalência exata aplicada ao ato de perjúrio capital.",
+      "temas": [
+        "Retribuição Exata",
+        "Justiça Implacável (contra o falso acusador)",
+        "Integridade Judicial"
+      ],
       "personagens": []
     }
   }

@@ -1,309 +1,713 @@
 {
   "livro": "Atos",
   "capitulo": 9,
-  "contexto_historico": "A perseguição liderada por Saulo continua a se intensificar. No entanto, este capítulo marca a virada mais dramática da história da igreja primitiva: a conversão de seu maior perseguidor em seu maior missionário. O evangelho continua a se espalhar, chegando agora aos gentios de forma mais direta através de Pedro.",
-  "bloco_tematico": "A Conversão de Saulo e o Ministério de Pedro",
+  "contexto_historico": "O capítulo 9 de Atos narra a dramática e fundamental conversão de Saulo de Tarso (futuro Paulo), um fervoroso perseguidor dos seguidores de Jesus, no caminho para Damasco. Este evento marca uma virada crucial na história do cristianismo, pois transforma o maior opositor em seu mais influente apóstolo. O contexto é de perseguição ativa (Saulo tinha cartas autorizando a prisão de cristãos em Damasco) e de uma intervenção divina direta (a visão de Jesus ressuscitado, a cegueira temporária e o encontro com Ananias). Após a cura e o batismo, Saulo prega imediatamente em Damasco, chocando a todos e iniciando sua missão entre os gentios. ✝️ Saul, o perseguidor, 💡 é transformado por Cristo, 👁️ fica cego, 🙏 é curado por Ananias e 🌍 torna-se o grande apóstolo.",
+  "bloco_tematico": "A Conversão Iluminadora e o Chamado Inadiável de Saulo de Tarso ⚡",
   "versiculos": {
     "1": {
-      "parafrase": "Enquanto isso, Saulo, respirando ainda ameaças e morte contra os discípulos do Senhor, dirigiu-se ao sumo sacerdote",
-      "referencias": ["Atos 8:3", "Gálatas 1:13"],
-      "comentario": "A fúria de Saulo não diminuiu. A expressão 'respirando ameaças e morte' descreve uma obsessão consumidora. Ele não está satisfeito em perseguir os crentes apenas em Jerusalém.",
-      "temas": ["perseguição", "ódio", "zelo religioso cego"],
-      "personagens": ["Saulo", "Discípulos do Senhor", "Sumo Sacerdote"]
+      "parafrase": "Saulo, ainda ardendo em fúria e com a respiração pesada de quem planeja destruição, continuava a ameaçar e a proferir sentenças de morte contra os seguidores do Senhor, os chamados 'Caminho'. Ele se dirigiu ao sumo sacerdote para obter documentos oficiais, como salvo-conduto, que lhe dariam autoridade para entrar nas sinagogas de Damasco e arrastar para Jerusalém, acorrentados, tanto homens quanto mulheres que seguiam essa nova fé, garantindo sua prisão e julgamento.",
+      "referencias": [
+        "Atos 22:5",
+        "Gálatas 1:13"
+      ],
+      "comentario": "O verbo grego para 'ameaçava' é *enepneōn* (ἐνεπνέων), significando 'soprar contra', indicando um ódio ativo e cheio de fervor destrutivo. O termo 'Caminho' (*Hódos*) era a autodenominação inicial dos cristãos, mostrando que eles se viam como a continuação prática da Torá e dos ensinos de Jesus, um modo de viver aceito por Deus.",
+      "temas": [
+        "Perseguição",
+        "Autoridade Religiosa",
+        "Fervor Fanático"
+      ],
+      "personagens": [
+        "Saulo",
+        "Sumo Sacerdote"
+      ]
     },
     "2": {
-      "parafrase": "e pediu-lhe cartas para as sinagogas de Damasco, a fim de que, caso encontrasse alguns que eram do Caminho, tanto homens como mulheres, os pudesse levar presos para Jerusalém.",
-      "referencias": ["Atos 22:5"],
-      "comentario": "Saulo busca autorização oficial para expandir sua perseguição para fora da Judeia. 'O Caminho' era uma das primeiras designações para o cristianismo, enfatizando que é um modo de vida baseado nos ensinos de Jesus.",
-      "temas": ["perseguição", "expansão da perseguição", "O Caminho"],
-      "personagens": ["Saulo"]
+      "parafrase": "Ao chegar perto de Damasco, de repente, um clarão vindo do céu, mais brilhante que o sol do meio-dia, envolveu Saulo completamente, derrubando-o no chão poeirento.",
+      "referencias": [
+        "Atos 22:6",
+        "Atos 26:13"
+      ],
+      "comentario": "A luz é descrita como mais forte que o sol (*hēlios*), enfatizando a natureza sobrenatural e divina do evento. A queda imediata ilustra a força avassaladora da intervenção de Deus, quebrando a arrogância e a determinação de Saulo.",
+      "temas": [
+        "Intervenção Divina",
+        "Revelação",
+        "Poder de Deus"
+      ],
+      "personagens": [
+        "Saulo"
+      ]
     },
     "3": {
-      "parafrase": "Seguindo ele viagem e aproximando-se de Damasco, de repente uma luz vinda do céu brilhou ao seu redor.",
-      "referencias": ["Atos 22:6", "Atos 26:13"],
-      "comentario": "No auge de sua fúria persecutória, Saulo é interrompido por uma intervenção divina. A luz celestial é tão intensa que o derruba, mostrando o poder superior de Deus.",
-      "temas": ["intervenção divina", "teofania", "poder de Deus"],
-      "personagens": ["Saulo"]
+      "parafrase": "Ele caiu no chão e ouviu uma voz misteriosa que lhe perguntava com intensidade: 'Saulo, Saulo! Por que você está me perseguindo com tanta violência?'",
+      "referencias": [
+        "Atos 22:7",
+        "Atos 26:14"
+      ],
+      "comentario": "A repetição do nome ('Saulo, Saulo') é uma forma enfática de chamar a atenção, comum nas Escrituras para momentos cruciais de chamado ou repreensão (Gênesis 22:11, Êxodo 3:4). A voz se identifica imediatamente com aqueles que estão sendo perseguidos, estabelecendo a união mística entre Cristo e a Igreja.",
+      "temas": [
+        "Confronto Espiritual",
+        "Identificação com Cristo",
+        "Questionamento"
+      ],
+      "personagens": [
+        "Saulo",
+        "Voz (Jesus)"
+      ]
     },
     "4": {
-      "parafrase": "Ele caiu por terra e ouviu uma voz que lhe dizia: 'Saulo, Saulo, por que você me persegue?'",
-      "referencias": [],
-      "comentario": "A voz se dirige a ele pessoalmente, repetindo seu nome. A pergunta 'por que você me persegue?' é crucial, pois Jesus se identifica tão intimamente com Sua igreja que perseguir os crentes é persegui-lo diretamente.",
-      "temas": ["chamado divino", "identificação de Cristo com a Igreja", "convicção"],
-      "personagens": ["Saulo", "Voz (Jesus)"]
+      "parafrase": "Saulo, atônito e assustado, perguntou: 'Quem é o Senhor? Diga-me quem você é, pois não consigo enxergar nada!'.",
+      "referencias": [
+        "Atos 26:15"
+      ],
+      "comentario": "O termo para 'Quem é o Senhor?' (*Tis ei, Kyrie?*) mostra que Saulo reconhece a autoridade da voz ('Kyrie', Senhor), mas ainda não a identidade plena de quem fala. A cegueira física imediata simboliza a cegueira espiritual que estava prestes a ser curada.",
+      "temas": [
+        "Reconhecimento de Soberania",
+        "Incapacidade Humana",
+        "Busca por Identidade"
+      ],
+      "personagens": [
+        "Saulo",
+        "Voz (Jesus)"
+      ]
     },
     "5": {
-      "parafrase": "Ele perguntou: 'Quem és tu, Senhor?' E a voz respondeu: 'Eu sou Jesus, a quem você persegue.'",
-      "referencias": [],
-      "comentario": "A resposta de Saulo ('Senhor') indica um reconhecimento imediato de autoridade. A revelação de que a voz pertence a Jesus, o líder do movimento que ele estava tentando destruir, deve ter sido o choque mais profundo de sua vida.",
-      "temas": ["revelação de Cristo", "conversão", "identidade de Jesus"],
-      "personagens": ["Saulo", "Senhor (Jesus)"]
+      "parafrase": "A resposta veio firme: 'Eu sou Jesus, a quem você está perseguindo! Mas levante-se agora e entre na cidade. Lá, alguém lhe dirá o que você deve fazer de agora em diante.'",
+      "referencias": [
+        "Atos 22:8",
+        "João 10:27"
+      ],
+      "comentario": "A identificação explícita de Jesus ('Eu sou Jesus') é o clímax da revelação. A ordem de entrar na cidade e esperar instruções mostra que a conversão não é um ponto final, mas o início de um novo caminho que exige obediência sequencial.",
+      "temas": [
+        "Identidade de Cristo",
+        "Obediência",
+        "Novo Caminho"
+      ],
+      "personagens": [
+        "Jesus",
+        "Saulo"
+      ]
     },
     "6": {
-      "parafrase": "'Mas levante-se, entre na cidade, e lá lhe será dito o que você deve fazer.'",
-      "referencias": [],
-      "comentario": "O perseguidor agora se torna o seguidor. Ele recebe uma ordem direta e é colocado em uma posição de completa dependência e obediência.",
-      "temas": ["obediência", "chamado ao serviço", "transformação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Os homens que viajavam com Saulo ficaram paralisados, ouvindo a voz, mas incapazes de ver quem estava falando, pois não enxergavam nada. Saulo, então, foi levantado do chão, mas, mesmo com os olhos abertos, ele não conseguia enxergar.",
+      "referencias": [
+        "Atos 22:9"
+      ],
+      "comentario": "O efeito da visão foi bilateral: os companheiros ouviram o som (*phonē*), mas não viram a luz ou a figura, enquanto Saulo perdeu a visão, indicando que o sinal era especificamente para ele. A cegueira temporária serve como um sinal visível de sua conversão.",
+      "temas": [
+        "Testemunho Comum",
+        "Cegueira Espiritual e Física",
+        "Sinal Divino"
+      ],
+      "personagens": [
+        "Saulo",
+        "Companheiros de Viagem"
+      ]
     },
     "7": {
-      "parafrase": "Os homens que viajavam com ele ficaram emudecidos; ouviam a voz, mas não viam ninguém.",
-      "referencias": ["Atos 22:9", "Daniel 10:7"],
-      "comentario": "As testemunhas da cena ficam aterrorizadas e confusas. Elas percebem o fenômeno sobrenatural, mas a mensagem é especificamente para Saulo, validando a experiência dele.",
-      "temas": ["testemunho sobrenatural", "confirmação"],
-      "personagens": ["Companheiros de Saulo"]
+      "parafrase": "Após passarem por essa experiência assustadora, seus companheiros o conduziram pela mão até chegarem a Damasco, onde Saulo permaneceu cego por três dias inteiros, sem comer nem beber qualquer coisa.",
+      "referencias": [
+        "Atos 22:11"
+      ],
+      "comentario": "O jejum e a inação de Saulo durante três dias espelham o período de introspecção e preparação antes de um grande ministério (como o de Jonas ou Jesus). A dependência total dos outros subverte sua antiga autossuficiência e autoridade.",
+      "temas": [
+        "Dependência",
+        "Jejum e Preparação",
+        "Isolamento Transformador"
+      ],
+      "personagens": [
+        "Saulo",
+        "Companheiros de Viagem"
+      ]
     },
     "8": {
-      "parafrase": "Saulo levantou-se do chão e, abrindo os olhos, não conseguia ver nada. Então, o levaram pela mão e o conduziram a Damasco.",
-      "referencias": [],
-      "comentario": "Aquele que pensava 'ver' a verdade religiosa é deixado em cegueira física. Essa cegueira simboliza sua cegueira espiritual anterior e o força a uma total dependência dos outros.",
-      "temas": ["cegueira física e espiritual", "humilhação", "dependência"],
-      "personagens": ["Saulo"]
+      "parafrase": "Enquanto isso, em Damasco, havia um discípulo chamado Ananias. O Senhor falou com ele em uma visão clara, dizendo: 'Ananias, preste atenção!'",
+      "referencias": [
+        "Atos 22:12"
+      ],
+      "comentario": "O texto introduz Ananias, um crente local, fundamental para a restauração de Saulo. O chamado direto do Senhor indica que a missão de Saulo não será secreta; a comunidade cristã será informada e terá um papel ativo.",
+      "temas": [
+        "Vocação Ministerial",
+        "Comunidade de Fé",
+        "Visão Celestial"
+      ],
+      "personagens": [
+        "Ananias",
+        "Senhor (Jesus)"
+      ]
     },
     "9": {
-      "parafrase": "E esteve três dias sem ver, e durante esse tempo não comeu nem bebeu.",
-      "referencias": [],
-      "comentario": "Esses três dias de cegueira e jejum foram um período de profunda reflexão, arrependimento e reavaliação de toda a sua vida e teologia à luz de seu encontro com o Messias ressuscitado.",
-      "temas": ["arrependimento", "jejum", "reflexão", "transformação"],
-      "personagens": ["Saulo"]
+      "parafrase": "Ananias respondeu ao Senhor, dizendo: 'Estou aqui, ouvindo atentamente.'",
+      "referencias": [
+        "Isaías 6:8"
+      ],
+      "comentario": "A resposta de Ananias, 'Eis-me aqui' (*Idou egō*), ecoa a prontidão de outros profetas chamados por Deus, mostrando sua humildade e disposição em servir, mesmo que a próxima tarefa pareça arriscada.",
+      "temas": [
+        "Prontidão",
+        "Submissão",
+        "Serviço"
+      ],
+      "personagens": [
+        "Ananias"
+      ]
     },
     "10": {
-      "parafrase": "Havia em Damasco um discípulo chamado Ananias. O Senhor o chamou numa visão: 'Ananias!' Ele respondeu: 'Eis-me aqui, Senhor.'",
-      "referencias": [],
-      "comentario": "Deus escolhe um crente comum, Ananias, para ser o instrumento de restauração de Saulo. A resposta de Ananias ('Eis-me aqui') ecoa a dos profetas, mostrando sua prontidão em obedecer.",
-      "temas": ["visão divina", "obediência", "instrumento de Deus"],
-      "personagens": ["Ananias", "Senhor"]
+      "parafrase": "O Senhor então instruiu Ananias: 'Vá imediatamente para a rua que se chama Direita, na casa de Judas. Procure um homem de Tarso chamado Saulo, pois ele está orando neste exato momento.'",
+      "referencias": [
+        "Atos 22:13"
+      ],
+      "comentario": "A precisão da direção ('Rua Direita', 'casa de Judas') demonstra o conhecimento de Deus sobre os detalhes humanos e geográficos, ligando o evento divino à realidade terrena. O fato de Saulo estar orando indica que, mesmo cego e desorientado, ele buscava a Deus, um sinal de que sua teimosia inicial havia se quebrado.",
+      "temas": [
+        "Providência Divina",
+        "Oração do Crente",
+        "Localização Específica"
+      ],
+      "personagens": [
+        "Senhor (Jesus)",
+        "Ananias",
+        "Judas",
+        "Saulo"
+      ]
     },
     "11": {
-      "parafrase": "O Senhor lhe disse: 'Levante-se, vá à rua chamada Direita e procure na casa de Judas por um homem de Tarso chamado Saulo. Pois ele está orando'",
-      "referencias": [],
-      "comentario": "A instrução é específica, mostrando o controle soberano de Deus sobre a situação. O fato de Saulo estar orando indica uma mudança genuína em seu coração; ele não está mais amaldiçoando, mas buscando a Deus.",
-      "temas": ["direção divina", "oração", "transformação"],
-      "personagens": ["Senhor", "Saulo"]
+      "parafrase": "Ananias expressou sua grande apreensão ao Senhor, dizendo: 'Senhor, eu ouvi muitas coisas terríveis sobre esse homem, e como ele fez muito mal aos santos de Jerusalém!'",
+      "referencias": [
+        "Atos 26:9-11"
+      ],
+      "comentario": "Ananias revela o medo generalizado que Saulo inspirava. Ele não tinha ideia de que Saulo estava a caminho, e a missão parecia colocar sua própria vida em risco, pois Saulo tinha cartas de prisão para os crentes em Damasco.",
+      "temas": [
+        "Medo da Autoridade",
+        "Reputação",
+        "Risco Pessoal"
+      ],
+      "personagens": [
+        "Ananias",
+        "Senhor (Jesus)",
+        "Saulo"
+      ]
     },
     "12": {
-      "parafrase": "'e viu numa visão um homem chamado Ananias entrar e impor-lhe as mãos para que recuperasse a vista.'",
-      "referencias": [],
-      "comentario": "Deus preparou ambos os lados do encontro. Ele deu uma visão a Saulo para que ele soubesse quem esperar, acalmando seus medos e preparando-o para receber Ananias.",
-      "temas": ["visão divina", "preparação", "confirmação"],
-      "personagens": ["Ananias", "Saulo"]
+      "parafrase": "Mas o Senhor o tranquilizou, dizendo: 'Vá, porque este homem é um instrumento escolhido por mim para carregar o meu nome diante dos gentios, dos reis e do povo de Israel. Eu lhe mostrarei o quanto ele terá de sofrer por causa do meu nome.'",
+      "referencias": [
+        "Atos 26:16-18",
+        "Romanos 1:5"
+      ],
+      "comentario": "Este é o 'mandato de Paulo'. O grego usa a palavra *skeuos* (instrumento/vaso). Jesus não apenas perdoa Saulo, mas o escolhe especificamente para o trabalho missionário universal (gentios, reis, judeus). O sofrimento (*pathēin*) é inserido no plano de discipulado desde o início.",
+      "temas": [
+        "Eleição Divina",
+        "Missão Universal",
+        "Sofrimento do Crente"
+      ],
+      "personagens": [
+        "Senhor (Jesus)",
+        "Saulo"
+      ]
     },
     "13": {
-      "parafrase": "Ananias respondeu: 'Senhor, tenho ouvido de muitos a respeito desse homem, quantos males ele tem feito aos teus santos em Jerusalém.'",
-      "referencias": [],
-      "comentario": "A hesitação de Ananias é compreensível. Ele conhecia a reputação aterrorizante de Saulo. Sua objeção não é por desobediência, mas por medo e incredulidade.",
-      "temas": ["medo", "dúvida", "reputação"],
-      "personagens": ["Ananias", "Senhor", "Saulo"]
+      "parafrase": "Ananias, ainda hesitante, respondeu ao Senhor: 'Mas, Senhor, muitos testemunharam aqui que ele fez coisas terríveis contra os seus santos em Jerusalém.'",
+      "referencias": [
+        "Atos 26:10"
+      ],
+      "comentario": "Ananias insiste, reforçando a gravidade da situação. Ele está vendo o Saulo passado e tem dificuldade em aceitar a transformação radical que Deus promete, um reflexo da desconfiança humana diante de um perdão tão grandioso.",
+      "temas": [
+        "Dificuldade de Aceitar a Graça",
+        "Testemunho Negativo",
+        "Dúvida"
+      ],
+      "personagens": [
+        "Ananias",
+        "Senhor (Jesus)",
+        "Saulo"
+      ]
     },
     "14": {
-      "parafrase": "'E ele tem autoridade dos principais sacerdotes para prender todos os que invocam o teu nome aqui.'",
-      "referencias": [],
-      "comentario": "Ananias informa a Deus sobre o perigo, como se Deus não soubesse, revelando a profundidade de seu temor.",
-      "temas": ["perigo", "autoridade humana"],
-      "personagens": ["Ananias"]
+      "parafrase": "E Ananias acrescentou, preocupado: 'E ele tem autoridade do sumo sacerdote para prender todos aqueles que invocam o Seu nome aqui em Damasco!'",
+      "referencias": [
+        "Atos 22:5"
+      ],
+      "comentario": "A menção da carta de autoridade do sumo sacerdote sublinha o perigo iminente. Era uma missão oficial e não um ato de fúria pessoal, tornando a tarefa de Ananias ainda mais arriscada.",
+      "temas": [
+        "Risco Iminente",
+        "Autoridade Secular",
+        "Missão de Resgate"
+      ],
+      "personagens": [
+        "Ananias",
+        "Saulo"
+      ]
     },
     "15": {
-      "parafrase": "Mas o Senhor lhe disse: 'Vá, porque este homem é para mim um instrumento escolhido para levar o meu nome perante os gentios, os reis e os filhos de Israel.'",
-      "referencias": ["Atos 26:17-18", "Romanos 1:5", "Gálatas 1:16"],
-      "comentario": "Deus revela a Ananias o propósito de longo alcance para a vida de Saulo. O maior perseguidor se tornaria o maior missionário, especialmente para os gentios. Esta é uma das declarações de missão mais importantes em Atos.",
-      "temas": ["instrumento escolhido", "missão aos gentios", "soberania de Deus", "chamado apostólico"],
-      "personagens": ["Senhor", "Saulo"]
+      "parafrase": "O Senhor, então, confirmou a missão com clareza imutável: 'Vá, Ananias, porque ele me é uma ferramenta escolhida para levar o meu nome tanto para os povos não-judeus (os gentios) quanto para os seus próprios reis e para todos os filhos de Israel.'",
+      "referencias": [
+        "Atos 26:17",
+        "Gálatas 2:7-9"
+      ],
+      "comentario": "Esta é a reafirmação do propósito de Deus, visando neutralizar as objeções de Ananias. A ordem 'Vá' (*Poreu*) é imperativa. O foco se expande do público judaico para o universal, preparando Paulo para sua futura apostolado gentílico.",
+      "temas": [
+        "Propósito Claro",
+        "Alcance Missionário",
+        "Autoridade Inquestionável"
+      ],
+      "personagens": [
+        "Senhor (Jesus)",
+        "Ananias",
+        "Saulo"
+      ]
     },
     "16": {
-      "parafrase": "'Pois eu lhe mostrarei o quanto ele deve sofrer pelo meu nome.'",
-      "referencias": ["2 Coríntios 11:23-28"],
-      "comentario": "O chamado de Saulo não é para uma vida de facilidades, mas de sofrimento. Aquele que infligiu tanto sofrimento agora sofrerá pelo mesmo nome que perseguiu. Este é o caminho do discipulado.",
-      "temas": ["sofrimento pelo evangelho", "discipulado", "custo do serviço"],
-      "personagens": ["Senhor", "Saulo"]
+      "parafrase": "Jesus concluiu dizendo a Ananias que Ele pessoalmente mostraria a Saulo quantas dificuldades e sofrimentos ele teria que suportar por amor ao nome de Jesus.",
+      "referencias": [
+        "2 Coríntios 11:23-27"
+      ],
+      "comentario": "A ideia de sofrimento (implícita no grego *deixō*) não é um acidente, mas uma parte integrante da vocação apostólica, alinhando Saulo com o caminho de Cristo e dos apóstolos anteriores.",
+      "temas": [
+        "Caminho do Sofrimento",
+        "Aliança de Sofrimento",
+        "Identificação com Cristo"
+      ],
+      "personagens": [
+        "Jesus",
+        "Saulo"
+      ]
     },
     "17": {
-      "parafrase": "Então Ananias foi, entrou na casa, impôs as mãos sobre Saulo e disse: 'Irmão Saulo, o Senhor Jesus, que lhe apareceu no caminho por onde você vinha, enviou-me para que você volte a ver e fique cheio do Espírito Santo.'",
-      "referencias": [],
-      "comentario": "A obediência de Ananias é imediata após a ordem de Deus. Sua saudação, 'Irmão Saulo', é um ato radical de perdão, aceitação e reconciliação. Ele acolhe o ex-perseguidor na família da fé.",
-      "temas": ["obediência", "perdão", "reconciliação", "cura", "Espírito Santo"],
-      "personagens": ["Ananias", "Saulo", "Senhor Jesus"]
+      "parafrase": "Tendo recebido essa ordem divina, Ananias obedeceu sem mais questionar. Ele foi até a casa indicada, entrou e, ao encontrar Saulo, colocou suas mãos sobre ele.",
+      "referencias": [
+        "Atos 22:13"
+      ],
+      "comentario": "A obediência final de Ananias (*apēlthen*) resolve o conflito entre o medo humano e a ordem divina. O toque físico era o canal usual para a imposição de mãos, seja para bênção, cura ou transferência de comissionamento.",
+      "temas": [
+        "Obediência Imediata",
+        "Toque de Cura",
+        "Restauração"
+      ],
+      "personagens": [
+        "Ananias",
+        "Saulo"
+      ]
     },
     "18": {
-      "parafrase": "Imediatamente, caíram dos seus olhos algo como escamas, e ele recuperou a vista. Em seguida, levantou-se e foi batizado.",
-      "referencias": [],
-      "comentario": "A cura física é instantânea e visível, simbolizando a remoção da cegueira espiritual. O batismo de Saulo é sua identificação pública com o Cristo e a comunidade que ele antes perseguia.",
-      "temas": ["cura milagrosa", "batismo", "transformação"],
-      "personagens": ["Saulo"]
+      "parafrase": "No mesmo instante, algo como escamas grossas caiu dos olhos de Saulo, e ele recuperou a visão de forma milagrosa! Ele se levantou imediatamente.",
+      "referencias": [
+        "Atos 22:13"
+      ],
+      "comentario": "As 'escamas' (*lēpides*) sugerem algo que cobria ou obstruía a visão, talvez um resíduo físico da luz intensa ou uma metáfora para a cegueira espiritual que foi 'descamada'. A recuperação instantânea valida o poder da oração e da intervenção de Deus.",
+      "temas": [
+        "Cura Sobrenatural",
+        "Símbolo da Cegueira",
+        "Restauração da Visão"
+      ],
+      "personagens": [
+        "Saulo",
+        "Ananias"
+      ]
     },
     "19": {
-      "parafrase": "E, depois de comer, recuperou as forças. Saulo passou alguns dias com os discípulos em Damasco.",
-      "referencias": [],
-      "comentario": "A restauração de Saulo é completa: espiritual, física e social. Ele é imediatamente integrado na comunidade cristã, um testemunho do poder do evangelho para unir antigos inimigos.",
-      "temas": ["restauração", "comunhão", "integração"],
-      "personagens": ["Saulo", "Discípulos"]
+      "parafrase": "Depois de recuperar a visão, Saulo foi alimentado e sua força foi restaurada.",
+      "referencias": [
+        "1 Reis 19:5-8"
+      ],
+      "comentario": "Após o choque espiritual e físico, a necessidade básica de nutrição é atendida. Este é o primeiro ato de cuidado da comunidade cristã em relação ao ex-perseguidor, mostrando a natureza acolhedora da Igreja.",
+      "temas": [
+        "Restauração Física",
+        "Cuidado Comunitário",
+        "Nutrição"
+      ],
+      "personagens": [
+        "Saulo"
+      ]
     },
     "20": {
-      "parafrase": "E logo começou a pregar nas sinagogas que Jesus é o Filho de Deus.",
-      "referencias": [],
-      "comentario": "A transformação de Saulo se manifesta em ação imediata. Ele começa a pregar no mesmo lugar onde pretendia prender os crentes, e sua mensagem é a mais fundamental: a divindade de Jesus.",
-      "temas": ["pregação", "ousadia", "testemunho", "divindade de Cristo"],
-      "personagens": ["Saulo", "Jesus"]
+      "parafrase": "Logo em seguida, Saulo permaneceu alguns dias em Damasco, começando imediatamente a pregar com ousadia nas sinagogas, declarando que Jesus era, de fato, o Filho de Deus.",
+      "referencias": [
+        "Gálatas 1:17"
+      ],
+      "comentario": "A rapidez da transição de perseguidor a pregador é chocante. A mudança de foco é clara: de 'o Caminho' para a identidade messiânica de Jesus ('Filho de Deus'). A pregação imediata demonstra que a conversão foi completa e transformadora.",
+      "temas": [
+        "Pregação Imediata",
+        "Identidade de Jesus",
+        "Testemunho Ousado"
+      ],
+      "personagens": [
+        "Saulo"
+      ]
     },
     "21": {
-      "parafrase": "Todos os que o ouviam ficavam espantados e perguntavam: 'Não é este o homem que em Jerusalém perseguia os que invocam este nome e que veio aqui justamente para levá-los presos aos principais sacerdotes?'",
-      "referencias": [],
-      "comentario": "A reação do público é de choque e incredulidade. A mudança em Saulo era tão radical que era difícil para as pessoas acreditarem. Seu testemunho era poderoso precisamente por causa de seu passado.",
-      "temas": ["espanto", "testemunho", "transformação radical"],
-      "personagens": ["Saulo"]
+      "parafrase": "Todos os que ouviam suas palavras ficavam absolutamente espantados e perguntavam: 'Não é este o homem que em Jerusalém causou o caos entre aqueles que invocavam este nome? E ele não veio para cá justamente para levá-los amarrados aos líderes em Jerusalém?'",
+      "referencias": [
+        "Atos 22:25"
+      ],
+      "comentario": "O espanto (*existanto*) dos ouvintes reflete o choque da mudança radical. Eles conheciam a reputação de Saulo; a pregação contrastava violentamente com o homem que eles sabiam ter chegado à cidade.",
+      "temas": [
+        "Choque da Conversão",
+        "Reputação Passada",
+        "Reconhecimento Público"
+      ],
+      "personagens": [
+        "Saulo",
+        "Ouvintes"
+      ]
     },
     "22": {
-      "parafrase": "Saulo, porém, se fortalecia cada vez mais e confundia os judeus que moravam em Damasco, provando que Jesus é o Cristo.",
-      "referencias": ["Atos 18:28"],
-      "comentario": "Saulo não apenas pregava, mas usava seu vasto conhecimento das Escrituras para provar logicamente que Jesus era o Messias prometido, deixando seus oponentes sem resposta.",
-      "temas": ["apologética", "fortalecimento na fé", "prova bíblica"],
-      "personagens": ["Saulo", "Jesus", "Cristo"]
+      "parafrase": "Contudo, Saulo se tornava cada vez mais forte e convencia os judeus que moravam em Damasco, provando com fatos e lógica que Jesus era, sem sombra de dúvida, o Cristo prometido.",
+      "referencias": [
+        "Atos 17:2-3"
+      ],
+      "comentario": "O grego indica que Saulo 'ia se tornando mais forte' (*perissoteros egeneto*), mostrando um crescimento progressivo em sua capacidade argumentativa. O debate nas sinagogas (*sunēgōnizeto*) era o método usual para defender a fé, usando as Escrituras Judaicas para provar a messianidade de Jesus.",
+      "temas": [
+        "Fortalecimento Espiritual",
+        "Debate Teológico",
+        "Evidência Escriturística"
+      ],
+      "personagens": [
+        "Saulo",
+        "Judeus de Damasco"
+      ]
     },
     "23": {
-      "parafrase": "Depois de muitos dias, os judeus conspiraram para matá-lo,",
-      "referencias": ["2 Coríntios 11:32"],
-      "comentario": "O perseguidor agora se torna o perseguido. A eficácia de sua pregação provoca a mesma reação violenta que ele mesmo costumava ter.",
-      "temas": ["perseguição", "oposição", "conspiração"],
-      "personagens": ["Judeus", "Saulo"]
+      "parafrase": "Depois de algum tempo, os judeus que moravam em Damasco conspiraram para matar Saulo, reunindo-se em conselho secreto.",
+      "referencias": [
+        "2 Coríntios 11:32"
+      ],
+      "comentario": "A ironia é cortante: o perseguidor se torna o perseguido, e a mesma comunidade que ele vinha para prender agora planeja sua morte. O planejamento secreto indica a seriedade da ameaça.",
+      "temas": [
+        "Conspiração",
+        "Mudança de Papel",
+        "Hostilidade"
+      ],
+      "personagens": [
+        "Judeus de Damasco",
+        "Saulo"
+      ]
     },
     "24": {
-      "parafrase": "mas Saulo ficou sabendo da conspiração deles. Dia e noite eles vigiavam as portas da cidade para poderem matá-lo.",
-      "referencias": [],
-      "comentario": "A ameaça era séria e bem planejada, mostrando o nível de ódio que Saulo havia gerado.",
-      "temas": ["perigo de vida", "vigilância"],
-      "personagens": ["Saulo"]
+      "parafrase": "Eles vigiavam os portões da cidade dia e noite, determinados a capturá-lo e dar um fim à sua vida, mas Saulo ficou sabendo do plano nefasto.",
+      "referencias": [
+        "2 Coríntios 11:33"
+      ],
+      "comentario": "A vigilância noturna e diurna demonstra o esforço concentrado dos adversários. A informação chega a Saulo, indicando que a comunidade cristã local (provavelmente Ananias e outros) já o estava protegendo e informando.",
+      "temas": [
+        "Vigilância",
+        "Proteção Comunitária",
+        "Tentativa de Assassinato"
+      ],
+      "personagens": [
+        "Judeus de Damasco",
+        "Saulo"
+      ]
     },
     "25": {
-      "parafrase": "Mas seus discípulos o tomaram de noite e o desceram pela muralha, baixando-o num cesto.",
-      "referencias": ["Josué 2:15", "1 Samuel 19:12"],
-      "comentario": "A fuga de Saulo de Damasco é humilhante, mas necessária. Ele depende da ajuda dos mesmos crentes que viera prender. Este evento marcou profundamente sua vida.",
-      "temas": ["fuga", "humilhação", "ajuda mútua"],
-      "personagens": ["Saulo", "Discípulos"]
+      "parafrase": "Então, os seus novos irmãos na fé o ajudaram a escapar; eles o desceram a noite inteira por uma abertura na muralha da cidade, colocando-o dentro de uma cesta grande.",
+      "referencias": [
+        "2 Coríntios 11:33"
+      ],
+      "comentario": "A fuga pela janela ou abertura na muralha (*dióryx* - buraco ou brecha) é um resgate dramático, simbolizando a libertação do reino das trevas para o reino da luz. A cesta (*sarganē*) enfatiza a pequenez de Saulo diante do perigo e a dependência de seus companheiros.",
+      "temas": [
+        "Resgate Físico",
+        "Fuga Noturna",
+        "Ação da Igreja"
+      ],
+      "personagens": [
+        "Saulo",
+        "Irmãos na Fé"
+      ]
     },
     "26": {
-      "parafrase": "Quando chegou a Jerusalém, tentou juntar-se aos discípulos, mas todos tinham medo dele, não acreditando que ele fosse realmente um discípulo.",
-      "referencias": ["Gálatas 1:18-19"],
-      "comentario": "A reputação de Saulo o precedia. A igreja em Jerusalém, que sofreu tanto por causa dele, suspeitava que sua conversão fosse um truque para se infiltrar e destruí-los.",
-      "temas": ["medo", "desconfiança", "reputação"],
-      "personagens": ["Saulo", "Discípulos"]
+      "parafrase": "Quando Saulo finalmente chegou a Jerusalém, ele tentou se juntar aos discípulos de Jesus que ali estavam. Contudo, um medo paralisante tomou conta do coração deles, e todos passaram a desconfiar profundamente dele. Eles se afastavam, pois era sabido por todos que ele tinha sido o mais feroz perseguidor da comunidade cristã.",
+      "referencias": [
+        "Gálatas 1:18",
+        "Filipenses 3:6"
+      ],
+      "comentario": "O termo grego para 'medo' aqui (φοβηθέντες - phobēthentes) implica um temor respeitoso misturado com apreensão. A mudança radical de Saulo, de carrasco a crente, era tão extrema que gerou desconfiança natural naqueles que haviam sofrido sob seu regime. A Igreja primitiva era cautelosa.",
+      "temas": [
+        "Desconfiança",
+        "Conversão Radical",
+        "Acolhimento Comunitário"
+      ],
+      "personagens": [
+        "Saulo (Paulo)",
+        "Discípulos de Jerusalém"
+      ]
     },
     "27": {
-      "parafrase": "Então Barnabé o acolheu, levou-o aos apóstolos e contou-lhes como Saulo tinha visto o Senhor no caminho, como o Senhor lhe havia falado e com que ousadia ele havia pregado em Damasco em nome de Jesus.",
-      "referencias": ["Atos 4:36"],
-      "comentario": "Barnabé, cujo nome significa 'filho da consolação', age como um mediador e pacificador. Ele arrisca sua reputação para defender Saulo e integrá-lo à comunidade, um ato crucial de confiança e graça.",
-      "temas": ["acolhimento", "mediação", "confiança", "graça"],
-      "personagens": ["Barnabé", "Saulo", "Apóstolos", "Senhor", "Jesus"]
+      "parafrase": "Porém, Barnabé, um homem notável, cheio de bondade e fé, interveio como um mediador corajoso. Ele tomou Saulo pela mão, aceitando-o plenamente, e o levou até os apóstolos. Barnabé então narrou com convicção como, no caminho para Damasco, Saulo vira o Senhor Jesus em pessoa e como ele havia pregado com ousadia em nome de Jesus.",
+      "referencias": [
+        "Atos 4:36",
+        "Atos 11:22"
+      ],
+      "comentario": "Barnabé (cujo nome significa 'Filho da Exortação' ou 'Filho do Consolo') é a ponte de confiança. Sua ação é um exemplo primário de 'reconciliação' dentro da igreja. Ele valida a experiência de Saulo, citando a manifestação de Cristo (o 'porquê' da conversão) para convencer os líderes.",
+      "temas": [
+        "Mediação",
+        "Coragem",
+        "Testemunho Pessoal"
+      ],
+      "personagens": [
+        "Barnabé",
+        "Saulo (Paulo)",
+        "Apóstolos"
+      ]
     },
     "28": {
-      "parafrase": "Assim, ele ficou com eles, entrando e saindo de Jerusalém, e pregando ousadamente em nome do Senhor.",
-      "referencias": [],
-      "comentario": "Graças a Barnabé, Saulo é aceito e continua seu ministério na própria cidade onde liderou a perseguição.",
-      "temas": ["aceitação", "comunhão", "pregação ousada"],
-      "personagens": ["Saulo", "Senhor"]
+      "parafrase": "Assim, Saulo pôde circular livremente com eles em Jerusalém, entrando e saindo, participando ativamente de tudo e pregando o nome do Senhor com grande autoridade.",
+      "referencias": [
+        "Atos 9:20",
+        "Gálatas 2:9"
+      ],
+      "comentario": "O verbo 'circular livremente' (ἐν παρρησίᾳ - en parrhesia) significa falar e agir com total liberdade e franqueza, sem medo de ser expulso. A aceitação por Barnabé abriu as portas para a plena integração de Paulo na liderança apostólica em Jerusalém.",
+      "temas": [
+        "Liberação",
+        "Ação Ministerial",
+        "Comunhão"
+      ],
+      "personagens": [
+        "Saulo (Paulo)"
+      ]
     },
     "29": {
-      "parafrase": "Falava e discutia com os judeus de fala grega, mas eles tentavam matá-lo.",
-      "referencias": ["Atos 6:9"],
-      "comentario": "Saulo prega para o mesmo grupo que se opôs a Estêvão, os helenistas, e encontra a mesma reação mortal. A história se repete, mas agora Saulo está do outro lado.",
-      "temas": ["oposição", "perseguição", "debate teológico"],
-      "personagens": ["Saulo", "Judeus helenistas"]
+      "parafrase": "Ele também debatia fervorosamente com os judeus que falavam a língua grega (os helenistas), tentando provar-lhes que Jesus era, de fato, o Cristo prometido.",
+      "referencias": [
+        "Atos 6:9",
+        "Romanos 3:27"
+      ],
+      "comentario": "O debate (συζητῶν - syzētōn) era intenso, um confronto intelectual e teológico. O alvo eram os helenistas, provavelmente os mesmos que mais tarde se envolveriam nas disputas sobre as viúvas (Atos 6). Saulo usava sua erudição para combater a descrença.",
+      "temas": [
+        "Debate Teológico",
+        "Evangelismo aos Gregos",
+        "Confronto de Ideias"
+      ],
+      "personagens": [
+        "Saulo (Paulo)",
+        "Judeus Helenistas"
+      ]
     },
     "30": {
-      "parafrase": "Sabendo disso, os irmãos o levaram a Cesareia e o enviaram para Tarso.",
-      "referencias": ["Gálatas 1:21"],
-      "comentario": "Para protegê-lo, a igreja o envia de volta para sua cidade natal, Tarso. Isso marca o início de um período de vários anos de silêncio na vida de Paulo, um tempo de preparação para seu futuro ministério.",
-      "temas": ["proteção", "preparação ministerial"],
-      "personagens": ["Irmãos", "Saulo"]
+      "parafrase": "Percebendo que esses irmãos estavam tramando sua morte, os crentes demonstraram amor e cuidado, e o escoltaram rapidamente para fora da cidade, enviando-o até a região da Cesaréia, de onde ele seguiu para sua terra natal, Tarso.",
+      "referencias": [
+        "Atos 23:12",
+        "2 Coríntios 11:32"
+      ],
+      "comentario": "O perigo era real e imediato. A Igreja, agora protetora de Saulo (que antes a perseguia), age rapidamente. A fuga para Tarso marca o fim do primeiro período de Paulo em Jerusalém após a conversão, um período crucial para sua consolidação.",
+      "temas": [
+        "Perseguição",
+        "Proteção Fraterna",
+        "Exílio Forçado"
+      ],
+      "personagens": [
+        "Saulo (Paulo)",
+        "Irmãos em Cristo"
+      ]
     },
     "31": {
-      "parafrase": "Então, a igreja em toda a Judeia, Galileia e Samaria teve paz e foi edificada. Vivendo no temor do Senhor e no encorajamento do Espírito Santo, ela crescia em número.",
-      "referencias": [],
-      "comentario": "Com a partida de Saulo, o principal instigador da perseguição, a igreja experimenta um período de paz e crescimento saudável. O temor a Deus e a consolação do Espírito são as bases para essa edificação.",
-      "temas": ["paz", "edificação da igreja", "crescimento", "temor do Senhor", "Espírito Santo"],
-      "personagens": ["Igreja", "Senhor", "Espírito Santo"]
+      "parafrase": "Com isso, a igreja em toda a Judeia, Galileia e Samaria desfrutou de um período de grande paz e fortalecimento espiritual. O poder do Senhor estava agindo, e a comunidade crescia em número, vivendo com reverência ao Senhor e no conforto que o Espírito Santo proporciona.",
+      "referencias": [
+        "Atos 2:47",
+        "Isaías 32:18"
+      ],
+      "comentario": "Esta paz (εἰρήνη - eirēnē) é um sinal da bênção divina após a crise da perseguição. O crescimento não é apenas numérico, mas qualitativo: a presença do Espírito Santo (παραμυθία - paramythia, consolo) era palpável na vida cotidiana dos crentes.",
+      "temas": [
+        "Paz Eclesiástica",
+        "Crescimento da Igreja",
+        "Consolo do Espírito"
+      ],
+      "personagens": [
+        "Igreja da Judeia, Galileia e Samaria"
+      ]
     },
     "32": {
-      "parafrase": "Enquanto Pedro viajava por toda parte, desceu também para visitar os santos que viviam em Lida.",
-      "referencias": [],
-      "comentario": "A narrativa agora volta para Pedro, mostrando seu ministério itinerante de supervisão e encorajamento às novas comunidades de crentes ('santos').",
-      "temas": ["ministério apostólico", "visitação", "cuidado pastoral"],
-      "personagens": ["Pedro", "Santos"]
+      "parafrase": "Enquanto isso, Pedro viajava, visitando os fiéis que viviam espalhados. Durante essa jornada, ele chegou a Lida, uma cidade próxima.",
+      "referencias": [
+        "Atos 8:25",
+        "Atos 15:3"
+      ],
+      "comentario": "A visita de Pedro demonstra a função de unificador e pastor dos apóstolos, garantindo a coesão das comunidades espalhadas. Lida era um centro de trânsito importante.",
+      "temas": [
+        "Visitação Pastoral",
+        "Unidade da Igreja",
+        "Propagação da Fé"
+      ],
+      "personagens": [
+        "Pedro"
+      ]
     },
     "33": {
-      "parafrase": "Ali encontrou um homem chamado Eneias, que estava de cama há oito anos, pois era paralítico.",
-      "referencias": [],
-      "comentario": "O caso de Eneias era crônico e aparentemente sem esperança, destacando a grandeza do milagre que se seguiria.",
-      "temas": ["enfermidade", "sofrimento"],
-      "personagens": ["Pedro", "Eneias"]
+      "parafrase": "Lá, ele encontrou um homem chamado Eneias, que estava acamado há oito anos, completamente paralisado e incapaz de mover-se.",
+      "referencias": [
+        "Marcos 2:3",
+        "Salmos 103:3"
+      ],
+      "comentario": "O nome Eneias (ou Enéas) significa 'piedoso'. A descrição de oito anos de paralisia enfatiza a cronicidade da doença, tornando o milagre subsequente mais impactante.",
+      "temas": [
+        "Doença Crônica",
+        "Milagres de Cura"
+      ],
+      "personagens": [
+        "Pedro",
+        "Eneias"
+      ]
     },
     "34": {
-      "parafrase": "Pedro lhe disse: 'Eneias, Jesus Cristo o cura. Levante-se e arrume a sua cama.' E ele se levantou imediatamente.",
-      "referencias": ["Atos 3:6"],
-      "comentario": "Pedro não reivindica o poder para si mesmo, mas o atribui diretamente a Jesus Cristo. A cura é instantânea e completa, servindo como um sinal claro do poder do Messias ressuscitado.",
-      "temas": ["cura milagrosa", "poder de Cristo", "fé"],
-      "personagens": ["Pedro", "Eneias", "Jesus Cristo"]
+      "parafrase": "Pedro olhou para ele com ternura e disse: 'Eneias, Jesus Cristo, o mesmo que te restaurou, te cura agora mesmo! Levante-se e arrume a sua própria cama!' E, instantaneamente, o homem se levantou, cheio de vigor.",
+      "referencias": [
+        "João 5:8",
+        "Atos 3:6"
+      ],
+      "comentario": "Pedro não age em seu próprio nome, mas invoca a autoridade de Jesus (o sujeito ativo da cura). A ordem de arrumar a cama (como sinal de plena recuperação física e restauração da rotina) é um detalhe prático e visual do milagre.",
+      "temas": [
+        "Autoridade de Cristo",
+        "Restauração Imediata",
+        "Fé em Ação"
+      ],
+      "personagens": [
+        "Pedro",
+        "Eneias",
+        "Jesus Cristo"
+      ]
     },
     "35": {
-      "parafrase": "Todos os que viviam em Lida e Sarona o viram e se converteram ao Senhor.",
-      "referencias": [],
-      "comentario": "O milagre não foi um fim em si mesmo, mas um meio para um fim maior: a salvação de muitos. A cura de um homem levou à conversão de duas cidades.",
-      "temas": ["evangelismo em massa", "conversão", "impacto do milagre"],
-      "personagens": ["Eneias", "Senhor"]
+      "parafrase": "Essa maravilha foi vista por todos os moradores de Lida e Saron, que se voltaram para o Senhor em arrependimento e fé.",
+      "referencias": [
+        "Atos 2:41",
+        "Mateus 4:15"
+      ],
+      "comentario": "O impacto do milagre transcendeu o indivíduo curado. Lida e a planície costeira de Saron ('a flor do campo') foram testemunhas, resultando em conversões em massa.",
+      "temas": [
+        "Evangelismo por Sinal",
+        "Conversão Coletiva"
+      ],
+      "personagens": [
+        "Moradores de Lida e Saron"
+      ]
     },
     "36": {
-      "parafrase": "Havia em Jope uma discípula chamada Tabita, que em grego é Dorcas. Ela era cheia de boas obras e esmolas que fazia.",
-      "referencias": [],
-      "comentario": "A narrativa apresenta outra crente, destacando seu caráter e serviço prático. Seu nome, que significa 'gazela', talvez refletisse sua graciosidade. Ela era amada por sua generosidade.",
-      "temas": ["boas obras", "caridade", "serviço cristão"],
-      "personagens": ["Tabita (Dorcas)"]
+      "parafrase": "Em Jope, uma cidade vizinha e importante porto, havia uma discípula chamada Tabita, cujo nome em grego era Dorcas, que significa 'gazela'. Esta mulher era famosa por suas inúmeras boas obras e atos de caridade para com os necessitados.",
+      "referencias": [
+        "Lucas 8:2",
+        "Tiago 2:17"
+      ],
+      "comentario": "Dorcas/Tabita ('Gazela') era um símbolo de graça e agilidade em servir. A repetição de seu nome em dois idiomas destaca sua notoriedade. Suas obras (especialmente costura e auxílio às viúvas, conforme a tradição) são o foco de sua reputação.",
+      "temas": [
+        "Caridade",
+        "Serviço às Viúvas",
+        "Exemplo de Fé Prática"
+      ],
+      "personagens": [
+        "Tabita (Dorcas)"
+      ]
     },
     "37": {
-      "parafrase": "Naqueles dias, ela adoeceu e morreu. Depois de a lavarem, puseram seu corpo num quarto do andar superior.",
-      "referencias": [],
-      "comentario": "A morte de uma pessoa tão amada e útil foi um grande golpe para a comunidade cristã em Jope.",
-      "temas": ["morte", "luto"],
-      "personagens": ["Tabita"]
+      "parafrase": "Porém, aconteceu que, em um desses dias, ela adoeceu gravemente e morreu. Os discípulos, sabendo do poder de Pedro, lavaram seu corpo e o colocaram numa sala no andar de cima, preparando-o para o sepultamento.",
+      "referencias": [
+        "1 Reis 17:17",
+        "João 11:39"
+      ],
+      "comentario": "A notícia da morte de uma serva tão ativa gera desespero. O corpo é colocado no aposento superior (o lugar mais nobre ou reservado) enquanto aguardam a chegada do apóstolo, demonstrando que já o consideravam alguém capaz de intervir divinamente.",
+      "temas": [
+        "Morte",
+        "Luto",
+        "Expectativa de Milagre"
+      ],
+      "personagens": [
+        "Tabita (Dorcas)",
+        "Pedro"
+      ]
     },
     "38": {
-      "parafrase": "Como Lida ficava perto de Jope, os discípulos, ouvindo que Pedro estava ali, enviaram-lhe dois homens, pedindo-lhe: 'Não se demore em vir até nós.'",
-      "referencias": [],
-      "comentario": "A fé dos discípulos os levou a agir. Eles não pedem especificamente que Pedro a ressuscite, mas a urgência do pedido sugere que eles tinham esperança de um milagre.",
-      "temas": ["fé", "esperança", "comunidade"],
-      "personagens": ["Discípulos", "Pedro"]
+      "parafrase": "Como haviam ouvido que Pedro estava em Lida, os irmãos enviaram mensageiros com urgência, implorando: 'Por favor, venha até nós sem demora!'",
+      "referencias": [
+        "Lucas 7:3"
+      ],
+      "comentario": "A urgência dos discípulos de Jope reflete a importância de Dorcas para a comunidade. Eles apelam ao 'nome de Pedro' como o canal que Deus usava para manifestar seu poder, assim como fizeram os saduceus a Pedro por Eneias.",
+      "temas": [
+        "Apelo Urgente",
+        "Dependência do Liderança"
+      ],
+      "personagens": [
+        "Discípulos de Jope",
+        "Pedro"
+      ]
     },
     "39": {
-      "parafrase": "Pedro se levantou e foi com eles. Quando chegou, levaram-no ao quarto superior. Todas as viúvas o rodearam, chorando e mostrando-lhe as túnicas e outras roupas que Dorcas fazia quando estava com elas.",
-      "referencias": [],
-      "comentario": "A cena é de profundo luto. As roupas mostradas eram o testemunho tangível do amor e serviço de Dorcas. O choro das viúvas, que eram particularmente vulneráveis na sociedade, mostra o impacto de sua vida.",
-      "temas": ["luto", "testemunho de vida", "amor em ação"],
-      "personagens": ["Pedro", "Viúvas", "Dorcas"]
+      "parafrase": "Pedro, atendendo ao chamado, foi com eles. Ao chegar, foi conduzido ao quarto de cima, onde viu as muitas viúvas chorando e mostrando a Pedro todas as túnicas e roupas que Dorcas havia costurado enquanto ainda estava viva.",
+      "referencias": [
+        "Êxodo 32:19",
+        "Lucas 7:45"
+      ],
+      "comentario": "O choro das viúvas, acompanhado da exibição das obras tangíveis de Dorcas (roupas), é uma poderosa evidência de sua piedade e do impacto de sua perda. Pedro é confrontado com o testemunho silencioso de um amor em ação.",
+      "temas": [
+        "Luto Comunitário",
+        "O Valor das Boas Obras",
+        "Impacto Social"
+      ],
+      "personagens": [
+        "Pedro",
+        "Viúvas",
+        "Tabita (Dorcas)"
+      ]
     },
     "40": {
-      "parafrase": "Pedro mandou que todos saíssem, ajoelhou-se e orou. Voltando-se para o corpo, disse: 'Tabita, levante-se.' Ela abriu os olhos e, vendo Pedro, sentou-se.",
-      "referencias": ["1 Reis 17:19-23", "Marcos 5:40-42"],
-      "comentario": "O procedimento de Pedro ecoa os milagres de Elias e Jesus. Ele busca o poder de Deus em oração privada e depois fala com autoridade ao corpo. O milagre é uma clara demonstração do poder de Deus sobre a própria morte.",
-      "temas": ["ressurreição", "poder sobre a morte", "oração", "fé"],
-      "personagens": ["Pedro", "Tabita"]
+      "parafrase": "Pedro fez com que todos saíssem do quarto, ficando apenas ele e os mais próximos. Ele se ajoelhou e fez uma oração fervorosa, voltando-se em seguida para o corpo e ordenando: 'Tabita, levante-se!'",
+      "referencias": [
+        "João 11:41",
+        "Marcos 5:41"
+      ],
+      "comentario": "O ato de mandar todos saírem ecoa a ação de Jesus ao ressuscitar a filha de Jairo (Marcos 5:40). A oração demonstra que Pedro reconhece que o poder vem de Deus, e não de si mesmo. Ele usa o nome da falecida, estabelecendo uma conexão pessoal.",
+      "temas": [
+        "Isolamento para Oração",
+        "Súplica",
+        "Ressurreição"
+      ],
+      "personagens": [
+        "Pedro",
+        "Tabita (Dorcas)"
+      ]
     },
     "41": {
-      "parafrase": "Ele lhe deu a mão e a ajudou a se levantar. Então, chamando os santos e as viúvas, apresentou-a viva.",
-      "referencias": [],
-      "comentario": "A apresentação de Tabita viva transformou o luto em alegria e fortaleceu a fé da comunidade.",
-      "temas": ["restauração", "alegria", "fortalecimento da fé"],
-      "personagens": ["Pedro", "Tabita", "Santos", "Viúvas"]
+      "parafrase": "A mulher abriu os olhos. Ao ver Pedro, ela se sentou. Ele estendeu-lhe a mão, ajudou-a a se levantar, chamou os santos e as viúvas, e a apresentou viva a todos.",
+      "referencias": [
+        "Atos 3:7",
+        "1 Tessalonicenses 4:16"
+      ],
+      "comentario": "A sequência é gradual: abertura dos olhos, sentar (recuperação da consciência), a mão estendida (ajuda física), e então a apresentação pública. É um ato completo de restauração, confirmando a vida.",
+      "temas": [
+        "Ressurreição",
+        "Restauração Completa",
+        "Manifestação do Poder"
+      ],
+      "personagens": [
+        "Tabita (Dorcas)",
+        "Pedro"
+      ]
     },
     "42": {
-      "parafrase": "Isso se tornou conhecido em toda a Jope, e muitos creram no Senhor.",
-      "referencias": ["João 11:45"],
-      "comentario": "Novamente, o milagre serve a um propósito evangelístico, levando muitas pessoas a crerem no Senhor Jesus, cuja autoridade sobre a morte foi tão poderosamente demonstrada.",
-      "temas": ["evangelismo", "conversão", "impacto do milagre"],
-      "personagens": ["Senhor"]
+      "parafrase": "Essa notícia se espalhou rapidamente por toda a cidade de Jope, e muitos que viram o milagre passaram a crer no Senhor.",
+      "referencias": [
+        "João 2:11",
+        "Atos 4:16"
+      ],
+      "comentario": "O milagre de Dorcas, assim como o de Eneias, serviu como um poderoso sinal que confirmou a mensagem de Jesus, levando muitos à fé.",
+      "temas": [
+        "Fé pelo Testemunho",
+        "Impacto Regional"
+      ],
+      "personagens": [
+        "Habitantes de Jope"
+      ]
     },
     "43": {
-      "parafrase": "E Pedro ficou muitos dias em Jope, na casa de um curtidor chamado Simão.",
-      "referencias": ["Atos 10:6"],
-      "comentario": "Este detalhe é significativo. Curtidores trabalhavam com peles de animais mortos e eram considerados cerimonialmente impuros pela lei judaica. A disposição de Pedro em se hospedar com um curtidor mostra que ele já estava começando a superar as barreiras cerimoniais, preparando-o para o encontro com Cornélio no próximo capítulo.",
-      "temas": ["quebra de barreiras cerimoniais", "pureza", "preparação"],
-      "personagens": ["Pedro", "Simão, o curtidor"]
+      "parafrase": "Pedro então permaneceu em Jope por um bom tempo, hospedado na casa de um curtidor de peles chamado Simão, um homem cuja profissão era considerada impura pelos padrões judaicos.",
+      "referencias": [
+        "Atos 10:6",
+        "Levítico 11:32"
+      ],
+      "comentario": "Este versículo é a transição crucial para o próximo grande evento. O trabalho de curtidor (lidar com peles de animais mortos) era ritualmente impuro (implica contato com impureza). O fato de Pedro se hospedar ali, sem hesitação, sinaliza o rompimento iminente com as barreiras judaicas de pureza, preparando o palco para a aceitação dos gentios.",
+      "temas": [
+        "Quebra de Barreiras Culturais",
+        "Aceitação de Impuros",
+        "Missão Universal"
+      ],
+      "personagens": [
+        "Pedro",
+        "Simão, o curtidor"
+      ]
     }
   }
 }

@@ -1,208 +1,512 @@
 {
   "livro": "Daniel",
   "capitulo": 3,
-  "contexto_historico": "Este capítulo de Daniel descreve a história da estátua de ouro erguida por Nabucodonosor e a recusa de Sadraque, Mesaque e Abede-Nego em adorá-la. O rei decreta que todos devem adorar a estátua, sob pena de serem lançados em uma fornalha ardente. Os três amigos de Daniel, fiéis a Deus, se recusam a obedecer, e são lançados na fornalha. No entanto, Deus os livra milagrosamente, e Nabucodonosor reconhece o poder do Deus de Israel. O capítulo enfatiza a fidelidade a Deus em meio à perseguição e o poder divino em livrar Seus servos.",
-  "bloco_tematico": "A Fornalha Ardente e a Fidelidade dos Três Amigos",
+  "contexto_historico": "O Capítulo 3 de Daniel narra a história de Sadraque, Mesaque e Abede-Nego (nomes babilônicos para Hananias, Misael e Azarias), três jovens hebreus que serviam na corte do Rei Nabucodonosor, na Babilônia. O rei constrói uma imensa estátua de ouro e ordena que todos os seus súditos a adorem, sob pena de serem lançados na fornalha de fogo ardente 🔥. Os três amigos se recusam a adorar o ídolo, mantendo sua fidelidade inabalável ao Deus de Israel, desafiando o decreto real e a autoridade absoluta do monarca. Este episódio ocorre durante o exílio babilônico, um período de grande pressão cultural e religiosa sobre a comunidade judaica deportada.",
+  "bloco_tematico": "Fé Inabalável e Milagre na Fornalha Ardente ⛓️🔥👑",
   "versiculos": {
     "1": {
-      "parafrase": "O rei Nabucodonosor fez uma imagem de ouro, cuja altura era de sessenta côvados e a largura de seis côvados; ele a ergueu na planície de Dura, na província da Babilônia.",
-      "referencias": [],
-      "comentario": "Nabucodonosor constrói uma gigantesca estátua de ouro, provavelmente para glorificar a si mesmo e seu império. A localização na planície de Dura sugere um local público para adoração.",
-      "temas": ["imagem de ouro", "idolatria", "glória humana", "Babilônia"],
-      "personagens": ["Nabucodonosor"]
+      "parafrase": "O Rei Nabucodonosor, o poderoso governante da Babilônia, mandou fazer uma estátua colossal, um monumento de ouro maciço, cuja altura era impressionante, chegando a sessenta côvados de altura — uma torre de brilho que cegava — e seis côvados de largura, uma estrutura de magnificência inigualável.",
+      "referencias": [
+        "Apocalipse 13:14",
+        "Êxodo 20:3"
+      ],
+      "comentario": "O rei constrói uma imagem (singular, 'imagem', hebraico: 'tselem') que é um ídolo, refletindo a prática de outros impérios e, em última análise, o orgulho humano. O tamanho (60 côvados de altura, 6 de largura) é colossal, simbolizando a glória e o poder do império babilônico, contrastando com a brevidade da vida humana.",
+      "temas": [
+        "Idolatria",
+        "Poder Real",
+        "Orgulho"
+      ],
+      "personagens": [
+        "Nabucodonosor"
+      ]
     },
     "2": {
-      "parafrase": "Então o rei Nabucodonosor enviou para ajuntar os sátrapas, os prefeitos, os governadores, os juízes, os tesoureiros, os conselheiros, os oficiais e todos os governantes das províncias, para que viessem à dedicação da imagem que o rei Nabucodonosor havia erguido.",
-      "referencias": [],
-      "comentario": "O rei convoca todos os seus oficiais e governantes para a dedicação da imagem, exigindo a participação de todos em seu ato de adoração. A convocação é para demonstrar poder e unidade.",
-      "temas": ["convocação", "dedicação", "adoração", "poder", "unidade"],
-      "personagens": ["Nabucodonosor"]
+      "parafrase": "Então, Nabucodonosor enviou mensageiros a todos os altos funcionários do seu vasto império — os sátrapas, os governadores, os administradores, os conselheiros, os tesoureiros, os juízes, os magistrados e todos os oficiais das províncias — para que se reunissem na dedicação desta estátua que ele havia erguido.",
+      "referencias": [
+        "Esdras 6:2",
+        "Jeremias 51:27"
+      ],
+      "comentario": "A mobilização de todas as esferas de poder (a lista detalhada de cargos) demonstra a autoridade absoluta do rei e a importância política e religiosa que ele atribui ao evento. A reunião é forçada para testemunhar a glória do seu ídolo.",
+      "temas": [
+        "Autoridade Imperial",
+        "Coerção Política",
+        "Adoração Forçada"
+      ],
+      "personagens": [
+        "Nabucodonosor"
+      ]
     },
     "3": {
-      "parafrase": "Então os sátrapas, os prefeitos, os governadores, os juízes, os tesoureiros, os conselheiros, os oficiais e todos os governantes das províncias se ajuntaram para a dedicação da imagem que o rei Nabucodonosor havia erguido; e eles ficaram em pé diante da imagem que Nabucodonosor havia erguido.",
-      "referencias": [],
-      "comentario": "Todos os convocados se reúnem para a dedicação, mostrando sua obediência ao rei e sua participação no ato de adoração. A conformidade é esperada.",
-      "temas": ["obediência", "dedicação", "adoração", "conformidade"],
+      "parafrase": "Assim, todos os grandes líderes se reuniram no vale de Dura, onde a estátua estava instalada, e se sentaram ali, aguardando as ordens do rei.",
+      "referencias": [
+        "Salmos 137:1"
+      ],
+      "comentario": "O vale de Dura ('morada' ou 'porto') se torna o palco central para este ato de lealdade forçada. O termo 'se sentaram ali' indica a espera formal pela cerimônia começar.",
+      "temas": [
+        "Concentração de Poder",
+        "Obediência",
+        "Cenário de Julgamento"
+      ],
       "personagens": []
     },
     "4": {
-      "parafrase": "Então um arauto clamou em alta voz: 'A vocês é ordenado, ó povos, nações e línguas,
-    "5": {
-      "parafrase": "que no momento em que vocês ouvirem o som da corneta, da flauta, da harpa, da lira, do saltério, da gaita de foles e de todo tipo de música, vocês se prostrem e adorem a imagem de ouro que o rei Nabucodonosor ergueu.'",
-      "referencias": [],
-      "comentario": "Um arauto proclama o decreto real: todos devem se prostrar e adorar a imagem de ouro ao som da música, sob pena de morte. A adoração é compulsória e universal.",
-      "temas": ["decreto real", "adoração compulsória", "música", "pena de morte"],
+      "parafrase": "Um arauto, com voz forte e clara, proclamou a ordem para toda a multidão reunida:",
+      "referencias": [
+        "Apocalipse 5:2"
+      ],
+      "comentario": "A figura do arauto (mensageiro oficial) enfatiza a formalidade e a publicidade do decreto real. O contraste entre a ordem e a verdade de Deus está prestes a ser estabelecido.",
+      "temas": [
+        "Proclamação",
+        "Decreto Real",
+        "Audiência Pública"
+      ],
       "personagens": []
     },
+    "5": {
+      "parafrase": "'Atenção! Quando ouvirem o som da música — a trombeta, o instrumento de sopro, a harpa, a lira, o saltério e todos os outros instrumentos musicais — vocês deverão imediatamente prostrar-se e adorar a imagem de ouro que o Rei Nabucodonosor ergueu. Quem não se curvar e não adorar será lançado sem demora no meio do forno ardente!' 🔥",
+      "referencias": [
+        "Salmos 150:3-5",
+        "Apocalipse 14:9"
+      ],
+      "comentario": "A ordem é clara: adoração musical. A pena é a morte pelo fogo (hebraico: 'l'qad' - ser jogado no fogo). O uso de múltiplos instrumentos sublinha a solenidade e a necessidade de uma resposta imediata e total.",
+      "temas": [
+        "Adoração Obrigatória",
+        "Pena de Morte",
+        "Fogo como Instrumento de Julgamento"
+      ],
+      "personagens": [
+        "Nabucodonosor"
+      ]
+    },
     "6": {
-      "parafrase": "'E quem não se prostrar e adorar será lançado na mesma hora no meio de uma fornalha de fogo ardente.'",
-      "references": [],
-      "comentario": "A punição pela desobediência é imediata e severa: ser lançado em uma fornalha ardente. A ameaça é para garantir a obediência.",
-      "temas": ["punição", "fornalha ardente", "desobediência", "ameaça"],
+      "parafrase": "Imediatamente, assim que a música ressoou, todos os povos, tribos e nações presentes caíram com os rostos no chão diante da estátua de ouro e prestaram homenagem ao ídolo do rei.",
+      "referencias": [
+        "Apocalipse 13:15"
+      ],
+      "comentario": "A obediência instantânea da vasta maioria demonstra a eficácia do medo e do poder imperial. A descrição abrange 'todos os povos, línguas e nações', mostrando o alcance do império.",
+      "temas": [
+        "Conformidade",
+        "Medo",
+        "Universalidade da Ordem"
+      ],
       "personagens": []
     },
     "7": {
-      "parafrase": "Portanto, no momento em que todos os povos ouviram o som da corneta, da flauta, da harpa, da lira, do saltério, e de todo tipo de música, todos os povos, nações e línguas se prostraram e adoraram a imagem de ouro que o rei Nabucodonosor havia erguido.",
-      "references": [],
-      "comentario": "Todos os povos obedecem ao decreto real, prostrando-se e adorando a imagem. A conformidade é generalizada, exceto por alguns.",
-      "temas": ["obediência", "adoração", "conformidade", "música"],
-      "personagens": []
+      "parafrase": "Contudo, alguns homens judeus — Sadraque, Mesaque e Abede-Nego — que tinham sido colocados em posições de destaque na província da Babilônia, não se moveram. Eles permaneceram firmes, de pé, recusando-se a dobrar os joelhos perante a imagem de ouro do rei.",
+      "referencias": [
+        "Hebreus 11:34",
+        "Romanos 12:2"
+      ],
+      "comentario": "O contraste é estabelecido. Sadraque, Mesaque e Abede-Nego (nomes babilônicos para Hananias, Misael e Azarias) permanecem eretos. O ato de permanecer em pé, enquanto todos se prostram, é um ato de desafio teológico e lealdade exclusiva a Yahweh.",
+      "temas": [
+        "Fidelidade Inabalável",
+        "Resistência à Pressão",
+        "Testemunho"
+      ],
+      "personagens": [
+        "Sadraque",
+        "Mesaque",
+        "Abede-Nego"
+      ]
     },
     "8": {
-      "parafrase": "Portanto, naquele momento, alguns caldeus se aproximaram e acusaram os judeus.",
-      "references": [],
-      "comentario": "Alguns caldeus, provavelmente invejosos do sucesso dos judeus, os acusam de desobediência ao rei. A inveja é a motivação da acusação.",
-      "temas": ["acusação", "inveja", "judeus", "desobediência"],
-      "personagens": []
+      "parafrase": "Por causa disso, alguns caldeus se aproximaram rapidamente e denunciaram os hebreus com grande fúria.",
+      "referencias": [
+        "Mateus 23:33"
+      ],
+      "comentario": "Os caldeus (os sacerdotes ou administradores babilônicos) agem como espiões religiosos e políticos. Sua 'fúria' é impulsionada pela ameaça que a desobediência deles representa à autoridade do rei.",
+      "temas": [
+        "Acusação",
+        "Inveja",
+        "Zelo Falso"
+      ],
+      "personagens": [
+        "Caldeus"
+      ]
     },
     "9": {
-      "parafrase": "Eles falaram e disseram ao rei Nabucodonosor: 'Ó rei, viva para sempre!'",
-      "references": [],
-      "comentario": "Os caldeus se dirigem ao rei com a saudação formal, preparando o terreno para sua acusação.",
-      "temas": ["saudação", "acusação", "formalidade"],
-      "personagens": []
+      "parafrase": "Eles falaram ao rei, dizendo: 'Ó Majestade, viva para sempre! Sua ordem foi clara: todos devem adorar a estátua de ouro e se curvar quando a música começar. Caso contrário, seriam jogados no forno de fogo intenso.'",
+      "referencias": [
+        "Lucas 19:38"
+      ],
+      "comentario": "Os acusadores repetem a lei do rei para legitimar sua denúncia, focando na quebra da ordem e não no motivo teológico.",
+      "temas": [
+        "Ato de Denúncia",
+        "Obediência à Lei Humana",
+        "Lealdade ao Estado"
+      ],
+      "personagens": [
+        "Nabucodonosor"
+      ]
     },
     "10": {
-      "parafrase": "'Você, ó rei, fez um decreto de que todo homem que ouvir o som da corneta, da flauta, da harpa, da lira, do saltério, da gaita de foles e de todo tipo de música, deve se prostrar e adorar a imagem de ouro;
+      "parafrase": "Mas, Majestade, há homens judeus que você colocou para administrar a cidade de Babilônia — Sadraque, Mesaque e Abede-Nego — que ignoraram completamente a sua autoridade! Eles não se curvam diante da sua estátua nem adoram o seu deus de ouro!'",
+      "referencias": [
+        "1 Reis 18:17"
+      ],
+      "comentario": "A denúncia foca na ousadia dos três em ignorar deliberadamente a ordem real, destacando seus nomes e posições para aumentar o impacto político da ofensa.",
+      "temas": [
+        "Desafio Aberto",
+        "Ofensa à Soberania",
+        "Negação da Deidade Imperial"
+      ],
+      "personagens": [
+        "Sadraque",
+        "Mesaque",
+        "Abede-Nego",
+        "Nabucodonosor"
+      ]
+    },
     "11": {
-      "parafrase": "e quem não se prostrar e adorar será lançado no meio de uma fornalha de fogo ardente.'",
-      "references": [],
-      "comentario": "Os caldeus relembram o decreto real, enfatizando a punição pela desobediência. Eles buscam incitar a ira do rei contra os judeus.",
-      "temas": ["decreto real", "punição", "incitação", "ira"],
-      "personagens": []
+      "parafrase": "Ao ouvir estas palavras, o Rei Nabucodonosor foi tomado por uma fúria terrível e imediata. Ele convocou os três homens para serem trazidos à sua presença para serem confrontados pessoalmente.",
+      "referencias": [
+        "Provérbios 16:14"
+      ],
+      "comentario": "A reação do rei é de ira descontrolada ('muito irado' em algumas traduções). Ele exige o julgamento sumário, pessoalmente, demonstrando que sua honra foi diretamente atacada.",
+      "temas": [
+        "Ira Real",
+        "Confronto Direto",
+        "Julgamento Pessoal"
+      ],
+      "personagens": [
+        "Nabucodonosor",
+        "Sadraque",
+        "Mesaque",
+        "Abede-Nego"
+      ]
     },
     "12": {
-      "parafrase": "'Há certos judeus que você pôs sobre os negócios da província da Babilônia, Sadraque, Mesaque e Abede-Nego; estes homens, ó rei, não deram atenção a você; eles não servem aos seus deuses, nem adoram a imagem de ouro que você ergueu.'",
-      "references": [],
-      "comentario": "Os caldeus acusam Sadraque, Mesaque e Abede-Nego de desobediência ao rei, de não servir aos seus deuses e de não adorar a imagem. A acusação é direta e específica.",
-      "temas": ["acusação", "desobediência", "idolatria", "fidelidade a Deus"],
-      "personagens": ["Sadraque", "Mesaque", "Abede-Nego"]
+      "parafrase": "Nabucodonosor então lhes perguntou, com uma voz carregada de ameaça: 'É verdade, Sadraque, Mesaque e Abede-Nego, que vocês se recusam a servir aos meus deuses e a se prostrar diante da estátua de ouro que eu levantei? Se for esse o caso, saibam que terão uma segunda chance!'",
+      "referencias": [
+        "Gálatas 6:7"
+      ],
+      "comentario": "O rei lhes dá uma oportunidade de se retratar, perguntando se a acusação é verdadeira. A implicação é que, se for verdade, o castigo será aplicado.",
+      "temas": [
+        "Confronto",
+        "Oportunidade de Retratação",
+        "Lealdade"
+      ],
+      "personagens": [
+        "Nabucodonosor",
+        "Sadraque",
+        "Mesaque",
+        "Abede-Nego"
+      ]
     },
     "13": {
-      "parafrase": "Então Nabucodonosor, em fúria e ira, ordenou que Sadraque, Mesaque e Abede-Nego fossem trazidos. Então esses homens foram trazidos diante do rei.",
-      "references": [],
-      "comentario": "O rei Nabucodonosor, em sua fúria, ordena que os três amigos sejam trazidos diante dele. A ira do rei é perigosa.",
-      "temas": ["fúria", "ira", "ordem", "perigo"],
-      "personagens": ["Nabucodonosor", "Sadraque", "Mesaque", "Abede-Nego"]
+      "parafrase": "O rei continuou, lançando o ultimato final: 'Se vocês não se ajoelharem no momento em que ouvirem a música, serão imediatamente jogados no coração do forno incandescente! E me digam, qual é o deus que ousará livrá-los das minhas mãos?'",
+      "referencias": [
+        "Salmos 115:3",
+        "Isaías 43:2"
+      ],
+      "comentario": "Este versículo sela o desafio de Nabucodonosor. Ele duvida publicamente do poder do Deus de Israel ('qual é o deus...'). O forno não é apenas um instrumento de punição, mas um teste de poder divino.",
+      "temas": [
+        "Ultimato",
+        "Desafio a Deus",
+        "Poder Absoluto"
+      ],
+      "personagens": [
+        "Nabucodonosor"
+      ]
     },
     "14": {
-      "parafrase": "Nabucodonosor falou e lhes disse: 'É verdade, ó Sadraque, Mesaque e Abede-Nego, que vocês não servem aos meus deuses, nem adoram a imagem de ouro que eu erguei?'",
-      "references": [],
-      "comentario": "O rei questiona os três amigos sobre sua desobediência, dando-lhes uma oportunidade de se retratar. A pergunta é direta e exige uma resposta.",
-      "temas": ["questionamento", "desobediência", "idolatria", "oportunidade"],
-      "personagens": ["Nabucodonosor", "Sadraque", "Mesaque", "Abede-Nego"]
+      "parafrase": "Sadraque, Mesaque e Abede-Nego responderam ao rei com calma e firmeza, sem vacilar:",
+      "referencias": [
+        "Atos 4:19"
+      ],
+      "comentario": "A resposta é marcada pela tranquilidade ('sem vacilar'). Eles abordam o rei com o título formal, mas seu foco já está transferido da autoridade humana para a divina.",
+      "temas": [
+        "Coragem",
+        "Respeito Calmo",
+        "Assertividade"
+      ],
+      "personagens": [
+        "Sadraque",
+        "Mesaque",
+        "Abede-Nego"
+      ]
     },
     "15": {
-      "parafrase": "'Agora, se vocês estiverem prontos, que no momento em que vocês ouvirem o som da corneta, da flauta, da harpa, da lira, do saltério, da gaita de foles e de todo tipo de música, vocês se prostrem e adorem a imagem que eu fiz; mas se vocês não adorarem, vocês serão lançados na mesma hora no meio de uma fornalha de fogo ardente; e quem é o deus que os livrará das minhas mãos?'",
-      "references": [],
-      "comentario": "O rei lhes dá uma última chance de adorar a imagem, reiterando a ameaça da fornalha e desafiando o Deus deles a livrá-los. O desafio é direto e arrogante.",
-      "temas": ["última chance", "adoração", "fornalha ardente", "desafio", "arrogância"],
-      "personagens": ["Nabucodonosor"]
+      "parafrase": "'Nabucodonosor, não precisamos nos defender ou argumentar com você sobre este assunto. Não temos a menor necessidade de lhe dar uma explicação detalhada sobre nossa conduta.'",
+      "referencias": [
+        "Lucas 12:11",
+        "1 Pedro 3:15"
+      ],
+      "comentario": "Eles rejeitam a necessidade de 'defesa' ou 'resposta' formal (hebraico: 'n't’hēbīn' - dar um parecer). A verdade de sua fé é autoevidente, tornando qualquer defesa humana desnecessária.",
+      "temas": [
+        "Transparência",
+        "Rejeição da Justificação Humana",
+        "Suficiência da Fé"
+      ],
+      "personagens": [
+        "Nabucodonosor",
+        "Sadraque",
+        "Mesaque",
+        "Abede-Nego"
+      ]
     },
     "16": {
-      "parafrase": "Sadraque, Mesaque e Abede-Nego responderam e disseram ao rei: 'Ó Nabucodonosor, não precisamos responder a você neste assunto.'",
-      "references": [],
-      "comentario": "Os três amigos respondem ao rei com coragem e determinação, afirmando que não precisam se defender. Sua fé em Deus é inabalável.",
-      "temas": ["coragem", "determinação", "fé", "resposta"],
-      "personagens": ["Sadraque", "Mesaque", "Abede-Nego"]
+      "parafrase": "Pois saiba, ó rei, que não nos curvaremos diante da sua imagem, nem a serviremos. Nosso Deus, a quem servimos, é capaz de nos salvar do fogo ardente que você preparou.",
+      "referencias": [
+        "Salmos 27:14",
+        "Filipenses 4:13"
+      ],
+      "comentario": "Esta é a declaração central da fé deles. Eles afirmam a 'capacidade' (hebraico: 'yākōl') de Deus de salvar, reconhecendo o poder salvífico divino.",
+      "temas": [
+        "Declaração de Fé",
+        "Poder de Deus",
+        "Fidelidade no Serviço"
+      ],
+      "personagens": [
+        "Nabucodonosor",
+        "Sadraque",
+        "Mesaque",
+        "Abede-Nego"
+      ]
     },
     "17": {
-      "parafrase": "'Se for assim, o nosso Deus a quem servimos é capaz de nos livrar da fornalha de fogo ardente, e Ele nos livrará da sua mão, ó rei.'",
-      "references": [],
-      "comentario": "Eles declaram sua fé no poder de Deus para livrá-los da fornalha e da mão do rei. Sua confiança é absoluta e sem reservas.",
-      "temas": ["fé", "poder de Deus", "livramento", "confiança"],
-      "personagens": []
+      "parafrase": "Mas, ainda que Ele não o faça, mesmo que nosso Deus decida não intervir e nos deixar queimar, queremos que você saiba, ó rei, que ainda assim não serviremos aos seus deuses nem adoraremos a estátua de ouro que você mandou fazer!'",
+      "referencias": [
+        "Romanos 8:38-39",
+        "Hebreus 11:35-37"
+      ],
+      "comentario": "Este é o ápice da sua coragem. Eles exercem a fé na soberania de Deus, aceitando a possibilidade da morte. Isso demonstra que sua lealdade não é baseada em recompensas, mas no caráter de Deus.",
+      "temas": [
+        "Aceitação do Sofrimento",
+        "Lealdade Incondicional",
+        "Soberania Divina"
+      ],
+      "personagens": [
+        "Nabucodonosor",
+        "Sadraque",
+        "Mesaque",
+        "Abede-Nego"
+      ]
     },
     "18": {
-      "parafrase": "'Mas se não, que seja conhecido a você, ó rei, que não serviremos aos seus deuses, nem adoraremos a imagem de ouro que você ergueu.'",
-      "references": [],
-      "comentario": "Eles afirmam que, mesmo que Deus não os livre, eles não servirão aos deuses do rei nem adorarão a imagem. Sua fidelidade a Deus é incondicional.",
-      "temas": ["fidelidade incondicional", "adoração", "recusa", "determinação"],
-      "personagens": []
+      "parafrase": "A determinação deles era tão cristalina que não havia mais margem para negociação. Eles estavam prontos para enfrentar o fogo, qualquer que fosse o resultado imediato.",
+      "referencias": [
+        "Atos 5:29"
+      ],
+      "comentario": "Este versículo serve como uma transição, resumindo a firmeza da decisão. Eles já aceitaram a sentença, e agora a lei humana deve seguir seu curso.",
+      "temas": [
+        "Resolução",
+        "Prontidão para o Martírio",
+        "Fim da Discussão"
+      ],
+      "personagens": [
+        "Sadraque",
+        "Mesaque",
+        "Abede-Nego"
+      ]
     },
     "19": {
-      "parafrase": "Então Nabucodonosor ficou cheio de fúria, e a expressão de seu rosto mudou contra Sadraque, Mesaque e Abede-Nego; ele ordenou que a fornalha fosse aquecida sete vezes mais do que o habitual.",
-      "references": [],
-      "comentario": "O rei, em sua fúria, ordena que a fornalha seja aquecida sete vezes mais, mostrando sua ira e sua determinação em punir os três amigos. A crueldade é evidente.",
-      "temas": ["fúria", "ira", "fornalha ardente", "punição", "crueldade"],
-      "personagens": ["Nabucodonosor"]
+      "parafrase": "Ao ouvir essa resposta desafiadora, Nabucodonosor sentiu seu rosto se contorcer de raiva, e sua expressão mudou drasticamente. Ele ordenou que o forno fosse aquecido sete vezes mais do que o normal, ao ponto de ser insuportavelmente quente.",
+      "referencias": [
+        "Provérbios 16:18"
+      ],
+      "comentario": "A ira do rei é visível. O forno é aquecido 'sete vezes' — o número sete denota plenitude ou intensidade máxima. Isso demonstra a intenção de aniquilação total, um exagero de força para esmagar a fé deles.",
+      "temas": [
+        "Intensificação da Punição",
+        "Fúria Desmedida",
+        "Poder Destrutivo"
+      ],
+      "personagens": [
+        "Nabucodonosor"
+      ]
     },
     "20": {
-      "parafrase": "E ele ordenou aos homens mais poderosos de seu exército que amarrassem Sadraque, Mesaque e Abede-Nego, e os lançassem na fornalha de fogo ardente.",
-      "references": [],
-      "comentario": "Os homens mais poderosos do exército do rei são encarregados de amarrar e lançar os três amigos na fornalha. A execução é iminente.",
-      "temas": ["execução", "fornalha ardente", "amarrar", "ordem"],
-      "personagens": []
+      "parafrase": "Ele então ordenou a alguns dos homens mais fortes do seu exército que amarrassem Sadraque, Mesaque e Abede-Nego, e os jogassem rapidamente no meio das chamas crepitantes.",
+      "referencias": [
+        "Atos 7:58"
+      ],
+      "comentario": "O rei usa seus 'homens mais fortes' (fortes guerreiros), sublinhando que a tarefa de executar a sentença não é trivial, dado o calor extremo. A rapidez da ação reflete a urgência de sua raiva.",
+      "temas": [
+        "Execução da Sentença",
+        "Força Bruta",
+        "Calor Extremo"
+      ],
+      "personagens": [
+        "Nabucodonosor",
+        "Sadraque",
+        "Mesaque",
+        "Abede-Nego"
+      ]
     },
     "21": {
-      "parafrase": "Então esses homens foram amarrados em suas capas, suas túnicas, seus turbantes e suas outras vestes, e foram lançados no meio da fornalha de fogo ardente.",
-      "references": [],
-      "comentario": "Os três amigos são lançados na fornalha com suas vestes, mostrando a rapidez da execução e a totalidade da imersão no fogo.",
-      "temas": ["fornalha ardente", "vestes", "execução", "imersão"],
-      "personagens": []
+      "parafrase": "Com os vestidos, túnicas, chapéus e todas as suas roupas externas ainda sobre eles, os três jovens hebreus foram lançados, desamparados, diretamente para dentro do fogo que rugia.",
+      "referencias": [
+        "Hebreus 11:34"
+      ],
+      "comentario": "O fato de estarem vestidos com suas roupas 'externas' (m’ʿaḍānāw, ou roupas da corte) reforça que eles não tiveram tempo de se despir, sendo jogados no fogo em sua condição plena, sem qualquer preparação para o calor.",
+      "temas": [
+        "Integridade",
+        "Confronto Total",
+        "Súbita Agonia"
+      ],
+      "personagens": [
+        "Sadraque",
+        "Mesaque",
+        "Abede-Nego"
+      ]
     },
     "22": {
-      "parafrase": "Portanto, porque a ordem do rei era urgente e a fornalha estava extremamente aquecida, a chama do fogo matou aqueles homens que levaram Sadraque, Mesaque e Abede-Nego.",
-      "references": [],
-      "comentario": "A intensidade do fogo é tão grande que mata os homens que lançaram os três amigos na fornalha. O poder do fogo é assustador.",
-      "temas": ["fogo", "intensidade", "morte", "poder"],
-      "personagens": []
+      "parafrase": "Como o comando do rei era urgente e o forno estava excessivamente aquecido, a força do fogo consumiu aqueles homens que os jogaram, e uma labareda subiu e fulminou aqueles que se aproximaram demais para lançá-los.",
+      "referencias": [
+        "Levítico 10:2"
+      ],
+      "comentario": "Ironia do destino: o fogo, destinado aos três hebreus, devora seus carrascos. Isso prova o calor sobrenatural do forno, que ultrapassava a capacidade humana comum de suportar.",
+      "temas": [
+        "Justiça Poética",
+        "Poder Destrutivo do Fogo",
+        "Intervenção"
+      ],
+      "personagens": [
+        "Nabucodonosor"
+      ]
     },
     "23": {
-      "parafrase": "E esses três homens, Sadraque, Mesaque e Abede-Nego, caíram amarrados no meio da fornalha de fogo ardente.",
-      "references": [],
-      "comentario": "Os três amigos caem amarrados na fornalha, mas sua fé em Deus permanece inabalável. A cena é de grande tensão e expectativa.",
-      "temas": ["fornalha ardente", "amarrados", "fé", "tensão"],
-      "personagens": ["Sadraque", "Mesaque", "Abede-Nego"]
+      "parafrase": "Os três jovens, no entanto, caíram dentro das chamas, amarrados, mas milagrosamente ilesos, e caíram no meio do fogo ardente.",
+      "referencias": [
+        "Isaías 43:2"
+      ],
+      "comentario": "O milagre começa com a queda ilesa. Eles caem dentro do fogo, mas a teia da destruição que consumiu os executores não os toca.",
+      "temas": [
+        "Milagre",
+        "Proteção Divina",
+        "Imunidade ao Fogo"
+      ],
+      "personagens": [
+        "Sadraque",
+        "Mesaque",
+        "Abede-Nego"
+      ]
     },
     "24": {
-      "parafrase": "Então o rei Nabucodonosor ficou espantado e se levantou apressadamente; ele falou e disse aos seus conselheiros: 'Não lançamos três homens amarrados no meio do fogo?' Eles responderam e disseram ao rei: 'É verdade, ó rei.'",
-      "references": [],
-      "comentario": "O rei Nabucodonosor fica espantado ao ver algo incomum na fornalha. Sua surpresa é evidente, e ele questiona seus conselheiros.",
-      "temas": ["espanto", "surpresa", "questionamento", "rei"],
-      "personagens": ["Nabucodonosor"]
+      "parafrase": "Então, Nabucodonosor, tomado de espanto e perplexidade, levantou-se rapidamente e perguntou aos seus conselheiros de maior confiança: 'Não jogamos três homens amarrados no meio do fogo?!' Eles confirmaram ao rei: 'Sim, Majestade, é verdade!'",
+      "referencias": [
+        "Jó 12:14"
+      ],
+      "comentario": "A reação do rei é de choque absoluto, pois o resultado contradiz a física e a lógica. O uso do termo 'espanto' (hebraico: 'shammâh') indica um profundo assombro.",
+      "temas": [
+        "Choque do Opressor",
+        "Confirmação do Fato",
+        "Intervenção Divina Evidente"
+      ],
+      "personagens": [
+        "Nabucodonosor"
+      ]
     },
     "25": {
-      "parafrase": "Ele respondeu e disse: 'Vejam, eu vejo quatro homens soltos, andando no meio do fogo, e eles não têm dano; e a aparência do quarto é semelhante a um filho dos deuses.'",
-      "references": [],
-      "comentario": "O rei vê quatro homens andando ilesos no fogo, e a aparência do quarto é divina. O milagre é evidente e a presença divina é manifesta.",
-      "temas": ["milagre", "livramento", "presença divina", "aparência divina"],
-      "personagens": ["Nabucodonosor"]
+      "parafrase": "O rei exclamou, maravilhado: 'Mas eu estou vendo quatro homens soltos, caminhando livremente no meio das chamas, e eles não sofreram dano algum! E a aparência do quarto homem é como a de um ser divino, um filho dos deuses!' 🌟",
+      "referencias": [
+        "Gênesis 32:30",
+        "Hebreus 1:14"
+      ],
+      "comentario": "Este é o clímax. A visão do quarto ser, que é solto e anda com eles, é a manifestação visível do Anjo do Senhor (o 'Malak YHWH'). Nabucodonosor, um politeísta, interpreta-o como um ser semidivino ('semelhante a um filho dos deuses'), reconhecendo uma força superior em ação.",
+      "temas": [
+        "Manifestação Divina",
+        "Presença Angelical",
+        "Proteção Sobrenatural"
+      ],
+      "personagens": [
+        "Nabucodonosor",
+        "Sadraque",
+        "Mesaque",
+        "Abede-Nego"
+      ]
     },
     "26": {
-      "parafrase": "Então Nabucodonosor se aproximou da boca da fornalha de fogo ardente; ele falou e disse: 'Sadraque, Mesaque e Abede-Nego, servos do Deus Altíssimo, saiam e venham para cá!' Então Sadraque, Mesaque e Abede-Nego saíram do meio do fogo.",
-      "references": [],
-      "comentario": "O rei convoca os três amigos a saírem da fornalha, reconhecendo-os como servos do Deus Altíssimo. O livramento é público e glorioso.",
-      "temas": ["convocação", "servos de Deus", "livramento", "glória"],
-      "personagens": ["Nabucodonosor", "Sadraque", "Mesaque", "Abede-Nego"]
+      "parafrase": "Então o rei Nabucodonosor, tomado de espanto e temor, dirigiu-se a Sadraque, Mesaque e Abede-Nego, e disse: 'Vocês, servos do Altíssimo Deus, saiam imediatamente daí de dentro do fogo ardente!'. E assim, eles, ilesos e sem um fio de cabelo queimado ou cheiro de fumaça em suas roupas, emergiram das chamas vorazes. Era um milagre visível diante de todos. 🔥",
+      "referencias": [
+        "Gênesis 15:6",
+        "Hebreus 11:34"
+      ],
+      "comentario": "Nabucodonosor chama os amigos de 'servos do Deus Altíssimo' (El Elyon), reconhecendo publicamente a soberania do Deus de Daniel, algo que ele relutantemente admite. A descrição de que 'nem a cor de suas vestes se havia mudado' (conforme o texto completo de Daniel 3) enfatiza a perfeição do livramento, um testemunho inegável da intervenção divina. Eles saem intactos, provando que o poder do fogo não prevaleceu sobre a fé deles.",
+      "temas": [
+        "Milagre",
+        "Soberania Divina",
+        "Testemunho Público"
+      ],
+      "personagens": [
+        "Nabucodonosor",
+        "Sadraque",
+        "Mesaque",
+        "Abede-Nego"
+      ]
     },
     "27": {
-      "parafrase": "E os sátrapas, os prefeitos, os governadores e os conselheiros do rei se ajuntaram e viram esses homens, sobre cujos corpos o fogo não teve poder, nem um fio de cabelo de suas cabeças foi queimado, nem suas vestes foram alteradas, nem o cheiro de fogo havia passado sobre eles.",
-      "references": [],
-      "comentario": "Os oficiais do rei testemunham o milagre: o fogo não teve poder sobre os corpos, cabelos ou vestes dos três amigos. O livramento é completo e sobrenatural.",
-      "temas": ["milagre", "livramento", "fogo", "sobrenatural", "testemunho"],
-      "personagens": []
+      "parafrase": "Os príncipes, governadores, sátrapas e conselheiros reais se reuniram em volta, observando de perto aqueles homens. Eles viram com seus próprios olhos que o fogo não tinha tido poder algum sobre seus corpos. O cheiro de queimado não estava neles; suas roupas estavam intactas, e sequer um fio de cabelo havia sumido. Eles eram a prova viva de que Deus havia operado um resgate sobrenatural. 👀",
+      "referencias": [
+        "Salmos 66:8-12",
+        "Isaías 43:2"
+      ],
+      "comentario": "Este versículo descreve a inspeção minuciosa dos oficiais. A nudez da sua integridade física serviu como prova irrefutável. A palavra hebraica para 'poder' aqui implica domínio ou autoridade sobre eles; o fogo não tinha autoridade para consumi-los. Este é um momento crucial de conversão forçada para Nabucodonosor, pois a evidência é pública e óbvia.",
+      "temas": [
+        "Integridade",
+        "Evidência Sobrenatural",
+        "Poder sobre os Elementos"
+      ],
+      "personagens": [
+        "Príncipes",
+        "Governadores",
+        "Sátrapas",
+        "Conselheiros"
+      ]
     },
     "28": {
-      "parafrase": "Nabucodonosor falou e disse: 'Bendito seja o Deus de Sadraque, Mesaque e Abede-Nego, que enviou o seu anjo e livrou os seus servos que confiaram Nele, e alteraram a palavra do rei, e entregaram os seus corpos, para que não servissem nem adorassem a nenhum deus, exceto o seu próprio Deus.'",
-      "references": [],
-      "comentario": "Nabucodonosor bendiz a Deus, reconhecendo Seu poder em livrar Seus servos que confiaram Nele e se recusaram a adorar outros deuses. A confissão do rei é um testemunho da soberania de Deus.",
-      "temas": ["bênção", "Deus Altíssimo", "livramento", "confiança em Deus", "soberania divina"],
-      "personagens": ["Nabucodonosor"]
+      "parafrase": "Então Nabucodonosor irrompeu em louvor e declarou: 'Bendito seja o Deus de Sadraque, Mesaque e Abede-Nego! Ele enviou o Seu Anjo e resgatou os Seus servos que confiaram nEle, pois desafiaram a minha ordem real e preferiram morrer a adorar ou servir a qualquer outro deus que não fosse o Seu!'. 🗣️",
+      "referencias": [
+        "Deuteronômio 10:17",
+        "Apocalipse 15:4"
+      ],
+      "comentario": "A declaração de Nabucodonosor é uma confissão pública. Ele reconhece que o livramento não foi obra de magia ou sorte, mas de uma intervenção angelical ('Seu Anjo' ou 'Seu Mensageiro'). O ponto central da confissão é que a razão do livramento foi a fé absoluta deles, que os levou a preferir a morte à desobediência ao verdadeiro Deus, contrastando com a tirania do rei.",
+      "temas": [
+        "Confissão Real",
+        "Fidelidade Extrema",
+        "Intervenção Angélica"
+      ],
+      "personagens": [
+        "Nabucodonosor",
+        "Sadraque",
+        "Mesaque",
+        "Abede-Nego"
+      ]
     },
     "29": {
-      "parafrase": "'Portanto, faço um decreto de que todo povo, nação e língua que falar algo errado contra o Deus de Sadraque, Mesaque e Abede-Nego, será despedaçado, e suas casas serão feitas um monturo; porque não há outro deus que possa livrar assim.'",
-      "references": [],
-      "comentario": "O rei decreta que qualquer um que falar contra o Deus dos três amigos será punido severamente, pois não há outro deus que possa livrar assim. O decreto é um reconhecimento do poder de Deus.",
-      "temas": ["decreto", "punição", "reconhecimento", "poder de Deus"],
-      "personagens": ["Nabucodonosor"]
+      "parafrase": "Por causa disto, eu estabeleço um decreto: Que qualquer pessoa, de qualquer nação, língua ou povo, que proferir uma palavra desrespeitosa contra o Deus que protege Sadraque, Mesaque e Abede-Nego, seja desmembrada, e sua casa transformada em um monte de ruínas! Pois não existe outro deus que possa realizar um resgate tão espetacular como este! 📜",
+      "referencias": [
+        "Êxodo 20:3",
+        "Jeremias 10:11"
+      ],
+      "comentario": "O decreto real estabelece uma lei draconiana. A punição (ser despedaçado/desmembrado) reflete o extremo da ofensa percebida: blasfemar contra o Deus vitorioso. Nabucodonosor universaliza o culto ao Deus de Israel, estendendo a lei a todo o seu vasto império, validando a fé de seus súditos cativos através do terror estatal. A lógica do rei é: Se Ele pode fazer isso, Ele é o Deus supremo.",
+      "temas": [
+        "Decreto Imperial",
+        "Blasfêmia",
+        "Terrorismo de Estado (como instrumento de fé)"
+      ],
+      "personagens": [
+        "Nabucodonosor"
+      ]
     },
     "30": {
-      "parafrase": "Então o rei promoveu Sadraque, Mesaque e Abede-Nego na província da Babilônia.",
-      "references": [],
-      "comentario": "O rei promove os três amigos na província da Babilônia, recompensando sua fidelidade e o poder de seu Deus. A exaltação é um sinal da bênção divina.",
-      "temas": ["promoção", "recompensa", "fidelidade", "bênção divina"],
-      "personagens": ["Nabucodonosor", "Sadraque", "Mesaque", "Abede-Nego"]
+      "parafrase": "Finalmente, o rei aumentou a posição e o poder de Sadraque, Mesaque e Abede-Nego em toda a província da Babilônia, garantindo que eles tivessem ainda mais influência e autoridade em seus cargos administrativos. 👑",
+      "referencias": [
+        "Salmos 75:6-7",
+        "Provérbios 18:16"
+      ],
+      "comentario": "O resultado final é a ascensão profissional e política dos judeus. Deus não apenas os salva do fogo, mas usa o poder do rei pagão para promovê-los. Isso demonstra que a fidelidade a Deus frequentemente resulta em bênçãos materiais e posição social, mesmo em ambientes hostis. 'Aumentou o rei' (Hebraico: higdîl) denota uma exaltação formal no sistema burocrático babilônico.",
+      "temas": [
+        "Promoção Divina",
+        "Recompensa",
+        "Influência Política"
+      ],
+      "personagens": [
+        "Nabucodonosor",
+        "Sadraque",
+        "Mesaque",
+        "Abede-Nego"
+      ]
     }
   }
 }

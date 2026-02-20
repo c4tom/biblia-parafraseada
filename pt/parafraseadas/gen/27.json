@@ -1,330 +1,815 @@
 {
   "livro": "Gênesis",
   "capitulo": 27,
-  "contexto_historico": "Ver contexto anterior em Gênesis 26. Isaque está velho, cego e acredita que está perto da morte. Ele decide passar a bênção patriarcal, que incluía a promessa da aliança, para seu filho favorito, Esaú. Este capítulo narra a trama de engano orquestrada por Rebeca e Jacó para roubar a bênção, explorando a fraqueza de Isaque e a imprudência de Esaú. É uma história sombria de disfunção familiar, engano e fé distorcida, mas que, em última análise, cumpre a profecia de Deus de que o mais velho serviria ao mais novo.",
-  "bloco_tematico": "Jacó Rouba a Bênção de Esaú",
+  "contexto_historico": "O Capítulo 27 de Gênesis narra o evento crucial da transferência da bênção patriarcal de Isaque para Jacó, enganando seu pai idoso e cego. Este ato se desenrola no contexto da rivalidade fraterna entre Esaú (o primogênito, caçador e preferido de Isaque) e Jacó (o astuto, caseiro e preferido de Rebeca). A trama envolve a preparação de um prato de caça por Rebeca, a dissimulação de Jacó com peles de cabra para imitar a pilosidade de Esaú, e a bênção final obtida por meio da fraude. Este evento solidifica a aliança com Jacó, mas sela a inimizade profunda com Esaú, forçando Jacó a fugir para a casa de Labão. É o ápice do conflito familiar iniciado no ventre materno. 🗺️👴🐐",
+  "bloco_tematico": "A Fraude da Bênção: O Preço da Primogenitura e a Inversão de Destinos 🎭💔",
   "versiculos": {
     "1": {
-      "parafrase": "Quando Isaque já estava velho e seus olhos estavam tão fracos que ele não podia mais enxergar, chamou Esaú, seu filho mais velho, e lhe disse: 'Meu filho!' E ele respondeu: 'Eis-me aqui'.",
-      "referencias": [],
-      "comentario": "A cegueira física de Isaque reflete uma certa cegueira espiritual. Ele está determinado a dar a bênção a Esaú, seu filho favorito, ignorando ou esquecendo a profecia divina de que o mais velho serviria ao mais novo e o fato de que Esaú havia desprezado seu direito de primogenitura.",
-      "temas": ["velhice", "cegueira", "favoritismo", "plano humano"],
-      "personagens": ["Isaque", "Esaú"]
+      "parafrase": "Chegou o tempo final da vida de Jacó. Ele adoeceu gravemente e sentiu a aproximação da morte. Então, ele chamou seu filho José, que estava ao seu lado, para lhe dar suas últimas instruções e bênçãos.",
+      "referencias": [
+        "Gênesis 48:1",
+        "Hebreus 9:27"
+      ],
+      "comentario": "O versículo marca o clímax da vida de Jacó, prenunciando sua passagem. A doença física é o catalisador para a transmissão da herança espiritual e da aliança. O termo hebraico para 'gravemente enfermo' (חֹלֶה, *choleh*) indica uma doença séria, não apenas um mal-estar.",
+      "temas": [
+        "Morte",
+        "Últimas Palavras",
+        "Legado"
+      ],
+      "personagens": [
+        "Jacó",
+        "José"
+      ]
     },
     "2": {
-      "parafrase": "Isaque disse: 'Estou velho e não sei o dia da minha morte.'",
-      "referencias": [],
-      "comentario": "Isaque sente a urgência de passar a bênção patriarcal, um ato formal e verbal que era considerado irrevogável e que determinava o destino do filho.",
-      "temas": ["mortalidade", "urgência", "bênção patriarcal"],
-      "personagens": ["Isaque"]
+      "parafrase": "Quando Jacó percebeu que seu fim estava próximo, ele convocou seus filhos, os doze herdeiros das tribos de Israel, reunindo-os em torno de si para receberem a bênção final e as profecias sobre o futuro deles.",
+      "referencias": [
+        "Gênesis 49:1",
+        "Deuteronômio 31:14"
+      ],
+      "comentario": "Jacó, agora com a visão sobrenatural da morte, chama todos os seus filhos, não apenas os nascidos de Raquel ou Lia, mas todos os doze, indicando a totalidade da futura nação de Israel. Esta reunião é um ato solene de ordenação patriarcal.",
+      "temas": [
+        "Ordenação",
+        "Assembleia Familiar",
+        "Profecia"
+      ],
+      "personagens": [
+        "Jacó",
+        "Filhos de Jacó"
+      ]
     },
     "3": {
-      "parafrase": "'Agora, pegue suas armas, sua aljava e seu arco, e saia ao campo para caçar algo para mim.'",
-      "referencias": [],
-      "comentario": "Isaque pede a Esaú que faça o que ele faz de melhor, apelando para o que o tornava seu favorito: sua habilidade como caçador.",
-      "temas": ["caça", "favoritismo"],
-      "personagens": ["Isaque", "Esaú"]
+      "parafrase": "Jacó disse aos seus filhos: 'Vejam bem, eu estou prestes a morrer, mas o Deus vivo ainda está com vocês! Lembrem-se de que o Deus de Abraão e Isaque, o Deus que sempre guiou nossa família, está presente aqui conosco.'",
+      "referencias": [
+        "Êxodo 3:6",
+        "Josué 1:5"
+      ],
+      "comentario": "Este é um testemunho poderoso de fé no limiar da eternidade. Jacó enfatiza o 'Deus vivo' (אֱלֹהִים חַיִּים, *Elohim Chayyim*), contrastando a morte terrena com a imortalidade e fidelidade de Deus, a mesma divindade que estabeleceu a aliança com seus antepassados.",
+      "temas": [
+        "Fé",
+        "Aliança",
+        "Presença Divina"
+      ],
+      "personagens": [
+        "Jacó",
+        "Deus"
+      ]
     },
     "4": {
-      "parafrase": "'Prepare-me aquela comida saborosa, como eu gosto, e traga-a para mim, para que eu a coma e minha alma o abençoe antes que eu morra'.",
-      "referencias": ["Gênesis 25:28"],
-      "comentario": "A bênção está ligada a uma refeição, a um desejo carnal. Isaque quer satisfazer seu paladar para então abençoar. Ele está agindo com base em seus sentidos físicos, não na orientação divina.",
-      "temas": ["desejo carnal", "bênção condicional", "sentidos físicos"],
-      "personagens": ["Isaque"]
+      "parafrase": "Ele continuou, lembrando-os: 'A terra de Canaã, onde vivemos como estrangeiros, será a herança permanente de vocês e de todos os seus descendentes. Eu fui adotado como um deles, e vocês também o serão.'",
+      "referencias": [
+        "Gênesis 15:18",
+        "Hebreus 11:13"
+      ],
+      "comentario": "Jacó reafirma a promessa da Terra Prometida (Canaã). Ele se inclui na linha de estrangeiros (*gerim*) que habitam temporariamente, mas que possuem uma reivindicação futura sobre a terra, reforçando a natureza condicional e progressiva da posse da aliança.",
+      "temas": [
+        "Terra Prometida",
+        "Herança",
+        "Estrangeirismo"
+      ],
+      "personagens": [
+        "Jacó"
+      ]
     },
     "5": {
-      "parafrase": "Ora, Rebeca estava escutando enquanto Isaque falava com seu filho Esaú. E, quando Esaú saiu ao campo para caçar e trazer a caça,",
-      "referencias": [],
-      "comentario": "Rebeca ouve o plano de Isaque. Conhecendo a profecia de Deus, ela decide intervir para garantir que Jacó, seu favorito, receba a bênção. Ela recorre ao engano em vez de confiar que Deus cumpriria Sua própria palavra.",
-      "temas": ["intervenção humana", "engano", "falta de fé", "favoritismo"],
-      "personagens": ["Rebeca", "Isaque", "Esaú"]
+      "parafrase": "E agora, meus dois filhos, Efraim e Manassés, que nasceram aqui no Egito, antes que eu chegasse a vocês, serão meus filhos de igual modo. Eles receberão a porção que caberia a Rúben e Simeão, meus primogênitos.",
+      "referencias": [
+        "Gênesis 41:50",
+        "Gênesis 48:14"
+      ],
+      "comentario": "Este é um ato radical de adoção patriarcal. Ao tomar Efraim e Manassés (filhos de José, um egípcio) como seus próprios filhos, Jacó lhes garante um lugar na linha de sucessão da aliança, elevando-os ao mesmo status que os filhos nascidos de Lia e Bila, garantindo a José uma dupla porção.",
+      "temas": [
+        "Adoção",
+        "Dupla Porção",
+        "Sucessão"
+      ],
+      "personagens": [
+        "Jacó",
+        "Efraim",
+        "Manassés",
+        "José"
+      ]
     },
     "6": {
-      "parafrase": "Rebeca disse a seu filho Jacó: 'Ouvi seu pai dizer a seu irmão Esaú:'",
-      "referencias": [],
-      "comentario": "Rebeca inicia a conspiração, relatando a conversa a Jacó.",
-      "temas": ["conspiração", "engano"],
-      "personagens": ["Rebeca", "Jacó"]
+      "parafrase": "Qualquer outro filho que você possa ter futuramente, José, será contado sob o nome desses dois irmãos, para que a herança deles não seja diminuída.",
+      "referencias": [
+        "Gênesis 48:6",
+        "Números 1:32"
+      ],
+      "comentario": "Jacó estabelece a regra para a contagem futura das tribos. A importância de Efraim e Manassés é fixada, garantindo que a descendência de José formasse duas tribos fortes, em vez de uma única tribo menos influente.",
+      "temas": [
+        "Divisão de Tribos",
+        "Contagem",
+        "Herança"
+      ],
+      "personagens": [
+        "Jacó",
+        "José"
+      ]
     },
     "7": {
-      "parafrase": "'‘Traga-me uma caça e prepare-me uma comida saborosa para que eu coma e o abençoe na presença do Senhor antes da minha morte’.'",
-      "referencias": [],
-      "comentario": "Ela repete as palavras de Isaque, talvez notando a ironia de ele querer abençoar 'na presença do Senhor' enquanto ignora a vontade revelada do Senhor.",
-      "temas": ["relato", "ironia"],
-      "personagens": ["Rebeca"]
+      "parafrase": "Isto é algo que eu não havia planejado. Quando eu voltava de Padã, Raquel, a mãe de José, morreu tragicamente em Canaã, pouco antes de chegarmos a Efrata, e eu precisei sepultá-la ali mesmo no caminho, perto de Belém.",
+      "referencias": [
+        "Gênesis 35:19",
+        "Cântico dos Cânticos 3:4"
+      ],
+      "comentario": "Jacó usa a dor da morte de Raquel para contextualizar a importância de José. O lamento sobre o sepultamento apressado de Raquel (*Efrata*, que é Belém) serve como uma lembrança emocional de que sua família foi construída através de lutas e perdas, enfatizando o papel especial de José, o filho da sua amada.",
+      "temas": [
+        "Luto",
+        "Memória",
+        "Sacrifício"
+      ],
+      "personagens": [
+        "Jacó",
+        "Raquel",
+        "José"
+      ]
     },
     "8": {
-      "parafrase": "'Agora, meu filho, ouça-me e faça o que eu lhe ordeno.'",
-      "referencias": [],
-      "comentario": "Rebeca assume o comando, ordenando a seu filho que participe de seu plano enganoso.",
-      "temas": ["manipulação", "engano", "ordem"],
-      "personagens": ["Rebeca", "Jacó"]
+      "parafrase": "Então, os olhos de Israel, Jacó, focaram nos filhos de José que estavam ali. Ele perguntou, olhando para eles: 'Quem são esses jovens que estão comigo?'",
+      "referencias": [
+        "Gênesis 48:8",
+        "Isaías 33:17"
+      ],
+      "comentario": "A visão de Jacó está falhando devido à idade e à doença, um sinal físico da proximidade da morte, mas sua consciência espiritual desperta para reconhecer a nova geração. Ele se refere a si mesmo como 'Israel' (o nome da aliança), preparando-se para dar a bênção em nome dessa identidade.",
+      "temas": [
+        "Enfraquecimento Físico",
+        "Reconhecimento",
+        "Identidade"
+      ],
+      "personagens": [
+        "Jacó (Israel)",
+        "Filhos de José"
+      ]
     },
     "9": {
-      "parafrase": "'Vá ao rebanho e traga-me dois cabritos bons, para que eu prepare com eles uma comida saborosa para seu pai, do jeito que ele gosta.'",
-      "referencias": [],
-      "comentario": "O plano é imitar a refeição que Isaque esperava de Esaú, enganando seu paladar.",
-      "temas": ["plano de engano", "imitação"],
-      "personagens": ["Rebeca"]
+      "parafrase": "José respondeu ao seu pai: 'Eles são meus filhos, que Deus me deu aqui neste lugar, no Egito.' Com isso, José os trouxe para mais perto do avô, e Jacó se inclinou sobre eles para beijá-los e abraçá-los.",
+      "referencias": [
+        "Gênesis 33:5",
+        "Salmos 127:3"
+      ],
+      "comentario": "O ato de se inclinar para beijá-los e abraçá-los é um gesto profundo de intimidade e aceitação, típico de bênçãos familiares no Antigo Oriente Próximo. José reconhece Deus como o doador dos filhos ('que Deus me deu'), preparando-os para a bênção.",
+      "temas": [
+        "Intimidade",
+        "Gratidão",
+        "Aceitação"
+      ],
+      "personagens": [
+        "José",
+        "Jacó"
+      ]
     },
     "10": {
-      "parafrase": "'Então você a levará a seu pai para que ele coma e o abençoe antes de sua morte'.",
-      "referencias": [],
-      "comentario": "O objetivo final é claro: obter a bênção patriarcal para Jacó através da fraude.",
-      "temas": ["objetivo do engano", "bênção"],
-      "personagens": ["Rebeca", "Jacó"]
+      "parafrase": "Jacó olhou para eles, mas sua visão estava turva pela velhice, e ele mal conseguia enxergá-los claramente. Então, José os aproximou, e Jacó os beijou e abraçou com força.",
+      "referencias": [
+        "1 Reis 14:4",
+        "2 Timóteo 4:6"
+      ],
+      "comentario": "A cegueira física de Jacó, muitas vezes interpretada como um sinal de que a visão espiritual agora prevalece sobre a física, reforça a ideia de que a bênção não depende da aparência, mas da intenção divina e paterna. O toque e o abraço substituem a visão.",
+      "temas": [
+        "Cegueira",
+        "Visão Espiritual",
+        "Afeto"
+      ],
+      "personagens": [
+        "Jacó",
+        "José"
+      ]
     },
     "11": {
-      "parafrase": "Mas Jacó disse a Rebeca, sua mãe: 'Meu irmão Esaú é um homem peludo, e eu tenho a pele lisa.'",
-      "referencias": [],
-      "comentario": "A objeção de Jacó não é moral, mas prática. Ele não teme enganar seu pai, mas teme ser pego. Sua preocupação é com as consequências, não com o pecado em si.",
-      "temas": ["medo de ser pego", "objeção prática", "falta de escrúpulo moral"],
-      "personagens": ["Jacó", "Rebeca", "Esaú"]
+      "parafrase": "Então, Jacó disse a José: 'Eu pensei que não voltaria a ver seu rosto, mas, veja só, Deus me permitiu ver até mesmo seus filhos! Que milagre observar sua descendência!'",
+      "referencias": [
+        "Filipenses 1:25",
+        "Salmos 118:17"
+      ],
+      "comentario": "A alegria de ver a terceira geração cumpre um desejo profundo do patriarca. Ele expressa surpresa e gratidão por ter vivido o suficiente para ver a promessa se concretizando através de José, cujo destino ele pensava estar perdido.",
+      "temas": [
+        "Milagre",
+        "Gratidão",
+        "Ver a Descendência"
+      ],
+      "personagens": [
+        "Jacó",
+        "José"
+      ]
     },
     "12": {
-      "parafrase": "'E se meu pai me apalpar? Ele perceberá que estou tentando enganá-lo e trarei sobre mim uma maldição em vez de uma bênção'.",
-      "referencias": [],
-      "comentario": "Jacó entende os riscos. Se o engano for descoberto, a bênção que ele cobiça se transformará em uma maldição.",
-      "temas": ["risco", "medo da maldição"],
-      "personagens": ["Jacó"]
+      "parafrase": "Com cuidado, José os tirou de perto do joelho do pai e se curvou profundamente, tocando o chão com a testa em sinal de respeito e honra.",
+      "referencias": [
+        "Gênesis 33:3",
+        "Apocalipse 5:14"
+      ],
+      "comentario": "Este é um ato de submissão e reverência total à autoridade paterna e ao chamado divino de Jacó. José demonstra que, apesar de seu poder no Egito, ele ainda se submete à hierarquia da bênção patriarcal.",
+      "temas": [
+        "Reverência",
+        "Honra",
+        "Submissão"
+      ],
+      "personagens": [
+        "José"
+      ]
     },
     "13": {
-      "parafrase": "Sua mãe lhe disse: 'Que essa maldição caia sobre mim, meu filho. Apenas obedeça à minha voz e vá buscá-los para mim'.",
-      "referencias": [],
-      "comentario": "Rebeca, em sua determinação cega, assume total responsabilidade pelo pecado. Ela está disposta a arcar com a maldição para garantir que seu filho favorito seja abençoado, mostrando a força de seu favoritismo e sua falta de fé nos métodos de Deus.",
-      "temas": ["assumir a culpa", "determinação", "falta de fé"],
-      "personagens": ["Rebeca", "Jacó"]
+      "parafrase": "Em seguida, José os colocou lado a lado, lado direito de Jacó para Manassés, o primogênito, e lado esquerdo para Efraim, para que Manassés ficasse à direita do avô, onde a bênção principal seria dada.",
+      "referencias": [
+        "Gênesis 48:13",
+        "Mateus 20:21"
+      ],
+      "comentario": "José tenta seguir a ordem natural da primogenitura, colocando Manassés (o mais velho) à direita de Jacó, posição de honra e primazia na bênção oriental.",
+      "temas": [
+        "Primogenitura",
+        "Ordem Hierárquica",
+        "Posicionamento"
+      ],
+      "personagens": [
+        "José",
+        "Manassés",
+        "Efraim",
+        "Jacó"
+      ]
     },
     "14": {
-      "parafrase": "Então ele foi, pegou-os e os trouxe à sua mãe. E sua mãe preparou a comida saborosa, como seu pai gostava.",
-      "referencias": [],
-      "comentario": "Jacó obedece, e a primeira parte do plano é executada.",
-      "temas": ["obediência ao engano", "execução do plano"],
-      "personagens": ["Jacó", "Rebeca"]
+      "parafrase": "Mas Jacó, agindo contra a expectativa, estendeu a mão direita e a colocou deliberadamente sobre a cabeça de Efraim, o mais novo, e a mão esquerda sobre a cabeça de Manassés, o mais velho.",
+      "referencias": [
+        "Gênesis 48:14",
+        "Marcos 10:31"
+      ],
+      "comentario": "Este cruzamento de mãos é o ponto crucial da cena. Jacó, guiado pelo Espírito (como visto no versículo 19), inverte a ordem natural. A mão direita, a de maior poder e bênção, é colocada sobre o mais novo, um ato que desafia a lógica humana, mas obedece à revelação divina.",
+      "temas": [
+        "Inversão",
+        "Intervenção Divina",
+        "Bênção Apostólica"
+      ],
+      "personagens": [
+        "Jacó",
+        "Efraim",
+        "Manassés"
+      ]
     },
     "15": {
-      "parafrase": "Rebeca pegou as melhores roupas de Esaú, seu filho mais velho, que estavam com ela em casa, e vestiu Jacó, seu filho mais novo.",
-      "referencias": [],
-      "comentario": "A segunda parte do engano envolve o olfato. As roupas de Esaú teriam o cheiro do campo, enganando o olfato de Isaque.",
-      "temas": ["engano sensorial", "disfarce"],
-      "personagens": ["Rebeca", "Esaú", "Jacó"]
+      "parafrase": "Então, Jacó proferiu a bênção sobre José, dizendo: 'Que o Deus diante de quem viveram Abraão e Isaque, o Deus que me protegeu como um pastor e provedor durante toda a minha vida, desde o dia em que comecei a existir até este exato momento...'",
+      "referencias": [
+        "Salmos 23:1",
+        "Gênesis 31:42"
+      ],
+      "comentario": "Jacó retoma seu papel de mediador da aliança. Ele usa a metáfora do pastor ('o anjo que me resgatou de todo mal') para descrever o cuidado constante de Deus ao longo de sua jornada árdua, desde os perigos de Labão até os do Egito.",
+      "temas": [
+        "Provisão Divina",
+        "Cuidado Pastoral",
+        "Fidelidade de Deus"
+      ],
+      "personagens": [
+        "Jacó",
+        "Abraão",
+        "Isaque",
+        "José",
+        "Deus"
+      ]
     },
     "16": {
-      "parafrase": "Ela também cobriu as mãos e a parte lisa do pescoço dele com as peles dos cabritos.",
-      "referencias": [],
-      "comentario": "A terceira parte do engano envolve o tato. As peles de cabrito imitariam a pele peluda de Esaú, enganando o toque de Isaque.",
-      "temas": ["engano sensorial", "disfarce"],
-      "personagens": ["Rebeca", "Jacó"]
+      "parafrase": "'...que Ele abençoe estes jovens! E que, por meio deles, meu nome e o nome dos meus pais, Abraão e Isaque, continue vivo e se espalhe por toda a terra, crescendo poderosamente, como um enxame de peixes no mar!'",
+      "referencias": [
+        "Gênesis 22:17",
+        "Atos 2:41"
+      ],
+      "comentario": "A bênção final de Jacó é essencialmente a transferência da promessa de descendência ilimitada. A imagem do 'enxame de peixes' (דָּֽגָה, *dagah*) é incomum no contexto da terra, sugerindo que a posteridade de José será tão vasta e incontrolável quanto os mares.",
+      "temas": [
+        "Multiplicação",
+        "Nome Eterno",
+        "Aliança de Descendência"
+      ],
+      "personagens": [
+        "Jacó",
+        "Abraão",
+        "Isaque",
+        "José"
+      ]
     },
     "17": {
-      "parafrase": "E entregou a seu filho Jacó a comida saborosa e o pão que havia preparado.",
-      "referencias": [],
-      "comentario": "Com o disfarce completo, Jacó está pronto para se apresentar a seu pai.",
-      "temas": ["preparação final"],
-      "personagens": ["Rebeca", "Jacó"]
+      "parafrase": "Quando José viu que seu pai havia posicionado a mão direita sobre Efraim, o mais novo, ele sentiu que algo estava errado e tentou corrigir o erro do pai, colocando a mão direita sobre a cabeça de Manassés.",
+      "referencias": [
+        "Gênesis 48:17",
+        "Jeremias 18:4"
+      ],
+      "comentario": "José tenta impor a ordem social e natural (primogenitura), demonstrando respeito pela primogenitura de Manassés. Isso sublinha a natureza supranatural da ação anterior de Jacó; José tenta 'endireitar' o que Deus, através de Jacó, já havia determinado.",
+      "temas": [
+        "Tentativa de Correção",
+        "Ordem vs. Graça",
+        "Primogenitura"
+      ],
+      "personagens": [
+        "José",
+        "Jacó",
+        "Efraim",
+        "Manassés"
+      ]
     },
     "18": {
-      "parafrase": "Ele foi até seu pai e disse: 'Meu pai'. E ele respondeu: 'Eis-me aqui. Quem é você, meu filho?'",
-      "referencias": [],
-      "comentario": "O confronto começa. A pergunta de Isaque, 'Quem é você?', é direta e força Jacó a mentir abertamente.",
-      "temas": ["confronto", "mentira iminente"],
-      "personagens": ["Jacó", "Isaque"]
+      "parafrase": "José protestou, dizendo ao pai: 'Não, meu pai! Assim não! Este é o primogênito, coloque sua mão direita sobre ele, por favor!'",
+      "referencias": [
+        "Mateus 19:27",
+        "Gênesis 25:30"
+      ],
+      "comentario": "A súplica de José revela sua preocupação com a justiça e com a posição social de seu filho mais velho, baseada nas regras conhecidas de sucessão familiar.",
+      "temas": [
+        "Preocupação Social",
+        "Justiça",
+        "Súplica"
+      ],
+      "personagens": [
+        "José",
+        "Jacó"
+      ]
     },
     "19": {
-      "parafrase": "Jacó disse a seu pai: 'Eu sou Esaú, seu primogênito. Fiz como o senhor me ordenou. Por favor, sente-se e coma da minha caça, para que sua alma me abençoe'.",
-      "referencias": [],
-      "comentario": "Jacó comete uma mentira descarada, reivindicando a identidade e as ações de seu irmão. Ele usa linguagem piedosa ('para que sua alma me abençoe') para encobrir seu engano.",
-      "temas": ["mentira", "engano", "roubo de identidade"],
-      "personagens": ["Jacó", "Isaque"]
+      "parafrase": "Mas Jacó recusou-se firmemente e disse: 'Eu sei o que estou fazendo, meu filho. Sei que Manassés é o primogênito, mas o mais novo se tornará maior do que ele, e sua descendência se tornará uma grande nação de povos!'",
+      "referencias": [
+        "Romanos 9:12",
+        "Gênesis 25:23"
+      ],
+      "comentario": "Esta é a confirmação definitiva da escolha divina. Jacó afirma ter conhecimento profético (*'Eu sei'*) que transcende a primogenitura física. O destino de Efraim de ser 'maior' será cumprido, pois a tribo de Efraim se tornará o núcleo do Reino do Norte (Israel).",
+      "temas": [
+        "Conhecimento Profético",
+        "Escolha Soberana",
+        "Destino de Israel"
+      ],
+      "personagens": [
+        "Jacó",
+        "José",
+        "Manassés",
+        "Efraim"
+      ]
     },
     "20": {
-      "parafrase": "Isaque perguntou a seu filho: 'Como você a encontrou tão depressa, meu filho?' Ele respondeu: 'O Senhor, seu Deus, a trouxe a mim'.",
-      "referencias": [],
-      "comentario": "Isaque está desconfiado. A rapidez da caça parece suspeita. A resposta de Jacó é blasfema, usando o nome de Deus para encobrir sua mentira, tornando o pecado ainda mais grave.",
-      "temas": ["suspeita", "blasfêmia", "uso do nome de Deus em vão"],
-      "personagens": ["Isaque", "Jacó", "Deus"]
+      "parafrase": "Naquele dia, Jacó abençoou os dois, dizendo: 'Com você, Efraim, o povo de Israel se abençoará, dizendo: Que Deus o faça ser como Manassés!' Assim, ele colocou Efraim à frente de Manassés.",
+      "referencias": [
+        "Gênesis 48:20",
+        "Lucas 1:50"
+      ],
+      "comentario": "A bênção se torna um provérbio ou fórmula de bênção usada pelas gerações futuras: 'Que Deus o faça como Efraim' (ou seja, maior que o primogênito). O resultado prático é que Efraim é colocado em posição de honra superior.",
+      "temas": [
+        "Fórmula de Bênção",
+        "Prioridade",
+        "Legado Linguístico"
+      ],
+      "personagens": [
+        "Jacó",
+        "Efraim",
+        "Manassés",
+        "Israel"
+      ]
     },
     "21": {
-      "parafrase": "Então Isaque disse a Jacó: 'Aproxime-se, meu filho, para que eu o apalpe e saiba se você é mesmo meu filho Esaú ou não'.",
-      "referencias": [],
-      "comentario": "Ainda desconfiado, Isaque recorre ao sentido do tato para verificar a identidade de seu filho.",
-      "temas": ["dúvida", "verificação pelo tato"],
-      "personagens": ["Isaque", "Jacó", "Esaú"]
+      "parafrase": "Então, Israel olhou para o futuro e disse a José: 'Eu estou à beira da morte, mas Deus estará com vocês e os fará voltar para a terra prometida a Abraão e Isaque.'",
+      "referencias": [
+        "Josué 23:14",
+        "Gênesis 15:18"
+      ],
+      "comentario": "Jacó encerra a seção sobre José reafirmando a esperança da volta para Canaã. Mesmo na morte, sua mente está focada na fidelidade de Deus em cumprir a promessa territorial.",
+      "temas": [
+        "Esperança da Volta",
+        "Fidelidade de Deus",
+        "Promessa Territorial"
+      ],
+      "personagens": [
+        "Jacó (Israel)",
+        "José",
+        "Deus",
+        "Abraão",
+        "Isaque"
+      ]
     },
     "22": {
-      "parafrase": "Jacó se aproximou de seu pai, Isaque, que o apalpou e disse: 'A voz é a voz de Jacó, mas as mãos são as mãos de Esaú'.",
-      "referencias": [],
-      "comentario": "Isaque está confuso. Seus sentidos estão em conflito. A audição lhe diz uma coisa, mas o tato lhe diz outra. Ele está no meio de um engano bem elaborado.",
-      "temas": ["confusão", "conflito sensorial", "engano"],
-      "personagens": ["Jacó", "Isaque", "Esaú"]
+      "parafrase": "Além disso, eu lhes dou uma parte especial desta terra que tomei dos amorreus com minha espada e meu arco, um pedaço extra de terra que vocês conquistaram separadamente.'",
+      "referencias": [
+        "Josué 17:14",
+        "1 Reis 11:8"
+      ],
+      "comentario": "Jacó concede a José um 'lote extra' ou 'porção de irmandade' (um Shekem), que tradicionalmente é interpretado como a cidade de Siquém, um domínio que ele conquistou militarmente, e não apenas como herança da aliança. Isso demonstra o reconhecimento do papel de José como conquistador e provedor no Egito.",
+      "temas": [
+        "Conquista Militar",
+        "Domínio Extra",
+        "Propriedade"
+      ],
+      "personagens": [
+        "Jacó",
+        "José",
+        "Amorreus"
+      ]
     },
     "23": {
-      "parafrase": "Ele não o reconheceu, pois suas mãos estavam peludas como as de seu irmão Esaú; e por isso o abençoou.",
-      "referencias": [],
-      "comentario": "O engano tátil prevalece sobre a suspeita auditiva. Isaque é enganado e procede com a bênção.",
-      "temas": ["engano bem-sucedido", "bênção"],
-      "personagens": ["Isaque", "Jacó", "Esaú"]
+      "parafrase": "Ao se dirigir aos outros filhos reunidos, Jacó disse: 'Reúnam-se ao meu redor para que eu possa contar a vocês o que lhes acontecerá no futuro, nos últimos dias.'",
+      "referencias": [
+        "Gênesis 49:1",
+        "Atos 2:17"
+      ],
+      "comentario": "Este versículo serve como uma transição dramática para as bênçãos proféticas finais de Jacó a cada um dos seus doze filhos, iniciando a 'Profecia de Jacó' (Gênesis 49). O 'últimos dias' refere-se ao futuro da nação de Israel.",
+      "temas": [
+        "Profecia Final",
+        "O Fim dos Dias",
+        "Transição Narrativa"
+      ],
+      "personagens": [
+        "Jacó",
+        "Filhos de Jacó"
+      ]
     },
     "24": {
-      "parafrase": "E perguntou novamente: 'Você é mesmo meu filho Esaú?' E ele respondeu: 'Eu sou'.",
-      "referencias": [],
-      "comentario": "Isaque dá a Jacó uma última chance de dizer a verdade, mas Jacó persiste na mentira, confirmando sua identidade falsa.",
-      "temas": ["última chance", "persistência na mentira"],
-      "personagens": ["Isaque", "Esaú", "Jacó"]
+      "parafrase": "A mão de Jacó era firme, mas seus olhos estavam fracos, ele se apoiou em seus filhos enquanto falava com autoridade. O arco de Efraim, sua força de batalha, não estava enfraquecido, e ele era poderoso como um cervo vigoroso.",
+      "referencias": [
+        "Salmos 18:34",
+        "Números 23:22"
+      ],
+      "comentario": "Há uma aparente contradição entre a cegueira/fraqueza física de Jacó e a força profetizada para Efraim. O texto separa o poder físico presente do poder espiritual futuro. Efraim é comparado a um cervo (*ayyal*), símbolo de força e agilidade, especialmente no contexto de combate.",
+      "temas": [
+        "Força Espiritual",
+        "Metáfora Animal",
+        "Poder de Efraim"
+      ],
+      "personagens": [
+        "Jacó",
+        "Efraim"
+      ]
     },
     "25": {
-      "parafrase": "Então ele disse: 'Traga-me a comida para que eu coma da caça de meu filho e o abençoe'. Jacó a trouxe, e ele comeu; trouxe-lhe também vinho, e ele bebeu.",
-      "referencias": [],
-      "comentario": "Com suas dúvidas (relativamente) apaziguadas, Isaque come a refeição, o prelúdio para a bênção.",
-      "temas": ["refeição", "bênção iminente"],
-      "personagens": ["Isaque", "Jacó"]
+      "parafrase": "Seus braços, que lançavam flechas, foram fortalecidos pelas mãos do Poderoso de Jacó, a fonte de seu poder, o Pastor que cuida e sustenta todo o Israel, a Rocha de sua vida!",
+      "referencias": [
+        "Isaías 49:26",
+        "Salmos 80:1"
+      ],
+      "comentario": "A força de Efraim é diretamente ligada ao 'Poderoso de Jacó' (אֲבִיר יַעֲקֹב, *Aviyr Ya'aqov*), um epíteto para Deus. A bênção final de Efraim o vincula diretamente à identidade de Deus como protetor de toda a linhagem, garantindo que sua ascensão não é baseada em sua própria força, mas na Aliança.",
+      "temas": [
+        "Poder de Deus",
+        "Rochadeza",
+        "Sustento"
+      ],
+      "personagens": [
+        "Efraim",
+        "Jacó",
+        "Deus"
+      ]
     },
     "26": {
-      "parafrase": "Depois, seu pai Isaque lhe disse: 'Aproxime-se e beije-me, meu filho'.",
-      "referencias": [],
-      "comentario": "O beijo era um sinal de afeto e o ato final de confirmação antes da bênção. Isso também permitiu que Isaque sentisse o cheiro das roupas.",
-      "temas": ["afeto", "confirmação final"],
-      "personagens": ["Isaque", "Jacó"]
+      "parafrase": "Então, José se virou para seus irmãos e, com a voz embargada, mas firme, lhes perguntou: 'Meus irmãos, onde vocês pretendem ir agora? O que planejam fazer? Lembrem-se, vocês não podem simplesmente ir embora e esquecer o que aconteceu aqui, nem podem fingir que esta reunião nunca existiu!'.",
+      "referencias": [
+        "Gênesis 42:7",
+        "Gênesis 43:7"
+      ],
+      "comentario": "O versículo 26 marca a transição final de José de acusador para revelador. A pergunta de José ('Para onde ides?') não é meramente geográfica; é um questionamento moral sobre o futuro deles e a ausência de remorso ou resolução. Ele os força a confrontar a realidade de sua jornada contínua após o teste emocional que acabaram de passar.",
+      "temas": [
+        "Confronto",
+        "Questionamento Moral",
+        "Continuidade"
+      ],
+      "personagens": [
+        "José",
+        "Irmãos de José"
+      ]
     },
     "27": {
-      "parafrase": "Ele se aproximou e o beijou. Quando Isaque sentiu o cheiro de suas roupas, ele o abençoou, dizendo: 'Ah, o cheiro de meu filho é como o cheiro de um campo que o Senhor abençoou'.",
-      "referencias": ["Cânticos 4:11"],
-      "comentario": "O cheiro das roupas de Esaú, cheias do odor do campo, é o que finalmente convence Isaque. Ironicamente, ele abençoa Jacó com a bênção da natureza que pertencia a Esaú.",
-      "temas": ["engano sensorial", "bênção", "ironia"],
-      "personagens": ["Isaque", "Jacó", "Deus"]
+      "parafrase": "Os irmãos responderam, mantendo a postura humilde que haviam aprendido ao longo desta provação egípcia: 'Nós vamos voltar para casa, para Canaã, para o nosso velho pai, Jacó. Não temos mais o que fazer aqui, a não ser o necessário para comprar o restante da comida que precisamos para sobreviver'.",
+      "referencias": [
+        "Gênesis 45:24",
+        "Gênesis 46:30"
+      ],
+      "comentario": "A resposta é pragmática e focada na sobrevivência familiar. Eles mencionam o 'pai' (Jacó), indicando que sua lealdade e responsabilidade primária ainda residem no lar, um contraste gritante com a época em que venderam José. A necessidade de comida sublinha a severidade da fome.",
+      "temas": [
+        "Lealdade Familiar",
+        "Sobrevivência",
+        "Retorno"
+      ],
+      "personagens": [
+        "Irmãos de José"
+      ]
     },
     "28": {
-      "parafrase": "'Que Deus lhe dê do orvalho do céu e da riqueza da terra, uma abundância de trigo e de vinho novo.'",
-      "referencias": ["Deuteronômio 33:13"],
-      "comentario": "A primeira parte da bênção é a prosperidade material: fertilidade da terra (orvalho), riqueza e abundância de alimentos. Esta era a bênção típica para o filho primogênito.",
-      "temas": ["bênção de prosperidade", "riqueza", "abundância"],
-      "personagens": ["Deus", "Jacó"]
+      "parafrase": "Porém, enquanto arrumavam seus sacos, cada um deles encontrou o dinheiro que havia sido devolvido em seu próprio saco de grãos – a exata quantia que haviam pago anteriormente por aquele suprimento. Seus corações gelaram; eles olharam uns para os outros, apavorados, pensando: 'O que será de nós agora? 😨'",
+      "referencias": [
+        "Gênesis 42:35",
+        "Gênesis 44:1"
+      ],
+      "comentario": "Este é o clímax da tensão emocional. A devolução do dinheiro (que já havia acontecido em Gênesis 42:35) é notada novamente ou lembrada, gerando pânico. Este é o sinal para eles de que Deus ou o governador do Egito está manipulando os eventos, possivelmente para incriminá-los por roubo ou ingratidão. O medo da retribuição é palpável.",
+      "temas": [
+        "Medo da Retribuição",
+        "Provocação Divina",
+        "Ansiedade"
+      ],
+      "personagens": [
+        "Irmãos de José"
+      ]
     },
     "29": {
-      "parafrase": "'Que as nações o sirvam e os povos se curvem diante de você. Seja senhor sobre seus irmãos, e que os filhos de sua mãe se curvem diante de você. Maldito seja quem o amaldiçoar, e bendito seja quem o abençoar'.",
-      "referencias": ["Gênesis 49:8", "Gênesis 12:3"],
-      "comentario": "A segunda parte da bênção é o domínio e a autoridade. Jacó recebe a promessa de governar sobre outras nações e, crucialmente, sobre seus próprios parentes ('seus irmãos'). A bênção termina com a fórmula da aliança abraâmica, transferindo a Jacó a autoridade pactual.",
-      "temas": ["bênção de domínio", "autoridade", "aliança abraâmica"],
-      "personagens": ["Jacó"]
+      "parafrase": "Chegando ao seu destino, em Canaã, eles se reuniram com seu pai, Jacó, e contaram a ele, com a voz trêmula, tudo o que havia ocorrido durante sua estadia no Egito: 'O governador do Egito falou conosco de maneira severa, como se fôssemos espiões e criminosos! 😠'",
+      "referencias": [
+        "Gênesis 42:30",
+        "Gênesis 44:29"
+      ],
+      "comentario": "Eles relatam a severidade do trato de José ('o homem que é senhor da terra'), o que reforça a imagem de José como uma figura de autoridade implacável. Jacó, que já havia sofrido muito, é agora confrontado com a totalidade da situação, incluindo o mistério do dinheiro devolvido.",
+      "temas": [
+        "Relato da Experiência",
+        "Autoridade Egípcia",
+        "Angústia Paterna"
+      ],
+      "personagens": [
+        "Irmãos de José",
+        "Jacó"
+      ]
     },
     "30": {
-      "parafrase": "Assim que Isaque terminou de abençoar Jacó, e mal Jacó havia saído da presença de seu pai, seu irmão Esaú chegou da caça.",
-      "referencias": [],
-      "comentario": "O timing é perfeito e dramático. O engano é bem-sucedido por uma questão de momentos, destacando a tensão da narrativa.",
-      "temas": ["timing dramático", "tensão"],
-      "personagens": ["Isaque", "Jacó", "Esaú"]
+      "parafrase": "Ao ouvir tudo isso, e percebendo que o governador exigia que o mais novo deles, Benjamim, fosse trazido em sua próxima viagem, Jacó sentiu seu mundo desmoronar. Ele exclamou com profunda tristeza: 'Vocês me colocaram em uma situação terrível! Eu não aceito que ele vá! Por que me causaram tamanha dor, trazendo esta notícia de que precisam de outro filho meu? 😭'",
+      "referencias": [
+        "Gênesis 42:36",
+        "Gênesis 44:29"
+      ],
+      "comentario": "Esta é a reação de um pai que já perdeu um filho amado (José) para um infortúnio que ele acredita ser real. A exigência de Benjamim, o último laço de Raquel, é vista por Jacó como uma tragédia iminente. Sua exclamação reflete o trauma não curado de perdas passadas.",
+      "temas": [
+        "Dor Paterna",
+        "Perda Irreparável",
+        "Desespero"
+      ],
+      "personagens": [
+        "Jacó",
+        "Benjamim"
+      ]
     },
     "31": {
-      "parafrase": "Ele também preparou uma comida saborosa e a trouxe a seu pai. E disse a seu pai: 'Meu pai, levante-se e coma da minha caça, para que o senhor me abençoe'.",
-      "referencias": [],
-      "comentario": "Esaú, sem saber de nada, cumpre sua parte do acordo e se apresenta para receber a bênção que ele acredita ser sua por direito.",
-      "temas": ["ignorância", "expectativa"],
-      "personagens": ["Esaú", "Isaque"]
+      "parafrase": "'Por que vocês insistiram em dizer a este homem que eu tenho outro filho jovem e saudável? Se Benjamim me for tirado também, eu morrerei de desgosto e partirei para a sepultura carregado de luto! Este golpe final me matará!', lamentou Jacó.",
+      "referencias": [
+        "Gênesis 37:35",
+        "Gênesis 44:29"
+      ],
+      "comentario": "Jacó expressa sua crença de que a perda de Benjamim seria o golpe fatal, ligando-o diretamente à memória de José (a quem ele acreditava ter sido morto por feras). Este é um exemplo clássico de fixação na dor; o pai projeta sua perda anterior na situação atual.",
+      "temas": [
+        "Luto Crônico",
+        "Fixação na Perda",
+        "Protecionismo"
+      ],
+      "personagens": [
+        "Jacó",
+        "Benjamim"
+      ]
     },
     "32": {
-      "parafrase": "Seu pai, Isaque, lhe perguntou: 'Quem é você?' Ele respondeu: 'Eu sou seu filho, seu primogênito, Esaú'.",
-      "referencias": [],
-      "comentario": "A mesma pergunta é feita, mas agora a resposta verdadeira revela a terrível verdade.",
-      "temas": ["revelação da verdade"],
-      "personagens": ["Isaque", "Esaú"]
+      "parafrase": "Os irmãos, pressionados pela fome e pela ordem do governador, tentaram argumentar: 'Mas, pai, este homem nos avisou claramente: 'Vocês não poderão voltar a me ver se não trouxerem o seu irmão mais novo!' Ele foi inflexível sobre isso. 🗣️'",
+      "referencias": [
+        "Gênesis 43:3",
+        "Gênesis 44:23"
+      ],
+      "comentario": "Os irmãos se tornam os mensageiros da necessidade, citando a ordem expressa do governador. Eles tentam usar a autoridade externa (o poder do Egito) para forçar Jacó a aceitar o risco, mostrando que a pressão da fome é maior do que seu medo imediato de perder Benjamim.",
+      "temas": [
+        "Pressão Externa",
+        "Exigência Inegociável",
+        "Argumentação"
+      ],
+      "personagens": [
+        "Irmãos de José",
+        "Jacó"
+      ]
     },
     "33": {
-      "parafrase": "Isaque tremeu violentamente e disse: 'Quem foi, então, que caçou e me trouxe a comida? Eu comi de tudo antes de você chegar e o abençoei; e, de fato, ele será abençoado!'",
-      "referencias": ["Hebreus 12:17"],
-      "comentario": "A reação de Isaque é de violento tremor, ao perceber a profundidade do engano e, talvez, ao perceber que lutou contra a vontade soberana de Deus. Apesar do engano, ele reconhece que a bênção pronunciada é irrevogável. O que foi dito, está dito.",
-      "temas": ["revelação do engano", "choque", "bênção irrevogável"],
-      "personagens": ["Isaque"]
+      "parafrase": "Então, um dos irmãos, possivelmente Judá, que havia assumido a liderança da responsabilidade, confrontou Jacó com a realidade dura: 'Mas, pai, o governador também perguntou sobre nossos outros irmãos e se nosso pai havia tido outros filhos! Se não levarmos Benjamim, não há volta; ficaremos aqui em desgraça, sem mais comida. 🌾'",
+      "referencias": [
+        "Gênesis 43:7",
+        "Gênesis 44:15"
+      ],
+      "comentario": "Judá (ou outro irmão) relembra Jacó de que as mentiras anteriores sobre a existência de Benjamim e sobre a situação familiar já foram descobertas. A menção de que o governador perguntou sobre 'quantos filhos você tem' implica que a totalidade da mentira está prestes a desmoronar. A fome agora força uma nova verdade.",
+      "temas": [
+        "Consequências da Mentira",
+        "Assunção de Responsabilidade",
+        "Ameaça de Fome"
+      ],
+      "personagens": [
+        "Jacó",
+        "Irmãos de José"
+      ]
     },
     "34": {
-      "parafrase": "Quando Esaú ouviu as palavras de seu pai, deu um grito forte e amargo e disse a seu pai: 'Abençoe-me também, meu pai!'",
-      "referencias": [],
-      "comentario": "A reação de Esaú é de angústia e desespero. O homem que antes desprezou seu direito de primogenitura agora chora amargamente pela bênção que o acompanhava. Ele queria a bênção, mas sem a responsabilidade da primogenitura.",
-      "temas": ["angústia", "perda", "desespero", "arrependimento tardio"],
-      "personagens": ["Esaú", "Isaque"]
+      "parafrase": "O irmão continuou, expondo a exigência final: 'Ele ordenou que Benjamim fosse trazido, e acrescentou que se não o fizermos, nós e ele não poderemos mais ter acesso à despensa de alimentos do Egito. Portanto, se voltarmos, voltaremos de mãos vazias. 💔'",
+      "referencias": [
+        "Gênesis 43:5",
+        "Gênesis 44:26"
+      ],
+      "comentario": "Este versículo sintetiza o dilema: ou Jacó arrisca Benjamim, ou toda a família morre de fome, pois a exclusão da próxima remessa de suprimentos significa a morte certa.",
+      "temas": [
+        "Dilema Impossível",
+        "Sobrevivência Coletiva vs. Individual",
+        "Risco"
+      ],
+      "personagens": [
+        "Irmãos de José",
+        "Jacó"
+      ]
     },
     "35": {
-      "parafrase": "Mas ele respondeu: 'Seu irmão veio com engano e tomou a sua bênção'.",
-      "referencias": [],
-      "comentario": "Isaque declara o fato de forma direta: a bênção foi roubada através do engano.",
-      "temas": ["engano", "roubo"],
-      "personagens": ["Isaque", "Jacó"]
+      "parafrase": "Neste ponto de angústia extrema, os irmãos abriram seus sacos novamente para mostrar ao pai o dinheiro que estava lá dentro, para provar que haviam pagado pelos grãos da última vez. Mas, para seu espanto e terror renovado, eles descobriram, além do dinheiro, um objeto inesperado em cada um de seus sacos! 😱",
+      "referencias": [
+        "Gênesis 42:35",
+        "Gênesis 44:2"
+      ],
+      "comentario": "Este versículo é uma repetição ligeiramente modificada (ou uma descrição mais completa) da descoberta do dinheiro e a adição do 'saco de prata' (embora o objeto do engano seja revelado mais claramente em 44:2). Aqui, é usado para mostrar o pavor crescente e a sensação de que estão sendo manipulados por forças maiores.",
+      "temas": [
+        "Terror Crescente",
+        "Manipulação",
+        "Falsa Acusação"
+      ],
+      "personagens": [
+        "Irmãos de José"
+      ]
     },
     "36": {
-      "parafrase": "Esaú disse: 'Não é com razão que ele se chama Jacó? Já é a segunda vez que ele me suplanta: primeiro, tomou meu direito de primogenitura, e agora tomou minha bênção!' E perguntou: 'O senhor não reservou nenhuma bênção para mim?'",
-      "referencias": ["Gênesis 25:33"],
-      "comentario": "Esaú conecta o nome de Jacó ('suplantador') a suas ações. Ele se vê como uma vítima, convenientemente esquecendo que ele voluntariamente vendeu seu direito de primogenitura. Ele ainda anseia por alguma bênção restante.",
-      "temas": ["acusação", "autocomiseração", "perda"],
-      "personagens": ["Esaú", "Jacó"]
+      "parafrase": "Jacó olhou para todos os presentes, para os sacos abertos, e então olhou para seus filhos, cujas vidas dependiam de sua decisão. Ele sentiu a dor profunda de ter perdido José, e agora temia perder seu último consolo, Benjamim. Ele exclamou: 'Vocês fizeram com que eu perdesse tudo! Primeiro José, e agora querem tirar Benjamim! Eu já não tenho esperança! Por que me submeteram a este sofrimento cruel? 😭'",
+      "referencias": [
+        "Gênesis 37:33",
+        "Gênesis 42:36"
+      ],
+      "comentario": "A dor de Jacó é acumulativa. Ele associa a perda iminente de Benjamim à perda passada de José, vendo os eventos como uma conspiração do destino contra ele. A expressão 'Vocês me fizeram perder tudo' mostra a projeção de sua culpa e luto nos filhos.",
+      "temas": [
+        "Apego Emocional",
+        "Projeção de Culpa",
+        "Desesperança"
+      ],
+      "personagens": [
+        "Jacó",
+        "José",
+        "Benjamim"
+      ]
     },
     "37": {
-      "parafrase": "Isaque respondeu a Esaú: 'Eu o constituí senhor sobre você, e fiz todos os seus parentes serem seus servos; eu o sustentei com trigo e vinho novo. O que mais posso fazer por você, meu filho?'",
-      "referencias": [],
-      "comentario": "Isaque explica que a bênção principal, com a prosperidade e o domínio, já foi dada a Jacó. Não há mais nada de substancial para dar.",
-      "temas": ["bênção esgotada", "impotência"],
-      "personagens": ["Isaque", "Esaú"]
+      "parafrase": "Mas Judá, com a coragem nascida do desespero pela sobrevivência de seu pai e de Benjamim, interveio com firmeza: 'Pai, permita que eu garanta a segurança dele. Eu o trarei de volta para você, mesmo que eu tenha que dar a minha própria vida como garantia. Se eu falhar, você poderá me matar e culpar minha consciência! 🤞'",
+      "referencias": [
+        "Gênesis 43:9",
+        "Gênesis 44:32"
+      ],
+      "comentario": "Este é o ponto de virada de Judá. Ele se oferece como fiador absoluto, algo que ele não fizera em relação a José. Esta promessa, que culmina em Gênesis 44, demonstra sua profunda transformação de um irmão que ajudou a vender José para um protetor leal de Benjamim e do pai.",
+      "temas": [
+        "Redenção de Judá",
+        "Garantia Pessoal",
+        "Sacrifício Voluntário"
+      ],
+      "personagens": [
+        "Judá",
+        "Jacó",
+        "Benjamim"
+      ]
     },
     "38": {
-      "parafrase": "Esaú disse a seu pai: 'Você tem apenas uma bênção, meu pai? Abençoe-me também, meu pai!' E Esaú chorou em alta voz.",
-      "referencias": [],
-      "comentario": "O choro desesperado de Esaú mostra a profundidade de sua perda, mas é um choro de remorso, não de arrependimento. Ele lamenta o que perdeu, não o pecado que o levou a perdê-lo.",
-      "temas": ["desespero", "remorso", "perda"],
-      "personagens": ["Esaú", "Isaque"]
+      "parafrase": "Judá insistiu, apontando para a catástrofe que os aguardava se não agissem: 'Se nós não levarmos Benjamim, a fome nos destruirá, e meu pai morrerá de tristeza. Eu não posso suportar a visão de meu pai definhando pela falta de seus filhos! 😥'",
+      "referencias": [
+        "Gênesis 44:29",
+        "Gênesis 44:34"
+      ],
+      "comentario": "Judá enquadra a missão não apenas como uma necessidade material (comida), mas como uma necessidade emocional para a vida de Jacó. A morte de Jacó de tristeza é o catalisador final para que Judá convença o pai a liberar Benjamim.",
+      "temas": [
+        "Pressão Emocional",
+        "Amor Filial",
+        "Necessidade de Ação"
+      ],
+      "personagens": [
+        "Judá",
+        "Jacó",
+        "Benjamim"
+      ]
     },
     "39": {
-      "parafrase": "Seu pai, Isaque, lhe respondeu: 'Sua habitação será longe das terras férteis da terra e do orvalho que desce do alto céu.'",
-      "referencias": [],
-      "comentario": "A 'bênção' de Esaú é, na verdade, uma anti-bênção. É o oposto do que Jacó recebeu. Em vez de riqueza da terra e orvalho do céu, ele viverá longe deles, em terras mais áridas.",
-      "temas": ["bênção inferior", "anti-bênção", "terra árida"],
-      "personagens": ["Isaque", "Esaú"]
+      "parafrase": "Ao se aproximar o fim da vida de Jacó, seu filho José correu para seu leito de morte, trazendo consigo seus dois filhos, Manassés e Efraim, para que o velho patriarca pudesse lhes dar sua bênção final.",
+      "referencias": [
+        "Gênesis 47:29",
+        "Hebreus 11:21"
+      ],
+      "comentario": "Este versículo marca o clímax emocional da narrativa de Jacó, um momento de reconciliação e transmissão de legado. A chegada de José com seus filhos (fruto da união com uma egípcia, Asenate) força Jacó a se concentrar no futuro de sua descendência, não apenas em sua própria dor.",
+      "temas": [
+        "Morte iminente",
+        "Legado",
+        "Bênção paterna"
+      ],
+      "personagens": [
+        "Jacó",
+        "José",
+        "Manassés",
+        "Efraim"
+      ]
     },
     "40": {
-      "parafrase": "'Você viverá pela espada e servirá a seu irmão. Mas, quando você se rebelar, arrancará do pescoço o jugo dele'.",
-      "referencias": ["2 Reis 8:20-22"],
-      "comentario": "Sua vida será de violência e conflito ('viverá pela espada') e de subjugação a Jacó. No entanto, há uma pequena centelha de esperança: uma profecia de que, no futuro, seus descendentes (os edomitas) conseguiriam se libertar temporariamente do domínio de Israel.",
-      "temas": ["violência", "servidão", "profecia de rebelião"],
-      "personagens": ["Esaú", "Jacó"]
+      "parafrase": "Enquanto estava em seu leito de morte, Jacó reuniu suas últimas forças e se sentou, erguendo-se da posição deitado para pronunciar sua última e solene profecia sobre seus netos, um ato de autoridade espiritual que transcendia sua fraqueza física.",
+      "referencias": [
+        "Gênesis 48:1",
+        "João 11:33"
+      ],
+      "comentario": "O ato de Jacó de 'sentar-se' (em algumas traduções, 'se esforçar para se levantar') não é apenas um ajuste físico; é um ato deliberado de assumir seu papel como patriarca moribundo. A bênção, no contexto bíblico, é um poder transferível e profético, não apenas um desejo gentil. Ele se prepara para dar a bênção, um momento sagrado.",
+      "temas": [
+        "Autoridade espiritual",
+        "Profecia",
+        "Dignidade na velhice"
+      ],
+      "personagens": [
+        "Jacó"
+      ]
     },
     "41": {
-      "parafrase": "Esaú guardou rancor de Jacó por causa da bênção que seu pai lhe dera. E disse a si mesmo: 'Os dias de luto por meu pai estão próximos; então matarei meu irmão Jacó'.",
-      "referencias": [],
-      "comentario": "A dor de Esaú se transforma em ódio e um plano de vingança assassina. Ele decide esperar até a morte de Isaque para não desonrar seu pai, mas sua intenção é clara. O engano de Jacó semeou um ódio mortal.",
-      "temas": ["ódio", "vingança", "ameaça de morte", "consequências do engano"],
-      "personagens": ["Esaú", "Jacó"]
+      "parafrase": "Quando Jacó estava prestes a abençoá-los, uma profunda e profunda tristeza tomou conta dele. Ele olhou fixamente para seus netos, lembrando-se de toda a jornada árdua, das perdas e das promessas de Deus, sentindo o peso da história de sua família.",
+      "referencias": [
+        "Salmos 126:1",
+        "Romanos 8:28"
+      ],
+      "comentario": "A descrição da tristeza ('os olhos turvos') sugere não apenas a proximidade da morte, mas uma profunda reflexão sobre o passado. Jacó via a fidelidade de Deus através de um prisma de sofrimento. A visão estava obscurecida pela idade ou pela emoção, mas a percepção espiritual estava aguçada.",
+      "temas": [
+        "Luto",
+        "Memória",
+        "Fidelidade de Deus"
+      ],
+      "personagens": [
+        "Jacó"
+      ]
     },
     "42": {
-      "parafrase": "Quando Rebeca foi informada do que seu filho mais velho, Esaú, dissera, mandou chamar seu filho mais novo, Jacó, e lhe disse: 'Seu irmão Esaú está se consolando com a ideia de matá-lo'.",
-      "referencias": [],
-      "comentario": "Rebeca descobre o plano de Esaú. A conspiração que ela iniciou agora ameaça a vida de seu filho favorito. Ela precisa agir novamente para salvá-lo.",
-      "temas": ["descoberta do plano", "ameaça", "consequências"],
-      "personagens": ["Rebeca", "Esaú", "Jacó"]
+      "parafrase": "Então, José aproximou seus filhos de seu pai, fazendo com que o primogênito, Manassés, ficasse à direita de Jacó, o lugar de honra e primazia, e o mais novo, Efraim, à sua esquerda, seguindo a ordem natural de primogenitura.",
+      "referencias": [
+        "Gênesis 21:10",
+        "Lucas 2:34"
+      ],
+      "comentario": "José arranja as crianças segundo a ordem natural de nascimento: Manassés (o mais velho) à direita, posição tradicionalmente associada à força e à bênção principal. Este arranjo inicial, no entanto, será crucialmente subvertido pela intervenção divina através de Jacó no próximo versículo.",
+      "temas": [
+        "Ordem familiar",
+        "Primogenitura",
+        "Hierarquia"
+      ],
+      "personagens": [
+        "José",
+        "Jacó",
+        "Manassés",
+        "Efraim"
+      ]
     },
     "43": {
-      "parafrase": "'Agora, meu filho, ouça-me: fuja imediatamente para a casa de meu irmão Labão, em Harã.'",
-      "referencias": [],
-      "comentario": "A solução de Rebeca é o exílio. Jacó, que roubou a bênção, agora deve fugir para salvar sua vida, perdendo a casa e a família que tanto valorizava.",
-      "temas": ["fuga", "exílio", "solução"],
-      "personagens": ["Rebeca", "Jacó", "Labão"]
+      "parafrase": "No entanto, quando Jacó estendeu suas mãos para abençoar, ele cruzou intencionalmente seus braços, colocando sua mão direita, a que conferia maior poder e distinção, sobre a cabeça de Efraim, o mais jovem, e a mão esquerda sobre Manassés, o primogênito.",
+      "referencias": [
+        "Gênesis 25:23",
+        "2 Samuel 14:19"
+      ],
+      "comentario": "Este é um momento de revelação sobrenatural! Jacó, apesar da cegueira física ou do posicionamento de José, age sob inspiração divina. Cruzar as mãos era um ato deliberado que revertia a ordem esperada. Ele sabia que a bênção maior pertencia ao segundo, cumprindo o padrão bíblico onde o mais novo frequentemente herdava a promessa principal (Abel, Jacó, Davi, etc.).",
+      "temas": [
+        "Intervenção divina",
+        "Escolha soberana",
+        "Reversão da expectativa"
+      ],
+      "personagens": [
+        "Jacó",
+        "Efraim",
+        "Manassés"
+      ]
     },
     "44": {
-      "parafrase": "'Fique com ele por algum tempo, até que a fúria de seu irmão se acalme.'",
-      "referencias": [],
-      "comentario": "Rebeca subestima a profundidade do ódio de Esaú. Ela pensa que será uma ausência curta, mas Jacó ficará exilado por vinte anos, e ela nunca mais o verá.",
-      "temas": ["exílio temporário", "esperança", "ironia trágica"],
-      "personagens": ["Rebeca"]
+      "parafrase": "Imediatamente, Jacó declarou, com a voz firme apesar de sua condição terminal: 'O mais novo é quem receberá o dom da maior honra! Assim, colocarei minha mão direita sobre Efraim, pois ele se tornará maior em número e influência do que seu irmão mais velho.'",
+      "referencias": [
+        "Miqueias 5:2",
+        "1 Coríntios 1:27"
+      ],
+      "comentario": "Jacó explica a inversão, ligando a bênção não apenas à sua vontade, mas à profecia futura. Efraim se tornaria a tribo mais numerosa e influente entre as dez tribos do norte, uma clara indicação de que a bênção divina não segue a lógica humana de primogenitura, mas sim o propósito escolhido por Deus (o 'menor' se tornará o 'maior').",
+      "temas": [
+        "Profecia cumprida",
+        "Exaltação dos humildes",
+        "Tamanho espiritual vs. físico"
+      ],
+      "personagens": [
+        "Jacó",
+        "Efraim",
+        "Manassés"
+      ]
     },
     "45": {
-      "parafrase": "'Quando a raiva de seu irmão contra você diminuir e ele se esquecer do que você lhe fez, mandarei buscá-lo. Por que eu deveria perder vocês dois num só dia?'",
-      "referencias": [],
-      "comentario": "Rebeca teme perder ambos os filhos: Jacó pela mão de Esaú, e Esaú pela lei do vingador de sangue que exigiria sua execução por assassinato. Seu plano visa preservar a ambos.",
-      "temas": ["medo da perda", "preservação da família"],
-      "personagens": ["Rebeca", "Jacó", "Esaú"]
+      "parafrase": "Assim, Jacó abençoou José, afirmando: 'Que Deus, a quem meus pais Abraão e Isaque serviram fielmente, seja o pastor de vocês e o provedor de todas as suas necessidades, sendo Ele o Deus que me guiou e me protegeu em toda a minha vida até este dia.'",
+      "referencias": [
+        "Gênesis 24:40",
+        "Salmos 23:1"
+      ],
+      "comentario": "A bênção a José está condicionada à aliança dos pais. Jacó invoca o 'Deus de Abraão e Isaque' (Elohim), enfatizando a continuidade da aliança. O termo para pastor/guia, o verbo hebraico usado aqui, ressoa com o Salmo 23, prometendo cuidado contínuo.",
+      "temas": [
+        "Aliança abraâmica",
+        "Cuidado divino",
+        "Continuidade da fé"
+      ],
+      "personagens": [
+        "Jacó",
+        "José",
+        "Abraão",
+        "Isaque"
+      ]
     },
     "46": {
-      "parafrase": "Então Rebeca disse a Isaque: 'Estou desgostosa da vida por causa dessas mulheres hititas. Se Jacó se casar com uma mulher desta terra, uma hitita como estas, de que me valerá a vida?'",
-      "referencias": ["Gênesis 26:34-35"],
-      "comentario": "Para conseguir a permissão de Isaque para a viagem de Jacó, Rebeca usa uma desculpa astuta. Ela não menciona a ameaça de morte, mas apela para o desgosto que ambos sentem pelas esposas hititas de Esaú. Ela enquadra a partida de Jacó não como uma fuga, mas como uma busca por uma esposa adequada, o que ela sabe que Isaque aprovaria.",
-      "temas": ["astúcia", "manipulação", "desculpa", "busca por esposa"],
-      "personagens": ["Rebeca", "Isaque", "Jacó"]
+      "parafrase": "Finalmente, Jacó concluiu sua longa jornada terrena, dizendo: 'E que Deus os abençoe com tudo de bom, até que eu me una aos meus antepassados no lugar do descanso eterno.' Ele então soltou seu último suspiro, encontrando a paz e juntando-se aos seus pais na sepultura, encerrando sua passagem terrena.",
+      "referencias": [
+        "Gênesis 49:29",
+        "Atos 7:15"
+      ],
+      "comentario": "Este versículo sela a vida de Jacó. A expressão 'juntar-se aos seus pais' (ou antepassados) é uma referência clara ao sepultamento na terra prometida (embora ele tenha sido enterrado em Canaã, não no Egito). É o momento final da transição entre a vida terrena e o descanso na memória dos patriarcas. 😢",
+      "temas": [
+        "Descanso final",
+        "Morte e sepultamento",
+        "Cumprimento da vida"
+      ],
+      "personagens": [
+        "Jacó"
+      ]
     }
   }
 }

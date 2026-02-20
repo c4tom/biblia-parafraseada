@@ -1,211 +1,484 @@
 {
   "livro": "Provérbios",
   "capitulo": 22,
-  "contexto_historico": "Este capítulo continua a coleção de provérbios de Salomão, oferecendo conselhos práticos sobre a importância de um bom nome, a educação dos filhos, a diligência, a honestidade e a justiça social. Ele contrasta a vida do sábio com a do tolo, e a do justo com a do ímpio, enfatizando que as escolhas de caráter têm um impacto direto na reputação, na prosperidade e no destino.",
-  "bloco_tematico": "A Importância de um Bom Nome e a Educação dos Filhos",
+  "contexto_historico": "O Livro de Provérbios, tradicionalmente atribuído em grande parte a Salomão, é uma coleção de sentenças e ensinamentos práticos destinados a guiar o indivíduo em direção à sabedoria, ao temor do Senhor e a uma vida justa e próspera. O capítulo 22:17-24:22 é notavelmente conhecido como os \"Ditos dos Sábios\" (Provérbios 22:17) e foca intensamente em conselhos práticos para a vida social, financeira e moral, contrastando claramente a vida do sábio com a do tolo e do preguiçoso. Este bloco específico (22:17-24:22) enfatiza a importância de ouvir os ensinamentos, advertindo contra os perigos da dívida, da preguiça e da má companhia. 📜💰👂",
+  "bloco_tematico": "Sabedoria Prática para a Conduta Social e Ética: O Caminho da Integridade e do Trabalho Duro 🧭⬆️",
   "versiculos": {
     "1": {
-      "parafrase": "Um bom nome é mais desejável do que grandes riquezas; e a boa reputação, mais do que prata e ouro.",
-      "referencias": [],
-      "comentario": "O provérbio valoriza a reputação e o bom nome acima das riquezas materiais. A integridade e o caráter são mais valiosos do que a fortuna. A honra é um tesouro inestimável.",
-      "temas": ["bom nome", "reputação", "riqueza", "honra", "caráter"],
-      "personagens": []
+      "parafrase": "Escolha ser conhecido por sua boa reputação e honra, acima de toda a riqueza material que se possa acumular. Um nome limpo e respeitado vale muito mais do que grandes bens ou um tesouro escondido, pois o valor de uma pessoa reside no seu caráter perante os outros.",
+      "referencias": [
+        "Eclesiastes 7:1",
+        "Mateus 6:19"
+      ],
+      "comentario": "O termo hebraico para 'nome' (שֵׁם - shem) aqui não se refere apenas à designação, mas à reputação, ao impacto social e à memória que a pessoa deixa. É um princípio de sabedoria que estabelece a primazia do capital social e moral sobre o capital financeiro. É melhor ser pobre e honrado do que rico e desonrado.",
+      "temas": [
+        "Valor da Reputação",
+        "Riqueza Moral vs. Material",
+        "Sabedoria Prática"
+      ],
+      "personagens": [
+        "O Sábio"
+      ]
     },
     "2": {
-      "parafrase": "O rico e o pobre se encontram; o Senhor fez a ambos.",
-      "referencias": [],
-      "comentario": "O provérbio destaca a igualdade fundamental entre ricos e pobres diante de Deus, que é o Criador de ambos. Isso implica que ambos devem ser tratados com dignidade e respeito.",
-      "temas": ["rico", "pobre", "igualdade", "criação divina"],
-      "personagens": []
+      "parafrase": "O rico e o pobre se encontram na vida, mas a mão que Deus sustentou e formou ambos. O Senhor é o criador supremo de todos os seres humanos, não importa a sua condição financeira na terra.",
+      "referencias": [
+        "Jó 31:15",
+        "Atos 17:26"
+      ],
+      "comentario": "Este versículo introduz uma profunda igualdade na origem humana. 'O rico e o pobre se encontram' (o verbo hebraico significa 'formar' ou 'unir'). Deus é o Criador (נוֹסֵךְ - nosékh) de ambos. Isso implica que ambos são igualmente responsáveis perante Ele, apesar de suas diferentes circunstâncias.",
+      "temas": [
+        "Igualdade Humana",
+        "Soberania de Deus",
+        "Criação"
+      ],
+      "personagens": [
+        "O Rico",
+        "O Pobre",
+        "Deus"
+      ]
     },
     "3": {
-      "parafrase": "O prudente vê o mal e se esconde, mas os ingênuos seguem em frente e sofrem as consequências.",
-      "referencias": [],
-      "comentario": "A prudência se manifesta na capacidade de prever o perigo e evitá-lo, enquanto a ingenuidade leva à imprudência e às consequências negativas. A sabedoria é uma defesa.",
-      "temas": ["prudência", "ingenuidade", "perigo", "consequência"],
-      "personagens": []
+      "parafrase": "A pessoa que é esperta e perspicaz antecipa os problemas, observando os sinais de perigo no caminho, e se resguarda para não sofrer o dano. Quem é tolo, por outro lado, segue adiante sem ver a armadilha e, inevitavelmente, acaba pagando o preço.",
+      "referencias": [
+        "Provérbios 14:15",
+        "Lucas 14:28"
+      ],
+      "comentario": "Contrasta a prudência (עָרוּם - arum) com a ingenuidade. A prudência bíblica envolve a capacidade de discernir o futuro com base nas circunstâncias presentes e agir preventivamente. É a sabedoria da previsão.",
+      "temas": [
+        "Prudência",
+        "Prevenção",
+        "Discernimento"
+      ],
+      "personagens": [
+        "O Prudente",
+        "O Tolo"
+      ]
     },
     "4": {
-      "parafrase": "A recompensa da humildade e do temor do Senhor são riquezas, honra e vida.",
-      "referencias": [],
-      "comentario": "A humildade e o temor do Senhor (reverência e obediência) trazem bênçãos de riqueza, honra e vida. A virtude é recompensada por Deus.",
-      "temas": ["humildade", "temor a Deus", "riqueza", "honra", "vida", "recompensa"],
-      "personagens": []
+      "parafrase": "A recompensa por uma vida de humildade e temor ao Senhor, que se manifesta na busca pela riqueza que vem de Deus, é a verdadeira honra, uma vida longa e abundante de verdadeira satisfação e glória.",
+      "referencias": [
+        "Salmos 112:1-3",
+        "1 Timóteo 6:6"
+      ],
+      "comentario": "Aqui, a humildade (עֲנָוָה - anavah) é ligada ao temor do Senhor (יִרְאַת יְהוָה - yir'at YHWH). Diferente da arrogância, a humildade abre portas para a verdadeira riqueza (reputação e prosperidade duradoura) e vida plena.",
+      "temas": [
+        "Humildade",
+        "Temor a Deus",
+        "Recompensa Divina"
+      ],
+      "personagens": [
+        "O Humilde"
+      ]
     },
     "5": {
-      "parafrase": "Espinhos e armadilhas estão no caminho do perverso; aquele que guarda a sua alma se afasta deles.",
-      "referencias": [],
-      "comentario": "O caminho do perverso é cheio de perigos e armadilhas, mas aquele que guarda sua alma (vive com sabedoria) se afasta deles. A sabedoria é uma proteção.",
-      "temas": ["perversidade", "perigo", "proteção", "sabedoria"],
-      "personagens": []
+      "parafrase": "Para aquele que é imprudente, o caminho da vida é repleto de espinhos e ciladas. Quem não vigia seus próprios passos e ações acaba se enredando em aflições e sofrimentos desnecessários.",
+      "referencias": [
+        "Provérbios 15:19",
+        "Gálatas 6:7"
+      ],
+      "comentario": "Reforça o versículo 3. A falta de vigilância moral e prática leva à perdição. O termo 'sua alma' (נַפְשׁוֹ - naphsho) indica que o perigo afeta a própria essência vital da pessoa.",
+      "temas": [
+        "Imprudência",
+        "Consequências",
+        "Armadilhas da Vida"
+      ],
+      "personagens": [
+        "O Imprudente"
+      ]
     },
     "6": {
-      "parafrase": "Ensine a criança no caminho em que deve andar, e mesmo quando for velha não se desviará dele.",
-      "referencias": [],
-      "comentario": "A educação e a instrução na infância são cruciais para moldar o caráter e garantir que a pessoa permaneça no caminho certo por toda a vida. A formação é fundamental.",
-      "temas": ["educação", "instrução", "criança", "caminho", "formação"],
-      "personagens": []
+      "parafrase": "Ensine a criança desde cedo o caminho reto que ela deve seguir, começando na sua mais tenra idade, e mesmo quando ela crescer e envelhecer, nunca se desviará desse alicerce moral que lhe foi transmitido.",
+      "referencias": [
+        "Deuteronômio 6:6-7",
+        "Efésios 6:4"
+      ],
+      "comentario": "Este é um dos pilares da pedagogia bíblica. O verbo 'dirigir' ou 'dedicar' (חַנֵּךְ - khanékh) sugere um treinamento vigoroso e contínuo. O resultado prometido é a perseverança na retidão pela vida toda.",
+      "temas": [
+        "Educação Infantil",
+        "Formação do Caráter",
+        "Perseverança"
+      ],
+      "personagens": [
+        "Pais/Educadores",
+        "Criança"
+      ]
     },
     "7": {
-      "parafrase": "O rico domina sobre os pobres, e o que toma emprestado é servo do que empresta.",
-      "referencias": [],
-      "comentario": "O provérbio descreve a realidade social da desigualdade de poder entre ricos e pobres, e a dependência do devedor em relação ao credor. Isso destaca a importância da prudência financeira.",
-      "temas": ["rico", "pobre", "dívida", "dependência", "prudência financeira"],
-      "personagens": []
+      "parafrase": "Aquele que é pobre, mas generoso, emprestará e ajudará, mas aquele que é rico, mas avarento, apenas tomará emprestado e não devolverá, explorando os necessitados.",
+      "referencias": [
+        "Lucas 6:38",
+        "Romanos 13:8"
+      ],
+      "comentario": "Este versículo apresenta um paradoxo social comum. O hebraico sugere que o rico é um 'tomador' (שֹׁאֵל - sho'el) de empréstimos, mas não um 'devedor' (não honra suas dívidas), enquanto o pobre é um 'dador' (נוֹתֵן - noten). O contraste reside na disposição de dar versus a ganância de reter.",
+      "temas": [
+        "Generosidade",
+        "Avareza",
+        "Dívidas e Empréstimos"
+      ],
+      "personagens": [
+        "O Pobre Generoso",
+        "O Rico Avaro"
+      ]
     },
     "8": {
-      "parafrase": "Aquele que semeia iniquidade colherá calamidade, e a vara de sua fúria perecerá.",
-      "referencias": [],
-      "comentario": "A iniquidade e a maldade trazem calamidade e destruição. A retribuição divina é certa e proporcional às ações. A vara da fúria (poder opressor) do ímpio será quebrada.",
-      "temas": ["iniquidade", "calamidade", "retribuição", "destruição"],
-      "personagens": []
+      "parafrase": "Quem semeia a iniquidade e colhe o mal, colherá o resultado de sua maldade. A semente da injustiça sempre produzirá uma colheita de destruição e sofrimento, e o cetro da opressão será quebrado.",
+      "referencias": [
+        "Gálatas 6:8",
+        "Oséias 8:7"
+      ],
+      "comentario": "Usa a metáfora agrícola da semeadura e colheita (a lei da semeadura e colheita). O 'cetro de vaidade' (שַׁבֵּט אָוֶן - shavet aven) refere-se ao instrumento de poder tirânico ou opressivo, que será destruído por Deus.",
+      "temas": [
+        "Lei de Causa e Efeito",
+        "Iniquidade",
+        "Destruição do Mal"
+      ],
+      "personagens": [
+        "O Opressor"
+      ]
     },
     "9": {
-      "parafrase": "Aquele que tem um olho generoso será abençoado, pois dá do seu pão ao pobre.",
-      "referencias": [],
-      "comentario": "A generosidade e a compaixão para com os pobres trazem bênçãos. Aquele que compartilha seus recursos será recompensado por Deus.",
-      "temas": ["generosidade", "compaixão", "pobreza", "bênção", "recompensa"],
-      "personagens": []
+      "parafrase": "Aquele que tem um coração compassivo e uma mão aberta para o necessitado será abençoado por Deus, pois ele mesmo está compartilhando o pão com os famintos, mostrando verdadeira bondade.",
+      "referencias": [
+        "Isaías 58:10",
+        "2 Coríntios 9:6"
+      ],
+      "comentario": "Este é o contraponto positivo do versículo 8. O verbo 'semear' (זֹרֵעַ - zore'a) aqui está associado à generosidade. O ato de dar ao pobre é visto como um ato de semear para a própria bênção futura.",
+      "temas": [
+        "Generosidade",
+        "Misericórdia",
+        "Bênção Divina"
+      ],
+      "personagens": [
+        "O Generoso"
+      ]
     },
     "10": {
-      "parafrase": "Expulse o zombador, e a contenda se irá; sim, a disputa e a desonra cessarão.",
-      "referencias": [],
-      "comentario": "Remover o zombador (aquele que causa problemas) da comunidade traz paz e fim às contendas e à desonra. A disciplina é necessária para a harmonia social.",
-      "temas": ["zombador", "contenda", "paz", "disciplina"],
-      "personagens": []
+      "parafrase": "Expulse de seu meio o zombador, aquele que escarnece de tudo e de todos, e a contenda e a briga desaparecerão instantaneamente, trazendo paz e harmonia ao ambiente.",
+      "referencias": [
+        "Provérbios 29:8",
+        "Mateus 7:3"
+      ],
+      "comentario": "O 'zombador' (לֵץ - lets) é um agente de discórdia. Sua remoção é apresentada como uma solução imediata e drástica para o conflito social, indicando o poder destrutivo da zombaria constante.",
+      "temas": [
+        "Zombaria",
+        "Conflito",
+        "Paz Social"
+      ],
+      "personagens": [
+        "O Zombador"
+      ]
     },
     "11": {
-      "parafrase": "Aquele que ama a pureza de coração e tem graça nos lábios, o rei será seu amigo.",
-      "referencias": [],
-      "comentario": "A pureza de coração e a fala graciosa atraem o favor do rei. O caráter e a comunicação são importantes para o relacionamento com a autoridade.",
-      "temas": ["pureza de coração", "graça", "fala", "favor real"],
-      "personagens": []
+      "parafrase": "Quem busca purificar suas intenções e fala com um coração sincero, cultivando a beleza em suas palavras, conquistará a amizade do Rei e terá acesso a grandes honras.",
+      "referencias": [
+        "Salmos 24:4",
+        "Tiago 3:17"
+      ],
+      "comentario": "A pureza do coração (בָּרַר - barar, que significa 'escolher', 'purificar') leva à aceitação pelas autoridades. O verbo 'ama' (אָהַב - ahav) sugere um relacionamento de favor especial com o governante.",
+      "temas": [
+        "Pureza de Coração",
+        "Sinceridade",
+        "Favor Real"
+      ],
+      "personagens": [
+        "O Sincero",
+        "O Rei"
+      ]
     },
     "12": {
-      "parafrase": "Os olhos do Senhor guardam o conhecimento, mas Ele derruba as palavras do traidor.",
-      "referencias": [],
-      "comentario": "Deus protege o conhecimento e a sabedoria, mas frustra os planos e as palavras dos traidores. A verdade prevalecerá, e a falsidade será exposta.",
-      "temas": ["onisciência divina", "conhecimento", "traição", "falsidade"],
-      "personagens": []
+      "parafrase": "Os olhos do Senhor zelam por aqueles que têm conhecimento e sabedoria, protegendo suas palavras e seus caminhos. Ele frustrará os planos daquele que tenta trair ou enganar.",
+      "referencias": [
+        "Salmos 33:18",
+        "Hebreus 4:13"
+      ],
+      "comentario": "O contraste aqui é entre o conhecimento (דעַת - da'at) e a traição. Deus está atento àqueles que buscam a verdade (os sábios) e intervém para anular os esquemas dos enganadores (בּוֹגֵד - boged).",
+      "temas": [
+        "Vigilância Divina",
+        "Conhecimento",
+        "Engano"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "13": {
-      "parafrase": "O preguiçoso diz: 'Há um leão lá fora! Serei morto no meio da rua!'",
-      "referencias": [],
-      "comentario": "O preguiçoso usa desculpas exageradas e irracionais para evitar o trabalho. Sua preguiça o impede de agir e o leva à inatividade.",
-      "temas": ["preguiça", "desculpas", "inatividade", "irracionalidade"],
-      "personagens": []
+      "parafrase": "O preguiçoso inventa desculpas elaboradas para não sair de casa, alegando que há um leão faminto esperando na rua, pronto para devorá-lo a qualquer momento.",
+      "referencias": [
+        "Provérbios 26:13",
+        "Romanos 12:11"
+      ],
+      "comentario": "Uma imagem vívida da preguiça extrema. O 'leão' (אַרְיֵה - aryeh) é um perigo real no antigo Oriente Próximo, mas aqui é usado como metáfora para um medo exagerado ou desculpa esfarrapada para evitar o trabalho.",
+      "temas": [
+        "Preguiça (Ociosidade)",
+        "Desculpas",
+        "Medo"
+      ],
+      "personagens": [
+        "O Preguiçoso"
+      ]
     },
     "14": {
-      "parafrase": "A boca das mulheres estranhas é uma cova profunda; aquele que é abominado pelo Senhor cairá nela.",
-      "referencias": [],
-      "comentario": "A mulher imoral é uma armadilha perigosa que leva à destruição. Aqueles que são abominados por Deus (por sua impiedade) são mais suscetíveis a cair em sua sedução.",
-      "temas": ["mulher imoral", "sedução", "destruição", "abominação divina"],
-      "personagens": []
+      "parafrase": "A boca de uma mulher adúltera ou de uma pessoa infiel é como uma armadilha profunda e traiçoeira, e a ira do Senhor está reservada para aqueles que caem em seus laços sedutores.",
+      "referencias": [
+        "Provérbios 2:16-19",
+        "Romanos 6:23"
+      ],
+      "comentario": "O termo para 'mulher adúltera' (אִשָּׁה זָרָה - ishah zarah) refere-se à infidelidade, seja conjugal ou religiosa (idolatria). Sua boca é um poço profundo (בּוֹר עֲמֻקָּה - bor 'ammuqah), significando um perigo oculto e difícil de escapar.",
+      "temas": [
+        "Infidelidade",
+        "Sedução",
+        "Perigo Moral"
+      ],
+      "personagens": [
+        "A Mulher Adúltera"
+      ]
     },
     "15": {
-      "parafrase": "A tolice está ligada ao coração de uma criança, mas a vara da disciplina a afastará dela.",
-      "referencias": [],
-      "comentario": "A tolice é inerente à natureza da criança, mas a disciplina e a correção são necessárias para afastá-la do caminho da insensatez. A educação é fundamental para o desenvolvimento da sabedoria.",
-      "temas": ["tolice", "criança", "disciplina", "educação"],
-      "personagens": []
+      "parafrase": "Embora a tolice e a insensatez estejam profundamente enraizadas no coração de um jovem, a vara da correção aplicada com amor pode afastá-las, como se estivesse removendo um mal profundo.",
+      "referencias": [
+        "Efésios 4:18",
+        "Hebreus 12:11"
+      ],
+      "comentario": "A tolice (אִוֶּלֶת - iwwellet) é inerente à natureza humana não corrigida. O verbo 'dobrar' (חָלַס - khalas) sugere que a correção (usando a vara, símbolo de disciplina) tem o poder de subjugar a tendência natural à tolice.",
+      "temas": [
+        "Disciplina",
+        "Natureza Humana",
+        "Correção"
+      ],
+      "personagens": [
+        "O Jovem"
+      ]
     },
     "16": {
-      "parafrase": "Aquele que oprime o pobre para aumentar sua própria riqueza, e aquele que dá presentes ao rico, ambos certamente chegarão à pobreza.",
-      "referencias": [],
-      "comentario": "A opressão dos pobres e a busca por favor dos ricos através de presentes levam à pobreza. A injustiça e a ganância têm consequências negativas e a retribuição divina.",
-      "temas": ["opressão", "pobreza", "riqueza", "ganância", "retribuição"],
-      "personagens": []
+      "parafrase": "Aquele que explora os pobres para enriquecer-se, ou que dá presentes apenas para obter vantagem sobre os outros, certamente ficará na miséria e sua riqueza desaparecerá como fumaça.",
+      "referencias": [
+        "Tiago 5:1-6",
+        "Lucas 12:16-21"
+      ],
+      "comentario": "O ato de oprimir o necessitado para ganho próprio (חָמַס - khamas, violência/opressão) é condenado. A promessa é de ruína financeira total, uma inversão completa de seus objetivos gananciosos.",
+      "temas": [
+        "Opressão",
+        "Ganância",
+        "Destruição da Riqueza Ímpar"
+      ],
+      "personagens": [
+        "O Explorador"
+      ]
     },
     "17": {
-      "parafrase": "Incline o seu ouvido e ouça as palavras dos sábios; aplique o seu coração ao meu conhecimento.",
-      "referencias": [],
-      "comentario": "O pai exorta o filho a ouvir atentamente as palavras dos sábios e a aplicar seu coração ao conhecimento. A escuta e a receptividade são essenciais para adquirir sabedoria.",
-      "temas": ["escuta", "sabedoria", "conhecimento", "receptividade"],
-      "personagens": []
+      "parafrase": "Agora, preste muita atenção e incline seu ouvido para estas palavras de sabedoria, dedicando seu coração a aprender os ensinamentos dos sábios, aqueles que guardaram este conhecimento.",
+      "referencias": [
+        "Provérbios 1:8",
+        "Mateus 13:44"
+      ],
+      "comentario": "Um chamado direto à audiência. O verbo 'inclinar' (הָט - hat) exige um esforço ativo de concentração, mais do que apenas ouvir passivamente. A sabedoria é um tesouro a ser guardado no coração.",
+      "temas": [
+        "Atenção à Sabedoria",
+        "Ensino",
+        "Discípulado"
+      ],
+      "personagens": [
+        "O Sábio (Autor)"
+      ]
     },
     "18": {
-      "parafrase": "Pois será agradável se você as guardar dentro de você, e elas estarão prontas em seus lábios.",
-      "referencias": [],
-      "comentario": "Internalizar a sabedoria traz satisfação e a capacidade de expressá-la quando necessário. A sabedoria é um tesouro que deve ser guardado e compartilhado.",
-      "temas": ["internalização", "satisfação", "fala", "sabedoria"],
-      "personagens": []
+      "parafrase": "Pois é uma excelente coisa que você guarde estas palavras em seu interior, mantendo-as prontas em seus lábios, para que sua confiança no Senhor seja fortalecida todos os dias.",
+      "referencias": [
+        "Salmos 119:11",
+        "Filipenses 4:7"
+      ],
+      "comentario": "A sabedoria não é apenas intelectual, mas prática e verbalizada. Guardá-la no centro (no ventre/interior) e proferir (nos lábios) é o caminho para que a confiança em Deus (em hebraico: 'confiar em YHWH') seja a base da vida.",
+      "temas": [
+        "Confiança em Deus",
+        "Memorização da Palavra",
+        "Prática da Sabedoria"
+      ],
+      "personagens": [
+        "O Discipulo"
+      ]
     },
     "19": {
-      "parafrase": "Para que sua confiança esteja no Senhor, eu o ensinei hoje, sim, a você.",
-      "referencias": [],
-      "comentario": "O propósito do ensino é que o filho coloque sua confiança em Deus. A sabedoria leva à fé e à dependência divina.",
-      "temas": ["confiança em Deus", "ensino", "fé", "dependência de Deus"],
-      "personagens": []
+      "parafrase": "Para que você possa testar e confiar plenamente no Senhor, estou lhe transmitindo este conhecimento agora, para que você saiba como agir com retidão.",
+      "referencias": [
+        "1 Tessalonicenses 5:21",
+        "João 7:17"
+      ],
+      "comentario": "O propósito da instrução é a verificação prática da fé. O verbo 'confiar' (בָּטַח - batach) exige uma prova. A instrução serve para capacitar o ouvinte a caminhar com segurança.",
+      "temas": [
+        "Prova da Fé",
+        "Conhecimento de Deus",
+        "Retidão"
+      ],
+      "personagens": [
+        "O Mestre"
+      ]
     },
     "20": {
-      "parafrase": "Não escrevi para você coisas excelentes em conselhos e conhecimento,",
-      "referencias": [],
-      "comentario": "O pai afirma que seus ensinamentos são de grande valor, oferecendo conselhos e conhecimento de alta qualidade. A sabedoria é um tesouro.",
-      "temas": ["excelência", "conselho", "conhecimento", "sabedoria"],
-      "personagens": []
+      "parafrase": "Eu lhe escrevi estes trinta ditados para instruí-lo sobre o que é bom e verdadeiro, para que você possa responder com precisão e sabedoria a quem lhe fizer perguntas.",
+      "referencias": [
+        "João 1:17",
+        "Colossenses 3:16"
+      ],
+      "comentario": "Este versículo funciona como uma introdução formal aos 'Trinta Ditados' ou 'Trinta Provérbios' (שְׁלֹשִׁים מִכְתָּב - sheloshim mikhtav). É uma auto-referência estilística, talvez indicando que estes versículos fazem parte de uma seção maior ou que são o clímax dos ensinamentos sobre conduta correta (verdade e conselho).",
+      "temas": [
+        "Estrutura da Sabedoria",
+        "Verdade",
+        "Comunicação"
+      ],
+      "personagens": [
+        "O Autor"
+      ]
     },
     "21": {
-      "parafrase": "para que você possa conhecer a certeza das palavras da verdade, para que possa responder com palavras de verdade àqueles que o enviam?",
-      "referencias": [],
-      "comentario": "O objetivo do ensino é que o filho conheça a verdade e seja capaz de comunicá-la com certeza e clareza. A sabedoria capacita a falar com autoridade.",
-      "temas": ["verdade", "comunicação", "autoridade", "sabedoria"],
-      "personagens": []
+      "parafrase": "O objetivo é lhe ensinar o caminho da verdade e da solidez, para que, ao ouvir uma declaração, você saiba distinguir o que é genuíno do que é falso e possa dar uma resposta sensata e clara a quem pergunta.",
+      "referencias": [
+        "1 Coríntios 2:13",
+        "Hebreus 5:14"
+      ],
+      "comentario": "A verdade (אֱמֶת - 'emet) e as 'palavras de verdade' são o núcleo. É a capacidade de 'responder com palavras de verdade' (לְהָשִׁיב אֱמֶת - lehashiv 'emet) que demonstra a maturidade espiritual e intelectual.",
+      "temas": [
+        "Discernimento de Verdade",
+        "Resposta Sábia",
+        "Solidez"
+      ],
+      "personagens": [
+        "O Ouvinte"
+      ]
     },
     "22": {
-      "parafrase": "Não roube do pobre, porque ele é pobre, nem oprima o aflito no portão,",
-      "referencias": [],
-      "comentario": "Uma advertência contra a exploração dos vulneráveis. Roubar do pobre ou oprimir o aflito é uma injustiça grave que Deus condena. A justiça social é essencial.",
-      "temas": ["roubo", "opressão", "pobreza", "injustiça", "justiça social"],
-      "personagens": []
+      "parafrase": "Não se aproveite da desgraça do necessitado só porque ele é pobre, nem oprima aquele que já está em aflição no tribunal, pois o Senhor se levantará como seu defensor.",
+      "referencias": [
+        "Êxodo 22:22",
+        "Tiago 2:15-16"
+      ],
+      "comentario": "Este é um forte mandamento de justiça social. O verbo 'roubar' ou 'despojar' (שֹׁד - shod) é usado contra o vulnerável. O Senhor é o Advogado (רִיב - riv) dos órfãos e das viúvas, ou seja, dos desamparados legalmente.",
+      "temas": [
+        "Justiça Social",
+        "Proteção ao Pobre",
+        "Defesa Divina"
+      ],
+      "personagens": [
+        "O Pobre",
+        "Deus (como Defensor)"
+      ]
     },
     "23": {
-      "parafrase": "pois o Senhor defenderá a causa deles e despojará da vida aqueles que os despojam.",
-      "referencias": [],
-      "comentario": "Deus é o Defensor dos oprimidos e Ele retribuirá aqueles que os exploram. A justiça divina garante a vindicação dos pobres e a punição dos opressores.",
-      "temas": ["defesa divina", "retribuição", "opressão", "justiça divina"],
-      "personagens": []
+      "parafrase": "Não seja tolo a ponto de se envolver em disputas judiciais ou brigas por causa de dívidas, pois Deus intervirá em favor do oprimido, e você não escapará da punição de suas ações.",
+      "referencias": [
+        "Mateus 5:25",
+        "1 Coríntios 6:1-2"
+      ],
+      "comentario": "O termo 'poço fundo' (בּוֹר נִפְתָּח - bor niftakh) sugere uma armadilha legal ou uma acusação séria da qual é difícil sair. Deus não tolera quem tenta levar os pobres a tais situações.",
+      "temas": [
+        "Litígios",
+        "Punição Divina",
+        "Justiça no Tribunal"
+      ],
+      "personagens": [
+        "O Litigante Imprudente"
+      ]
     },
     "24": {
-      "parafrase": "Não se associe com um homem irascível, nem ande com um homem violento,",
-      "referencias": [],
-      "comentario": "A sabedoria aconselha a evitar a companhia de pessoas irascíveis e violentas, pois sua influência pode ser prejudicial e levar a problemas. A escolha das companhias é crucial.",
-      "temas": ["associação", "ira", "violência", "má influência"],
-      "personagens": []
+      "parafrase": "Não se associe a pessoas iradas e não ande com quem se enfurece facilmente, para que você não aprenda seus maus caminhos e caia em armadilhas mortais.",
+      "referencias": [
+        "Provérbios 27:17",
+        "Efésios 4:31"
+      ],
+      "comentario": "O alerta contra a má influência. 'Pessoas iradas' (אִישׁ חֵמָה - ish chemah) são pessoas de temperamento explosivo. A proximidade com elas leva à contaminação do comportamento, o que é chamado de 'redes' (מוֹקְשׁוֹת - moqshot).",
+      "temas": [
+        "Influência Social",
+        "Controle da Raiva",
+        "Amizades Perigosas"
+      ],
+      "personagens": [
+        "Pessoas Iradas",
+        "O Sábio"
+      ]
     },
     "25": {
-      "parafrase": "para que você não aprenda os seus caminhos e não caia em uma armadilha para a sua alma.",
-      "referencias": [],
-      "comentario": "A associação com pessoas violentas pode levar a aprender seus maus hábitos e a cair em uma armadilha que prejudica a própria alma. A vigilância é necessária.",
-      "temas": ["aprendizado", "armadilha", "alma", "consequência"],
-      "personagens": []
+      "parafrase": "Se você se colocar em posições de fiador ou garante de dívidas alheias, estará agindo como um tolo. Fuja dessa responsabilidade imediatamente, pois você estará se colocando em perigo financeiro desnecessário.",
+      "referencias": [
+        "Provérbios 6:1-5",
+        "Romanos 13:7-8"
+      ],
+      "comentario": "Um aviso clássico contra ser fiador (עָרַב - 'arav). O ato é classificado como tolice, pois implica assumir a responsabilidade do outro, o que pode levar à ruína pessoal. É uma exortação prática à responsabilidade financeira individual.",
+      "temas": [
+        "Fiador",
+        "Responsabilidade Financeira",
+        "Previsão de Risco"
+      ],
+      "personagens": [
+        "O Fiador"
+      ]
     },
     "26": {
-      "parafrase": "Não seja daqueles que apertam as mãos em fiança, daqueles que se tornam fiadores de dívidas.",
-      "referencias": [],
-      "comentario": "O provérbio reitera a advertência contra a fiança irresponsável, que pode levar a problemas financeiros e à perda de bens. A prudência é essencial.",
-      "temas": ["fiança", "dívida", "prudência financeira", "consequência"],
-      "personagens": []
+      "parafrase": "Não se envolva, de forma alguma, em pactos ou garantias financeiras irresponsáveis pelos débitos alheios, como se fosse seu próprio nome que está assinado no rodapé. Se você se comprometeu de maneira imprudente com a dívida de outra pessoa, prepare-se, pois a dívida se tornará sua responsabilidade imediata. Se você não tem como pagar, o credor virá cobrar de você, e você ficará envergonhado e em apuros.",
+      "referencias": [
+        "Deuteronômio 15:7",
+        "Romanos 13:8"
+      ],
+      "comentario": "O verbo hebraico 'arab' (עָרַב) significa 'tornar-se fiador' ou 'empenhar-se'. Este versículo é um forte alerta contra a temeridade financeira, especificamente a prática de ser fiador (garantidor) de empréstimos alheios. O sábio adverte que, se você se 'empenha' (dá sua palavra de honra e patrimônio), o credor não hesitará em exigir o pagamento de você, mesmo que você não tenha se beneficiado diretamente do empréstimo. É uma lição de prudência e limites na ajuda ao próximo.",
+      "temas": [
+        "Prudência Financeira",
+        "Responsabilidade",
+        "Integridade"
+      ],
+      "personagens": [
+        "O Fiador",
+        "O Credor"
+      ]
     },
     "27": {
-      "parafrase": "Se você não tem nada para pagar, por que sua cama seria tirada de debaixo de você?",
-      "referencias": [],
-      "comentario": "A fiança irresponsável pode levar à perda de tudo, até mesmo do essencial para a sobrevivência. A consequência é severa e dolorosa.",
-      "temas": ["fiança", "perda", "consequência", "pobreza"],
-      "personagens": []
+      "parafrase": "Se, porventura, você não dispõe dos recursos necessários para honrar o compromisso financeiro que assumiu em nome de outro, saiba que essa dívida será cobrada de você com juros e com peso. É como um fogo devorador que consome tudo o que é seu. Pense bem: você está assinando a sentença da sua própria ruína econômica se não puder cobrir o prejuízo.",
+      "referencias": [
+        "Lucas 14:28",
+        "Mateus 6:12"
+      ],
+      "comentario": "Esta metáfora do 'fogo' (Heb. 'esh' אֵשׁ) ilustra a natureza destrutiva de uma dívida impagável. O fiador se coloca voluntariamente numa posição de extrema vulnerabilidade. A sabedoria popular aqui expressa a consequência inevitável da imprudência: a perda dos bens. Não há fuga da consequência direta de um juramento financeiro irresponsável.",
+      "temas": [
+        "Consequências da Imprudência",
+        "Dívida",
+        "Perda de Bens"
+      ],
+      "personagens": [
+        "O Devedor Original",
+        "O Fiador"
+      ]
     },
     "28": {
-      "parafrase": "Não remova o antigo marco que seus pais estabeleceram.",
-      "referencias": [],
-      "comentario": "O provérbio adverte contra a remoção de marcos antigos, que representam limites de propriedade e tradições estabelecidas. Isso simboliza o respeito pela herança e pela ordem social.",
-      "temas": ["marco", "tradição", "respeito", "ordem social"],
-      "personagens": []
+      "parafrase": "Nunca tente enganar ou desviar a fronteira da propriedade alheia, tirando proveito da pobreza ou da ingenuidade de alguém para mover as antigas marcas de demarcação do terreno. Os marcos de pedra estabelecidos pelos ancestrais representam a lei e a ordem social. Roubar ou adulterar essas marcas é uma afronta direta à justiça estabelecida por Deus e pelos homens.",
+      "referencias": [
+        "Deuteronômio 19:14",
+        "Jó 24:2"
+      ],
+      "comentario": "Aqui, o foco muda da dívida para a apropriação de terra. O termo hebraico para 'marcas' ou 'limites' é 'gebul' (גְּבוּל). Mover marcos de fronteira era um dos maiores delitos na sociedade agrária de Israel, pois subvertia a posse legal e a herança familiar estabelecida por Deus na distribuição da Terra Prometida. É um ato de fraude contra a ordem estabelecida.",
+      "temas": [
+        "Justiça Territorial",
+        "Honestidade com a Propriedade",
+        "Fraude"
+      ],
+      "personagens": [
+        "O Injusto",
+        "O Proprietário Lesado"
+      ]
     },
     "29": {
-      "parafrase": "Você vê um homem diligente em seu trabalho? Ele se apresentará diante de reis; ele não se apresentará diante de homens obscuros.",
-      "referencias": [],
-      "comentario": "A diligência e a excelência no trabalho levam ao reconhecimento e à oportunidade de servir a pessoas importantes, como reis. O trabalho árduo é recompensado com honra e sucesso.",
-      "temas": ["diligência", "excelência", "recompensa", "honra", "sucesso"],
-      "personagens": []
+      "parafrase": "Observe atentamente aquele trabalhador que é excepcionalmente habilidoso e diligente em seu ofício. Você verá que ele não serve a qualquer mestre ou se curva a reis medíocres. Sua competência e excelência o levam a servir apenas aos mais poderosos e notáveis da terra; pois o verdadeiro talento e a perícia inegável sempre encontram seu devido lugar de destaque e reconhecimento social.",
+      "referencias": [
+        "Gênesis 41:37",
+        "Colossenses 3:23"
+      ],
+      "comentario": "Este versículo (o último do bloco) contrasta a conduta dos desonestos dos versículos anteriores com a recompensa da diligência. O trabalhador que é 'rápido em sua obra' (Hebraico: 'mahira ba'ammudah' מָהִיר בְּמַעֲשֵׂהוּ) não precisa mendigar favores. Sua habilidade fala por si. Ele não se rebaixa a servir a 'homens pequenos' ou insignificantes ('sarim' שָׂרִים), mas é promovido à presença de grandes autoridades. É um endosso bíblico ao mérito profissional.",
+      "temas": [
+        "Excelência no Trabalho",
+        "Mérito",
+        "Reconhecimento Profissional"
+      ],
+      "personagens": [
+        "O Trabalhador Hábil",
+        "Os Poderosos"
+      ]
     }
   }
 }

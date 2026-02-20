@@ -1,211 +1,464 @@
 {
   "livro": "Êxodo",
   "capitulo": 37,
-  "contexto_historico": "Ver contexto anterior em Êxodo 36. Este capítulo continua a descrição da construção do Tabernáculo, focando na Arca da Aliança, na Mesa dos Pães da Proposição e no Candelabro. A fidelidade dos artesãos em seguir as instruções divinas é enfatizada, mostrando a precisão e a santidade de cada peça do mobiliário sagrado.",
-  "bloco_tematico": "A Construção da Arca, Mesa e Candelabro",
+  "contexto_historico": "Após a experiência sublime da revelação no Monte Sinai (capítulos 19-31) e o subsequente e desastroso episódio do Bezerro de Ouro (capítulos 32-34), Moisés retorna ao monte para receber as tábuas da Lei (a segunda versão) e instruções detalhadas para a construção do Tabernáculo. O povo israelita, recém-liberto do Egito e tendo feito aliança com Deus, precisa agora de um centro físico e ritual para a presença divina no meio do acampamento. Este capítulo marca a transição da lei moral para as diretrizes práticas da adoração e da habitação de Deus com Seu povo. É a preparação para a 'tenda da reunião' e a arca da aliança. 📜✨",
+  "bloco_tematico": "A Arquitetura da Presença: Instruções para o Tabernáculo e a Arca da Aliança ⛺️🔑",
   "versiculos": {
     "1": {
-      "parafrase": "Bezalel fez a arca de madeira de acácia, com dois côvados e meio de comprimento, um côvado e meio de largura e um côvado e meio de altura.",
-      "referencias": ["Êxodo 25:10"],
-      "comentario": "A construção da Arca da Aliança, o item mais sagrado do Tabernáculo, é descrita. Bezalel segue as dimensões exatas dadas por Deus.",
-      "temas": ["Arca da Aliança", "construção", "precisão"],
-      "personagens": ["Bezalel"]
+      "parafrase": "Quando Jacó soube que havia comida no Egito, ou seja, que o Faraó estava controlando e distribuindo os estoques de grãos, ele instruiu seus filhos: 'Por que estão aí parados, olhando uns para os outros sem fazer nada? Vejam bem, ouvi dizer que ainda há suprimentos no Egito. Desçam até lá e comprem o necessário para que nós e nossos filhos não morramos de fome aqui em Canaã.'",
+      "referencias": [
+        "Gênesis 41:57",
+        "Salmos 33:19"
+      ],
+      "comentario": "Este versículo marca a transição de Jacó (Israel) de uma inação forçada para a ação necessária para a sobrevivência. O termo hebraico para 'olhar uns para os outros' (Nith'asseem) sugere uma hesitação ou estagnação. Jacó reconhece que a provisão divina (o armazenamento de José) exige uma resposta humana ativa.",
+      "temas": [
+        "Sobrevivência",
+        "Liderança familiar",
+        "Provisão"
+      ],
+      "personagens": [
+        "Jacó",
+        "Filhos de Jacó"
+      ]
     },
     "2": {
-      "parafrase": "Ele a cobriu de ouro puro por dentro e por fora, e fez uma coroa de ouro ao redor dela.",
-      "referencias": [],
-      "comentario": "O ouro puro simboliza a santidade e a glória de Deus. A coroa de ouro é um sinal de realeza e honra.",
-      "temas": ["ouro puro", "santidade", "glória", "realeza"],
-      "personagens": []
+      "parafrase": "E assim, todos os filhos de Jacó, exceto Benjamim, o caçula, desceram para o Egito, pois Jacó temia deixá-lo ir, receando que algo terrível pudesse lhe acontecer no caminho, como já havia acontecido com José.",
+      "referencias": [
+        "Gênesis 35:18",
+        "Gênesis 42:4"
+      ],
+      "comentario": "A profunda dor da perda de Raquel (mãe de Benjamim) ainda pesa sobre Jacó. O medo patológico de perder o último filho de sua esposa amada o leva a reter Benjamim, uma decisão que involuntariamente o coloca em curso de colisão com o plano de Deus e com José.",
+      "temas": [
+        "Luto",
+        "Proteção parental",
+        "Medo"
+      ],
+      "personagens": [
+        "Jacó",
+        "Benjamim",
+        "José"
+      ]
     },
     "3": {
-      "parafrase": "Fundiu para ela quatro argolas de ouro e as prendeu nos quatro cantos, duas argolas de um lado e duas do outro.",
-      "referencias": [],
-      "comentario": "As argolas seriam usadas para transportar a Arca.",
-      "temas": ["transporte"],
+      "parafrase": "Vários comerciantes e pessoas de outras regiões vizinhas também vieram ao Egito para comprar grãos, pois a fome se espalhava por toda a terra.",
+      "referencias": [
+        "Joel 1:2"
+      ],
+      "comentario": "A crise da fome é um evento regional, não isolado. O Egito, sob a administração de José, torna-se o centro econômico e de refúgio para toda a área circundante, evidenciando a soberania de Deus sobre as nações.",
+      "temas": [
+        "Fome universal",
+        "Economia divina",
+        "Poder do Egito"
+      ],
       "personagens": []
     },
     "4": {
-      "parafrase": "Fez varas de madeira de acácia e as cobriu de ouro.",
-      "referencias": [],
-      "comentario": "As varas seriam usadas para carregar a Arca, e elas também seriam cobertas de ouro, indicando a santidade do que elas carregavam.",
-      "temas": ["transporte", "santidade"],
-      "personagens": []
+      "parafrase": "José era o administrador de tudo o que era vendido no Egito, e foram seus irmãos que vieram se prostrar diante dele, curvando a cabeça até o chão, sem reconhecê-lo em sua posição de poder.",
+      "referencias": [
+        "Gênesis 41:40",
+        "Isaías 2:8"
+      ],
+      "comentario": "Este é o ápice dramático inicial. José, o sonhador escravizado, agora detém o poder sobre seus irmãos, que vêm a ele como um governante estrangeiro. O ato de prostração (Shachah) é um reconhecimento de soberania e posição.",
+      "temas": [
+        "Reconhecimento",
+        "Poder",
+        "Humilhação"
+      ],
+      "personagens": [
+        "José",
+        "Irmãos de José"
+      ]
     },
     "5": {
-      "parafrase": "Colocou as varas nas argolas dos lados da arca, para que ela pudesse ser transportada por elas.",
-      "referencias": [],
-      "comentario": "A forma de transporte é especificada, garantindo que a Arca não seja tocada diretamente.",
-      "temas": ["transporte", "santidade"],
-      "personagens": []
+      "parafrase": "José os reconheceu imediatamente. No entanto, ele agiu como se fossem estranhos, falando com eles de forma áspera e perguntando: 'De onde vocês vieram para comprar suprimentos?'",
+      "referencias": [
+        "Provérbios 29:12",
+        "Jó 30:1"
+      ],
+      "comentario": "A frieza de José não é por maldade, mas por estratégia. O termo hebraico usado para 'falou asperamente com eles' (Yedaber ivrim) indica que ele usou um intérprete ou falou em um tom severo, mantendo o disfarce para testar a integridade deles.",
+      "temas": [
+        "Mistério",
+        "Teste de caráter",
+        "Paciência divina"
+      ],
+      "personagens": [
+        "José",
+        "Irmãos"
+      ]
     },
     "6": {
-      "parafrase": "Fez um propiciatório de ouro puro, com dois côvados e meio de comprimento e um côvado e meio de largura.",
-      "referencias": ["Êxodo 25:17"],
-      "comentario": "O propiciatório (tampa da Arca) é feito de ouro puro, simbolizando a santidade e a glória de Deus. É o lugar onde a expiação seria feita.",
-      "temas": ["propiciatório", "ouro puro", "santidade", "expiação"],
-      "personagens": []
+      "parafrase": "Seus irmãos responderam: 'Viemos de Canaã, da terra onde vivemos, pois a comida acabou aqui, e precisamos comprar para sobreviver.'",
+      "referencias": [
+        "Deuteronômio 28:51"
+      ],
+      "comentario": "A resposta é direta e reflete a urgência da situação. Eles não revelam sua identidade, apenas sua necessidade, o que confirma o disfarce de José.",
+      "temas": [
+        "Necessidade urgente",
+        "Honestidade forçada"
+      ],
+      "personagens": [
+        "Irmãos"
+      ]
     },
     "7": {
-      "parafrase": "Fez dois querubins de ouro batido nas duas extremidades do propiciatório.",
-      "referencias": [],
-      "comentario": "Os querubins, seres angelicais, guardam a presença de Deus. Eles são feitos da mesma peça de ouro que o propiciatório, simbolizando a unidade da presença de Deus e a expiação.",
-      "temas": ["querubins", "presença de Deus", "unidade"],
-      "personagens": []
+      "parafrase": "José, ao ver seus irmãos, lembrou-se imediatamente dos sonhos antigos que tivera sobre eles – aqueles sonhos onde seus feixes e o sol, a lua e as estrelas se inclinavam perante ele. A realidade daquele momento parecia uma confirmação vingativa de seu destino superior.",
+      "referencias": [
+        "Gênesis 37:7",
+        "Gênesis 37:9"
+      ],
+      "comentario": "Este é um momento crucial de introspecção para José. Ele revive os sonhos que foram a causa de sua venda. A memória é vívida, mas ele escolhe não revelar sua identidade ainda, utilizando a dor passada como alavanca para o teste presente.",
+      "temas": [
+        "Memória",
+        "Sonhos proféticos",
+        "Ironia histórica"
+      ],
+      "personagens": [
+        "José",
+        "Irmãos"
+      ]
     },
     "8": {
-      "parafrase": "Fez um querubim em uma extremidade e o outro na outra extremidade; fez os querubins de uma só peça com o propiciatório, em suas duas extremidades.",
-      "referencias": [],
-      "comentario": "A instrução enfatiza a unidade da construção, mostrando que os querubins são parte integrante do propiciatório.",
-      "temas": ["unidade da construção"],
-      "personagens": []
+      "parafrase": "Ele se virou e se afastou deles para chorar em particular. As lágrimas vieram, pois a emoção de reencontrar aqueles que o traíram era avassaladora. Depois de se recompor, ele voltou e lhes fez novas perguntas.",
+      "referencias": [
+        "Salmos 126:5",
+        "Lucas 22:44"
+      ],
+      "comentario": "A capacidade de José de chorar demonstra que, apesar de seu poder e controle, ele ainda é um homem com sentimentos profundos por sua família. O choro (Baka) é secreto, mostrando que ele precisa manter a compostura perante seus subordinados.",
+      "temas": [
+        "Emoção reprimida",
+        "Lágrimas",
+        "Autocontrole"
+      ],
+      "personagens": [
+        "José"
+      ]
     },
     "9": {
-      "parafrase": "Os querubins tinham suas asas estendidas para cima, cobrindo o propiciatório com suas asas, e seus rostos estavam um de frente para o outro, voltados para o propiciatório.",
-      "referencias": [],
-      "comentario": "A posição dos querubins simboliza a adoração e a proteção da presença de Deus. Seus rostos voltados para o propiciatório indicam seu interesse na expiação.",
-      "temas": ["simbolismo", "adoração", "proteção", "expiação"],
-      "personagens": []
+      "parafrase": "E ele lhes disse, com um tom de suspeita: 'Vocês me parecem espiões! Estão aqui apenas para descobrir os pontos fracos de nossa terra e relatar ao Faraó onde podemos ser atacados!'",
+      "referencias": [
+        "Números 13:16",
+        "1 Reis 14:5"
+      ],
+      "comentario": "A acusação de espionagem é uma tática clássica de intimidação na política egípcia. José eleva a tensão para forçar os irmãos a se defenderem e revelarem mais sobre sua família e situação.",
+      "temas": [
+        "Acusação",
+        "Desconfiança",
+        "Espionagem"
+      ],
+      "personagens": [
+        "José",
+        "Irmãos"
+      ]
     },
     "10": {
-      "parafrase": "Fez a mesa de madeira de acácia, com dois côvados de comprimento, um côvado de largura e um côvado e meio de altura.",
-      "referencias": ["Êxodo 25:23"],
-      "comentario": "A construção da Mesa dos Pães da Proposição é descrita. A mesa seria usada para exibir os pães da proposição, simbolizando a provisão contínua de Deus para Seu povo.",
-      "temas": ["Mesa dos Pães da Proposição", "construção", "materiais"],
-      "personagens": []
+      "parafrase": "Os filhos de Jacó responderam rapidamente, negando veementemente: 'De modo algum, meu senhor! Nós viemos apenas para comprar comida. Todos nós somos filhos do mesmo pai, na terra de Canaã. Um de nós não retornou, e o caçula ficou com nosso pai em casa.'",
+      "referencias": [
+        "Gênesis 44:26"
+      ],
+      "comentario": "Eles confirmam serem irmãos, mas a menção de que um sumiu e o outro ficou é uma verdade parcial, carregada de ironia dramática, pois o desaparecido é o próprio José, e o caçula (Benjamim) está ausente por ordem de Jacó.",
+      "temas": [
+        "Defesa",
+        "Identidade familiar",
+        "Meia verdade"
+      ],
+      "personagens": [
+        "Irmãos"
+      ]
     },
     "11": {
-      "parafrase": "Ele a cobriu de ouro puro e fez uma coroa de ouro ao redor dela.",
-      "referencias": [],
-      "comentario": "O ouro puro e a coroa de ouro simbolizam a santidade e a realeza da provisão de Deus.",
-      "temas": ["ouro puro", "santidade", "realeza"],
-      "personagens": []
+      "parafrase": "Então, José os alertou: 'Se o que dizem é verdade, e vocês são homens honestos, deixem um de vocês aqui como refém, enquanto os outros voltam para levar o suprimento de comida para suas famílias famintas. O que ficará será mantido sob minha custódia até que tragam o irmão mais novo.'",
+      "referencias": [
+        "Gênesis 42:19"
+      ],
+      "comentario": "José introduz a condição que definirá o resto da saga: a necessidade de comprovar a existência de um pai e um irmão mais novo. O refém era uma prática comum para garantir o retorno dos comerciantes.",
+      "temas": [
+        "Refém",
+        "Condição",
+        "Prova de lealdade"
+      ],
+      "personagens": [
+        "José",
+        "Irmãos"
+      ]
     },
     "12": {
-      "parafrase": "Fez uma borda de um palmo de largura ao redor dela e fez uma coroa de ouro ao redor da borda.",
-      "referencias": [],
-      "comentario": "A borda e a coroa adicionam beleza e funcionalidade à mesa.",
-      "temas": ["beleza", "funcionalidade"],
-      "personagens": []
+      "parafrase": "Eles, sem saberem que estavam falando com José, ficaram extremamente angustiados, e se olharam confusos, pensando: 'Ah, isto é castigo por termos sido cruéis com nosso irmão no passado, quando ele implorava por sua vida e nós não o ouvimos!'",
+      "referencias": [
+        "Levítico 5:1",
+        "Provérbios 14:30"
+      ],
+      "comentario": "A consciência de culpa explode. A palavra hebraica para angústia/aperto (Tsar) reflete o peso da memória da injustiça cometida contra José, confirmando que eles percebem a situação como um retorno cármico de suas ações.",
+      "temas": [
+        "Culpa",
+        "Arrependimento inicial",
+        "Consequência"
+      ],
+      "personagens": [
+        "Irmãos"
+      ]
     },
     "13": {
-      "parafrase": "Fundiu para ela quatro argolas de ouro e as prendeu nos quatro cantos, onde estavam as quatro pernas.",
-      "referencias": [],
-      "comentario": "As argolas seriam usadas para transportar a mesa.",
-      "temas": ["transporte"],
-      "personagens": []
+      "parafrase": "Enquanto debatiam sua aflição, um deles, falando com os outros, disse: 'Vejam, eu sei que somos culpados por tudo isso, porque vimos a dor em sua alma quando ele nos suplicava, mas ignoramos seus apelos desesperados.'",
+      "referencias": [
+        "Tiago 1:22",
+        "Miquéias 6:8"
+      ],
+      "comentario": "A confissão de um dos irmãos é um passo vital. Embora ainda não saibam o nome do oficial egípcio, a culpa pela venda de José é explicitada. Este é um reconhecimento genuíno da crueldade passada.",
+      "temas": [
+        "Confissão",
+        "Empatia tardia",
+        "Reconhecimento do erro"
+      ],
+      "personagens": [
+        "Um dos Irmãos"
+      ]
     },
     "14": {
-      "parafrase": "As argolas estavam perto da borda, como suportes para as varas, para transportar a mesa.",
-      "referencias": [],
-      "comentario": "A posição das argolas é especificada para o transporte seguro.",
-      "temas": ["transporte"],
-      "personagens": []
+      "parafrase": "E José, ouvindo suas palavras de remorso, virou-se novamente para chorar, mas manteve seu disfarce e permaneceu em silêncio até que eles terminassem.",
+      "referencias": [
+        "Lamentações 3:27"
+      ],
+      "comentario": "A sinceridade do arrependimento superficial dos irmãos aciona uma nova onda de emoção em José. O silêncio dele agora é um sinal de que o teste está funcionando, e ele precisa manter a compostura para levá-lo adiante.",
+      "temas": [
+        "Compaixão oculta",
+        "Controle emocional",
+        "Teste em curso"
+      ],
+      "personagens": [
+        "José"
+      ]
     },
     "15": {
-      "parafrase": "Fez as varas de madeira de acácia e as cobriu de ouro, para que a mesa pudesse ser transportada por elas.",
-      "referencias": [],
-      "comentario": "As varas também seriam cobertas de ouro, indicando a santidade do que elas carregavam.",
-      "temas": ["transporte", "santidade"],
-      "personagens": []
+      "parafrase": "Então, José retornou e lhes disse formalmente: 'Isto é o que farei para provar que vocês são homens de palavra: Um de vocês ficará aqui comigo como garantia. Os outros podem ir e levar o grão que suas famílias precisam para não morrerem de fome.'",
+      "referencias": [
+        "Êxodo 22:25"
+      ],
+      "comentario": "José reafirma a condição de refém, mas a apresenta como um procedimento administrativo egípcio, distanciando-se do lado pessoal para manter o controle da situação.",
+      "temas": [
+        "Condição de libertação",
+        "Administração de crise",
+        "Garantia"
+      ],
+      "personagens": [
+        "José"
+      ]
     },
     "16": {
-      "parafrase": "Fez também os utensílios que estariam sobre a mesa: seus pratos, seus recipientes para incenso, suas jarras e suas tigelas, com os quais se derramariam as ofertas de bebidas. Ele os fez de ouro puro.",
-      "referencias": [],
-      "comentario": "Os utensílios da mesa seriam feitos de ouro puro, refletindo a santidade e a glória do serviço a Deus.",
-      "temas": ["utensílios", "ouro puro", "santidade"],
-      "personagens": []
+      "parafrase": "E ordenou-lhes: 'Voltem amanhã com seu irmão mais novo, e então eu acreditarei em suas palavras e lhes darei a permissão para voltarem para casa, sem que ninguém aqui sofra as consequências.'",
+      "referencias": [
+        "Gênesis 44:15"
+      ],
+      "comentario": "A meta está clara: Benjamim deve vir. A presença do irmão mais novo é a única chave para desbloquear a confiança de José e a libertação dos demais.",
+      "temas": [
+        "A chave da libertação",
+        "Exigência familiar"
+      ],
+      "personagens": [
+        "José"
+      ]
     },
     "17": {
-      "parafrase": "Fez o candelabro de ouro puro. Ele o fez de ouro batido; seu pé e sua haste, seus cálices, seus botões e suas flores eram uma só peça com ele.",
-      "referencias": ["Êxodo 25:31"],
-      "comentario": "A construção do Candelabro é descrita. O candelabro, feito de ouro puro e batido, simboliza a luz de Deus e a presença divina no Tabernáculo.",
-      "temas": ["candelabro", "ouro puro", "luz de Deus", "presença divina"],
-      "personagens": []
+      "parafrase": "Os dez irmãos passaram três dias sob custódia, enquanto José os observava de longe, esperando o desenrolar dos acontecimentos.",
+      "referencias": [
+        "Jonas 3:4"
+      ],
+      "comentario": "O confinamento de três dias é um teste de paciência para eles e uma pausa estratégica para José. Três dias é um período simbólico de espera ou provação em muitas narrativas bíblicas.",
+      "temas": [
+        "Espera",
+        "Provação",
+        "Observação"
+      ],
+      "personagens": [
+        "Irmãos",
+        "José"
+      ]
     },
     "18": {
-      "parafrase": "Seis ramos saíam de seus lados: três ramos do candelabro de um lado e três ramos do candelabro do outro lado.",
-      "referencias": [],
-      "comentario": "A estrutura do candelabro é detalhada, com seus ramos simétricos.",
-      "temas": ["estrutura", "simetria"],
-      "personagens": []
+      "parafrase": "No terceiro dia, José lhes disse: 'Façam o seguinte para provar que são homens íntegros: Deixem um de vocês aqui como refém, e os outros levem o que compraram e voltem rapidamente para buscar o irmão mais novo.'",
+      "referencias": [
+        "Gênesis 42:20"
+      ],
+      "comentario": "José repete a ordem, pressionando a decisão. A repetição enfatiza a seriedade da exigência, forçando-os a confrontar Jacó e a separação de Benjamim.",
+      "temas": [
+        "Pressão",
+        "Integridade exigida"
+      ],
+      "personagens": [
+        "José"
+      ]
     },
     "19": {
-      "parafrase": "Três cálices em forma de flor de amêndoa, com botão e flor, em um ramo; e três cálices em forma de flor de amêndoa, com botão e flor, no próximo ramo; e assim para os seis ramos que saíam do candelabro.",
-      "referencias": [],
-      "comentario": "Os detalhes ornamentais do candelabro são descritos, com motivos florais que refletem a beleza da criação de Deus.",
-      "temas": ["ornamentação", "beleza", "criação"],
-      "personagens": []
+      "parafrase": "Eles concordaram imediatamente, dizendo: 'Meu senhor, nós entendemos. Escolha aquele que deve ficar sob sua guarda, e nós levaremos o grão para nossas famílias famintas.'",
+      "referencias": [
+        "Mateus 12:37"
+      ],
+      "comentario": "A disposição em cooperar mostra que o medo da fome supera o medo de perder outro filho. Eles estão dispostos a sacrificar um para salvar o grupo e o pai.",
+      "temas": [
+        "Acordo",
+        "Sacrifício pelo grupo"
+      ],
+      "personagens": [
+        "Irmãos"
+      ]
     },
     "20": {
-      "parafrase": "E no próprio candelabro havia quatro cálices em forma de flor de amêndoa, com seus botões e suas flores.",
-      "referencias": [],
-      "comentario": "Os cálices na haste principal do candelabro são especificados.",
-      "temas": ["ornamentação"],
-      "personagens": []
+      "parafrase": "Eles então pediram: 'Mas, por favor, permita que um de nós volte para buscar nosso irmão Benjamim, para que não pereçamos todos aqui.'",
+      "referencias": [
+        "Gênesis 43:13"
+      ],
+      "comentario": "Eles identificam Benjamim pelo nome (embora José ainda não saiba que eles o conhecem pelo nome ou que ele é o caçula), reforçando a necessidade de trazer o irmão que falta.",
+      "temas": [
+        "Apelo",
+        "Necessidade específica"
+      ],
+      "personagens": [
+        "Irmãos",
+        "Benjamim"
+      ]
     },
     "21": {
-      "parafrase": "Um botão debaixo de dois ramos que saíam dele, e um botão debaixo de dois ramos que saíam dele, e um botão debaixo de dois ramos que saíam dele, para os seis ramos que saíam dele.",
-      "referencias": [],
-      "comentario": "A disposição dos botões e ramos é detalhada, garantindo a precisão da construção.",
-      "temas": ["precisão", "disposição"],
-      "personagens": []
+      "parafrase": "Ao ouvir isso, os irmãos se lembraram da dor passada e perceberam que o sofrimento atual era uma consequência direta de sua antiga crueldade para com José. A angústia os dominou novamente.",
+      "referencias": [
+        "Gênesis 43:21"
+      ],
+      "comentario": "A repetição da angústia (Naharim) vincula explicitamente o sofrimento presente à culpa passada. Eles estão sendo forçados a reviver a mesma situação de desamparo que impuseram a José.",
+      "temas": [
+        "Conexão causa-efeito",
+        "Sofrimento como lição",
+        "Repercussão da injustiça"
+      ],
+      "personagens": [
+        "Irmãos"
+      ]
     },
     "22": {
-      "parafrase": "Seus botões e seus ramos eram uma só peça com ele; tudo era de ouro puro batido.",
-      "referencias": [],
-      "comentario": "A unidade da construção e o material (ouro puro batido) são enfatizados, mostrando a perfeição e a santidade do candelabro.",
-      "temas": ["unidade", "ouro puro", "perfeição", "santidade"],
-      "personagens": []
+      "parafrase": "E um deles disse aos outros: 'Eu lhes falei que não deveríamos ter ignorado o sofrimento da alma dele! Agora estamos pagando o preço por sua súplica ignorada.'",
+      "referencias": [
+        "Provérbios 1:24-28"
+      ],
+      "comentario": "A articulação da culpa torna-se mais clara: eles se lembram de terem visto a alma aflita de José. O sofrimento é visto como 'pagamento' (Chibbulah) pela sua insensibilidade.",
+      "temas": [
+        "Pagamento de dívida",
+        "Lembrança dolorosa"
+      ],
+      "personagens": [
+        "Um dos Irmãos"
+      ]
     },
     "23": {
-      "parafrase": "Fez suas sete lâmpadas, seus cortadores de pavio e seus cinzeiros de ouro puro.",
-      "referencias": [],
-      "comentario": "As lâmpadas e os utensílios do candelabro seriam feitos de ouro puro, refletindo a santidade do serviço de iluminação.",
-      "temas": ["lâmpadas", "utensílios", "ouro puro"],
-      "personagens": []
+      "parafrase": "José ouviu tudo o que diziam, mas, para não expor sua identidade, ele se virou e chorou novamente, mantendo a voz baixa para que não percebessem o seu real estado emocional.",
+      "referencias": [
+        "Salmos 56:8"
+      ],
+      "comentario": "Este é o terceiro choro registrado de José neste encontro. Ele chora pela dor da reconciliação iminente e pela confirmação da mudança em seus irmãos, mas deve esconder isso para completar o teste.",
+      "temas": [
+        "Reconciliação iminente",
+        "Sigilo",
+        "Emoção profunda"
+      ],
+      "personagens": [
+        "José"
+      ]
     },
     "24": {
-      "parafrase": "Ele o fez de um talento de ouro puro, com todos os seus utensílios.",
-      "referencias": [],
-      "comentario": "O peso total do candelabro e seus utensílios é especificado, mostrando o grande valor do objeto.",
-      "temas": ["valor", "ouro puro"],
-      "personagens": []
+      "parafrase": "Então, José ordenou que um deles fosse escolhido para permanecer como refém, enquanto ele pegava todos os outros dez e os mandava carregar os celeiros com o maior volume de grãos que pudessem levar, e enchia seus sacos de prata de volta, como pagamento inicial.",
+      "referencias": [
+        "Gênesis 42:25"
+      ],
+      "comentario": "A ação se torna prática. José não apenas os detém, mas também os reabastece abundantemente, demonstrando generosidade apesar da desconfiança. A prata sendo devolvida é um elemento chave para o próximo teste (Gênesis 44).",
+      "temas": [
+        "Generosidade sob suspeita",
+        "Preparação para o retorno"
+      ],
+      "personagens": [
+        "José"
+      ]
     },
     "25": {
-      "parafrase": "Fez o altar do incenso de madeira de acácia. Tinha um côvado de comprimento e um côvado de largura; era quadrado, e dois côvados de altura. Seus chifres eram uma só peça com ele.",
-      "referencias": ["Êxodo 30:1"],
-      "comentario": "A construção do Altar do Incenso é descrita, seguindo as dimensões e materiais especificados.",
-      "temas": ["Altar do Incenso", "construção", "materiais"],
-      "personagens": []
+      "parafrase": "Quando os dez irmãos estavam prontos para partir para Canaã, José deu a ordem final: 'Levantem-se e partam, mas o refém ficará sob minha custódia até que retornem com Benjamim.'",
+      "referencias": [
+        "Gênesis 42:26"
+      ],
+      "comentario": "O fechamento do primeiro encontro. A condição de refém é reforçada como um decreto inegociável. A narrativa se move para a segunda fase: o retorno à casa de Jacó e a difícil tarefa de convencer o pai a liberar o último filho de Raquel.",
+      "temas": [
+        "Decreto final",
+        "Condição estabelecida",
+        "Ato de partida"
+      ],
+      "personagens": [
+        "José",
+        "Irmãos"
+      ]
     },
     "26": {
-      "parafrase": "Ele o cobriu de ouro puro, sua parte superior, seus lados ao redor e seus chifres. E fez uma coroa de ouro ao redor dele.",
-      "referencias": [],
-      "comentario": "O ouro puro e a coroa de ouro simbolizam a santidade e a glória da oração e da presença de Deus.",
-      "temas": ["ouro puro", "santidade", "glória"],
-      "personagens": []
+      "parafrase": "Então, José se lembrou de algo, um pensamento que o atingiu como um raio, enquanto olhava para seus irmãos, agora curvados diante dele em profunda reverência, o coração cheio de apreensão e súplica. Ele pensou: 'Será que devo revelar quem eu realmente sou agora, ou devo testá-los um pouco mais para ter certeza de que mudaram de verdade?'. Ele manteve o silêncio por um momento, observando a angústia neles, antes de dar o próximo passo na revelação dramática de sua identidade.",
+      "referencias": [
+        "Gênesis 42:7",
+        "Gênesis 45:1"
+      ],
+      "comentario": "A pausa de José (o verbo hebraico 'wayyizkor' - e ele se lembrou) indica uma decisão interna, um momento de reflexão antes de prosseguir com seu plano. Ele precisa de confirmação da mudança de coração dos irmãos. Este é um teste psicológico final, uma preparação para o clímax da reconciliação. O silêncio carregado amplifica a tensão.",
+      "temas": [
+        "Discernimento",
+        "Teste de Caráter",
+        "Paciência Divina"
+      ],
+      "personagens": [
+        "José",
+        "Irmãos de José"
+      ]
     },
     "27": {
-      "parafrase": "Fez para ele duas argolas de ouro debaixo de sua coroa, em seus dois lados; elas eram suportes para as varas, para transportá-lo.",
-      "referencias": [],
-      "comentario": "As argolas seriam usadas para transportar o altar.",
-      "temas": ["transporte"],
-      "personagens": []
+      "parafrase": "Enquanto eles esperavam com a respiração suspensa, José, ainda sem revelar sua face, perguntou-lhes com voz firme, mas controlada: 'Como vocês se sentiram quando souberam que Faraó, o governante de toda a terra egípcia, estava exigindo que trouxessem o Benjamin, o filho mais novo de seu pai? Qual foi a dor que sentiram ao pensar em deixar seu pai sozinho novamente, desolado pela perda de outro filho amado?'",
+      "referencias": [
+        "Gênesis 42:13",
+        "Gênesis 44:29"
+      ],
+      "comentario": "José está conscientemente forçando-os a revisitar a dor que causaram a Jacó (seu pai). Ele busca evidências de remorso genuíno, não apenas medo da punição. Ele quer que eles verbalizem a empatia que lhes faltou quando venderam seu próprio irmão. A menção explícita ao 'pai' é a chave para medir sua consciência atual.",
+      "temas": [
+        "Empatia",
+        "Confronto da Culpa",
+        "Liderança Sábia"
+      ],
+      "personagens": [
+        "José",
+        "Irmãos de José",
+        "Faraó"
+      ]
     },
     "28": {
-      "parafrase": "Fez as varas de madeira de acácia e as cobriu de ouro.",
-      "referencias": [],
-      "comentario": "As varas também seriam cobertas de ouro, indicando a santidade do que elas carregavam.",
-      "temas": ["transporte", "santidade"],
-      "personagens": []
+      "parafrase": "Eles responderam, cheios de tristeza e sinceridade: 'Nosso servo, aquele que está sobre a casa do Faraó, disse-nos isto, e a nós nos apoderou um grande temor! Vimos quão profundamente nosso pai Jacó estava ligado a este jovem Benjamin. É impossível para nós voltarmos para ele sem este menino, pois a morte de nosso pai seria certa se o víssemos partir, pois ele já não tem mais alegria na vida desde que perdeu o outro!'",
+      "referencias": [
+        "Gênesis 44:29-30",
+        "Gênesis 42:38"
+      ],
+      "comentario": "A resposta dos irmãos demonstra uma mudança fundamental. Eles agora entendem a profundidade do vínculo paterno, algo que ignoraram com José. Eles expressam que a vida de Jacó está intrinsecamente ligada à presença de Benjamin. O 'grande temor' (hebraico: 'yir'ah gadolah') é tanto medo da ira egípcia quanto de causar a morte do pai.",
+      "temas": [
+        "Remorso",
+        "Lealdade Familiar",
+        "Medo e Reverência"
+      ],
+      "personagens": [
+        "Irmãos de José",
+        "Jacó"
+      ]
     },
     "29": {
-      "parafrase": "Fez o óleo da unção sagrada e o incenso aromático puro, obra de perfumista.",
-      "referencias": ["Êxodo 30:23-38"],
-      "comentario": "O óleo da unção e o incenso sagrado são preparados, seguindo as instruções divinas. Sua santidade e exclusividade são enfatizadas.",
-      "temas": ["óleo da unção", "incenso sagrado", "santidade", "exclusividade"],
-      "personagens": []
+      "parafrase": "E então, vendo a angústia sincera e o profundo pesar refletidos nos rostos de seus irmãos, José não pôde mais conter a emoção que lhe inundava o peito. Ele ordenou a todos os egípcios que estavam presentes na sala que se retirassem imediatamente, pois o momento da verdade, o momento da revelação e da cura, havia chegado, e ele desejava estar sozinho com seus irmãos para que pudessem absorver o choque e a alegria da sua identidade restaurada. 😢😭",
+      "referencias": [
+        "Gênesis 45:1",
+        "Gênesis 45:4"
+      ],
+      "comentario": "Este versículo marca a transição para a reconciliação. O comando para que 'todos os egípcios' saíssem (o verbo é imperativo) cria um espaço sagrado e íntimo. A necessidade de José de estar sozinho sublinha a profundidade pessoal e familiar do evento que está prestes a ocorrer. É o prelúdio para a grande cena de 'Eu sou José!'.",
+      "temas": [
+        "Reconciliação",
+        "Intimidade Familiar",
+        "Clímax Narrativo"
+      ],
+      "personagens": [
+        "José",
+        "Irmãos de José",
+        "Egípcios"
+      ]
     }
   }
 }

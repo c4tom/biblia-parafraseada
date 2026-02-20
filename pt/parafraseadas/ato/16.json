@@ -1,288 +1,675 @@
 {
   "livro": "Atos",
   "capitulo": 16,
-  "contexto_historico": "A segunda viagem missionária de Paulo continua. Após visitar as igrejas na Galácia, a equipe missionária é guiada pelo Espírito Santo de uma forma inesperada, sendo impedida de ir para a Ásia e Bitínia. Em vez disso, através de uma visão, eles são chamados a cruzar para a Macedônia (norte da Grécia), levando o evangelho para o continente europeu pela primeira vez. O capítulo narra a fundação da igreja em Filipos.",
-  "bloco_tematico": "A Chamada para a Macedônia e a Igreja em Filipos",
+  "contexto_historico": "Após a prisão e julgamento de Paulo em Filipos e Tessalônica, ele e Silas são enviados a Beréia (Atos 17:10). Em Beréia, a recepção é calorosa e o povo verifica as Escrituras diariamente para confirmar as palavras de Paulo (Atos 17:11). A perseguição judaica os segue, forçando Silas e Timóteo a permanecerem enquanto Paulo é escoltado até Atenas, onde ele confronta os filósofos no Areópago (Atos 17:16-34). Este capítulo marca a continuação da missão de Paulo no segundo grande ciclo da expansão cristã, focando agora em Corinto, após a breve e tensa passagem por Atenas. Corinto era um centro cosmopolita, economicamente vital e conhecido por sua importância estratégica e, culturalmente, por sua imoralidade e diversidade religiosa. Paulo, sentindo-se isolado após a partida de Silas e Timóteo, concentra sua energia em estabelecer a nova comunidade cristã ali, enfrentando forte oposição, mas encontrando abrigo e apoio na casa de Priscila e Áquila. Este período é crucial para a consolidação da Igreja em uma das cidades mais desafiadoras do Império Romano.",
+  "bloco_tematico": "De Atenas a Corinto: A Consolidação na Metrópole 🏛️🤝",
   "versiculos": {
     "1": {
-      "parafrase": "Ele chegou a Derbe e depois a Listra, onde havia um discípulo chamado Timóteo, filho de uma judia crente, mas de pai grego.",
-      "referencias": ["2 Timóteo 1:5"],
-      "comentario": "Paulo reencontra Timóteo, um jovem discípulo que ele provavelmente converteu na primeira viagem. Timóteo tinha uma herança mista, com uma mãe e avó judias que lhe ensinaram as Escrituras, mas um pai gentio.",
-      "temas": ["discipulado", "herança mista", "fé familiar"],
-      "personagens": ["Paulo", "Timóteo"]
+      "parafrase": "Paulo e seus companheiros de viagem chegaram a Derbe e, em seguida, a Listra, uma cidade na província da Galácia. Em Listra, encontraram um jovem chamado Timóteo. A mãe dele, Eunice, era uma judia convertida que nutria uma fé sincera, e sua avó, Lóide, compartilhava da mesma devoção profunda.",
+      "referencias": [
+        "2 Timóteo 1:5",
+        "Atos 14:6"
+      ],
+      "comentario": "Este versículo introduz Timóteo, um discípulo chave para Paulo. A menção à fé da mãe (Eunice) e da avó (Lóide) destaca a importância da transmissão da fé dentro do ambiente familiar judaico, algo que Paulo valorizava imensamente.",
+      "temas": [
+        "Discípulado",
+        "Fé Familiar",
+        "Missões"
+      ],
+      "personagens": [
+        "Paulo",
+        "Timóteo",
+        "Eunice",
+        "Lóide"
+      ]
     },
     "2": {
-      "parafrase": "Os irmãos de Listra e Icônio davam bom testemunho dele.",
-      "referencias": [],
-      "comentario": "Timóteo já tinha uma boa reputação entre as igrejas locais, um pré-requisito importante para o ministério.",
-      "temas": ["bom testemunho", "reputação"],
-      "personagens": ["Timóteo"]
+      "parafrase": "A notícia sobre Timóteo chegou aos ouvidos de Paulo, que o considerou um candidato ideal para se juntar à sua comitiva missionária. Havia, contudo, um detalhe importante a ser resolvido: o pai de Timóteo era grego (gentio), e Timóteo não havia sido circuncidado.",
+      "referencias": [
+        "Gálatas 2:3"
+      ],
+      "comentario": "Paulo toma a iniciativa de integrar Timóteo, mas reconhece a sensibilidade cultural e religiosa. A não circuncisão de Timóteo era um obstáculo prático para pregar aos judeus nas sinagogas, pois ele seria visto como impuro ou negligente da Lei Mosaica.",
+      "temas": [
+        "Pragmatismo Ministerial",
+        "Identidade Mista",
+        "Acomodação Cultural"
+      ],
+      "personagens": [
+        "Paulo",
+        "Timóteo"
+      ]
     },
     "3": {
-      "parafrase": "Paulo quis que ele o acompanhasse. Então, o circuncidou por causa dos judeus que viviam naquela região, pois todos sabiam que seu pai era grego.",
-      "referencias": ["1 Coríntios 9:20", "Gálatas 2:3-5"],
-      "comentario": "A decisão de Paulo de circuncidar Timóteo pode parecer contraditória após o Concílio de Jerusalém. No entanto, o motivo não era para a salvação de Timóteo, mas por estratégia missionária. Como Timóteo tinha mãe judia, ele seria visto como um apóstata pelos judeus se não fosse circuncidado, o que fecharia as portas das sinagogas para o ministério. Paulo remove uma barreira cultural para não comprometer o evangelho. É um ato de concessão, não de compromisso teológico.",
-      "temas": ["estratégia missionária", "sensibilidade cultural", "princípio da contextualização"],
-      "personagens": ["Paulo", "Timóteo", "Judeus"]
+      "parafrase": "Para evitar qualquer tropeço ou escândalo entre os irmãos judeus que encontrariam pelo caminho, Paulo decidiu que Timóteo deveria ser circuncidado. Paulo agiu assim não porque a circuncisão fosse necessária para a salvação — o que ele sempre ensinou que não era —, mas sim por causa da situação específica e das pessoas ao redor.",
+      "referencias": [
+        "1 Coríntios 9:20",
+        "Gálatas 5:6"
+      ],
+      "comentario": "Este é um exemplo clássico do princípio paulino de 'fazer-se tudo para todos' (1 Co 9:22). A ação não era doutrinária (não visava a justificação), mas pastoral e estratégica, visando remover barreiras para a pregação do Evangelho entre os judeus locais. O ato foi realizado 'por causa dos judeus que estavam naquelas cidades'.",
+      "temas": [
+        "Estratégia Missionária",
+        "Unidade na Igreja",
+        "Circuncisão vs. Fé"
+      ],
+      "personagens": [
+        "Paulo",
+        "Timóteo"
+      ]
     },
     "4": {
-      "parafrase": "Passando pelas cidades, eles entregavam as decisões tomadas pelos apóstolos e presbíteros em Jerusalém, para que as observassem.",
-      "referencias": ["Atos 15:28-29"],
-      "comentario": "Eles disseminam as decisões do Concílio de Jerusalém, promovendo a unidade e a liberdade do evangelho da graça nas igrejas da Galácia.",
-      "temas": ["unidade da igreja", "comunicação do decreto apostólico"],
-      "personagens": ["Apóstolos", "Presbíteros"]
+      "parafrase": "Assim, enquanto viajavam de cidade em cidade, eles entregavam fielmente as decisões tomadas pelos apóstolos e pelos presbíteros de Jerusalém, para que as igrejas recém-fundadas as seguissem rigorosamente.",
+      "referencias": [
+        "Atos 15:28-29"
+      ],
+      "comentario": "Os apóstolos e presbíteros de Jerusalém (o Concílio de Jerusalém) haviam emitido diretrizes para as igrejas gentias. Paulo garante que estas orientações sejam observadas, demonstrando o respeito pela autoridade central da Igreja primitiva e mantendo a coesão doutrinária e prática.",
+      "temas": [
+        "Autoridade Eclesiástica",
+        "Consistência Doutrinária",
+        "Comunicação Intercomunitária"
+      ],
+      "personagens": [
+        "Apóstolos",
+        "Presbíteros"
+      ]
     },
     "5": {
-      "parafrase": "Assim, as igrejas eram fortalecidas na fé e cresciam em número dia a dia.",
-      "referencias": [],
-      "comentario": "A clareza doutrinária do Concílio e o ministério dos apóstolos resultam em igrejas saudáveis, que são fortalecidas na fé e experimentam crescimento numérico.",
-      "temas": ["fortalecimento da igreja", "crescimento da igreja", "saúde doutrinária"],
-      "personagens": []
+      "parafrase": "Como resultado dessa fidelidade, as comunidades cristãs cresciam em fé a cada cidade que visitavam, e seu número aumentava dia após dia, fortalecidas pelas orientações recebidas.",
+      "referencias": [
+        "Atos 15:41",
+        "Atos 12:24"
+      ],
+      "comentario": "O versículo resume o sucesso da missão. A obediência às diretrizes apostólicas não cerceou a liberdade, mas sim promoveu a estabilidade e o crescimento espiritual ('firmes na fé').",
+      "temas": [
+        "Crescimento da Igreja",
+        "Estabilidade Doutrinária",
+        "Fortalecimento"
+      ],
+      "personagens": [
+        "Paulo",
+        "Timóteo"
+      ]
     },
     "6": {
-      "parafrase": "Eles atravessaram a região da Frígia e da Galácia, tendo sido impedidos pelo Espírito Santo de pregar a palavra na província da Ásia.",
-      "referencias": [],
-      "comentario": "A narrativa mostra a soberania do Espírito na direção da missão. Paulo tinha um plano (provavelmente ir para Éfeso, a capital da Ásia), mas o Espírito Santo o proíbe. A porta foi fechada.",
-      "temas": ["direção do Espírito Santo", "soberania de Deus", "portas fechadas"],
-      "personagens": ["Espírito Santo"]
+      "parafrase": "O Espírito Santo os guiou, e eles atravessaram a região da Frígia e da Galácia, sem que lhes fosse permitido pregar a Palavra de Deus naquela área específica naquele momento.",
+      "referencias": [
+        "Atos 8:39",
+        "Gálatas 1:2"
+      ],
+      "comentario": "O papel do Espírito Santo como guia ativo da missão é enfatizado. O termo grego para 'guiados' sugere uma direção muito específica. Isso mostra que a expansão missionária não era puramente humana, mas divinamente orquestrada, com momentos de 'parada' estratégica.",
+      "temas": [
+        "Direção do Espírito Santo",
+        "Soberania Divina",
+        "Restrição Missionária"
+      ],
+      "personagens": [
+        "Espírito Santo"
+      ]
     },
     "7": {
-      "parafrase": "Quando chegaram perto da Mísia, tentaram ir para a Bitínia, mas o Espírito de Jesus não o permitiu.",
-      "referencias": [],
-      "comentario": "Eles tentam um segundo caminho, para o norte, mas são novamente bloqueados pelo Espírito. A direção divina às vezes envolve proibições claras.",
-      "temas": ["direção divina", "proibição divina"],
-      "personagens": ["Espírito de Jesus"]
+      "parafrase": "Em seguida, chegaram à fronteira da Mísia e tentaram entrar na Bitínia, mas novamente, o Espírito de Jesus os impediu de seguir por aquele caminho.",
+      "referencias": [
+        "Romanos 1:13"
+      ],
+      "comentario": "Mais um bloqueio divino. A Mísia e a Bitínia ficavam ao norte, na Ásia Menor. Esses impedimentos forçaram o grupo a mudar drasticamente de rota, um ponto crucial que os levaria para a Macedônia.",
+      "temas": [
+        "Obediência ao Espírito",
+        "Redirecionamento",
+        "Frustração Estratégica"
+      ],
+      "personagens": [
+        "Espírito de Jesus"
+      ]
     },
     "8": {
-      "parafrase": "Então, contornando a Mísia, desceram a Trôade.",
-      "referencias": [],
-      "comentario": "Forçados a seguir para o oeste, eles chegam à cidade portuária de Trôade, sem saber ainda qual era o plano de Deus.",
-      "temas": ["jornada missionária", "obediência"],
+      "parafrase": "Ignorando a Bítnia, eles passaram pela costa, descendo até a cidade portuária de Troas, na fronteira ocidental da Ásia.",
+      "referencias": [
+        "2 Coríntios 2:12"
+      ],
+      "comentario": "Troas era um porto vital, uma porta de entrada para o continente europeu. Este desvio forçado, vindo do Espírito Santo, é a ponte logística para a próxima grande fase da missão.",
+      "temas": [
+        "Mudança de Rota",
+        "Porta de Entrada",
+        "Logística Missionária"
+      ],
       "personagens": []
     },
     "9": {
-      "parafrase": "À noite, Paulo teve uma visão: um homem da Macedônia estava em pé e lhe rogava: \"Passe à Macedônia e ajude-nos!\"",
-      "referencias": [],
-      "comentario": "Aqui, a direção divina se torna positiva. Através de uma visão, Deus revela Seu plano: levar o evangelho para a Europa. O clamor por 'ajuda' é um chamado para a libertação espiritual que o evangelho oferece.",
-      "temas": ["visão macedônica", "chamado missionário", "direção divina", "evangelismo transcultural"],
-      "personagens": ["Paulo", "Homem da Macedônia"]
+      "parafrase": "Durante a noite, Paulo teve uma visão impactante: um homem da Macedônia estava em pé, implorando fervorosamente, dizendo: 'Venha para a Macedônia e nos ajude! Passe para a Europa e pregue o Evangelho aqui!'",
+      "referencias": [
+        "Atos 10:9-16",
+        "2 Coríntios 12:1"
+      ],
+      "comentario": "Esta é uma das chamadas mais decisivas da história missionária. A visão, recebida 'de noite' (um momento propício para revelações), marca a transição do foco do ministério de Paulo da Ásia para a Europa. O chamado é uma súplica pessoal de um 'macedônio'.",
+      "temas": [
+        "Chamado à Europa",
+        "Visão",
+        "Intercessão"
+      ],
+      "personagens": [
+        "Paulo",
+        "Homem da Macedônia"
+      ]
     },
     "10": {
-      "parafrase": "Depois que ele teve a visão, procuramos imediatamente partir para a Macedônia, concluindo que Deus nos havia chamado para lhes pregar as boas novas.",
-      "referencias": [],
-      "comentario": "A narrativa muda para a primeira pessoa do plural (\"nós\"). Isso indica que o autor, Lucas, juntou-se à equipe missionária em Trôade. A resposta ao chamado é imediata e unânime.",
-      "temas": ["seções \"nós\" de Atos", "obediência imediata", "confirmação do chamado"],
-      "personagens": ["Paulo", "Lucas", "Equipe missionária", "Deus"]
+      "parafrase": "Assim que Paulo viu essa visão, nós, seus companheiros de viagem, ficamos certos de que Deus havia nos convocado para levar as boas novas aos habitantes da Macedônia. Imediatamente, deixamos Troas e navegamos rumo à Samotrácia.",
+      "referencias": [
+        "Atos 11:17"
+      ],
+      "comentario": "O uso do pronome 'nós' (Latreia) indica que Lucas, o autor de Atos, juntou-se à equipe missionária em Troas. A visão de Paulo é interpretada coletivamente como um chamado direto de Deus para cruzar o Egeu.",
+      "temas": [
+        "Inclusão de Lucas",
+        "Compreensão da Vontade Divina",
+        "Travessia do Mar"
+      ],
+      "personagens": [
+        "Paulo",
+        "Lucas"
+      ]
     },
     "11": {
-      "parafrase": "De Trôade, navegamos diretamente para a Samotrácia e, no dia seguinte, para Neápolis.",
-      "referencias": [],
-      "comentario": "A viagem pelo mar Egeu é rápida e direta, sugerindo condições favoráveis, talvez um sinal da bênção de Deus sobre sua obediência.",
-      "temas": ["jornada missionária"],
+      "parafrase": "De lá, seguimos viagem e chegamos a Samotrácia no primeiro dia, e no dia seguinte, atracamos em Neápolis.",
+      "referencias": [
+        "Mateus 4:15"
+      ],
+      "comentario": "São detalhes geográficos que atestam a precisão da narrativa de Lucas. Samotrácia era uma ilha no caminho para a Grécia continental.",
+      "temas": [
+        "Geografia Bíblica",
+        "Viagem Marítima"
+      ],
       "personagens": []
     },
     "12": {
-      "parafrase": "Dali fomos para Filipos, que é uma colônia romana e a principal cidade daquele distrito da Macedônia. E ficamos ali alguns dias.",
-      "referencias": [],
-      "comentario": "Eles chegam a Filipos, uma cidade estrategicamente importante. Como colônia romana, seus cidadãos tinham grande orgulho de sua identidade romana e gozavam de privilégios especiais.",
-      "temas": ["chegada à Europa", "contexto romano"],
+      "parafrase": "E de Neápolis, avançamos até Filipos, que é a cidade principal daquela parte da Macedônia, uma colônia romana. Passamos um tempo considerável ali.",
+      "referencias": [
+        "Filipenses 1:1",
+        "Atos 22:25"
+      ],
+      "comentario": "Filipos era uma colônia romana de grande prestígio (uma 'colônia' romana garantia direitos especiais aos seus habitantes). Ser uma colônia romana era crucial para Paulo, pois lhe dava proteção legal, como visto mais tarde no capítulo.",
+      "temas": [
+        "Colonização Romana",
+        "Fundação de Igreja",
+        "Missão Urbana"
+      ],
       "personagens": []
     },
     "13": {
-      "parafrase": "No sábado, saímos para fora da porta da cidade, para a beira de um rio, onde esperávamos encontrar um lugar de oração. Sentamo-nos e começamos a falar com as mulheres que ali se haviam reunido.",
-      "referencias": [],
-      "comentario": "Aparentemente, não havia uma sinagoga em Filipos (talvez por não haver o mínimo de dez homens judeus). Eles procuram um lugar de oração judaico, que frequentemente se localizava perto de água corrente para rituais de purificação. Encontram apenas um grupo de mulheres.",
-      "temas": ["estratégia missionária", "lugar de oração", "ministério com mulheres"],
-      "personagens": []
+      "parafrase": "No dia de sábado (o Shabat), saímos dos portões da cidade, indo para o lugar onde imaginávamos que haveria um local de oração, à beira do rio, pois sabíamos que não havia uma sinagoga judaica estabelecida ali.",
+      "referencias": [
+        "Levítico 23:3",
+        "Atos 14:1"
+      ],
+      "comentario": "A ausência de dez homens adultos para formar um *minyan* (quorum para sinagoga) forçou os missionários a buscar um lugar de reunião junto ao rio ('lugar de oração' ou *proseuchē*), uma prática comum entre os judeus da diáspora quando não havia sinagoga formal.",
+      "temas": [
+        "Adoração Judaica",
+        "Iniciativa de Oração",
+        "Diáspora"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "14": {
-      "parafrase": "Uma das que ouviam era uma mulher temente a Deus chamada Lídia, vendedora de púrpura, da cidade de Tiatira. O Senhor lhe abriu o coração para que atendesse às coisas que Paulo dizia.",
-      "referencias": [],
-      "comentario": "A primeira convertida na Europa é Lídia, uma mulher de negócios bem-sucedida e uma gentia temente a Deus. A conversão dela é explicitamente atribuída à obra soberana do Senhor, que 'abriu seu coração' para receber a mensagem.",
-      "temas": ["conversão", "soberania de Deus na salvação", "mulher de negócios"],
-      "personagens": ["Lídia", "Senhor", "Paulo"]
+      "parafrase": "Ali, encontramos um grupo de mulheres reunidas. Entre elas estava Lídia, uma negociante de púrpura, oriunda da cidade de Tiatira, uma mulher que, embora pagã, demonstrava temor a Deus, e cuja alma estava atenta aos ensinamentos que Paulo proferia.",
+      "referencias": [
+        "Apocalipse 2:18",
+        "Salmos 119:18"
+      ],
+      "comentario": "Lídia é apresentada como a primeira convertida na Europa, e sua profissão (comerciante de tecido de púrpura, artigo de luxo) indica sua prosperidade. Seu 'temor a Deus' (*eusebeia*) mostra que ela era uma prosélita ou simpatizante judaica, o que facilitou sua recepção da mensagem.",
+      "temas": [
+        "Primeira Conversão Europeia",
+        "Mulheres na Liderança",
+        "Temor a Deus"
+      ],
+      "personagens": [
+        "Lídia",
+        "Paulo"
+      ]
     },
     "15": {
-      "parafrase": "Depois de ter sido batizada, ela e os de sua casa, fez-nos um pedido: \"Se os senhores me julgam fiel ao Senhor, entrem em minha casa e fiquem ali.\" E nos constrangeu a isso.",
-      "referencias": [],
-      "comentario": "A fé de Lídia se manifesta em ação imediata: ela e sua casa (provavelmente servos e funcionários) são batizados. Ela então oferece hospitalidade aos missionários, um sinal de sua gratidão e um apoio prático crucial para o ministério. Sua insistência mostra a sinceridade de sua oferta.",
-      "temas": ["batismo", "hospitalidade", "frutos da fé"],
-      "personagens": ["Lídia", "Senhor"]
+      "parafrase": "Quando Lídia e sua família foram batizadas, ela imediatamente convidou Paulo e sua equipe com grande hospitalidade, dizendo: 'Se vocês me julgam como alguém que verdadeiramente crê no Senhor, então venham ficar em minha casa!'. Com isso, ela os constrangeu a aceitar sua generosidade.",
+      "referencias": [
+        "Atos 10:48",
+        "Romanos 16:23"
+      ],
+      "comentario": "A conversão de Lídia é seguida pelo batismo de toda a sua casa (família e dependentes), um sinal da unidade familiar na fé. Sua insistência em hospedá-los mostra um coração transformado e um forte senso de retribuição pela graça recebida.",
+      "temas": [
+        "Batismo",
+        "Hospitalidade Cristã",
+        "Generosidade"
+      ],
+      "personagens": [
+        "Lídia",
+        "Paulo"
+      ]
     },
     "16": {
-      "parafrase": "Certo dia, quando íamos para o lugar de oração, veio ao nosso encontro uma jovem escrava que tinha um espírito de adivinhação e que, adivinhando, dava grande lucro a seus senhores.",
-      "referencias": [],
-      "comentario": "O ministério enfrenta oposição demoníaca. A jovem era possuída por um 'espírito Píton', associado ao oráculo de Delfos. Sua habilidade de adivinhação era uma fonte de exploração financeira para seus donos.",
-      "temas": ["oposição demoníaca", "adivinhação", "escravidão", "exploração"],
-      "personagens": ["Jovem escrava"]
+      "parafrase": "Em um dos dias seguintes, enquanto íamos ao local de oração, fomos abordados por uma escrava que possuía um espírito de adivinhação (um 'pneuma pitônico'). Ela gerava muito lucro para seus donos com suas previsões.",
+      "referencias": [
+        "Deuteronômio 18:10-12",
+        "Atos 8:9"
+      ],
+      "comentario": "O 'espírito de adivinhação' (em grego, *pneuma puthōnos*) era associado ao oráculo de Delfos. Esta escrava representava o poder oculto pagão que operava na cidade, um poder que o Evangelho desafiaria diretamente.",
+      "temas": [
+        "Conflito Espiritual",
+        "Demonologia",
+        "Exploração Econômica"
+      ],
+      "personagens": [
+        "Escrava",
+        "Paulo"
+      ]
     },
     "17": {
-      "parafrase": "Ela nos seguia, a Paulo e a nós, e gritava: \"Estes homens são servos do Deus Altíssimo e lhes anunciam o caminho da salvação!\"",
-      "referencias": ["Marcos 1:24", "Lucas 4:34"],
-      "comentario": "O demônio, através da escrava, proclama uma verdade. No entanto, seu objetivo não era ajudar, mas desacreditar os apóstolos, talvez associando-os a seu próprio espírito de adivinhação ou perturbando o ministério. É um testemunho verdadeiro com uma intenção maligna.",
-      "temas": ["testemunho demoníaco", "perturbação espiritual"],
-      "personagens": ["Jovem escrava", "Paulo", "Deus Altíssimo"]
+      "parafrase": "Essa moça começou a seguir Paulo e a nós, gritando insistentemente para todos que viam: 'Estes homens são servos do Deus Altíssimo, e estão anunciando o caminho da salvação para vocês!'",
+      "referencias": [
+        "Mateus 8:29"
+      ],
+      "comentario": "Ironicamente, o espírito maligno estava atestando a verdade da mensagem de Paulo ('servos do Deus Altíssimo' – *Theou Hupsistou*). No entanto, Paulo não podia aceitar o testemunho de um demônio, pois isso poderia confundir a origem da autoridade da mensagem ou dar credibilidade ao poder maligno.",
+      "temas": [
+        "Falso Testemunho",
+        "Autoridade de Cristo",
+        "Atestado Demoníaco"
+      ],
+      "personagens": [
+        "Paulo",
+        "Escrava"
+      ]
     },
     "18": {
-      "parafrase": "E fez isso por muitos dias. Paulo, já indignado, voltou-se e disse ao espírito: \"Em nome de Jesus Cristo, eu lhe ordeno que saia dela!\" E, na mesma hora, o espírito saiu.",
-      "referencias": [],
-      "comentario": "A paciência de Paulo se esgota. Agindo com autoridade apostólica, ele comanda o espírito a sair em nome de Jesus. A libertação é instantânea, demonstrando a superioridade do poder de Cristo sobre as forças demoníacas.",
-      "temas": ["exorcismo", "autoridade de Cristo", "libertação"],
-      "personagens": ["Paulo", "Espírito", "Jesus Cristo"]
+      "parafrase": "Paulo, cansado daquela perseguição constante e irritado com aquela proclamação vinda de um ser impuro, voltou-se para ela e ordenou, em nome de Jesus Cristo: 'Eu ordeno que esse espírito saia de você agora mesmo!' E o espírito saiu imediatamente.",
+      "referencias": [
+        "Marcos 1:25",
+        "Lucas 9:42"
+      ],
+      "comentario": "A ação de Paulo é autoritativa e imediata, realizada 'em nome de Jesus Cristo'. Isso demonstra o poder superior da autoridade do Messias sobre as forças demoníacas que controlavam a vida da moça e o testemunho falso.",
+      "temas": [
+        "Exorcismo",
+        "Poder de Jesus",
+        "Autoridade Apostólica"
+      ],
+      "personagens": [
+        "Paulo",
+        "Jesus Cristo"
+      ]
     },
     "19": {
-      "parafrase": "Quando os senhores da jovem viram que a sua esperança de lucro havia desaparecido, agarraram Paulo e Silas e os arrastaram para a praça pública, à presença das autoridades.",
-      "referencias": [],
-      "comentario": "A libertação da jovem provoca a ira de seus donos. O motivo da perseguição é puramente financeiro. Eles perderam sua fonte de renda e se voltam contra os missionários.",
-      "temas": ["perseguição por motivos financeiros", "ganância", "conflito com interesses mundanos"],
-      "personagens": ["Senhores da escrava", "Paulo", "Silas"]
+      "parafrase": "Quando os donos da escrava viram que a esperança de continuar lucrando havia desaparecido, eles agarraram Paulo e Silas e os arrastaram furiosamente para a praça pública, levando-os diante das autoridades romanas.",
+      "referencias": [
+        "Atos 17:5-6",
+        "Tiago 5:1-6"
+      ],
+      "comentario": "O motivo da prisão não é religioso, mas econômico. A cura da moça representa a perda de capital para seus donos. Eles movem a disputa para o fórum (praça pública), onde o poder romano é exercido, acusando os apóstolos de perturbar a ordem social.",
+      "temas": [
+        "Conflito Econômico",
+        "Injustiça",
+        "Motivação Financeira"
+      ],
+      "personagens": [
+        "Paulo",
+        "Silas",
+        "Donos da Escrava"
+      ]
     },
     "20": {
-      "parafrase": "E, apresentando-os aos magistrados, disseram: \"Estes homens, sendo judeus, estão perturbando muito a nossa cidade\"",
-      "referencias": [],
-      "comentario": "A acusação é desonesta. Eles não mencionam a perda financeira, mas apelam para o preconceito racial ('sendo judeus') e para a desordem pública, acusando-os de perturbar a paz.",
-      "temas": ["falsa acusação", "preconceito racial", "manipulação"],
-      "personagens": ["Magistrados", "Paulo", "Silas"]
+      "parafrase": "Apresentando-os aos magistrados, gritaram: 'Estes homens, que são judeus, estão causando grande alvoroço na nossa cidade, ensinando costumes que não são permitidos a nós, romanos, seguirmos ou praticarmos.'",
+      "referencias": [
+        "Atos 18:13"
+      ],
+      "comentario": "A acusação explorou o status de Filipos como colônia romana. Os romanos eram extremamente sensíveis a qualquer pregação que pudesse ser interpretada como subversão da religião estatal ou desrespeito ao Imperador. A referência à 'costumes não romanos' era uma arma legal eficaz.",
+      "temas": [
+        "Acusação Legal",
+        "Preconceito Étnico",
+        "Ameaça à Ordem Pública"
+      ],
+      "personagens": [
+        "Paulo",
+        "Silas",
+        "Magistrados"
+      ]
     },
     "21": {
-      "parafrase": "\"e proclamam costumes que a nós, romanos, não é lícito aceitar nem praticar.\"",
-      "referencias": [],
-      "comentario": "Eles os acusam de promover uma religião ilegal, que ia contra os costumes romanos. Era uma acusação séria em uma colônia romana orgulhosa de sua identidade.",
-      "temas": ["conflito cultural e religioso", "nacionalismo"],
-      "personagens": []
+      "parafrase": "A multidão se juntou à revolta, e os magistrados, sem investigar a fundo, ordenaram que as túnicas dos apóstolos fossem rasgadas e que fossem açoitados publicamente com varas.",
+      "referencias": [
+        "2 Coríntios 11:25",
+        "1 Tessalonicenses 2:2"
+      ],
+      "comentario": "Este é o primeiro açoitamento registrado que Paulo sofreu na segunda viagem. O açoitamento público era reservado para crimes graves. A pressa dos magistrados em aplicar o castigo (sem ouvir a defesa) mostra a pressão da multidão e a gravidade da infração percebida em um ambiente romano.",
+      "temas": [
+        "Açoitamento",
+        "Violência Popular",
+        "Rapidez da Injustiça"
+      ],
+      "personagens": [
+        "Paulo",
+        "Silas",
+        "Multidão"
+      ]
     },
     "22": {
-      "parafrase": "A multidão levantou-se unida contra eles, e os magistrados, rasgando-lhes as vestes, ordenaram que fossem açoitados com varas.",
-      "referencias": ["2 Coríntios 11:25"],
-      "comentario": "Sem um julgamento justo, os magistrados cedem à pressão da multidão. Paulo e Silas são publicamente humilhados e brutalmente açoitados, um castigo severo e doloroso.",
-      "temas": ["perseguição injusta", "violência da multidão", "açoites"],
-      "personagens": ["Multidão", "Magistrados", "Paulo", "Silas"]
+      "parafrase": "Após receberem muitos golpes, foram jogados na prisão. O carcereiro recebeu ordens estritas para garantir que eles não escapassem, e por isso os prendeu no local mais profundo da cela, prendendo seus pés com fortes troncos de madeira.",
+      "referencias": [
+        "Hebreus 11:36"
+      ],
+      "comentario": "A prisão interna mais segura (*esotaton*) e o uso de grilhões nos pés (*xulon*, que pode significar um tronco ou canga) indicam o grau de perigo que os magistrados viam neles, ou a crueldade do carcereiro.",
+      "temas": [
+        "Prisão",
+        "Sofrimento Físico",
+        "Segurança da Cela"
+      ],
+      "personagens": [
+        "Paulo",
+        "Silas",
+        "Carcereiro"
+      ]
     },
     "23": {
-      "parafrase": "Depois de lhes terem dado muitos açoites, lançaram-nos na prisão, ordenando ao carcereiro que os guardasse com toda a segurança.",
-      "referencias": [],
-      "comentario": "Após o açoitamento, eles são presos sob segurança máxima.",
-      "temas": ["prisão", "sofrimento"],
-      "personagens": ["Carcereiro"]
+      "parafrase": "Mas, por volta da meia-noite, enquanto Paulo e Silas estavam ali, presos e doloridos, eles começaram a cantar hinos de louvor a Deus, e os outros prisioneiros estavam prestando atenção a eles.",
+      "referencias": [
+        "Salmos 42:8",
+        "Tiago 5:13"
+      ],
+      "comentario": "Este ato de louvor no meio da dor e do constrangimento é um testemunho poderoso. O louvor (*hymneō*) em face da adversidade, em vez de gemidos ou lamentos, chamou a atenção dos outros encarcerados.",
+      "temas": [
+        "Louvor em Adversidade",
+        "Resiliência",
+        "Testemunho através do Sofrimento"
+      ],
+      "personagens": [
+        "Paulo",
+        "Silas",
+        "Prisioneiros"
+      ]
     },
     "24": {
-      "parafrase": "Recebendo tal ordem, ele os lançou no cárcere interior e lhes prendeu os pés no tronco.",
-      "referencias": [],
-      "comentario": "O carcereiro cumpre as ordens com rigor, colocando-os na parte mais segura e insalubre da prisão e prendendo seus pés em um tronco de madeira, uma posição dolorosa e incapacitante.",
-      "temas": ["segurança máxima", "tortura"],
-      "personagens": ["Carcereiro", "Paulo", "Silas"]
-    },
-    "25": {
-      "parafrase": "Por volta da meia-noite, Paulo e Silas estavam orando e cantando hinos a Deus, e os outros presos os escutavam.",
-      "referencias": ["Efésios 5:19", "Colossenses 3:16"],
-      "comentario": "Esta é uma das demonstrações de fé mais notáveis da Bíblia. Em vez de reclamar ou se desesperar, Paulo e Silas, com as costas sangrando e os pés presos, estão adorando a Deus. Sua alegria sobrenatural se torna um testemunho para os outros prisioneiros.",
-      "temas": ["alegria no sofrimento", "adoração na prisão", "oração", "testemunho"],
-      "personagens": ["Paulo", "Silas", "Deus"]
-    },
-    "26": {
-      "parafrase": "De repente, sobreveio um terremoto tão grande que os alicerces da prisão foram abalados. Imediatamente todas as portas se abriram, e as correntes de todos se soltaram.",
-      "referencias": ["Atos 4:31"],
-      "comentario": "Deus responde à adoração deles com uma intervenção poderosa. O terremoto é um sinal divino que liberta não apenas Paulo e Silas, mas todos os prisioneiros, mostrando que o poder de Deus não pode ser contido.",
-      "temas": ["intervenção divina", "terremoto milagroso", "libertação"],
+      "parafrase": "De repente, ocorreu um terremoto tão violento que as fundações da prisão tremeram violentamente. Imediatamente, todas as portas se abriram, e as correntes que prendiam os prisioneiros se soltaram.",
+      "referencias": [
+        "Êxodo 19:18",
+        "Jó 37:6"
+      ],
+      "comentario": "Este evento não é acidental; é uma intervenção milagrosa. O terremoto é a resposta audível de Deus ao louvor dos apóstolos, desmantelando a estrutura física da opressão.",
+      "temas": [
+        "Milagre",
+        "Intervenção Divina",
+        "Libertação"
+      ],
       "personagens": []
     },
+    "25": {
+      "parafrase": "O carcereiro, acordado pelo tremor, viu as portas da prisão escancaradas. Assumindo que os prisioneiros haviam fugido, sacou sua espada, pronto para se matar, pois seria executado se seus presos escapassem.",
+      "referencias": [
+        "Atos 12:18-19",
+        "1 Samuel 31:4"
+      ],
+      "comentario": "A lei romana era implacável: a fuga de prisioneiros era considerada negligência capital do carcereiro. O ato de suicídio era visto como uma forma honrosa de evitar a humilhação da execução pública ou a tortura pelos seus erros. O terror da responsabilidade é evidente.",
+      "temas": [
+        "Desespero Humano",
+        "Lei Romana",
+        "Pressão Profissional"
+      ],
+      "personagens": [
+        "Carcereiro"
+      ]
+    },
+    "26": {
+      "parafrase": "De repente, um tremor profundo da terra sacudiu toda a estrutura da prisão. As fundações do edifício estremeceram e, num instante glorioso, todos os ferrolhos e cadeias que prendiam Paulo e Silas se abriram e caíram no chão, soltando-os completamente. Era um sinal claro e inegável da intervenção divina. 😲",
+      "referencias": [
+        "Salmos 18:7",
+        "Jó 37:23"
+      ],
+      "comentario": "O terremoto (σεισμός - seismos) é um recurso literário e teológico recorrente para indicar a ação poderosa de Deus (como em Êxodo 19:18). Aqui, ele não apenas liberta os apóstolos fisicamente, mas também serve como um testemunho audível e sentido para o carcereiro e todos os presentes, validando a mensagem que Paulo e Silas pregavam. O milagre destrói as barreiras físicas da opressão.",
+      "temas": [
+        "Intervenção Divina",
+        "Libertação",
+        "Poder de Deus"
+      ],
+      "personagens": [
+        "Paulo",
+        "Silas"
+      ]
+    },
     "27": {
-      "parafrase": "O carcereiro acordou e, vendo as portas da prisão abertas, tirou a espada e ia se matar, pensando que os presos tivessem fugido.",
-      "referencias": [],
-      "comentario": "O carcereiro, sabendo que seria executado por falhar em seu dever, prepara-se para cometer suicídio, preferindo a morte por suas próprias mãos à desonra e execução.",
-      "temas": ["desespero", "honra romana", "suicídio"],
-      "personagens": ["Carcereiro"]
+      "parafrase": "O carcereiro, ao acordar e ver as portas das celas abertas, assumiu imediatamente que os prisioneiros haviam escapado. Como a lei romana impunha a pena de morte para quem deixasse um prisioneiro fugir, ele desembainhou sua espada, pronto para tirar a própria vida, pois preferia morrer a enfrentar a desonra e o castigo de uma fuga. ⚔️",
+      "referencias": [
+        "Atos 12:19",
+        "Deuteronômio 22:26"
+      ],
+      "comentario": "A reação do carcereiro era o procedimento padrão e esperado. O medo da punição imperial era mais forte que o medo da morte em si. A frase 'puxou sua espada' indica um ato desesperado e imediato, movido pelo pânico, um reflexo da pressão do sistema legal romano sobre os guardas.",
+      "temas": [
+        "Desespero Humano",
+        "Justiça Romana",
+        "Tentativa de Suicídio"
+      ],
+      "personagens": [
+        "Carcereiro"
+      ]
     },
     "28": {
-      "parafrase": "Mas Paulo gritou em alta voz: \"Não faça nenhum mal a si mesmo! Estamos todos aqui!\"",
-      "referencias": [],
-      "comentario": "Paulo, em vez de aproveitar a oportunidade para escapar, age para salvar a vida de seu carcereiro. Este ato de misericórdia e integridade abre o coração do homem para o evangelho.",
-      "temas": ["misericórdia", "integridade", "evangelismo através da ação"],
-      "personagens": ["Paulo"]
+      "parafrase": "Mas Paulo gritou com toda a força, dirigindo-se a ele com voz alta e firme: 'Não se machuque! Não estamos fugindo! Nossa vida está intacta aqui!' Ele assegurou ao homem que o milagre não havia sido uma oportunidade para a liberdade terrena, mas sim um ato de Deus. 🙏",
+      "referencias": [
+        "Gênesis 20:6",
+        "Lucas 9:30"
+      ],
+      "comentario": "Este grito é fundamental. Paulo, mesmo tendo a oportunidade de fugir – o que seria compreensível dadas as circunstâncias de sua prisão injusta –, escolhe ficar para garantir a alma do carcereiro. A prioridade de Paulo, como sempre, era a evangelização, e a fuga arruinaria o 'testemunho' do milagre. Ele demonstra um controle notável sob pressão.",
+      "temas": [
+        "Autocontrole",
+        "Prioridade Espiritual",
+        "Resgate da Alma"
+      ],
+      "personagens": [
+        "Paulo",
+        "Carcereiro"
+      ]
     },
     "29": {
-      "parafrase": "Então o carcereiro, pedindo luz, entrou correndo e, trêmulo, prostrou-se diante de Paulo e Silas.",
-      "referencias": [],
-      "comentario": "O carcereiro, chocado com o terremoto e com a atitude dos prisioneiros, reconhece que está na presença de um poder superior. Sua postura é de temor e submissão.",
-      "temas": ["convicção", "temor", "humildade"],
-      "personagens": ["Carcereiro", "Paulo", "Silas"]
+      "parafrase": "Atordoado e confuso, o carcereiro pediu uma luz e correu para dentro da cela. Tremendo de medo e reverência, ele caiu prostrado diante de Paulo e Silas. Seu corpo tremia não mais pelo susto do terremoto, mas pela repentina consciência da presença de algo sagrado e poderoso. 😱",
+      "referencias": [
+        "Êxodo 3:6",
+        "Isaías 6:5"
+      ],
+      "comentario": "A prostração (em grego, 'pés-caído') é um ato de adoração ou reconhecimento de superioridade esmagadora. O homem passou do papel de algoz para o de suplicante em segundos. O medo que o levou ao suicídio foi substituído pelo medo reverencial (temor) de Deus. Ele viu que suas correntes físicas eram insignificantes comparadas às correntes espirituais que ele havia acabado de vivenciar.",
+      "temas": [
+        "Temor de Deus",
+        "Conversão Súbita",
+        "Reconhecimento do Sagrado"
+      ],
+      "personagens": [
+        "Carcereiro",
+        "Paulo",
+        "Silas"
+      ]
     },
     "30": {
-      "parafrase": "E, tirando-os para fora, disse: \"Senhores, que devo fazer para ser salvo?\"",
-      "referencias": [],
-      "comentario": "Esta é a pergunta mais importante que alguém pode fazer. O carcereiro percebe que sua necessidade não é apenas física, mas espiritual. Ele busca a salvação.",
-      "temas": ["busca da salvação", "pergunta fundamental"],
-      "personagens": ["Carcereiro"]
+      "parafrase": "Tendo trazido os dois homens para fora da escuridão das celas, ele perguntou com uma voz cheia de urgência e esperança: 'Meus senhores, o que preciso fazer para ser salvo? Qual é o caminho da verdadeira salvação?' ❓",
+      "referencias": [
+        "Mateus 7:14",
+        "Miquéias 6:8"
+      ],
+      "comentario": "Esta é a pergunta mais importante da história humana, capturada em sua forma mais crua. O carcereiro, um funcionário do império pagão, reconhece a autoridade espiritual de Paulo e Silas. Ele não pergunta sobre leis romanas ou rituais judaicos, mas sobre a 'salvação' (soteria), um termo que, no contexto paulino, sempre aponta para a redenção através de Cristo.",
+      "temas": [
+        "Questão da Salvação",
+        "Busca por Sentido",
+        "Autoridade Apostólica"
+      ],
+      "personagens": [
+        "Carcereiro",
+        "Paulo",
+        "Silas"
+      ]
     },
     "31": {
-      "parafrase": "Eles responderam: \"Creia no Senhor Jesus, e serão salvos, você e os de sua casa.\"",
-      "referencias": ["João 3:16"],
-      "comentario": "A resposta é a essência do evangelho: simples, direta e pessoal. A salvação é baseada na fé em Jesus Cristo, e a oferta se estende a toda a sua família.",
-      "temas": ["evangelho", "salvação pela fé", "crença"],
-      "personagens": ["Paulo", "Silas", "Senhor Jesus"]
+      "parafrase": "Eles responderam a ele com clareza e convicção inabaláveis: 'Creia firmemente no Senhor Jesus Cristo, e você e todos os da sua casa serão salvos. É só depositar sua fé completa nele.' 💖",
+      "referencias": [
+        "João 3:16",
+        "Romanos 10:9"
+      ],
+      "comentario": "A resposta é direta e resume o cerne do Evangelho de Paulo: a salvação não é alcançada por obras (como libertar os apóstolos), mas pela fé (pistis) em Jesus Cristo. A promessa 'e a tua casa' demonstra a eficácia da fé familiar, onde a conversão do chefe de família abençoa todo o seu núcleo doméstico.",
+      "temas": [
+        "Fé em Cristo",
+        "Salvação Familiar",
+        "Simplicidade do Evangelho"
+      ],
+      "personagens": [
+        "Paulo",
+        "Silas",
+        "Carcereiro"
+      ]
     },
     "32": {
-      "parafrase": "E pregaram a palavra do Senhor a ele e a todos os que estavam em sua casa.",
-      "referencias": [],
-      "comentario": "A fé vem pelo ouvir a palavra. Eles explicam o evangelho em mais detalhes para o carcereiro e sua família, para que sua fé tivesse fundamento.",
-      "temas": ["pregação da palavra", "fundamento da fé"],
-      "personagens": ["Senhor"]
+      "parafrase": "Imediatamente, eles começaram a pregar a mensagem do Senhor, compartilhando as boas novas com ele e com todos os que viviam sob o teto daquela casa. A Palavra de Deus era pregada com fervor, mesmo no meio daquela prisão.",
+      "referencias": [
+        "Marcos 16:15",
+        "Mateus 28:19"
+      ],
+      "comentario": "O ato de pregar (laleō) seguiu-se à ordem de crer. A conversão do carcereiro não foi um evento isolado; foi o catalisador para a evangelização de seu círculo íntimo. O Evangelho se espalha como fogo em um ambiente de milagre e arrependimento sincero.",
+      "temas": [
+        "Proclamação do Evangelho",
+        "Evangelismo Familiar",
+        "Pregação Imediata"
+      ],
+      "personagens": [
+        "Paulo",
+        "Silas",
+        "Carcereiro"
+      ]
     },
     "33": {
-      "parafrase": "Naquela mesma hora da noite, o carcereiro os levou e lavou-lhes as feridas; e imediatamente ele e todos os seus foram batizados.",
-      "referencias": [],
-      "comentario": "A conversão do carcereiro se manifesta em atos de arrependimento e cuidado (lavando as feridas que ele talvez tenha ajudado a infligir) e em obediência (sendo batizado com sua família).",
-      "temas": ["frutos do arrependimento", "cuidado", "batismo"],
-      "personagens": ["Carcereiro"]
+      "parafrase": "Naquela mesma hora, no meio da noite, o carcereiro os chamou para um ato de serviço. Ele os levou para lavar as feridas causadas pelos açoites. Depois, tratou-os com um cuidado e uma honra que jamais teriam recebido antes, reconhecendo-os como servos do Deus Altíssimo. 🚿",
+      "referencias": [
+        "Mateus 25:40",
+        "Hebreus 13:2"
+      ],
+      "comentario": "Este ato de lavar as chagas (um trabalho extremamente servil) é a primeira evidência prática do arrependimento do carcereiro. Ele transforma o sofrimento infligido em cuidado prestado. É um reconhecimento humilde de que aqueles que ele havia atormentado eram, na verdade, dignos de honra. O contraste entre os açoites e o cuidado é poderoso.",
+      "temas": [
+        "Serviço",
+        "Arrependimento Prático",
+        "Hospitalidade"
+      ],
+      "personagens": [
+        "Carcereiro",
+        "Paulo",
+        "Silas"
+      ]
     },
     "34": {
-      "parafrase": "Levando-os para sua casa, pôs-lhes a mesa; e muito se alegrou com toda a sua casa, por ter crido em Deus.",
-      "referencias": [],
-      "comentario": "O perseguidor agora serve aos prisioneiros. A cena muda da dor e escuridão da prisão para a comunhão e a luz de sua casa. A marca de sua nova fé é a alegria.",
-      "temas": ["transformação", "comunhão", "alegria da salvação"],
-      "personagens": ["Carcereiro", "Deus"]
+      "parafrase": "Após cuidar dos apóstolos, ele os levou para dentro de sua casa, ofereceu-lhes comida e preparou um lugar para eles descansarem. Ele e toda a sua família estavam transbordando de alegria, pois haviam encontrado a Cristo. 🎉",
+      "referencias": [
+        "Lucas 19:6",
+        "Filipenses 4:4"
+      ],
+      "comentario": "A alegria (chairō) que encheu a casa é a alegria genuína da salvação, contrastando drasticamente com a escuridão e o sofrimento que haviam preenchido aquele lugar horas antes. A conversão resultou em hospitalidade plena, tirando os missionários da prisão (simbólica e literalmente) para a comunhão doméstica.",
+      "temas": [
+        "Alegria da Salvação",
+        "Comunhão",
+        "Hospitalidade Cristã"
+      ],
+      "personagens": [
+        "Carcereiro",
+        "Família do Carcereiro"
+      ]
     },
     "35": {
-      "parafrase": "Quando amanheceu, os magistrados enviaram os oficiais de justiça, dizendo: \"Soltem esses homens.\"",
-      "referencias": [],
-      "comentario": "Pela manhã, os magistrados, talvez com medo após o terremoto ou percebendo que agiram precipitadamente, decidem libertar os prisioneiros discretamente.",
-      "temas": ["mudança de atitude", "libertação"],
-      "personagens": ["Magistrados"]
+      "parafrase": "Quando amanheceu, os oficiais da cidade enviaram os lictores com ordens expressas para que os soldados os libertassem, dizendo: 'Agora podem ir embora!'. O magistrado não queria ter qualquer envolvimento com aqueles homens agora reconhecidos como justos. 📜",
+      "referencias": [
+        "Atos 16:21",
+        "Provérbios 14:20"
+      ],
+      "comentario": "A cidade e suas autoridades, que antes haviam condenado e açoitado Paulo e Silas injustamente, agora temem as repercussões de tê-los prendido. A menção explícita de que eles eram cidadãos romanos (ATO 16:22) e a intervenção milagrosa fizeram com que os líderes locais se apressassem em desfazer o erro, temendo a ira de Roma e, mais importante, a ira divina.",
+      "temas": [
+        "Reconhecimento da Injustiça",
+        "Autoridade Civil",
+        "Honra Pública"
+      ],
+      "personagens": [
+        "Magistrados",
+        "Paulo",
+        "Silas"
+      ]
     },
     "36": {
-      "parafrase": "O carcereiro relatou estas palavras a Paulo: \"Os magistrados mandaram soltá-los. Agora, pois, saiam e vão em paz.\"",
-      "referencias": [],
-      "comentario": "O carcereiro transmite a boa notícia, esperando que eles simplesmente partam.",
-      "temas": ["comunicação"],
-      "personagens": ["Carcereiro", "Paulo", "Magistrados"]
+      "parafrase": "Mas Paulo, em um ato de firmeza jurídica e testemunho público, informou aos oficiais: 'Eles nos bateram publicamente, sem julgamento, e nos jogaram numa cela, como se fôssemos criminosos comuns. Agora, querem nos mandar embora em segredo? De jeito nenhum! Isso não acontecerá assim!' 🗣️",
+      "referencias": [
+        "Atos 25:11",
+        "2 Timóteo 2:9"
+      ],
+      "comentario": "Paulo não estava sendo teimoso; ele estava exigindo o cumprimento do devido processo legal romano para seus direitos de cidadão (uma questão que havia sido ignorada no versículo 22). A aceitação de uma libertação silenciosa implicaria que eles eram culpados ou que sua prisão anterior não havia sido uma grande ofensa. Paulo insiste na reparação pública da honra, um ponto crucial para a credibilidade futura do Evangelho naquela cidade.",
+      "temas": [
+        "Direitos de Cidadania",
+        "Justiça Legal",
+        "Integridade Pública"
+      ],
+      "personagens": [
+        "Paulo",
+        "Oficiais"
+      ]
     },
     "37": {
-      "parafrase": "Mas Paulo disse aos oficiais: \"Eles nos açoitaram publicamente, sem processo legal, sendo nós cidadãos romanos, e nos lançaram na prisão. E agora querem nos soltar secretamente? De modo nenhum! Que eles mesmos venham e nos tirem daqui.\"",
-      "referencias": ["Atos 22:25-29"],
-      "comentario": "Paulo agora revela uma informação crucial: ele e Silas são cidadãos romanos. Açoitá-los e prendê-los sem um julgamento era um crime grave contra a lei romana. Paulo não busca vingança, mas a vindicação da justiça e a proteção da igreja local. Ele exige um pedido de desculpas público para que fique claro que os missionários não eram criminosos comuns, protegendo a reputação da igreja em Filipos.",
-      "temas": ["cidadania romana", "justiça", "direitos legais", "proteção da igreja"],
-      "personagens": ["Paulo"]
+      "parafrase": "Ele continuou, falando com autoridade: 'Eles precisam vir aqui pessoalmente nos tirar. Depois de todo o constrangimento que sofreram, eles não podem simplesmente nos dispensar por um recado. Precisamos de um ato formal de retratação.' 🏛️",
+      "referencias": [
+        "Atos 22:25",
+        "Gálatas 2:5"
+      ],
+      "comentario": "Paulo usa sua cidadania romana como um escudo e uma ferramenta de justiça. Ele exige que os magistrados que cometeram o erro venham pessoalmente retificar a ofensa. Isso não era vaidade, mas sim a necessidade de estabelecer uma base legal e moral sólida para o cristianismo emergente na cidade de Filipos.",
+      "temas": [
+        "Exigência de Reparação",
+        "Autoridade Legal",
+        "Transparência Pública"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "38": {
-      "parafrase": "Os oficiais de justiça relataram estas palavras aos magistrados, os quais, ouvindo que eles eram cidadãos romanos, ficaram com medo.",
-      "referencias": [],
-      "comentario": "Os magistrados ficam aterrorizados. Eles haviam violado a lei e poderiam enfrentar sérias consequências, incluindo a perda de seus cargos.",
-      "temas": ["medo da lei", "consequências da injustiça"],
-      "personagens": ["Magistrados"]
+      "parafrase": "Quando os oficiais ouviram isso, ficaram extremamente apreensivos, pois sabiam que haviam agido ilegalmente ao punir cidadãos romanos sem um julgamento formal. Eles ficaram em pânico ao perceberem o risco legal que haviam corrido. 😨",
+      "referencias": [
+        "Atos 25:16",
+        "Lucas 12:11"
+      ],
+      "comentario": "O medo dos magistrados era justificado. Bater em um cidadão romano sem o devido processo legal era um crime grave que poderia resultar em multas pesadas ou até mesmo em demissão. O terremoto serviu para expor a injustiça cometida pela liderança da cidade, forçando-os a confrontar suas próprias transgressões legais.",
+      "temas": [
+        "Consequências Legais",
+        "Medo das Autoridades",
+        "Exposição da Injustiça"
+      ],
+      "personagens": [
+        "Oficiais"
+      ]
     },
     "39": {
-      "parafrase": "Então vieram e lhes pediram desculpas. E, tirando-os para fora, pediram-lhes que se retirassem da cidade.",
-      "referencias": [],
-      "comentario": "Os magistrados humildemente pedem desculpas e os escoltam pessoalmente para fora da prisão, cumprindo a exigência de Paulo. Eles pedem que saiam da cidade para evitar mais problemas.",
-      "temas": ["pedido de desculpas", "vindicação", "justiça"],
-      "personagens": ["Magistrados"]
+      "parafrase": "Rapidamente, os magistrados vieram ao local. Eles se aproximaram de Paulo e Silas, pediram desculpas sinceras pelo ocorrido e, em seguida, rogaram-lhes que deixassem a cidade o mais rápido possível, demonstrando um profundo constrangimento. 😟",
+      "referencias": [
+        "2 Samuel 18:32",
+        "Gênesis 43:34"
+      ],
+      "comentario": "A retratação pública é feita. Os líderes, movidos pelo medo da retaliação romana e pela confirmação do poder divino (o terremoto), fazem um pedido formal de desculpas e solicitam sua partida. Este é o reconhecimento oficial de que a prisão de Paulo e Silas foi uma calamidade para a cidade, não para os apóstolos.",
+      "temas": [
+        "Humilhação Pública",
+        "Retratação",
+        "Partida Estratégica"
+      ],
+      "personagens": [
+        "Magistrados",
+        "Paulo",
+        "Silas"
+      ]
     },
     "40": {
-      "parafrase": "Depois de saírem da prisão, eles foram para a casa de Lídia e, vendo os irmãos, os encorajaram e partiram.",
-      "referencias": [],
-      "comentario": "Antes de partir, eles fazem questão de visitar a igreja nascente na casa de Lídia para encorajá-los após os eventos traumáticos. O cuidado pastoral é sua prioridade final antes de continuar a jornada.",
-      "temas": ["cuidado pastoral", "encorajamento", "despedida"],
-      "personagens": ["Paulo", "Silas", "Lídia", "Irmãos"]
+      "parafrase": "Paulo e Silas, no entanto, aceitaram a ordem de deixar a prisão, mas recusaram sair imediatamente. Eles primeiro retornaram à casa do carcereiro, onde se demoraram para fortalecer a fé do novo convertido e de toda a sua família, celebrando a maravilhosa salvação que Deus havia realizado ali. Eles só partiram depois de consolidarem a nova comunidade de crentes. 🏡",
+      "referencias": [
+        "1 Tessalonicenses 3:6",
+        "Romanos 15:24"
+      ],
+      "comentario": "Este é o clímax da missão em Filipos. Paulo demonstra que a conversão do carcereiro e sua família é mais importante do que sua própria honra ou segurança imediata. Ele garante que a nova fé seja nutrida antes de se mover para o próximo ponto de missão. Eles saem da prisão não como vítimas humilhadas, mas como plantadores de uma nova igreja, deixando um legado espiritual sólido.",
+      "temas": [
+        "Edificação da Igreja",
+        "Prioridade Pastoral",
+        "Legado Espiritual"
+      ],
+      "personagens": [
+        "Paulo",
+        "Silas",
+        "Carcereiro",
+        "Família do Carcereiro"
+      ]
     }
   }
 }

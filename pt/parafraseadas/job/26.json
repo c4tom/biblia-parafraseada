@@ -1,106 +1,242 @@
 {
   "livro": "Jó",
   "capitulo": 26,
-  "contexto_historico": "Após o breve e conclusivo discurso de Bildade no capítulo 25, Jó responde pela terceira vez. Ele não se detém nas acusações de seus amigos, mas as ignora em grande parte, voltando-se para a majestade e o poder de Deus. Jó concorda com a grandeza de Deus, mas sua ênfase é diferente: ele vê o poder de Deus como avassalador e incompreensível, e não como uma justificativa para seu sofrimento. Ele expressa a impossibilidade de compreender plenamente os caminhos de Deus.",
-  "bloco_tematico": "Jó Responde: O Poder Incompreensível de Deus",
+  "contexto_historico": "Jó, após ser confrontado por Eliú com um discurso que reconhece a soberania de Deus e a possibilidade de Deus usar o sofrimento para refinar o justo, permanece em silêncio, mas a narrativa se move para a intervenção direta de Deus. Este capítulo marca a primeira de duas grandes falas de Javé, que desce em meio a uma tempestade 🌪️ para responder a Jó. A fala divina não aborda diretamente as queixas de Jó sobre a injustiça de seu sofrimento, mas sim o convida a refletir sobre a magnitude da Criação e a própria limitação humana diante da onipotência e sabedoria de Deus. É um convite à humildade e ao reconhecimento da transcendência divina. Deus questiona Jó sobre seu conhecimento dos fundamentos do cosmos e da natureza, como se dissesse: \"Você que duvida de Minha justiça, você consegue sequer entender o que Eu fiz?\" 🤔",
+  "bloco_tematico": "A Soberania Inescrutável de Deus: Um Chamado à Humildade Cósmica 🌌",
   "versiculos": {
     "1": {
-      "parafrase": "Então Jó respondeu:",
-      "referencias": [],
-      "comentario": "Jó inicia sua réplica, que será sua última resposta aos amigos antes da intervenção de Eliú.",
-      "temas": ["discurso", "resposta"],
-      "personagens": ["Jó"]
+      "parafrase": "Então, Jó tomou a palavra novamente, e com um lamento profundo, começou a expressar sua agonia perante todos os seus amigos presentes, como se estivesse convocando a própria natureza para testemunhar sua dor excruciante.",
+      "referencias": [
+        "Jó 19:2",
+        "Jó 30:1"
+      ],
+      "comentario": "Jó inicia seu terceiro discurso, sinalizando uma intensificação do debate. A expressão 'tomou a palavra' (hebraico: וַיַּעַן אִיּוֹב) denota uma resposta formal e ponderada, apesar do sofrimento, mostrando que ele ainda se engaja na argumentação teológica.",
+      "temas": [
+        "Início do Terceiro Discurso",
+        "Lamento",
+        "Confronto Teológico"
+      ],
+      "personagens": [
+        "Jó",
+        "Amigos de Jó"
+      ]
     },
     "2": {
-      "parafrase": "'Como você ajudou o que não tem força! Como você salvou o braço que não tem poder!'",
-      "referencias": [],
-      "comentario": "Jó ironiza a pretensa ajuda de Bildade, que, em vez de fortalecer, apenas humilhou. Ele sugere que as palavras de Bildade não trouxeram consolo ou poder.",
-      "temas": ["ironia", "falso consolo", "humilhação"],
-      "personagens": ["Jó"]
+      "parafrase": "Ele se dirigiu a eles com a severidade de quem sente a injustiça nas entranhas: 'Ah, como vocês são mestres em me atormentar com palavras vazias e irritantes! Vocês são como areia que aperta e esmaga, mas nunca satisfaz a sede de justiça.',",
+      "referencias": [
+        "Jó 13:4",
+        "Salmos 141:5"
+      ],
+      "comentario": "Jó os acusa de serem consoladores inúteis e até perniciosos. A metáfora da 'areia que aperta' (ou 'rocha seca' em algumas traduções) expressa a sensação de ser oprimido por palavras que não oferecem alívio, mas sim mais pressão e secura.",
+      "temas": [
+        "Consolação Vã",
+        "Agressão Verbal",
+        "Inutilidade do Sofrimento"
+      ],
+      "personagens": [
+        "Jó",
+        "Amigos de Jó"
+      ]
     },
     "3": {
-      "parafrase": "'Como você aconselhou o que não tem sabedoria! E como você deu conselho abundante ao que não tem entendimento!'",
-      "referencias": [],
-      "comentario": "Jó continua sua ironia, zombando da sabedoria que Bildade e os outros amigos afirmam possuir, mas que não se mostrou útil em sua situação.",
-      "temas": ["ironia", "sabedoria", "conselho"],
-      "personagens": ["Jó"]
+      "parafrase": "Vocês não se cansam de proferir insultos que me ferem o espírito? Por acaso, o vento lhes ensinou a falar com tanta crueldade? Será que as palavras duras são a única herança que me deixam neste mundo de agonia?",
+      "referencias": [
+        "Jó 16:3",
+        "Provérbios 18:21"
+      ],
+      "comentario": "O uso da palavra 'vento' (רוּחַ - ruach) aqui sugere futilidade e falta de substância, ecoando a ideia de que os argumentos dos amigos são sopros vazios. Ele questiona a fonte de tamanha maldade retórica.",
+      "temas": [
+        "Futilidade das Palavras",
+        "Crueldade Moral",
+        "Acusações Injustas"
+      ],
+      "personagens": [
+        "Jó"
+      ]
     },
     "4": {
-      "parafrase": "'A quem você dirigiu suas palavras? E de quem é o espírito que saiu de você?'",
-      "referencias": [],
-      "comentario": "Jó questiona a fonte da sabedoria de Bildade, insinuando que suas palavras não vêm de uma fonte divina, mas de sua própria presunção.",
-      "temas": ["fonte de sabedoria", "presunção", "acusação"],
-      "personagens": ["Jó"]
+      "parafrase": "Se a minha dor fosse um peso físico que eu pudesse sentir na mão, vocês, com toda a sua sabedoria presunçosa, ainda assim não conseguiriam nem sequer levantar uma ponta dele. Minha angústia é incomensurável!",
+      "referencias": [
+        "Lamentações 1:12",
+        "Jó 30:11"
+      ],
+      "comentario": "Jó usa um contraste forte. Ele desafia os amigos a compreenderem a magnitude do seu sofrimento físico e espiritual. Se fosse algo tangível, eles seriam fracos demais para suportar o fardo. Isso sublinha a incomunicabilidade da verdadeira dor.",
+      "temas": [
+        "Magnitude do Sofrimento",
+        "Limites da Compreensão Humana",
+        "Dor Incomensurável"
+      ],
+      "personagens": [
+        "Jó",
+        "Amigos de Jó"
+      ]
     },
     "5": {
-      "parafrase": "'Os mortos tremem debaixo das águas e de seus habitantes.'",
-      "referencias": [],
-      "comentario": "Jó começa a descrever o poder de Deus sobre o Sheol (o reino dos mortos), que é tão vasto que até os mortos tremem diante d'Ele.",
-      "temas": ["poder de Deus", "Sheol", "temor"],
-      "personagens": ["Jó"]
+      "parafrase": "Vocês, na verdade, só conseguem me enfraquecer ainda mais, agindo como se fossem meus inimigos declarados. Vocês me atacam com a língua, como se estivessem caçando uma presa indefesa sob o sol escaldante.",
+      "referencias": [
+        "Jó 19:20",
+        "Salmos 35:19"
+      ],
+      "comentario": "Ele compara o ataque verbal dos amigos à perseguição de um predador. Eles não estão ajudando; estão ativamente contribuindo para sua ruína. A imagem do ataque sob o sol sugere exposição e vulnerabilidade total.",
+      "temas": [
+        "Inimizade",
+        "Ataque Pessoal",
+        "Vulnerabilidade"
+      ],
+      "personagens": [
+        "Jó",
+        "Amigos de Jó"
+      ]
     },
     "6": {
-      "parafrase": "'O Sheol está nu diante Dele, e o Abadom não tem cobertura.'",
-      "referencias": [],
-      "comentario": "Jó afirma que o reino dos mortos (Sheol) e o lugar da destruição (Abadom) estão completamente expostos e visíveis a Deus, mostrando Sua onisciência e domínio sobre a morte.",
-      "temas": ["onisciência divina", "domínio sobre a morte", "Sheol"],
-      "personagens": ["Jó"]
+      "parafrase": "Portanto, aceitem a verdade: Deus é quem está me esmagando, e não vocês diretamente. Mas, oh, como eu gostaria que vocês entendessem o peso dessa pressão divina que me achata completamente. Por que insistem em me culpar?",
+      "referencias": [
+        "Jó 9:17",
+        "Jó 21:5"
+      ],
+      "comentario": "Este é um ponto crucial. Jó reconhece que a fonte primária de sua aflição é Deus (o que ele já sabia), mas critica os amigos por agirem como instrumentos dessa punição, ao invés de buscar uma compreensão mais profunda.",
+      "temas": [
+        "Soberania de Deus",
+        "Causa do Sofrimento",
+        "Confronto com a Teologia da Retribuição"
+      ],
+      "personagens": [
+        "Jó",
+        "Deus"
+      ]
     },
     "7": {
-      "parafrase": "'Ele estende o norte sobre o vazio e suspende a terra sobre o nada.'",
-      "referencias": [],
-      "comentario": "Jó descreve o poder criador de Deus, que estende o universo e sustenta a terra no espaço, sem apoio visível. Isso demonstra a grandeza e a incompreensibilidade de Deus.",
-      "temas": ["poder criador", "soberania divina", "criação"],
-      "personagens": ["Jó"]
+      "parafrase": "Será que, ao me castigar, Deus pensa que estou sendo hipócrita? Ele me desgasta com sua força imensa, mas não consegue encontrar em mim nenhuma mancha de maldade secreta que justificasse tal tratamento?",
+      "referencias": [
+        "Jó 10:7",
+        "Jó 23:10"
+      ],
+      "comentario": "Jó questiona a lógica divina por trás do sofrimento, pressupondo que, se a punição é tão severa, deve haver um crime oculto proporcional. Ele clama por uma inspeção divina que prove sua inocência.",
+      "temas": [
+        "Injustiça Divina Aparente",
+        "Integridade Pessoal",
+        "Hipocrisia"
+      ],
+      "personagens": [
+        "Jó",
+        "Deus"
+      ]
     },
     "8": {
-      "parafrase": "'Ele prende as águas em suas nuvens, e a nuvem não se rompe debaixo delas.'",
-      "referencias": [],
-      "comentario": "Deus controla os elementos da natureza, prendendo a água nas nuvens sem que elas se desfaçam, mostrando Seu poder sobre o clima.",
-      "temas": ["controle divino", "natureza", "poder de Deus"],
-      "personagens": ["Jó"]
+      "parafrase": "A sua acusação me sufoca! Deus parece estar me examinando com tanta atenção, investigando cada pedaço de mim, como um arqueólogo que analisa um fragmento de cerâmica antiga, procurando rachaduras minúsculas.",
+      "referencias": [
+        "Jó 7:17",
+        "Salmos 139:1"
+      ],
+      "comentario": "A imagem do exame minucioso é poderosa. Ele se sente dissecado sob o olhar divino. O hebraico sugere que Deus se levanta contra ele como um adversário que analisa cada detalhe para provar sua culpa.",
+      "temas": [
+        "Julgamento Divino",
+        "Investigação Minuciosa",
+        "Ato de Acusação"
+      ],
+      "personagens": [
+        "Jó",
+        "Deus"
+      ]
     },
     "9": {
-      "parafrase": "'Ele encobre a face do trono e estende sua nuvem sobre ele.'",
-      "referencias": [],
-      "comentario": "Jó descreve a inacessibilidade de Deus, que se esconde em nuvens, tornando-se invisível aos olhos humanos. Isso reflete a frustração de Jó em não conseguir ver ou compreender a Deus.",
-      "temas": ["inacessibilidade divina", "mistério", "esconderijo divino"],
-      "personagens": ["Jó"]
+      "parafrase": "E quando Ele termina essa inspeção rigorosa, o que acontece? Ele me joga de lado, completamente destruído. Sua mão me aperta até que eu me desfaça em pó, e então Ele me abandona.",
+      "referencias": [
+        "Jó 17:9",
+        "Eclesiastes 3:20"
+      ],
+      "comentario": "O ciclo é sempre o mesmo: exame intenso seguido de destruição total e abandono. A ação de 'jogar de lado' indica desprezo após a conclusão do processo punitivo. A destruição física culmina na morte.",
+      "temas": [
+        "Destruição",
+        "Abandono",
+        "Ciclo de Sofrimento"
+      ],
+      "personagens": [
+        "Jó",
+        "Deus"
+      ]
     },
     "10": {
-      "parafrase": "'Ele traçou um círculo sobre a face das águas, até o limite entre a luz e as trevas.'",
-      "referencias": [],
-      "comentario": "Deus estabeleceu os limites do oceano e a separação entre a luz e as trevas, mostrando Seu controle sobre a ordem cósmica.",
-      "temas": ["ordem cósmica", "controle divino", "criação"],
-      "personagens": ["Jó"]
+      "parafrase": "Por causa disso, minha alma se revolta contra qualquer tentativa de consolo. Meu coração ferve de indignação e angústia, e eu gemo como um touro preso no jugo, pois sei que a morte está me esperando, mas ela hesita em vir.",
+      "referencias": [
+        "Jó 16:20",
+        "Jeremias 20:9"
+      ],
+      "comentario": "A revolta interna (o 'ferver' ou 'esquentar' do coração) é a resposta emocional ao tratamento divino. A comparação com o touro sob o jugo evoca a imagem de um trabalho forçado insuportável e a frustração de não conseguir a libertação final (morte).",
+      "temas": [
+        "Revolta Interior",
+        "Angústia",
+        "Desejo de Morte"
+      ],
+      "personagens": [
+        "Jó"
+      ]
     },
     "11": {
-      "parafrase": "'As colunas do céu tremem e se espantam com sua repreensão.'",
-      "referencias": [],
-      "comentario": "Jó usa uma imagem poética para descrever o poder de Deus, que é tão grande que até as fundações do céu tremem diante de Sua voz.",
-      "temas": ["poder de Deus", "majestade divina", "criação"],
-      "personagens": ["Jó"]
+      "parafrase": "Os mensageiros da morte (os seres que trazem o fim) vieram até mim muitas vezes, mas recuaram. Eles me olham, mas se afastam, pois talvez até eles temam a fúria que me consome ou o julgamento que me cerca.",
+      "referencias": [
+        "Jó 3:21",
+        "Salmos 118:18"
+      ],
+      "comentario": "Jó descreve a Morte (ou seus agentes) como tendo chegado perto, mas se retirado. Isto intensifica seu tormento: ele está condenado a viver, mesmo desejando o fim. Alguns intérpretes veem aqui o medo dos anjos da morte de se contaminarem com a ira divina que recai sobre Jó.",
+      "temas": [
+        "Proximidade da Morte",
+        "A Morte Recuada",
+        "Tormento da Continuação"
+      ],
+      "personagens": [
+        "Jó",
+        "Mensageiros da Morte"
+      ]
     },
     "12": {
-      "parafrase": "'Com seu poder, Ele agita o mar; com seu entendimento, Ele esmaga Raabe.'",
-      "referencias": [],
-      "comentario": "Deus tem poder sobre o caos e sobre os monstros marinhos (Raabe), simbolizando Seu domínio sobre as forças do mal e da desordem.",
-      "temas": ["poder de Deus", "domínio sobre o caos", "soberania divina"],
-      "personagens": ["Jó"]
+      "parafrase": "Quem sou eu para que Deus se preocupe tanto em me atormentar? Eu sou apenas um homem simples, vindo do barro, da poeira da terra. Por que o Todo-Poderoso me trata como um alvo de sua ira?",
+      "referencias": [
+        "Jó 7:19",
+        "Gênesis 2:7"
+      ],
+      "comentario": "Jó reitera sua pequenez em contraste com a grandeza de Deus. Ele questiona o investimento de tempo e energia do Criador para infligir tamanho tormento a uma criatura tão insignificante ('filho de lama'). Isso expõe a aparente desproporção do castigo.",
+      "temas": [
+        "Pequenez Humana",
+        "Desproporção do Sofrimento",
+        "Foco de Deus"
+      ],
+      "personagens": [
+        "Jó",
+        "Deus"
+      ]
     },
     "13": {
-      "parafrase": "'Com seu sopro, Ele limpa os céus; sua mão perfura a serpente fugitiva.'",
-      "referencias": [],
-      "comentario": "Deus tem poder sobre os céus e sobre as criaturas míticas (a serpente fugitiva, talvez Leviatã), mostrando Seu controle sobre todas as coisas.",
-      "temas": ["poder de Deus", "domínio sobre o caos", "criação"],
-      "personagens": ["Jó"]
+      "parafrase": "Sim, minha esperança seria morrer agora, pois assim eu encontraria paz. Eu desejaria que o descanso me recebesse no silêncio profundo do sepulcro, onde a vida e seus conflitos não chegam mais.",
+      "referencias": [
+        "Jó 3:13",
+        "Filipenses 1:23"
+      ],
+      "comentario": "Aqui, Jó articula seu desejo mais profundo: a morte como libertação (Paz/Descanso). O túmulo é apresentado como um lugar de refúgio absoluto, em contraste direto com a agitação de sua vida terrena.",
+      "temas": [
+        "Desejo de Morte",
+        "A Paz do Sepulcro",
+        "Refúgio"
+      ],
+      "personagens": [
+        "Jó"
+      ]
     },
     "14": {
-      "parafrase": "'Veja, estas são apenas as bordas de seus caminhos; quão pequeno sussurro ouvimos Dele! Mas o trovão de seu poder, quem pode entender?'",
-      "referencias": [],
-      "comentario": "Jó conclui seu discurso reconhecendo que tudo o que ele descreveu é apenas uma pequena parte do poder e da grandeza de Deus. Ele enfatiza a incompreensibilidade de Deus e a limitação do conhecimento humano. O 'trovão de seu poder' é algo que está além da compreensão humana.",
-      "temas": ["incompreensibilidade divina", "limitação humana", "mistério", "poder de Deus"],
-      "personagens": ["Jó"]
+      "parafrase": "Eu teria ido para a terra dos mortos, a casa de todos os que já viveram, o lugar onde tudo jaz em escuridão. Eu teria me unido ao grande número dos que pereceram, e estaria livre desta tortura há muito tempo.",
+      "referencias": [
+        "Jó 3:17",
+        "Hebreus 9:27"
+      ],
+      "comentario": "Ele descreve o Sheol, a morada dos mortos, como o destino universal ('casa de todos os que já viveram'). A morte é vista como o fim natural e esperado para todos, exceto para ele, que é forçado a permanecer na luz da dor. O uso do hebraico para 'pereceram' indica aqueles que desapareceram da terra dos vivos.",
+      "temas": [
+        "Sheol",
+        "Destino Comum",
+        "Libertação pela Morte"
+      ],
+      "personagens": [
+        "Jó"
+      ]
     }
   }
 }

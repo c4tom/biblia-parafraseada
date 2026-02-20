@@ -1,246 +1,572 @@
 {
   "livro": "Mateus",
   "capitulo": 6,
-  "contexto_historico": "Este capítulo continua o Sermão da Montanha, onde Jesus ensina sobre a verdadeira prática da justiça e da piedade. Ele adverte contra a hipocrisia na esmola, na oração e no jejum, enfatizando que a motivação do coração é mais importante do que a exibição externa. Jesus também ensina sobre a confiança em Deus para as necessidades diárias e a prioridade de buscar o Reino de Deus acima de tudo.",
-  "bloco_tematico": "A Verdadeira Piedade e a Confiança em Deus",
+  "contexto_historico": "O Sermão da Montanha (Mateus 5-7) é a principal coleção dos ensinamentos éticos e morais de Jesus, frequentemente visto como a 'Constituição do Reino de Deus'. É proferido a discípulos e multidões na Galileia, estabelecendo um contraste direto com a interpretação legalista e exterior da Lei (Torá) praticada pelos fariseus e escribas. Jesus não anula a Lei, mas a aprofunda, exigindo uma justiça interna e um compromisso radical com o Reino. O capítulo 6 foca em práticas religiosas (esmola, oração, jejum) e prioridades de vida (riquezas e ansiedade). 🧭",
+  "bloco_tematico": "A Ética da Sinceridade e a Prioridade do Reino: O Perigo da Hipocrisia 🙏💰",
   "versiculos": {
     "1": {
-      "parafrase": "'Cuidado para não praticarem a sua justiça diante dos homens, para serem vistos por eles. Do contrário, vocês não terão recompensa do seu Pai que está nos céus.'",
-      "referencias": [],
-      "comentario": "Jesus adverte contra a hipocrisia na prática da justiça. A motivação para as boas obras deve ser agradar a Deus, não buscar o reconhecimento humano. A recompensa vem de Deus, não dos homens.",
-      "temas": ["hipocrisia", "motivação", "recompensa divina", "justiça"],
-      "personagens": ["Jesus"]
+      "parafrase": "Prestem muita atenção e mantenham os olhos abertos sobre como vocês praticam a sua fé! Cuidado para não fazerem suas boas ações apenas para impressionar os outros, como fazem os falsos religiosos que querem ser vistos. Se fizerem isso, a recompensa que receberão será apenas o aplauso vazio das pessoas, e nada mais lhes restará no reino eterno.",
+      "referencias": [
+        "Romanos 2:29",
+        "Colossenses 3:23"
+      ],
+      "comentario": "Jesus inicia o Sermão da Montanha focando na motivação interna ('prosoché' - atenção, cuidado). O contraste é estabelecido entre a atuação pública para receber 'mistô' (salário, recompensa) humano e a sinceridade diante de Deus. A hipocrisia é o oposto da verdadeira piedade.",
+      "temas": [
+        "Motivação",
+        "Hipocrisia",
+        "Recompensa Divina"
+      ],
+      "personagens": [
+        "Jesus",
+        "Fariseus (implícito)"
+      ]
     },
     "2": {
-      "parafrase": "'Portanto, quando você der esmola, não toque trombeta diante de você, como fazem os hipócritas nas sinagogas e nas ruas, para serem glorificados pelos homens. Em verdade lhes digo que eles já receberam a sua recompensa.'",
-      "referencias": [],
-      "comentario": "Jesus usa a prática de tocar trombetas (metafórica ou literalmente) para anunciar a esmola como um exemplo de hipocrisia. Aqueles que buscam a glória humana já receberam sua única recompensa.",
-      "temas": ["esmola", "hipocrisia", "glória humana", "recompensa"],
-      "personagens": ["Jesus"]
+      "parafrase": "Portanto, quando você fizer uma doação generosa, uma esmola para os necessitados, não saia por aí anunciando com trombetas, como fazem os hipócritas nas sinagogas e nas ruas, buscando a glória terrena. Seja discreto, como se estivesse entrando em segredo, para que ninguém saiba do seu ato de caridade.",
+      "referencias": [
+        "Deuteronômio 15:7",
+        "Isaías 58:7"
+      ],
+      "comentario": "A prática específica da esmola ('eleêmosynēn') é usada como exemplo primário. O ato de 'clamar' ou 'trombetear' simboliza a ostentação. A instrução é clara: a mão esquerda não deve saber o que a direita está fazendo, enfatizando o sigilo absoluto.",
+      "temas": [
+        "Caridade",
+        "Sinceridade",
+        "Sigilo"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "3": {
-      "parafrase": "'Mas, quando você der esmola, que a sua mão esquerda não saiba o que a sua direita está fazendo,'",
-      "referencias": [],
-      "comentario": "A esmola deve ser feita em segredo, sem ostentação, para que a motivação seja pura e a glória seja para Deus.",
-      "temas": ["segredo", "humildade", "motivação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Pois quando você estiver ajudando alguém, faça-o em silêncio. Assim, seu Pai, que vê tudo o que é feito em secreto, terá o prazer de lhe dar o crédito e a recompensa devida.",
+      "referencias": [
+        "Salmos 112:5",
+        "Provérbios 19:17"
+      ],
+      "comentario": "Aqui está a promessa: Deus é o único juiz da intenção. O Pai, que vê no oculto ('en tō kryptō'), garante a retribuição. É um convite à fé na justiça invisível de Deus.",
+      "temas": [
+        "Recompensa de Deus",
+        "Visão Divina",
+        "Fé"
+      ],
+      "personagens": [
+        "Deus Pai",
+        "Jesus"
+      ]
     },
     "4": {
-      "parafrase": "'para que a sua esmola fique em secreto. E o seu Pai, que vê em secreto, o recompensará abertamente.'",
-      "referencias": [],
-      "comentario": "Deus vê o que é feito em secreto e recompensará publicamente a sinceridade e a humildade.",
-      "temas": ["recompensa divina", "sinceridade", "humildade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Da mesma forma, quando jejuarem por motivos espirituais, não façam cara de sofrimento e tristeza para que todos percebam sua santidade, como os desonestos fazem. Eles deixam o rosto abatido para receber elogios humanos. Mas você, meu seguidor, lave o rosto, arrume-se e não deixe que ninguém perceba seu jejum, exceto Deus.",
+      "referencias": [
+        "Jó 1:21",
+        "Zacarias 7:5"
+      ],
+      "comentario": "O jejum ('nēsteia') era um sinal externo de devoção. Jesus aborda a 'teatralidade' da piedade. O mandamento de 'ungir a cabeça e lavar o rosto' sugere a manutenção da aparência normal, combatendo a aparência de mártir autoimposto.",
+      "temas": [
+        "Jejum",
+        "Aparência vs. Realidade",
+        "Discernimento Espiritual"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "5": {
-      "parafrase": "'E, quando vocês orarem, não sejam como os hipócritas, pois eles gostam de orar em pé nas sinagogas e nas esquinas das ruas, para serem vistos pelos homens. Em verdade lhes digo que eles já receberam a sua recompensa.'",
-      "referencias": [],
-      "comentario": "A oração também deve ser feita com a motivação correta. A oração pública para exibição é hipócrita e já recebeu sua recompensa humana.",
-      "temas": ["oração", "hipocrisia", "glória humana", "recompensa"],
-      "personagens": ["Jesus"]
+      "parafrase": "Isso porque seu Pai, que conhece os segredos mais íntimos do seu coração, é quem verdadeiramente lhe dará a recompensa merecida por seu sacrifício feito em silêncio.",
+      "referencias": [
+        "Hebreus 4:13",
+        "Jeremias 17:10"
+      ],
+      "comentario": "Reforça a ideia do versículo 3, aplicando-a especificamente ao jejum. A recompensa não é negada, mas transferida do palco social para a câmara privada com Deus.",
+      "temas": [
+        "Oculto",
+        "Recompensa",
+        "Intimidade com Deus"
+      ],
+      "personagens": [
+        "Deus Pai"
+      ]
     },
     "6": {
-      "parafrase": "'Mas, quando você orar, entre no seu quarto, feche a porta e ore ao seu Pai, que está em secreto. E o seu Pai, que vê em secreto, o recompensará abertamente.'",
-      "referencias": [],
-      "comentario": "A oração deve ser íntima e pessoal, feita em secreto, buscando a comunhão com Deus. A recompensa vem da sinceridade do coração.",
-      "temas": ["oração íntima", "comunhão com Deus", "recompensa divina"],
-      "personagens": ["Jesus"]
+      "parafrase": "Mas você, quando for orar, entre no seu lugar mais reservado. Feche a porta, como se estivesse se isolando do mundo inteiro. Ali, na solidão, converse com seu Pai, aquele que está presente em todos os lugares, e Ele, que tudo vê, lhe responderá.",
+      "referencias": [
+        "Salmos 139:7-10",
+        "Tiago 5:16"
+      ],
+      "comentario": "A oração ('proseuxē') é o ato mais íntimo. O 'tameion' (depósito, quarto interior) é o símbolo máximo da privacidade. A crítica é contra a repetição vã das orações públicas exibicionistas.",
+      "temas": [
+        "Oração",
+        "Privacidade",
+        "Presença de Deus"
+      ],
+      "personagens": [
+        "Jesus",
+        "Deus Pai"
+      ]
     },
     "7": {
-      "parafrase": "'E, ao orar, não usem de vãs repetições, como os gentios, que pensam que por muito falarem serão ouvidos.'",
-      "referencias": [],
-      "comentario": "Jesus adverte contra a oração mecânica e repetitiva, que busca impressionar pela quantidade de palavras, em vez de pela sinceridade do coração. Os gentios (pagãos) são um exemplo de tal prática.",
-      "temas": ["oração vazia", "repetições vãs", "sinceridade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ao orarem, não fiquem repetindo as mesmas frases vazias e sem sentido, como fazem os pagãos. Eles pensam que, por falarem muito e usarem muitas palavras, serão ouvidos e atendidos.",
+      "referencias": [
+        "Eclesiastes 5:2",
+        "1 Reis 18:26"
+      ],
+      "comentario": "Jesus critica a 'battalogia' (repetição enfadonha). Os gentios ('ethnikoi') acreditavam que a quantidade de palavras ativava o poder divino. Para Jesus, a qualidade e a sinceridade da conexão importam, não a verbosidade.",
+      "temas": [
+        "Verbosidade",
+        "Qualidade da Oração",
+        "Práticas Pagãs"
+      ],
+      "personagens": [
+        "Jesus",
+        "Pagãos (implícito)"
+      ]
     },
     "8": {
-      "parafrase": "'Não sejam como eles, pois o seu Pai sabe do que vocês precisam, antes mesmo de pedirem.'",
-      "referencias": [],
-      "comentario": "Deus já conhece as necessidades de Seus filhos. A oração não é para informar a Deus, mas para expressar dependência e comunhão.",
-      "temas": ["onisciência de Deus", "dependência", "comunhão"],
-      "personagens": ["Jesus"]
+      "parafrase": "Não se pareçam com eles! O Pai de vocês já sabe exatamente do que vocês precisam antes mesmo que peçam ou abram a boca para falar.",
+      "referencias": [
+        "Isaías 65:24",
+        "Filipenses 4:19"
+      ],
+      "comentario": "Este é um dos versículos mais poderosos sobre a onisciência de Deus. A ideia é que a oração não é para informar Deus, mas para alinhar o coração humano com a vontade divina, pois Ele já conhece a necessidade ('chreia').",
+      "temas": [
+        "Onisciência de Deus",
+        "Alinhamento de Vontade",
+        "Necessidade Humana"
+      ],
+      "personagens": [
+        "Deus Pai"
+      ]
     },
     "9": {
-      "parafrase": "'Portanto, orem assim: Pai nosso, que estás nos céus, santificado seja o teu nome.'",
-      "referencias": ["Lucas 11:2"],
-      "comentario": "Jesus ensina o modelo de oração, começando com a reverência e a adoração ao nome de Deus. O Pai Nosso é um modelo de oração, não uma fórmula a ser repetida mecanicamente.",
-      "temas": ["oração do Senhor", "reverência", "adoração"],
-      "personagens": ["Jesus"]
+      "parafrase": "Sendo assim, vocês devem orar desta maneira: 'Pai nosso, que estás nos céus, santificado seja o teu Nome! Que a tua presença seja reverenciada acima de todas as coisas!'",
+      "referencias": [
+        "Salmos 113:3",
+        "Apocalipse 4:11"
+      ],
+      "comentario": "Aqui começa o Pai Nosso ('Pater hēmōn'). O foco inicial é a adoração e a santificação do nome de Deus (reconhecimento de Sua santidade e transcendência), colocando a glória Dele acima de qualquer necessidade pessoal.",
+      "temas": [
+        "Modelo de Oração",
+        "Adoração",
+        "Santidade de Deus"
+      ],
+      "personagens": [
+        "Jesus",
+        "Deus Pai"
+      ]
     },
     "10": {
-      "parafrase": "'Venha o teu Reino; seja feita a tua vontade, assim na terra como no céu.'",
-      "referencias": [],
-      "comentario": "A oração continua com o desejo de que o Reino de Deus se estabeleça plenamente na terra, e que a vontade de Deus seja feita em todos os lugares, como já é no céu.",
-      "temas": ["Reino de Deus", "vontade de Deus", "submissão"],
-      "personagens": ["Jesus"]
+      "parafrase": "'Que o teu Reino venha plenamente! Que a tua vontade seja feita aqui na Terra, assim como já acontece perfeitamente no céu!'",
+      "referencias": [
+        "Lucas 17:20-21",
+        "Apocalipse 21:2"
+      ],
+      "comentario": "A oração transiciona da glória de Deus para a manifestação de Seu domínio (Reino) e Sua soberania (Vontade). A expressão 'hōs en ouranō kai epi tēs gēs' (como no céu, assim na terra) expressa a esperança da consumação escatológica trazida ao presente.",
+      "temas": [
+        "Reino de Deus",
+        "Vontade Divina",
+        "Escatologia"
+      ],
+      "personagens": [
+        "Deus Pai"
+      ]
     },
     "11": {
-      "parafrase": "'Dá-nos hoje o nosso pão de cada dia.'",
-      "referencias": [],
-      "comentario": "A oração inclui a petição por provisão diária, expressando dependência de Deus para as necessidades básicas da vida.",
-      "temas": ["provisão divina", "dependência", "necessidades básicas"],
-      "personagens": ["Jesus"]
+      "parafrase": "'Dá-nos hoje o pão que precisamos para este dia, o sustento essencial para a nossa vida.',",
+      "referencias": [
+        "Provérbios 30:8",
+        "Êxodo 16:4"
+      ],
+      "comentario": "O termo grego 'epiousios' (para este dia/suprassubsistente) é complexo. Foca na provisão diária e suficiente, recusando o acúmulo excessivo (ganância) e a ansiedade pelo amanhã. É o pão literal e, teologicamente, o pão espiritual.",
+      "temas": [
+        "Provisão",
+        "Suficiência",
+        "Foco no Presente"
+      ],
+      "personagens": [
+        "Deus Pai"
+      ]
     },
     "12": {
-      "parafrase": "'Perdoa-nos as nossas dívidas, assim como nós perdoamos aos nossos devedores.'",
-      "referencias": [],
-      "comentario": "A oração por perdão é condicionada ao perdão que oferecemos aos outros. Há uma conexão direta entre o perdão de Deus e o perdão humano.",
-      "temas": ["perdão", "reconciliação", "condicionalidade"],
-      "personagens": ["Jesus"]
+      "parafrase": "'Perdoa as nossas falhas, assim como nós perdoamos aqueles que falharam contra nós, aqueles que nos ofenderam.',",
+      "referencias": [
+        "Efésios 4:32",
+        "Colossenses 3:13"
+      ],
+      "comentario": "O perdão ('aphēken') é condicional e recíproco. Jesus estabelece uma analogia direta: a medida com que perdoamos aos outros será a medida que Deus usará para nos perdoar. O perdão humano é o espelho do perdão divino recebido.",
+      "temas": [
+        "Perdão",
+        "Reciprocidade",
+        "Justiça"
+      ],
+      "personagens": [
+        "Deus Pai"
+      ]
     },
     "13": {
-      "parafrase": "'E não nos deixes cair em tentação, mas livra-nos do mal. Pois teu é o Reino, o poder e a glória para sempre. Amém.'",
-      "referencias": [],
-      "comentario": "A oração termina com a petição por proteção contra a tentação e o mal, e uma doxologia que reconhece a soberania e a glória de Deus.",
-      "temas": ["proteção", "tentação", "livramento", "doxologia"],
-      "personagens": ["Jesus"]
+      "parafrase": "'E, por favor, não nos deixes cair na tentação, mas sim, livra-nos de todo o mal e de tudo o que é perverso!'",
+      "referencias": [
+        "Gálatas 5:16",
+        "1 Pedro 5:8"
+      ],
+      "comentario": "O termo 'peirasmos' pode significar tentação (teste moral para cair) ou provação (teste de resistência). A súplica é para ser guardado do mal ('ho ponēros'), que pode ser interpretado como o Diabo ou o mal em sentido geral.",
+      "temas": [
+        "Tentação",
+        "Livre Arbítrio",
+        "Livramento"
+      ],
+      "personagens": [
+        "Deus Pai"
+      ]
     },
     "14": {
-      "parafrase": "'Pois, se vocês perdoarem aos homens as ofensas deles, o Pai de vocês que está nos céus também os perdoará.'",
-      "referencias": ["Marcos 11:25"],
-      "comentario": "Jesus reitera a importância do perdão. O perdão que recebemos de Deus está ligado ao perdão que oferecemos aos outros.",
-      "temas": ["perdão", "reconciliação", "condicionalidade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Pois se vocês estiverem dispostos a perdoar as ofensas das outras pessoas, o Pai Celestial também perdoará as suas ofensas.",
+      "referencias": [
+        "Marcos 11:25",
+        "Lucas 6:37"
+      ],
+      "comentario": "Jesus repete a cláusula de perdão (v. 12) para enfatizar sua importância absoluta. É uma ponte entre a misericórdia recebida e a misericórdia concedida.",
+      "temas": [
+        "Condição para Perdão",
+        "Misericórdia",
+        "Prática da Fé"
+      ],
+      "personagens": [
+        "Jesus",
+        "Pai Celestial"
+      ]
     },
     "15": {
-      "parafrase": "'Mas, se vocês não perdoarem aos homens as ofensas deles, o Pai de vocês também não perdoará as suas ofensas.'",
-      "referencias": [],
-      "comentario": "A falta de perdão humano impede o perdão divino. A atitude do coração é crucial.",
-      "temas": ["falta de perdão", "consequência", "justiça divina"],
-      "personagens": ["Jesus"]
+      "parafrase": "Contudo, se vocês recusarem perdoar os outros quando eles errarem contra vocês, o Pai de vocês também não perdoará os vossos erros.",
+      "referencias": [
+        "Tiago 2:13",
+        "Mateus 5:23-24"
+      ],
+      "comentario": "Este é o contraponto severo. A recusa em perdoar é vista como evidência de que a pessoa não experimentou ou não compreendeu o perdão de Deus. A justiça divina reflete a justiça humana exercida.",
+      "temas": [
+        "Impenitência",
+        "Consequência Espiritual",
+        "Julgamento"
+      ],
+      "personagens": [
+        "Pai de vocês"
+      ]
     },
     "16": {
-      "parafrase": "'E, quando vocês jejuarem, não mostrem uma aparência triste, como os hipócritas, pois eles desfiguram os seus rostos para que os homens vejam que estão jejuando. Em verdade lhes digo que eles já receberam a sua recompensa.'",
-      "referencias": [],
-      "comentario": "O jejum, assim como a esmola e a oração, deve ser feito com a motivação correta. A exibição externa do jejum é hipócrita e já recebeu sua recompensa humana.",
-      "temas": ["jejum", "hipocrisia", "glória humana", "recompensa"],
-      "personagens": ["Jesus"]
+      "parafrase": "E quando estiverem jejuando, não fiquem com aquele semblante abatido e preocupado. Os hipócritas fazem isso para que todos notem que estão em jejum, e recebam o louvor deles. Eu lhes digo a verdade: eles já receberam a sua recompensa.",
+      "referencias": [
+        "Oséias 6:6",
+        "Salmos 35:13"
+      ],
+      "comentario": "Reiteração do ponto do versículo 4, mas com a conclusão clara da recompensa já exaurida ('apēchan ton misthon'). A recompensa humana é transitória e completa; a divina é eterna.",
+      "temas": [
+        "Recompensa Terrena",
+        "Jejum",
+        "Exaustão da Recompensa"
+      ],
+      "personagens": [
+        "Hipócritas"
+      ]
     },
     "17": {
-      "parafrase": "'Mas, quando você jejuar, unja a sua cabeça e lave o seu rosto,'",
-      "referencias": [],
-      "comentario": "O jejum deve ser discreto, sem chamar a atenção para si mesmo. A aparência normal esconde o ato de jejum, garantindo a pureza da motivação.",
-      "temas": ["segredo", "humildade", "motivação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Já você, quando estiver em jejum, lave o rosto, perfume a cabeça, para que sua aparência seja a de sempre, a ponto de ninguém suspeitar do seu recolhimento espiritual, exceto Deus, que vê o que está escondido.",
+      "referencias": [
+        "Gênesis 41:14",
+        "Cântico dos Cânticos 1:3"
+      ],
+      "comentario": "O uso de perfumes ('muron') e a higiene são atos de normalidade que mascaram a privação interior. O foco volta para a recepção de Deus, que observa a totalidade do ser ('en tō kryptō').",
+      "temas": [
+        "Normalidade",
+        "Discrição",
+        "Observação Divina"
+      ],
+      "personagens": [
+        "Você (o discípulo)"
+      ]
     },
     "18": {
-      "parafrase": "'para que não pareça aos homens que você está jejuando, mas apenas ao seu Pai, que está em secreto. E o seu Pai, que vê em secreto, o recompensará abertamente.'",
-      "referencias": [],
-      "comentario": "Deus vê o que é feito em secreto e recompensará publicamente a sinceridade e a humildade no jejum.",
-      "temas": ["recompensa divina", "sinceridade", "humildade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Assim, o seu Pai, que olha o coração e o que está reservado, lhe dará a retribuição merecida.",
+      "referencias": [
+        "1 Samuel 16:7",
+        "Hebreus 12:2"
+      ],
+      "comentario": "Encerramento da seção sobre as práticas religiosas de 'justiça'. A recompensa vem de Quem sonda os pensamentos mais secretos, garantindo um julgamento justo e pessoal.",
+      "temas": [
+        "Retribuição Justa",
+        "Sondar Corações",
+        "Pai Celestial"
+      ],
+      "personagens": [
+        "Pai"
+      ]
     },
     "19": {
-      "parafrase": "'Não acumulem para vocês tesouros na terra, onde a traça e a ferrugem destroem, e onde os ladrões arrombam e roubam.'",
-      "referencias": ["Lucas 12:33"],
-      "comentario": "Jesus adverte contra a busca por riquezas materiais, que são temporárias e vulneráveis à destruição e ao roubo. A prioridade deve ser dada aos tesouros eternos.",
-      "temas": ["tesouros terrenos", "transitoriedade", "materialismo"],
-      "personagens": ["Jesus"]
+      "parafrase": "Não acumulem riquezas materiais aqui na Terra, onde a traça e a ferrugem destroem tudo, e onde ladrões conseguem arrombar e roubar o que vocês guardam.",
+      "referencias": [
+        "Lucas 12:33",
+        "Jó 1:21"
+      ],
+      "comentario": "Transição para o tema da riqueza. Jesus usa metáforas de destruição terrestre: a traça ('tēs bōs') destrói tecidos, e a ferrugem ('tou bias') corrói metais. Ele aponta a fragilidade e a vulnerabilidade dos tesouros terrenos.",
+      "temas": [
+        "Riqueza Terrena",
+        "Fragilidade Material",
+        "Acúmulo"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "20": {
-      "parafrase": "'Mas acumulem para vocês tesouros nos céus, onde a traça e a ferrugem não destroem, e onde os ladrões não arrombam nem roubam.'",
-      "referencias": [],
-      "comentario": "O verdadeiro tesouro é o que é acumulado no céu, através de uma vida de obediência e serviço a Deus. Estes tesouros são eternos e seguros.",
-      "temas": ["tesouros celestiais", "eternidade", "segurança"],
-      "personagens": ["Jesus"]
+      "parafrase": "Em vez disso, guardem seus tesouros no céu, onde nem a traça nem a ferrugem podem estragar, e onde os ladrões não podem invadir para roubar.",
+      "referencias": [
+        "Colossenses 3:1-2",
+        "1 Timóteo 6:19"
+      ],
+      "comentario": "O contraste direto. O tesouro celestial ('thēsaurous en ouranō') é imperecível e seguro. A segurança não está na força da guarda, mas na natureza incorruptível do bem guardado.",
+      "temas": [
+        "Tesouro Celestial",
+        "Imortalidade",
+        "Segurança Eterna"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "21": {
-      "parafrase": "'Pois onde estiver o seu tesouro, ali também estará o seu coração.'",
-      "referencias": [],
-      "comentario": "O coração segue o tesouro. A prioridade de uma pessoa é revelada pelo que ela valoriza mais. Onde está o investimento, ali está o afeto.",
-      "temas": ["prioridade", "coração", "valores"],
-      "personagens": ["Jesus"]
+      "parafrase": "Porque onde estiver o seu tesouro, aí também estará o seu coração, a sua atenção total e a sua vida.",
+      "referencias": [
+        "Provérbios 23:27",
+        "Salmos 42:1-2"
+      ],
+      "comentario": "Este versículo é a chave da seção econômica. Ele liga a alocação de recursos ('tesouro') com a lealdade emocional e volitiva ('coração' - kardia). O investimento revela a verdadeira prioridade da alma.",
+      "temas": [
+        "Prioridades",
+        "Coração",
+        "Investimento Espiritual"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "22": {
-      "parafrase": "'Os olhos são a lâmpada do corpo. Se os seus olhos forem bons, todo o seu corpo será cheio de luz.'",
-      "referencias": ["Lucas 11:34"],
-      "comentario": "Os olhos representam a visão espiritual e a intenção. Se a visão for pura e focada em Deus, toda a vida será cheia de luz e retidão.",
-      "temas": ["visão espiritual", "intenção", "luz"],
-      "personagens": ["Jesus"]
+      "parafrase": "O olho é como a lâmpada do corpo. Se o seu olho for sadio, ou seja, focado no que é bom e verdadeiro, todo o seu corpo será iluminado por dentro.",
+      "referencias": [
+        "Efésios 1:18",
+        "Lucas 11:34"
+      ],
+      "comentario": "O 'olho' ('ophthalmos') simboliza o órgão da percepção e da intenção. Um olho 'simple' (no sentido grego de não-duplo, focado, generoso) permite que a luz entre. A saúde do corpo (o ser inteiro) depende da clareza da visão.",
+      "temas": [
+        "Visão Espiritual",
+        "Percepção",
+        "Iluminação"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "23": {
-      "parafrase": "'Mas, se os seus olhos forem maus, todo o seu corpo será cheio de escuridão. Se, portanto, a luz que há em você são trevas, quão grandes serão as trevas!'",
-      "referencias": [],
-      "comentario": "Se a visão espiritual for distorcida ou focada no mal, toda a vida será dominada pela escuridão. A maior tragédia é quando a própria fonte de luz se torna trevas.",
-      "temas": ["escuridão espiritual", "visão distorcida", "consequência"],
-      "personagens": ["Jesus"]
+      "parafrase": "Mas se o seu olho for doentio, isto é, estiver contaminado pela ganância ou pelo egoísmo, toda a sua vida será envolta em profunda escuridão.",
+      "referencias": [
+        "2 Pedro 2:14",
+        "João 3:19"
+      ],
+      "comentario": "O oposto do olho saudável é o olho 'ponerós' (mau, invejoso, egoísta). Se a percepção está corrompida pela avareza, a escuridão ('skotia') resultante não é apenas uma ausência de luz, mas uma condição ativa de cegueira moral.",
+      "temas": [
+        "Cegueira Espiritual",
+        "Ganância",
+        "Corrupção da Visão"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "24": {
-      "parafrase": "'Ninguém pode servir a dois senhores; pois ou odiará um e amará o outro, ou se dedicará a um e desprezará o outro. Vocês não podem servir a Deus e ao dinheiro (Mamom).'",
-      "referencias": ["Lucas 16:13"],
-      "comentario": "Jesus ensina a impossibilidade de servir a dois mestres com lealdade dividida. O serviço a Deus exige exclusividade, e o dinheiro (Mamom) é um rival que exige lealdade.",
-      "temas": ["lealdade exclusiva", "serviço a Deus", "dinheiro", "Mamom"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ninguém é capaz de servir a dois senhores ao mesmo tempo. Se você servir a um, certamente desprezará o outro, ou se dedicará totalmente a um, desprezando o outro. É impossível tentar agradar a ambos.",
+      "referencias": [
+        "Josué 24:15",
+        "1 João 2:15"
+      ],
+      "comentario": "O termo 'douluein' (servir como escravo) enfatiza a totalidade da servidão. Jesus apresenta a incompatibilidade absoluta entre servir a Deus e servir às riquezas (Mamom, que é introduzido no versículo seguinte).",
+      "temas": [
+        "Lealdade Absoluta",
+        "Dualidade Impossível",
+        "Servidão"
+      ],
+      "personagens": [
+        "Jesus",
+        "Senhores (Deus e Mamom implícito)"
+      ]
     },
     "25": {
-      "parafrase": "'Por isso, eu lhes digo: Não se preocupem com a sua vida, o que comerão ou beberão; nem com o seu corpo, o que vestirão. Acaso a vida não é mais do que o alimento, e o corpo, mais do que a roupa?'",
-      "referencias": ["Lucas 12:22-31"],
-      "comentario": "Jesus adverte contra a ansiedade e a preocupação excessiva com as necessidades materiais. A vida e o corpo são dons de Deus, e Ele é capaz de prover para eles.",
-      "temas": ["não se preocupar", "provisão divina", "ansiedade"],
-      "personagens": ["Jesus"]
+      "parafrase": "É por isso que eu lhes digo: não se preocupem excessivamente com o que vão comer ou beber para manter seus corpos, nem com a roupa que vestirão para cobrir seus corpos. Afinal, a vida é muito mais do que apenas a comida, e o corpo é mais do que apenas as roupas que o cobrem.",
+      "referencias": [
+        "Filipenses 4:6",
+        "Salmos 55:22"
+      ],
+      "comentario": "Jesus introduz a seção sobre a ansiedade ('merimnaō' - dividir a mente, preocupar-se). Ele afirma que a vida ('psychē' - alma, vida interior) transcende a mera subsistência física (comer/beber) e a aparência externa (vestir). A preocupação excessiva desvia a mente do foco no Reino.",
+      "temas": [
+        "Ansiedade",
+        "Valor da Vida",
+        "Prioridade"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "26": {
-      "parafrase": "'Observem as aves do céu: elas não semeiam nem colhem nem armazenam em celeiros; contudo, o Pai de vocês que está nos céus as alimenta. Acaso vocês não valem muito mais do que elas?'",
-      "referencias": [],
-      "comentario": "Jesus usa a natureza como exemplo da provisão de Deus. Se Deus cuida das aves, que não trabalham, quanto mais Ele cuidará de Seus filhos, que são de muito mais valor.",
-      "temas": ["provisão divina", "valor humano", "confiança"],
-      "personagens": ["Jesus"]
+      "parafrase": "Olhem atentamente para os pássaros que voam livres no céu. Eles não se preocupam em plantar, colher ou guardar grãos em celeiros, pois não têm a capacidade de fazer isso. No entanto, seu Pai celestial, Aquele que sustenta o universo, lhes fornece alimento e sustento a cada dia. Se Ele cuida dessas criaturas pequenas e aparentemente insignificantes, quão mais cuidado e atenção Ele dispensará a vocês?",
+      "referencias": [
+        "Salmos 147:9",
+        "Jó 38:41",
+        "Mateus 10:29"
+      ],
+      "comentario": "Jesus inicia uma analogia poderosa do reino natural. O grego para 'olhai atentamente' é 'emblepete', sugerindo uma observação profunda, quase investigativa. Os pássaros (peristera - frequentemente traduzido como pomba ou ave em geral) são o exemplo máximo da provisão divina sem o fardo da ansiedade humana. O ponto central é a 'provisão diária' (trofē), indicando que Deus se preocupa com as necessidades imediatas.",
+      "temas": [
+        "Provisão Divina",
+        "Confiança",
+        "Cuidado de Deus"
+      ],
+      "personagens": [
+        "Jesus",
+        "Pássaros"
+      ]
     },
     "27": {
-      "parafrase": "'Quem de vocês, por mais que se preocupe, pode acrescentar uma única hora à sua vida?'",
-      "referencias": [],
-      "comentario": "A preocupação é inútil e ineficaz. Ela não pode mudar o curso da vida ou acrescentar tempo. A ansiedade é uma perda de tempo e energia.",
-      "temas": ["inutilidade da preocupação", "ansiedade", "controle divino"],
-      "personagens": ["Jesus"]
+      "parafrase": "E pensem um pouco mais: quem de vocês, mesmo que se esforce e se consuma em preocupações e angústias, pode adicionar um único dia de vida à sua existência ou sequer fazer seu corpo crescer um centímetro? A ansiedade e o esforço humano, desvinculados da confiança em Deus, são estéreis para aquilo que realmente importa: o tempo e o crescimento essencial da vida.",
+      "referencias": [
+        "Lucas 12:25",
+        "Eclesiastes 3:2",
+        "Tiago 4:14"
+      ],
+      "comentario": "A segunda parte da analogia foca no controle humano. O grego para 'adicionar um côvado' (pēchys) é uma medida de comprimento, simbolizando o crescimento ou a extensão da vida. Jesus aponta a futilidade da preocupação: ela não resolve o problema fundamental da mortalidade ou do desenvolvimento físico. Se a preocupação não pode controlar o biológico, quanto menos pode controlar o espiritual ou o futuro.",
+      "temas": [
+        "Futilidade da Ansiedade",
+        "Limites Humanos",
+        "Tempo de Vida"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "28": {
-      "parafrase": "'E por que vocês se preocupam com a roupa? Observem como crescem os lírios do campo: eles não trabalham nem fiam.'",
-      "referencias": [],
-      "comentario": "Jesus usa os lírios como outro exemplo da provisão de Deus. Eles são belos sem nenhum esforço humano, mostrando a beleza e a provisão de Deus.",
-      "temas": ["provisão divina", "beleza", "confiança"],
-      "personagens": ["Jesus"]
+      "parafrase": "E por que tanta aflição por causa de vestimentas? Reflitam sobre os lírios que crescem nos campos. Eles não se cansam tecendo ou fiando tecidos elaborados. Eles não precisam de ateliês ou de preocupação com a moda.",
+      "referencias": [
+        "Lucas 12:27",
+        "Jó 38:31",
+        "Cântico dos Cânticos 2:1"
+      ],
+      "comentario": "A analogia muda para o vestuário, uma preocupação central em culturas antigas. Lírios (krina) são frequentemente interpretados como flores silvestres do campo, talvez papoulas ou anêmonas, conhecidas por sua beleza simples. A palavra 'trabalhar' ou 'esforçar-se' (kopiaō) é usada, contrastando a ação humana agitada com a beleza passiva da criação.",
+      "temas": [
+        "Beleza da Criação",
+        "Vestimentas",
+        "Esforço vs. Confiança"
+      ],
+      "personagens": [
+        "Jesus",
+        "Lírios"
+      ]
     },
     "29": {
-      "parafrase": "'Contudo, eu lhes digo que nem mesmo Salomão, em toda a sua glória, se vestiu como um deles.'",
-      "referencias": [],
-      "comentario": "A beleza da criação de Deus supera até mesmo o luxo e a glória do rei Salomão, o que enfatiza a grandeza da provisão divina.",
-      "temas": ["beleza da criação", "glória de Deus", "Salomão"],
-      "personagens": ["Jesus"]
+      "parafrase": "Mas Eu lhes digo a verdade: nem o rei Salomão, em toda a sua glória, vestindo as roupas mais luxuosas, ricas e resplandecentes, jamais se vestiu com a magnificência e a perfeição com que Deus adorna essas flores campestres que hoje existem e amanhã são cortadas e jogadas no fogo.",
+      "referencias": [
+        "1 Reis 10:4-7",
+        "Lucas 12:27",
+        "Isaías 50:2"
+      ],
+      "comentario": "Esta é uma comparação direta com o auge da opulência humana. Salomão é o arquétipo da riqueza terrena. Jesus usa isso para ilustrar que a beleza provida por Deus excede qualquer esforço humano de ostentação. O contraste entre a glória de Salomão e a beleza 'simples' do lírio sublinha que a atenção de Deus ao detalhe supera a arte humana mais elevada.",
+      "temas": [
+        "Glória Terrena vs. Glória Divina",
+        "Beleza Espontânea",
+        "Salomão"
+      ],
+      "personagens": [
+        "Jesus",
+        "Salomão"
+      ]
     },
     "30": {
-      "parafrase": "'Se Deus veste assim a erva do campo, que hoje existe e amanhã é lançada ao fogo, quanto mais ele vestirá vocês, ó homens de pequena fé?'",
-      "referencias": [],
-      "comentario": "A falta de fé é a raiz da preocupação. Se Deus cuida da grama, que é temporária, quanto mais Ele cuidará de Seus filhos, que são eternos. A preocupação revela uma fé fraca.",
-      "temas": ["pequena fé", "provisão divina", "confiança"],
-      "personagens": ["Jesus"]
+      "parafrase": "Se Deus veste com tanta esplendor o capim do campo, que hoje está vibrante e amanhã é seco e usado apenas como lenha, será que Ele negligenciará o cuidado com vocês, ó pessoas de pouca fé? Vocês são infinitamente mais preciosos do que a grama!",
+      "referencias": [
+        "Tiago 1:10",
+        "1 Pedro 1:24",
+        "Mateus 14:31"
+      ],
+      "comentario": "Jesus introduz o diagnóstico da enfermidade espiritual: 'pouca fé' (oligopistoi). O capim (chortos) é o destino final das flores, enfatizando a brevidade da vida terrena. Se a provisão e o adorno são dados ao que é efêmero, a lógica da confiança exige que Deus cuide daqueles que Ele criou à Sua imagem.",
+      "temas": [
+        "Fé (ou Falta dela)",
+        "Valor Humano",
+        "Efemeridade"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "31": {
-      "parafrase": "'Portanto, não se preocupem, dizendo: O que comeremos? Ou: O que beberemos? Ou: O que vestiremos?'",
-      "referencias": [],
-      "comentario": "Jesus reitera a proibição da preocupação excessiva com as necessidades materiais. A ansiedade é uma distração da busca pelo Reino de Deus.",
-      "temas": ["não se preocupar", "ansiedade", "prioridades"],
-      "personagens": ["Jesus"]
+      "parafrase": "Portanto, parem de se preocupar e não caiam na armadilha de perguntar ansiosamente: 'O que comeremos?' ou 'O que vestiremos?' Essas são as preocupações que dominam a vida daqueles que não conhecem o Pai celestial.",
+      "referencias": [
+        "Filipenses 4:6",
+        "1 Timóteo 6:8",
+        "Lucas 12:22"
+      ],
+      "comentario": "Este versículo é uma ordem direta para cessar a ansiedade. O verbo grego para 'preocupar-se' aqui é merimnaō, a mesma raiz usada no início do discurso. Jesus está dizendo que a preocupação com o básico (comer e vestir) é a marca da mentalidade pagã ou descrente, pois eles não têm a mesma certeza da provisão paterna.",
+      "temas": [
+        "Cessar a Preocupação",
+        "Diferença entre Crentes e Não-Crentes",
+        "Necessidades Básicas"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "32": {
-      "parafrase": "'Pois os gentios é que procuram todas essas coisas; mas o Pai de vocês que está nos céus sabe que vocês precisam delas.'",
-      "referencias": [],
-      "comentario": "A busca por essas coisas é característica dos gentios (pagãos), que não conhecem a Deus. Os filhos de Deus devem ter uma prioridade diferente, pois seu Pai já conhece suas necessidades e as proverá.",
-      "temas": ["prioridades", "gentios", "provisão divina", "Pai celestial"],
-      "personagens": ["Jesus"]
+      "parafrase": "Pois são os gentios, aqueles que vivem alheios aos caminhos de Deus, que correm atrás dessas coisas como se fossem o objetivo final da vida. Eles não entendem que o Pai sabe de tudo o que vocês realmente precisam antes mesmo que peçam.",
+      "referencias": [
+        "Romanos 1:25",
+        "Efésios 2:11-12",
+        "Salmos 37:25"
+      ],
+      "comentario": "O termo 'gentios' (ethnē) aqui refere-se àqueles fora da aliança ou que vivem segundo os valores mundanos, focados apenas no material. Jesus reforça que o conhecimento prévio de Deus sobre nossas necessidades ('o Pai sabe') anula a necessidade de ansiedade obsessiva.",
+      "temas": [
+        "Mentalidade Gentílica",
+        "Conhecimento de Deus",
+        "Prioridades Mundanas"
+      ],
+      "personagens": [
+        "Jesus",
+        "Gentios"
+      ]
     },
     "33": {
-      "parafrase": "'Busquem, pois, em primeiro lugar o Reino de Deus e a sua justiça, e todas estas coisas lhes serão acrescentadas.'",
-      "referencias": ["Lucas 12:31"],
-      "comentario": "Esta é a prioridade fundamental. Quando o Reino de Deus e Sua justiça são buscados em primeiro lugar, todas as necessidades materiais serão providas por Deus. É uma promessa de provisão para aqueles que priorizam a Deus.",
-      "temas": ["prioridade do Reino", "justiça", "provisão divina", "confiança"],
-      "personagens": ["Jesus"]
+      "parafrase": "Em vez disso, busquem o Reino de Deus e a Sua justiça acima de tudo o que é material, como prioridade absoluta de suas vidas. Quando vocês colocarem o centro de seu ser na vontade e no governo de Deus, todas essas outras necessidades — comida, bebida, roupa — serão adicionadas a vocês, como um bônus natural da relação correta.",
+      "referencias": [
+        "Mateus 5:6",
+        "Colossenses 3:1-2",
+        "Lucas 12:31"
+      ],
+      "comentario": "Este é o versículo-chave: a inversão da pirâmide de prioridades. 'Busquem primeiro o Reino' (prōton zēteite tēn basileian). 'Reino' refere-se ao domínio soberano de Deus; 'Justiça' (dikaiosynē) refere-se a viver em conformidade com os padrões morais e relacionais desse Reino. O 'será acrescentado' (prostethēsetai) sugere que as provisões são consequências automáticas da fidelidade.",
+      "temas": [
+        "Prioridade do Reino",
+        "Justiça de Deus",
+        "Consequências da Fé"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "34": {
-      "parafrase": "'Portanto, não se preocupem com o amanhã, pois o amanhã trará as suas próprias preocupações. Basta a cada dia o seu próprio mal.'",
-      "referencias": [],
-      "comentario": "Jesus ensina a viver um dia de cada vez, confiando em Deus para o futuro. A preocupação com o amanhã é desnecessária e adiciona um fardo que não é para o presente.",
-      "temas": ["não se preocupar com o amanhã", "confiança no futuro", "viver o presente"],
-      "personagens": ["Jesus"]
+      "parafrase": "Portanto, nunca se preocupem com o amanhã, pois o amanhã se preocupará com suas próprias dificuldades. Cada dia já traz consigo a sua própria dose de desafios e o sustento necessário para enfrentá-los. Não sobrecarreguem hoje com os pesos imaginários ou reais de um dia que ainda nem nasceu. 😌🙏",
+      "referencias": [
+        "Provérbios 27:1",
+        "Hebreus 4:16",
+        "Filipenses 4:6"
+      ],
+      "comentario": "Jesus conclui o ensino com uma regra prática de vida: 'Não se preocupe com o amanhã'. O grego para 'preocupar-se' é novamente merimnaō. A frase 'basta ao dia o seu próprio mal' significa que cada dia possui seus próprios fardos (kakia), e tentar arrastar os fardos de amanhã para hoje é duplicar desnecessariamente o sofrimento. É um convite à presença e à dependência contínua.",
+      "temas": [
+        "Viver o Presente",
+        "Gestão de Fardos",
+        "Dependência Diária"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     }
   }
 }

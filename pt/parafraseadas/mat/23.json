@@ -1,281 +1,663 @@
 {
   "livro": "Mateus",
   "capitulo": 23,
-  "contexto_historico": "Este capítulo é uma das mais severas condenações de Jesus aos escribas e fariseus, os líderes religiosos de Israel. Ele os denuncia por sua hipocrisia, seu legalismo, sua busca por honra e sua negligência da verdadeira justiça e misericórdia. Jesus os adverte sobre o juízo que virá sobre eles por rejeitarem os profetas e o próprio Messias. O capítulo culmina com o lamento de Jesus sobre Jerusalém.",
-  "bloco_tematico": "Ai dos Escribas e Fariseus: Hipocrisia e Juízo",
+  "contexto_historico": "O Capítulo 23 de Mateus é proferido por Jesus em Jerusalém, logo após sua entrada triunfal e durante a última semana antes de sua crucificação. É um discurso extremamente severo, conhecido como a condenação dos fariseus e escribas. O contexto imediato é o crescente confronto entre Jesus e as lideranças religiosas judaicas, que questionam sua autoridade e ensinamentos. Jesus usa a metáfora da hipocrisia para expor a distância entre a prática religiosa exterior (observância rigorosa da Lei e tradições) e a justiça interior e misericórdia (o coração). Este discurso marca uma ruptura definitiva com a religião institucionalizada da época, focando na responsabilidade moral e espiritual.",
+  "bloco_tematico": "Adeus à Hipocrisia: As Sete Blasfêmias contra os Doutores da Lei 📜😠",
   "versiculos": {
     "1": {
-      "parafrase": "Então Jesus falou às multidões e aos seus discípulos, dizendo:",
-      "referencias": ["Marcos 12:38-40", "Lucas 20:45-47"],
-      "comentario": "Jesus se dirige tanto às multidões quanto aos Seus discípulos, ensinando-lhes sobre a hipocrisia dos líderes religiosos.",
-      "temas": ["ensino", "multidões", "discípulos"],
-      "personagens": ["Jesus"]
+      "parafrase": "Então, Jesus chamou a multidão e também seus discípulos mais próximos e começou a falar com eles abertamente, dizendo: 'Atenção! Prestem muita atenção ao que vou lhes dizer agora. Os mestres da Lei e os fariseus, que se consideram os guardiões oficiais da verdade de Deus, sentaram-se no trono de Moisés para ensinar a vocês.',",
+      "referencias": [
+        "Deuteronômio 17:8-11",
+        "Malaquias 2:7"
+      ],
+      "comentario": "O termo 'escribas' (grammateis) e 'fariseus' (Pharisaioi) representa a autoridade religiosa estabelecida, que detinha o poder de interpretação da Torá. O 'trono de Moisés' (kathedra) simboliza a autoridade doutrinária e judicial herdada. Jesus reconhece a validade do ofício deles, mas prepara a audiência para uma crítica severa.",
+      "temas": [
+        "Autoridade Religiosa",
+        "Hipocrisia",
+        "Ensinamento"
+      ],
+      "personagens": [
+        "Jesus",
+        "Escribas",
+        "Fariseus"
+      ]
     },
     "2": {
-      "parafrase": "'Os escribas e os fariseus se assentam na cadeira de Moisés.'",
-      "referencias": [],
-      "comentario": "A \"cadeira de Moisés\" simboliza a autoridade para ensinar a Lei. Jesus reconhece a posição de autoridade deles, mas não sua prática.",
-      "temas": ["autoridade", "escribas", "fariseus", "Lei"],
-      "personagens": ["Jesus"]
+      "parafrase": "Portanto, tudo o que eles mandarem vocês fazer, tudo o que for baseado na lei e for correto, vocês devem seguir e praticar com diligência. Façam exatamente o que eles dizem, observando as regras que são justas.",
+      "referencias": [
+        "Romanos 2:21-24",
+        "1 Pedro 2:13-14"
+      ],
+      "comentario": "Aqui reside o ponto crucial: Jesus separa a autoridade do cargo da moralidade pessoal do detentor do cargo. A obediência é devida à Palavra de Deus que eles ensinam, não à pessoa que a ensina. O mandamento é seguir a doutrina correta ('dizeram-vos').",
+      "temas": [
+        "Obediência",
+        "Dever",
+        "Distinção entre Pessoa e Cargo"
+      ],
+      "personagens": [
+        "Escribas",
+        "Fariseus"
+      ]
     },
     "3": {
-      "parafrase": "'Portanto, tudo o que eles lhes disserem, façam e observem; mas não façam o que eles fazem, pois eles dizem e não fazem.'",
-      "referencias": [],
-      "comentario": "Jesus instrui o povo a obedecer aos ensinamentos corretos dos fariseus (baseados na Lei), mas a não imitar sua hipocrisia e falta de prática.",
-      "temas": ["hipocrisia", "obediência", "prática"],
-      "personagens": ["Jesus"]
+      "parafrase": "Contudo, vocês nunca devem imitar as ações deles! Por quê? Porque eles pregam uma coisa, mas vivem outra completamente diferente. Eles amarram fardos pesados, insuportáveis de carregar, e os jogam sobre os ombros das pessoas, mas eles mesmos se recusam até mesmo a mover um dedo para ajudar a aliviar esse peso.",
+      "referencias": [
+        "Lucas 11:46",
+        "Gálatas 6:12-13"
+      ],
+      "comentario": "A crítica central: 'Eles falam, mas não fazem' (laleō de poiēsin de). O fardo (báros) refere-se aos rigorosos costumes e interpretações adicionais que os fariseus impunham, enquanto negligenciavam os princípios centrais da misericórdia e justiça. O contraste entre o ensino e a prática é gritante.",
+      "temas": [
+        "Hipocrisia",
+        "Fardo",
+        "Inação"
+      ],
+      "personagens": [
+        "Escribas",
+        "Fariseus"
+      ]
     },
     "4": {
-      "parafrase": "'Pois eles atam fardos pesados e difíceis de carregar e os põem sobre os ombros dos homens, mas eles mesmos não querem movê-los nem com um dedo.'",
-      "referencias": ["Lucas 11:46"],
-      "comentario": "Os fariseus impõem fardos pesados de regras e tradições sobre o povo, mas eles mesmos não as cumprem. Isso revela sua falta de compaixão e seu legalismo.",
-      "temas": ["legalismo", "fardos pesados", "hipocrisia", "falta de compaixão"],
-      "personagens": ["Jesus"]
+      "parafrase": "Tudo o que eles fazem é apenas para ser visto pelos outros. Eles criam amuletos religiosos, caixinhas de couro com textos sagrados (filactérios) enormes, exagerados, e alargam as borlas (franjas) de seus mantos para parecerem santos.",
+      "referencias": [
+        "Números 15:38-39",
+        "Deuteronômio 22:12"
+      ],
+      "comentario": "Aqui Jesus ataca a ostentação religiosa. Os filactérios (phylakteria) eram pequenas caixas de couro contendo porções da Torá, usadas no braço ou na testa. Alargar as franjas (kraspedon) era uma tentativa de seguir literalmente Números 15:38. O motivo é a vaidade: 'fazer suas obras para serem vistas pelos homens' (theasthai hypo tōn anthrōpōn).",
+      "temas": [
+        "Ostentação",
+        "Aparência vs. Realidade",
+        "Formalismo"
+      ],
+      "personagens": [
+        "Escribas",
+        "Fariseus"
+      ]
     },
     "5": {
-      "parafrase": "'Todas as suas obras eles fazem para serem vistos pelos homens. Alargam os seus filactérios e aumentam as franjas das suas vestes.'",
-      "referencias": ["Mateus 6:2"],
-      "comentario": "A motivação dos fariseus é a exibição e a busca por reconhecimento humano. Eles exageram nos símbolos religiosos (filactérios e franjas) para parecerem mais piedosos.",
-      "temas": ["hipocrisia", "exibição", "busca por glória humana"],
-      "personagens": ["Jesus"]
+      "parafrase": "Eles adoram os melhores lugares em banquetes e reuniões importantes, gostam das cadeiras de honra nas sinagogas e desejam ser cumprimentados publicamente com reverência nas praças, ouvindo as pessoas chamá-los de 'Mestres' ou 'Pai'.",
+      "referencias": [
+        "Lucas 14:7-8",
+        "Tiago 2:1-4"
+      ],
+      "comentario": "O amor pela glória humana (philoprotēdria). Jesus aponta para o desejo deles por status social e títulos honrosos. A busca por reconhecimento público demonstra que sua motivação não é servir a Deus, mas sim serem admirados pelos homens.",
+      "temas": [
+        "Amor à Glória",
+        "Posição Social",
+        "Reconhecimento"
+      ],
+      "personagens": [
+        "Escribas",
+        "Fariseus"
+      ]
     },
     "6": {
-      "parafrase": "'Amam os primeiros lugares nos banquetes e as primeiras cadeiras nas sinagogas,'",
-      "referencias": ["Lucas 11:43"],
-      "comentario": "Eles buscam honra e status em público, revelando seu orgulho e sua ambição.",
-      "temas": ["orgulho", "ambição", "status"],
-      "personagens": ["Jesus"]
+      "parafrase": "Mas, cuidado! Vocês não devem permitir que ninguém os chame de 'Pai' aqui na Terra, pois vocês têm apenas um Pai, Aquele que está nos céus. E não permitam que os chamem de 'Mestres', pois vocês têm apenas um Mestre, o Cristo.",
+      "referencias": [
+        "Isaías 63:16",
+        "1 Coríntios 1:13"
+      ],
+      "comentario": "Jesus estabelece uma hierarquia de títulos. O uso de 'Pai' (patēr) e 'Mestre' (didaskalos) era um sinal de autoridade absoluta sobre os discípulos. Jesus está ensinando a humildade radical; todo título de autoridade final pertence a Deus Pai e a Cristo, o Mestre definitivo.",
+      "temas": [
+        "Humildade",
+        "Autoridade Divina",
+        "Discípulado"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "7": {
-      "parafrase": "'e as saudações nas praças, e serem chamados de Rabi pelos homens.'",
-      "referencias": [],
-      "comentario": "Eles amam ser reconhecidos e honrados publicamente, buscando títulos que lhes deem prestígio.",
-      "temas": ["honra", "títulos", "prestígio"],
-      "personagens": ["Jesus"]
+      "parafrase": "Na verdade, o maior entre vocês deve ser aquele que serve a todos. Quem se engrandece será humilhado, e quem se humilha será elevado à verdadeira honra.",
+      "referencias": [
+        "Lucas 14:11",
+        "Tiago 4:6"
+      ],
+      "comentario": "Esta é uma inversão completa dos valores do mundo. O princípio da grandeza no Reino é medido pelo serviço ('diakonos'). A inversão é central: a humildade aqui é exaltação lá.",
+      "temas": [
+        "Inversão de Valores",
+        "Serviço",
+        "Exaltação"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "8": {
-      "parafrase": "'Mas vocês não devem ser chamados de Rabi, pois um só é o Mestre de vocês, e todos vocês são irmãos.'",
-      "referencias": [],
-      "comentario": "Jesus proíbe Seus discípulos de buscarem títulos de honra, pois há apenas um Mestre (Cristo) e todos são iguais como irmãos no Reino.",
-      "temas": ["humildade", "igualdade", "Mestre"],
-      "personagens": ["Jesus"]
+      "parafrase": "Agora, sobre as outras coisas: não se deixem chamar de 'Rabi'. Vocês só têm um Rabi, que é o Cristo.",
+      "referencias": [
+        "João 13:13",
+        "1 Tessalonicenses 5:21"
+      ],
+      "comentario": "Rabi (Rhabbī) significa 'Meu Grande' ou 'Mestre'. Jesus reforça a ideia de que a fidelidade doutrinária suprema deve ser dirigida unicamente a Ele. Não há co-igualdade na fonte da verdade.",
+      "temas": [
+        "Autoridade de Cristo",
+        "Fidelidade Doutrinária"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "9": {
-      "parafrase": "'E a ninguém na terra chamem de pai, pois um só é o Pai de vocês, aquele que está nos céus.'",
-      "referencias": [],
-      "comentario": "Jesus proíbe o uso de títulos que possam usurpar a autoridade e a paternidade de Deus. A lealdade suprema é para o Pai celestial.",
-      "temas": ["autoridade de Deus", "Pai celestial", "lealdade"],
-      "personagens": ["Jesus"]
+      "parafrase": "E não chamem ninguém nesta terra de 'Pai', pois vocês têm apenas um Pai Celestial.",
+      "referencias": [
+        "Gálatas 4:6",
+        "Efésios 1:17"
+      ],
+      "comentario": "Reiteração da exclusividade da filiação divina. Embora o termo 'Pai' possa ser usado em contextos familiares ou de mentoria, Jesus proíbe seu uso no contexto de autoridade espiritual final e incontestável.",
+      "temas": [
+        "Paternidade Divina",
+        "Exclusividade"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "10": {
-      "parafrase": "'Nem sejam chamados de guias, pois um só é o Guia de vocês, o Messias.'",
-      "referencias": [],
-      "comentario": "Jesus é o único Guia e Líder verdadeiro. Os discípulos devem seguir a Ele, não a homens.",
-      "temas": ["Guia", "Messias", "liderança"],
-      "personagens": ["Jesus"]
+      "parafrase": "Nem permitam que vos chamem de 'Guias' ou 'Líderes', pois vocês têm um só Guia e Líder: o Cristo.",
+      "referencias": [
+        "Atos 1:8",
+        "Colossenses 1:18"
+      ],
+      "comentario": "O termo 'guias' (kathēgētēs) reforça a proibição de títulos que impliquem o poder de dirigir a vida espiritual e moral de outros de forma absoluta. Cristo é o único Pastor e Guia (Salmo 23).",
+      "temas": [
+        "Liderança Serva",
+        "Direção Espiritual"
+      ],
+      "personagens": [
+        "Jesus",
+        "Cristo"
+      ]
     },
     "11": {
-      "parafrase": "'Mas o maior entre vocês será o servo de vocês.'",
-      "referencias": ["Mateus 20:26-27"],
-      "comentario": "Jesus reafirma o princípio do serviço e da humildade como a verdadeira grandeza no Reino. A liderança é para servir, não para dominar.",
-      "temas": ["serviço", "humildade", "grandeza"],
-      "personagens": ["Jesus"]
+      "parafrase": "O maior dentre vocês será aquele que serve verdadeiramente a todos os outros. Quem se exalta será diminuído diante de todos, mas quem escolhe a humildade será exaltado por Deus.",
+      "referencias": [
+        "Marcos 10:43-45",
+        "Filipenses 2:5-8"
+      ],
+      "comentario": "Repetição da máxima do versículo 7, reforçando que a métrica do Reino não é poder ou título, mas sim a disposição para servir (diakonia). Esta é a essência do discipulado autêntico.",
+      "temas": [
+        "Serviço",
+        "Humildade",
+        "Exaltação"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "12": {
-      "parafrase": "'Pois todo aquele que se exaltar será humilhado, e todo aquele que se humilhar será exaltado.'",
-      "referencias": ["Lucas 14:11"],
-      "comentario": "Um princípio fundamental do Reino: a humildade leva à exaltação, e o orgulho leva à humilhação. Deus resiste aos soberbos, mas dá graça aos humildes.",
-      "temas": ["humildade", "orgulho", "exaltação", "humilhação"],
-      "personagens": ["Jesus"]
+      "parafrase": "No entanto, a destruição virá sobre todos aqueles que se envaidecem! Eles serão derrubados do pedestal de sua auto-importância.",
+      "referencias": [
+        "Provérbios 29:23",
+        "Apocalipse 3:17"
+      ],
+      "comentario": "A frase 'será humilhado' (tapeinōthēsetai) é uma promessa de julgamento contra a soberba. A queda dos arrogantes é uma consequência certa no sistema de valores do Reino.",
+      "temas": [
+        "Julgamento",
+        "Arrogância",
+        "Consequências"
+      ],
+      "personagens": []
     },
     "13": {
-      "parafrase": "'Ai de vocês, escribas e fariseus, hipócritas! Pois vocês fecham o Reino dos céus diante dos homens. Nem vocês entram, nem deixam entrar os que estão tentando entrar.'",
-      "referencias": ["Lucas 11:52"],
-      "comentario": "Jesus pronuncia o primeiro de uma série de \"ais\" contra os fariseus. Eles impedem as pessoas de entrar no Reino dos Céus por seu legalismo e sua hipocrisia, que distorcem a verdade de Deus.",
-      "temas": ["ai", "hipocrisia", "legalismo", "Reino dos céus", "obstáculo"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ai de vocês, mestres da Lei e fariseus, hipócritas! 😠 Vocês são como sepulcros caiados, que por fora parecem bonitos, brancos e imaculados, mas por dentro estão cheios de ossos de mortos e de toda impureza!",
+      "referencias": [
+        "Atos 23:3",
+        "Ezequiel 24:6-7"
+      ],
+      "comentario": "O primeiro dos sete ais (ô). O sepulcro caiado (taphos geōsmenos) era uma prática para que os judeus não tocassem acidentalmente em um túmulo e se tornassem ritualmente impuros (Números 19:16). Jesus usa essa imagem vívida para descrever a fachada religiosa vazia e o interior contaminado pelo pecado.",
+      "temas": [
+        "Hipocrisia",
+        "Impuridade",
+        "Condenação"
+      ],
+      "personagens": [
+        "Escribas",
+        "Fariseus"
+      ]
     },
     "14": {
-      "parafrase": "'Ai de vocês, escribas e fariseus, hipócritas! Pois vocês devoram as casas das viúvas e, para disfarçar, fazem longas orações. Por isso, receberão condenação mais severa.'",
-      "referencias": ["Marcos 12:40"],
-      "comentario": "O segundo 'ai' denuncia a exploração dos vulneráveis. Eles usam a religião como um disfarce para sua ganância e opressão, o que resultará em um juízo mais severo.",
-      "temas": ["ai", "exploração", "hipocrisia", "condenação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ai de vocês, hipócritas, pois vocês fecham o Reino dos Céus na cara das pessoas! Vocês mesmos não entram, e nem deixam que os outros entrem, por causa de suas tradições e regras impossíveis de seguir!",
+      "referencias": [
+        "Lucas 11:52",
+        "João 9:22"
+      ],
+      "comentario": "Este versículo foi omitido em alguns manuscritos antigos, mas sua inclusão aqui é tradicional. O 'trancar' o Reino é alcançado por meio da má interpretação da Lei e pela rejeição da mensagem de Cristo, que é a chave para a entrada.",
+      "temas": [
+        "Bloqueio Espiritual",
+        "Salvação",
+        "Tradição"
+      ],
+      "personagens": [
+        "Escribas",
+        "Fariseus"
+      ]
     },
     "15": {
-      "parafrase": "'Ai de vocês, escribas e fariseus, hipócritas! Pois vocês viajam por mar e por terra para fazer um único convertido, e, depois de convertê-lo, o tornam duas vezes mais filho do inferno do que vocês mesmos.'",
-      "referencias": [],
-      "comentario": "O terceiro 'ai' denuncia o zelo missionário dos fariseus, que, em vez de levar as pessoas à verdadeira fé, as tornam ainda mais legalistas e hipócritas, levando-as à condenação.",
-      "temas": ["ai", "zelo missionário", "hipocrisia", "condenação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ai de vocês, farsantes religiosos! Vocês se esforçam muito para converter um gentio (não judeu) ao seu modo de seguir a Lei, mas quando o conseguem, fazem dele um alvo duplo, duas vezes mais merecedor do inferno do que vocês mesmos!",
+      "referencias": [
+        "Atos 15:10",
+        "Romanos 2:17-24"
+      ],
+      "comentario": "A conversão forçada (prosēlytos) baseada em regras humanas, e não na graça. O 'Geena' (Geenna, o vale de Hinom, símbolo do juízo final) é o destino. O convertido herda não a justiça, mas a hipocrisia dos mestres, tornando seu erro ainda mais grave por ter sido ensinado por um líder falso.",
+      "temas": [
+        "Prosélito",
+        "Conversão Falsa",
+        "Geena"
+      ],
+      "personagens": [
+        "Escribas",
+        "Fariseus"
+      ]
     },
     "16": {
-      "parafrase": "'Ai de vocês, guias cegos! Vocês dizem: Se alguém jurar pelo Templo, não significa nada; mas, se alguém jurar pelo ouro do Templo, está obrigado.'",
-      "referencias": [],
-      "comentario": "O quarto 'ai' denuncia a perversão dos valores. Eles valorizam o ouro (material) mais do que o Templo (sagrado), mostrando sua ganância e sua falta de reverência.",
-      "temas": ["ai", "guias cegos", "perversão de valores", "ganância"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ai de vocês, guias cegos! Que tolice a de vocês! Se alguém jurar pelo Templo, isso não importa; mas se jurar pelo ouro que está no Templo, então ele está obrigado pelo juramento!",
+      "referencias": [
+        "Levítico 19:12",
+        "Mateus 5:34-37"
+      ],
+      "comentario": "Aqui, Jesus expõe a sofisticação legalista. Eles criaram uma hierarquia de juramentos. Jurar pelo Templo (o lugar) era anulável; jurar pelo ouro (o objeto de valor material nele contido) era vinculante. Isso demonstra que valorizavam o objeto material mais do que o sagrado.",
+      "temas": [
+        "Juramento",
+        "Legalismo",
+        "Sofisma"
+      ],
+      "personagens": [
+        "Escribas",
+        "Fariseus"
+      ]
     },
     "17": {
-      "parafrase": "'Tolos e cegos! Pois o que é maior: o ouro ou o Templo que santifica o ouro?'",
-      "referencias": [],
-      "comentario": "Jesus expõe a tolice e a cegueira espiritual deles. O Templo é maior que o ouro, pois é o Templo que santifica o ouro, não o contrário.",
-      "temas": ["tolice", "cegueira espiritual", "santidade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ó tolos e cegos! O que é mais importante: o ouro, ou o Templo que santifica o ouro? Diga-me!",
+      "referencias": [
+        "1 Coríntios 3:16-17",
+        "Hebreus 9:11"
+      ],
+      "comentario": "Jesus os força a confrontar a lógica de seus próprios ensinamentos. O Templo é maior que o ouro porque é o lugar onde Deus habita (ou simboliza essa habitação); portanto, a santidade vem do sagrado, não do material.",
+      "temas": [
+        "Prioridades",
+        "Santidade",
+        "Lógica Teológica"
+      ],
+      "personagens": [
+        "Jesus",
+        "Escribas",
+        "Fariseus"
+      ]
     },
     "18": {
-      "parafrase": "'E vocês dizem: Se alguém jurar pelo altar, não significa nada; mas, se alguém jurar pela oferta que está sobre o altar, está obrigado.'",
-      "referencias": [],
-      "comentario": "A mesma perversão de valores é aplicada ao altar e à oferta. Eles valorizam a oferta (material) mais do que o altar (sagrado).",
-      "temas": ["perversão de valores", "ganância", "hipocrisia"],
-      "personagens": ["Jesus"]
+      "parafrase": "E se alguém jurar pelo altar, isso não tem peso; mas se jurar pela oferta que está sobre o altar, ele está preso pelo seu juramento!",
+      "referencias": [
+        "Levítico 1:3-4",
+        "Mateus 5:23"
+      ],
+      "comentario": "Seguindo a mesma linha de raciocínio, o altar é apenas um objeto; a oferta (sacrifício) é o que é dedicado a Deus. Eles davam mais peso ao objeto físico do juramento do que ao ato de invocar a Deus.",
+      "temas": [
+        "Juramento",
+        "Sacrifício",
+        "Legalismo"
+      ],
+      "personagens": [
+        "Escribas",
+        "Fariseus"
+      ]
     },
     "19": {
-      "parafrase": "'Cegos! Pois o que é maior: a oferta ou o altar que santifica a oferta?'",
-      "referencias": [],
-      "comentario": "Jesus expõe a tolice e a cegueira espiritual deles. O altar é maior que a oferta, pois é o altar que santifica a oferta.",
-      "temas": ["tolice", "cegueira espiritual", "santidade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ó cegos insensatos! O que é mais valioso: a oferta, ou o altar que torna a oferta santa? É o altar que tem a primazia!",
+      "referencias": [
+        "Salmos 26:6",
+        "Hebreus 13:10"
+      ],
+      "comentario": "Novamente, a primazia é dada ao meio pelo qual a santidade é estabelecida (o altar, que aponta para a presença de Deus), e não ao objeto sobre ele. A confusão de prioridades espirituais é evidente.",
+      "temas": [
+        "Primazia",
+        "Santificação",
+        "Cegueira Espiritual"
+      ],
+      "personagens": [
+        "Jesus",
+        "Escribas",
+        "Fariseus"
+      ]
     },
     "20": {
-      "parafrase": "'Portanto, quem jura pelo altar, jura por ele e por tudo o que está sobre ele.'",
-      "referencias": [],
-      "comentario": "Jesus explica que jurar por uma parte do Templo é jurar por todo o Templo, e por Deus que habita nele.",
-      "temas": ["juramento", "santidade", "conexão"],
-      "personagens": ["Jesus"]
+      "parafrase": "Quem jura pelo altar, na verdade, jura por ele e por tudo o que está sobre ele, pois o altar carrega a santidade de Deus.",
+      "referencias": [
+        "Jeremias 23:16",
+        "Salmos 115:1"
+      ],
+      "comentario": "Jesus conclui o argumento lógico: a santidade do objeto menor é derivada da santidade do objeto maior (o Templo ou o Altar). Eles não conseguem ver a fonte da autoridade.",
+      "temas": [
+        "Conexão Espiritual",
+        "Autoridade"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "21": {
-      "parafrase": "'E quem jura pelo Templo, jura por ele e por aquele que nele habita.'",
-      "referencias": [],
-      "comentario": "Jurar pelo Templo é jurar por Deus, que habita no Templo. A santidade do Templo vem da presença de Deus.",
-      "temas": ["juramento", "santidade", "presença de Deus"],
-      "personagens": ["Jesus"]
+      "parafrase": "E quem jura pelo Templo, na verdade, jura por Deus que reside ali e por Aquele que é o dono do Templo, o Céu!",
+      "referencias": [
+        "1 Reis 8:13",
+        "Isaías 66:1-2"
+      ],
+      "comentario": "O Templo era o símbolo da presença de Deus (Shekinah). Jurar pelo Templo era, em essência, jurar pelo próprio Deus, tornando o juramento inquebrável, independentemente de suas regras artificiais. A soberania de Deus sobre tudo é o ponto.",
+      "temas": [
+        "Soberania Divina",
+        "Presença de Deus"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "22": {
-      "parafrase": "'E quem jura pelo céu, jura pelo trono de Deus e por aquele que nele se assenta.'",
-      "referencias": [],
-      "comentario": "Jurar pelo céu é jurar pelo trono de Deus e pelo próprio Deus. A proibição de jurar é para promover a honestidade e a integridade em todas as palavras.",
-      "temas": ["juramento", "trono de Deus", "honestidade"],
-      "personagens": ["Jesus"]
+      "parafrase": "E aquele que jura pelo Céu, jura pelo trono de Deus, pois o Céu é o trono d'Ele, e a Terra é apenas o estrado dos Seus pés. Jurar por qualquer coisa celestial é jurar pelo próprio Criador!",
+      "referencias": [
+        "Isaías 66:1",
+        "Atos 7:49"
+      ],
+      "comentario": "Esta é a referência máxima. O Céu é identificado com o trono de Deus (o 'lugar' onde Ele governa). Ao tentar manipular juramentos usando objetos terrenos como intermediários, eles estavam, na prática, tentando manipular a autoridade divina, o que é blasfêmia velada.",
+      "temas": [
+        "Transcêndencia",
+        "Blasfêmia",
+        "Juramento Final"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "23": {
-      "parafrase": "'Ai de vocês, escribas e fariseus, hipócritas! Pois vocês dão o dízimo da hortelã, do endro e do cominho, mas negligenciam os preceitos mais importantes da Lei: a justiça, a misericórdia e a fidelidade. Vocês deveriam ter praticado estas coisas, sem negligenciar aquelas.'",
-      "referencias": ["Lucas 11:42"],
-      "comentario": "O quinto 'ai' denuncia o legalismo e a hipocrisia. Eles são meticulosos em coisas pequenas (dízimo de ervas), mas negligenciam os princípios mais importantes da Lei: justiça, misericórdia e fidelidade. A prioridade é invertida.",
-      "temas": ["ai", "legalismo", "hipocrisia", "justiça", "misericórdia", "fidelidade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ai de vocês, fariseus e doutores da Lei, hipócritas! Vocês dão o dízimo, o décimo de suas plantações de hortelã, endro e cominho — coisas pequenas —, mas negligenciam as coisas muito mais importantes da Lei: a justiça, a misericórdia e a fidelidade! Isso é o que deveriam praticar, sem deixar de lado o dízimo.",
+      "referencias": [
+        "Lucas 11:42",
+        "Miquéias 6:8"
+      ],
+      "comentario": "O terceiro 'Ai' ataca o formalismo financeiro. Eles eram rigorosos no dízimo de ervas minúsculas (como a hortelã), mas falhavam nos 'mais pesados' (barutera) aspectos da Lei: justiça (krisis), misericórdia (eleos) e fé/fidelidade (pistis). A prática devia ser 'e' (kai), não 'mas' (alla).",
+      "temas": [
+        "Dízimo",
+        "Justiça",
+        "Misericórdia"
+      ],
+      "personagens": [
+        "Escribas",
+        "Fariseus"
+      ]
     },
     "24": {
-      "parafrase": "'Guias cegos! Vocês coam um mosquito, mas engolem um camelo!'",
-      "referencias": [],
-      "comentario": "Uma hipérbole que ilustra a tolice e a hipocrisia deles. Eles são meticulosos em coisas insignificantes, mas ignoram coisas enormes. Eles se preocupam com a impureza ritual, mas ignoram a impureza moral.",
-      "temas": ["hipérbole", "tolice", "hipocrisia", "cegueira espiritual"],
-      "personagens": ["Jesus"]
+      "parafrase": "Vocês são como guias cegos que se esforçam para filtrar um mosquito minúsculo, mas acabam engolindo um camelo inteiro! 🤢 Que absurdo!",
+      "referencias": [
+        "Atos 15:5",
+        "Filipenses 3:6"
+      ],
+      "comentario": "A imagem final da cegueira: o esforço minucioso para evitar impurezas rituais minúsculas (o mosquito, 'knops') contrasta com a aceitação voluntária de pecados capitais (o camelo, 'kamelos') — a maior impureza concebível para um judeu. É a imagem máxima do foco no trivial e do desprezo pelo essencial.",
+      "temas": [
+        "Prioridades Invertidas",
+        "Cegueira Espiritual",
+        "Juízo"
+      ],
+      "personagens": [
+        "Escribas",
+        "Fariseus"
+      ]
     },
     "25": {
-      "parafrase": "'Ai de vocês, escribas e fariseus, hipócritas! Pois vocês limpam o exterior do copo e do prato, mas por dentro estão cheios de rapina e intemperança.'",
-      "referencias": ["Lucas 11:39"],
-      "comentario": "O sexto 'ai' denuncia a preocupação com a aparência externa em detrimento da pureza interna. Eles são limpos por fora, mas cheios de ganância e falta de autocontrole por dentro.",
-      "temas": ["ai", "hipocrisia", "aparência vs. realidade", "ganância"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ai de vocês, líderes religiosos hipócritas! Vocês se dedicam a limpar e polir a taça e o prato por fora, garantindo que pareçam impecáveis para todos verem. Mas, olhem para dentro deles! Por fora estão lustrosos, mas por dentro estão cheios de ganância, excesso e sujeira!",
+      "referencias": [
+        "Lucas 11:39",
+        "2 Timóteo 3:5"
+      ],
+      "comentario": "O quarto 'Ai'. A analogia da taça e do prato (pinax e krētēr) é direta. O 'krētēr' era a vasilha usada para misturar vinho e água nos banquetes. A limpeza externa (rituais) mascara a sujeira interna (motivações malignas: 'akrasia' – intemperança/ganância e 'apēkrasia' – descontrole).",
+      "temas": [
+        "Limpeza Externa",
+        "Ganância",
+        "Impureza Interna"
+      ],
+      "personagens": [
+        "Escribas",
+        "Fariseus"
+      ]
     },
     "26": {
-      "parafrase": "'Fariseu cego! Primeiro limpe o interior do copo e do prato, para que o exterior também se torne limpo.'",
-      "referencias": [],
-      "comentario": "Jesus ensina que a verdadeira pureza começa no interior. A transformação do coração é essencial para que as ações externas sejam verdadeiramente limpas.",
-      "temas": ["pureza interna", "transformação do coração", "prioridade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ai de vocês, mestres da lei e fariseus, hipócritas! Vocês são como sepulcros caiados, que por fora parecem belos e bem cuidados, mas por dentro estão cheios de ossos de gente morta e de toda a imundície da morte. 👻 Eles são um verniz de pureza sobre a podridão da alma!",
+      "referencias": [
+        "Ezequiel 23:37",
+        "Atos 23:3"
+      ],
+      "comentario": "Jesus usa a imagem do 'sepulcro caiado' (do grego 'kōnizein' - branquear com cal). Na lei judaica (Números 19:16), tocar em um túmulo tornava a pessoa impura. Branquear o túmulo era um ato público de manutenção para avisar os viajantes, mas Jesus revela que essa preocupação externa esconde a impureza interna (pecado não confessado). É a crítica à aparência religiosa vazia.",
+      "temas": [
+        "Hipocrisia",
+        "Julgamento",
+        "Pureza Externa vs. Interna"
+      ],
+      "personagens": [
+        "Jesus",
+        "Fariseus",
+        "Mestres da Lei"
+      ]
     },
     "27": {
-      "parafrase": "'Ai de vocês, escribas e fariseus, hipócritas! Pois vocês são como sepulcros caiados, que por fora parecem bonitos, mas por dentro estão cheios de ossos de mortos e de toda impureza.'",
-      "referencias": ["Lucas 11:44"],
-      "comentario": "O sétimo 'ai' denuncia a hipocrisia e a corrupção interna. Eles parecem justos por fora, mas por dentro estão cheios de morte e impureza. Sua religião é uma fachada.",
-      "temas": ["ai", "hipocrisia", "corrupção interna", "aparência vs. realidade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ai de vocês de novo! Vocês são como tumbas recém-construídas, que ninguém nota que são túmulos, mas quando alguém passa por cima delas, acaba tocando e ficando impuro sem saber! Assim são vocês: parecem pessoas justas, mas quem se aproxima de vocês acaba contaminado pela vossa falsidade e pelos vossos maus caminhos. 💀",
+      "referencias": [
+        "Salmos 5:9",
+        "Romanos 3:13"
+      ],
+      "comentario": "A metáfora se aprofunda: os sepulcros não só estão cheios de morte, mas são 'invisíveis' ou 'escondidos' (em algumas interpretações). Isso sublinha a natureza insidiosa da hipocrisia; ela não é óbvia, mas sua influência é contaminante. O contato involuntário com o pecado (ou com os pecadores que fingem ser santos) gera impureza ritual, que Jesus equipara à impureza espiritual.",
+      "temas": [
+        "Contaminação Espiritual",
+        "Aparência Enganosa",
+        "Julgamento"
+      ],
+      "personagens": [
+        "Jesus",
+        "Fariseus"
+      ]
     },
     "28": {
-      "parafrase": "'Assim também vocês, por fora, parecem justos aos homens, mas por dentro estão cheios de hipocrisia e iniquidade.'",
-      "referencias": [],
-      "comentario": "A aparência externa de justiça esconde uma realidade interna de hipocrisia e pecado. A verdadeira natureza deles é revelada por Jesus.",
-      "temas": ["hipocrisia", "iniquidade", "aparência vs. realidade"],
-      "personagens": ["Jesus"]
+      "parafrase": "E novamente lhes digo: vocês se esforçam tanto para parecerem retos por fora! É como se construíssem um belo monumento para si mesmos, mas por dentro, no íntimo do coração, vocês estão repletos de segredos obscuros, de pecados escondidos e de uma sede insaciável de fazer o mal. Nada de bom reside em vocês. 🎭",
+      "referencias": [
+        "Jeremias 17:9",
+        "Lucas 11:39"
+      ],
+      "comentario": "Aqui, Jesus destaca o esforço ativo na dissimulação. A palavra grega para 'justos' (dikaios) indica uma justiça legalista ou auto-atribuída. O contraste é brutal: a beleza externa não reflete a realidade interna, que é 'escrever' (ou estar cheio) de 'graça' (hibris/iniquidade, dependendo do manuscrito, mas a essência é a maldade/injustiça).",
+      "temas": [
+        "Legalismo",
+        "Iniquidade Oculta",
+        "Autossuficiência"
+      ],
+      "personagens": [
+        "Jesus",
+        "Fariseus"
+      ]
     },
     "29": {
-      "parafrase": "'Ai de vocês, escribas e fariseus, hipócritas! Pois vocês edificam os túmulos dos profetas e adornam os monumentos dos justos,'",
-      "referencias": ["Lucas 11:47-48"],
-      "comentario": "O oitavo 'ai' denuncia a hipocrisia deles em honrar os profetas mortos enquanto perseguem e rejeitam o próprio Messias. Eles se identificam com os que mataram os profetas.",
-      "temas": ["ai", "hipocrisia", "perseguição", "rejeição do Messias"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ai, ai, ai de vocês! Vocês são como zelosos guardiões de túmulos antigos, homenageando os profetas que morreram há séculos! Vocês erguem memoriais grandiosos e decoram os monumentos daqueles que Deus enviou, dizendo: 'Se tivéssemos vivido na época deles, certamente não teríamos participado da morte deles!'. 🏛️",
+      "referencias": [
+        "Hebreus 11:32-38",
+        "2 Crônicas 36:15-16"
+      ],
+      "comentario": "O foco muda para a veneração seletiva do passado. Eles honram os profetas mortos, atos de piedade seguros, pois esses profetas não os desafiam mais. Esta honra é superficial, pois se recusam a ouvir a Palavra viva que Deus envia através de Jesus.",
+      "temas": [
+        "Veneração Seletiva",
+        "Memória Histórica",
+        "Rejeição Profética"
+      ],
+      "personagens": [
+        "Jesus",
+        "Fariseus",
+        "Profetas"
+      ]
     },
     "30": {
-      "parafrase": "'e dizem: Se tivéssemos vivido nos dias de nossos pais, não teríamos participado com eles no derramamento do sangue dos profetas.'",
-      "referencias": [],
-      "comentario": "Eles afirmam que não teriam participado da perseguição aos profetas, mas suas ações atuais provam o contrário.",
-      "temas": ["hipocrisia", "negação", "perseguição"],
-      "personagens": ["Jesus"]
+      "parafrase": "Mas, ao dizerem isso, estão confirmando com suas próprias bocas que são descendentes diretos daqueles que perseguiram e mataram os profetas de Deus! Vocês são a continuação daquela mesma rebelião antiga. A história se repetirá através de vocês. 🧬",
+      "referencias": [
+        "Atos 7:51-53",
+        "Gênesis 4:8"
+      ],
+      "comentario": "O paradoxo é exposto: eles se isentam da culpa ancestral, mas suas ações (rejeitar o Messias) os ligam diretamente aos assassinos dos profetas. A 'sentença' está implícita: se honram os assassinos em princípio, são cúmplices em espírito.",
+      "temas": [
+        "Continuidade da Rebelião",
+        "Auto-condenação",
+        "Responsabilidade Geracional"
+      ],
+      "personagens": [
+        "Jesus",
+        "Fariseus"
+      ]
     },
     "31": {
-      "parafrase": "'Assim, vocês testificam contra si mesmos que são filhos daqueles que mataram os profetas.'",
-      "referencias": [],
-      "comentario": "Suas próprias palavras e ações os condenam, revelando sua verdadeira identidade como herdeiros da tradição de perseguir os mensageiros de Deus.",
-      "temas": ["condenação", "identidade", "perseguição"],
-      "personagens": ["Jesus"]
+      "parafrase": "Portanto, sejam claros: vocês estão preenchendo a medida da maldade de seus pais. Vocês assumem a coroa de seus antepassados na arte de rejeitar a verdade de Deus. 👑",
+      "referencias": [
+        "1 Tessalonicenses 2:15",
+        "Apocalipse 18:6"
+      ],
+      "comentario": "A 'medida' (grego: 'plēroute') refere-se a completar um ciclo ou atingir um limite. Eles não apenas repetem os pecados, mas os levam ao clímax, completando o padrão de incredulidade estabelecido desde o início da aliança de Israel com Deus.",
+      "temas": [
+        "Plenitude do Pecado",
+        "Culpa Cumulativa",
+        "Hereditariedade Espiritual"
+      ],
+      "personagens": [
+        "Jesus",
+        "Fariseus"
+      ]
     },
     "32": {
-      "parafrase": "'Encham, pois, a medida dos seus pais!'",
-      "referencias": [],
-      "comentario": "Jesus os desafia a completar a medida da iniquidade de seus pais, indicando que o juízo final está próximo.",
-      "temas": ["juízo", "iniquidade", "cumprimento"],
-      "personagens": ["Jesus"]
+      "parafrase": "E o pior é que vocês não param por aí! Vocês não apenas honram os profetas mortos, mas planejam dar seguimento à obra deles! Vocês estão determinados a silenciar o maior profeta de todos – Aquele que Deus enviou agora. 🗡️",
+      "referencias": [
+        "Lucas 19:44",
+        "1 Reis 18:4"
+      ],
+      "comentario": "Aqui, a ameaça se torna imediata. Eles não estão apenas sendo passivos; estão agindo para 'completar' a matança de profetas. O uso do futuro ('concluireis') demonstra que Jesus conhece as tramas que tramavam contra Ele.",
+      "temas": [
+        "Perseguição Ativa",
+        "Rejeição do Messias",
+        "Planejamento do Mal"
+      ],
+      "personagens": [
+        "Jesus",
+        "Fariseus"
+      ]
     },
     "33": {
-      "parafrase": "'Serpentes! Raça de víboras! Como escaparão da condenação do inferno?'",
-      "referencias": ["Mateus 3:7"],
-      "comentario": "Jesus usa uma linguagem forte para denunciar a natureza maligna e venenosa dos fariseus, e os adverte sobre a inevitabilidade da condenação eterna.",
-      "temas": ["condenação", "inferno", "natureza maligna"],
-      "personagens": ["Jesus"]
+      "parafrase": "Seus falsos guias! Vocês são como cobras, uma ninhada de víboras repugnantes! Como vocês pensam que escaparão do juízo eterno do inferno, daquele fogo que não se apaga? 🐍🔥",
+      "referencias": [
+        "Isaías 59:5",
+        "Tiago 3:6"
+      ],
+      "comentario": "A imagem da 'cobras' (serpentes/víboras, grego: 'echidnai') é o insulto mais severo que Jesus usa contra eles, ecoando a condenação da serpente no Éden. É um ataque direto ao caráter, não apenas às ações, indicando uma natureza inerentemente venenosa e destinada à destruição final (Geena/Hades).",
+      "temas": [
+        "Condenação",
+        "Julgamento Final",
+        "Natureza Maligna"
+      ],
+      "personagens": [
+        "Jesus",
+        "Fariseus"
+      ]
     },
     "34": {
-      "parafrase": "'Por isso, eis que eu lhes envio profetas, sábios e escribas. Alguns deles vocês matarão e crucificarão; a outros açoitarão nas suas sinagogas e perseguirão de cidade em cidade,'",
-      "referencias": [],
-      "comentario": "Jesus prediz a perseguição que Seus próprios mensageiros (profetas, sábios, escribas) sofrerão nas mãos dos líderes religiosos. A perseguição é uma prova de sua rejeição contínua.",
-      "temas": ["perseguição", "profetas", "sofrimento"],
-      "personagens": ["Jesus"]
+      "parafrase": "É por isso que eu continuo enviando a vocês Mensageiros de Deus: profetas, sábios e escribas treinados. Alguns vocês matarão e crucificarão, e outros, vocês açoitarão nas sinagogas, perseguindo-os de cidade em cidade, tentando aniquilar a verdade de Deus. 🕊️",
+      "referencias": [
+        "Atos 7:59",
+        "Hebreus 12:1"
+      ],
+      "comentario": "Jesus se posiciona como o remetente contínuo da revelação divina. A lista de vítimas (profetas, sábios, escribas) representa diferentes níveis de autoridade na transmissão da Palavra. A perseguição física (açoites, crucificações) mostra a violência que estava sendo desencadeada contra os seguidores de Cristo.",
+      "temas": [
+        "Missão Divina",
+        "Perseguição aos Discípulos",
+        "Revelação Progressiva"
+      ],
+      "personagens": [
+        "Jesus",
+        "Profetas",
+        "Sábios",
+        "Escribas"
+      ]
     },
     "35": {
-      "parafrase": "'para que sobre vocês caia todo o sangue justo derramado na terra, desde o sangue do justo Abel até o sangue de Zacarias, filho de Baraquias, a quem vocês mataram entre o santuário e o altar.'",
-      "referencias": ["Gênesis 4:8", "2 Crônicas 24:20-22"],
-      "comentario": "Jesus declara que a culpa por todo o sangue justo derramado na história recairá sobre aquela geração, pois eles completarão a medida da iniquidade de seus pais ao rejeitarem e matarem o Messias e Seus mensageiros.",
-      "temas": ["culpa", "sangue justo", "juízo", "retribuição"],
-      "personagens": ["Jesus"]
+      "parafrase": "Assim, cairá sobre vocês toda a responsabilidade pelo sangue justo que foi derramado nesta terra, desde o primeiro mártir, Abel, o filho do homem, até o último que vocês ferirem, Zacarias, filho de Baraquias, a quem mataram entre o altar e o templo sagrado. O sangue clama por justiça! 🩸",
+      "referencias": [
+        "Gênesis 4:8",
+        "Hebreus 12:24"
+      ],
+      "comentario": "Este é um ponto crucial de referência intertestamentária. Abel é o primeiro mártir registrado. Zacarias, filho de Baraquias, é geralmente identificado com Zacarias, filho de Jeoiada (2 Crônicas 24:20-22), embora a menção a 'Baraquias' (pai de Zacarias, o profeta) possa ser uma tradição rabínica ou uma referência a um mártir mais recente desconhecido para nós, simbolizando o último mártir antes da era de Cristo. O ponto é: a conta de sangue injusto acumulada de toda a história de Israel recairá sobre essa geração.",
+      "temas": [
+        "Acúmulo de Culpa",
+        "Martírio",
+        "Justiça Retributiva"
+      ],
+      "personagens": [
+        "Abel",
+        "Zacarias",
+        "Baraquias"
+      ]
     },
     "36": {
-      "parafrase": "'Em verdade lhes digo que tudo isso virá sobre esta geração.'",
-      "referencias": [],
-      "comentario": "O juízo virá sobre a geração que rejeitou o Messias e Seus mensageiros. Isso se cumpriu na destruição de Jerusalém em 70 d.C.",
-      "temas": ["juízo", "geração", "cumprimento da profecia"],
-      "personagens": ["Jesus"]
+      "parafrase": "Eu lhes asseguro: tudo isso acontecerá muito em breve, durante a vida das pessoas que estão aqui ouvindo minha voz hoje. A punição virá sobre esta geração incrédula. ⌛",
+      "referencias": [
+        "Daniel 9:26",
+        "2 Pedro 3:8"
+      ],
+      "comentario": "Jesus garante a iminência do juízo. A palavra 'esta geração' (genea) refere-se àquela geração presente, apontando profeticamente para a destruição de Jerusalém e do Templo em 70 d.C., que foi o juízo culminante contra a nação que rejeitou seu Messias.",
+      "temas": [
+        "Iminência do Juízo",
+        "Profecia Cumprida",
+        "Fim da Antiga Aliança"
+      ],
+      "personagens": [
+        "Jesus",
+        "Ouvintes"
+      ]
     },
     "37": {
-      "parafrase": "'Ó Jerusalém, Jerusalém, que mata os profetas e apedreja os que lhe são enviados! Quantas vezes quis eu ajuntar os seus filhos, como a galinha ajunta os seus pintinhos debaixo das suas asas, e vocês não quiseram!'",
-      "referencias": ["Lucas 13:34"],
-      "comentario": "Jesus lamenta a rejeição de Jerusalém. Ele expressa Seu amor e Seu desejo de protegê-los, mas eles se recusaram a aceitar Sua proteção. O lamento é cheio de dor e compaixão.",
-      "temas": ["lamento de Jesus", "rejeição de Jerusalém", "amor divino", "proteção"],
-      "personagens": ["Jesus"]
+      "parafrase": "Oh, Jerusalém, Jerusalém! Cidade amada, onde os profetas de Deus foram enviados e apedrejados! Quantas vezes eu quis abraçar seus filhos sob minhas asas protetoras, como uma galinha protege seus pintinhos do perigo, mas vocês não quiseram! 💔",
+      "referencias": [
+        "Salmos 91:4",
+        "Lamentações 2:22"
+      ],
+      "comentario": "Este é um lamento pessoal e profundo ('Oue' ou 'Ai' em grego). A imagem da ave (galinha/cabra, dependendo da tradição grega) é de ternura e proteção extrema. Jesus personifica a compaixão de Deus, contrastando-a com a teimosia humana. É um grito de dor pelo povo que Ele ama, mas que persistentemente se recusa a aceitar o refúgio oferecido.",
+      "temas": [
+        "Lamento Divino",
+        "Proteção",
+        "Rejeição de Deus"
+      ],
+      "personagens": [
+        "Jesus",
+        "Jerusalém"
+      ]
     },
     "38": {
-      "parafrase": "'Eis que a casa de vocês lhes é deixada deserta.'",
-      "referencias": ["Jeremias 12:7"],
-      "comentario": "A casa de Jerusalém (o Templo) será abandonada por Deus e ficará deserta, um sinal do juízo que virá sobre a cidade.",
-      "temas": ["abandono", "desolação", "juízo"],
-      "personagens": ["Jesus"]
+      "parafrase": "Olhem bem! A casa de vocês – o Templo, o centro de vossa fé e adoração – está agora vazia e desolada, abandonada por Deus. Eu lhes digo que, a partir deste momento, não verão mais a manifestação da presença divina ali, até que vocês se voltem e digam: 'Bendito Aquele que vem em nome do Senhor!' 🙏",
+      "referencias": [
+        "Malaquias 3:1",
+        "Salmos 118:26"
+      ],
+      "comentario": "A 'casa' (o Templo) é 'deixada para vocês deserta'. O Shekinah (glória de Deus) havia se retirado. A profecia do versículo 39 é crucial: a aceitação final de Jesus como o Messias, quando Ele retornar em glória (não em sua primeira vinda), é a única condição para a restauração de sua relação com Deus.",
+      "temas": [
+        "Desolação do Templo",
+        "Manifestação da Glória",
+        "Condição para a Restauração"
+      ],
+      "personagens": [
+        "Jesus",
+        "Jerusalém"
+      ]
     },
     "39": {
-      "parafrase": "'Pois eu lhes digo que, de agora em diante, vocês não me verão, até que digam: Bendito o que vem em nome do Senhor!'",
-      "referencias": ["Salmos 118:26"],
-      "comentario": "Jesus prediz que Ele não será mais visto por eles até que O reconheçam e O aclamem como o Messias. Isso aponta para Sua segunda vinda, quando Israel O reconhecerá e O receberá.",
-      "temas": ["segunda vinda", "reconhecimento do Messias", "aclamação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Pois eu lhes digo a verdade: a partir de agora, vocês não verão mais a Minha presença salvadora aqui, nem a manifestação do Pai, até o dia em que todos verão o Filho do Homem retornar triunfante, envolto em glória, cumprindo o que foi prometido! Vocês O reconhecerão, mas será tarde demais para o julgamento presente. ✨",
+      "referencias": [
+        "Apocalipse 1:7",
+        "Zacarias 12:10"
+      ],
+      "comentario": "O clímax da profecia: a referência é à Segunda Vinda (A vinda em 'glória' e poder). O título 'Filho do Homem' (grego: 'huios tou anthropou') é um título messiânico de Daniel 7:13. O reconhecimento final será inescapável, mas servirá para validar o julgamento já pronunciado sobre aquela geração por ter rejeitado o Messias em Sua primeira vinda, humilde e sofredora.",
+      "temas": [
+        "Segunda Vinda",
+        "Juízo Final",
+        "Identidade Messianica"
+      ],
+      "personagens": [
+        "Jesus (Filho do Homem)"
+      ]
     }
   }
 }

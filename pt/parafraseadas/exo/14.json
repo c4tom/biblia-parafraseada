@@ -1,213 +1,471 @@
 {
   "livro": "Êxodo",
   "capitulo": 14,
-  "contexto_historico": "Este capítulo de Êxodo narra a perseguição de Israel pelo Faraó e seu exército, e o milagroso livramento de Deus através da abertura do Mar Vermelho. Após a saída de Israel do Egito, Deus instrui Moisés a levá-los a um local onde o Faraó pensaria que eles estavam encurralados. O Faraó, arrependido de tê-los deixado ir, persegue-os com seu exército. Deus, então, abre o Mar Vermelho, permitindo que Israel passe em terra seca, e fecha as águas sobre o exército egípcio, destruindo-o completamente. O capítulo enfatiza o poder soberano de Deus em livrar Seu povo, Sua capacidade de usar a natureza para Seus propósitos e a humilhação final do Faraó e do Egito.",
-  "bloco_tematico": "A Travessia do Mar Vermelho e a Destruição do Exército Egípcio",
+  "contexto_historico": "Após a libertação milagrosa do Egito (Êxodo 1-12) e a travessia do Mar Vermelho (Êxodo 13-14), o povo de Israel, recém-saído da escravidão, encontra-se em um deserto hostil (o Deserto de Suc). O foco agora se desloca da ação divina de resgate para a fase de provisão e estabelecimento da relação de aliança com Deus. A fé do povo é testada imediatamente pela escassez de recursos básicos: água e comida. Este capítulo marca a primeira grande intervenção de Deus no deserto para sustentar a nação, reforçando Sua soberania e Seu papel como Provedor e Redentor.",
+  "bloco_tematico": "O Pão do Céu e a Rocha da Água: Provisão Divina no Deserto 💧🍞",
   "versiculos": {
     "1": {
-      "parafrase": "E o Senhor falou a Moisés, dizendo:",
-      "referencias": [],
-      "comentario": "O capítulo começa com a comunicação direta de Deus a Moisés, estabelecendo a autoridade divina para as instruções que se seguirão.",
-      "temas": ["Palavra de Deus", "revelação", "autoridade divina"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "Então o Senhor falou diretamente a Moisés, com uma voz que ressoava com autoridade divina, e instruiu-o sobre como proceder. Ele disse: 'Comunique à nação israelita uma ordem clara e urgente: que cada homem, mulher e criança se volte imediatamente para um local específico, um lugar onde a presença protetora de Deus será evidente, para que possam receber livramento da calamidade que se aproxima.'",
+      "referencias": [
+        "Gênesis 12:1",
+        "Isaías 26:20"
+      ],
+      "comentario": "O Senhor inicia o planejamento da libertação, enfatizando a necessidade de obediência imediata e foco ('voltai-vos'). A ideia de se voltar para um lugar específico sugere um ponto de encontro ou um foco na direção de Deus, preparando o povo para o evento central do Êxodo. O termo hebraico para 'voltai-vos' (נִסְעוּ - nis'u) implica partir ou levantar acampamento, indicando movimento.",
+      "temas": [
+        "Comando Divino",
+        "Obediência",
+        "Foco"
+      ],
+      "personagens": [
+        "Deus",
+        "Moisés"
+      ]
     },
     "2": {
-      "parafrase": "'Fale aos filhos de Israel para que eles se voltem e acampem diante de Pi-Hairote, entre Migdol e o mar, diante de Baal-Zefom; diante dele vocês acamparão junto ao mar.'",
-      "referencias": [],
-      "comentario": "Deus instrui Israel a acampar em um local específico, que pareceria uma armadilha para o Faraó. Isso faz parte do plano divino para atrair o Faraó e demonstrar o poder de Deus.",
-      "temas": ["acampamento", "plano divino", "armadilha", "poder de Deus"],
-      "personagens": []
+      "parafrase": "Diga a eles o seguinte: 'Este é o plano para a Páscoa, o evento central da nossa libertação. No décimo dia deste mês, cada chefe de família deve separar um cordeiro, um animal jovem, sem qualquer defeito físico, que servirá de sacrifício para todos os membros da sua casa.'",
+      "referencias": [
+        "Levítico 12:5",
+        "Números 28:3"
+      ],
+      "comentario": "O verso introduz a instituição da festa da Páscoa (Pessach). A escolha de um cordeiro 'sem defeito' (תָּמִים - tamim) é crucial, simbolizando a perfeição necessária para a substituição sacrificial. O animal deveria ser separado no décimo dia, permitindo um período de observação até o abate.",
+      "temas": [
+        "Instituição da Páscoa",
+        "Sacrifício Substitutivo",
+        "Perfeição"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "3": {
-      "parafrase": "'Pois o Faraó dirá dos filhos de Israel: 'Eles estão encurralados na terra, o deserto os fechou.''",
-      "referencias": [],
-      "comentario": "Deus prevê a reação do Faraó, que pensará que Israel está encurralado e sem saída. A percepção do Faraó é parte do plano divino para sua destruição.",
-      "temas": ["Faraó", "percepção", "encurralado", "plano divino"],
-      "personagens": ["Faraó"]
+      "parafrase": "Se a família for pequena demais para consumir um cordeiro inteiro, o chefe da casa deverá convidar seu vizinho mais próximo para compartilhar a refeição sacrificial. É vital que ambos estejam de acordo com a divisão do animal, garantindo que não haja desperdício, pois cada um deverá comer a sua parte designada.",
+      "referencias": [
+        "João 1:29",
+        "Atos 2:42"
+      ],
+      "comentario": "Este versículo estabelece a regra de comunhão. O sacrifício deveria ser totalmente consumido. Se a família fosse pequena, o vizinho era convidado, prevenindo o desperdício, o que era um princípio ético rigoroso na lei mosaica. Isso prenuncia a comunhão e o compartilhamento da graça.",
+      "temas": [
+        "Comunhão",
+        "Compartilhamento",
+        "Administração"
+      ],
+      "personagens": [
+        "Chefe de Família"
+      ]
     },
     "4": {
-      "parafrase": "'E eu endurecerei o coração do Faraó, e ele os perseguirá; e eu serei honrado sobre o Faraó e sobre todo o seu exército, para que os egípcios saibam que eu sou o Senhor.' E eles fizeram assim.",
-      "referencias": [],
-      "comentario": "Deus endurecerá o coração do Faraó para que ele persiga Israel, e Deus será honrado através da destruição do Faraó e de seu exército. O propósito é que os egípcios reconheçam a soberania de Deus.",
-      "temas": ["coração endurecido", "perseguição", "honra divina", "conhecimento de Deus", "soberania divina"],
-      "personagens": ["Deus", "Faraó"]
+      "parafrase": "Ao selecionar o animal, certifiquem-se de que ele seja um cordeiro ou um cabrito, e ele deve ser mantido sob observação cuidadosa, separado do rebanho comum, até o décimo quarto dia deste mesmo mês, quando ele será abatido ao cair da tarde, no momento exato da transição para a noite.",
+      "referencias": [
+        "Levítico 23:5",
+        "Marcos 14:12"
+      ],
+      "comentario": "Especifica o tempo exato do abate: o décimo quarto dia, no crepúsculo (entre as duas tardes). A observação contínua do animal destacava sua pureza e a seriedade do ato sacrificial que estava por vir.",
+      "temas": [
+        "Tempo Litúrgico",
+        "Observação",
+        "Abate"
+      ],
+      "personagens": []
     },
     "5": {
-      "parafrase": "E foi dito ao rei do Egito que o povo havia fugido; e o coração do Faraó e de seus servos se voltou contra o povo, e eles disseram: 'Por que fizemos isso, que deixamos Israel ir de nos servir?'",
-      "referencias": [],
-      "comentario": "O Faraó e seus servos se arrependem de ter deixado Israel ir, percebendo a perda de sua força de trabalho. Sua mudança de coração é para a perseguição.",
-      "temas": ["Faraó", "arrependimento", "perda de força de trabalho", "perseguição"],
-      "personagens": ["Faraó"]
+      "parafrase": "O cordeiro escolhido, seja ele um animal de um ano ou um cabrito, deve ser completamente imaculado em sua constituição física. Depois de separado, ele será sacrificado no final da tarde, no momento exato em que o sol se põe.",
+      "referencias": [
+        "1 Pedro 1:19",
+        "Hebreus 9:14"
+      ],
+      "comentario": "Reitera a necessidade de um animal jovem (de um ano) e sem mancha, reforçando a qualidade do sacrifício. O momento do abate, ao cair da tarde, era preciso, marcando o início do dia seguinte no calendário bíblico (ou a transição para a escuridão, dependendo da interpretação).",
+      "temas": [
+        "Imaculado",
+        "Sacrifício",
+        "Precisão Temporal"
+      ],
+      "personagens": []
     },
     "6": {
-      "parafrase": "Então ele preparou o seu carro e pegou o seu povo com ele;\n    "7": {
-      "parafrase": "e ele pegou seiscentos carros escolhidos, e todos os carros do Egito, e capitães sobre todos eles.",
-      "references": [],
-      "comentario": "O Faraó prepara seu exército, incluindo seiscentos carros escolhidos, para perseguir Israel. A força militar egípcia é imponente e determinada.",
-      "temas": ["Faraó", "exército", "carros", "perseguição", "força militar"],
-      "personagens": ["Faraó"]
+      "parafrase": "A congregação inteira de Israel, conforme a instrução, deve abater o animal designado. Isso deve ser feito no décimo quarto dia, no momento exato em que a luz do dia se esvai, como o sinal para a celebração que está por vir.",
+      "referencias": [
+        "Mateus 27:46",
+        "2 Coríntios 5:21"
+      ],
+      "comentario": "A ação de abater o animal era coletiva ou realizada em nome da congregação, um ato ritualístico realizado em massa. A frase 'ao cair da tarde' (entre as duas tardes) é repetida, sublinhando a pontualidade do ritual.",
+      "temas": [
+        "Ritual Coletivo",
+        "Ação Simbólica"
+      ],
+      "personagens": [
+        "Congregação de Israel"
+      ]
+    },
+    "7": {
+      "parafrase": "Após o abate, uma parte do sangue do cordeiro deve ser recolhida com cuidado. Os israelitas deverão então molhar um feixe de hissopo, uma pequena planta usada para aspersão, nesse sangue e aplicar generosamente em ambas as laterais dos umbrais superiores das portas de suas casas.",
+      "referencias": [
+        "Hebreus 9:22",
+        "Apocalipse 7:3"
+      ],
+      "comentario": "O uso do sangue no umbral da porta é o ponto central da proteção. O hissopo (ezov) era um purificador comum usado em rituais de purificação (como no caso da purificação da lepra). O sangue aplicado marca a casa como pertencente ao povo que está sob a aliança de proteção.",
+      "temas": [
+        "Sangue Protetor",
+        "Sinalização Divina",
+        "Purificação"
+      ],
+      "personagens": []
     },
     "8": {
-      "parafrase": "E o Senhor endureceu o coração do Faraó, rei do Egito, e ele perseguiu os filhos de Israel; e os filhos de Israel saíram com mão forte.",
-      "references": [],
-      "comentario": "Deus endurece o coração do Faraó, e ele persegue Israel, que saiu com mão forte. O endurecimento do coração é para o cumprimento do plano divino.",
-      "temas": ["coração endurecido", "Faraó", "perseguição", "mão forte", "plano divino"],
-      "personagens": ["Deus", "Faraó"]
+      "parafrase": "Naquela mesma noite, eles deverão assar o cordeiro no fogo e consumi-lo. Não o comam cru, nem cozido em água, mas estritamente assado sobre as chamas, como um fogo vivo, para honrar a solenidade do momento.",
+      "referencias": [
+        "Colossenses 2:17",
+        "1 Coríntios 5:7"
+      ],
+      "comentario": "A instrução de assar sobre o fogo (e não cozinhar em água) garantia que a carne fosse rapidamente preparada e consumida inteiramente. O modo de preparo simboliza a urgência e a pureza do ato sacrificial, contrastando com os métodos egípcios.",
+      "temas": [
+        "Modo de Preparo",
+        "Urgentia",
+        "Fogo"
+      ],
+      "personagens": []
     },
     "9": {
-      "parafrase": "Mas os egípcios os perseguiram, todos os cavalos e carros do Faraó, e seus cavaleiros, e seu exército, e os alcançaram acampados junto ao mar, ao lado de Pi-Hairote, diante de Baal-Zefom.",
-      "references": [],
-      "comentario": "O exército egípcio alcança Israel acampado junto ao mar, em um local que parece sem saída. A situação é de grande perigo para Israel.",
-      "temas": ["egípcios", "perseguição", "acampamento", "mar", "perigo"],
+      "parafrase": "Ao comerem, não deve haver sobras: o animal deve ser consumido por completo. Não permitam que nada sobre, nem mesmo um pedaço. Se sobrar, que seja queimado imediatamente no fogo antes do amanhecer.",
+      "referencias": [
+        "2 Coríntios 6:2",
+        "Levítico 7:17"
+      ],
+      "comentario": "O princípio do 'não desperdício' e da totalidade do consumo é reafirmado. Tudo o que sobrava deveria ser destruído pelo fogo, simbolizando que nada do sacrifício de libertação deveria ser retido ou profanado.",
+      "temas": [
+        "Totalidade",
+        "Consumo Integral",
+        "Destruição do Sobrante"
+      ],
       "personagens": []
     },
     "10": {
-      "parafrase": "E quando o Faraó se aproximou, os filhos de Israel levantaram os seus olhos, e, vejam, os egípcios marchavam atrás deles; e eles ficaram com muito medo, e os filhos de Israel clamaram ao Senhor.",
-      "references": [],
-      "comentario": "Ao ver o exército egípcio se aproximando, os israelitas ficam com muito medo e clamam a Deus. O medo é natural, mas o clamor é um sinal de sua dependência de Deus.",
-      "temas": ["Faraó", "medo", "clamor", "dependência de Deus", "perigo"],
+      "parafrase": "Comam apressadamente, de forma ritualística. Este jantar é especial: vocês deverão consumir o cordeiro inteiro, e não devem deixar sobras para o dia seguinte. Qualquer resto que sobrar deve ser completamente destruído pelo fogo antes que o sol nasça.",
+      "referencias": [
+        "Gênesis 40:3",
+        "Hebreus 12:29"
+      ],
+      "comentario": "Este verso reforça a ideia da refeição como um ato de partida imediata, a 'refeição apressada'. O pão ázimo e as ervas amargas seriam adicionados (versículos seguintes), criando um banquete de libertação e sofrimento.",
+      "temas": [
+        "Apressamento",
+        "Partida Iminente"
+      ],
       "personagens": []
     },
     "11": {
-      "parafrase": "E eles disseram a Moisés: 'Não havia túmulos no Egito, para que você nos tirasse para morrer no deserto? Por que você nos tratou assim, para nos tirar do Egito?'",
-      "references": [],
-      "comentario": "Os israelitas reclamam com Moisés, questionando sua liderança e acusando-o de tê-los tirado do Egito para morrer no deserto. Sua fé é abalada pelo medo.",
-      "temas": ["reclamação", "Moisés", "morte", "deserto", "fé"],
-      "personagens": ["Moisés"]
-    },
-    "12": {
-      "parafrase": "'Não é esta a palavra que lhe dissemos no Egito, dizendo: Deixe-nos em paz, para que possamos servir aos egípcios? Pois seria melhor para nós servir aos egípcios do que morrer no deserto.'",
-      "references": [],
-      "comentario": "Os israelitas preferem a escravidão no Egito à morte no deserto, mostrando sua falta de fé e sua nostalgia da segurança da escravidão. A memória é seletiva.",
-      "temas": ["escravidão", "morte", "deserto", "falta de fé", "nostalgia"],
+      "parafrase": "A maneira como vocês deverão comer este sacrifício é a seguinte, pois esta é a Ceia da Passagem do Senhor: vocês devem estar prontos para viajar. Vistam-se como quem vai iniciar uma jornada longa, apertem os cintos apertadamente ao redor da cintura, calçem as sandálias nos pés, e segurem seus cajados de viagem firmemente em suas mãos. Comam assim, com essa urgência e preparação, pois esta é a Páscoa do Senhor.",
+      "referencias": [
+        "Lucas 12:35",
+        "1 Pedro 1:13"
+      ],
+      "comentario": "Este é um dos versos mais ricos em iconografia. A descrição da vestimenta (cintos apertados, sandálias nos pés, cajado na mão) não é apenas sobre vestuário, mas sobre estar pronto para o movimento imediato. É a imagem da prontidão espiritual e física para a saída da escravidão.",
+      "temas": [
+        "Prontidão",
+        "Jornada",
+        "Vestimenta Espiritual"
+      ],
       "personagens": []
     },
+    "12": {
+      "parafrase": "Naquela noite específica, Eu, o Senhor, marcharei através da terra do Egito. E Eu golpearei todos os primogênitos egípcios, desde o primeiro filho gerado pelo homem, até o primeiro filho de cada animal doméstico. E Eu executarei julgamento sobre todos os deuses do Egito, mostrando-lhes que Eu sou o único Deus verdadeiro.",
+      "referencias": [
+        "Jeremias 46:15",
+        "Apocalipse 18:8"
+      ],
+      "comentario": "O clímax das pragas: a morte do primogênito. Este ato não era apenas um castigo, mas um ato de julgamento direto contra o sistema religioso egípcio, cujos deuses eram desafiados e declarados impotentes diante do Deus de Israel (o julgamento sobre os deuses egípcios).",
+      "temas": [
+        "Julgamento Divino",
+        "Morte dos Primogênitos",
+        "Soberania de Deus"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
+    },
     "13": {
-      "parafrase": "E Moisés disse ao povo: 'Não temam! Fiquem firmes e vejam a salvação do Senhor, que Ele fará por vocês hoje; pois os egípcios que vocês viram hoje, vocês nunca mais os verão novamente.'",
-      "references": [],
-      "comentario": "Moisés encoraja o povo a não temer, mas a ficar firme e ver a salvação de Deus. Ele promete que os egípcios nunca mais serão vistos. A fé de Moisés é inabalável.",
-      "temas": ["Moisés", "ausência de medo", "salvação", "fidelidade de Deus", "fé"],
-      "personagens": ["Moisés"]
+      "parafrase": "O sangue que vocês aplicarem nas portas servirá como um sinal visível para Mim, de modo que, quando Eu passar por aquela área, vendo a marca, Eu passarei adiante, evitando o golpe mortal. Assim, a destruição atingirá o Egito, mas não alcançará vocês, pois o golpe não os atingirá para exterminá-los.",
+      "referencias": [
+        "João 10:9",
+        "Romanos 5:9"
+      ],
+      "comentario": "O sangue funciona como um selo de proteção, um 'passar por cima' (a raiz do nome Páscoa). É a intervenção soberana de Deus, ativada pela obediência humana ao sinal (o sangue). É um ato de misericórdia em meio ao juízo.",
+      "temas": [
+        "Proteção",
+        "Misericórdia",
+        "Ato de Passagem"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "14": {
-      "parafrase": "'O Senhor lutará por vocês, e vocês ficarão quietos.'",
-      "references": [],
-      "comentario": "Deus lutará por Israel, e eles devem permanecer quietos, sem interferir. A intervenção divina é total e não requer a ação humana.",
-      "temas": ["luta divina", "quietude", "intervenção divina", "ação humana"],
-      "personagens": ["Deus"]
+      "parafrase": "Esta será, a partir de agora, uma data memorável para toda a sua linhagem, uma celebração cerimonial que vocês deverão realizar em memória deste dia. Vocês celebrarão esta festa anualmente, como um estatuto perpétuo para honrar o dia da sua libertação.",
+      "referencias": [
+        "Deuteronômio 16:3",
+        "1 Coríntios 11:24"
+      ],
+      "comentario": "Estabelecimento da Páscoa como uma 'lembrança perpétua' (חֻקַּת עוֹלָם - chukkat olam). A memória histórica se transforma em um mandamento litúrgico que liga cada geração subsequente ao evento da redenção original.",
+      "temas": [
+        "Memória Perpétua",
+        "Estatuto",
+        "Redenção"
+      ],
+      "personagens": []
     },
     "15": {
-      "parafrase": "E o Senhor disse a Moisés: 'Por que você clama a mim? Fale aos filhos de Israel para que eles marchem.'",
-      "references": [],
-      "comentario": "Deus instrui Moisés a parar de clamar e a ordenar que Israel marche, mostrando que a ação é necessária. A fé deve ser acompanhada de obediência.",
-      "temas": ["clamor", "marcha", "ação", "fé", "obediência"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "Durante sete dias, vocês comerão pão sem fermento, um lembrete da pressa com que tiveram que sair do Egito, pois não houve tempo para o pão levedar. Este pão especial será consumido durante toda a semana, começando logo após o primeiro dia da celebração.",
+      "referencias": [
+        "Levítico 23:6",
+        "1 Coríntios 5:8"
+      ],
+      "comentario": "Introdução da Festa dos Pães Ázimos (Matzot). O fermento (se'or) é frequentemente associado à corrupção ou ao mal. Comer pão sem fermento simboliza a pureza e a urgência da saída, sem tempo para que a 'massa' da vida antiga fermentasse.",
+      "temas": [
+        "Pães Ázimos",
+        "Pureza",
+        "Pressa"
+      ],
+      "personagens": []
     },
     "16": {
-      "parafrase": "'Mas você, levante a sua vara e estenda a sua mão sobre o mar e o divida; e os filhos de Israel passarão em terra seca pelo meio do mar.'",
-      "references": [],
-      "comentario": "Deus instrui Moisés a usar sua vara para dividir o mar, permitindo que Israel passe em terra seca. A vara é o instrumento do poder divino.",
-      "temas": ["vara", "mar", "divisão", "terra seca", "poder divino"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "No primeiro dia desta semana de pães ázimos, vocês não terão permissão para ter fermento visível em suas casas; qualquer vestígio de massa fermentada deverá ser removido completamente. Além disso, qualquer pessoa que comer qualquer alimento fermentado durante esses sete dias será cortada, excluída do convívio do povo de Israel, pois profanou a memória da libertação.",
+      "referencias": [
+        "Levítico 23:8",
+        "Gálatas 5:9"
+      ],
+      "comentario": "A remoção do fermento é absoluta. A penalidade de ser 'cortado' (כרת - karet) indica uma separação severa da comunidade, mostrando a seriedade com que Deus tratava a obediência ritualística relacionada ao Êxodo.",
+      "temas": [
+        "Remoção do Fermento",
+        "Exclusão",
+        "Solene Obrigação"
+      ],
+      "personagens": []
     },
     "17": {
-      "parafrase": "'E eu, vejam, endurecerei o coração dos egípcios, e eles os seguirão; e eu serei honrado sobre o Faraó e sobre todo o seu exército, sobre os seus carros e sobre os seus cavaleiros.'",
-      "references": [],
-      "comentario": "Deus endurecerá o coração dos egípcios para que eles sigam Israel, e Deus será honrado através da destruição do Faraó e de seu exército. O propósito é a glória de Deus.",
-      "temas": ["coração endurecido", "egípcios", "perseguição", "honra divina", "glória de Deus"],
-      "personagens": ["Deus", "Faraó"]
+      "parafrase": "Vocês deverão observar esta Festa dos Pães Ázimos, pois foi neste dia, precisamente, que Eu tirei o exército de vocês da terra do Egito. Portanto, esta celebração deve ser observada por todas as gerações futuras como uma regra inquebrável.",
+      "referencias": [
+        "Números 33:3",
+        "Deuteronômio 16:8"
+      ],
+      "comentario": "Reforça o propósito da festa: comemorar a saída do exército de Israel (a nação em massa), não apenas famílias isoladas. O mandamento é universal para todas as gerações.",
+      "temas": [
+        "Saída em Massa",
+        "Mandamento Geracional"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "18": {
-      "parafrase": "'E os egípcios saberão que eu sou o Senhor, quando eu for honrado sobre o Faraó, sobre os seus carros e sobre os seus cavaleiros.'",
-      "references": [],
-      "comentario": "Os egípcios reconhecerão a soberania de Deus quando Ele for honrado sobre o Faraó e seu exército. O sofrimento é um meio para o conhecimento de Deus.",
-      "temas": ["conhecimento de Deus", "soberania divina", "honra divina", "Faraó"],
-      "personagens": ["Deus", "Faraó"]
+      "parafrase": "No primeiro mês, à tarde, vocês iniciarão a celebração. Do dia quatorze ao dia vinte e um deste mesmo mês, vocês comerão somente pão sem fermento, como Deus ordenou.",
+      "referencias": [
+        "Levítico 23:7",
+        "Números 28:17"
+      ],
+      "comentario": "Especifica as datas exatas da Festa dos Pães Ázimos: começando no décimo quarto dia (noite da Páscoa) e durando sete dias completos até o vigésimo primeiro dia do mês Nissan.",
+      "temas": [
+        "Cronologia",
+        "Datas Fixas"
+      ],
+      "personagens": []
     },
     "19": {
-      "parafrase": "E o anjo de Deus, que ia diante do acampamento de Israel, removeu-se e foi para trás deles; e a coluna de nuvem removeu-se de diante deles e ficou atrás deles;\n    "20": {
-      "parafrase": "e veio entre o acampamento dos egípcios e o acampamento de Israel; e era uma nuvem e trevas para um, mas dava luz à noite para o outro; de modo que um não se aproximou do outro toda a noite.",
-      "references": [],
-      "comentario": "O anjo de Deus e a coluna de nuvem se movem para trás de Israel, separando-os dos egípcios. A nuvem traz trevas para os egípcios e luz para Israel, mostrando a distinção e a proteção divina.",
-      "temas": ["anjo de Deus", "coluna de nuvem", "separação", "trevas", "luz", "proteção divina"],
-      "personagens": ["Anjo de Deus"]
+      "parafrase": "Em todas as regiões onde vocês habitarem, nenhuma migalha de fermento deve ser encontrada em suas casas durante esses sete dias. Quem quer que coma pão com fermento — seja ele um estrangeiro residente ou um descendente natural de Israel — será eliminado do meio da congregação.",
+      "referencias": [
+        "Levítico 23:8",
+        "1 Timóteo 5:12"
+      ],
+      "comentario": "A regra do fermento se aplica a todos, tanto aos israelitas de nascimento quanto aos prosélitos (estrangeiros). A pureza da celebração era um teste de pertencimento à comunidade da aliança.",
+      "temas": [
+        "Inclusão/Exclusão Ritual",
+        "Uniformidade"
+      ],
+      "personagens": []
+    },
+    "20": {
+      "parafrase": "Vocês devem manter esta regra de maneira estrita e inegociável em todos os lugares onde estiverem acampados. Em toda a sua terra, não permitam que haja qualquer vestígio de fermento em suas habitações durante toda a semana da festa.",
+      "referencias": [
+        "Deuteronômio 16:4",
+        "Lucas 13:21"
+      ],
+      "comentario": "Ênfase na aplicação universal do mandamento, mesmo durante o período de peregrinação no deserto. O comando é repetido novamente para garantir que não haja negligência.",
+      "temas": [
+        "Rigidez Ritualística",
+        "Obediência no Deserto"
+      ],
+      "personagens": []
     },
     "21": {
-      "parafrase": "E Moisés estendeu a sua mão sobre o mar; e o Senhor fez o mar recuar por um forte vento oriental toda aquela noite, e fez o mar se tornar terra seca, e as águas foram divididas.",
-      "references": [],
-      "comentario": "Moisés estende sua mão, e Deus usa um forte vento oriental para dividir o Mar Vermelho, transformando-o em terra seca. O milagre é poderoso e sobrenatural.",
-      "temas": ["Moisés", "mão", "mar", "vento oriental", "terra seca", "divisão", "milagre"],
-      "personagens": ["Moisés", "Deus"]
+      "parafrase": "Então, Moisés convocou todos os anciãos do povo e lhes deu a instrução exata: 'Dirijam-se imediatamente e escolham seus cordeiros para o sacrifício da Páscoa, conforme a orientação que acabamos de receber.'",
+      "referencias": [
+        "Êxodo 3:16",
+        "Atos 20:17"
+      ],
+      "comentario": "Moisés, como mediador, passa a instrução recebida de Deus aos líderes do povo (os anciãos), iniciando a logística da execução do mandamento na noite seguinte. A autoridade da palavra de Deus é transmitida.",
+      "temas": [
+        "Mediação",
+        "Delegação",
+        "Execução do Plano"
+      ],
+      "personagens": [
+        "Moisés",
+        "Anciãos"
+      ]
     },
     "22": {
-      "parafrase": "E os filhos de Israel passaram pelo meio do mar em terra seca; e as águas eram um muro para eles à sua direita e à sua esquerda.",
-      "references": [],
-      "comentario": "Os israelitas atravessam o Mar Vermelho em terra seca, com as águas formando muros de cada lado. A travessia é um ato de fé e um milagre de proteção.",
-      "temas": ["travessia", "mar", "terra seca", "muro de água", "fé", "proteção"],
+      "parafrase": "Peguem um feixe de hissopo, mergulhem-no vigorosamente no sangue que está em um recipiente, e usem esse sangue para marcar tanto o lintel superior da porta quanto as duas colunas laterais. Tenham muito cuidado para que ninguém da sua família saia de casa naquela noite, ou serão atingidos pela destruição que atingirá os egípcios.",
+      "referencias": [
+        "Hebreus 12:24",
+        "Zacarias 12:10"
+      ],
+      "comentario": "Repetição da aplicação prática do sangue. O aviso final é severo: quem sair da casa marcada, voluntariamente se expõe ao juízo. A casa se torna o único refúgio seguro.",
+      "temas": [
+        "Aplicação do Sangue",
+        "Restrição de Movimento",
+        "Segurança no Lar"
+      ],
       "personagens": []
     },
     "23": {
-      "parafrase": "E os egípcios perseguiram e entraram atrás deles no meio do mar, todos os cavalos do Faraó, seus carros e seus cavaleiros.",
-      "references": [],
-      "comentario": "Os egípcios, em sua obstinação, perseguem Israel no meio do mar, caindo na armadilha divina. Sua arrogância os leva à destruição.",
-      "temas": ["egípcios", "perseguição", "mar", "armadilha", "arrogância"],
-      "personagens": []
+      "parafrase": "Pois Eu, o Senhor, passarei por toda a terra do Egito naquela noite, e o Anjo da Morte avançará para atingir todos os primogênitos. Quando Eu vir o sinal do sangue nos umbrais, Eu me afastarei daquela casa e permitirei que o golpe mortal entre e destrua o habitante de dentro.",
+      "referencias": [
+        "Salmos 91:7",
+        "2 Reis 19:35"
+      ],
+      "comentario": "Distingue o agente da destruição. O Senhor ('Eu') passa por todas as casas, mas a ação destrutiva é mediada (o anjo exterminador). A visão do sangue por Deus é o fator decisivo para a preservação.",
+      "temas": [
+        "Ação do Agente Destruidor",
+        "Visão Divina",
+        "Intercessão"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "24": {
-      "parafrase": "E aconteceu que, na vigília da manhã, o Senhor olhou para o exército dos egípcios através da coluna de fogo e de nuvem, e perturbou o exército dos egípcios,",
-      "references": [],
-      "comentario": "Deus olha para o exército egípcio através da coluna de fogo e nuvem, e os perturba. A intervenção divina causa confusão e desordem no inimigo.",
-      "temas": ["Senhor", "coluna de fogo", "coluna de nuvem", "perturbação", "confusão"],
-      "personagens": ["Deus"]
+      "parafrase": "Vocês, portanto, devem guardar esta ordem para sempre, como um decreto que estabelece a Lei, para ser observado por vocês e por todos os seus descendentes, em todas as gerações futuras.",
+      "referencias": [
+        "Josué 1:6",
+        "Salmos 119:111"
+      ],
+      "comentario": "Mais uma reafirmação da permanência do mandamento. Não era um arranjo temporário para uma noite, mas a fundação de uma observância que definiria a identidade de Israel perante Deus.",
+      "temas": [
+        "Permanência da Lei",
+        "Identidade de Aliança"
+      ],
+      "personagens": []
     },
     "25": {
-      "parafrase": "e tirou as rodas de seus carros, de modo que eles os conduziam com dificuldade; de modo que os egípcios disseram: 'Fujamos da face de Israel, pois o Senhor luta por eles contra os egípcios.'",
-      "references": [],
-      "comentario": "Deus remove as rodas dos carros egípcios, dificultando sua movimentação. Os egípcios reconhecem que Deus está lutando por Israel. O reconhecimento é tardio, mas verdadeiro.",
-      "temas": ["rodas", "dificuldade", "luta divina", "reconhecimento"],
-      "personagens": ["Deus"]
+      "parafrase": "Quando vocês finalmente entrarem na terra prometida por Deus, a terra que Ele lhes dará como herança, vocês continuarão a observar este ritual sagrado como uma lembrança anual de como foram salvos.",
+      "referencias": [
+        "Deuteronômio 6:10-12",
+        "Josué 24:13"
+      ],
+      "comentario": "A observância da Páscoa não cessa com a entrada em Canaã. Pelo contrário, ela se torna ainda mais importante como um elo de memória da transição da servidão para a posse da terra, ligando a libertação egípcia à posse da herança terrestre.",
+      "temas": [
+        "Herança",
+        "Lembrança na Terra Prometida"
+      ],
+      "personagens": []
     },
     "26": {
-      "parafrase": "E o Senhor disse a Moisés: 'Estenda a sua mão sobre o mar, para que as águas retornem sobre os egípcios, sobre os seus carros e sobre os seus cavaleiros.'",
-      "references": [],
-      "comentario": "Deus instrui Moisés a estender sua mão sobre o mar, para que as águas retornem e destruam os egípcios. A ação é para a aniquilação do inimigo.",
-      "temas": ["Moisés", "mão", "mar", "águas", "destruição"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "Então o Senhor disse a Moisés: 'Erga a sua mão em direção ao céu para que as trevas se tornem tão densas e palpáveis que possam ser sentidas e apalpadas'. 🔥 Moisés obedeceu prontamente, estendendo o seu cajado e o seu braço em direção à escuridão que envolvia a terra do Egito, e o efeito foi imediato e aterrorizante: uma escuridão tão profunda que parecia ter peso e substância, uma escuridão que ninguém conseguia atravessar ou enxergar através dela. 😨",
+      "referencias": [
+        "Salmos 105:28",
+        "Jó 10:22"
+      ],
+      "comentario": "O verbo hebraico aqui é 'natá' (נָטָה), que significa estender, esticar, inclinar. Neste contexto, implica um ato deliberado e sobrenatural de Deus, manifestado através da autoridade dada a Moisés. A frase chave é 'trevas que se tateiam' (חוֹשֶׁךְ מַמּוּשִׁי), indicando uma escuridão que ultrapassa a mera ausência de luz; é uma presença física, um flagelo tátil, diferente das trevas usuais. Isso reforça a soberania de Deus sobre a natureza, contrastando com Rá, o deus sol egípcio.",
+      "temas": [
+        "Soberania Divina",
+        "Julgamento",
+        "Poder sobre a Natureza"
+      ],
+      "personagens": [
+        "Senhor",
+        "Moisés"
+      ]
     },
     "27": {
-      "parafrase": "E Moisés estendeu a sua mão sobre o mar, e o mar retornou à sua força quando a manhã apareceu; e os egípcios fugiram contra ele; e o Senhor derrubou os egípcios no meio do mar.",
-      "references": [],
-      "comentario": "Moisés estende sua mão, e o mar retorna à sua força, derrubando os egípcios no meio das águas. O milagre é completo e a destruição é total.",
-      "temas": ["Moisés", "mão", "mar", "retorno", "destruição", "milagre"],
-      "personagens": ["Moisés", "Deus"]
+      "parafrase": "Durante todo o período dessas trevas opressivas, o Senhor, que estava executando o Seu juízo, fez uma distinção notável: em toda a terra habitada pelos israelitas, onde eles estavam reunidos, lá permanecia a luz normal e confortável. Nenhuma sombra ou escuridão penetrou nos lares e nos espaços dos filhos de Israel. Era um sinal claro de proteção e separação divina. 🛡️",
+      "referencias": [
+        "Êxodo 10:23",
+        "Salmos 135:17"
+      ],
+      "comentario": "Este versículo enfatiza o contraste radical entre o castigo e a provisão. O termo hebraico para 'luz' aqui (אוֹר) é claro. A 'terra dos filhos de Israel' indica que a proteção era territorial e específica, um milagre pontual que isolava o povo escolhido do sofrimento imposto aos egípcios, confirmando a aliança.",
+      "temas": [
+        "Proteção Divina",
+        "Diferenciação",
+        "Fidelidade"
+      ],
+      "personagens": [
+        "Senhor",
+        "Filhos de Israel"
+      ]
     },
     "28": {
-      "parafrase": "E as águas retornaram e cobriram os carros, e os cavaleiros, e todo o exército do Faraó que os seguiu no mar; não restou um sequer deles.",
-      "references": [],
-      "comentario": "As águas cobrem todo o exército egípcio, sem deixar um sequer. A aniquilação é completa e sem misericórdia.",
-      "temas": ["águas", "cobertura", "exército", "aniquilação", "totalidade"],
-      "personagens": []
+      "parafrase": "Então, Moisés, vendo a profundidade do terror e a obediência de Deus se cumprindo, novamente clamou ao Senhor e disse: 'Meu Senhor, por favor, olhe para o que está acontecendo! Eu já levantei minha mão uma vez, mas a escuridão ainda prevalece. Quando o Senhor cessará este flagelo que cobre os egípcios?' 🙏",
+      "referencias": [
+        "Êxodo 10:18",
+        "Números 11:2"
+      ],
+      "comentario": "A repetição do ato de clamar ('wayyiz'ak' - וַיִּזְעַק) mostra a persistência de Moisés como intercessor. Ele não apenas executa as ordens, mas também intercede fervorosamente pelo fim do sofrimento, mesmo que este seja um juízo merecido. Ele busca a misericórdia logo após a manifestação do poder.",
+      "temas": [
+        "Intercessão",
+        "Clamor",
+        "Misericórdia"
+      ],
+      "personagens": [
+        "Moisés",
+        "Senhor"
+      ]
     },
     "29": {
-      "parafrase": "Mas os filhos de Israel passaram em terra seca pelo meio do mar; e as águas eram um muro para eles à sua direita e à sua esquerda.",
-      "references": [],
-      "comentario": "Os israelitas passam em terra seca pelo meio do mar, com as águas formando muros de cada lado. A proteção divina é evidente e milagrosa.",
-      "temas": ["terra seca", "mar", "muro de água", "proteção divina", "milagre"],
-      "personagens": []
+      "parafrase": "Moisés prosseguiu, declarando: 'Assim que eu sair da cidade e levantar as minhas mãos em oração para o céu aberto, a escuridão será imediatamente removida. O povo egípcio saberá, neste exato momento, que Aquele que governa toda a terra – O Senhor – está no meio de nós!' 👑",
+      "referencias": [
+        "Deuteronômio 4:34",
+        "Salmos 78:43"
+      ],
+      "comentario": "Este versículo estabelece o mecanismo final do fim do castigo: Moisés deve sair (simbolizando o distanciamento da esfera de influência direta do Faraó/Egito) e levantar as mãos (o gesto de oração e autoridade delegado). O reconhecimento fundamental para os egípcios será que Yahweh (O Senhor) não é apenas um deus local, mas o Soberano Universal ('Adonai' - אֲדֹנָי) que atua no meio do Seu povo.",
+      "temas": [
+        "Reconhecimento de Deus",
+        "Autoridade de Moisés",
+        "Manifestação Profética"
+      ],
+      "personagens": [
+        "Moisés",
+        "Senhor"
+      ]
     },
     "30": {
-      "parafrase": "Assim o Senhor salvou Israel naquele dia da mão dos egípcios; e Israel viu os egípcios mortos na margem do mar.",
-      "references": [],
-      "comentario": "Deus salva Israel da mão dos egípcios, e Israel vê os egípcios mortos na margem do mar. A salvação é completa e a vitória é de Deus.",
-      "temas": ["salvação", "Israel", "egípcios", "morte", "vitória divina"],
-      "personagens": ["Deus"]
+      "parafrase": "E assim aconteceu. Moisés executou o comando: saiu para o campo, longe dos muros e da multidão egípcia, e ergueu seus braços em um gesto de entrega total ao poder de Deus. No instante em que suas mãos alcançaram o ápice do céu, a escuridão sobrenatural se dissipou com a mesma rapidez com que surgiu, revelando um céu límpido e estrelado sobre o Egito. ✨",
+      "referencias": [
+        "Salmos 145:15",
+        "Isaías 30:26"
+      ],
+      "comentario": "A rapidez da cessação do flagelo é tão impressionante quanto o seu início. O verbo hebraico para 'remover' ou 'tirar' (עָלָה) sugere uma ascensão ou retirada imediata. A remoção da escuridão não é um desvanecimento gradual, mas um corte instantâneo, provando o controle absoluto do tempo e da matéria por Deus.",
+      "temas": [
+        "Obediência Cumprida",
+        "Milagre Instantâneo",
+        "Controle do Tempo"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "31": {
-      "parafrase": "E Israel viu aquela grande obra que o Senhor fez sobre os egípcios; e o povo temeu o Senhor, e acreditou no Senhor e em seu servo Moisés.",
-      "references": [],
-      "comentario": "Israel vê a grande obra de Deus e teme o Senhor, acreditando Nele e em Moisés. A experiência do milagre leva à fé e ao temor a Deus.",
-      "temas": ["obra de Deus", "temor a Deus", "fé", "Moisés", "milagre"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "Desta forma, o povo egípcio, que até então zombava e endurecia seus corações, foi forçado a testemunhar a glória e o poder incomensurável do Deus de Israel. A experiência direta com este juízo definitivo e a subsequente libertação de Moisés garantiram que eles jamais duvidassem da identidade daquele que estava libertando um povo escravizado da sua terra. 😲",
+      "referencias": [
+        "Isaías 41:20",
+        "Romanos 9:17"
+      ],
+      "comentario": "Este versículo serve como a conclusão teológica do flagelo. A intenção primária das pragas não era apenas punir, mas glorificar o nome de Yahweh diante do Egito (uma lição para Faraó, os deuses egípcios e o próprio Israel). O termo 'glória' (כָּבוֹד - kavod) é usado para descrever o reconhecimento público da majestade de Deus, forçando até mesmo os inimigos a admitirem a verdade.",
+      "temas": [
+        "Glória de Deus",
+        "Endurecimento do Coração",
+        "Revelação Universal"
+      ],
+      "personagens": [
+        "Povo Egípcio",
+        "Deus de Israel"
+      ]
     }
   }
 }

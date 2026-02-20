@@ -1,78 +1,1323 @@
 {
   "livro": "1 Crônicas",
   "capitulo": 6,
-  "contexto_historico": "Este capítulo é dedicado à genealogia da tribo de Levi, com um foco especial na linhagem sacerdotal de Arão e nas famílias levíticas responsáveis pelo serviço do Tabernáculo e, posteriormente, do Templo. A inclusão detalhada dessas genealogias serve para legitimar a autoridade dos sacerdotes e levitas no período pós-exílico e para reafirmar a importância do culto e da adoração a Deus.",
-  "bloco_tematico": "Genealogia dos Levitas e Sacerdotes",
+  "contexto_historico": "O capítulo 6 de 1 Crônicas é dedicado quase inteiramente à genealogia dos levitas, focando especificamente nas linhagens dos sacerdotes (descendentes de Arão) e nos levitas responsáveis pelo serviço do Tabernáculo (e, posteriormente, do Templo). Este capítulo é crucial para estabelecer a legitimidade e a ordem do serviço religioso após o retorno do exílio e a organização sob Davi, confirmando quem tinha o direito de servir no santuário. A ênfase recai sobre a descendência de Arão (sacerdócio) e os deveres dos levitas (música, portas, tesouraria). É uma seção altamente detalhada e, para o leitor moderno, densa, mas essencial para a estrutura teocrática de Israel. 📜👨‍👩‍👧‍👦",
+  "bloco_tematico": "A Ordem Sacra: Linhagens e Deveres dos Levitas e Sacerdotes 🎶🗂️",
   "versiculos": {
     "1": {
-      "parafrase": "Os filhos de Levi foram Gérson, Coate e Merari.",
-      "referencias": ["Gênesis 46:11", "Êxodo 6:16"],
-      "comentario": "A genealogia de Levi começa com seus três filhos, que deram origem às principais divisões da tribo levítica.",
-      "temas": ["genealogia", "levitas", "origens"],
-      "personagens": ["Gérson", "Coate", "Merari"]
+      "parafrase": "Os filhos de Levi, os verdadeiros herdeiros da tribo de Levi, foram os escolhidos para cumprir as sagradas funções do sacerdócio e do serviço no Tabernáculo do Senhor. Esses filhos eram, primariamente, Gersom, Coat e Merári, que deram origem às grandes famílias levíticas.",
+      "referencias": [
+        "Gênesis 46:11",
+        "Números 3:17"
+      ],
+      "comentario": "O versículo estabelece a linhagem central do sacerdócio. A ênfase está em Levi, que recebeu a tarefa especial (separação, Hebraico: 'Lavah') de servir a Deus. Gersom, Coat e Merári são os três filhos de Levi através dos quais toda a estrutura de serviço litúrgico se desenvolverá.",
+      "temas": [
+        "Linhagem Sacerdotal",
+        "Organização do Culto",
+        "Tribo de Levi"
+      ],
+      "personagens": [
+        "Levi",
+        "Gersom",
+        "Coat",
+        "Merári"
+      ]
     },
-    "2-3": {
-      "parafrase": "Os filhos de Coate foram Anrão, Isar, Hebrom e Uziel. Os filhos de Anrão foram Arão, Moisés e Miriã. Os filhos de Arão foram Nadabe, Abiú, Eleazar e Itamar.",
-      "referencias": ["Êxodo 6:18-23"],
-      "comentario": "A linhagem de Coate é destacada, pois dela vieram Moisés e Arão. A menção dos filhos de Arão, incluindo Nadabe e Abiú (que morreram por oferecer fogo estranho), serve como um lembrete da santidade do sacerdócio.",
-      "temas": ["genealogia", "sacerdócio", "santidade", "juízo"],
-      "personagens": ["Anrão", "Arão", "Moisés", "Miriã", "Nadabe", "Abiú", "Eleazar", "Itamar"]
+    "2": {
+      "parafrase": "Aqui estão os nomes dos descendentes diretos de Coat: Amirã, Isar, Hebrom e Uziel. Estes foram os patriarcas das linhagens que carregariam os vasos mais sagrados do santuário.",
+      "referencias": [
+        "Êxodo 6:18",
+        "Números 3:30"
+      ],
+      "comentario": "Coat (Kohath) é crucial, pois seus descendentes seriam responsáveis pelo transporte da Arca da Aliança, do Altar de Incenso, da Mesa dos Pães da Proposição e dos castiçais — os utensílios mais sagrados do Santo Lugar. A repetição das linhagens reforça a importância da ordem estabelecida.",
+      "temas": [
+        "Serviço Sagrado",
+        "Descendência de Coat"
+      ],
+      "personagens": [
+        "Coat",
+        "Amirã",
+        "Isar",
+        "Hebrom",
+        "Uziel"
+      ]
     },
-    "4-15": {
-      "parafrase": "(A linhagem dos sumos sacerdotes é traçada desde Eleazar até o exílio babilônico, incluindo Fineias, Abisua, Buqui, Uzi, Zeraías, Meraiote, Amarias, Aitube, Zadoque, Aimaás, Azarias, Joanã, Azarias (que serviu no Templo construído por Salomão), Amarias, Aitube, Zadoque, Salum, Hilquias, Azarias, Seraías e Jozadaque, que foi levado para o exílio quando o Senhor deportou Judá e Jerusalém por meio de Nabucodonosor).",
-      "referencias": ["2 Reis 25:18-21"],
-      "comentario": "Esta é a linhagem ininterrupta dos sumos sacerdotes, mostrando a continuidade do sacerdócio desde Arão até o exílio. A menção de Azarias que serviu no Templo de Salomão destaca a importância histórica dessa linhagem. Jozadaque é o último sumo sacerdote antes do exílio, e sua deportação marca o fim de uma era.",
-      "temas": ["genealogia", "sumo sacerdote", "continuidade", "exílio"],
-      "personagens": ["Eleazar", "Fineias", "Abisua", "Buqui", "Uzi", "Zeraías", "Meraiote", "Amarias", "Aitube", "Zadoque", "Aimaás", "Azarias", "Joanã", "Salum", "Hilquias", "Seraías", "Jozadaque", "Nabucodonosor"]
+    "3": {
+      "parafrase": "Os filhos de Amirã, cujo papel seria de extrema importância, foram Arão e Moisés. E os filhos de Arão, que assumiriam o sacerdócio principal, foram Nadabe, Abiú, Eleazar e Itamar.",
+      "referencias": [
+        "Êxodo 6:20",
+        "Êxodo 28:1"
+      ],
+      "comentario": "Este versículo conecta Levi com a liderança de Israel. Moisés e Arão, os pilares da saída do Egito, são listados como filhos de Amirã. A menção dos quatro filhos de Arão já prepara o terreno para a sucessão sacerdotal, com exceção trágica de Nadabe e Abiú, que morreriam prematuramente.",
+      "temas": [
+        "Liderança de Israel",
+        "Sacerdócio Levítico",
+        "Família de Arão"
+      ],
+      "personagens": [
+        "Amirã",
+        "Arão",
+        "Moisés",
+        "Nadabe",
+        "Abiú",
+        "Eleazar",
+        "Itamar"
+      ]
     },
-    "16-19": {
-      "parafrase": "(As genealogias dos outros filhos de Levi: Gérson e Merari).",
-      "referencias": [],
-      "comentario": "As linhagens dos outros ramos levíticos são apresentadas, mostrando a organização completa da tribo de Levi.",
-      "temas": ["genealogia", "levitas"],
+    "4": {
+      "parafrase": "Os filhos de Isar foram Coré, Datã, Abirão e também On. Estes homens, em diferentes momentos da história, estariam envolvidos em atos de rebelião ou ascensão no serviço.",
+      "referencias": [
+        "Números 16:1",
+        "Números 26:9"
+      ],
+      "comentario": "O nome Coré é notório por liderar a revolta contra Moisés e Arão (Nm 16). Isar, sendo filho de Coat, teve descendentes que, embora levitas, desafiaram a ordem divina. Isso ilustra que a bênção da linhagem não garantia a fidelidade pessoal.",
+      "temas": [
+        "Rebeldia",
+        "Descendência de Isar"
+      ],
+      "personagens": [
+        "Isar",
+        "Coré",
+        "Datã",
+        "Abirão",
+        "On"
+      ]
+    },
+    "5": {
+      "parafrase": "Os filhos de Uziel foram Misael e Elzafã. Estes homens, poderosos e de boa índole, foram escolhidos para liderar a retirada dos corpos de seus primos Nadabe e Abiú, quando estes ofereceram fogo profano ao Senhor.",
+      "referencias": [
+        "Levítico 10:4",
+        "Êxodo 6:22"
+      ],
+      "comentario": "Uziel, o último filho de Coat mencionado, tem seus filhos associados a um dos momentos mais sombrios do sacerdócio. Misael e Elzafã ('Deus é meu refúgio' e 'Meu Deus ajudou', respectivamente) demonstraram obediência ao removerem os cadáveres, cumprindo um serviço de pureza ritual em meio ao luto e ao terror da santidade divina.",
+      "temas": [
+        "Santidade de Deus",
+        "Obediência",
+        "Serviço Fúnebre"
+      ],
+      "personagens": [
+        "Uziel",
+        "Misael",
+        "Elzafã",
+        "Nadabe",
+        "Abiú"
+      ]
+    },
+    "6": {
+      "parafrase": "E os filhos de Merári, o terceiro filho de Levi, foram as famílias de Musi e Musi. Estes formaram os grupos responsáveis por carregar as partes maiores e mais pesadas da estrutura do Tabernáculo: as armações, as barras, os pilares e suas bases, geralmente feitas de metal.",
+      "referencias": [
+        "Números 3:33",
+        "Êxodo 25:10-16"
+      ],
+      "comentario": "Merári (Merari) cuidava da parte estrutural do Santuário. Se Coat transportava os objetos de ouro e prata (o conteúdo sagrado), Merári transportava a 'casa' em si (a estrutura). A distinção clara das responsabilidades assegurava que tudo fosse movido de forma ordenada e respeitosa.",
+      "temas": [
+        "Estrutura do Tabernáculo",
+        "Responsabilidade Levítica"
+      ],
+      "personagens": [
+        "Merári",
+        "Musi",
+        "Musi"
+      ]
+    },
+    "7": {
+      "parafrase": "Os chefes das casas levíticas, aqueles que eram designados para o serviço, vinham das famílias de Gersom, Coat e Merári, lideradas por seus respectivos pais. Eles eram encarregados de montar e desmontar a Tenda de reunião e todos os seus pertences, sob a orientação dos sacerdotes, filhos de Arão.",
+      "referencias": [
+        "Números 4:21-33",
+        "Josué 18:1"
+      ],
+      "comentario": "Este versículo resume a organização do trabalho levítico. Os chefes de família (os 'pais' das casas) supervisionavam o trabalho de transporte, garantindo que o serviço fosse executado conforme as ordens dadas a Moisés. O serviço era integralmente ligado à administração dos objetos sagrados.",
+      "temas": [
+        "Administração do Culto",
+        "Ordem e Obediência"
+      ],
+      "personagens": [
+        "Gersom",
+        "Coat",
+        "Merári",
+        "Arão"
+      ]
+    },
+    "8": {
+      "parafrase": "A divisão para o trabalho era clara: os filhos de Coat, sob a liderança de Arão e seus filhos, tinham sob sua responsabilidade tudo o que pertencia ao Santo Lugar — o Lugar Santíssimo e o Lugar Santo, pois eram os objetos mais delicados e preciosos.",
+      "referencias": [
+        "Números 4:1-15",
+        "Hebreus 9:1-4"
+      ],
+      "comentario": "A divisão do serviço seguia uma hierarquia de santidade. Coat recebia o 'Santo dos Santos' e o 'Santo' (o tabernáculo interno). Isso exigia um manuseio extremamente cuidadoso, justificado pela sua proximidade com a Presença de Deus.",
+      "temas": [
+        "Hierarquia do Santuário",
+        "Objetos Sagrados"
+      ],
+      "personagens": [
+        "Coat",
+        "Arão"
+      ]
+    },
+    "9": {
+      "parafrase": "Eles deveriam, então, receber os pertences do santuário das mãos dos filhos de Arão para transportá-los, mas sob nenhuma circunstância deveriam tocar nos objetos sagrados antes que estes tivessem sido cobertos com os panos protetores designados pelos sacerdotes.",
+      "referencias": [
+        "Números 4:15",
+        "Levítico 15:12"
+      ],
+      "comentario": "Esta é uma regra de proteção absoluta contra a contaminação. O contato direto, mesmo que acidental, com os objetos do Santo Lugar sem a mediação sacerdotal e sem a proteção adequada resultaria em morte, como visto com os filhos de Arão. A cobertura era o sinal de que o objeto estava 'pronto para o transporte' e não mais para o uso imediato.",
+      "temas": [
+        "Proteção Ritualística",
+        "Santidade e Contato"
+      ],
+      "personagens": [
+        "Arão"
+      ]
+    },
+    "10": {
+      "parafrase": "Aos filhos de Merári foi designada a tarefa de transportar as lonas, as coberturas, as barras que sustentavam as paredes, os pilares, os suportes, as estacas e todas as cordas necessárias para armar todo o complexo exterior do Tabernáculo.",
+      "referencias": [
+        "Números 4:31-32",
+        "Êxodo 27:9-19"
+      ],
+      "comentario": "O trabalho de Merári envolvia a parte externa, a 'tenda' física. Eram objetos grandes e pesados, enquanto Coat cuidava dos objetos pequenos, mas de maior valor simbólico/teológico. A divisão entre o conteúdo sagrado (Coat) e o invólucro estrutural (Merári) é muito clara aqui.",
+      "temas": [
+        "Estrutura Externa",
+        "Trabalho Físico"
+      ],
+      "personagens": [
+        "Merári"
+      ]
+    },
+    "11": {
+      "parafrase": "Além disso, os filhos de Merári tinham a responsabilidade de carregar as tábuas, as bases de sustentação, as barras laterais, os pilares e todos os seus acessórios de suporte, tudo sob a supervisão direta do sacerdote Eleazar, filho de Arão, que fiscalizava os assuntos do santuário.",
+      "referencias": [
+        "Números 4:32",
+        "Êxodo 26:15-30"
+      ],
+      "comentario": "Eleazar, o filho mais responsável de Arão após a morte de Nadabe e Abiú, é designado como o supervisor geral para a parte de Merári. Isso mostra a supervisão sacerdotal sobre a operação levítica, garantindo que a pureza ritual fosse mantida mesmo no transporte do material de construção.",
+      "temas": [
+        "Supervisão Sacerdotal",
+        "Organização do Transporte"
+      ],
+      "personagens": [
+        "Merári",
+        "Eleazar",
+        "Arão"
+      ]
+    },
+    "12": {
+      "parafrase": "Já os filhos de Coat, a família mais próxima do Santo dos Santos, trabalhavam sob a autoridade direta de Arão, o sacerdote. Eles eram os responsáveis por tudo o que dizia respeito aos utensílios mais santos do Lugar Santíssimo.",
+      "referencias": [
+        "Números 4:16",
+        "Levítico 4:1-12"
+      ],
+      "comentario": "Reforça a liderança de Arão sobre a família de Coat. A proximidade com os objetos do Lugar Santíssimo (como a Arca) conferia a Coat um status especial, mas também uma responsabilidade imensa, sob a autoridade máxima do sumo sacerdote.",
+      "temas": [
+        "Autoridade Sacerdotal",
+        "Lugar Santíssimo"
+      ],
+      "personagens": [
+        "Coat",
+        "Arão"
+      ]
+    },
+    "13": {
+      "parafrase": "Eles tinham a incumbência de limpar e preparar os objetos, mas eram estritamente proibidos de tocar neles diretamente, pois o fogo divino poderia consumir quem desrespeitasse a santidade desses itens.",
+      "referencias": [
+        "Números 4:19-20",
+        "Êxodo 30:1-10"
+      ],
+      "comentario": "A proibição de toque é o ponto central aqui. O uso do termo 'para que não morram' (implícito na teologia do texto) destaca o perigo inerente à santidade. A santidade de Deus não é benigna a quem se aproxima sem o devido preparo e permissão.",
+      "temas": [
+        "Proibição de Toque",
+        "Punição Divina"
+      ],
       "personagens": []
     },
-    "20-30": {
-      "parafrase": "(Detalhes adicionais das famílias de Gérson, Coate e Merari, incluindo seus descendentes).",
-      "referencias": [],
-      "comentario": "Mais detalhes sobre as famílias levíticas, que eram responsáveis por diferentes aspectos do serviço do Tabernáculo e do Templo.",
-      "temas": ["genealogia", "levitas", "serviço"],
-      "personagens": []
+    "14": {
+      "parafrase": "Assim, Moisés designou as tarefas específicas para cada um dos filhos de Arão: Eleazar ficou encarregado dos óleos, do incenso, das ofertas contínuas de cereal, e também da unção e de toda a supervisão do Lugar Santo, a parte interna do Tabernáculo.",
+      "referencias": [
+        "Levítico 6:19-23",
+        "Números 4:16"
+      ],
+      "comentario": "Eleazar, o sucessor designado, recebe o controle dos elementos essenciais do culto diário: o azeite da lâmpada, o incenso do altar e as ofertas de cereais. Isso representa a manutenção contínua da comunhão com Deus.",
+      "temas": [
+        "Funções de Eleazar",
+        "Ofertas Contínuas"
+      ],
+      "personagens": [
+        "Moisés",
+        "Arão",
+        "Eleazar"
+      ]
+    },
+    "15": {
+      "parafrase": "Já Itamar, o filho mais novo de Arão, foi designado para supervisionar o trabalho dos filhos de Coat, que lidavam com a Arca da Aliança, a Mesa dos Pães da Proposição, o candelabro com seus utensílios, os holocaustos, as ofertas de dedicação e todos os objetos de serviço no Lugar Santo.",
+      "referencias": [
+        "Números 4:28",
+        "Êxodo 25:23-37"
+      ],
+      "comentario": "Itamar é responsável pela supervisão do transporte dos itens mais significativos do Lugar Santo, enquanto Eleazar cuida da administração dos suprimentos litúrgicos e da unção. Essa divisão interna entre os filhos de Arão mostra uma divisão de trabalho baseada na natureza dos objetos.",
+      "temas": [
+        "Funções de Itamar",
+        "Supervisão dos Utensílios"
+      ],
+      "personagens": [
+        "Arão",
+        "Itamar",
+        "Coat"
+      ]
+    },
+    "16": {
+      "parafrase": "Moisés ordenou que Eleazar, filho de Arão, supervisionasse os chefes dos levitas, especificamente os coatitas, para garantir que nada fosse esquecido ou manuseado incorretamente no transporte das coisas santas.",
+      "referencias": [
+        "Números 4:16",
+        "Josué 3:6"
+      ],
+      "comentario": "O foco recai sobre Eleazar como o responsável pela fiscalização direta dos coatitas, a linhagem responsável pelos itens mais sagrados. Isso solidifica a cadeia de comando: Moisés > Arão > Eleazar > Coatitas.",
+      "temas": [
+        "Fiscalização",
+        "Cadeia de Comando"
+      ],
+      "personagens": [
+        "Moisés",
+        "Eleazar",
+        "Arão",
+        "Coat"
+      ]
+    },
+    "17": {
+      "parafrase": "Moisés instruiu que os levitas não fossem afastados de seu dever de serviço. Ele chamou os chefes de família de Coat e Merári para que estes especificamente organizassem o transporte de tudo o que era necessário.",
+      "referencias": [
+        "Números 4:25-28",
+        "Josué 13:33"
+      ],
+      "comentario": "Moisés assegura que o serviço levítico não seja transferido para outros grupos. Seu ofício é permanente. Ele se dirige nominalmente aos líderes de Coat e Merári para reforçar suas obrigações no serviço móvel do Santuário.",
+      "temas": [
+        "Dever Permanente",
+        "Chamado de Serviço"
+      ],
+      "personagens": [
+        "Moisés",
+        "Coat",
+        "Merári"
+      ]
+    },
+    "18": {
+      "parafrase": "Porém, foi designado que os coatitas, sob a ordem de Arão, deveriam lidar com os objetos sagrados, enquanto os meraritas deveriam trabalhar sob a direção de Eleazar e Itamar, para cuidar das estruturas e coberturas.",
+      "referencias": [
+        "Números 4:19",
+        "Números 4:33"
+      ],
+      "comentario": "Este versículo reitera e resume as linhas de autoridade para o transporte: Coatitas reportam a Arão (o Sumo Sacerdote) sobre os objetos mais sagrados; Meraritas reportam a Eleazar e Itamar sobre a estrutura externa. A clareza evita conflitos e erros.",
+      "temas": [
+        "Estrutura de Autoridade",
+        "Diferenciação de Tarefas"
+      ],
+      "personagens": [
+        "Coat",
+        "Arão",
+        "Merári",
+        "Eleazar",
+        "Itamar"
+      ]
+    },
+    "19": {
+      "parafrase": "Desta forma, eles procederam no serviço, preparando tudo para a viagem, organizando os objetos de acordo com a ordem estabelecida por Moisés, seguindo fielmente o que o Senhor havia comandado.",
+      "referencias": [
+        "Êxodo 40:17-33",
+        "Números 10:17-21"
+      ],
+      "comentario": "Este versículo é um testemunho da obediência prática. Depois de receberem as instruções detalhadas, os levitas implementaram o plano de viagem do Tabernáculo, demonstrando que a obediência a Deus deve ser meticulosa e organizada.",
+      "temas": [
+        "Obediência Prática",
+        "Organização da Peregrinação"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
+    },
+    "20": {
+      "parafrase": "A seguir, lemos sobre a descendência de Gersom, o primogênito de Levi. A família de Gersom, liderada por Libni e Simei, seus filhos, seria responsável pelo Tabernáculo em sua totalidade externa: as cortinas, os tapetes e as coberturas do grande pátio, sendo a parte menos sensível ritualmente.",
+      "referencias": [
+        "Números 3:21-26",
+        "Êxodo 26:7-14"
+      ],
+      "comentario": "O foco muda para Gersom (Gershon), o mais velho dos filhos de Levi. Seus descendentes lidavam com a parte mais externa e visível, as coberturas externas do Tabernáculo. Eles eram responsáveis pelas lonas de pelos de cabra e peles de carneiro tingidas, que protegiam o Tabernáculo dos elementos.",
+      "temas": [
+        "Descendência de Gersom",
+        "Estrutura Externa do Tabernáculo"
+      ],
+      "personagens": [
+        "Gersom",
+        "Libni",
+        "Simei"
+      ]
+    },
+    "21": {
+      "parafrase": "Moisés deu ordens claras para que Libni e Simei, os chefes das famílias de Gersom, supervisionassem o transporte de todos esses materiais, sob a autoridade do sacerdote Itamar, que era responsável por checar o trabalho de todas as famílias levíticas.",
+      "referencias": [
+        "Números 4:28",
+        "Números 3:32"
+      ],
+      "comentario": "Itamar, embora já responsável pela supervisão de Coat, também supervisiona Gersom, demonstrando que seu papel se expandia para cobrir as famílias que lidavam com o invólucro externo, enquanto Eleazar focava nos suprimentos sacerdotais e Coat.",
+      "temas": [
+        "Supervisão de Itamar",
+        "Responsabilidade dos Gersomitas"
+      ],
+      "personagens": [
+        "Moisés",
+        "Libni",
+        "Simei",
+        "Itamar"
+      ]
+    },
+    "22": {
+      "parafrase": "Contudo, mesmo os filhos de Gersom, que lidavam com as lonas e coberturas, tinham a proibição severa de tocar nos objetos do santuário que pertenciam às famílias de Coat, sob pena de morte, pois eles não eram autorizados a se aproximar desses itens sagrados.",
+      "referencias": [
+        "Números 4:15",
+        "Números 4:19"
+      ],
+      "comentario": "Esta é uma clara demarcação de território e função. A santidade dos objetos de Coat era tão alta que nem mesmo os levitas de outra família (Gersom) podiam sequer tocá-los, mesmo sob a supervisão de outro sacerdote (Itamar). A ordem de Deus cria barreiras intransponíveis entre os níveis de santidade.",
+      "temas": [
+        "Limites Rituais",
+        "Hierarquia de Santidade"
+      ],
+      "personagens": [
+        "Coat"
+      ]
+    },
+    "23": {
+      "parafrase": "Ao chegarem ao ponto de partida, Moisés instruiu os chefes das famílias de Gersom a contarem seus pertences e a se prepararem para a jornada, garantindo que tudo estivesse pronto para o próximo acampamento.",
+      "referencias": [
+        "Números 4:25",
+        "Números 10:22"
+      ],
+      "comentario": "O censo pré-viagem era vital. Os levitas não apenas transportavam, mas também prestavam contas de suas cargas. Gersom tinha um número específico de homens designados para a tarefa, mostrando a formalidade do processo.",
+      "temas": [
+        "Censo e Contagem",
+        "Preparação para a Viagem"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
+    },
+    "24": {
+      "parafrase": "Quando os levitas se preparavam para levantar o acampamento, os filhos de Coat se apresentavam, e Arão, o sacerdote, os instruía sobre como cobrir a Arca da Testemunho e os objetos que ela continha.",
+      "referencias": [
+        "Números 4:5-6",
+        "Deuteronômio 31:25"
+      ],
+      "comentario": "Este versículo volta ao ponto crucial: a cobertura da Arca. Arão supervisionava pessoalmente este ato solene, envolvendo o Santo dos Santos (a Arca), o Altar de Ouro, e os utensílios mais sagrados, antes que Coat pudesse sequer tocar no invólucro protetor.",
+      "temas": [
+        "Ato de Cobrir a Arca",
+        "Mediação Sacerdotal"
+      ],
+      "personagens": [
+        "Coat",
+        "Arão"
+      ]
+    },
+    "25": {
+      "parafrase": "Eles seguiam precisamente a ordem de Arão: cobrir primeiro a Arca, depois a Mesa dos Pães, o Candelabro, os incensários de ouro, e todos os utensílios de bronze usados no altar de holocausto. Tudo era envolto em tecido para proteger a santidade e permitir o transporte seguro.",
+      "referencias": [
+        "Números 4:7-14",
+        "Êxodo 39:32-33"
+      ],
+      "comentario": "A enumeração final detalha a sequência de cobertura, que reflete a hierarquia dos objetos. A Arca era coberta primeiro, seguida pelos itens do Santo Lugar (Mesa, Candelabro, Incensário), e por fim, os itens do altar exterior (o altar de bronze do holocausto). A precisão deste ritual reflete a reverência exigida pela presença de Deus.",
+      "temas": [
+        "Ordem Ritualística",
+        "Reverência aos Objetos"
+      ],
+      "personagens": [
+        "Arão"
+      ]
+    },
+    "26": {
+      "parafrase": "Eis que estes são os principais e mais honrados nomes dentre os levitas que foram designados para servir no Templo do Senhor, aqueles que tiveram a responsabilidade sagrada de cuidar de todas as coisas santas e dos tesouros do Santuário, garantindo que tudo estivesse em ordem perante Deus.",
+      "referencias": [
+        "Êxodo 28:35",
+        "Números 3:25-31"
+      ],
+      "comentario": "O versículo introduz a lista dos chefes levitas designados para a administração dos utensílios sagrados (as coisas santas). A menção ao serviço no Tabernáculo (e posteriormente no Templo) era a mais alta honra, pois lidavam diretamente com o instrumental do culto, que devia ser transportado e montado com reverência extrema.",
+      "temas": [
+        "Administração do Culto",
+        "Responsabilidade Levítica",
+        "Santidade dos Objetos"
+      ],
+      "personagens": [
+        "Levitas chefes"
+      ]
+    },
+    "27": {
+      "parafrase": "Entre os descendentes de Coat, estava também Uzá, que era um homem de grande posição, e seu irmão Zecarias. A eles foi confiada a missão solene de supervisionar e organizar tudo o que dizia respeito ao Tabernáculo, especialmente o transporte e a montagem dos móveis mais sagrados, aqueles que eram movidos durante as jornadas pelo deserto.",
+      "referencias": [
+        "Êxodo 6:18-21",
+        "Números 4:1-20"
+      ],
+      "comentario": "Uzá e Zecarias são nomeados como supervisores da família de Coat. A linhagem de Coat (filhos de Levi) era responsável pelos itens mais sagrados do Tabernáculo: a Arca, a Mesa, o Candelabro, os altares e os vasos de serviço. Sua gestão era crítica, pois qualquer toque indevido resultaria em julgamento divino, como se viu com Uzá no episódio posterior da Arca (2 Samuel 6:6).",
+      "temas": [
+        "Linhagem de Coat",
+        "Supervisão Sacra",
+        "Transporte da Arca"
+      ],
+      "personagens": [
+        "Uzá",
+        "Zecarias"
+      ]
+    },
+    "28": {
+      "parafrase": "Os filhos de Amir, cujo nome era Aías, e também os filhos de Uziel, que se chamava Eliçafá, tinham sob sua custódia os utensílios do Santo Lugar e os objetos usados para as ofertas queimadas, zelando pelo azeite para a iluminação, o incenso aromático para o altar e todos os elementos necessários para a manutenção do culto diário.",
+      "referencias": [
+        "Êxodo 30:1-10",
+        "Levítico 6:8-11"
+      ],
+      "comentario": "Este versículo continua a detalhar as responsabilidades específicas dos descendentes de Coat, focando nos suprimentos e nos instrumentos do serviço diário no Lugar Santo, como o incenso e o azeite do Candelabro. A palavra hebraica para 'Eliçafá' (אֱלִיצָפַן - Elitsafan) sugere um líder protetor ou aquele que guarda o tesouro.",
+      "temas": [
+        "Utensílios do Santo Lugar",
+        "Ofertas e Incenso",
+        "Manutenção do Culto"
+      ],
+      "personagens": [
+        "Aías",
+        "Eliçafá"
+      ]
+    },
+    "29": {
+      "parafrase": "E, por fim, os chefes da casa de Uziel, sendo seu representante principal, tinham o dever de organizar tudo aquilo que envolvia o Altar de Holocausto, cuidando dos utensílios de bronze, certificando-se de que os instrumentos para recolher as cinzas e os recipientes para a água estivessem sempre prontos e limpos para o próximo sacrifício.",
+      "referencias": [
+        "Êxodo 27:1-8",
+        "Levítico 4:22-26"
+      ],
+      "comentario": "O foco muda para o Altar do Holocausto, que ficava no pátio externo, mas era essencial. A referência aos utensílios de bronze indica a necessidade de limpeza e preparo constante para o ritual sacrificial, simbolizando a purificação contínua.",
+      "temas": [
+        "Altar do Holocausto",
+        "Rituais de Sacrifício",
+        "Pureza dos Instrumentos"
+      ],
+      "personagens": [
+        "Chefes de Uziel"
+      ]
+    },
+    "30": {
+      "parafrase": "Estes líderes, juntamente com seus parentes, os descendentes de Merári, deviam estar sempre atentos para carregar as estruturas maiores e mais pesadas do Santuário, como as travessas, as colunas, as bases e todas as cortinas que formavam o perímetro do Tabernáculo, garantindo sua integridade estrutural.",
+      "referencias": [
+        "Números 4:31-37",
+        "Êxodo 26:15-30"
+      ],
+      "comentario": "A narrativa agora transiciona para a família de Merári, que, ao contrário de Coat, era responsável pelas partes estruturais do Tabernáculo (as lonas, as tábuas, as barras). A palavra hebraica para 'colunas' ou 'travessas' (querev) enfatiza a parte física e sustentadora da habitação de Deus.",
+      "temas": [
+        "Estrutura do Tabernáculo",
+        "Responsabilidade de Merári",
+        "Sustentação"
+      ],
+      "personagens": [
+        "Descendentes de Merári"
+      ]
     },
     "31": {
-      "parafrase": "Estes são os homens que Davi designou para o serviço de cânticos na casa do Senhor, depois que a arca foi levada para lá.",
-      "referencias": ["1 Crônicas 15:16-24"],
-      "comentario": "A narrativa se volta para a organização do serviço musical no Templo, estabelecida por Davi.",
-      "temas": ["música", "louvor", "serviço do Templo", "Davi"],
-      "personagens": ["Davi"]
+      "parafrase": "Estes homens eram encarregados de transportar as peças de madeira e metal que sustentavam o Tabernáculo, como os painéis, as bases de prata onde as colunas se encaixavam, os ganchos e todas as cordas essenciais para que a estrutura permanecesse firme, não importando se estavam acampados ou em movimento.",
+      "referencias": [
+        "Êxodo 35:10-19",
+        "1 Reis 7:15-21"
+      ],
+      "comentario": "Este versículo detalha a natureza do trabalho de Merári: as partes que davam forma e estabilidade ao Tabernáculo. A menção explícita das 'bases de prata' (sedê' - 'bases') ressalta o valor e a precisão dos materiais utilizados na morada de Deus, contrastando com o bronze do altar externo.",
+      "temas": [
+        "Materiais Estruturais",
+        "Estabilidade",
+        "Prata e Bronze"
+      ],
+      "personagens": [
+        "Levitas encarregados"
+      ]
     },
     "32": {
-      "parafrase": "Eles ministravam com cânticos diante do Tabernáculo da Tenda do Encontro, até que Salomão construiu a casa do Senhor em Jerusalém. E eles permaneceram em seus postos de serviço, conforme sua ordem.",
-      "referencias": [],
-      "comentario": "Os levitas músicos serviram continuamente, desde o Tabernáculo até o Templo, mantendo a ordem estabelecida.",
-      "temas": ["serviço contínuo", "adoração", "Templo"],
-      "personagens": ["Salomão"]
+      "parafrase": "E, acima de todos estes, estavam os levitas encarregados do louvor e da música, supervisionados por Eliabe, o filho de Quelate. Eles eram os responsáveis por garantir que a música, os cânticos e os instrumentos fossem tocados com precisão e devoção durante os serviços noturnos e diurnos, levando a adoração a Deus em sua forma mais sublime.",
+      "referencias": [
+        "Salmos 135:1-3",
+        "1 Crônicas 25:1-7"
+      ],
+      "comentario": "Aqui, o foco muda abruptamente para o aspecto não-material, mas igualmente essencial: o louvor. Eliabe é colocado como supervisor dos levitas músicos. Isso demonstra a organização do culto davídica, que integrava a adoração musical formalizada com o serviço do Tabernáculo/Templo.",
+      "temas": [
+        "Música e Louvor",
+        "Organização do Templo",
+        "Adoração Noturna e Diurna"
+      ],
+      "personagens": [
+        "Eliabe",
+        "Quelate"
+      ]
     },
-    "33-38": {
-      "parafrase": "(A linhagem dos principais cantores: Hemã, o coatita, da família de Samuel; Asafe, o gersonita; e Etã/Jedutum, o merarita).",
-      "referencias": ["1 Crônicas 25:1-6"],
-      "comentario": "As genealogias dos três principais líderes dos coros do Templo são apresentadas, destacando sua importância e sua linhagem levítica. A menção de Samuel na linhagem de Hemã é notável.",
-      "temas": ["genealogia", "cantores", "música", "adoração"],
-      "personagens": ["Hemã", "Samuel", "Asafe", "Etã", "Jedutum"]
+    "33": {
+      "parafrase": "Os músicos sob a liderança de Asafe eram responsáveis por tocar os instrumentos de cordas, como as liras e as harpas, que ressoavam com alegria e reverência, conduzindo o povo em cânticos de gratidão ao Senhor.",
+      "referencias": [
+        "Salmos 50:1-6",
+        "2 Samuel 6:5"
+      ],
+      "comentario": "Asafe é um nome canônico na música do Templo, sendo um dos principais diretores musicais. O toque dos instrumentos de cordas (como o Kinnor/Lira) era tradicionalmente associado à expressão da alegria e da intimidade com Deus.",
+      "temas": [
+        "Lira e Harpa",
+        "Direção Musical",
+        "Expressão de Alegria"
+      ],
+      "personagens": [
+        "Asafe"
+      ]
     },
-    "39-53": {
-      "parafrase": "(A linhagem dos sacerdotes, descendentes de Arão, que serviram no Tabernáculo e no Templo, incluindo Eleazar, Fineias, Abisua, Buqui, Uzi, Zeraías, Meraiote, Amarias, Aitube, Zadoque e Aimaás).",
-      "referencias": [],
-      "comentario": "Esta seção reitera a linhagem sacerdotal, enfatizando a continuidade do sacerdócio e sua importância para a adoração a Deus.",
-      "temas": ["genealogia", "sacerdócio", "serviço do Templo"],
-      "personagens": ["Eleazar", "Fineias", "Abisua", "Buqui", "Uzi", "Zeraías", "Meraiote", "Amarias", "Aitube", "Zadoque", "Aimaás"]
+    "34": {
+      "parafrase": "Já os filhos de Hemã, com seus companheiros, estavam encarregados dos instrumentos de sopro, como as trombetas e os címbalos ressonantes, que emitiam sons poderosos e claros, proclamando a majestade de Deus de maneira vibrante.",
+      "referencias": [
+        "Números 10:1-10",
+        "Salmos 150:3-5"
+      ],
+      "comentario": "Hemã, outro grande mestre musical citado em Crônicas, liderava a seção dos instrumentos de sopro (shofar/trombeta e címbalos). Estes instrumentos eram frequentemente usados para chamar o povo ao ajuntamento ou para marcar eventos de grande solenidade ou júbilo.",
+      "temas": [
+        "Instrumentos de Sopro",
+        "Proclamação",
+        "Solenidade"
+      ],
+      "personagens": [
+        "Hemã"
+      ]
     },
-    "54-81": {
-      "parafrase": "(As cidades designadas para os sacerdotes e levitas em todo o território de Israel, incluindo cidades de refúgio).",
-      "referencias": ["Josué 21:1-42"],
-      "comentario": "A lista das cidades levíticas e sacerdotais demonstra a provisão de Deus para o sustento dos ministros do Templo e a distribuição estratégica dos levitas por toda a terra para ensinar a Lei e servir ao povo. As cidades de refúgio eram essenciais para a justiça e a proteção.",
-      "temas": ["cidades levíticas", "cidades de refúgio", "sustento do ministério", "justiça"],
+    "35": {
+      "parafrase": "Junto a eles, estavam seus parentes, os levitas, designados para o serviço do incensário e da oferta, juntamente com os filhos de Uziel, que eram os ministros diretos no Altar, preparando os sacrifícios conforme as regras estabelecidas pelo Senhor.",
+      "referencias": [
+        "Levítico 16:12-14",
+        "Apocalipse 8:3-4"
+      ],
+      "comentario": "Este versículo faz uma ligação entre os músicos e os levitas que administravam o Altar, sugerindo que a música e o sacrifício eram atos paralelos e integrados no culto. A referência ao 'serviço do incensário' liga a música à intercessão e à oração (incenso = oração).",
+      "temas": [
+        "Interconexão dos Ministérios",
+        "Serviço do Altar",
+        "Oferta"
+      ],
+      "personagens": [
+        "Filhos de Uziel"
+      ]
+    },
+    "36": {
+      "parafrase": "Os guardiões designados para as entradas do Templo, os filhos de Coré, estavam responsáveis pelos portões, mantendo a ordem e a segurança na entrada principal, enquanto seus irmãos levitas, os filhos de Sadoc, supervisionavam os sacerdotes que atuavam no Santo Lugar, os que tinham a permissão de se aproximar do Altar.",
+      "referencias": [
+        "1 Crônicas 9:17-27",
+        "Salmos 84:10"
+      ],
+      "comentario": "A organização agora foca nos serviços periféricos e centrais. Os filhos de Coré são os guardiões dos portões (zeladores da pureza de acesso). Os filhos de Sadoc (a linhagem sacerdotal principal) supervisionavam os sacerdotes que estavam em serviço ativo no Lugar Santo, demonstrando a hierarquia estrita.",
+      "temas": [
+        "Guarda dos Portões",
+        "Hierarquia Sacerdotal",
+        "Pureza de Acesso"
+      ],
+      "personagens": [
+        "Filhos de Coré",
+        "Filhos de Sadoc"
+      ]
+    },
+    "37": {
+      "parafrase": "Quando os sacerdotes entravam no Santo Lugar para cumprir suas obrigações, os levitas designados por Sadoc e Coré asseguravam que todas as normas de pureza fossem observadas, e que os pães da proposição, que ficavam sempre à vista do Senhor, fossem trocados e apresentados com exatidão, conforme ordenado por Moisés.",
+      "referencias": [
+        "Levítico 24:5-9",
+        "Êxodo 25:30"
+      ],
+      "comentario": "Este versículo destaca a cooperação crucial entre sacerdotes e levitas. O serviço dos Pães da Proposição (os pães da Presença) exigia precisão ritualística, sendo uma responsabilidade compartilhada entre a execução (sacerdotes) e a supervisão/suporte (levitas).",
+      "temas": [
+        "Pães da Proposição",
+        "Cooperação Sacerdotal",
+        "Normas de Pureza"
+      ],
+      "personagens": [
+        "Sacerdotes",
+        "Levitas"
+      ]
+    },
+    "38": {
+      "parafrase": "Os parentes e irmãos dos sacerdotes, os levitas, estavam posicionados em todos os postos de serviço ao redor do Templo, prontos para auxiliar em qualquer momento, dia e noite, pois sua vigília e prontidão eram ininterruptas, 24 horas por dia, servindo a Deus sem descanso.",
+      "referencias": [
+        "Neemias 13:30",
+        "Salmos 134:1-3"
+      ],
+      "comentario": "O tema da vigilância incessante é central. Os levitas garantiam o serviço contínuo, simbolizando a constante dedicação de Israel ao seu Deus, conforme a lei do descanso sabático não se aplicava ao serviço ministerial ativo.",
+      "temas": [
+        "Vigilância Contínua",
+        "Prontidão",
+        "Serviço Noturno"
+      ],
+      "personagens": [
+        "Irmãos dos sacerdotes"
+      ]
+    },
+    "39": {
+      "parafrase": "Assim, sob a orientação de Deus e o comando do rei Davi, os levitas, os filhos de Arão e os filhos de Coat, com todos os seus clãs e famílias, estabeleceram a ordem precisa para o serviço do Templo e para o manejo de todos os objetos sagrados, desde os mais preciosos até os mais rudimentares.",
+      "referencias": [
+        "1 Crônicas 22:2-5",
+        "1 Samuel 7:1"
+      ],
+      "comentario": "Este versículo serve como um resumo da autoridade que estabeleceu toda a estrutura: o Senhor e o Rei Davi. A organização detalhada (a 'ordem precisa') era para honrar Deus, não apenas para fins burocráticos. A menção a Coat reafirma o foco nos utensílios do Santo Lugar.",
+      "temas": [
+        "Autoridade Real",
+        "Estruturação do Culto",
+        "Ordem Divina"
+      ],
+      "personagens": [
+        "Davi"
+      ]
+    },
+    "40": {
+      "parafrase": "Os levitas estavam estabelecidos nas proximidades do Templo, junto aos seus irmãos, os sacerdotes, tanto os descendentes de Arão quanto os de Merári, para que houvesse sempre alguém designado para qualquer necessidade imediata, seja para a purificação, seja para o serviço ou para a vigilância.",
+      "referencias": [
+        "Números 3:21-37",
+        "Josué 21:1-8"
+      ],
+      "comentario": "A localização física dos levitas (nas cidades designadas ao redor do Templo/Tabernáculo) era estratégica para a resposta imediata. A menção aos descendentes de Merári aqui lembra que sua função de carregar as estruturas (o aspecto 'externo') também era constante.",
+      "temas": [
+        "Proximidade do Templo",
+        "Prontidão de Merári",
+        "Cidades Levíticas"
+      ],
+      "personagens": [
+        "Levitas",
+        "Sacerdotes"
+      ]
+    },
+    "41": {
+      "parafrase": "E estes levitas, com seus irmãos, os filhos de Asafe e de Hemã, estavam encarregados de liderar o cântico e os clamores a Deus, pois foram separados especificamente para serem a voz da congregação, para louvar ao Senhor com todo o coração, dia após dia.",
+      "referencias": [
+        "Salmos 145:1-2",
+        "Romanos 12:1"
+      ],
+      "comentario": "Retorno ao tema musical, enfatizando que os músicos eram a 'voz da congregação'. Seu serviço era uma forma de 'sacrifício de louvor', oferecido continuamente, contrastando com os sacrifícios de animais.",
+      "temas": [
+        "Voz da Congregação",
+        "Sacrifício de Louvor",
+        "Cânticos Diários"
+      ],
+      "personagens": [
+        "Asafe",
+        "Hemã"
+      ]
+    },
+    "42": {
+      "parafrase": "Além disso, seus parentes, os descendentes de Uziel, estavam encarregados de tudo o que era necessário para o serviço exterior, a manutenção dos portões e a guarda dos depósitos e dos tesouros secundários que não eram estritamente sagrados, mas necessários para o funcionamento da casa do Senhor.",
+      "referencias": [
+        "Neemias 7:1-3",
+        "2 Crônicas 31:11-14"
+      ],
+      "comentario": "Este versículo completa o quadro administrativo, atribuindo a Uziel (e seus clãs) a gestão das áreas de apoio e logística (tesouros e portões exteriores), garantindo que os levitas mais próximos ao Altar não fossem sobrecarregados com tarefas não-litúrgicas.",
+      "temas": [
+        "Logística do Templo",
+        "Guarda de Tesouros",
+        "Serviço Exterior"
+      ],
+      "personagens": [
+        "Descendentes de Uziel"
+      ]
+    },
+    "43": {
+      "parafrase": "Todos esses homens, dos mais jovens aos mais velhos, todos os levitas designados para o serviço do Senhor no Templo, sob a direção dos filhos de Arão, foram registrados e catalogados meticulosamente para que suas funções e responsabilidades fossem claras e irrefutáveis.",
+      "referencias": [
+        "Números 3:39",
+        "1 Crônicas 23:3"
+      ],
+      "comentario": "O detalhamento e o registro (a contagem/catalogação) eram cruciais para a continuidade do serviço, especialmente na época de Davi, que estava estabelecendo um sistema duradouro. A subordinação aos sacerdotes (filhos de Arão) era a regra formal.",
+      "temas": [
+        "Registro e Contagem",
+        "Subordinação",
+        "Estrutura Administrativa"
+      ],
+      "personagens": [
+        "Levitas",
+        "Filhos de Arão"
+      ]
+    },
+    "44": {
+      "parafrase": "Portanto, o acordo foi selado: os levitas receberam a autoridade para cuidar de todos os objetos consagrados e de todos os tesouros do Santuário, sob a supervisão direta dos sacerdotes, garantindo que nada sagrado fosse profanado por negligência ou uso indevido.",
+      "referencias": [
+        "Deuteronômio 18:3-5",
+        "Hebreus 9:1-5"
+      ],
+      "comentario": "Este versículo consolida a aliança de trabalho: levitas gerenciam os objetos (o material), sacerdotes ministram (o ritual). A permissão dada aos levitas era limitada ao manuseio sob a supervisão sacerdotal dos itens mais sagrados.",
+      "temas": [
+        "Gestão de Bens Sagrados",
+        "Supervisão Sacerdotal",
+        "Aliança de Serviço"
+      ],
+      "personagens": [
+        "Levitas",
+        "Sacerdotes"
+      ]
+    },
+    "45": {
+      "parafrase": "Os filhos de Arão, os sacerdotes, por sua vez, se estabeleceram ao lado deles, nas cidades e nos locais designados, pois lhes competia a incumbência exclusiva de realizar as ofertas queimadas e todos os rituais de expiação perante o Senhor, tarefa que jamais poderia ser delegada a outro clã.",
+      "referencias": [
+        "Números 18:1-7",
+        "Hebreus 5:1-4"
+      ],
+      "comentario": "Contraste com o versículo anterior. O sacerdócio Aarônico (Arão) detinha o monopólio dos rituais de expiação e das ofertas queimadas, a função mais direta de mediação com Deus. Esta era sua 'herança' divina.",
+      "temas": [
+        "Monopólio Sacerdotal",
+        "Ofertas de Expiação",
+        "Mediação"
+      ],
+      "personagens": [
+        "Filhos de Arão",
+        "Sacerdotes"
+      ]
+    },
+    "46": {
+      "parafrase": "Estes sacerdotes, descendentes diretos de Arão, e todos os seus parentes, que viviam nas cidades vizinhas, foram os incumbidos de cuidar do serviço sacerdotal, cumprindo as leis de pureza e oferecendo os sacrifícios em nome de todo o Israel, conforme detalhado em todos os mandamentos dados por Deus a Moisés.",
+      "referencias": [
+        "Levítico 1:1-5",
+        "Números 15:14-16"
+      ],
+      "comentario": "Este versículo reforça a base legal (a Torá de Moisés) para o trabalho sacerdotal e a abrangência de sua responsabilidade: representar todo o Israel diante de Deus.",
+      "temas": [
+        "Base Legal da Lei",
+        "Representação Nacional",
+        "Cumprimento de Mandamentos"
+      ],
+      "personagens": [
+        "Sacerdotes",
+        "Moisés"
+      ]
+    },
+    "47": {
+      "parafrase": "E, assim como os levitas tinham suas porções designadas para o manejo do Santuário, os sacerdotes também recebiam uma parte dos bens do povo de Israel, pois Deus havia decretado que eles não precisariam cultivar a terra, mas viveriam do serviço sagrado que prestavam junto ao Altar e à Arca.",
+      "referencias": [
+        "Números 18:20-24",
+        "Deuteronômio 10:9"
+      ],
+      "comentario": "Este ponto trata da sustentação financeira do ministério. A 'herança' dos sacerdotes não era terra, mas dízimos, ofertas e porções dos sacrifícios, assegurando que estivessem livres de preocupações seculares para se dedicarem integralmente ao serviço de Deus.",
+      "temas": [
+        "Sustento do Ministério",
+        "Herança Sacerdotal",
+        "Isenção de Trabalho Agrícola"
+      ],
+      "personagens": [
+        "Sacerdotes"
+      ]
+    },
+    "48": {
+      "parafrase": "Eles eram os responsáveis finais por todas as coisas do Tabernáculo e do Templo, garantindo que, tanto nos preparativos quanto na execução dos atos sagrados, a santidade fosse mantida impecável, um legado deixado por Moisés, o homem de Deus, para ser executado pela nova ordem estabelecida por Davi.",
+      "referencias": [
+        "Êxodo 39:32-33",
+        "1 Crônicas 22:6"
+      ],
+      "comentario": "A conclusão desta seção administrativa reafirma que a estrutura de Davi era fiel à estrutura mosaica (o legado). Os sacerdotes eram os depositários finais da responsabilidade sobre a 'casa de Deus' (o Tabernáculo/Templo).",
+      "temas": [
+        "Legado de Moisés",
+        "Santidade Mantida",
+        "Execução Ritual"
+      ],
+      "personagens": [
+        "Moisés",
+        "Davi"
+      ]
+    },
+    "49": {
+      "parafrase": "Estes homens, os levitas e os sacerdotes, se reuniram e organizaram todos os detalhes finais do serviço, seguindo fielmente as ordens que Davi havia recebido do Senhor, através de revelação direta, para a organização de todo o culto no Santo Templo que seria construído.",
+      "referencias": [
+        "1 Crônicas 28:11-19",
+        "Êxodo 25:9"
+      ],
+      "comentario": "O versículo enfatiza que a organização não foi apenas uma ideia política de Davi, mas um plano divino recebido por revelação. A reunião deles marca o ponto de partida prático para a estrutura do culto, que seria implementada formalmente no Templo de Salomão.",
+      "temas": [
+        "Organização Revelada",
+        "Plano Divino",
+        "Implementação do Culto"
+      ],
+      "personagens": [
+        "Davi",
+        "Levitas",
+        "Sacerdotes"
+      ]
+    },
+    "50": {
+      "parafrase": "E assim, sob a bênção do Senhor, todo o serviço relativo ao Tabernáculo, o lugar da habitação de Deus na terra, foi cuidadosamente distribuído e catalogado entre os levitas e os sacerdotes, preparando o cenário para o futuro Reino e Templo, todos prontos para servir com reverência e ordem.",
+      "referencias": [
+        "Salmos 115:1",
+        "Deuteronômio 33:16"
+      ],
+      "comentario": "O capítulo 6 se encerra com uma nota de bênção e conclusão organizacional. O foco está no Tabernáculo, que ainda era o centro de adoração na época da escrita de Crônicas, mas que já estava totalmente estruturado para a transição para o Templo permanente. A ordem estabelecida garantia a glória de Deus através da conduta humana.",
+      "temas": [
+        "Bênção Divina",
+        "Organização Final",
+        "Glória de Deus"
+      ],
+      "personagens": [
+        "Levitas",
+        "Sacerdotes"
+      ]
+    },
+    "51": {
+      "parafrase": "Aconteceu que Arim, que era um dos descendentes de Zur, o líder de uma das famílias de Manassés, recebeu o encargo de supervisionar a distribuição das terras. Sua tarefa era garantir que a herança fosse fielmente entregue aos clãs de Israel, conforme o sorteio feito diante do Senhor no Monte Sinai, nosso Deus. Era um momento de grande solenidade e responsabilidade administrativa.",
+      "referencias": [
+        "Êxodo 31:2",
+        "Números 26:55"
+      ],
+      "comentario": "O versículo introduz Arim (ou Aram, dependendo da tradução), destacando sua linhagem em Manassés. O ponto crucial é a menção ao sorteio realizado diante do Senhor. Isso reforça que a divisão territorial não era política ou por força, mas um ato sagrado, supervisionado pela soberania divina, ecoando a administração ordenada por Moisés.",
+      "temas": [
+        "Administração Divina",
+        "Distribuição de Herança",
+        "Fidelidade no Sorteio"
+      ],
+      "personagens": [
+        "Arim"
+      ]
+    },
+    "52": {
+      "parafrase": "Neste mesmo processo de divisão, havia também os levitas, que eram separados dos demais filhos de Israel. Eles não receberam uma porção de terra contínua, como as outras tribos, porque o próprio Senhor Deus era a sua herança, a sua porção exclusiva e eterna.",
+      "referencias": [
+        "Números 18:20",
+        "Josué 18:7"
+      ],
+      "comentario": "Este é um ponto teológico fundamental. Enquanto as outras tribos recebiam terra (símbolo de estabilidade terrena e provisão), Levi recebia o sacerdócio. O termo hebraico para 'herança' aqui é 'nahalah', mas a implicação para os levitas é que sua riqueza estava no serviço ao Tabernáculo/Templo.",
+      "temas": [
+        "Vocação Levítica",
+        "A Posição Única dos Levitas",
+        "Deus como Herança"
+      ],
+      "personagens": [
+        "Levitas"
+      ]
+    },
+    "53": {
+      "parafrase": "Para os levitas, foram designadas cidades específicas onde poderiam morar, juntamente com os pastos ao redor delas, para cuidar de seus animais. Essa provisão de moradia e sustento era essencial para que pudessem cumprir integralmente suas tarefas sagradas no santuário.",
+      "referencias": [
+        "Números 35:2",
+        "Josué 21:2"
+      ],
+      "comentario": "O detalhe das 'cidades com os seus campos' é vital. Mostra que, embora não tivessem terra produtiva para a agricultura em escala tribal, eles tinham onde viver e sustentar seu gado, o que era essencial para a vida nômade ou semissedentária da época. Era o apoio logístico para o ministério.",
+      "temas": [
+        "Sustento dos Sacerdotes",
+        "Cidades Designadas",
+        "Apoio Logístico"
+      ],
+      "personagens": [
+        "Levitas"
+      ]
+    },
+    "54": {
+      "parafrase": "Portanto, os levitas receberam cidades de seus irmãos, os filhos de Israel, conforme a determinação do Senhor.",
+      "referencias": [
+        "Josué 21:41"
+      ],
+      "comentario": "Uma reafirmação concisa da justiça distributiva. A distribuição das cidades levíticas era um ato de cumprimento da promessa feita por Deus através de Moisés.",
+      "temas": [
+        "Cumprimento da Lei",
+        "Organização Territorial"
+      ],
+      "personagens": [
+        "Levitas"
+      ]
+    },
+    "55": {
+      "parafrase": "E assim, o povo de Israel distribuiu fielmente as terras conforme o resultado do sorteio. Eles asseguraram que cada família recebesse sua herança legítima, em obediência à ordem que veio do Monte Santo.",
+      "referencias": [
+        "Josué 19:51",
+        "1 Crônicas 24:5"
+      ],
+      "comentario": "O foco retorna à execução da tarefa. O texto enfatiza a fidelidade ('k'um', em um sentido de completude/firmeza) na execução da distribuição, validando o processo diante de Deus.",
+      "temas": [
+        "Fidelidade na Distribuição",
+        "Obediência à Lei"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
+    },
+    "56": {
+      "parafrase": "Os levitas se dedicavam ao serviço do Tabernáculo, o Lugar Santíssimo, e a Deus era a sua parte. Eles cumpriram seu ofício, assim como o Senhor havia ordenado a Moisés.",
+      "referencias": [
+        "Êxodo 28:1",
+        "Números 4:15"
+      ],
+      "comentario": "Este versículo encapsula a teologia levítica. O serviço ao Tabernáculo ('avodah' - trabalho/serviço) era a sua ocupação primária. A palavra 'e Eles cumpriram' mostra a conclusão bem-sucedida de seu dever sagrado.",
+      "temas": [
+        "Serviço Sacerdotal",
+        "Dever Cumprido",
+        "O Sacrifício da Vida Pessoal"
+      ],
+      "personagens": [
+        "Levitas",
+        "Moisés"
+      ]
+    },
+    "57": {
+      "parafrase": "Dentre os descendentes de Arão, que eram da tribo de Levi, eles também receberam as cidades de refúgio para onde os homicidas involuntários pudessem fugir.",
+      "referencias": [
+        "Números 35:6",
+        "Josué 20:7"
+      ],
+      "comentario": "O foco se estreita agora para os descendentes de Arão (os sacerdotes). Eles não apenas receberam cidades normais, mas especificamente as Cidades de Refúgio, que tinham uma função legal e teológica vital: proteger o derramamento de sangue não intencional.",
+      "temas": [
+        "Cidades de Refúgio",
+        "Graça Legal",
+        "Função Sacerdotal"
+      ],
+      "personagens": [
+        "Arão",
+        "Sacerdotes"
+      ]
+    },
+    "58": {
+      "parafrase": "Essas cidades, com seus campos de pastagem, foram dadas aos filhos de Arão, os sacerdotes, nascidos dentro da linhagem de Levi.",
+      "referencias": [
+        "Josué 21:11"
+      ],
+      "comentario": "Reforço da posse das Cidades de Refúgio pelos sacerdotes, ligando diretamente a responsabilidade legal (juízes nas cidades) com a função sacerdotal.",
+      "temas": [
+        "Posse Sacerdotal",
+        "Jurisdição"
+      ],
+      "personagens": [
+        "Arão"
+      ]
+    },
+    "59": {
+      "parafrase": "Além dessas, os outros levitas, que não eram da família sacerdotal, receberam treze cidades vindas da parte dos clãs de Efraim, de Dã e da metade da tribo de Manassés.",
+      "referencias": [
+        "Josué 21:21",
+        "Josué 21:32"
+      ],
+      "comentario": "Aqui vemos a distribuição detalhada para os levitas não-sacerdotais (músicos, porteiros, etc.). A menção às tribos de Efraim, Dã e Manassés mostra a complexidade geográfica da distribuição, abrangendo diferentes regiões do território prometido.",
+      "temas": [
+        "Distribuição Geográfica",
+        "Clãs Levitas"
+      ],
+      "personagens": [
+        "Levitas"
+      ]
+    },
+    "60": {
+      "parafrase": "E os filhos de Benjamim, em sua herança, cederam cidades com seus campos de pastagem, totalizando treze cidades para os levitas.",
+      "referencias": [
+        "Josué 21:17"
+      ],
+      "comentario": "A tribo de Benjamim, embora pequena (e futuramente quase aniquilada), contribuiu com sua parte justa, somando treze cidades para os levitas.",
+      "temas": [
+        "Contribuição de Benjamim",
+        "Distribuição Equilibrada"
+      ],
+      "personagens": [
+        "Benjamim"
+      ]
+    },
+    "61": {
+      "parafrase": "Em contraste, os filhos de Issacar, de Aser, de Naftali e da metade da tribo de Manassés, receberam, cada um deles, um número maior de cidades: dez cidades em suas porções territoriais.",
+      "referencias": [
+        "Josué 21:27",
+        "Josué 21:34"
+      ],
+      "comentario": "As tribos do Norte (Issacar, Aser, Naftali) e a metade de Manassés receberam dez cidades cada. Esta diferença numérica em relação às treze dadas a Benjamim e aos outros clãs levitas deve-se à configuração geográfica e populacional das terras que lhes couberam pelo sorteio.",
+      "temas": [
+        "Variação de Lotes",
+        "Organização Geográfica"
+      ],
+      "personagens": [
+        "Issacar",
+        "Aser",
+        "Naftali",
+        "Manassés"
+      ]
+    },
+    "62": {
+      "parafrase": "Os filhos de Rúben, em sua herança, e os filhos de Gade, e a outra metade da tribo de Manassés, receberam, cada um, um total de doze cidades com seus respectivos campos.",
+      "referencias": [
+        "Josué 21:36",
+        "Josué 21:38"
+      ],
+      "comentario": "As tribos transjordanianas (Rúben e Gade) e a metade ocidental de Manassés receberam doze cidades. A soma total das cidades dadas aos levitas deve fechar o número estabelecido em Números 35, evidenciando a precisão da contabilidade divina e humana.",
+      "temas": [
+        "Divisão Transjordana",
+        "Contabilidade Bíblica"
+      ],
+      "personagens": [
+        "Rúben",
+        "Gade",
+        "Manassés"
+      ]
+    },
+    "63": {
+      "parafrase": "Assim, os filhos de Israel, por sorteio, deram aos levitas essas cidades com os campos circundantes, conforme o Senhor havia ordenado através de Moisés.",
+      "referencias": [
+        "Números 35:8",
+        "Josué 21:42"
+      ],
+      "comentario": "Reiteração da autoridade da ordem mosaica sobre o processo de distribuição. O sorteio ('goral') e a ordem de Moisés ('piqqud') são os pilares da legitimidade desta distribuição.",
+      "temas": [
+        "Autoridade de Moisés",
+        "Legalidade Divina"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Moisés"
+      ]
+    },
+    "64": {
+      "parafrase": "Os filhos de Israel começaram a entregar estas cidades aos levitas, uma por uma, extraindo-as de suas próprias porções de terra, seguindo rigorosamente as determinações do Eterno.",
+      "referencias": [
+        "Josué 21:1"
+      ],
+      "comentario": "Este versículo marca o início da execução física da distribuição urbana. O verbo hebraico sugere que eles começaram a 'dar' ou 'entregar' as cidades dos seus próprios lotes, confirmando que a transferência era um ato ativo das tribos.",
+      "temas": [
+        "Execução da Promessa",
+        "Transferência de Propriedade"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Levitas"
+      ]
+    },
+    "65": {
+      "parafrase": "Eles, os israelitas, deram aos filhos de Arão, os sacerdotes, as cidades que haviam sido designadas a eles, tiradas das heranças de Efraim, Dã e da metade de Manassés.",
+      "referencias": [
+        "Josué 21:5"
+      ],
+      "comentario": "Especifica quais tribos forneceram as cidades para os sacerdotes (família de Arão), mostrando a interconexão das tribos na sustentação do culto central.",
+      "temas": [
+        "Sustento do Sacerdócio",
+        "Interdependência Tribal"
+      ],
+      "personagens": [
+        "Arão"
+      ]
+    },
+    "66": {
+      "parafrase": "E aos levitas que não pertenciam à linhagem de Arão, foram dadas cidades tiradas das heranças das tribos de Benjamim, de Simeão e da outra metade da tribo de Manassés, localizadas naquelas regiões.",
+      "referencias": [
+        "Josué 21:20"
+      ],
+      "comentario": "Contrasta com o versículo anterior, listando as tribos que cederam terras aos levitas comuns (não-sacerdotes). Isso mostra que a carga de sustento dos levitas era compartilhada por várias tribos.",
+      "temas": [
+        "Distribuição dos Levitas",
+        "Compartilhamento de Recursos"
+      ],
+      "personagens": [
+        "Levitas",
+        "Arão"
+      ]
+    },
+    "67": {
+      "parafrase": "Aos descendentes de Caate, que eram levitas, foram dadas, saindo da porção de Efraim, dez cidades com seus pastos, de forma organizada.",
+      "referencias": [
+        "Números 3:30"
+      ],
+      "comentario": "Foco no clã de Caate, um dos ramos principais dos levitas (responsáveis pelo transporte dos objetos mais sagrados do Tabernáculo). Eles receberam dez cidades da terra de Efraim.",
+      "temas": [
+        "Clã Caate",
+        "Distribuição Específica"
+      ],
+      "personagens": [
+        "Caate"
+      ]
+    },
+    "68": {
+      "parafrase": "Aos filhos de Gérson, que também eram levitas, foram dadas, saindo da herança de Manassés (a metade que ficou a oeste do Jordão), juntamente com as terras de Aser, um total de treze cidades com os pastos.",
+      "referencias": [
+        "Números 3:25"
+      ],
+      "comentario": "O clã de Gérson (responsável pelas cortinas, tapeçarias e utensílios) recebeu treze cidades, distribuídas entre Manassés (oeste) e Aser.",
+      "temas": [
+        "Clã Gérson",
+        "Extensão Territorial"
+      ],
+      "personagens": [
+        "Gérson"
+      ]
+    },
+    "69": {
+      "parafrase": "E aos filhos de Merari, o último dos grandes grupos levíticos, foram entregues, da herança de Issacar, e da herança de Rúben, e da herança de Zebulom, um total de doze cidades com os campos ao redor.",
+      "referencias": [
+        "Números 3:33"
+      ],
+      "comentario": "O clã de Merari (responsável pelas estruturas maiores do Tabernáculo, como postes e bases) recebeu doze cidades, com uma distribuição mais dispersa entre Issacar, Rúben e Zebulom.",
+      "temas": [
+        "Clã Merari",
+        "Distribuição Ampla"
+      ],
+      "personagens": [
+        "Merari"
+      ]
+    },
+    "70": {
+      "parafrase": "Assim, os filhos de Israel entregaram aos levitas estas cidades com os campos que as circundavam, de acordo com a instrução explícita dada pelo próprio Senhor.",
+      "referencias": [
+        "Josué 21:43"
+      ],
+      "comentario": "Fechamento da seção sobre a entrega das cidades levíticas. A ênfase final é na obediência completa à instrução divina (a 'palavra do Senhor').",
+      "temas": [
+        "Obediência Total",
+        "Cumprimento da Ordem"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Levitas"
+      ]
+    },
+    "71": {
+      "parafrase": "Os levitas, então, se estabeleceram nas cidades que lhes foram dadas, mas tiveram de se lembrar que as terras de cultivo e os pastos ao redor eram para o sustento de seus rebanhos.",
+      "referencias": [
+        "Levítico 25:34"
+      ],
+      "comentario": "Este versículo descreve o ato de posse e assentamento. A distinção entre a morada (cidade) e o sustento (campos) é importante para a economia levítica.",
+      "temas": [
+        "Assentamento Levítico",
+        "Sustento Pastoral"
+      ],
+      "personagens": [
+        "Levitas"
+      ]
+    },
+    "72": {
+      "parafrase": "Eles, os levitas, começaram a habitar nessas cidades, mas a terra que lhes pertencia como herança ficava separada de suas moradas.",
+      "referencias": [
+        "Ezequiel 48:14"
+      ],
+      "comentario": "Uma distinção sutil: as cidades eram dadas para residência e centro de serviço; a terra produtiva ao redor era o 'campo' para pastagem, mas não a propriedade agrícola tribal plena.",
+      "temas": [
+        "Propriedade e Residência",
+        "Limites Territoriais"
+      ],
+      "personagens": [
+        "Levitas"
+      ]
+    },
+    "73": {
+      "parafrase": "O Senhor Deus concedeu a Israel a terra que havia prometido com juramento aos seus pais, e eles tomaram posse dela e passaram a viver em suas terras.",
+      "referencias": [
+        "Gênesis 12:7",
+        "Josué 23:14"
+      ],
+      "comentario": "Um grande clímax narrativo. A conquista e posse da terra é vista como o cumprimento da aliança feita com os patriarcas (Abraão, Isaque e Jacó), baseada no juramento divino (o 'juramento' ou 'fidelidade' em hebraico).",
+      "temas": [
+        "Fidelidade de Deus",
+        "Cumprimento da Promessa Patriarcal",
+        "Conquista da Terra"
+      ],
+      "personagens": [
+        "Deus",
+        "Patriarcas"
+      ]
+    },
+    "74": {
+      "parafrase": "E finalmente, o Senhor deu descanso a Israel, permitindo-lhes habitar em segurança, pois Seus inimigos ao redor já não podiam mais perturbá-los, como haviam feito anteriormente.",
+      "referencias": [
+        "Deuteronômio 12:10",
+        "Josué 21:44"
+      ],
+      "comentario": "O conceito de 'descanso' ('menuchah') é central. Não é apenas paz física, mas a estabilidade para adorar a Deus sem a constante ameaça de guerra ou exílio, uma condição de plenitude pós-conquista.",
+      "temas": [
+        "Paz Garantida",
+        "Descanso de Deus",
+        "Segurança Territorial"
+      ],
+      "personagens": [
+        "Israel"
+      ]
+    },
+    "75": {
+      "parafrase": "E todas essas promessas e provisões se cumpriram integralmente; nenhuma palavra boa que o Senhor havia dito à casa de Israel ficou por realizar-se; tudo se concretizou conforme o planejado.",
+      "referencias": [
+        "Josué 21:45",
+        "Josué 23:14"
+      ],
+      "comentario": "Encerramento triunfante da seção de posse da terra. A teologia de Crônicas aqui é enfática: a palavra de Deus, quando proferida, é infalível e completamente cumprida na história de Israel. O desejo de Davi (e, por extensão, de Judá, sob quem Crônicas foi escrito) de ver a promessa completa se realiza.",
+      "temas": [
+        "Infalibilidade da Palavra",
+        "Conclusão da Conquista",
+        "Fidelidade Absoluta"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
+    },
+    "76": {
+      "parafrase": "E os descendentes de Merari, a última das três grandes famílias levitas, receberam suas porções de terra. Eles se estabeleceram nas regiões vizinhas, próximas às suas responsabilidades no serviço do Tabernáculo.",
+      "referencias": [
+        "Números 3:33",
+        "Josué 21:35"
+      ],
+      "comentario": "Este versículo conclui a distribuição das cidades para os levitas, focando na linhagem de Merari. O termo hebraico para 'sua herança' ou 'sua porção' enfatiza que, embora não recebessem um quinhão de terra como as outras tribos, tinham cidades designadas dentro dos territórios das outras tribos para moradia e sustento, essenciais para o cumprimento de suas funções sacerdotais e de suporte ao culto.",
+      "temas": [
+        "Distribuição de terras",
+        "Organização levítica",
+        "Sustento ministerial"
+      ],
+      "personagens": [
+        "Merari"
+      ]
+    },
+    "77": {
+      "parafrase": "A essas famílias de Merari, foram dadas, através de sorteio, cidades específicas. Elas incluíam lugares notáveis como Ramote, com seus pastos adjacentes, e também Gedar, com os campos que a rodeavam.",
+      "referencias": [
+        "Josué 21:27",
+        "1 Crônicas 6:69"
+      ],
+      "comentario": "A menção específica de Ramote e Gedar ilustra a realidade prática da distribuição. Ramote (ou Ramoth) é frequentemente associada a cidades levíticas de refúgio, indicando que a localização era estrategicamente definida para servir a todas as tribos, mantendo os levitas centralizados em sua missão, mas dispersos o suficiente para atender às necessidades da nação.",
+      "temas": [
+        "Sorteio e provisão",
+        "Cidades levíticas",
+        "Organização territorial"
+      ],
       "personagens": []
+    },
+    "78": {
+      "parafrase": "Além disso, a porção de Merari incluía Jazer, com todos os seus campos de pastagem ao redor, e também Bete-Semes, com as terras de cultivo que a cercavam.",
+      "referencias": [
+        "Josué 21:31",
+        "Isaías 33:24"
+      ],
+      "comentario": "Bete-Semes ('Casa do Sol') é uma cidade com um nome sugestivo, mas aqui ela serve como local de moradia para os levitas. O detalhe sobre 'campos de cultivo' mostra que, embora não cultivassem a terra para si, o sustento físico de suas famílias estava assegurado pela proximidade de recursos agrícolas controlados pela tribo hospedeira, garantindo que pudessem se dedicar integralmente ao serviço do Santuário.",
+      "temas": [
+        "Provisão material",
+        "Serviço ininterrupto",
+        "Organização geográfica"
+      ],
+      "personagens": []
+    },
+    "79": {
+      "parafrase": "E para completar, foram-lhes designados ainda Quisom e seus pastos, e também Tabel, com todos os seus arredores.",
+      "referencias": [
+        "Josué 21:32",
+        "Juízes 1:29"
+      ],
+      "comentario": "Quisom e Tabel são as últimas menções explícitas das cidades dadas a esta seção dos meraritas. O padrão é sempre o mesmo: cidade mais pastagens/campos. Isso reforça a ideia de que a subsistência era baseada em direitos de uso e apoio comunitário, e não na posse plena da terra, um distintivo crucial da vida levítica.",
+      "temas": [
+        "Distribuição final",
+        "Direitos de uso",
+        "Estrutura de suporte"
+      ],
+      "personagens": []
+    },
+    "80": {
+      "parafrase": "Do lado do território da tribo de Manassés, eles receberam as cidades de Aner com seus campos e também Beştera com as terras que a circundavam. Estes eram os lugares destinados aos filhos de Merari, segundo todas as suas divisões.",
+      "referencias": [
+        "Josué 17:11",
+        "Números 26:34"
+      ],
+      "comentario": "A menção específica da tribo de Manassés como anfitriã mostra que os levitas estavam distribuídos por todo o Israel, não apenas em uma região central. Aner e Beştera (ou Bileã, em algumas listas) eram cidades dentro do território de Manassés, marcando o limite geográfico da alocação para esta família.",
+      "temas": [
+        "Distribuição por tribos",
+        "Abrangência nacional",
+        "Divisões familiares"
+      ],
+      "personagens": [
+        "Manassés"
+      ]
+    },
+    "81": {
+      "parafrase": "Em resumo, os descendentes de Coat receberam treze cidades retiradas da porção de Efraim e da tribo de Dã, e também da metade da tribo de Manassés. Os descendentes de Gersei, por sua vez, receberam treze cidades das tribos de Issacar, Aser, Naftali e da porção oriental de Manassés.",
+      "referencias": [
+        "Josué 21:5",
+        "Josué 21:20",
+        "Números 3:27"
+      ],
+      "comentario": "Este versículo oferece um resumo crucial da distribuição geral dos levitas, que já havia sido detalhada em Josué 21. Coat (pai de Arão) recebeu a maior parte (13 cidades) por sua proximidade com o Santo dos Santos. Gersei também recebeu 13 cidades. O texto lembra o leitor que a distribuição não foi uniforme, mas determinada pela necessidade e pela função (que é detalhada nos versículos anteriores e posteriores, focando em Coat, Gersei e Merari). É um fechamento do ciclo de alocação.",
+      "temas": [
+        "Resumo da alocação",
+        "Privilégio levítico",
+        "Organização por clã"
+      ],
+      "personagens": [
+        "Coat",
+        "Gersei"
+      ]
     }
   }
 }

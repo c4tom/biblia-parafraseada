@@ -1,260 +1,602 @@
 {
   "livro": "Mateus",
   "capitulo": 14,
-  "contexto_historico": "Este capítulo narra a morte de João Batista, a alimentação dos cinco mil, a caminhada de Jesus sobre as águas e as curas em Genesaré. Ele destaca o crescente poder e a fama de Jesus, mas também a oposição e a incompreensão que Ele enfrenta. A morte de João Batista serve como um prenúncio do sofrimento que Jesus também enfrentaria.",
-  "bloco_tematico": "A Morte de João Batista e os Milagres de Jesus",
+  "contexto_historico": "O capítulo 14 de Mateus ocorre durante o ministério público de Jesus na Galileia. Este período é marcado por milagres significativos e pela crescente popularidade de Jesus, que atrai multidões. O capítulo inicia com a notícia da execução de João Batista pelo rei Herodes Antipas, o que abala os discípulos e introduz um tom de perigo e sofrimento. Jesus se retira para um lugar deserto após ouvir isso, buscando um momento de luto e reflexão. A narrativa culmina com o milagre da multiplicação dos pães e peixes e, subsequentemente, com Jesus andando sobre as águas, demonstrando Seu domínio sobre a natureza e Sua divindade, o que leva os discípulos a um profundo reconhecimento de Sua identidade.",
+  "bloco_tematico": "Fé, Luto e o Poder Sobre a Crise 🚶‍♂️🐟🌊",
   "versiculos": {
     "1": {
-      "parafrase": "Naquele tempo, Herodes, o tetrarca, ouviu falar da fama de Jesus,",
-      "referencias": ["Marcos 6:14", "Lucas 9:7"],
-      "comentario": "A fama de Jesus se espalha e chega aos ouvidos de Herodes Antipas, o governante da Galileia e Pereia. Herodes está perturbado pela identidade de Jesus.",
-      "temas": ["fama de Jesus", "Herodes", "perturbação"],
-      "personagens": ["Herodes"]
+      "parafrase": "Naquela época, Herodes, que governava a região, ouviu todos os rumores e histórias que circulavam sobre Jesus, o Nazareno. A fama do Cristo havia se espalhado como fogo em palha seca, e a mente de Herodes, turbulenta e assombrada, começou a se incomodar profundamente com esse novo pregador.",
+      "referencias": [
+        "Lucas 9:7-9",
+        "Marcos 6:14"
+      ],
+      "comentario": "O 'tetrarca' Herodes Antipas, mencionado aqui, já havia decapitado João Batista (ver versículo 12). O texto grego indica que ele estava confuso ou perturbado ('diatethē'), pois não sabia quem era Jesus, imaginando que poderia ser João ressuscitado dos mortos, demonstrando sua superstição e culpa.",
+      "temas": [
+        "Reação da Autoridade",
+        "Consciência Culpada",
+        "Fama de Jesus"
+      ],
+      "personagens": [
+        "Herodes Antipas",
+        "Jesus"
+      ]
     },
     "2": {
-      "parafrase": "e disse aos seus servos: 'Este é João Batista; ele ressuscitou dos mortos! Por isso, poderes milagrosos operam nele.'",
-      "referencias": [],
-      "comentario": "Herodes, atormentado pela culpa de ter matado João Batista, acredita que Jesus é João ressuscitado. Sua consciência o condena.",
-      "temas": ["culpa", "ressurreição", "poderes milagrosos"],
-      "personagens": ["Herodes"]
+      "parafrase": "Ele disse aos seus servos: 'Este que está causando todo esse alvoroço é João Batista! Ele ressuscitou, e é por isso que ele possui tanto poder para realizar milagres. Ele precisa ser detido!'",
+      "referencias": [
+        "Mateus 16:14",
+        "Lucas 9:7"
+      ],
+      "comentario": "A conclusão de Herodes é baseada em especulação e medo, não em evidência. Ele associa o poder de Jesus ao seu inimigo anterior (João), revelando sua cegueira espiritual e a incapacidade de reconhecer a obra de Deus em sua forma atual.",
+      "temas": [
+        "Desinformação",
+        "Medo do Poder Divino",
+        "Reconhecimento Equivocado"
+      ],
+      "personagens": [
+        "Herodes Antipas",
+        "João Batista",
+        "Jesus"
+      ]
     },
     "3": {
-      "parafrase": "Pois Herodes havia prendido João, amarrado-o e o colocado na prisão por causa de Herodias, esposa de Filipe, seu irmão,",
-      "referencias": ["Marcos 6:17", "Lucas 3:19-20"],
-      "comentario": "Mateus explica a razão da prisão de João Batista: sua denúncia do casamento ilegal de Herodes com Herodias, a esposa de seu irmão. João foi um profeta corajoso que não temeu confrontar o pecado, mesmo de reis.",
-      "temas": ["prisão de João Batista", "Herodias", "pecado", "coragem profética"],
-      "personagens": ["Herodes", "João Batista", "Herodias", "Filipe"]
+      "parafrase": "Pois Herodes havia mandado prender João, aprisionando-o e acorrentando-o em resposta à acusação feita por Herodias, sua esposa. João havia confrontado Herodes duramente por ter se casado com Herodias, que era, na verdade, esposa de seu irmão Filipe, um ato totalmente imoral aos olhos da Lei.",
+      "referencias": [
+        "Levítico 18:16",
+        "Lucas 3:19-20"
+      ],
+      "comentario": "Este versículo fornece o contexto da prisão de João: a denúncia da união incestuosa/adúltera de Herodes com Herodias (sua sobrinha e ex-cunhada). O termo grego para 'acusação' implica uma repreensão severa e moralmente necessária.",
+      "temas": [
+        "Pecado Púbico",
+        "Confronto Moral",
+        "Prisão por Injustiça"
+      ],
+      "personagens": [
+        "Herodes Antipas",
+        "João Batista",
+        "Herodias",
+        "Filipe (irmão de Herodes)"
+      ]
     },
     "4": {
-      "parafrase": "porque João lhe dizia: 'Não lhe é lícito tê-la.'",
-      "referencias": ["Levítico 18:16"],
-      "comentario": "João Batista confrontou Herodes diretamente sobre seu pecado, mostrando sua fidelidade à lei de Deus.",
-      "temas": ["confronto", "lei de Deus", "fidelidade"],
-      "personagens": ["João Batista"]
+      "parafrase": "Herodes desejava matar João há muito tempo, mas tinha receio do povo, pois todos consideravam João um profeta verdadeiro e justo, e tinham grande apreço por ele.",
+      "referencias": [
+        "Marcos 6:20",
+        "Atos 4:2"
+      ],
+      "comentario": "A autoridade de Herodes era politicamente fraca diante da popularidade de João. Ele é retratado como um governante covarde, que teme mais a opinião pública do que a justiça divina ou o julgamento de seus súditos.",
+      "temas": [
+        "Medo da Multidão",
+        "Respeito Popular",
+        "Cobardia Política"
+      ],
+      "personagens": [
+        "Herodes Antipas",
+        "João Batista"
+      ]
     },
     "5": {
-      "parafrase": "Herodes queria matá-lo, mas tinha medo da multidão, pois o consideravam um profeta.",
-      "referencias": [],
-      "comentario": "Herodes temia a reação do povo, que reconhecia João como um profeta. Isso mostra a influência de João e a hesitação de Herodes em agir contra ele.",
-      "temas": ["medo da multidão", "influência de João Batista", "hesitação"],
-      "personagens": ["Herodes"]
+      "parafrase": "Mas, durante uma festa de aniversário, quando Herodes estava celebrando com os seus nobres, comandantes militares e os líderes da Galileia, ele foi forçado a agir.",
+      "referencias": [
+        "Marcos 6:21"
+      ],
+      "comentario": "A celebração era um banquete real, um palco de ostentação e vaidade. A menção aos 'generais' (chiliarchs) e 'principais da Galileia' enfatiza que Herodes estava cercado por aqueles que validavam seu poder, tornando a cena ainda mais pública.",
+      "temas": [
+        "Ostentação",
+        "Influência da Corte",
+        "Oportunidade para o Mal"
+      ],
+      "personagens": [
+        "Herodes Antipas"
+      ]
     },
     "6": {
-      "parafrase": "Mas, quando chegou o aniversário de Herodes, a filha de Herodias dançou diante deles e agradou a Herodes.",
-      "referencias": [],
-      "comentario": "A ocasião do aniversário de Herodes se torna o cenário para a tragédia. A dança da filha de Herodias (Salomé) é o catalisador para a morte de João Batista.",
-      "temas": ["aniversário", "dança", "agrado"],
-      "personagens": ["Herodes", "Filha de Herodias (Salomé)"]
+      "parafrase": "A filha de Herodias (Salomé) dançou diante de todos. Herodes ficou tão encantado e impressionado com a apresentação que ele fez uma promessa solene, quase um juramento impensado.",
+      "referencias": [
+        "Marcos 6:22"
+      ],
+      "comentario": "A dança, provavelmente sensual e calculada para agradar, foi o catalisador para o desastre. O juramento feito publicamente (o verbo grego implica um compromisso formal, ligado à sua honra como rei) o aprisionou em sua própria vaidade.",
+      "temas": [
+        "Vaidade",
+        "Promessas Impensadas",
+        "Sedução"
+      ],
+      "personagens": [
+        "Filha de Herodias (Salomé)",
+        "Herodes Antipas"
+      ]
     },
     "7": {
-      "parafrase": "Por isso, ele prometeu com juramento, que lhe daria tudo o que ela pedisse.",
-      "referencias": [],
-      "comentario": "Herodes, em sua embriaguez e ostentação, faz uma promessa imprudente e precipitada, que o levará a um ato terrível.",
-      "temas": ["promessa imprudente", "juramento", "precipitação"],
-      "personagens": ["Herodes"]
+      "parafrase": "Ele jurou sob juramento, na frente de todos os convidados, que lhe daria qualquer coisa que ela pedisse, sem hesitar.",
+      "referencias": [
+        "Números 30:2"
+      ],
+      "comentario": "O juramento é uma confissão de sua leviandade. Ele se vincula por uma promessa exagerada, demonstrando a falta de controle sobre suas próprias palavras e paixões, especialmente em um ambiente de bajulação.",
+      "temas": [
+        "Compromisso Impulsivo",
+        "Honra Falsa",
+        "Pressão Social"
+      ],
+      "personagens": [
+        "Herodes Antipas"
+      ]
     },
     "8": {
-      "parafrase": "E ela, instigada por sua mãe, disse: 'Dê-me aqui, num prato, a cabeça de João Batista.'",
-      "referencias": [],
-      "comentario": "Herodias, em sua vingança e ódio por João Batista, manipula sua filha para pedir a cabeça do profeta. A crueldade e a maldade de Herodias são evidentes.",
-      "temas": ["vingança", "ódio", "manipulação", "crueldade"],
-      "personagens": ["Herodias", "Filha de Herodias (Salomé)"]
+      "parafrase": "Instigada por sua mãe, a moça se aproximou e pediu, com firmeza: 'Quero que o corpo de João Batista seja trazido aqui, numa travessa grande, agora mesmo!'",
+      "referencias": [
+        "Marcos 6:24"
+      ],
+      "comentario": "A mãe dita o pedido maligno. É um pedido de execução sumária, frio e brutal, contrastando com a delicadeza da dança anterior. O pedido específico ('numa travessa' ou 'numa bacia') torna a cena graficamente hedionda.",
+      "temas": [
+        "Vingança",
+        "Maldade Planejada",
+        "Assassinato"
+      ],
+      "personagens": [
+        "Filha de Herodias (Salomé)",
+        "Herodias",
+        "João Batista"
+      ]
     },
     "9": {
-      "parafrase": "O rei ficou triste, mas, por causa do juramento e dos que estavam à mesa com ele, ordenou que lhe fosse dado.",
-      "referencias": [],
-      "comentario": "Herodes se arrepende de sua promessa, mas sua honra e seu medo do que os outros pensariam o levam a cumprir o juramento, mesmo que isso signifique matar um homem inocente.",
-      "temas": ["tristeza", "juramento", "medo da opinião alheia", "fraqueza"],
-      "personagens": ["Herodes"]
+      "parafrase": "O rei ficou extremamente contrariado e furioso com o pedido, pois, apesar de tudo, ele estimava João e não queria ser o responsável direto pela sua morte perante o povo. Contudo, por causa do juramento público e da presença de todos os convidados de honra, ele não soube como voltar atrás.",
+      "referencias": [
+        "Ester 5:3",
+        "Marcos 6:26"
+      ],
+      "comentario": "O dilema de Herodes é a tragédia da dignidade humana perdida. Ele se sente refém de sua própria arrogância e da necessidade de manter a 'face' diante de seus cortesãos. O custo da honra mundana é a vida de um profeta.",
+      "temas": [
+        "Dilema Moral",
+        "Aparência vs. Integridade",
+        "Consequências de Juramentos"
+      ],
+      "personagens": [
+        "Herodes Antipas",
+        "João Batista"
+      ]
     },
     "10": {
-      "parafrase": "E mandou decapitar João na prisão.",
-      "referencias": [],
-      "comentario": "A ordem é executada, e João Batista é martirizado por sua fidelidade à verdade.",
-      "temas": ["decapitação", "martírio", "fidelidade"],
-      "personagens": []
+      "parafrase": "Sem demora, Herodes enviou um guarda do seu exército, dando-lhe ordens para ir rapidamente à prisão e executar João, trazendo sua cabeça imediatamente.",
+      "referencias": [
+        "2 Reis 6:32"
+      ],
+      "comentario": "A ordem é dada com pressa para evitar arrependimento ou intervenção popular. O uso de um 'espatarista' (soldado encarregado de executar sentenças) mostra a formalidade macabra do ato, embora sem o devido processo legal.",
+      "temas": [
+        "Execução Imediata",
+        "Poder Despótico",
+        "Morte de um Profeta"
+      ],
+      "personagens": [
+        "Herodes Antipas",
+        "João Batista"
+      ]
     },
     "11": {
-      "parafrase": "A cabeça dele foi trazida num prato e entregue à moça, que a levou à sua mãe.",
-      "referencias": [],
-      "comentario": "A crueldade do ato é enfatizada pela forma como a cabeça de João é apresentada, como um troféu.",
-      "temas": ["crueldade", "troféu", "vingança"],
-      "personagens": []
+      "parafrase": "O soldado cumpriu a missão: voltou com a cabeça de João dentro de uma grande travessa e a entregou à jovem, que por sua vez, levou-a para sua mãe, Herodias.",
+      "referencias": [
+        "1 Reis 18:40"
+      ],
+      "comentario": "A consumação do ato é brutal. A cabeça de João, símbolo da verdade e da voz profética, é apresentada como um prêmio macabro, troféu da ambição de Herodias e da fraqueza de Herodes.",
+      "temas": [
+        "Martírio",
+        "Triunfo da Maldade",
+        "Ato Violento"
+      ],
+      "personagens": [
+        "Soldado",
+        "Salomé",
+        "Herodias",
+        "João Batista"
+      ]
     },
     "12": {
-      "parafrase": "Os discípulos de João vieram, levaram o corpo e o sepultaram. Depois foram e contaram a Jesus.",
-      "referencias": [],
-      "comentario": "Os discípulos de João, em seu luto, sepultam seu mestre e levam a notícia a Jesus, que era primo de João e o reconhecia como Seu precursor.",
-      "temas": ["luto", "sepultamento", "notícia"],
-      "personagens": ["Discípulos de João"]
+      "parafrase": "Quando os discípulos de João souberam da notícia terrível, eles vieram, pegaram o corpo decapitado e o levaram para ser sepultado. Depois, foram e contaram tudo a Jesus.",
+      "referencias": [
+        "Atos 8:2"
+      ],
+      "comentario": "A reação dos discípulos demonstra luto e lealdade. Eles garantem um enterro digno para seu mestre, cumprindo a tradição judaica, e buscam conforto e orientação em Jesus, reconhecendo-o como sucessor espiritual de João.",
+      "temas": [
+        "Luto dos Seguidores",
+        "Sepultamento",
+        "Comunicação com Jesus"
+      ],
+      "personagens": [
+        "Discípulos de João",
+        "João Batista",
+        "Jesus"
+      ]
     },
     "13": {
-      "parafrase": "Ao ouvir isso, Jesus retirou-se dali de barco para um lugar deserto, à parte. Mas as multidões, sabendo disso, o seguiram a pé das cidades.",
-      "referencias": ["Marcos 6:32", "Lucas 9:10", "João 6:1"],
-      "comentario": "Jesus se retira para um lugar solitário, talvez para lamentar a morte de João ou para ter um tempo de descanso. No entanto, as multidões o seguem, demonstrando sua necessidade e sua busca por Ele.",
-      "temas": ["retirada", "luto", "multidões", "busca"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ao saber da morte de João, Jesus se afastou daquele lugar. Ele embarcou num barco e seguiu para um lugar deserto, isolado, buscando solidão para processar a notícia e orar em particular.",
+      "referencias": [
+        "Marcos 6:30-32",
+        "Lucas 9:10"
+      ],
+      "comentario": "O retiro de Jesus (para um 'lugar deserto') é uma resposta humana e divina. Ele precisa de espaço para lamentar a morte de seu precursor e se preparar para a próxima fase de Seu ministério, que é ameaçada pela crescente oposição.",
+      "temas": [
+        "Luto de Jesus",
+        "Retiro Espiritual",
+        "Solidão"
+      ],
+      "personagens": [
+        "Jesus",
+        "João Batista"
+      ]
     },
     "14": {
-      "parafrase": "Ao desembarcar, Jesus viu uma grande multidão e teve compaixão deles, e curou os seus enfermos.",
-      "referencias": [],
-      "comentario": "A compaixão de Jesus pelas multidões o leva a curar os enfermos, mesmo quando Ele buscava descanso. Sua compaixão é a força motriz de Seu ministério.",
-      "temas": ["compaixão de Jesus", "cura", "milagres"],
-      "personagens": ["Jesus"]
+      "parafrase": "No entanto, ao desembarcar, Jesus viu uma multidão enorme esperando por Ele. Vendo tantas pessoas, a compaixão tomou conta do seu coração, e Ele começou a curar todos os doentes que estavam entre eles.",
+      "referencias": [
+        "Mateus 9:36",
+        "Marcos 6:34"
+      ],
+      "comentario": "Apesar de seu desejo de privacidade, a compaixão (o termo grego indica um profundo sofrimento visceral) de Jesus supera sua necessidade pessoal. A cura se torna sua forma imediata de resposta à dor humana, mesmo após a tragédia de João.",
+      "temas": [
+        "Compaixão Imediata",
+        "Ministério Público",
+        "Cura"
+      ],
+      "personagens": [
+        "Jesus",
+        "Multidão"
+      ]
     },
     "15": {
-      "parafrase": "Ao entardecer, os discípulos se aproximaram dele e disseram: 'O lugar é deserto, e a hora já é avançada. Despede as multidões, para que vão às aldeias e comprem comida para si.'",
-      "referencias": [],
-      "comentario": "Os discípulos, preocupados com a falta de alimento, sugerem que Jesus dispense as multidões. Eles veem o problema de uma perspectiva humana.",
-      "temas": ["preocupação", "provisão", "perspectiva humana"],
-      "personagens": ["Discípulos"]
+      "parafrase": "Quando o dia começou a escurecer, os discípulos se aproximaram de Jesus, preocupados com o povo que já estava ali há horas, dizendo: 'Este lugar é ermo e a noite já caiu. Mande que eles voltem para as cidades e comprem comida para si mesmos!'",
+      "referencias": [
+        "Marcos 6:35"
+      ],
+      "comentario": "Os discípulos, ainda presos à mentalidade prática e logística, focam no problema da alimentação. Eles veem a multidão como um 'peso' que precisa ser dispersado, contrastando com a perspectiva de Jesus, que vê almas famintas.",
+      "temas": [
+        "Preocupação Logística",
+        "Cuidado dos Discípulos",
+        "Fome do Povo"
+      ],
+      "personagens": [
+        "Discípulos",
+        "Jesus"
+      ]
     },
     "16": {
-      "parafrase": "Jesus, porém, lhes disse: 'Não precisam ir. Deem-lhes vocês mesmos de comer.'",
-      "referencias": [],
-      "comentario": "Jesus desafia Seus discípulos a assumirem a responsabilidade de alimentar a multidão, testando sua fé e sua capacidade de confiar Nele.",
-      "temas": ["desafio", "responsabilidade", "fé"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus, porém, respondeu, sem se mover do lugar: 'Não há necessidade de mandá-los embora. Vocês mesmos devem dar algo para eles comerem.'",
+      "referencias": [
+        "Marcos 6:37"
+      ],
+      "comentario": "Esta é uma prova de fé e responsabilidade para os discípulos. Jesus não está apenas testando-os; Ele está chamando-os a participar ativamente da provisão divina, transformando-os de meros observadores em agentes de Sua missão.",
+      "temas": [
+        "Testes de Fé",
+        "Responsabilidade dos Discípulos",
+        "Provisão Divina"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "17": {
-      "parafrase": "Eles responderam: 'Não temos aqui senão cinco pães e dois peixes.'",
-      "referencias": [],
-      "comentario": "Os discípulos expressam sua limitação e a insuficiência de seus recursos diante da grande necessidade.",
-      "temas": ["limitação", "insuficiência"],
-      "personagens": ["Discípulos"]
+      "parafrase": "Eles responderam, confusos, mostrando o pouco que tinham: 'Nós só temos aqui cinco pães e dois peixes. O que faremos com essa quantidade minúscula para alimentar tantas pessoas?'",
+      "referencias": [
+        "João 6:9"
+      ],
+      "comentario": "A discrepância entre a necessidade (cinco mil homens, sem contar mulheres e crianças) e o recurso (cinco pães e dois peixes) é o ponto crucial. Os discípulos quantificam a impossibilidade humana, preparando o palco para o milagre da multiplicação.",
+      "temas": [
+        "Escassez",
+        "Limitações Humanas",
+        "Preparação para o Milagre"
+      ],
+      "personagens": [
+        "Discípulos"
+      ]
     },
     "18": {
-      "parafrase": "Ele disse: 'Tragam-nos aqui.'",
-      "referencias": [],
-      "comentario": "Jesus pede o que eles têm, por menor que seja, para que Ele possa multiplicá-lo.",
-      "temas": ["provisão", "fé"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus disse: 'Tragam-me tudo o que vocês têm aqui, esse pequeno lanche.'",
+      "referencias": [
+        "2 Reis 4:42-44"
+      ],
+      "comentario": "Jesus solicita a entrega total dos recursos disponíveis. O milagre não começa com a abundância, mas com a entrega voluntária do pouco que se possui. O 'tudo' que eles têm é o ponto de partida para o 'tudo' que Deus pode fazer.",
+      "temas": [
+        "Entrega Total",
+        "Oferta",
+        "Início do Milagre"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "19": {
-      "parafrase": "E, ordenando que as multidões se sentassem na grama, pegou os cinco pães e os dois peixes, e, olhando para o céu, deu graças e partiu os pães. E os deu aos discípulos, e os discípulos, às multidões.",
-      "referencias": ["Marcos 6:41", "Lucas 9:16", "João 6:11"],
-      "comentario": "Jesus demonstra Sua autoridade e poder ao alimentar a multidão. Ele dá graças a Deus, parte o pão e o distribui através dos discípulos, mostrando que a provisão vem de Deus e é mediada por Seus servos.",
-      "temas": ["milagre", "alimentação dos cinco mil", "provisão divina", "ação de graças"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ele então instruiu a multidão a se sentar na grama. Tomando os cinco pães e os dois peixes em suas mãos, olhou para o céu, proferiu uma bênção de agradecimento a Deus, e partiu o pão, entregando os pedaços aos discípulos para que distribuíssem ao povo.",
+      "referencias": [
+        "Salmos 104:14-15",
+        "1 Coríntios 11:23-24"
+      ],
+      "comentario": "Este é um eco claro da Última Ceia. Jesus age como um anfitrião de banquete judaico, abençoando o alimento ('eulogēsas'). A bênção não apenas santifica, mas também prepara o terreno para a multiplicação sobrenatural.",
+      "temas": [
+        "Ato de Bênção",
+        "Ação de Graças",
+        "Distribuição Ordenada"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos",
+        "Multidão"
+      ]
     },
     "20": {
-      "parafrase": "Todos comeram e ficaram satisfeitos. E recolheram do que sobrou doze cestos cheios de pedaços.",
-      "referencias": [],
-      "comentario": "A abundância da provisão de Jesus é evidente. Não apenas todos foram alimentados, mas sobrou mais do que o que havia no início, simbolizando a superabundância de Deus.",
-      "temas": ["abundância", "satisfação", "superabundância"],
-      "personagens": []
+      "parafrase": "Todos comeram até se fartarem, saciando completamente sua fome. E, para espanto de todos, os discípulos recolheram as sobras, enchendo doze cestos grandes com os pedaços que sobraram.",
+      "referencias": [
+        "2 Reis 4:43-44"
+      ],
+      "comentario": "O milagre excede em muito a expectativa. A fartura (comerem até se saciar) e a evidência da abundância (doze cestos cheios de sobras, talvez simbolizando as doze tribos ou os doze apóstolos) confirmam a soberania de Jesus sobre a provisão material.",
+      "temas": [
+        "Abundância Sobrenatural",
+        "Prova do Milagre",
+        "Provisão Completa"
+      ],
+      "personagens": [
+        "Multidão",
+        "Discípulos",
+        "Jesus"
+      ]
     },
     "21": {
-      "parafrase": "Os que comeram eram cerca de cinco mil homens, além de mulheres e crianças.",
-      "referencias": [],
-      "comentario": "O número de pessoas alimentadas é vasto, destacando a magnitude do milagre.",
-      "temas": ["milagre", "multidão"],
+      "parafrase": "Estima-se que havia cerca de cinco mil homens presentes ali, sem contar as mulheres e as crianças que também participaram da refeição.",
+      "referencias": [
+        "João 6:10"
+      ],
+      "comentario": "O número enfatiza a escala massiva do milagre. Isso não foi uma mera coincidência, mas um ato público de poder divino destinado a ser lembrado.",
+      "temas": [
+        "Escala do Milagre",
+        "Impacto da Multidão"
+      ],
       "personagens": []
     },
     "22": {
-      "parafrase": "Imediatamente, Jesus obrigou os discípulos a entrar no barco e a ir adiante dele para o outro lado, enquanto ele despedia as multidões.",
-      "referencias": ["Marcos 6:45", "João 6:15"],
-      "comentario": "Jesus envia os discípulos adiante, talvez para evitar que a multidão o fizesse rei à força, após o milagre da multiplicação dos pães.",
-      "temas": ["discrição", "liderança", "multidões"],
-      "personagens": ["Jesus"]
+      "parafrase": "Imediatamente após a refeição, Jesus insistiu para que seus discípulos entrassem no barco e fossem para o outro lado do Mar da Galileia, enquanto Ele ficava para trás para dispensar a multidão.",
+      "referencias": [
+        "Marcos 6:45"
+      ],
+      "comentario": "Jesus força os discípulos a se moverem na frente, provavelmente para protegê-los da tentativa de aclamação real (João 6:15) e para permitir que Ele pudesse se dedicar à oração a sós, um ato recorrente após grandes eventos.",
+      "temas": [
+        "Ordem de Partida",
+        "Pressão para a Aclamação",
+        "Preparação para a Oração"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "23": {
-      "parafrase": "Depois de despedir as multidões, ele subiu a um monte para orar, à parte. Ao cair da noite, ele estava ali sozinho.",
-      "referencias": [],
-      "comentario": "Jesus busca a solidão e a oração após o milagre, demonstrando Sua dependência do Pai e Sua prioridade na comunhão com Deus.",
-      "temas": ["oração", "solidão", "comunhão com Deus"],
-      "personagens": ["Jesus"]
+      "parafrase": "Assim que despediu o povo, Jesus subiu a montanha sozinho para um lugar isolado, onde se dedicou à oração profunda e demorada.",
+      "referencias": [
+        "Lucas 6:12"
+      ],
+      "comentario": "O ato de subir ao monte simboliza a busca pela proximidade com Deus Pai. É um contraste gritante entre o serviço ativo (alimentar a multidão) e a comunhão passiva (orar).",
+      "temas": [
+        "Oração Solitária",
+        "Busca por Deus",
+        "Retiro no Monte"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "24": {
-      "parafrase": "O barco, porém, já estava a muitos estádios da terra, sendo açoitado pelas ondas, pois o vento era contrário.",
-      "referencias": ["Marcos 6:48", "João 6:18"],
-      "comentario": "Os discípulos enfrentam uma tempestade no mar, testando sua fé e sua capacidade de confiar em Jesus.",
-      "temas": ["tempestade", "teste de fé", "dificuldade"],
-      "personagens": ["Discípulos"]
+      "parafrase": "Enquanto isso, o barco estava longe da costa, lutando contra as ondas agitadas pelo vento forte, pois navegavam contra a maré.",
+      "referencias": [
+        "Jó 38:11",
+        "Marcos 6:48"
+      ],
+      "comentario": "A metáfora da tempestade no mar é poderosa. O barco representa a Igreja (os discípulos) lutando contra as forças contrárias do mundo, enquanto Jesus está em comunhão no alto. O vento forte ia contra a direção pretendida ('contra o vento').",
+      "temas": [
+        "Luta e Oposição",
+        "Tempestade no Mar",
+        "Ação dos Elementos"
+      ],
+      "personagens": [
+        "Discípulos"
+      ]
     },
     "25": {
-      "parafrase": "Na quarta vigília da noite, Jesus foi até eles, andando sobre o mar.",
-      "referencias": [],
-      "comentario": "Jesus demonstra Seu poder sobrenatural sobre a natureza, andando sobre as águas. A quarta vigília (entre 3h e 6h da manhã) é um tempo de grande escuridão e desespero.",
-      "temas": ["caminhada sobre as águas", "milagre", "poder de Jesus sobre a natureza"],
-      "personagens": ["Jesus"]
+      "parafrase": "Já no meio da noite, Jesus se aproximou deles, caminhando sobre as águas turbulentas do mar revolto.",
+      "referencias": [
+        "Jó 9:8"
+      ],
+      "comentario": "Caminhar sobre as águas (o verbo grego 'peripatōn' enfatiza a marcha firme) é a demonstração suprema da divindade de Jesus, pois o mar agitado é domínio exclusivo de Deus, como visto nos Salmos. Ele transcende as leis naturais impostas pela criação.",
+      "temas": [
+        "Manifestação da Divindade",
+        "Domínio sobre a Natureza",
+        "Milagre Noturno"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "26": {
-      "parafrase": "Ao vê-lo andando sobre o mar, os discípulos ficaram apavorados e disseram: 'É um fantasma!' E gritaram de medo.",
-      "referencias": [],
-      "comentario": "A reação dos discípulos é de medo e incompreensão. Eles não reconhecem Jesus e pensam que é um fantasma.",
-      "temas": ["medo", "incompreensão", "fantasma"],
-      "personagens": ["Discípulos"]
+      "parafrase": "Enquanto isso, os discípulos, que ainda não compreendiam a profundidade do que estava acontecendo e estavam presos às expectativas terrenas, viram Jesus caminhando sobre a superfície da água. Para eles, aquilo parecia uma aparição fantasmagórica, algo sobrenatural e aterrorizante que se movia na escuridão da noite sobre o Mar agitado.",
+      "referencias": [
+        "Jó 9:8",
+        "Salmos 77:19"
+      ],
+      "comentario": "O termo grego para 'caminhando sobre o mar' é 'peripateō epi tēs thalassēs'. A reação dos discípulos é descrita com a palavra 'etarasthēsan' (ficaram perturbados/abalados). Eles temiam o que viam porque não conseguiam enquadrar o evento na sua compreensão da realidade, interpretando-o como um fantasma ('phantasma').",
+      "temas": [
+        "Manifestação da Divindade",
+        "Medo e Perturbação",
+        "Incredulidade dos Discípulos"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "27": {
-      "parafrase": "Mas Jesus imediatamente lhes falou, dizendo: 'Tenham bom ânimo! Sou eu. Não temam!'",
-      "referencias": [],
-      "comentario": "Jesus os tranquiliza, revelando Sua identidade e encorajando-os a não temer. Sua presença traz paz em meio à tempestade.",
-      "temas": ["encorajamento", "identidade de Jesus", "não temer", "paz"],
-      "personagens": ["Jesus"]
+      "parafrase": "Imediatamente, Jesus, percebendo o pavor que se instalara neles, falou com autoridade e ternura: 'Acalmem-se! Coragem! Sou Eu quem está aqui, não tenham medo!'. Sua voz era um bálsamo contra o pânico que o mar revolto havia provocado.",
+      "referencias": [
+        "Isaías 41:10",
+        "Lucas 24:37"
+      ],
+      "comentario": "A resposta de Jesus é um clássico comando de apaziguamento: 'Tharseite, egō eimi; mē phobeisthe' (Tende bom ânimo, sou Eu; não temas). O 'Egō eimi' (Eu Sou) ecoa a revelação do nome de Deus no Antigo Testamento (Êxodo 3:14), estabelecendo Sua soberania sobre a natureza.",
+      "temas": [
+        "Autoridade sobre o Caos",
+        "Comando de Paz",
+        "Identificação Divina"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "28": {
-      "parafrase": "Pedro lhe respondeu: 'Senhor, se és tu, manda-me ir ao teu encontro sobre as águas.'",
-      "referencias": [],
-      "comentario": "Pedro, em sua impulsividade e fé, pede para andar sobre as águas com Jesus. Ele deseja experimentar o poder de Jesus.",
-      "temas": ["fé de Pedro", "impulsividade", "caminhada sobre as águas"],
-      "personagens": ["Pedro", "Jesus"]
+      "parafrase": "Então, Pedro, sempre impulsivo e com o coração ansioso por demonstrar sua fé, respondeu com uma súplica ousada: 'Mestre, se realmente é o Senhor, mande-me ir até você, caminhando por cima dessas águas revoltas!'",
+      "referencias": [
+        "Lucas 5:8",
+        "João 6:8"
+      ],
+      "comentario": "Pedro, movido pela emoção e pelo desejo de provar a identidade de Jesus, exige um sinal ou, melhor, uma participação no milagre. Ele usa o termo 'Kyrie' (Senhor), reconhecendo a autoridade messiânica de Jesus.",
+      "temas": [
+        "Iniciativa de Pedro",
+        "Desejo de Fé Ativa",
+        "Demonstração de Confiança"
+      ],
+      "personagens": [
+        "Pedro",
+        "Jesus"
+      ]
     },
     "29": {
-      "parafrase": "Ele disse: 'Venha!' E Pedro, descendo do barco, andou sobre as águas para ir ao encontro de Jesus.",
-      "referencias": [],
-      "comentario": "Jesus convida Pedro a sair do barco, e Pedro, pela fé, anda sobre as águas. É um momento de grande fé e poder.",
-      "temas": ["fé", "obediência", "milagre"],
-      "personagens": ["Jesus", "Pedro"]
+      "parafrase": "Jesus simplesmente lhe disse: 'Venha!'. Um convite direto, sem garantias de facilidade, apenas um chamado para avançar em direção a Ele sobre o perigo.",
+      "referencias": [
+        "Mateus 4:19",
+        "Marcos 1:17"
+      ],
+      "comentario": "O convite é um monossílabo poderoso: 'Erchou' (Vem). A fé é posta à prova pela ação. O milagre não está apenas em andar sobre a água, mas em obedecer ao chamado de Jesus em meio à adversidade.",
+      "temas": [
+        "Obediência Imediata",
+        "O Chamado à Ação",
+        "Testemunho da Fé"
+      ],
+      "personagens": [
+        "Jesus",
+        "Pedro"
+      ]
     },
     "30": {
-      "parafrase": "Mas, ao ver o vento forte, teve medo e, começando a afundar, gritou: 'Senhor, salva-me!'",
-      "referencias": [],
-      "comentario": "A fé de Pedro vacila quando ele tira os olhos de Jesus e se concentra nas circunstâncias. O medo o faz afundar, e ele clama a Jesus por salvação.",
-      "temas": ["falta de fé", "medo", "clamor", "afundar"],
-      "personagens": ["Pedro"]
+      "parafrase": "Pedro desceu do barco, dando o primeiro passo para fora do refúgio seguro para pisar sobre a água escura, seguindo a voz de seu Mestre. Contudo, quando ele tirou os olhos de Jesus e focou na força esmagadora do vento queçoitava a superfície, o pavor tomou conta de seu ser.",
+      "referencias": [
+        "Gálatas 6:9",
+        "Hebreus 12:2"
+      ],
+      "comentario": "Este versículo descreve a transição da fé para o medo. O perigo não era o ato de andar sobre a água, mas a distração da fé. O vento ('anemos') e as ondas, símbolos do caos mundano, rapidamente sobrepujaram a visão de Cristo.",
+      "temas": [
+        "A Distração do Mundo",
+        "A Fragilidade da Fé Humana",
+        "O Foco em Cristo"
+      ],
+      "personagens": [
+        "Pedro"
+      ]
     },
     "31": {
-      "parafrase": "Imediatamente, Jesus estendeu a mão, segurou-o e disse: 'Homem de pequena fé, por que você duvidou?'",
-      "referencias": [],
-      "comentario": "Jesus prontamente salva Pedro, mas o repreende por sua pequena fé. A dúvida é o que o fez afundar.",
-      "temas": ["salvação", "pequena fé", "dúvida", "repreensão"],
-      "personagens": ["Jesus"]
+      "parafrase": "Percebendo que sua confiança estava se esvaindo, ele começou a afundar imediatamente. Gritos de desespero escaparam de seus lábios, e ele clamou: 'Senhor, salve-me!'",
+      "referencias": [
+        "Salmos 18:16",
+        "1 Pedro 5:7"
+      ],
+      "comentario": "A consequência direta de tirar os olhos de Cristo é o afundamento. Jesus usa a repreensão: 'Oliogopiste' (homem de pouca fé). A fé pequena não é a ausência total de fé, mas a fé que não consegue sustentar o peso da provação.",
+      "temas": [
+        "O Perigo da Dúvida",
+        "O Clamor por Salvação",
+        "Pouca Fé"
+      ],
+      "personagens": [
+        "Pedro",
+        "Jesus"
+      ]
     },
     "32": {
-      "parafrase": "Quando eles entraram no barco, o vento cessou.",
-      "referencias": [],
-      "comentario": "A presença de Jesus no barco traz paz e acalma a tempestade, demonstrando Sua autoridade sobre a natureza.",
-      "temas": ["paz", "autoridade de Jesus", "milagre"],
-      "personagens": ["Jesus"]
+      "parafrase": "Assim que Pedro gritou, Jesus estendeu a mão com rapidez e o segurou firmemente, dizendo: 'Ó homem de pouca fé, por que você permitiu que a dúvida tomasse conta de você?'",
+      "referencias": [
+        "Salmos 145:18",
+        "Isaías 41:13"
+      ],
+      "comentario": "Jesus o agarra ('epilamvanomai') no exato momento da necessidade. A pergunta de Jesus não é apenas para repreender, mas para ensinar a causa da falha: a falta de convicção ('ligos pistis') na presença d'Ele, que é o Senhor da tempestade.",
+      "temas": [
+        "Intervenção Imediata de Cristo",
+        "Graça Resgatadora",
+        "Ensino através da Crise"
+      ],
+      "personagens": [
+        "Jesus",
+        "Pedro"
+      ]
     },
     "33": {
-      "parafrase": "Então os que estavam no barco o adoraram, dizendo: 'Verdadeiramente tu és o Filho de Deus!'",
-      "referencias": [],
-      "comentario": "Os discípulos, testemunhando o poder de Jesus, o adoram e reconhecem Sua divindade. Este é um momento de grande revelação para eles.",
-      "temas": ["adoração", "Filho de Deus", "divindade de Jesus", "reconhecimento"],
-      "personagens": ["Discípulos"]
+      "parafrase": "Depois de resgatá-lo da água, ambos voltaram para dentro do barco. Imediatamente, a fúria do vento se cessou completamente, e uma calma sobrenatural tomou conta do mar revolto.",
+      "referencias": [
+        "Marcos 4:41",
+        "Salmos 107:29"
+      ],
+      "comentario": "A fé restaurada de Pedro e a presença de Jesus no barco trazem a paz absoluta. A cessação do vento ('ekopsan') mostra que o poder de Jesus se estende não só sobre a fé, mas sobre a própria natureza descontrolada.",
+      "temas": [
+        "Poder sobre a Natureza",
+        "Restauração da Paz",
+        "A Presença de Cristo"
+      ],
+      "personagens": [
+        "Jesus",
+        "Pedro",
+        "Discípulos"
+      ]
     },
     "34": {
-      "parafrase": "Depois de atravessarem, chegaram à terra de Genesaré.",
-      "referencias": ["Marcos 6:53"],
-      "comentario": "Jesus e Seus discípulos chegam a uma nova região, onde Seu ministério de cura continuará.",
-      "temas": ["viagem", "ministério"],
-      "personagens": ["Jesus"]
+      "parafrase": "Assim que atravessaram o lago e chegaram à terra firme, aportando em Genesaré, eles desembarcaram.",
+      "referencias": [
+        "Marcos 6:53",
+        "João 6:21"
+      ],
+      "comentario": "A menção a Genesaré (uma planície fértil) contrasta com a escuridão e o caos do mar. A jornada terminou com segurança na terra, indicando o fim da provação noturna e o retorno à estabilidade.",
+      "temas": [
+        "Chegada à Terra Firme",
+        "Fim da Travessia",
+        "Segurança"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "35": {
-      "parafrase": "Quando os homens daquele lugar o reconheceram, enviaram mensageiros por toda aquela região e trouxeram-lhe todos os doentes.",
-      "referencias": [],
-      "comentario": "A fama de Jesus se espalha, e as pessoas trazem seus doentes para serem curados.",
-      "temas": ["fama de Jesus", "cura", "milagres"],
-      "personagens": []
+      "parafrase": "Os moradores daquela região logo reconheceram Jesus. Eles espalharam rapidamente a notícia por toda aquela área, e as pessoas começaram a trazer todos os doentes que conheciam, conduzindo-os em redes e esteiras para que pudessem, ao menos, tocar a orla do manto do Mestre.",
+      "referencias": [
+        "Marcos 6:56",
+        "Atos 19:12"
+      ],
+      "comentario": "A notícia da manifestação de poder corre mais rápido que a luz. A fé do povo aqui é tangível e prática; eles não querem apenas ouvi-Lo, querem o contato físico com Ele, acreditando no poder de cura latente em Sua pessoa, mesmo que apenas pelo contato com a franja ('kraspedon') do Seu traje.",
+      "temas": [
+        "Fé Popular na Cura",
+        "Reconhecimento de Jesus",
+        "Poder Terapêutico"
+      ],
+      "personagens": [
+        "Jesus",
+        "Moradores de Genesaré"
+      ]
     },
     "36": {
-      "parafrase": "E suplicavam-lhe que lhes permitisse apenas tocar na orla do seu manto; e todos os que tocaram foram curados.",
-      "referencias": ["Mateus 9:20"],
-      "comentario": "A fé do povo é tão grande que eles acreditam que um simples toque no manto de Jesus pode curá-los. E Jesus, em Sua compaixão, os cura a todos.",
-      "temas": ["fé", "cura", "compaixão", "milagre"],
-      "personagens": ["Jesus"]
+      "parafrase": "E aqueles que conseguiam tocar, nem que fosse apenas o tecido que envolvia Seu corpo, eram imediatamente curados de qualquer enfermidade que os afligia, experimentando um livramento total da dor e da doença.",
+      "referencias": [
+        "Lucas 8:44-48",
+        "Números 15:38"
+      ],
+      "comentario": "Este versículo solidifica o poder de Jesus como fonte absoluta de saúde. O toque na orla do manto remete à Lei (que ordenava o uso de franjas ou 'tzitzit' para lembrar os mandamentos), mas aqui, a franja d'Aquele que é a Lei viva transmite a cura, cumprindo a promessa de restauração através da Sua pessoa.",
+      "temas": [
+        "Cura Completa",
+        "O Poder no Toque",
+        "Cumprimento da Lei"
+      ],
+      "personagens": [
+        "Jesus",
+        "Enfermos"
+      ]
     }
   }
 }

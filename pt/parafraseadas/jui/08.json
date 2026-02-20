@@ -1,253 +1,621 @@
 {
   "livro": "Juízes",
   "capitulo": 8,
-  "contexto_historico": "Após a vitória milagrosa sobre o acampamento midianita, a liderança de Gideão é desafiada pela tribo de Efraim, que se sentiu excluída da glória inicial. Gideão continua a perseguir os reis midianitas restantes, Zeba e Zalmuna, levando a conflitos com cidades israelitas que se recusam a ajudar. O capítulo conclui com o fim da campanha, o subsequente governo de Gideão e seu erro fatal de criar um objeto de adoração.",
-  "bloco_tematico": "A Perseguição Final e o Erro de Gideão",
+  "contexto_historico": "Após a libertação de Gideão e a relativa paz subsequente, Israel reincide na idolatria, abandonando o Senhor e adorando Baal-Berite. Este é um padrão cíclico de desobediência, opressão, clamor e libertação que define o Livro de Juízes. O capítulo 8 foca nas consequências imediatas da vitória de Gideão sobre os midianitas e sua subsequente recusa em ser rei, mas também destaca a falha de Gideão em purificar totalmente a terra e a vingança severa contra as cidades da região que não apoiaram sua perseguição final. A teimosia dos efraimitas, que se sentem desprezados, é contida por Gideão com astúcia diplomática, mas sua própria casa é destruída por um ato de retaliação motivado pelo orgulho e idolatria (o éfode de ouro). ⚖️💔",
+  "bloco_tematico": "A Ambiguidade da Vitória e a Semente da Queda de Gideão 👑🚫",
   "versiculos": {
     "1": {
-      "parafrase": "Os homens de Efraim disseram a Gideão: 'Por que você nos tratou assim? Por que não nos chamou quando foi lutar contra Midiã?' E eles o criticaram duramente.",
-      "referencias": ["Juízes 12:1"],
-      "comentario": "O orgulho tribal de Efraim os leva a confrontar Gideão. Eles estavam mais preocupados com sua honra e prestígio do que com a libertação de Israel. Sentiram-se desprezados por não terem sido incluídos desde o início, apesar de terem sido chamados para a perseguição.",
-      "temas": ["orgulho", "conflito interno", "honra"],
-      "personagens": ["Homens de Efraim", "Gideão"]
+      "parafrase": "Então, os homens de Efraim, agitados e furiosos, cruzaram o Jordão em direção a Gideão, questionando-o com veemência: 'Por que você agiu assim conosco? Por que não nos chamou para lutar contra os midianitas? Você nos deixou de fora, ignorados, enquanto enfrentava o inimigo sozinho! Você deve ter feito algo terrível contra nós!'",
+      "referencias": [
+        "Juízes 6:34",
+        "Juízes 12:1"
+      ],
+      "comentario": "A tribo de Efraim, historicamente a mais poderosa e influente do norte de Israel, demonstra um profundo senso de exclusividade e orgulho ferido (cf. Juízes 12:1). A reação imediata não é gratidão, mas sim ressentimento e acusação. Eles veem a ausência de seu chamado não como uma decisão estratégica, mas como um insulto pessoal e tribal, um sinal de desconsideração.",
+      "temas": [
+        "Orgulho Tribal",
+        "Ciúmes",
+        "Comunidade e Exclusão"
+      ],
+      "personagens": [
+        "Homens de Efraim",
+        "Gideão"
+      ]
     },
     "2": {
-      "parafrase": "Ele lhes respondeu: 'O que eu fiz em comparação com o que vocês fizeram? O restolho da colheita de uvas de Efraim não é melhor do que toda a colheita de Abiezer?'",
-      "referencias": [],
-      "comentario": "Gideão responde com sabedoria e diplomacia, usando um provérbio para acalmar a raiva deles. Ele minimiza seu próprio papel (a colheita de seu clã, Abiezer) e exalta a contribuição de Efraim (o restolho, ou seja, o que sobrou), que foi mais significativa.",
-      "temas": ["diplomacia", "sabedoria", "humildade"],
-      "personagens": ["Gideão", "Homens de Efraim"]
+      "parafrase": "Gideão tentou acalmá-los, respondendo com humildade: 'Meu feito é insignificante comparado ao que vocês fizeram! O que eu consegui foi apenas um pequeno resultado diante da força de vocês. O que fizemos em Efraim foi quase nada, não se compara ao que vocês alcançaram ao pegar os líderes midianitas, Oreb e Zeebe!'",
+      "referencias": [
+        "Juízes 7:25",
+        "Isaías 9:12"
+      ],
+      "comentario": "Gideão emprega uma tática de apaziguamento extremo, minimizando sua própria vitória (a aniquilação do exército principal) para exaltar o feito de Efraim (a captura dos príncipes). O termo hebraico para 'meu feixe' ou 'minha colheita' (Heb. 'qetz'), usado metaforicamente, sugere algo pequeno ou incompleto, um contraste deliberado com a 'colheita' de Efraim.",
+      "temas": [
+        "Humildade",
+        "Apaziguamento",
+        "Reconhecimento"
+      ],
+      "personagens": [
+        "Gideão",
+        "Homens de Efraim"
+      ]
     },
     "3": {
-      "parafrase": "'Deus entregou os príncipes de Midiã, Orebe e Zeebe, em suas mãos. O que eu pude fazer em comparação com isso?' Ao ouvir isso, a hostilidade deles contra ele se acalmou.",
-      "referencias": ["Juízes 7:25"],
-      "comentario": "Gideão aponta para o fato de que Efraim capturou e matou os dois príncipes midianitas, uma conquista de grande importância. Ao dar-lhes o crédito pela vitória decisiva, ele apela ao orgulho deles e dissipa o conflito. Uma resposta branda desvia o furor.",
-      "temas": ["resolução de conflitos", "sabedoria", "elogio"],
-      "personagens": ["Gideão", "Homens de Efraim", "Deus", "Orebe", "Zeebe"]
+      "parafrase": "Ele continuou a argumentar, enfatizando a superioridade do êxito deles: 'De fato, o que eu fiz não foi nada comparado ao poder que vocês demonstraram ao capturar e executar Oreb e Zeebe. Não há nada que se compare a isso em toda a minha história em Manassés!'",
+      "referencias": [
+        "Juízes 7:24",
+        "Juízes 8:21"
+      ],
+      "comentario": "Esta é uma submissão retórica. Gideão reconhece que a captura e a morte dos líderes inimigos, Oreb ('Corvo') e Zeebe ('Lobo'), tinham um valor simbólico e prático muito maior para a moral de Israel do que a simples derrota do exército em batalha. O nome da região onde foram capturados, Efraim, torna-se um troféu tribal.",
+      "temas": [
+        "Liderança",
+        "Símbolos de Vitória",
+        "Reconhecimento de Mérito"
+      ],
+      "personagens": [
+        "Gideão",
+        "Oreb",
+        "Zeebe"
+      ]
     },
     "4": {
-      "parafrase": "Gideão e seus trezentos homens, exaustos mas ainda perseguindo, chegaram ao Jordão e o atravessaram.",
-      "referencias": [],
-      "comentario": "Apesar da vitória inicial e do conflito com Efraim, a missão não terminou. Gideão e seu núcleo de trezentos homens demonstram uma perseverança notável, continuando a perseguição mesmo em estado de exaustão.",
-      "temas": ["perseverança", "exaustão", "determinação"],
-      "personagens": ["Gideão", "Trezentos homens"]
+      "parafrase": "Ao verem a resposta de Gideão, a ira dos homens de Efraim diminuiu consideravelmente, e a tensão começou a se dissipar.",
+      "referencias": [
+        "Provérbios 15:1"
+      ],
+      "comentario": "A resposta diplomática de Gideão foi eficaz. A ira tribal é frequentemente alimentada pela percepção de desonra. Ao validar a conquista de Efraim, Gideão desarma a acusação e restaura o orgulho ferido deles, permitindo que a cooperação, mesmo tardia, fosse restaurada.",
+      "temas": [
+        "Paz",
+        "Diplomacia",
+        "Controle da Ira"
+      ],
+      "personagens": [
+        "Gideão",
+        "Homens de Efraim"
+      ]
     },
     "5": {
-      "parafrase": "Ele disse aos homens de Sucote: 'Por favor, deem alguns pães ao povo que me segue, pois estão exaustos, e estou perseguindo Zeba e Zalmuna, reis de Midiã.'",
-      "referencias": [],
-      "comentario": "Gideão pede provisões a uma cidade israelita, Sucote, para sustentar seus homens. Ele espera cooperação de seus compatriotas na luta contra o inimigo comum.",
-      "temas": ["pedido de ajuda", "solidariedade", "guerra"],
-      "personagens": ["Gideão", "Homens de Sucote", "Zeba", "Zalmuna"]
+      "parafrase": "Gideão, então, liderou seus 300 homens, exaustos, mas vitoriosos, em direção à cidade de Sucote. Ele pediu suprimentos para suas tropas, dizendo aos líderes da cidade: 'Por favor, deem pães aos meus homens, pois eles estão exaustos, e eu estou perseguindo Zeba e Zalmuna, os reis midianitas!'",
+      "referencias": [
+        "Juízes 8:15",
+        "Salmos 119:94"
+      ],
+      "comentario": "A narrativa muda o foco da disputa interna para a conclusão da missão. Sucote, uma cidade em Gileade (a leste do Jordão), é o próximo alvo. A menção aos reis midianitas, Zeba e Zalmuna, estabelece o objetivo imediato da perseguição. Gideão apela para a solidariedade em nome da causa comum.",
+      "temas": [
+        "Perseverança",
+        "Sustento da Missão",
+        "Perseguição ao Inimigo"
+      ],
+      "personagens": [
+        "Gideão",
+        "Homens de Gideão",
+        "Zeba",
+        "Zalmuna"
+      ]
     },
     "6": {
-      "parafrase": "Mas os líderes de Sucote responderam: 'As mãos de Zeba e Zalmuna já estão em seu poder, para que devamos dar pão ao seu exército?'",
-      "referencias": [],
-      "comentario": "Os líderes de Sucote recusam o pedido com sarcasmo. Eles agem por medo e auto-preservação, não querendo se comprometer com a causa de Gideão até que a vitória seja absolutamente certa. Eles temem represálias dos midianitas caso Gideão falhe.",
-      "temas": ["recusa", "medo", "falta de fé", "egoísmo"],
-      "personagens": ["Líderes de Sucote", "Gideão"]
+      "parafrase": "Mas os líderes de Sucote, cheios de arrogância e talvez temendo retaliação dos midianitas, recusaram-se a ajudar. Eles responderam com sarcasmo e desprezo: 'Você já capturou as mãos de Zeba e Zalmuna? Não, eles ainda estão livres! Portanto, não daremos nosso pão aos seus soldados cansados!'",
+      "referencias": [
+        "Provérbios 14:21",
+        "Tiago 2:15-17"
+      ],
+      "comentario": "Sucote demonstra uma falha total de fé e hospitalidade. Eles recusam ajuda sob o pretexto de que Gideão ainda não havia vencido a batalha final. Isso contrasta drasticamente com a humildade fingida de Efraim. O 'não' de Sucote é um ato de deslealdade contra a liderança de Israel e contra Deus.",
+      "temas": [
+        "Falta de Hospitalidade",
+        "Deslealdade",
+        "Arrogância"
+      ],
+      "personagens": [
+        "Líderes de Sucote",
+        "Gideão",
+        "Zeba",
+        "Zalmuna"
+      ]
     },
     "7": {
-      "parafrase": "Gideão disse: 'Pois bem! Quando o Senhor entregar Zeba e Zalmuna em minhas mãos, rasgarei a carne de vocês com os espinhos e os abrolhos do deserto.'",
-      "referencias": [],
-      "comentario": "A resposta diplomática de Gideão a Efraim é contrastada com sua fúria justa contra Sucote. Ele promete um castigo severo pela traição e falta de solidariedade deles para com o exército do Senhor.",
-      "temas": ["ameaça", "justiça", "traição"],
-      "personagens": ["Gideão", "Líderes de Sucote"]
+      "parafrase": "Gideão, com a voz carregada de ameaça, mas ainda controlado, retrucou: 'Quando o Senhor entregar Zeba e Zalmuna em minhas mãos, eu voltarei aqui e farei vocês sentirem a dor de sua recusa! Eu espalharei espinhos do deserto e silvas grossas para ensiná-los sobre a hospitalidade!'",
+      "referencias": [
+        "Levítico 25:49",
+        "Mateus 7:2"
+      ],
+      "comentario": "Gideão profere uma advertência severa. As espigas do deserto (possivelmente acácias ou arbustos espinhosos) eram ferramentas de tortura ou humilhação severa. Ele estabelece um princípio de retribuição: aqueles que não ajudam na colheita sofrerão com os espinhos da seca.",
+      "temas": [
+        "Justiça Retributiva",
+        "Advertência",
+        "Consequências da Inação"
+      ],
+      "personagens": [
+        "Gideão",
+        "Líderes de Sucote",
+        "Zeba",
+        "Zalmuna"
+      ]
     },
     "8": {
-      "parafrase": "Dali ele subiu a Penuel e lhes fez o mesmo pedido, e os homens de Penuel lhe responderam como os de Sucote.",
-      "referencias": [],
-      "comentario": "Gideão enfrenta a mesma recusa covarde da cidade vizinha de Penuel.",
-      "temas": ["recusa", "medo", "falta de solidariedade"],
-      "personagens": ["Gideão", "Homens de Penuel"]
+      "parafrase": "Deixando Sucote, Gideão seguiu para Penuel, a cidade vizinha, e fez o mesmo pedido aos homens de lá. Ele disse: 'Me deem comida para meus guerreiros, pois ainda estamos na perseguição a Zeba e Zalmuna!'",
+      "referencias": [
+        "Juízes 8:17",
+        "Provérbios 18:10"
+      ],
+      "comentario": "Penuel, cujo nome significa 'Face de Deus', deveria ser um lugar de devoção. O pedido de Gideão é idêntico ao feito em Sucote. O autor bíblico prepara o cenário para o contraste entre a resposta de Penuel e a de Sucote, embora ambos os lugares tenham sido punidos.",
+      "temas": [
+        "Fé e Nomes",
+        "Solidariedade",
+        "Perseguição"
+      ],
+      "personagens": [
+        "Gideão",
+        "Homens de Penuel",
+        "Zeba",
+        "Zalmuna"
+      ]
     },
     "9": {
-      "parafrase": "Ele também disse aos homens de Penuel: 'Quando eu voltar em paz, derrubarei esta torre.'",
-      "referencias": [],
-      "comentario": "Gideão promete destruir o símbolo do orgulho e da falsa segurança de Penuel. Sua confiança na vitória ('quando eu voltar em paz') é total.",
-      "temas": ["ameaça", "justiça", "confiança"],
-      "personagens": ["Gideão", "Homens de Penuel"]
+      "parafrase": "Contudo, os homens de Penuel, talvez mais orgulhosos ou mais ligados aos midianitas, responderam com uma arrogância ainda maior que a de Sucote: 'Você já prendeu Zeba e Zalmuna? Certamente não! Por isso, não lhe daremos pão algum!'",
+      "referencias": [
+        "2 Crônicas 28:22",
+        "Jeremias 17:9"
+      ],
+      "comentario": "A recusa de Penuel é mais enfática. O nome da cidade sugere proximidade com Deus, mas a atitude revela uma profunda apostasia moral. Eles usam a ausência dos reis como desculpa para negar a hospitalidade a um líder escolhido por Deus.",
+      "temas": [
+        "Hipocrisia",
+        "Rejeição da Liderança Divina",
+        "Coração Endurecido"
+      ],
+      "personagens": [
+        "Homens de Penuel",
+        "Zeba",
+        "Zalmuna"
+      ]
     },
     "10": {
-      "parafrase": "Zeba e Zalmuna estavam em Carcor com seu exército de cerca de quinze mil homens, todos os que restaram do exército dos povos do leste; pois cento e vinte mil homens que portavam espadas haviam caído.",
-      "referencias": [],
-      "comentario": "O texto revela a escala da vitória inicial. O exército inimigo foi reduzido de 135.000 para apenas 15.000, mas este ainda era um número formidável em comparação com os 300 de Gideão.",
-      "temas": ["escala da vitória", "remanescente inimigo"],
-      "personagens": ["Zeba", "Zalmuna", "Exército midianita"]
+      "parafrase": "Gideão então se virou para eles, prometendo vingança pelo seu descaso: 'Já que vocês não me ajudaram quando eu estava fraco e perseguindo, eu retornarei após ter capturado os reis e derrubarei esta torre da cidade sobre todos vocês, e matarei o povo daqui!'",
+      "referencias": [
+        "Eclesiastes 3:16",
+        "Juízes 1:25"
+      ],
+      "comentario": "A ameaça contra Penuel é muito mais grave do que a dirigida a Sucote; ele promete destruir a estrutura física da cidade e massacrar seus habitantes. Isso indica que a hostilidade de Penuel foi percebida como uma traição mais profunda, talvez ligada a um poder local que desafiava a autoridade de Israel.",
+      "temas": [
+        "Consequências Severas",
+        "Julgamento",
+        "Destruição"
+      ],
+      "personagens": [
+        "Gideão",
+        "Homens de Penuel",
+        "Zeba",
+        "Zalmuna"
+      ]
     },
     "11": {
-      "parafrase": "Gideão subiu pela rota dos nômades, a leste de Noba e Jogbeá, e atacou o exército quando ele se sentia seguro.",
-      "referencias": [],
-      "comentario": "Gideão executa outro ataque surpresa, aproximando-se por uma rota inesperada e atacando um exército que se acreditava seguro e fora de alcance.",
-      "temas": ["ataque surpresa", "estratégia militar"],
-      "personagens": ["Gideão"]
+      "parafrase": "Continuando a perseguição incansável, Gideão subiu por um caminho tortuoso que não era usado pelos pastores, encontrando Zeba e Zalmuna acampados no leste de Nobá e Iogbeá, onde, finalmente, os surpreendeu. Os dois reis midianitas estavam confiantes, pensando que estavam seguros.",
+      "referencias": [
+        "Salmos 139:2-3",
+        "Jeremias 29:13"
+      ],
+      "comentario": "O caminho 'dos que não têm trilha' (ou 'de quem não tem rebanho') indica uma rota secreta e árdua, demonstrando a determinação de Gideão em não dar descanso aos inimigos. A surpresa é total. A confiança dos reis contrasta com a exaustão de Gideão, mostrando que a fé perseverante vence a presunção.",
+      "temas": [
+        "Determinação",
+        "Surpresa Tática",
+        "Segurança Ilusória"
+      ],
+      "personagens": [
+        "Gideão",
+        "Zeba",
+        "Zalmuna"
+      ]
     },
     "12": {
-      "parafrase": "Zeba e Zalmuna fugiram, mas ele os perseguiu e capturou os dois reis de Midiã, Zeba e Zalmuna, e pôs em pânico todo o exército.",
-      "referencias": [],
-      "comentario": "Gideão alcança seu objetivo principal, capturando os líderes do exército inimigo e derrotando o restante de suas forças.",
-      "temas": ["captura", "vitória", "liderança"],
-      "personagens": ["Gideão", "Zeba", "Zalmuna"]
+      "parafrase": "Quando Gideão avistou os dois reis fugindo, ele e seus trezentos homens avançaram com toda a força restante e os alcançaram, fazendo com que Zeba e Zalmuna, os reis, caíssem em desespero.",
+      "referencias": [
+        "Apocalipse 19:19",
+        "Filipenses 3:13"
+      ],
+      "comentario": "O clímax da perseguição. O número reduzido de Gideão (300) versus os dois reis e seus guardas restantes enfatiza a intervenção divina na sua vitória. A fadiga não impediu a captura.",
+      "temas": [
+        "Clímax",
+        "Vitória do Pequeno Exército",
+        "Captura"
+      ],
+      "personagens": [
+        "Gideão",
+        "Zeba",
+        "Zalmuna"
+      ]
     },
     "13": {
-      "parafrase": "Gideão, filho de Joás, voltou da batalha pela subida de Heres.",
-      "referencias": [],
-      "comentario": "Gideão retorna vitorioso da campanha.",
-      "temas": ["retorno", "vitória"],
-      "personagens": ["Gideão"]
+      "parafrase": "Naquele momento, Gideão, voltando da batalha, parou e se dirigiu a um jovem de Sucote, perguntando sobre os príncipes. O jovem, talvez por medo ou por lealdade a Gideão, respondeu rapidamente: 'Eu os vi, eles estavam fugindo para o Monte Tabor!'",
+      "referencias": [
+        "Provérbios 16:7",
+        "Juízes 1:25"
+      ],
+      "comentario": "A narrativa retorna a Sucote, mas agora com um informante local (um jovem) que não está ligado à liderança idólatra da cidade. Este jovem desempenha o papel que a liderança deveria ter tido: ajudar ativamente o libertador de Israel. O Monte Tabor era um ponto de referência conhecido.",
+      "temas": [
+        "Informação",
+        "Lealdade",
+        "O Papel dos Jovens"
+      ],
+      "personagens": [
+        "Gideão",
+        "Jovem de Sucote",
+        "Zeba",
+        "Zalmuna"
+      ]
     },
     "14": {
-      "parafrase": "Ele capturou um jovem de Sucote e o interrogou. E o jovem lhe escreveu os nomes dos setenta e sete líderes e anciãos de Sucote.",
-      "referencias": [],
-      "comentario": "Gideão obtém as informações necessárias para cumprir sua promessa de juízo sobre os líderes de Sucote que o traíram.",
-      "temas": ["interrogatório", "justiça", "informação"],
-      "personagens": ["Gideão", "Jovem de Sucote"]
+      "parafrase": "Rapidamente, Gideão enviou homens para buscar os reis, capturando-os enquanto tentavam se esconder. Ele então voltou para Sucote, pronto para executar sua promessa de vingança contra a cidade desobediente.",
+      "referencias": [
+        "Isaías 46:11",
+        "Salmos 7:16"
+      ],
+      "comentario": "A rapidez da captura demonstra que os reis não tinham para onde fugir. Gideão não se atrasa; ele volta imediatamente para aplicar o julgamento prometido contra aqueles que falharam em sua obrigação de apoio.",
+      "temas": [
+        "Execução de Julgamento",
+        "Fidelidade à Palavra",
+        "Retribuição"
+      ],
+      "personagens": [
+        "Gideão",
+        "Zeba",
+        "Zalmuna"
+      ]
     },
     "15": {
-      "parafrase": "Então ele foi aos homens de Sucote e disse: 'Aqui estão Zeba e Zalmuna, sobre os quais vocês zombaram de mim, dizendo: 'As mãos de Zeba e Zalmuna já estão em seu poder, para que devamos dar pão aos seus homens exaustos?''",
-      "referencias": [],
-      "comentario": "Gideão confronta os homens de Sucote, apresentando a prova de sua vitória e lembrando-os de suas palavras zombeteiras e covardes.",
-      "temas": ["confronto", "justiça", "ironia"],
-      "personagens": ["Gideão", "Homens de Sucote", "Zeba", "Zalmuna"]
+      "parafrase": "Gideão capturou os anciãos de Sucote, que o haviam insultado, e os levou para a cidade. Então, ele usou os espinhos e as silvas do deserto para puni-los de maneira brutal, demonstrando a severidade da consequência de sua recusa.",
+      "referencias": [
+        "2 Samuel 12:6",
+        "Lamentações 1:16"
+      ],
+      "comentario": "Este é o cumprimento da profecia do versículo 7. O castigo é público e pedagógico: usar espinhos para disciplinar aqueles que negaram pão. É um ato de justiça severa contra a falta de hospitalidade e fé.",
+      "temas": [
+        "Punição Exemplar",
+        "Consequência da Maldade",
+        "Justiça Dura"
+      ],
+      "personagens": [
+        "Gideão",
+        "Anciãos de Sucote"
+      ]
     },
     "16": {
-      "parafrase": "Ele prendeu os anciãos da cidade e, pegando espinhos e abrolhos do deserto, castigou com eles os homens de Sucote.",
-      "referencias": [],
-      "comentario": "Gideão cumpre sua promessa e executa um juízo severo e doloroso sobre os líderes de Sucote, ensinando-lhes uma lição sobre lealdade e responsabilidade da aliança.",
-      "temas": ["castigo", "justiça", "cumprimento de promessa"],
-      "personagens": ["Gideão", "Anciãos de Sucote"]
+      "parafrase": "Em seguida, Gideão destruiu a torre de Sucote, onde os líderes haviam zombado dele, e matou os homens mais proeminentes da cidade. Ele demonstrou que a desonra feita ao servo de Deus resultaria em destruição total.",
+      "referencias": [
+        "Juízes 18:27",
+        "Jeremias 48:42"
+      ],
+      "comentario": "A destruição da torre simboliza o fim da resistência local e a quebra do poder cívico que se opôs a ele. O massacre dos homens principais sela o destino da cidade que falhou em apoiar a libertação de Israel.",
+      "temas": [
+        "Destruição Urbana",
+        "Queda do Orgulho",
+        "Julgamento Governamental"
+      ],
+      "personagens": [
+        "Gideão",
+        "Homens de Sucote"
+      ]
     },
     "17": {
-      "parafrase": "Ele também derrubou a torre de Penuel e matou os homens da cidade.",
-      "referencias": [],
-      "comentario": "O juízo sobre Penuel é ainda mais severo, resultando na destruição de sua fortaleza e na morte de seus cidadãos. A punição corresponde à sua recusa e zombaria.",
-      "temas": ["castigo", "justiça", "destruição"],
-      "personagens": ["Gideão", "Homens de Penuel"]
+      "parafrase": "Depois disso, Gideão marchou até a cidade de Penuel. Ele atacou a torre principal do local, derrubou-a e, em seguida, executou os homens da cidade, cumprindo a terrível advertência que havia feito a eles.",
+      "referencias": [
+        "Juízes 8:9",
+        "2 Reis 10:25"
+      ],
+      "comentario": "A punição em Penuel é executada de forma idêntica à de Sucote. A menção explícita de que ele matou os homens da cidade reforça a seriedade com que Gideão tratou a recusa em Penuel. O nome 'Face de Deus' foi manchado por sua desobediência.",
+      "temas": [
+        "Cumprimento da Profecia",
+        "Julgamento de Cidades",
+        "Fidelidade Pessoal"
+      ],
+      "personagens": [
+        "Gideão",
+        "Homens de Penuel"
+      ]
     },
     "18": {
-      "parafrase": "Então ele perguntou a Zeba e Zalmuna: 'Como eram os homens que vocês mataram em Tabor?' Eles responderam: 'Eram como você; cada um parecia um filho de rei.'",
-      "referencias": [],
-      "comentario": "Gideão revela uma motivação pessoal para a perseguição: os reis midianitas haviam matado seus próprios irmãos. A resposta dos reis, elogiando a aparência nobre dos irmãos de Gideão, confirma sua culpa.",
-      "temas": ["vingança de sangue", "justiça pessoal", "confissão"],
-      "personagens": ["Gideão", "Zeba", "Zalmuna"]
+      "parafrase": "Então Gideão olhou para Zeba e Zalmuna, que ainda estavam em suas mãos, cativos e humilhados. Ele perguntou a eles, com uma mistura de cansaço e autoridade: 'Que aparência tinham aqueles homens que vocês mataram no Monte Tabor?'",
+      "referencias": [
+        "Juízes 4:21",
+        "Salmos 140:1"
+      ],
+      "comentario": "Gideão agora busca a confissão e a confirmação dos crimes dos reis, ligando a execução deles diretamente ao crime original que desencadeou sua vingança (o massacre dos irmãos de Gideão em Tabor).",
+      "temas": [
+        "Confissão",
+        "Verdade",
+        "Conexão Causal"
+      ],
+      "personagens": [
+        "Gideão",
+        "Zeba",
+        "Zalmuna"
+      ]
     },
     "19": {
-      "parafrase": "Gideão disse: 'Eram meus irmãos, os filhos de minha mãe. Tão certo como vive o Senhor, se vocês os tivessem poupado, eu não os mataria.'",
-      "referencias": [],
-      "comentario": "Gideão confirma que agirá como o vingador do sangue de sua família, um dever cultural e legal na época.",
-      "temas": ["vingança de sangue", "família", "justiça"],
-      "personagens": ["Gideão"]
+      "parafrase": "Os reis, tremendo, responderam: 'Eles eram como você! Todos pareciam filhos de um rei poderoso, com uma aparência nobre e régia!'",
+      "referencias": [
+        "Gênesis 41:40",
+        "Juízes 13:27"
+      ],
+      "comentario": "A descrição dos irmãos mortos como 'semelhantes a um filho de rei' é a prova final da crueldade e do crime dos midianitas. Eles não apenas mataram parentes de Gideão, mas homens de distinção, o que eleva a ofensa a um nível de traição dinástica.",
+      "temas": [
+        "Reconhecimento de Nobreza",
+        "Confissão da Vítima",
+        "Aparência Real"
+      ],
+      "personagens": [
+        "Zeba",
+        "Zalmuna",
+        "Irmãos de Gideão"
+      ]
     },
     "20": {
-      "parafrase": "E disse a Jéter, seu primogênito: 'Levante-se e mate-os.' Mas o rapaz não desembainhou a espada, pois era jovem e estava com medo.",
-      "referencias": [],
-      "comentario": "Gideão tenta dar a seu filho a honra de executar os reis inimigos, mas a tarefa é grande demais para o jovem. Isso mostra a tenra idade de Jéter e o medo que os reis ainda inspiravam.",
-      "temas": ["execução", "medo", "honra"],
-      "personagens": ["Gideão", "Jéter"]
+      "parafrase": "Gideão então lhes disse: 'Eles eram meus irmãos, filhos de minha mãe! Juro pela vida do Senhor, se vocês não os tivessem matado, eu não os teria poupado nem um segundo sequer!'",
+      "referencias": [
+        "Gênesis 27:37",
+        "Hebreus 9:22"
+      ],
+      "comentario": "Gideão liga o ato de matar seus irmãos diretamente à sua determinação de matá-los. Esta é uma vingança familiar pessoal, motivada pela perda dos parentes no Monte Tabor, justificada pela lei de Talião (olho por olho).",
+      "temas": [
+        "Vingança Familiar",
+        "Justiça Pessoal",
+        "Sacrifício de Sangue"
+      ],
+      "personagens": [
+        "Gideão",
+        "Zeba",
+        "Zalmuna"
+      ]
     },
     "21": {
-      "parafrase": "Zeba e Zalmuna disseram: 'Levante-se você mesmo e nos ataque, pois como é o homem, assim é a sua força.' Então Gideão se levantou e matou Zeba e Zalmuna, e pegou os ornamentos em forma de crescente que estavam nos pescoços de seus camelos.",
-      "referencias": [],
-      "comentario": "Os reis preferem morrer nas mãos de um guerreiro experiente como Gideão do que ser executados por um menino, o que seria a humilhação final. Gideão cumpre o ato e toma os ornamentos de ouro como despojo de guerra.",
-      "temas": ["execução", "honra guerreira", "morte"],
-      "personagens": ["Zeba", "Zalmuna", "Gideão"]
+      "parafrase": "Voltando-se para seu filho mais velho, Jetar, Gideão ordenou: 'Levante-se e nos ajude a matá-los!' O jovem, porém, hesitou, talvez por medo ou inexperiência em derramar sangue, e não desembainhou sua espada.",
+      "referencias": [
+        "Juízes 13:17",
+        "2 Samuel 3:27"
+      ],
+      "comentario": "Gideão tenta envolver a próxima geração (Jetar) na execução da justiça, testando sua maturidade e coragem. A hesitação do filho demonstra que matar é um ato grave e que talvez ele não estivesse pronto para o fardo da liderança violenta.",
+      "temas": [
+        "Sucessão",
+        "Inexperiência",
+        "Hesitação"
+      ],
+      "personagens": [
+        "Gideão",
+        "Jetar",
+        "Zeba",
+        "Zalmuna"
+      ]
     },
     "22": {
-      "parafrase": "Os homens de Israel disseram a Gideão: 'Reine sobre nós, você, seu filho e seu neto, pois você nos salvou das mãos de Midiã.'",
-      "referencias": [],
-      "comentario": "Em gratidão pela libertação, o povo oferece a Gideão uma monarquia hereditária. Eles querem substituir o governo de Deus por um governo humano, um erro que Israel repetiria mais tarde.",
-      "temas": ["monarquia", "governo humano", "gratidão"],
-      "personagens": ["Homens de Israel", "Gideão"]
+      "parafrase": "Então, Gideão pegou sua própria espada e, com as próprias mãos, matou Zeba e Zalmuna ali mesmo. Depois disso, ele pegou os ornamentos preciosos que os reis usavam em seus camelos, como prova de sua vitória real.",
+      "referencias": [
+        "Êxodo 15:14",
+        "Apocalipse 5:5"
+      ],
+      "comentario": "Gideão toma para si o ato final de justiça, completando o ciclo de vingança pessoal. A tomada dos ornamentos (provavelmente adornos em forma de lua crescente, símbolos dos deuses midianitas) serve como troféu de guerra e como prova material da derrota do inimigo religioso e militar.",
+      "temas": [
+        "Ato Final de Justiça",
+        "Troféus de Guerra",
+        "Símbolos de Idolatria"
+      ],
+      "personagens": [
+        "Gideão",
+        "Zeba",
+        "Zalmuna"
+      ]
     },
     "23": {
-      "parafrase": "Gideão lhes disse: 'Não reinarei sobre vocês, nem meu filho reinará sobre vocês. O Senhor reinará sobre vocês.'",
-      "referencias": ["1 Samuel 8:7"],
-      "comentario": "Gideão recusa a oferta com uma resposta teologicamente correta e piedosa. Ele afirma o princípio da teocracia: somente Deus é o verdadeiro Rei de Israel. Esta é a maior declaração de fé de Gideão.",
-      "temas": ["teocracia", "fé", "liderança piedosa"],
-      "personagens": ["Gideão", "Deus"]
+      "parafrase": "Os israelitas, ao verem o sucesso, voltaram-se para Gideão e lhe propuseram: 'Reine sobre nós! Você, seus filhos e seus netos devem nos governar, pois você nos salvou das mãos dos midianitas!'",
+      "referencias": [
+        "Juízes 10:18",
+        "1 Samuel 8:5"
+      ],
+      "comentario": "O povo, embriagado pelo sucesso militar e aliviado do jugo opressor, busca a monarquia hereditária, um desejo proibido pelas leis de Deus (que defendiam o teocracia pura). A retórica de Gideão, que se identificava como o mais fraco, agora é recompensada com a oferta de poder absoluto.",
+      "temas": [
+        "Tentação do Poder",
+        "Monarquia",
+        "Gratidão Excessiva"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Gideão"
+      ]
     },
     "24": {
-      "parafrase": "E lhes disse: 'Faço-lhes um pedido: que cada um de vocês me dê um brinco do seu despojo.' (Pois os inimigos tinham brincos de ouro, porque eram ismaelitas.)",
-      "referencias": [],
-      "comentario": "Apesar de sua recusa piedosa em ser rei, Gideão faz um pedido que revela uma fraqueza. Ele pede os despojos de ouro, o que parece razoável, mas o uso que ele fará desse ouro será desastroso.",
-      "temas": ["pedido", "despojo", "fraqueza"],
-      "personagens": ["Gideão"]
+      "parafrase": "Gideão respondeu com sabedoria, recusando a oferta real: 'Eu não governarei sobre vocês, nem meu filho governará. Somente o Senhor será o seu Rei e o único governante sobre Israel!'",
+      "referencias": [
+        "1 Samuel 12:11-12",
+        "Lucas 1:32"
+      ],
+      "comentario": "Esta é uma das raras e notáveis recusas de poder na Bíblia. Gideão demonstra consciência da vontade divina, lembrando ao povo que Deus é o soberano. Este ato o eleva acima de outros líderes que sucumbiriam à tentação da coroa.",
+      "temas": [
+        "Rejeição da Coroa",
+        "Teocracia",
+        "Soberania de Deus"
+      ],
+      "personagens": [
+        "Gideão"
+      ]
     },
     "25": {
-      "parafrase": "Eles responderam: 'Nós os daremos de bom grado.' Estenderam uma capa, e cada homem jogou nela um brinco de seu despojo.",
-      "referencias": [],
-      "comentario": "O povo responde generosamente ao seu herói.",
-      "temas": ["generosidade", "despojo"],
-      "personagens": ["Homens de Israel"]
+      "parafrase": "Ele, porém, pediu apenas uma coisa, como retribuição final: 'Agora, deem-me os brincos de ouro que cada um de vocês tirou dos midianitas que foram mortos, como um presente simbólico pelo serviço prestado!'",
+      "referencias": [
+        "Êxodo 32:2-3",
+        "Ezequiel 16:17"
+      ],
+      "comentario": "Apesar de recusar o poder político, Gideão aceita uma recompensa material. Os brincos (ou 'ornamentos das orelhas') eram peças de joalheria de alto valor, usadas pelos midianitas como símbolo de sua riqueza e, possivelmente, de sua identidade religiosa. Gideão transforma o espólio dos inimigos em um tesouro para Israel, um memorial de sua vitória.",
+      "temas": [
+        "Recompensa Material",
+        "Memorial da Vitória",
+        "Espólio de Guerra"
+      ],
+      "personagens": [
+        "Gideão",
+        "Israelitas",
+        "Midianitas"
+      ]
     },
     "26": {
-      "parafrase": "O peso dos brincos de ouro que ele pediu foi de mil e setecentos siclos de ouro, sem contar os ornamentos, os pingentes e as vestes de púrpura que os reis de Midiã usavam, e os colares que estavam nos pescoços de seus camelos.",
-      "referencias": [],
-      "comentario": "A quantidade de ouro coletada era imensa, representando uma grande riqueza e, consequentemente, uma grande tentação.",
-      "temas": ["riqueza", "ouro", "tentação"],
-      "personagens": []
+      "parafrase": "Os filhos de Gideão, que eram setenta homens ao todo, eram todos fruto de seu casamento principal com suas esposas. Contudo, havia também um filho nascido de sua concubina, que morava em Siquém. Este filho único, chamado Abimeleque, não pertencia à linhagem principal dos herdeiros.",
+      "referencias": [
+        "Juízes 6:11",
+        "Juízes 8:30"
+      ],
+      "comentario": "O texto estabelece a prole de Gideão. A distinção entre os setenta filhos 'legítimos' e o filho da concubina, Abimeleque, é crucial. Esta 'meia-irmandade' de Abimeleque se tornará a semente da tragédia futura. A poligamia, mesmo que não condenada explicitamente aqui, sempre gerava tensões sociais e sucessórias na cultura israelita.",
+      "temas": [
+        "Sucessão",
+        "Família",
+        "Relações de poder"
+      ],
+      "personagens": [
+        "Gideão",
+        "Abimeleque"
+      ]
     },
     "27": {
-      "parafrase": "Gideão fez com tudo isso um colete sacerdotal (éfode) e o colocou em sua cidade, em Ofra. E todo o Israel se prostituiu, adorando-o ali, e ele se tornou uma armadilha para Gideão e sua família.",
-      "referencias": ["Êxodo 28:6-14", "Juízes 17:5"],
-      "comentario": "Este é o erro trágico de Gideão. Com boas intenções, ele cria um objeto religioso, talvez para comemorar a vitória ou para ter um ponto de consulta a Deus. No entanto, ao fazer um éfode (uma vestimenta exclusiva do sumo sacerdote), ele usurpa uma função sacerdotal e cria um centro de adoração rival ao tabernáculo. O povo rapidamente o transforma em um ídolo, e o objeto destinado a honrar a Deus se torna uma fonte de apostasia.",
-      "temas": ["idolatria", "apostasia", "sincretismo", "erro trágico"],
-      "personagens": ["Gideão", "Israel"]
+      "parafrase": "Gideão, ao chegar ao final de seus dias, retornou à sua casa em Ofra. Lá, ele depositou o peitoral de ouro que havia tirado do rei Midianita, provavelmente como um troféu de guerra ou um item de valor simbólico. Este ornamento foi colocado no santuário doméstico, tornando-se um objeto de culto ou lembrança reverenciada dentro da casa de Gideão.",
+      "referencias": [
+        "Juízes 8:24",
+        "Êxodo 28:6"
+      ],
+      "comentario": "O peitoral de ouro (possivelmente o grande adorno dos reis midianitas) torna-se um símbolo tangível da vitória de Gideão, mas sua colocação em Ofra é ambígua. É um memorial ou um objeto de idolatria? Em vez de destruir todos os vestígios do inimigo, Gideão os incorpora em seu patrimônio, o que ecoa a falha de Israel em destruir os ídolos (Juízes 2:2).",
+      "temas": [
+        "Memória de Guerra",
+        "Idolatria Potencial",
+        "Riqueza"
+      ],
+      "personagens": [
+        "Gideão"
+      ]
     },
     "28": {
-      "parafrase": "Assim, Midiã foi subjugado diante dos israelitas e não levantou mais a cabeça. E a terra teve paz por quarenta anos, durante os dias de Gideão.",
-      "referencias": [],
-      "comentario": "Apesar do erro de Gideão, o livramento de Deus foi completo, e a terra desfrutou de uma geração de paz.",
-      "temas": ["paz", "livramento", "descanso"],
-      "personagens": ["Midiã", "Israelitas"]
+      "parafrase": "Assim, os israelitas ficaram sob o domínio de Gideão, e durante toda a sua vida eles se mantiveram quietos e em paz, não precisando mais se levantar em batalhas, pois a ameaça midianita havia sido completamente subjugada. A terra desfrutou de quarenta anos de descanso.",
+      "referencias": [
+        "Juízes 3:30",
+        "Juízes 5:31"
+      ],
+      "comentario": "O período de quarenta anos de paz é um marco na época dos Juízes, indicando o sucesso de Gideão como líder militar e juiz. O 'descanso' (Heb. 'menuchah') é o objetivo recorrente da libertação divina. No entanto, esta paz foi superficial, pois a fidelidade teológica de Gideão falhou (verso 27).",
+      "temas": [
+        "Paz",
+        "Liberdade",
+        "Duração do Julgamento"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Gideão"
+      ]
     },
     "29": {
-      "parafrase": "Jerubaal, filho de Joás, foi e habitou em sua própria casa.",
-      "referencias": [],
-      "comentario": "Gideão se retira da vida pública, não estabelecendo uma dinastia como lhe foi oferecido.",
-      "temas": ["aposentadoria", "vida privada"],
-      "personagens": ["Gideão"]
+      "parafrase": "Jerubaal, que é o outro nome de Gideão, filho de Joás, voltou para sua própria casa e ali passou o resto de sua vida.",
+      "referencias": [
+        "Juízes 6:32"
+      ],
+      "comentario": "A menção do nome de guerra ('Jerubaal', aquele que luta contra Baal) serve como um lembrete de seu chamado divino, contrastando com suas ações posteriores. Ele se aposenta em sua cidade natal, Ofra, encerrando seu serviço ativo.",
+      "temas": [
+        "Identidade",
+        "Aposentadoria"
+      ],
+      "personagens": [
+        "Gideão",
+        "Jerubaal",
+        "Joás"
+      ]
     },
     "30": {
-      "parafrase": "Ele teve setenta filhos, que foram gerados por ele, pois tinha muitas esposas.",
-      "referencias": ["Deuteronômio 17:17"],
-      "comentario": "A menção de suas muitas esposas e setenta filhos, embora um sinal de riqueza e status na época, também é um sinal de que Gideão começou a agir como um rei, em contradição com sua recusa anterior. A lei proibia os reis de terem muitas esposas.",
-      "temas": ["poligamia", "riqueza", "status real"],
-      "personagens": ["Gideão"]
+      "parafrase": "Gideão teve setenta filhos varões que nasceram dele, seus descendentes diretos. Além deles, ele teve mais um filho, que nasceu de sua concubina que vivia na cidade de Siquém.",
+      "referencias": [
+        "Juízes 8:26"
+      ],
+      "comentario": "Este versículo reafirma a contagem dos filhos, reforçando a distinção entre a descendência legítima e o filho bastardo. Esta contagem é a base para o próximo ato de violência fratricida na história.",
+      "temas": [
+        "Prole",
+        "Legitimidade"
+      ],
+      "personagens": [
+        "Gideão"
+      ]
     },
     "31": {
-      "parafrase": "Sua concubina, que estava em Siquém, também lhe deu um filho, a quem ele chamou de Abimeleque.",
-      "referencias": [],
-      "comentario": "Este filho, nascido de uma concubina em Siquém (uma cidade cananeia), terá um papel central e desastroso no próximo capítulo. O nome Abimeleque significa 'meu pai é rei', uma declaração que contrasta fortemente com a recusa de Gideão em reinar.",
-      "temas": ["família", "legado", "ironia"],
-      "personagens": ["Concubina de Gideão", "Abimeleque"]
+      "parafrase": "Quando Gideão, o grande libertador de Israel, finalmente morreu, ele foi sepultado no túmulo de seu pai, em Ofra, a cidade que era seu lar.",
+      "referencias": [
+        "Juízes 2:10",
+        "Juízes 6:24"
+      ],
+      "comentario": "A morte de Gideão encerra o ciclo de paz. É notável que, apesar de ter sido escolhido por Deus e ter derrotado um inimigo poderoso, ele é sepultado em seu túmulo familiar, não em um mausoléu nacional. Sua morte marca o ponto de virada para a apostasia da nação.",
+      "temas": [
+        "Morte",
+        "Fim de uma Era"
+      ],
+      "personagens": [
+        "Gideão"
+      ]
     },
     "32": {
-      "parafrase": "Gideão, filho de Joás, morreu em boa velhice e foi sepultado no túmulo de seu pai, Joás, em Ofra dos abiezritas.",
-      "referencias": [],
-      "comentario": "Gideão morre em paz, apesar de seu erro com o éfode.",
-      "temas": ["morte", "velhice", "sepultamento"],
-      "personagens": ["Gideão"]
+      "parafrase": "Após o falecimento de Gideão, o povo de Israel, esquecendo-se rapidamente de tudo o que ele e Deus haviam feito, voltou a se prostituir espiritualmente, dedicando-se à adoração de Baal, e fizeram de Baal-Berite o seu novo deus.",
+      "referencias": [
+        "Juízes 2:19",
+        "Juízes 8:33"
+      ],
+      "comentario": "A ingratidão imediata de Israel é chocante. Eles voltam-se para o culto de Baal, especificamente Baal-Berite ('Senhor da Aliança' ou 'Deus do Pacto'). Este nome é uma paródia direta da aliança com YHWH. Eles trocam o Deus que os salvou pelo deus de seus opressores culturais, demonstrando a profunda raiz da infidelidade.",
+      "temas": [
+        "Apostasia",
+        "Idolatria",
+        "Esquecimento de Deus"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Baal-Berite"
+      ]
     },
     "33": {
-      "parafrase": "Logo que Gideão morreu, os israelitas voltaram a se prostituir com os baalins e estabeleceram Baal-Berite como seu deus.",
-      "referencias": [],
-      "comentario": "A apostasia de Israel é imediata. A influência restritiva de Gideão desaparece, e o povo mergulha de volta na idolatria, formalizando sua aliança com Baal ao adorar 'Baal-Berite' (Senhor da Aliança), uma perversão da aliança com o Senhor.",
-      "temas": ["apostasia imediata", "idolatria", "aliança pervertida"],
-      "personagens": ["Israelitas", "Baal-Berite"]
+      "parafrase": "E assim que Gideão morreu, os filhos de Israel mais uma vez traíram o Senhor, e colocaram Baal como seu deus, e também veneraram Aserá, a deusa cananeia, e todos os outros deuses dos povos ao redor.",
+      "referencias": [
+        "Êxodo 34:15",
+        "Juízes 2:13"
+      ],
+      "comentario": "O texto enfatiza a traição dupla: abandono de YHWH e adoção de Baal e Aserá (a deusa cananeia da fertilidade). A inclusão de 'todos os outros deuses' mostra uma completa dissolução da fidelidade monoteísta, abraçando o sincretismo pagão mais amplo.",
+      "temas": [
+        "Sincretismo Religioso",
+        "Politeísmo",
+        "Infidelidade"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Baal",
+        "Aserá"
+      ]
     },
     "34": {
-      "parafrase": "Eles não se lembraram do Senhor, seu Deus, que os havia livrado das mãos de todos os seus inimigos ao redor.",
-      "referencias": ["Juízes 2:10"],
-      "comentario": "O problema fundamental de Israel é o esquecimento. Eles se esquecem da redenção e da salvação de Deus, o que os leva à ingratidão e à idolatria.",
-      "temas": ["esquecimento de Deus", "ingratidão", "apostasia"],
-      "personagens": ["Israelitas", "Deus"]
+      "parafrase": "Os israelitas não se lembraram do Senhor, seu Deus, que os havia libertado de todas as mãos dos inimigos que os cercavam, nem demonstraram lealdade à família de Jerubaal (Gideão), que tanto havia trabalhado por eles.",
+      "referencias": [
+        "Juízes 6:13",
+        "Deuteronômio 32:18"
+      ],
+      "comentario": "Este versículo articula a principal falha: a memória curta. Eles esqueceram a salvação passada (libertação dos midianitas) e a dedicação pessoal de Gideão. A falha em honrar a família do libertador é um sintoma da falha em honrar a Deus.",
+      "temas": [
+        "Ingratidão",
+        "Memória",
+        "Lealdade"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Gideão",
+        "Jerubaal"
+      ]
     },
     "35": {
-      "parafrase": "E não mostraram lealdade à família de Jerubaal (Gideão) por todo o bem que ele havia feito a Israel.",
-      "referencias": [],
-      "comentario": "A ingratidão deles para com Deus se reflete em sua ingratidão para com a família do libertador que Deus usou. Isso prepara o cenário para a ascensão sangrenta de Abimeleque no próximo capítulo.",
-      "temas": ["ingratidão", "deslealdade", "legado"],
-      "personagens": ["Israelitas", "Família de Gideão"]
+      "parafrase": "Eles se esqueceram de Gideão, filho de Joás, e de todas as coisas boas que ele havia feito por Israel. Em vez disso, buscaram a destruição da casa de seu benfeitor, abraçando a maldade.",
+      "referencias": [
+        "Provérbios 17:22",
+        "Juízes 9:5"
+      ],
+      "comentario": "Este é o ápice da ingratidão. O povo não apenas ignora Gideão, mas, implicitamente, prepara o palco para a ascensão de seu filho ilegítimo, Abimeleque (capítulo 9), que agirá para eliminar os outros setenta irmãos. A paz de Gideão termina com um chamado à violência fratricida, mostrando que a liderança de Gideão não corrigiu o coração da nação.",
+      "temas": [
+        "Traição",
+        "Ingratidão Extrema",
+        "Fratricídio Iminente"
+      ],
+      "personagens": [
+        "Gideão",
+        "Joás",
+        "Israelitas"
+      ]
     }
   }
 }

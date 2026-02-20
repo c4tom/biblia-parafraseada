@@ -1,169 +1,378 @@
 {
   "livro": "2 Crônicas",
   "capitulo": 26,
-  "contexto_historico": "Este capítulo narra o reinado de Uzias (também conhecido como Azarias) em Judá. Ele começa como um rei justo e próspero, buscando o Senhor e sendo abençoado com sucesso militar e grandes construções. No entanto, em sua prosperidade, Uzias se enche de orgulho e tenta usurpar a função sacerdotal, o que resulta em lepra e isolamento. O capítulo destaca as bênçãos da obediência a Deus e as consequências do orgulho e da desobediência.",
-  "bloco_tematico": "O Reinado de Uzias, Sua Prosperidade e Sua Lepra",
+  "contexto_historico": "Josias, um rei justo de Judá, após uma longa e bem-sucedida reforma religiosa e a restauração do culto a Yahweh, enfrenta um desafio militar e profético crucial: a invasão do Egito sob o comando do Faraó Neco, que marcha em direção à Assíria. Josias, por lealdade a uma aliança anterior (ou por um senso de dever teológico, embora inoportuno), decide interceptar o exército egípcio em Meguido, ignorando o aviso profético de Hulda (registrado em 2 Crônicas 22:21-23). A batalha resulta na derrota e morte trágica de Josias, um evento que marca o fim da era de ouro da reforma e precipita a decadência final de Judá. Seu luto nacional é intenso, sendo lembrado como o maior lamento desde a morte de Samuel.",
+  "bloco_tematico": "A Queda do Rei Justo: Josias e o Inelutável Julgamento Divino ⚔️💔",
   "versiculos": {
     "1": {
-      "parafrase": "Todo o povo de Judá pegou Uzias, que tinha dezesseis anos, e o fez rei em lugar de seu pai Amazias.",
-      "referencias": ["2 Reis 14:21"],
-      "comentario": "Uzias (também conhecido como Azarias) sucede seu pai Amazias no trono de Judá. Sua juventude ao assumir o trono é notável, e ele é escolhido pelo povo.",
-      "temas": ["sucessão", "reinado", "juventude"],
-      "personagens": ["Uzias", "Amazias"]
+      "parafrase": "Quando Acaz completou dezesseis anos de idade, ele ascendeu ao trono de Judá e reinou por dezesseis anos na cidade santa de Jerusalém. No entanto, seu coração se desviou profundamente, pois ele não fez o que era reto aos olhos do Senhor, como havia feito seu ancestral Davi.",
+      "referencias": [
+        "2 Reis 16:2",
+        "2 Crônicas 28:4"
+      ],
+      "comentario": "O versículo estabelece o início do reinado de Acaz, destacando sua juventude (16 anos) e a duração do seu governo (16 anos). O ponto crucial é a comparação direta com Davi, marcando a falha moral de Acaz. A expressão 'não fez o que era reto' é um padrão para os reis ímpios no registro histórico.",
+      "temas": [
+        "Início do Reinado",
+        "Desobediência Real",
+        "Comparação com Davi"
+      ],
+      "personagens": [
+        "Acaz"
+      ]
     },
     "2": {
-      "parafrase": "Ele reconstruiu Elate e a restaurou a Judá, depois que o rei dormiu com seus pais.",
-      "referencias": ["2 Reis 14:22"],
-      "comentario": "Uzias reconstrói Elate, um porto importante, restaurando-o a Judá, o que demonstra sua capacidade de liderança e sua visão para o reino.",
-      "temas": ["reconstrução", "restauração", "liderança"],
-      "personagens": ["Uzias"]
+      "parafrase": "Ao invés de seguir a fidelidade, Acaz trilhou os caminhos dos reis de Israel, chegando ao ponto de fazer ídolos fundidos para os Baals, que eram meros deuses falsos.",
+      "referencias": [
+        "2 Reis 16:3",
+        "2 Crônicas 28:2"
+      ],
+      "comentario": "O texto especifica a primeira grande transgressão: a idolatria aos Baals. Isso mostra uma completa rejeição ao modelo teocrático estabelecido, alinhando-se com os pecados do Reino do Norte (Israel).",
+      "temas": [
+        "Idolatria",
+        "Caminhos de Israel",
+        "Perversão"
+      ],
+      "personagens": [
+        "Acaz"
+      ]
     },
     "3": {
-      "parafrase": "Uzias tinha dezesseis anos quando começou a reinar, e reinou cinquenta e dois anos em Jerusalém. O nome de sua mãe era Jecolias, de Jerusalém.",
-      "referencias": ["2 Reis 15:2"],
-      "comentario": "Uzias teve um dos reinados mais longos em Judá, indicando um período de estabilidade e prosperidade, apesar de sua juventude ao assumir o trono.",
-      "temas": ["duração do reinado", "estabilidade", "prosperidade"],
-      "personagens": ["Uzias", "Jecolias"]
+      "parafrase": "Mais chocante ainda, ele levou seus próprios filhos para o fogo, realizando as práticas abomináveis de sacrifício pagão que as nações gentias, que Deus havia expulsado de diante dos israelitas, costumavam fazer.",
+      "referencias": [
+        "Levítico 18:21",
+        "Deuteronômio 18:10"
+      ],
+      "comentario": "Este é o ponto mais sombrio: sacrifício de crianças ('passar os filhos pelo fogo'). Este ato é condenado como uma das maiores abominações em toda a Lei Mosaica (Lv 18:21). Acaz não apenas adorou falsos deuses, mas imitou as piores práticas cananeias, desumanizando sua própria linhagem.",
+      "temas": [
+        "Sacrifício de Crianças",
+        "Abominação",
+        "Imitação Pagã"
+      ],
+      "personagens": [
+        "Acaz"
+      ]
     },
     "4": {
-      "parafrase": "Ele fez o que era reto aos olhos do Senhor, conforme tudo o que seu pai Amazias havia feito.",
-      "referencias": ["2 Reis 15:3"],
-      "comentario": "Uzias é elogiado por sua retidão e por seguir o exemplo de seu pai Amazias, que foi um rei que buscou o Senhor, embora com falhas.",
-      "temas": ["retidão", "fidelidade", "exemplo paterno"],
-      "personagens": ["Uzias", "Senhor", "Amazias"]
+      "parafrase": "Ele também construiu altares e erigiu pilares de sacrifício em todos os lugares altos e debaixo de todas as árvores frondosas, lugares que eram dedicados à adoração de falsos deuses.",
+      "referencias": [
+        "Deuteronômio 12:2",
+        "Isaías 57:5"
+      ],
+      "comentario": "A disseminação da idolatria é geográfica. Acaz não se limitou a um único local; ele profanou todo o cenário religioso de Judá, estabelecendo centros de culto pagão ('lugares altos' e 'árvores frondosas' eram locais tradicionais de cultos pagãos).",
+      "temas": [
+        "Profanação",
+        "Altares",
+        "Espalhamento da Idolatria"
+      ],
+      "personagens": [
+        "Acaz"
+      ]
     },
     "5": {
-      "parafrase": "Ele buscou a Deus nos dias de Zacarias, que tinha entendimento nas visões de Deus. E enquanto ele buscou o Senhor, Deus o fez prosperar.",
-      "referencias": [],
-      "comentario": "A prosperidade de Uzias é diretamente atribuída à sua busca por Deus e à influência de Zacarias, que o orientava nas visões divinas. Isso enfatiza a conexão entre a fidelidade a Deus e a bênção.",
-      "temas": ["busca por Deus", "prosperidade", "influência espiritual", "bênção divina"],
-      "personagens": ["Uzias", "Deus", "Zacarias", "Senhor"]
+      "parafrase": "Naqueles dias, o rei da Síria, Peca, filho de Remalias, e Peca, rei de Israel, uniram forças para atacar Judá, cercando a cidade de Jerusalém.",
+      "referencias": [
+        "Isaías 7:1",
+        "2 Reis 15:37"
+      ],
+      "comentario": "A instabilidade política se manifesta. Acaz enfrenta uma ameaça direta: a coligação militar entre Peca (rei de Israel, do Norte) e Rezim (rei da Síria/Damasco, o Aramaico). Jerusalém está sob cerco, uma consequência direta ou paralela à sua apostasia.",
+      "temas": [
+        "Ameaça Militar",
+        "Aliança Hostil",
+        "Cerco"
+      ],
+      "personagens": [
+        "Peca (filho de Remalias)",
+        "Rezim (implícito no contexto de 2 Reis 16:5, embora este versículo mencione apenas Peca de Israel e Rezim como rei da Síria)"
+      ]
     },
     "6": {
-      "parafrase": "Ele saiu e guerreou contra os filisteus, e derrubou os muros de Gate, de Jabne e de Asdode, e construiu cidades nas regiões de Asdode e entre os filisteus.",
-      "referencias": [],
-      "comentario": "Uzias demonstra sua força militar ao derrotar os filisteus e destruir suas cidades, expandindo seu território e consolidando seu domínio.",
-      "temas": ["guerra", "vitória militar", "expansão territorial", "conquista"],
-      "personagens": ["Uzias", "Filisteus"]
+      "parafrase": "Naquela época, Rezim, o rei da Síria, conseguiu retomar a cidade de Elate para Edom, expulsando os homens de Judá que lá estavam. Assim, os edomitas voltaram a possuir Elate.",
+      "referencias": [
+        "2 Reis 16:6",
+        "Jeremias 49:2"
+      ],
+      "comentario": "O cerco se desdobra em perda territorial. Rezim, o líder sírio, reconquista Elate (porto estratégico no Mar Vermelho, no sul), um território que pertencia a Judá. Os edomitas, vizinhos hostis, retomam o controle, enfraquecendo ainda mais a posição de Acaz no comércio e defesa.",
+      "temas": [
+        "Perda Territorial",
+        "Elate",
+        "Edomitas"
+      ],
+      "personagens": [
+        "Rezim",
+        "Edomitas"
+      ]
     },
     "7": {
-      "parafrase": "Deus o ajudou contra os filisteus, contra os árabes que moravam em Gur-Baal e contra os meunitas.",
-      "referencias": [],
-      "comentario": "As vitórias de Uzias são atribuídas à ajuda de Deus, demonstrando a intervenção divina em suas campanhas militares.",
-      "temas": ["ajuda divina", "vitória", "intervenção divina"],
-      "personagens": ["Deus", "Filisteus", "Árabes", "Meunitas"]
+      "parafrase": "Então, Acaz enviou mensageiros apressados até Tiglate-Pileser, o poderoso rei da Assíria, com a seguinte mensagem: 'Sou apenas seu servo e seu vassalo. Venha me socorrer contra a ameaça dos reis da Síria e de Israel que estão me atacando.'",
+      "referencias": [
+        "Isaías 7:4-6",
+        "2 Reis 16:7"
+      ],
+      "comentario": "A resposta de Acaz é política e desesperada: buscar o poder dominante da época, a Assíria (Tiglate-Pileser III). Ele se humilha, oferecendo submissão total ('servo e vassalo') para garantir ajuda militar contra seus inimigos imediatos. Esta é a decisão fatal que sela o destino de Judá.",
+      "temas": [
+        "Apelo à Assíria",
+        "Submissão Política",
+        "Desespero"
+      ],
+      "personagens": [
+        "Acaz",
+        "Tiglate-Pileser"
+      ]
     },
     "8": {
-      "parafrase": "Os amonitas trouxeram presentes a Uzias, e sua fama se espalhou até a entrada do Egito, pois ele se tornou muito forte.",
-      "referencias": [],
-      "comentario": "A fama de Uzias se espalha por toda a região, e ele recebe presentes dos amonitas, demonstrando seu poder e sua influência internacional.",
-      "temas": ["fama", "presentes", "poder", "influência"],
-      "personagens": ["Amonitas", "Uzias"]
+      "parafrase": "Acaz pegou todo o tesouro que havia sido guardado no Templo do Senhor e nos depósitos do palácio real, e enviou essa riqueza como um presente generoso para o rei da Assíria.",
+      "referencias": [
+        "2 Reis 16:8",
+        "2 Crônicas 29:3"
+      ],
+      "comentario": "O preço da aliança é a pilhagem dos tesouros sagrados e reais. Acaz não hesitou em desfalcar o patrimônio do Templo para comprar a intervenção militar assíria. Este ato demonstra a prioridade de Acaz: segurança política acima da santidade divina.",
+      "temas": [
+        "Suborno",
+        "Tesouros do Templo",
+        "Compromisso Religioso"
+      ],
+      "personagens": [
+        "Acaz"
+      ]
     },
     "9": {
-      "parafrase": "Uzias construiu torres em Jerusalém, no Portão da Esquina, no Portão do Vale e no Ângulo, e as fortificou.",
-      "referencias": [],
-      "comentario": "Uzias fortalece as defesas de Jerusalém, construindo torres em pontos estratégicos, o que contribui para a segurança da cidade.",
-      "temas": ["fortificação", "segurança", "construção"],
-      "personagens": ["Uzias"]
+      "parafrase": "O rei da Assíria atendeu ao seu chamado. Tiglate-Pileser marchou contra Damasco (a capital da Síria), conquistou-a, aprisionou a população e a levou cativa para Quir, um lugar distante.",
+      "referencias": [
+        "2 Reis 16:9",
+        "Amós 1:5"
+      ],
+      "comentario": "A Assíria cumpre sua parte do acordo. A destruição de Damasco é um evento histórico bem documentado. O texto destaca a consequência da conquista: o exílio da população para Quir, uma região não especificada, mas entendida como longínqua, mostrando o poderio militar assírio.",
+      "temas": [
+        "Conquista Assíria",
+        "Queda de Damasco",
+        "Exílio"
+      ],
+      "personagens": [
+        "Tiglate-Pileser"
+      ]
     },
     "10": {
-      "parafrase": "Ele também construiu torres no deserto e cavou muitos poços, pois tinha muitos rebanhos na Sefelá e nas planícies, e lavradores e vinhateiros nas montanhas e nos campos férteis, pois ele amava a agricultura.",
-      "referencias": [],
-      "comentario": "Uzias investe na infraestrutura agrícola, construindo torres e poços para seus vastos rebanhos e plantações, demonstrando seu amor pela agricultura e sua visão para a prosperidade econômica.",
-      "temas": ["infraestrutura agrícola", "prosperidade econômica", "agricultura"],
-      "personagens": ["Uzias"]
+      "parafrase": "Então, Acaz foi pessoalmente a Damasco para encontrar Tiglate-Pileser, o assírio, e viu o altar que havia lá. Depois de observar o desenho e a disposição daquele altar estrangeiro, ele enviou um modelo detalhado para Urias, o sacerdote, em Jerusalém.",
+      "referencias": [
+        "2 Reis 16:10",
+        "Isaías 8:1-2"
+      ],
+      "comentario": "A influência estrangeira se torna doutrinária. A visita de Acaz a Damasco não foi apenas diplomática, mas cultural e religiosa. Ele se sente atraído pelo altar pagão e encomenda uma cópia exata para ser construída no Templo de Jerusalém, um ato de profunda traição teológica.",
+      "temas": [
+        "Influência Estrangeira",
+        "Viagem a Damasco",
+        "Imitação de Culto"
+      ],
+      "personagens": [
+        "Acaz",
+        "Urias (sacerdote)"
+      ]
     },
     "11": {
-      "parafrase": "Uzias tinha um exército de homens de guerra, que saíam para a batalha em divisões, segundo o número de seu censo, feito por Jeiel, o escrivão, e Maasias, o oficial, sob a direção de Hananias, um dos comandantes do rei.",
-      "referencias": [],
-      "comentario": "O exército de Uzias é bem organizado e numeroso, com oficiais e comandantes, demonstrando sua força militar e sua capacidade de defesa.",
-      "temas": ["exército", "organização militar", "força militar"],
-      "personagens": ["Uzias", "Jeiel", "Maasias", "Hananias"]
+      "parafrase": "Em obediência ao rei, o sacerdote Urias construiu o altar exatamente conforme as especificações que Acaz havia enviado de Damasco. Urias o completou antes que o rei Acaz retornasse de sua viagem.",
+      "referencias": [
+        "2 Reis 16:11"
+      ],
+      "comentario": "Urias, o sacerdote principal, cede à ordem real, ignorando o altar de bronze feito por Betezalel (Êxodo 38:22), que havia sido movido para dar lugar ao novo altar. A rapidez na construção indica a prioridade dada à vontade do rei sobre a tradição do Templo.",
+      "temas": [
+        "Obediência ao Rei",
+        "Substituição do Altar",
+        "Comprometimento do Sacerdócio"
+      ],
+      "personagens": [
+        "Urias",
+        "Acaz"
+      ]
     },
     "12": {
-      "parafrase": "O número total dos chefes das casas paternas, homens valentes, era de dois mil e seiscentos.",
-      "referencias": [],
-      "comentario": "O número de chefes militares é fornecido, mostrando a estrutura de comando do exército.",
-      "temas": ["chefes militares", "estrutura de comando"],
-      "personagens": []
+      "parafrase": "Quando Acaz finalmente retornou de Damasco e viu o novo altar que havia sido erguido, o seu coração se alegrou imensamente com aquela obra.",
+      "referencias": [
+        "2 Reis 16:12"
+      ],
+      "comentario": "A satisfação de Acaz ao ver o altar 'ao modo assírio' em Jerusalém demonstra que seu foco estava totalmente nas formas externas e nos ritos importados, e não na pureza do culto a Deus.",
+      "temas": [
+        "Satisfação Idólatra",
+        "Aprovação do Novo Culto"
+      ],
+      "personagens": [
+        "Acaz"
+      ]
     },
     "13": {
-      "parafrase": "Sob seu comando estava um exército de trezentos e sete mil e quinhentos homens, que lutavam com grande poder, para ajudar o rei contra o inimigo.",
-      "referencias": [],
-      "comentario": "A força total do exército de Uzias é impressionante, demonstrando seu poder e sua capacidade de enfrentar qualquer inimigo.",
-      "temas": ["força militar", "poder"],
-      "personagens": []
+      "parafrase": "Ele se aproximou para oferecer sacrifícios no altar recém-construído, apresentando sacrifícios queimados e ofertas de cereais. Além disso, derramou a libação de vinho sobre o altar, completando o rito.",
+      "referencias": [
+        "Levítico 1:4",
+        "Números 28:7"
+      ],
+      "comentario": "Acaz não apenas construiu o altar, mas imediatamente o utilizou para os rituais centrais da adoração (holocaustos, ofertas de manjares e libações), consagrando-o para uso cultual, usurpando a função do altar original de bronze.",
+      "temas": [
+        "Oferta de Sacrifícios",
+        "Rito Religioso",
+        "Consagração"
+      ],
+      "personagens": [
+        "Acaz"
+      ]
     },
     "14": {
-      "parafrase": "Uzias preparou para eles, para todo o exército, escudos, lanças, capacetes, couraças, arcos e fundas para atirar pedras.",
-      "referencias": [],
-      "comentario": "Uzias equipa seu exército com uma variedade de armas e armaduras, garantindo sua prontidão para a batalha.",
-      "temas": ["armamento", "equipamento militar", "preparação"],
-      "personagens": ["Uzias"]
+      "parafrase": "Em seguida, Acaz removeu o grandioso altar de bronze que estava diante da casa do Senhor — o original, feito por ocasião da dedicação do Templo —, e o moveu para o lado do novo altar, colocando-o ao norte dele.",
+      "referencias": [
+        "2 Reis 16:14",
+        "Êxodo 38:22"
+      ],
+      "comentario": "O afastamento do altar original de bronze (feito por Betezalel, um símbolo da aliança e da presença de Deus) é um ato drástico. A remoção física simboliza o descarte da tradição fiel em favor da novidade pagã importada. Colocá-lo ao norte do novo altar (presumivelmente a leste, seguindo a orientação do templo) o marginaliza.",
+      "temas": [
+        "Remoção do Altar Original",
+        "Marginalização da Tradição",
+        "Simbolismo Espacial"
+      ],
+      "personagens": [
+        "Acaz"
+      ]
     },
     "15": {
-      "parafrase": "Ele fez em Jerusalém máquinas de guerra, inventadas por homens hábeis, para estarem nas torres e nos ângulos, para atirar flechas e grandes pedras. E sua fama se espalhou para muito longe, pois ele foi maravilhosamente ajudado até que se tornou forte.",
-      "referencias": [],
-      "comentario": "Uzias inova na tecnologia militar, desenvolvendo máquinas de guerra para a defesa de Jerusalém. Sua fama se espalha, e seu sucesso é atribuído à ajuda divina, que o fortaleceu.",
-      "temas": ["inovação militar", "tecnologia", "fama", "ajuda divina"],
-      "personagens": ["Uzias"]
+      "parafrase": "O rei Acaz então deu instruções ao sacerdote Urias: 'Use o grande altar de bronze para as ofertas da manhã, a oferta de cereal e o sacrifício de holocausto. Mas para todas as outras ocasiões, use este novo altar, de acordo com o modelo que vi em Damasco.'",
+      "referencias": [
+        "2 Reis 16:15"
+      ],
+      "comentario": "Este versículo detalha a política litúrgica de Acaz: uma 'divisão de trabalho' para os altares. O altar original é relegado às liturgias fixas diárias, enquanto o novo altar, importado de Damasco, assume as oferendas adicionais e voluntárias. Isso oficializa a hierarquia dos cultos, com o modelo assírio sendo o preferencial.",
+      "temas": [
+        "Dicotomia Litúrgica",
+        "Prioridades Cultuais",
+        "Oficiais do Templo"
+      ],
+      "personagens": [
+        "Acaz",
+        "Urias"
+      ]
     },
     "16": {
-      "parafrase": "Mas quando ele se tornou forte, seu coração se encheu de orgulho para sua própria destruição. Ele agiu traiçoeiramente contra o Senhor, seu Deus, e entrou no templo do Senhor para queimar incenso no altar do incenso.",
-      "referencias": ["2 Reis 15:5"],
-      "comentario": "A prosperidade de Uzias o leva ao orgulho, que o leva a agir traiçoeiramente contra Deus, usurpando a função sacerdotal de queimar incenso no Templo, o que era proibido para os reis. Este é o ponto de virada em seu reinado.",
-      "temas": ["orgulho", "traição", "usurpação sacerdotal", "desobediência", "ponto de virada"],
-      "personagens": ["Uzias", "Senhor", "Deus"]
+      "parafrase": "Acaz também desmantelou algumas peças dos carros cerimoniais de bronze, que eram belíssimas peças de arte e adoração, e removeu suas bases. Ele fez isso para poder colocar as bases removidas sob o novo altar, pois precisava de uma plataforma mais sólida para ele.",
+      "referencias": [
+        "2 Reis 16:17",
+        "1 Reis 7:27-30"
+      ],
+      "comentario": "A profanação continua com a destruição de artefatos sagrados feitos por Betezalel (os carros, ou 'rebequim'). Estes eram adornos funcionais e simbólicos do Templo. Acaz os destrói para prover um suporte para seu altar pagão, mostrando um desapego total pelo valor histórico e sagrado desses objetos.",
+      "temas": [
+        "Destruição de Artefatos Sagrados",
+        "Desmonte do Mobiliário do Templo",
+        "Pragmatismo Idólatra"
+      ],
+      "personagens": [
+        "Acaz"
+      ]
     },
     "17": {
-      "parafrase": "Azarias, o sacerdote, e com ele oitenta sacerdotes do Senhor, homens valentes, entraram atrás dele.",
-      "referencias": [],
-      "comentario": "Azarias, o sumo sacerdote, e oitenta sacerdotes corajosos confrontam Uzias, demonstrando seu zelo pela santidade do Templo e pela lei de Deus.",
-      "temas": ["confronto sacerdotal", "zelo religioso", "santidade do templo"],
-      "personagens": ["Azarias", "Sacerdotes", "Senhor"]
+      "parafrase": "Além disso, Acaz retirou as laterais protetoras que estavam nas bases dos carros e tirou as bacias que ficavam sobre elas. Ele também retirou a bacia de água grande (a Pia de Bronze) de cima dos bois de bronze que a sustentavam, e a colocou no chão de pedra, ao lado do novo altar.",
+      "referencias": [
+        "2 Reis 16:17",
+        "1 Reis 7:39"
+      ],
+      "comentario": "Acaz prossegue com a desfiguração do espaço sagrado. Ele desmantela a Pia de Bronze, que servia para a purificação dos sacerdotes (simbolizando a santificação). Ao removê-la de seu suporte original (os bois), ele a isola, diminuindo sua importância funcional e visual.",
+      "temas": [
+        "Desmantelamento da Pia",
+        "Purificação",
+        "Alteração do Layout do Templo"
+      ],
+      "personagens": [
+        "Acaz"
+      ]
     },
     "18": {
-      "parafrase": "Eles se opuseram ao rei Uzias e lhe disseram: 'Não é sua função, Uzias, queimar incenso ao Senhor, mas sim dos sacerdotes, os filhos de Arão, que foram consagrados para queimar incenso. Saia do santuário, pois você agiu traiçoeiramente, e isso não lhe trará honra do Senhor Deus.'",
-      "referencias": ["Números 16:40"],
-      "comentario": "Os sacerdotes repreendem Uzias, lembrando-o de que a função de queimar incenso é exclusiva dos sacerdotes arônicos. Eles o advertem sobre as consequências de sua desobediência e a desonra que isso trará de Deus.",
-      "temas": ["repreensão", "exclusividade sacerdotal", "desobediência", "desonra"],
-      "personagens": ["Azarias", "Uzias", "Senhor", "Deus", "Arão"]
+      "parafrase": "Por causa da cerimônia religiosa especial que o rei Acaz havia instituído, ele ordenou que se retirasse do Templo a cobertura para o sábado — aquela espécie de teto ou pavilhão construído para o descanso sabático —, bem como a passagem de entrada do rei, que ficava dentro da Casa do Senhor, tudo para agradar ao rei da Assíria.",
+      "referencias": [
+        "2 Reis 16:18"
+      ],
+      "comentario": "A retirada da 'cobertura do sábado' ou 'passagem real' (possivelmente uma estrutura ou área de acesso reservada ao rei para observância do sábado) demonstra que Acaz estava disposto a alterar até mesmo as práticas de observância do sábado, adaptando a estrutura física do Templo para agradar ao seu protetor estrangeiro.",
+      "temas": [
+        "Observância do Sábado",
+        "Agradar ao Poder Estrangeiro",
+        "Alterações Estruturais"
+      ],
+      "personagens": [
+        "Acaz"
+      ]
     },
     "19": {
-      "parafrase": "Então Uzias, com um incensário na mão para queimar incenso, ficou irado. E enquanto ele estava irado com os sacerdotes, a lepra irrompeu em sua testa diante dos sacerdotes na casa do Senhor, junto ao altar do incenso.",
-      "referencias": ["2 Reis 15:5"],
-      "comentario": "Uzias, em sua ira e orgulho, é ferido com lepra por Deus no próprio Templo, no momento em que ele tenta usurpar a função sacerdotal. A lepra é um sinal visível do juízo divino sobre sua desobediência e orgulho.",
-      "temas": ["ira", "orgulho", "lepra", "juízo divino", "desobediência"],
-      "personagens": ["Uzias", "Sacerdotes", "Senhor"]
+      "parafrase": "Os outros atos de Acaz, tudo o que ele fez, desde o início até o fim de seu reinado, estão escritos detalhadamente no Livro da História dos Reis de Judá.",
+      "referencias": [
+        "2 Reis 16:19"
+      ],
+      "comentario": "Este é um fechamento padrão do narrador, indicando que há mais detalhes disponíveis na crônica oficial (o livro que serviu de fonte para os cronistas). Sugere que os atos de idolatria e traição são apenas os destaques registrados.",
+      "temas": [
+        "Registro Histórico",
+        "Contabilidade Real"
+      ],
+      "personagens": [
+        "Acaz"
+      ]
     },
     "20": {
-      "parafrase": "Azarias, o sumo sacerdote, e todos os sacerdotes olharam para ele, e eis que ele estava leproso na testa. Eles o expulsaram dali apressadamente, e ele mesmo se apressou em sair, pois o Senhor o havia ferido.",
-      "referencias": [],
-      "comentario": "Os sacerdotes, ao verem a lepra de Uzias, o expulsam do Templo, e ele mesmo se apressa em sair, reconhecendo o juízo divino. A lepra o torna impuro e o impede de servir no Templo.",
-      "temas": ["lepra", "expulsão", "juízo divino", "impureza"],
-      "personagens": ["Azarias", "Sacerdotes", "Uzias", "Senhor"]
+      "parafrase": "Quando Acaz finalmente morreu, foi sepultado em Jerusalém, mas, infelizmente, ele não foi incluído no sepulcro dos reis de Israel. Em vez disso, ele foi depositado em um lugar à parte na cidade.",
+      "referencias": [
+        "2 Reis 16:20"
+      ],
+      "comentario": "O epitáfio de Acaz é um reflexo de seu reinado. Embora tenha sido enterrado em Jerusalém, a recusa em colocá-lo no 'sepulcro dos reis' (o lugar de honra reservado aos monarcas justos) indica seu fracasso em cumprir o legado davídico. É uma desonra póstuma.",
+      "temas": [
+        "Morte e Sepultamento",
+        "Desonra Real",
+        "Legado"
+      ],
+      "personagens": [
+        "Acaz"
+      ]
     },
     "21": {
-      "parafrase": "O rei Uzias ficou leproso até o dia de sua morte, e morou em uma casa separada, pois estava leproso e foi excluído da casa do Senhor. Jotão, seu filho, era o chefe do palácio e governava o povo da terra.",
-      "referencias": ["2 Reis 15:5"],
-      "comentario": "Uzias permanece leproso até sua morte e vive em isolamento, excluído do Templo. Seu filho Jotão assume a regência do reino, demonstrando as consequências duradouras de sua desobediência.",
-      "temas": ["lepra", "isolamento", "exclusão", "regência", "consequências"],
-      "personagens": ["Uzias", "Jotão", "Senhor"]
+      "parafrase": "Seu sucessor foi seu filho, Ezequias, que ascendeu ao trono com vinte e cinco anos de idade e reinou por vinte e nove anos na cidade santa de Jerusalém.",
+      "referencias": [
+        "2 Reis 18:1",
+        "2 Crônicas 29:1"
+      ],
+      "comentario": "Um contraste imediato e poderoso. O texto passa de Acaz para Ezequias, cujo nome (Ezekiah) significa 'Yahweh fortaleceu'. Sua ascensão aos 25 anos marca o início de um dos reinados mais piedosos da história de Judá, um bálsamo após a escuridão de seu pai.",
+      "temas": [
+        "Sucessão",
+        "Contraste de Gerações",
+        "Início do Reinado de Ezequias"
+      ],
+      "personagens": [
+        "Ezequias",
+        "Acaz"
+      ]
     },
     "22": {
-      "parafrase": "Os demais atos de Uzias, os primeiros e os últimos, foram escritos pelo profeta Isaías, filho de Amoz.",
-      "referencias": ["Isaías 1:1"],
-      "comentario": "O narrador faz referência a outras fontes para mais informações sobre o reinado de Uzias, incluindo o livro do profeta Isaías.",
-      "temas": ["registro histórico", "referência", "profeta"],
-      "personagens": ["Uzias", "Isaías"]
+      "parafrase": "Acaz, em sua impiedade, havia acumulado uma série de atos detestáveis contra o Senhor. Ezequias, ao assumir o trono, dedicou-se a desfazer todas essas transgressões cometidas por seu pai.",
+      "referencias": [
+        "2 Crônicas 29:3",
+        "2 Reis 18:4"
+      ],
+      "comentario": "O reinado de Ezequias começa com um mandato claro: purificação e restauração. Ele não apenas ignora os atos de seu pai, mas se empenha ativamente em reverter a corrupção religiosa e política introduzida por Acaz, mostrando a seriedade de seu compromisso com a aliança.",
+      "temas": [
+        "Reforma Religiosa",
+        "Arrependimento",
+        "Reversão da Apostasia"
+      ],
+      "personagens": [
+        "Ezequias",
+        "Acaz"
+      ]
     },
     "23": {
-      "parafrase": "Uzias dormiu com seus pais, e o sepultaram com seus pais no campo de sepultamento que pertencia aos reis, pois disseram: 'Ele é leproso.' Jotão, seu filho, reinou em seu lugar.",
-      "referencias": ["2 Reis 15:7"],
-      "comentario": "Uzias é sepultado em um campo separado, e não nos túmulos dos reis, devido à sua lepra, o que indica uma desonra. Jotão o sucede no trono.",
-      "temas": ["sepultamento desonroso", "lepra", "sucessão"],
-      "personagens": ["Uzias", "Jotão"]
+      "parafrase": "Ezequias chegou a sacrificar no monte e nos lugares altos, mas logo depois ordenou que tudo fosse destruído. Ele quebrou as colunas sagradas, derrubou os postes erguidos em honra aos falsos deuses, e destroçou completamente as serpentes de bronze que Moisés havia feito, pois o povo havia começado a incensá-las, tratando-as como objetos de adoração, e não apenas como lembranças do passado.",
+      "referencias": [
+        "Números 21:8-9",
+        "2 Reis 18:4"
+      ],
+      "comentario": "Este versículo é complexo. Inicialmente, Ezequias sacrifica nos lugares altos, um ato que mais tarde seria corrigido (Dt 12:5). O ponto central, porém, é a destruição dos ídolos remanescentes, notavelmente o 'Nehustã' (a serpente de bronze de Moisés, Nm 21:9). O povo havia caído em idolatria com a relíquia sagrada, transformando um meio de cura em um objeto de culto ('incensavam'). Ezequias demonstra sua liderança ao eliminar até mesmo as relíquias que haviam se tornado um obstáculo à adoração pura a Yahweh.",
+      "temas": [
+        "Destruição de Ídolos",
+        "O Nehustã (Serpente de Bronze)",
+        "Idolatria de Relíquias",
+        "Pureza do Culto"
+      ],
+      "personagens": [
+        "Ezequias",
+        "Moisés"
+      ]
     }
   }
 }

@@ -1,260 +1,584 @@
 {
   "livro": "2 Reis",
   "capitulo": 10,
-  "contexto_historico": "Este capítulo narra a continuação do extermínio da casa de Acabe por Jeú, conforme a profecia de Elias. Jeú, agindo como instrumento de Deus, executa os setenta filhos de Acabe, os parentes de Acazias de Judá, e os adoradores de Baal, consolidando seu reinado e purificando Israel da idolatria de Baal, embora ele mesmo não se desvie dos pecados de Jeroboão.",
-  "bloco_tematico": "O Extermínio da Casa de Acabe e dos Adoradores de Baal",
+  "contexto_historico": "O capítulo 10 de 2 Reis foca na consolidação do poder de Jeú, que, após ser ungido para destruir a casa de Acabe, executa o plano com uma brutalidade implacável. Ele elimina todos os descendentes de Acabe em Jezreel e confronta os parentes e amigos dos 70 filhos de Acabe, executando-os também. Em seguida, Jeú atrai os 42 parentes de Acazias, rei de Judá, que vinham saudar os filhos de Acabe, e os mata. Finalmente, ele atrai os adoradores de Baal para um grande falso culto, massacra-os e destrói o templo de Baal, substituindo a adoração de Baal pela adoração ao Senhor, embora ele próprio não se desvie totalmente dos pecados de Jeroboão (adoração aos bezerros de ouro). 👑🔥",
+  "bloco_tematico": "O Massacre Real e a Purga de Baal: A Ascensão Brutal de Jeú 🩸🛡️",
   "versiculos": {
     "1": {
-      "parafrase": "Acabe tinha setenta filhos em Samaria. Jeú escreveu cartas e as enviou a Samaria, aos chefes de Jezreel, aos anciãos e aos tutores de Acabe, dizendo:",
-      "referencias": [],
-      "comentario": "Jeú, agora rei, inicia seu plano para exterminar a casa de Acabe. Ele envia cartas aos líderes de Samaria, onde os filhos de Acabe residiam, desafiando-os a escolher um novo rei.",
-      "temas": ["extermínio da linhagem", "desafio", "conspiração"],
-      "personagens": ["Acabe", "Jeú", "Chefes de Jezreel", "Anciãos", "Tutores de Acabe"]
+      "parafrase": "Ao saber disso, Jorão, o rei de Israel, ficou apavorado. Ele sabia que o poder da Síria, sob a liderança de Ben-Hadade, era uma ameaça constante. Então, ele buscou conselho com seus oficiais e decidiu que era hora de agir contra a ameaça síria que o atormentava.",
+      "referencias": [
+        "2 Reis 6:8",
+        "1 Reis 20:1"
+      ],
+      "comentario": "O Rei Jorão (Jeorão) de Israel reage com medo ('entristeceu-se') à notícia do sucesso militar contínuo dos arameus (sírios), liderados por Ben-Hadade. A relação entre Israel e a Síria era de conflito crônico, um reflexo da instabilidade política regional e da desobediência de Israel às alianças.",
+      "temas": [
+        "Medo e Reação Real",
+        "Conflito Israel-Arã"
+      ],
+      "personagens": [
+        "Jorão (Rei de Israel)",
+        "Ben-Hadade"
+      ]
     },
     "2": {
-      "parafrase": "'Agora, pois, quando esta carta chegar a vocês, visto que vocês têm os filhos de seu senhor, e também carros e cavalos, e uma cidade fortificada, e armas,'",
-      "referencias": [],
-      "comentario": "Jeú, em sua astúcia, desafia os líderes de Samaria a defenderem a casa de Acabe, lembrando-os de seus recursos militares e de sua posição fortificada.",
-      "temas": ["astúcia", "desafio", "recursos militares"],
-      "personagens": ["Jeú"]
+      "parafrase": "Mas um dos seus servos, um profeta fiel, interveio na conversa, dizendo: 'Meu senhor e rei, não se desespere! Deus revelou a mim que o rei da Síria não terá a vitória final contra você.'",
+      "referencias": [
+        "2 Reis 6:12",
+        "2 Reis 5:8"
+      ],
+      "comentario": "A intervenção do profeta (identificado em versículos posteriores como Eliseu, embora não nomeado aqui) quebra o ciclo de desespero real. Ele age como um intermediário da vontade divina, garantindo que a soberania de Deus transcende as táticas militares humanas.",
+      "temas": [
+        "Intervenção Profética",
+        "Soberania Divina"
+      ],
+      "personagens": [
+        "Servo (Profeta)"
+      ]
     },
     "3": {
-      "parafrase": "'escolham o melhor e mais digno dos filhos de seu senhor, ponham-no no trono de seu pai e lutem pela casa de seu senhor.'",
-      "referencias": [],
-      "comentario": "Jeú os incita a lutar pela casa de Acabe, mas sua verdadeira intenção é expor sua fraqueza e sua falta de lealdade.",
-      "temas": ["engano", "teste de lealdade", "fraqueza"],
-      "personagens": ["Jeú"]
+      "parafrase": "O rei, então, ordenou: 'Vá e veja onde esse homem de Deus está. É urgente que eu saiba onde ele se esconde, pois preciso de suas instruções divinas para a guerra!' O servo foi e descobriu que o profeta estava em Dotã.",
+      "referencias": [
+        "1 Reis 18:13",
+        "2 Reis 6:13"
+      ],
+      "comentario": "A fé de Jorão ainda é instrumental. Ele não confia cegamente, mas busca ativamente a fonte daquela promessa. A localização em Dotã (região de Samaria) é mencionada, preparando o cenário para o próximo drama.",
+      "temas": [
+        "Busca por Orientação",
+        "Localização do Profeta"
+      ],
+      "personagens": [
+        "Jorão (Rei de Israel)",
+        "Profeta (Eliseu)"
+      ]
     },
     "4": {
-      "parafrase": "Mas eles ficaram com muito medo e disseram: 'Eis que dois reis não puderam resistir a ele; como, então, nós poderíamos resistir?'",
-      "referencias": ["2 Reis 9:24-27"],
-      "comentario": "Os líderes de Samaria, temendo o poder de Jeú, que já havia matado Jeorão e Acazias, recusam-se a lutar pela casa de Acabe. Isso demonstra o medo e a desmoralização que Jeú inspirava.",
-      "temas": ["medo", "desmoralização", "recusa"],
-      "personagens": ["Chefes de Jezreel", "Anciãos", "Tutores de Acabe"]
+      "parafrase": "Quando o rei soube que Eliseu estava lá, enviou uma grande força militar, com cavalos e carros de guerra, para cercar a cidade e capturá-lo durante a noite. Foi um cerco imponente.",
+      "referencias": [
+        "2 Reis 6:14",
+        "Gênesis 49:17"
+      ],
+      "comentario": "A resposta do rei é grandiosa e militarista, refletindo sua mentalidade de 'olho por olho'. A força enviada demonstra a seriedade com que a Síria tratava as profecias que ameaçavam seus planos de conquista.",
+      "temas": [
+        "Poder Militar Contra o Profeta",
+        "Cerco"
+      ],
+      "personagens": [
+        "Eliseu",
+        "Exército Sírio"
+      ]
     },
     "5": {
-      "parafrase": "Então o chefe do palácio, o chefe da cidade, os anciãos e os tutores enviaram uma mensagem a Jeú, dizendo: 'Somos seus servos, e faremos tudo o que você nos disser. Não faremos de ninguém rei. Faça o que lhe parecer bem.'",
-      "referencias": [],
-      "comentario": "Os líderes de Samaria se submetem completamente a Jeú, renunciando à sua lealdade à casa de Acabe e oferecendo-se para cumprir suas ordens. Isso mostra a eficácia da estratégia de Jeú.",
-      "temas": ["submissão", "lealdade", "eficácia"],
-      "personagens": ["Chefes de Jezreel", "Anciãos", "Tutores de Acabe", "Jeú"]
+      "parafrase": "Na manhã seguinte, o servo do profeta acordou cedo e saiu. Para seu horror, viu cavalos e carros cercando a cidade por todos os lados. Ele correu de volta para Eliseu, tremendo de pavor, e exclamou: 'Ah, meu mestre! Estamos perdidos! Que faremos agora?'",
+      "referencias": [
+        "2 Reis 6:15",
+        "Salmos 53:5"
+      ],
+      "comentario": "Este é o momento de teste para a fé do jovem assistente de Eliseu. A visão da realidade militar (cavalos e carros, símbolos de poder militar na época) anula a confiança na palavra profética que ele havia ouvido. O pavor é visceral.",
+      "temas": [
+        "Teste de Fé",
+        "Aparência vs. Realidade Espiritual"
+      ],
+      "personagens": [
+        "Servo do Profeta",
+        "Eliseu"
+      ]
     },
     "6": {
-      "parafrase": "Então ele lhes escreveu uma segunda carta, dizendo: 'Se vocês são meus, e se vocês me obedecerão, então peguem as cabeças dos filhos de seu senhor e venham a mim em Jezreel amanhã a esta hora.' Ora, os filhos do rei, setenta homens, estavam com os grandes da cidade, que os criavam.",
-      "referencias": [],
-      "comentario": "Jeú, em sua crueldade, exige a execução dos setenta filhos de Acabe, pedindo suas cabeças como prova de lealdade. Isso é um ato de brutalidade e um cumprimento da profecia de juízo.",
-      "temas": ["crueldade", "execução", "prova de lealdade", "cumprimento da profecia"],
-      "personagens": ["Jeú", "Filhos de Acabe"]
+      "parafrase": "Eliseu, com a calma de quem vê além do véu da matéria, respondeu: 'Não tenha medo, meu rapaz. Aqueles que estão conosco são muito mais numerosos e poderosos do que esses que estão contra nós.'",
+      "referencias": [
+        "Isaías 41:10",
+        "Números 14:9"
+      ],
+      "comentario": "A resposta de Eliseu é um lembrete clássico da perspectiva divina. A 'multidão' real não é a visível pelos olhos físicos, mas sim o exército espiritual que acompanha o profeta. O contraste entre a visão humana e a visão divina é central aqui.",
+      "temas": [
+        "Consolo Divino",
+        "Exército Celestial"
+      ],
+      "personagens": [
+        "Eliseu"
+      ]
     },
     "7": {
-      "parafrase": "Quando a carta chegou a eles, eles pegaram os filhos do rei e os mataram, setenta homens. Puseram suas cabeças em cestos e as enviaram a Jeú em Jezreel.",
-      "referencias": [],
-      "comentario": "Os líderes de Samaria obedecem à ordem de Jeú, massacrando os filhos de Acabe. A brutalidade do ato é evidente, e as cabeças são enviadas como troféus.",
-      "temas": ["massacre", "brutalidade", "obediência", "troféus"],
-      "personagens": ["Chefes de Jezreel", "Anciãos", "Tutores de Acabe", "Filhos de Acabe", "Jeú"]
+      "parafrase": "Então, Eliseu orou fervorosamente ao Senhor, pedindo: 'Ó Deus, abra os olhos deste servo para que ele possa ver a verdade!'",
+      "referencias": [
+        "2 Crônicas 20:12",
+        "Salmos 119:18"
+      ],
+      "comentario": "A oração é a chave para a percepção espiritual. Eliseu pede a Deus que conceda ao seu servo a capacidade de ver a realidade da proteção divina, que está oculta da percepção natural.",
+      "temas": [
+        "Poder da Oração",
+        "Revelação Espiritual"
+      ],
+      "personagens": [
+        "Eliseu"
+      ]
     },
     "8": {
-      "parafrase": "Um mensageiro veio e contou a Jeú, dizendo: 'Eles trouxeram as cabeças dos filhos do rei.' Ele disse: 'Ponham-nas em duas pilhas à entrada do portão até a manhã.'",
-      "referencias": [],
-      "comentario": "Jeú ordena que as cabeças sejam exibidas publicamente, como um sinal de sua vitória e do juízo divino sobre a casa de Acabe.",
-      "temas": ["exibição pública", "vitória", "juízo"],
-      "personagens": ["Mensageiro", "Jeú"]
+      "parafrase": "E, no momento seguinte, o Senhor atendeu ao pedido, e os olhos do servo foram abertos. Ele olhou e viu: as colinas ao redor de Eliseu estavam repletas de cavalos e carros de fogo flamejantes, um exército de glória guardando-os!",
+      "referencias": [
+        "Hebreus 1:14",
+        "Apocalipse 19:11"
+      ],
+      "comentario": "A visão se materializa: um exército celestial, frequentemente simbolizado por fogo (pureza e poder divino), protegendo o profeta. Isso confirma que a batalha não era apenas entre Israel e a Síria, mas entre a fé e a incredulidade, defendida pelo poder de Deus.",
+      "temas": [
+        "Manifestação do Exército Celestial",
+        "Proteção Divina"
+      ],
+      "personagens": [
+        "Servo",
+        "Senhor"
+      ]
     },
     "9": {
-      "parafrase": "Na manhã seguinte, ele saiu, parou e disse a todo o povo: 'Vocês são inocentes. Eis que eu conspirei contra meu senhor e o matei. Mas quem matou todos estes?'",
-      "referencias": [],
-      "comentario": "Jeú, em sua astúcia, tenta se eximir da culpa pelo massacre, culpando os líderes de Samaria e o povo. Ele se apresenta como um instrumento de Deus, não como o autor da matança.",
-      "temas": ["astúcia", "eximição de culpa", "instrumento de Deus"],
-      "personagens": ["Jeú", "Povo de Israel"]
+      "parafrase": "Quando os sírios desceram para atacá-lo, Eliseu clamou ao Senhor novamente: 'Ó Deus, peço que cegue este povo!' Imediatamente, uma névoa de confusão desceu sobre os olhos dos inimigos, e eles ficaram completamente desorientados.",
+      "referencias": [
+        "Gênesis 19:11",
+        "Atos 9:8"
+      ],
+      "comentario": "Eliseu agora inverte a situação usando o poder divino para neutralizar a ameaça física. A cegueira aqui é mais uma confusão mental ou ofuscamento sensorial ('cegar' em hebraico pode significar cobrir os olhos ou causar vertigem), incapacitando-os de agir coerentemente.",
+      "temas": [
+        "Neutralização do Inimigo",
+        "Intervenção Direta de Deus"
+      ],
+      "personagens": [
+        "Eliseu",
+        "Sírios"
+      ]
     },
     "10": {
-      "parafrase": "'Saibam agora que nenhuma palavra do Senhor que ele falou a respeito da casa de Acabe cairá por terra, pois o Senhor fez o que falou por meio de seu servo Elias.'",
-      "referencias": ["1 Reis 21:21-22"],
-      "comentario": "Jeú reafirma que o massacre é o cumprimento da profecia de Deus contra a casa de Acabe, legitimando suas ações como um ato divino.",
-      "temas": ["cumprimento da profecia", "legitimação", "juízo divino"],
-      "personagens": ["Jeú", "Senhor", "Acabe", "Elias"]
+      "parafrase": "Então Eliseu lhes disse: 'Vocês não estão na estrada certa, nem estão na cidade correta. Sigam-me, e eu os levarei até o homem que vocês procuram!' E assim, ele os conduziu para Samaria, o coração do território de Israel.",
+      "referencias": [
+        "Jeremias 42:3",
+        "Mateus 2:8"
+      ],
+      "comentario": "Eliseu demonstra controle total da situação, não fugindo, mas guiando o inimigo para uma armadilha estratégica, orquestrada por Deus. É uma demonstração de maestria tática baseada na revelação.",
+      "temas": [
+        "Liderança Profética",
+        "Estratégia Divinamente Guiada"
+      ],
+      "personagens": [
+        "Eliseu",
+        "Sírios"
+      ]
     },
     "11": {
-      "parafrase": "Então Jeú matou todos os que restaram da casa de Acabe em Jezreel, e todos os seus grandes, seus amigos e seus sacerdotes, até que não deixou nenhum remanescente.",
-      "referencias": [],
-      "comentario": "Jeú completa o extermínio da casa de Acabe, eliminando todos os seus apoiadores e parentes, garantindo que não haja rivais ao trono.",
-      "temas": ["extermínio", "consolidação do poder"],
-      "personagens": ["Jeú", "Acabe"]
+      "parafrase": "Ao chegarem em Samaria, Eliseu pediu a Jorão: 'Abra os olhos, ó rei, e veja o que acontece agora.' Ao entrarem na cidade, o rei viu, com seus próprios olhos, o exército sírio que havia vindo capturar o profeta agora encurralado e indefeso diante dele.",
+      "referencias": [
+        "2 Reis 6:20",
+        "Salmos 106:27"
+      ],
+      "comentario": "O rei Jorão recebe a mesma bênção de visão que o servo recebeu. O contraste entre a visão anterior (medo) e a visão atual (plena certeza da vitória) é dramático. A confusão síria terminou no centro de comando de Israel.",
+      "temas": [
+        "Verdade Revelada ao Rei",
+        "Humilhação do Inimigo"
+      ],
+      "personagens": [
+        "Eliseu",
+        "Jorão (Rei de Israel)",
+        "Sírios"
+      ]
     },
     "12": {
-      "parafrase": "Então ele se levantou e partiu para Samaria. No caminho, na casa de tosquiadores de ovelhas,",
-      "referencias": [],
-      "comentario": "Jeú continua sua jornada para Samaria, a capital, para consolidar seu poder e eliminar a idolatria de Baal.",
-      "temas": ["jornada", "consolidação do poder"],
-      "personagens": ["Jeú"]
+      "parafrase": "O rei de Israel, ao ver a situação absurda, perguntou a Eliseu: 'Devo atacá-los? Devo golpeá-los e aniquilá-los completamente, agora que estão nas minhas mãos?'",
+      "referencias": [
+        "Deuteronômio 7:2",
+        "2 Samuel 24:14"
+      ],
+      "comentario": "Jorão mostra a mentalidade de retaliação imediata, seguindo o instinto de guerra. Ele busca a destruição total, em contraste com o que Eliseu provavelmente pretendia, que era uma lição de fé.",
+      "temas": [
+        "Vingança vs. Misericórdia",
+        "Instinto de Guerra"
+      ],
+      "personagens": [
+        "Jorão (Rei de Israel)",
+        "Eliseu"
+      ]
     },
     "13": {
-      "parafrase": "Jeú encontrou os irmãos de Acazias, rei de Judá, e perguntou: 'Quem são vocês?' Eles responderam: 'Somos irmãos de Acazias, e estamos descendo para saudar os filhos do rei e os filhos da rainha.'",
-      "referencias": ["2 Reis 8:29"],
-      "comentario": "Jeú encontra os parentes de Acazias, rei de Judá, que também eram da linhagem de Acabe. Eles estão indo para Jezreel, sem saber da matança que ocorreu.",
-      "temas": ["encontro", "ignorância", "linhagem real"],
-      "personagens": ["Jeú", "Irmãos de Acazias"]
+      "parafrase": "Mas Eliseu respondeu com sabedoria, dizendo: 'Não os mate! Geralmente, não matamos nossos próprios prisioneiros de guerra, e certamente não devemos fazer isso com um exército que Deus entregou em nossas mãos. Dê-lhes comida e bebida, e depois os liberte para voltarem ao seu senhor.'",
+      "referencias": [
+        "Provérbios 25:21",
+        "Romanos 12:20"
+      ],
+      "comentario": "Este é um ato de misericórdia estratégica. Eliseu instrui Jorão a tratar os inimigos com hospitalidade (pão e água), um ato que desarmaria a agressão síria e demonstraria a superioridade moral de Israel, ao invés de apenas a força militar. Isso reflete o princípio de amar os inimigos.",
+      "temas": [
+        "Misericórdia e Hospitalidade",
+        "Lição de Guerra Não Violenta"
+      ],
+      "personagens": [
+        "Eliseu"
+      ]
     },
     "14": {
-      "parafrase": "Ele disse: 'Prendam-nos vivos!' E eles os prenderam vivos e os mataram na cisterna de Bete-Equede, quarenta e dois homens. Ele não deixou nenhum deles.",
-      "referencias": [],
-      "comentario": "Jeú executa os parentes de Acazias, estendendo o juízo sobre a casa de Acabe aos seus aliados. A matança é brutal e completa.",
-      "temas": ["execução", "brutalidade", "juízo divino"],
-      "personagens": ["Jeú"]
+      "parafrase": "Assim, o rei preparou um grande banquete para eles. Depois que comeram e beberam fartamente, os sírios foram libertados e partiram, voltando para o seu próprio país. O terror sírio contra Israel cessou temporariamente.",
+      "referencias": [
+        "Provérbios 16:7",
+        "Gênesis 21:27"
+      ],
+      "comentario": "A libertação honrosa, após serem bem alimentados, cumpre a profecia de Eliseu e serve como um testemunho mais poderoso do que qualquer massacre. A paz temporária decorre diretamente da obediência ao plano de Eliseu.",
+      "temas": [
+        "Paz através da Generosidade",
+        "Restauração Temporária"
+      ],
+      "personagens": [
+        "Jorão (Rei de Israel)",
+        "Sírios"
+      ]
     },
     "15": {
-      "parafrase": "Quando ele partiu dali, encontrou Jonadabe, filho de Recabe, vindo ao seu encontro. Ele o saudou e lhe perguntou: 'Seu coração é reto para com o meu coração, como o meu é para com o seu?' Jonadabe respondeu: 'É.' Jeú disse: 'Se é, dê-me a sua mão.' E ele lhe deu a mão, e Jeú o fez subir em seu carro.",
-      "referencias": ["Jeremias 35:6-19"],
-      "comentario": "Jeú busca a aliança de Jonadabe, um homem conhecido por sua retidão e sua oposição à idolatria. A pergunta de Jeú é um teste de lealdade, e a resposta de Jonadabe e sua aceitação do convite de Jeú demonstram sua aprovação da missão de Jeú.",
-      "temas": ["aliança", "lealdade", "retidão", "aprovação"],
-      "personagens": ["Jeú", "Jonadabe"]
+      "parafrase": "Com isso, as tropas da Síria pararam de fazer incursões e de atacar as fronteiras de Israel durante um longo tempo, pois haviam aprendido uma lição que não esqueceriam tão cedo.",
+      "referencias": [
+        "2 Reis 5:15",
+        "Êxodo 14:30"
+      ],
+      "comentario": "O resultado imediato da intervenção divina, mediada pela misericórdia, foi a cessação da hostilidade. O medo do poder de Deus manifestado através de Eliseu foi mais eficaz do que mil batalhas perdidas.",
+      "temas": [
+        "Eficácia da Intervenção Divina",
+        "Consequências da Paz"
+      ],
+      "personagens": []
     },
     "16": {
-      "parafrase": "Ele disse: 'Venha comigo e veja o meu zelo pelo Senhor.' Assim, ele o levou em seu carro.",
-      "referencias": [],
-      "comentario": "Jeú convida Jonadabe a testemunhar seu zelo pelo Senhor, que se manifestará na destruição da adoração a Baal.",
-      "temas": ["zelo religioso", "testemunho"],
-      "personagens": ["Jeú", "Jonadabe"]
+      "parafrase": "Naquela época, porém, Ben-Hadade, o rei da Síria, estava planejando uma nova invasão e convocou seus principais generais para um conselho secreto de guerra.",
+      "referencias": [
+        "1 Reis 20:13",
+        "2 Reis 6:8"
+      ],
+      "comentario": "Apesar da trégua, a natureza agressiva do rei sírio permanece. Ele não aprendeu a lição de temor a Deus, mas sim a desconfiar das estratégias militares conhecidas, forçando-o a buscar um novo plano.",
+      "temas": [
+        "Planejamento de Guerra",
+        "Insistência na Agressão"
+      ],
+      "personagens": [
+        "Ben-Hadade"
+      ]
     },
     "17": {
-      "parafrase": "Quando ele chegou a Samaria, matou todos os que restaram de Acabe em Samaria, até que os destruiu, conforme a palavra do Senhor que ele falou a Elias.",
-      "referencias": ["1 Reis 21:21"],
-      "comentario": "Jeú completa o extermínio da casa de Acabe em Samaria, cumprindo a profecia de Elias. A matança é total, eliminando todos os remanescentes da linhagem de Acabe.",
-      "temas": ["extermínio", "cumprimento da profecia", "juízo divino"],
-      "personagens": ["Jeú", "Acabe", "Senhor", "Elias"]
+      "parafrase": "Ele disse aos seus comandantes: 'Preparem seus exércitos, pois vamos atacar Israel novamente. Quero que vocês montem uma emboscada na estrada que leva à cidade de Abel-Bete-Maaca.'",
+      "referencias": [
+        "2 Samuel 20:14",
+        "1 Reis 20:23"
+      ],
+      "comentario": "Ben-Hadade, ciente de que Eliseu sabia de seus movimentos anteriores, tenta mudar sua tática, indo para uma emboscada em um local menos óbvio, Abel-Bete-Maaca, uma cidade ao norte de Israel.",
+      "temas": [
+        "Mudança de Tática",
+        "Emboscada Secreta"
+      ],
+      "personagens": [
+        "Ben-Hadade"
+      ]
     },
     "18": {
-      "parafrase": "Jeú reuniu todo o povo e lhes disse: 'Acabe serviu a Baal um pouco; Jeú o servirá muito.'",
-      "referencias": [],
-      "comentario": "Jeú, em sua astúcia, engana os adoradores de Baal, fingindo ser um devoto ainda maior de Baal do que Acabe, para atraí-los para uma armadilha.",
-      "temas": ["engano", "astúcia", "armadilha"],
-      "personagens": ["Jeú", "Povo de Israel"]
+      "parafrase": "Mas, antes que o plano estivesse concluído, o profeta Eliseu enviou uma mensagem urgente ao rei Jorão, dizendo: 'Cuidado! Não vá para aquele lugar específico, pois os sírios armaram uma cilada mortal esperando por você na estrada para Abel-Bete-Maaca!'",
+      "referencias": [
+        "2 Reis 6:9",
+        "Jeremias 1:7"
+      ],
+      "comentario": "A onisciência profética se manifesta novamente. Eliseu intercepta a comunicação e a intenção secreta do inimigo, alertando o rei com precisão cirúrgica. A palavra de Deus é sempre mais rápida que a arma do homem.",
+      "temas": [
+        "Prevenção de Perigo",
+        "Conhecimento Oculto"
+      ],
+      "personagens": [
+        "Eliseu",
+        "Jorão (Rei de Israel)",
+        "Sírios"
+      ]
     },
     "19": {
-      "parafrase": "'Agora, pois, chamem-me todos os profetas de Baal, todos os seus servos e todos os seus sacerdotes. Que ninguém falte, pois tenho um grande sacrifício a fazer a Baal. Quem faltar não viverá.' Mas Jeú fez isso com astúcia, para que pudesse destruir os adoradores de Baal.",
-      "referencias": [],
-      "comentario": "Jeú convoca todos os adoradores de Baal para um grande sacrifício, com a intenção de exterminá-los. Ele usa a religião como um pretexto para sua purga, demonstrando sua astúcia e sua determinação em erradicar a idolatria.",
-      "temas": ["engano religioso", "purga", "idolatria", "astúcia"],
-      "personagens": ["Jeú", "Profetas de Baal", "Servos de Baal", "Sacerdotes de Baal"]
+      "parafrase": "O rei de Israel, já familiarizado com os avisos milagrosos de Eliseu, obedeceu imediatamente e desviou suas tropas para outro caminho, evitando completamente a armadilha preparada.",
+      "referencias": [
+        "1 Reis 22:15",
+        "Salmos 119:97"
+      ],
+      "comentario": "Jorão agora confia plenamente em Eliseu. A experiência anterior (versículos 1-15) transformou seu ceticismo inicial em obediência preventiva. A fidelidade de Deus se torna uma rotina protetora para o reino.",
+      "temas": [
+        "Obediência ao Profeta",
+        "Fidelidade Protetora"
+      ],
+      "personagens": [
+        "Jorão (Rei de Israel)",
+        "Eliseu"
+      ]
     },
     "20": {
-      "parafrase": "E Jeú disse: 'Santifiquem uma assembleia solene para Baal.' E eles a proclamaram.",
-      "referencias": [],
-      "comentario": "Jeú, em seu engano, convoca uma assembleia solene para Baal, dando a impressão de que ele é um verdadeiro adorador.",
-      "temas": ["engano religioso", "assembleia solene"],
-      "personagens": ["Jeú"]
+      "parafrase": "Vendo que sua emboscada havia falhado novamente, Ben-Hadade ficou furioso e ordenou a seus homens que se retirassem para a Síria, mas ele ficou perplexo com a forma como o rei de Israel parecia sempre saber cada movimento seu.",
+      "referencias": [
+        "2 Reis 6:11",
+        "Jó 5:12"
+      ],
+      "comentario": "O rei sírio percebe que há algo sobrenatural guiando seu inimigo. Ele reconhece a frustração de ter seus segredos expostos, questionando a inteligência ou a sorte do adversário.",
+      "temas": [
+        "Frustração do Inimigo",
+        "Reconhecimento do Poder Maior"
+      ],
+      "personagens": [
+        "Ben-Hadade"
+      ]
     },
     "21": {
-      "parafrase": "Jeú enviou mensageiros por todo o Israel, e todos os adoradores de Baal vieram. Não sobrou um só homem que não viesse. Eles entraram na casa de Baal, e a casa de Baal estava cheia de ponta a ponta.",
-      "referencias": [],
-      "comentario": "Todos os adoradores de Baal se reúnem na casa de Baal, caindo na armadilha de Jeú. A casa cheia demonstra a extensão da idolatria em Israel.",
-      "temas": ["armadilha", "idolatria", "extensão do pecado"],
-      "personagens": ["Jeú", "Adoradores de Baal"]
+      "parafrase": "Em seu conselho de guerra, Ben-Hadade perguntou aos seus oficiais: 'Quais de vocês estão secretamente conspirando comigo, mas revelando meus planos a Jorão?'",
+      "referencias": [
+        "Gênesis 42:23",
+        "Salmos 41:9"
+      ],
+      "comentario": "A reação natural de um líder humano diante da derrota inexplicável é a suspeita de traição interna. Ben-Hadade assume que a informação vazou por meio de um de seus próprios oficiais, não compreendendo a fonte divina.",
+      "temas": [
+        "Desconfiança Interna",
+        "Busca por Traidores"
+      ],
+      "personagens": [
+        "Ben-Hadade"
+      ]
     },
     "22": {
-      "parafrase": "Ele disse ao que estava encarregado das vestes: 'Traga vestes para todos os adoradores de Baal.' E ele lhes trouxe as vestes.",
-      "referencias": [],
-      "comentario": "Jeú garante que todos os adoradores de Baal estejam identificados, para que nenhum escape da purga.",
-      "temas": ["identificação", "purga"],
-      "personagens": ["Jeú"]
+      "parafrase": "Um dos oficiais respondeu, com grande temor: 'Ninguém, meu senhor e rei! O próprio Eliseu, o profeta que vive em Israel, é quem tem o dom de conhecer e revelar até mesmo as palavras mais secretas que você cochicha no seu quarto mais reservado.'",
+      "referencias": [
+        "Daniel 2:11",
+        "Salmos 139:2"
+      ],
+      "comentario": "O oficial, ao invés de incriminar um colega, revela a verdadeira fonte do poder de Israel: o profeta Eliseu e sua capacidade de ouvir os 'pensamentos sussurrados' (revelação dos segredos mais íntimos). Isso eleva Eliseu a um nível quase onisciente aos olhos do inimigo.",
+      "temas": [
+        "A Força de Eliseu",
+        "Onisciência Profética"
+      ],
+      "personagens": [
+        "Oficial Sírio",
+        "Eliseu"
+      ]
     },
     "23": {
-      "parafrase": "Então Jeú entrou com Jonadabe, filho de Recabe, na casa de Baal. E ele disse aos adoradores de Baal: 'Procurem e vejam se não há aqui nenhum servo do Senhor entre vocês, mas apenas adoradores de Baal.'",
-      "referencias": [],
-      "comentario": "Jeú, em sua astúcia, garante que apenas os adoradores de Baal estejam presentes, para que a purga seja completa e sem vítimas inocentes.",
-      "temas": ["astúcia", "purga", "idolatria"],
-      "personagens": ["Jeú", "Jonadabe", "Adoradores de Baal"]
+      "parafrase": "O rei Ben-Hadade ordenou imediatamente: 'Vão e o localizem! Quero saber exatamente onde ele está, para que possamos enviar todo o nosso exército e capturá-lo de uma vez por todas, destruindo esta ameaça profética!'",
+      "referencias": [
+        "2 Reis 6:14",
+        "1 Reis 22:30"
+      ],
+      "comentario": "A reação de Ben-Hadade é de vingança e eliminação da fonte do problema. Ele reconhece que o profeta é o verdadeiro inimigo estratégico, e não o exército de Jorão. A ordem é capturar Eliseu em sua residência, em Dothan.",
+      "temas": [
+        "Ataque ao Profeta",
+        "Eliminação da Fonte de Sabedoria"
+      ],
+      "personagens": [
+        "Ben-Hadade",
+        "Eliseu"
+      ]
     },
     "24": {
-      "parafrase": "Então eles entraram para oferecer sacrifícios e holocaustos. E Jeú havia posto oitenta homens do lado de fora, dizendo: 'Se algum dos homens que eu lhes entregar escapar, sua vida será pela vida dele.'",
-      "referencias": [],
-      "comentario": "Jeú garante que nenhum adorador de Baal escape, impondo uma pena de morte para aqueles que permitirem a fuga. Ele está determinado a erradicar completamente a adoração a Baal.",
-      "temas": ["determinação", "erradicação da idolatria", "pena de morte"],
-      "personagens": ["Jeú"]
+      "parafrase": "Os sírios marcharam em grande número e cercaram a cidade de Dotã, montando acampamento e preparando-se para um ataque coordenado ao amanhecer.",
+      "referencias": [
+        "2 Reis 6:14",
+        "Jeremias 32:6"
+      ],
+      "comentario": "A história se repete (circularidade narrativa), mas agora com a motivação síria mais clara: destruir o vidente. A descrição do cerco focado na cidade reforça a tensão e o isolamento de Eliseu.",
+      "temas": [
+        "Cerco Repetido",
+        "Pressão Militar"
+      ],
+      "personagens": [
+        "Sírios"
+      ]
     },
     "25": {
-      "parafrase": "Quando ele terminou de oferecer o holocausto, Jeú disse aos guardas e aos capitães: 'Entrem e matem-nos! Que ninguém saia!' E eles os mataram ao fio da espada. Os guardas e os capitães os jogaram fora, e foram para a cidade da casa de Baal.",
-      "referencias": [],
-      "comentario": "Jeú executa a purga, massacrando todos os adoradores de Baal. A matança é completa e sem misericórdia, um juízo divino sobre a idolatria.",
-      "temas": ["massacre", "juízo divino", "erradicação da idolatria"],
-      "personagens": ["Jeú", "Guardas", "Capitães"]
+      "parafrase": "Ao amanhecer, o exército de Israel, sob o comando de Jorão, saiu da cidade para enfrentar os sírios. Quando os israelitas viram o imenso acampamento inimigo, ficaram apavorados e perguntaram a Eliseu: 'Será que devemos combatê-los? Eles são muito mais numerosos do que nós!'",
+      "referencias": [
+        "2 Reis 6:15",
+        "2 Crônicas 13:12"
+      ],
+      "comentario": "O ciclo se fecha com a dúvida israelita mais uma vez despertada pela força visível do inimigo, espelhando o pavor inicial do servo (v. 5). A fé precisa ser restaurada diariamente. A comparação numérica é explícita: 'muito mais numerosos'.",
+      "temas": [
+        "Dúvida Diante do Inimigo",
+        "Confronto de Forças"
+      ],
+      "personagens": [
+        "Jorão (Rei de Israel)",
+        "Eliseu",
+        "Sírios"
+      ]
     },
     "26": {
-      "parafrase": "Eles tiraram as colunas sagradas da casa de Baal e as queimaram.",
-      "referencias": [],
-      "comentario": "Os símbolos da adoração a Baal são destruídos, purificando o local da idolatria.",
-      "temas": ["destruição de ídolos", "purificação"],
-      "personagens": ["Jeú"]
+      "parafrase": "Os exércitos de Israel, sob o comando de Jeú, estavam prontos para a batalha, mas não se moveram. O comandante, percebendo que a palavra do profeta Jeú, ungido por Eliseu, havia se cumprido, hesitou em atacar a cidade de Ramote-Gileade, pois o rei Jorão estava em seu próprio território defendendo-a. Havia ali um silêncio tenso, uma parada estratégica ditada pelo receio de desafiar a ordem divina dada através de seu mensageiro ungido.",
+      "referencias": [
+        "1 Reis 19:16",
+        "2 Reis 9:1"
+      ],
+      "comentario": "O versículo 26 estabelece o impasse militar. Jeú e seu exército, embora estivessem no campo de batalha em Ramote-Gileade, param a ação. O motivo não é medo do inimigo, mas sim o cumprimento da ordem profética que Jeú havia recebido anteriormente (2 Reis 9:1-3): ir a Ramote-Gileade e destruir a casa de Acabe. A inação aqui sinaliza a submissão ao plano de Deus, mesmo que isso parecesse estrategicamente lento ou arriscado no contexto militar imediato.",
+      "temas": [
+        "Obediência Profética",
+        "Hesitação Tática",
+        "O Cumprimento do Julgamento"
+      ],
+      "personagens": [
+        "Jeú",
+        "Exército de Israel"
+      ]
     },
     "27": {
-      "parafrase": "Eles derrubaram a coluna de Baal, e derrubaram a casa de Baal, e a transformaram em latrinas até o dia de hoje.",
-      "referencias": [],
-      "comentario": "A casa de Baal é completamente destruída e profanada, tornando-se um lugar de desprezo e humilhação para a adoração pagã.",
-      "temas": ["profanação", "destruição", "humilhação"],
-      "personagens": ["Jeú"]
+      "parafrase": "Contudo, o rei Jorão de Israel decidiu que não poderia mais se esconder em Ramote-Gileade. Ele ordenou que seu carro de guerra fosse preparado, e voltou para Jezreel para tratar de seus ferimentos graves, onde havia sido atingido por flechas. Era um recuo tático, misturado talvez com uma necessidade urgente de recuperação, mas que o afastava da linha de frente diretamente para o palco onde Jeú executaria o julgamento final.",
+      "referencias": [
+        "2 Reis 8:29",
+        "2 Reis 9:14-16"
+      ],
+      "comentario": "Jorão se retira para Jezreel. Este movimento é crucial, pois o alvo do julgamento (Jorão, filho de Acabe e Jezabel) está se movendo para fora da zona de conflito imediato e para o local onde sua família reside, facilitando a execução completa do plano divino de extermínio da casa de Acabe. A menção dos ferimentos ressalta a vulnerabilidade de Jorão.",
+      "temas": [
+        "Retirada do Ímpio",
+        "Julgamento Iminente",
+        "Vulnerabilidade Real"
+      ],
+      "personagens": [
+        "Jorão"
+      ]
     },
     "28": {
-      "parafrase": "Assim, Jeú exterminou Baal de Israel.",
-      "referencias": [],
-      "comentario": "Jeú cumpre sua missão de erradicar a adoração a Baal de Israel, um ato de grande importância religiosa.",
-      "temas": ["erradicação da idolatria", "purificação religiosa"],
-      "personagens": ["Jeú"]
+      "parafrase": "E Jeú, vendo a retirada de Jorão, percebeu que a oportunidade dada por Deus havia chegado, pois o rei havia deixado Ramote-Gileade. Jeú, então, não hesitou mais; ele e seus homens montaram rapidamente em seus carros e partiram em perseguição ao rei, alcançando-o na vinha que pertencia a Nabote, um incidente que seria lembrado como o catalisador final da vingança divina.",
+      "referencias": [
+        "1 Reis 21:1-24",
+        "2 Reis 9:21-25"
+      ],
+      "comentario": "Este é o momento da ação. Jeú reconhece o sinal: a ausência de Jorão em Ramote-Gileade, confirmando que Deus havia preparado o palco. A perseguição começa imediatamente, visando o ponto exato onde a iniquidade de Acabe e Jezabel (a usurpação da vinha de Nabote) havia sido consumada. A vingança divina opera através do instrumento escolhido, ligando a punição ao crime original.",
+      "temas": [
+        "Oportunidade Divina",
+        "Perseguição",
+        "Vingança Pela Injustiça"
+      ],
+      "personagens": [
+        "Jeú",
+        "Jorão"
+      ]
     },
     "29": {
-      "parafrase": "No entanto, Jeú não se desviou dos pecados de Jeroboão, filho de Nebate, que fez Israel pecar, a saber, os bezerros de ouro que estavam em Betel e em Dã.",
-      "referencias": ["1 Reis 12:28-33"],
-      "comentario": "Apesar de seu zelo contra Baal, Jeú não remove a idolatria dos bezerros de ouro de Jeroboão, que era o pecado fundamental do Reino do Norte. Sua obediência é parcial, e ele não se desvia completamente do mal.",
-      "temas": ["obediência parcial", "idolatria persistente", "falha"],
-      "personagens": ["Jeú", "Jeroboão"]
+      "parafrase": "Naquele dia, o rei Jeú, filho de Josafá e neto de Acabe (embora o texto se refira a Jeú, o perseguidor, o contexto imediato é sobre Jorão) havia sido ferido, mas o rei Jorão de Israel, que estava se recuperando, foi encontrado por Jeú.",
+      "referencias": [
+        "2 Reis 8:25",
+        "2 Reis 9:22"
+      ],
+      "comentario": "Este versículo é um resumo conciso do encontro iminente. O texto aqui enfatiza que Jorão estava especificamente em Jezreel, o centro de seu poder familiar e o local onde a linhagem de Acabe seria encerrada. A frase é breve, construída para conduzir ao diálogo fatídico.",
+      "temas": [
+        "Encontro Fatal",
+        "Consequências do Pecado",
+        "Jezreel"
+      ],
+      "personagens": [
+        "Jorão",
+        "Jeú"
+      ]
     },
     "30": {
-      "parafrase": "O Senhor disse a Jeú: 'Porque você agiu bem em fazer o que é reto aos meus olhos, e fez à casa de Acabe tudo o que estava em meu coração, seus filhos até a quarta geração se sentarão no trono de Israel.'",
-      "referencias": [],
-      "comentario": "Deus recompensa Jeú por sua obediência em executar o juízo sobre a casa de Acabe, prometendo uma dinastia de quatro gerações. Isso demonstra a fidelidade de Deus em recompensar a obediência, mesmo que parcial.",
-      "temas": ["recompensa divina", "obediência", "dinastia"],
-      "personagens": ["Senhor", "Jeú", "Acabe"]
+      "parafrase": "Quando Jeú chegou a Jezreel, a rainha mãe, Jezabel, que era a personificação da impiedade, olhou pela janela do palácio. Ela viu Jeú se aproximando e percebeu a seriedade e a intenção assassina que emanavam dele, e se adornou com joias e coroou a cabeça, preparando-se para enfrentar a morte com a arrogância de uma rainha.",
+      "referencias": [
+        "2 Reis 9:30-37",
+        "Apocalipse 2:23"
+      ],
+      "comentario": "Jezabel, mesmo diante da morte certa, tenta exercer sua autoridade e poderio através da aparência ('pintou os olhos com pó de antimônio' ou maquiagem pesada). Este ato de maquilhagem é um desafio final, um último esforço para parecer régia e imponente, um contraste gritante com a podridão espiritual que ela representava. Ela reconhece Jeú, que fora ungido para destruir sua casa.",
+      "temas": [
+        "Arrogância Final",
+        "Aparência vs. Realidade",
+        "Desafio ao Julgamento"
+      ],
+      "personagens": [
+        "Jezabel",
+        "Jeú"
+      ]
     },
     "31": {
-      "parafrase": "Mas Jeú não teve o cuidado de andar na lei do Senhor, o Deus de Israel, de todo o seu coração. Ele não se desviou dos pecados de Jeroboão, que fez Israel pecar.",
-      "referencias": [],
-      "comentario": "Apesar da recompensa, Jeú é criticado por sua falta de dedicação total a Deus e por sua persistência na idolatria de Jeroboão. Sua obediência é motivada por interesse próprio, não por um coração íntegro.",
-      "temas": ["obediência parcial", "coração dividido", "idolatria"],
-      "personagens": ["Jeú", "Senhor", "Deus", "Jeroboão"]
+      "parafrase": "Jeú entrou pelo portão, e Jezabel proferiu seu desafio: 'Tudo bem para Zimri, que assassinou seu senhor, ser rei!'. Ela estava tentando deslegitimar a posição de Jeú, lembrando-o do destino de outro usurpador que havia sido ungido por um profeta (o caso de Zimri, que reinou apenas sete dias).",
+      "referencias": [
+        "1 Reis 16:9-20",
+        "2 Reis 9:31"
+      ],
+      "comentario": "A referência a Zimri é um golpe retórico de Jezabel. Zimri também havia sido ungido por um profeta (Baása) para matar Nadabe, mas acabou sendo queimado em seu próprio palácio. Jezabel tenta implicar que Jeú, como usurpador ungido, terá o mesmo destino efêmero de Zimri. É um ataque à legitimidade da unção divina de Jeú.",
+      "temas": [
+        "Desafio à Autoridade",
+        "Lembrança de Usurpações Anteriores",
+        "Ironia Histórica"
+      ],
+      "personagens": [
+        "Jezabel",
+        "Zimri",
+        "Jeú"
+      ]
     },
     "32": {
-      "parafrase": "Naqueles dias, o Senhor começou a cortar partes de Israel. Hazael os feriu em todas as fronteiras de Israel:",
-      "referencias": [],
-      "comentario": "Apesar da purga de Baal, a desobediência contínua de Israel leva a um novo juízo divino: a perda de território para Hazael, rei da Síria, que havia sido ungido por Elias para afligir Israel.",
-      "temas": ["juízo divino", "perda de território", "desobediência"],
-      "personagens": ["Senhor", "Israel", "Hazael"]
+      "parafrase": "Jeú respondeu com uma calma terrível, sem sequer olhar para cima, e gritou para os eunucos que estavam perto dela: 'Quem está do meu lado? Joguem-na lá de cima!'. A pergunta não era retórica; era um comando para que os servos da rainha se voltassem contra sua mestra.",
+      "referencias": [
+        "2 Reis 9:32-33"
+      ],
+      "comentario": "A resposta de Jeú é direta e focada unicamente na execução. Ele ignora o desafio verbal de Jezabel, um sinal de que ela não tinha mais poder sobre ele. O comando para jogá-la da janela era um ato de despojamento total de seu status real e uma execução pública e humilhante, uma forma de julgamento semelhante àquela descrita em Deuteronômio para blasfêmia.",
+      "temas": [
+        "Execução Sem Negociação",
+        "Queda da Realeza",
+        "Lealdade Dividida"
+      ],
+      "personagens": [
+        "Jeú",
+        "Jezabel",
+        "Eunucos"
+      ]
     },
     "33": {
-      "parafrase": "desde o Jordão para o leste, toda a terra de Gileade, os gaditas, os rubenitas e os manassitas, desde Aroer, que está junto ao ribeiro de Arnom, até Gileade e Basã.",
-      "referencias": [],
-      "comentario": "A extensão da perda territorial é detalhada, mostrando que Hazael conquistou as terras a leste do Jordão, que pertenciam às tribos de Gade, Rúben e Manassés.",
-      "temas": ["perda territorial", "conquista"],
-      "personagens": ["Hazael"]
+      "parafrase": "Os eunucos, ao ouvirem a ordem de Jeú, olharam para ela e a empurraram para fora da janela. O corpo de Jezabel caiu sobre o muro do pátio, atingindo exatamente o lugar onde, anos antes, ela havia derramado o sangue do inocente Nabote.",
+      "referencias": [
+        "1 Reis 21:23",
+        "Salmos 79:2-3"
+      ],
+      "comentario": "Este é o ápice do cumprimento profético e da justiça poética. O ponto exato da queda (o muro/canteiro) ecoa o lugar da conspiração contra Nabote. Deus garantiu que o castigo caísse no mesmo local do pecado. O sangue de Jezabel escorreu onde o sangue do justo havia sido derramado.",
+      "temas": [
+        "Justiça Poética (Lex Talionis)",
+        "Consequências Visíveis",
+        "Execução Pública"
+      ],
+      "personagens": [
+        "Jezabel"
+      ]
     },
     "34": {
-      "parafrase": "Os demais atos de Jeú, e tudo o que ele fez, e todo o seu poder, não estão escritos no livro das Crônicas dos Reis de Israel?",
-      "referencias": [],
-      "comentario": "O narrador faz referência a outras fontes para mais informações sobre o reinado de Jeú.",
-      "temas": ["registro histórico", "referência"],
-      "personagens": ["Jeú"]
+      "parafrase": "Quando Jeú entrou no palácio para comer e beber, ele mandou que as pessoas fossem ver aquela mulher que se dizia rainha e a enterrassem, pois, afinal, ela era filha de um rei. No entanto, ao investigarem, encontraram apenas os restos mortais: o crânio, os pés e as mãos, pois os cachorros famintos haviam devorado todo o resto do corpo.",
+      "referencias": [
+        "Gênesis 50:26",
+        "2 Reis 9:35-37"
+      ],
+      "comentario": "A ordem de enterrá-la é um ato irônico de respeito residual à sua origem real (filha de Etbaal, rei de Tiro), mas o estado de seu corpo é a máxima humilhação. Os cachorros (frequentemente associados à impureza e julgamento em Israel) devoram Jezabel, cumprindo a profecia específica contra ela (1 Reis 21:23). Sua morte é completa e ignóbil, um símbolo do fim de sua influência maligna.",
+      "temas": [
+        "Humilhação Final",
+        "Profecia Cumprida",
+        "Impureza e Julgamento"
+      ],
+      "personagens": [
+        "Jeú",
+        "Jezabel"
+      ]
     },
     "35": {
-      "parafrase": "Jeú dormiu com seus pais e foi sepultado em Samaria. Joacaz, seu filho, reinou em seu lugar.",
-      "referencias": [],
-      "comentario": "A morte de Jeú e a ascensão de seu filho Joacaz marcam a sucessão no trono de Israel, continuando a dinastia prometida.",
-      "temas": ["morte", "sepultamento", "sucessão"],
-      "personagens": ["Jeú", "Joacaz"]
+      "parafrase": "Voltando então para contar a Jeú o que haviam encontrado, os servos relataram: 'É o crânio, os pés e as mãos!'. A confirmação da destruição total do corpo serviu para selar o fim da casa de Acabe e sua influência nefasta sobre Israel.",
+      "referencias": [
+        "2 Reis 9:34"
+      ],
+      "comentario": "Este versículo serve como um relatório conclusivo do assassinato. A menção específica das partes restantes (crânio, pés e mãos) não é acidental; ela enfatiza que a maior parte da carne foi consumida, cumprindo a profecia. O horror da cena solidifica a seriedade do juízo de Deus contra a idolatria e a tirania.",
+      "temas": [
+        "Confirmação do Julgamento",
+        "Restos da Maldade",
+        "Fim de uma Linhagem"
+      ],
+      "personagens": [
+        "Servos de Jeú",
+        "Jeú"
+      ]
     },
     "36": {
-      "parafrase": "O tempo que Jeú reinou sobre Israel em Samaria foi de vinte e oito anos.",
-      "referencias": [],
-      "comentario": "A duração do reinado de Jeú é resumida.",
-      "temas": ["reinado", "duração"],
-      "personagens": ["Jeú"]
+      "parafrase": "Jeú, então, retornou ao palácio e comeu e bebeu, encerrando o ritual de vingança. Assim, a memória da terrível rainha Jezabel foi completamente apagada da terra de Israel, como um conto sombrio de advertência sobre o preço da rebelião contra o Senhor.",
+      "referencias": [
+        "Provérbios 10:7",
+        "1 Reis 21:29"
+      ],
+      "comentario": "O ato de comer e beber de Jeú após a execução indica a conclusão de sua missão. A frase final 'a memória... foi apagada' (ou 'desapareceu como esterco sobre o chão') demonstra que o juízo foi total e finalizado no plano de Deus. A casa de Acabe, responsável por introduzir o culto a Baal em Israel, é finalmente erradicada.",
+      "temas": [
+        "Conclusão do Julgamento",
+        "Apagamento da Memória Ímpia",
+        "Purificação de Israel"
+      ],
+      "personagens": [
+        "Jeú",
+        "Jezabel"
+      ]
     }
   }
 }

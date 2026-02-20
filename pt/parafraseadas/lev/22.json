@@ -1,239 +1,518 @@
 {
   "livro": "Levítico",
   "capitulo": 22,
-  "contexto_historico": "Ver contexto anterior em Levítico 21. Este capítulo continua as leis de santidade para os sacerdotes e as ofertas sagradas. Ele detalha as condições sob as quais os sacerdotes podem comer das ofertas santas, as proibições para o consumo de ofertas profanadas e os requisitos para a apresentação de animais para sacrifício. A ênfase é na pureza e na perfeição exigidas para se aproximar de Deus e para o serviço no Tabernáculo.",
-  "bloco_tematico": "Leis sobre a Santidade das Ofertas e dos Sacerdotes",
+  "contexto_historico": "O livro de Levítico, situado no coração do Pentateuco, serve como o manual de santidade para a nação de Israel recém-saída do Egito e estabelecida no Sinai. Após as leis sobre sacrifícios (Levítico 1-7), ordenações sacerdotais (Levítico 8-10) e leis de pureza (Levítico 11-16), Levítico 17-27 foca em como viver uma vida santa no dia a dia, em comunidade, abordando temas de pureza ritual, ética social, celebrações e o ano sabático/jubileu. O capítulo 22 é uma extensão das leis sacerdotais e de pureza, focando especificamente na santidade que os sacerdotes (e, por extensão, o povo) devem manter ao lidar com ofertas sagradas (terumah) e alimentos proibidos.",
+  "bloco_tematico": "Santidade Preservada: Pureza e Consagração das Ofertas Sagradas 🧑‍⚖️🍖🚫",
   "versiculos": {
     "1": {
-      "parafrase": "Então o Senhor disse a Moisés:",
-      "referencias": [],
-      "comentario": "Deus dá instruções sobre a santidade das ofertas e dos sacerdotes.",
-      "temas": ["instrução divina", "santidade das ofertas", "santidade sacerdotal"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "Então o Senhor chamou Moisés e, falando diretamente do Tabernáculo, deu-lhe instruções precisas para transmitir aos sacerdotes, os filhos de Arão, sobre as ofertas sagradas que lhes eram dedicadas.",
+      "referencias": [
+        "Êxodo 28:1",
+        "Levítico 6:16"
+      ],
+      "comentario": "O Senhor inicia uma nova série de instruções, focando agora na santidade das porções dos sacrifícios que pertenciam aos sacerdotes (a linhagem de Arão). A menção de que Deus falou 'do Tabernáculo' (Ohel Mo'ed - Tenda da Revelação) enfatiza que essas regras são uma comunicação direta e autoritária vinda do Lugar Santíssimo.",
+      "temas": [
+        "Santidade das Ofertas",
+        "Instruções Sacerdotais",
+        "Comunicação Divina"
+      ],
+      "personagens": [
+        "Deus",
+        "Moisés",
+        "Arão"
+      ]
     },
     "2": {
-      "parafrase": "'Diga a Arão e a seus filhos que se abstenham das coisas santas dos israelitas, que eles me consagram, para que não profanem o meu santo nome. Eu sou o Senhor'.",
-      "referencias": [],
-      "comentario": "Os sacerdotes devem ser cuidadosos ao lidar com as ofertas sagradas, pois a profanação delas profana o nome de Deus. A santidade é crucial.",
-      "temas": ["profanação", "santidade", "nome de Deus"],
-      "personagens": ["Deus", "Arão", "filhos de Arão"]
+      "parafrase": "Você deve dizer a eles, os sacerdotes, que tenham o máximo cuidado com as coisas santificadas que o povo lhes oferece. Se eles não as tratarem com a reverência devida, trarão julgamento sobre si mesmos, pois estarão profanando o que é santo, separado para Deus.",
+      "referencias": [
+        "Levítico 19:8",
+        "Números 18:32"
+      ],
+      "comentario": "Aqui reside o princípio da santidade ministerial: o sacerdote não é dono da porção sacrificial, mas um administrador fiel. A punição é pessoal ('pecarão contra elas'), indicando que a falha na observância destas regras não é apenas um erro cerimonial, mas uma ofensa moral contra o próprio Deus.",
+      "temas": [
+        "Responsabilidade Sacerdotal",
+        "Profanação",
+        "Reverência"
+      ],
+      "personagens": [
+        "Moisés",
+        "Sacerdotes"
+      ]
     },
     "3": {
-      "parafrase": "'Diga-lhes: ‘Qualquer homem de sua descendência, por todas as suas gerações, que se aproximar das coisas santas que os israelitas consagram ao Senhor, estando impuro, essa pessoa será eliminada de minha presença. Eu sou o Senhor'.",
-      "referencias": [],
-      "comentario": "A lei proíbe o sacerdote impuro de comer das ofertas sagradas. A profanação resulta em eliminação da presença de Deus, enfatizando a seriedade da pureza.",
-      "temas": ["impureza sacerdotal", "profanação", "exclusão", "santidade"],
-      "personagens": ["Deus"]
+      "parafrase": "Diga-lhes também: 'Se alguém de sua descendência, de geração em geração, tiver alguma condição física que o torne impuro para se aproximar, que não se atreva a comer das porções sagradas que lhes cabem, dadas por mim. Ele comerá apenas o pão consagrado, mas não as ofertas do Senhor.'",
+      "referencias": [
+        "Levítico 21:17-23",
+        "Ezequiel 44:19"
+      ],
+      "comentario": "A pureza ritual é fundamental para o acesso ao 'sagrado'. O texto estende a proibição aos descendentes ('de geração em geração') que portarem alguma 'imperfeição' física (em hebraico, 'mum' – um defeito ou marca). Isso contrasta o alimento comum com o alimento sagrado (ofertas).",
+      "temas": [
+        "Pureza Ritual",
+        "Impedimentos Sacerdotais",
+        "Hereditariedade"
+      ],
+      "personagens": [
+        "Descendentes Sacerdotais"
+      ]
     },
     "4": {
-      "parafrase": "'Nenhum homem da descendência de Arão que for leproso ou tiver um fluxo poderá comer das coisas santas até que esteja puro. Quem tocar em algo impuro por um morto, ou quem tiver uma emissão seminal,",
-      "referencias": [],
-      "comentario": "As condições que tornam um sacerdote impuro são listadas: lepra, fluxo, contato com mortos e emissão seminal. A impureza impede o consumo das ofertas sagradas.",
-      "temas": ["impureza sacerdotal", "proibição"],
-      "personagens": []
+      "parafrase": "Se qualquer sacerdote tiver uma marca que o impeça, seja por ter uma inflamação na pele, ou por alguma descarga corporal anormal, que ele não se aproxime das coisas santas até que sua impureza tenha cessado, mesmo que seja o pão que lhes pertence, dedicado a Deus.",
+      "referencias": [
+        "Levítico 15:2",
+        "Levítico 21:20"
+      ],
+      "comentario": "O versículo especifica dois tipos de impureza física: 'tzara'at' (muitas vezes traduzido como lepra, mas referindo-se a diversas doenças de pele) e 'zav' (fluxo ou descarga anormal). A regra é clara: a impureza anula o privilégio de acesso ao que é mais sagrado.",
+      "temas": [
+        "Impureza Física",
+        "Restrições de Acesso",
+        "Cura e Restauração"
+      ],
+      "personagens": [
+        "Sacerdote com Impedimento"
+      ]
     },
     "5": {
-      "parafrase": "'ou quem tocar em qualquer criatura que rasteja e o tornar impuro, ou em um homem que o tornar impuro, qualquer que seja a sua impureza,",
-      "referencias": [],
-      "comentario": "A lista de fontes de impureza continua, incluindo contato com criaturas rastejantes impuras e com pessoas impuras.",
-      "temas": ["impureza sacerdotal", "contato com impuros"],
+      "parafrase": "Aquele que tocar em qualquer coisa que se torne impura por causa de um animal morto, ou se tornar impuro por contato com um inseto que rasteja, ou por qualquer outra causa de impureza, não comerá das porções santas até que o pôr do sol o purifique, e ele tenha lavado seu corpo.",
+      "referencias": [
+        "Levítico 11:24-40",
+        "Levítico 17:15"
+      ],
+      "comentario": "Introduz impurezas adquiridas pelo contato com coisas impuras (carniça, insetos, etc.). O tempo de purificação é fixado: a noite (pôr do sol). Isso era um ritual comum de purificação que exigia um período de separação seguido de imersão em água.",
+      "temas": [
+        "Impureza por Contato",
+        "Tempo de Espera",
+        "Purificação Noturna"
+      ],
       "personagens": []
     },
     "6": {
-      "parafrase": "'a pessoa que tocar em qualquer uma dessas coisas será impura até a tarde e não comerá das coisas santas, a menos que lave seu corpo com água'.",
-      "referencias": [],
-      "comentario": "A purificação através da lavagem é necessária para remover a impureza e permitir o consumo das ofertas sagradas.",
-      "temas": ["purificação", "lavagem"],
+      "parafrase": "Se, no entanto, a impureza for removida, e o sacerdote tiver se lavado completamente à luz do dia, e o sol se puser, então, após escurecer, ele poderá comer das porções que lhe são devidas, pois essas são sua comida, o sustento que lhes foi dado.",
+      "referencias": [
+        "Levítico 14:8-9",
+        "Números 31:19"
+      ],
+      "comentario": "Este versículo estabelece a restauração da aptidão. Após o pôr do sol, o processo de purificação ritual se completa, permitindo que o sacerdote retome suas funções e receba sua parte na alimentação das ofertas.",
+      "temas": [
+        "Restauração da Pureza",
+        "Sustento Sacerdotal",
+        "Ritual de Restauração"
+      ],
       "personagens": []
     },
     "7": {
-      "parafrase": "'Quando o sol se pôr, ele será puro; então poderá comer das coisas santas, pois é o seu alimento'.",
-      "referencias": [],
-      "comentario": "A purificação é completa ao pôr do sol, e o sacerdote pode então comer das ofertas, que são seu sustento.",
-      "temas": ["purificação", "sustento sacerdotal"],
+      "parafrase": "O sacerdote não comerá de nenhuma carne que tenha sido contaminada por algo impuro, seja trazida por um animal que morreu naturalmente (carniça) ou um animal selvagem, pois essas coisas o tornam impuro.",
+      "referencias": [
+        "Levítico 17:15",
+        "Êxodo 22:31"
+      ],
+      "comentario": "Reforça a proibição de comer carne que não foi devidamente abatida (em nome do Senhor, conforme as regras gerais). Carniça ('nebelah') e caça ('terefah') eram estritamente proibidas para os sacerdotes.",
+      "temas": [
+        "Proibição de Carniça",
+        "Carne Não Consagrada",
+        "Alimento Puro"
+      ],
       "personagens": []
     },
     "8": {
-      "parafrase": "'Não comerá o que morreu por si mesmo ou o que foi despedaçado por feras, contaminando-se com isso. Eu sou o Senhor'.",
-      "referencias": [],
-      "comentario": "A proibição de comer carne de animais que morreram naturalmente ou foram despedaçados é reiterada, pois isso causaria impureza. A santidade é crucial para os sacerdotes.",
-      "temas": ["proibição", "impureza", "santidade sacerdotal"],
-      "personagens": ["Deus"]
+      "parafrase": "Ele não deve comer carne oferecida a um ídolo, nem carne que tenha sido profanada de qualquer maneira. Ele deve guardá-la separada, para que não profane seu chamado, pois eu sou o Senhor, aquele que as santifica.",
+      "referencias": [
+        "Levítico 17:10-11",
+        "1 Coríntios 10:20"
+      ],
+      "comentario": "Introduz a proibição contra a carne 'dedicada' (oferecida a demônios ou ídolos). A santidade da porção sacerdotal depende da pureza da sua origem e do tratamento que recebe. O sacerdote deve honrar o santificador (Deus) separando o que é Dele.",
+      "temas": [
+        "Carne Idolátrica",
+        "Santidade do Sacerdote",
+        "Separação"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "9": {
-      "parafrase": "'Guardarão a minha ordem, para que não levem pecado por causa dela e morram por profaná-la. Eu sou o Senhor que os santifica'.",
-      "referencias": [],
-      "comentario": "A obediência às leis de pureza é essencial para a segurança dos sacerdotes. A profanação resultaria em pecado e morte, enfatizando a seriedade da santidade de Deus.",
-      "temas": ["obediência", "profanação", "morte", "santidade de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Portanto, lembrem-se: vocês não devem buscar comer das ofertas santas do povo apenas para satisfazer a fome. Ao fazer isso, vocês estariam profanando o que foi separado para mim, o Senhor.",
+      "referencias": [
+        "Romanos 14:6",
+        "Mateus 15:5"
+      ],
+      "comentario": "O versículo muda o foco da pureza física para a intenção do coração. O 'porquê' de comer é questionado: é necessidade (comer o pão do sustento) ou ganância (comer a oferta sagrada antes do tempo/ritual)?",
+      "temas": [
+        "Intenção",
+        "Ganância Sacerdotal",
+        "Profanação Moral"
+      ],
+      "personagens": [
+        "Sacerdotes"
+      ]
     },
     "10": {
-      "parafrase": "'Nenhum estranho comerá das coisas santas, nem o hóspede do sacerdote, nem o assalariado'.",
-      "referencias": [],
-      "comentario": "As ofertas sagradas são exclusivas para os sacerdotes e sua família, enfatizando a santidade e a separação.",
-      "temas": ["exclusividade", "santidade", "separação"],
-      "personagens": []
+      "parafrase": "Somente as pessoas que estiverem rituaicamente puras têm o direito de comer destas ofertas sagradas. Se um sacerdote tiver uma mulher impura, ou se algum de seus convidados comer de tais coisas, eles estarão compartilhando da impureza.",
+      "referencias": [
+        "Levítico 19:22",
+        "Números 18:11"
+      ],
+      "comentario": "A pureza não é apenas individual, mas se estende ao convívio familiar e social. Se a esposa ou os hóspedes do sacerdote comem as porções santas sem estarem puros, eles contaminam o sacerdote e a oferta.",
+      "temas": [
+        "Pureza Familiar",
+        "Comensalidade Sacra",
+        "Contaminação por Proximidade"
+      ],
+      "personagens": [
+        "Esposa do Sacerdote",
+        "Convidados"
+      ]
     },
     "11": {
-      "parafrase": "'Mas, se um sacerdote comprar uma pessoa com seu dinheiro, essa pessoa poderá comer dela, e os nascidos em sua casa poderão comer de seu alimento'.",
-      "referencias": [],
-      "comentario": "Escravos comprados e nascidos na casa do sacerdote podem comer das ofertas, pois são considerados parte da família e da casa sacerdotal.",
-      "temas": ["inclusão", "família sacerdotal"],
-      "personagens": []
+      "parafrase": "No entanto, o sacerdote pode comprar um escravo com seu próprio dinheiro, e se esse escravo for circuncidado, ele também terá permissão para comer das porções sagradas que pertencem ao seu senhor.",
+      "referencias": [
+        "Gênesis 17:12-13",
+        "Filipenses 3:5"
+      ],
+      "comentario": "Exceção à regra da linhagem: um escravo comprado e circuncidado (tornado parte da aliança judaica) é considerado 'nascido na casa' e, portanto, pode participar do alimento sacerdotal, desde que o sacerdote titular esteja puro.",
+      "temas": [
+        "Inclusão pela Aliança",
+        "Propriedade",
+        "Circuncisão"
+      ],
+      "personagens": [
+        "Escravo",
+        "Sacerdote"
+      ]
     },
     "12": {
-      "parafrase": "'Se a filha de um sacerdote se casar com um estranho, ela não poderá comer da oferta santa'.",
-      "referencias": [],
-      "comentario": "A filha de um sacerdote perde o direito de comer das ofertas se casar fora da linhagem sacerdotal, enfatizando a importância da linhagem e da santidade.",
-      "temas": ["exclusão", "casamento", "linhagem"],
-      "personagens": []
+      "parafrase": "Além disso, se uma moça virgem, que pertence à casa do sacerdote, mas que ainda não se casou com ninguém de fora, comer dessas ofertas, ela pode fazê-lo. Ela está sob a proteção do lar sacerdotal.",
+      "referencias": [
+        "Levítico 21:3",
+        "Josué 6:25"
+      ],
+      "comentario": "Segunda exceção: a filha virgem do sacerdote. Ela é considerada parte integrante do santuário familiar e tem acesso, ao contrário de uma mulher casada que se casa com um não-sacerdote (Levítico 22:12).",
+      "temas": [
+        "Status da Filha",
+        "Pertencimento ao Santuário",
+        "Pureza Familiar"
+      ],
+      "personagens": [
+        "Filha Virgem do Sacerdote"
+      ]
     },
     "13": {
-      "parafrase": "'Mas, se a filha de um sacerdote ficar viúva ou for divorciada, e não tiver filhos, e voltar para a casa de seu pai, como em sua juventude, ela poderá comer do alimento de seu pai. Mas nenhum estranho poderá comer dele'.",
-      "referencias": [],
-      "comentario": "A filha de um sacerdote pode retornar à casa de seu pai e comer das ofertas se não tiver filhos e for viúva ou divorciada, mostrando a provisão para a família sacerdotal.",
-      "temas": ["provisão", "família sacerdotal"],
-      "personagens": []
+      "parafrase": "Mas se essa moça se casar com um homem que não é sacerdote, ela será separada das ofertas santas e terá que devolver a porção que lhe caberia, pois ela não pode mais comer do alimento que é reservado exclusivamente para a família de Arão.",
+      "referencias": [
+        "Números 18:19",
+        "Rute 1:16-17"
+      ],
+      "comentario": "A transferência de status ocorre no casamento. Ao se casar com um 'povo comum', ela perde o status especial de 'filha do sacerdote' no que tange ao alimento sagrado, voltando ao status de pureza comum.",
+      "temas": [
+        "Casamento e Status",
+        "Perda de Privilégio",
+        "Separação"
+      ],
+      "personagens": [
+        "Filha Casada",
+        "Marido Não-Sacerdote"
+      ]
     },
     "14": {
-      "parafrase": "'Se alguém comer uma coisa santa por engano, ele acrescentará um quinto ao seu valor e o dará ao sacerdote'.",
-      "referencias": [],
-      "comentario": "A lei trata do consumo acidental de coisas santas, exigindo restituição e uma penalidade. A santidade das ofertas é protegida.",
-      "temas": ["consumo acidental", "restituição", "penalidade", "santidade"],
-      "personagens": ["sacerdote"]
+      "parafrase": "Se, contudo, alguém comer por engano de uma oferta sagrada, sem saber que estava impura, essa pessoa deverá reparar o dano. Ela deverá devolver o valor total da oferta ao santuário e acrescentar um quinto (20%) do valor como multa, entregando tudo ao sacerdote.",
+      "referencias": [
+        "Números 5:7-8",
+        "Êxodo 22:1"
+      ],
+      "comentario": "Aqui se lida com a 'culpa não intencional' (pecado de ignorância). A reparação envolve restituição do valor mais um 'quinto' (hebraico: 'qemits') como penalidade. A restauração financeira é necessária, mesmo no erro.",
+      "temas": [
+        "Reparação por Erro",
+        "Restituição Financeira",
+        "Pena de 20%"
+      ],
+      "personagens": []
     },
     "15": {
-      "parafrase": "'Não profanarão as coisas santas dos israelitas, que eles oferecem ao Senhor'.",
-      "referencias": [],
-      "comentario": "A proibição de profanar as ofertas sagradas é reiterada, enfatizando a santidade de Deus e a seriedade da profanação.",
-      "temas": ["profanação", "santidade de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "O sacerdote não deverá permitir que o povo coma das ofertas santas sem que este as tenha oferecido devidamente. Se alguém comer algo que deveria ser queimado no altar, estará cometendo um sacrilégio e deverá pagar a penalidade completa.",
+      "referencias": [
+        "Levítico 5:15-16",
+        "Salmos 24:4"
+      ],
+      "comentario": "O sacerdote age como guardião contra o sacrilégio. Se a oferta 'santa' (que deveria ser totalmente consumida ou queimada) é comida indevidamente, isso é equiparado a roubar de Deus, exigindo reparação total.",
+      "temas": [
+        "Sacrilégio",
+        "Inviolabilidade das Ofertas",
+        "Guarda do Santuário"
+      ],
+      "personagens": []
     },
     "16": {
-      "parafrase": "'Eles levarão sobre si a iniquidade da culpa, quando comerem suas coisas santas, pois eu sou o Senhor que os santifica'.",
-      "referencias": [],
-      "comentario": "A profanação das ofertas resulta em culpa e iniquidade, mostrando a seriedade do pecado. Deus é quem santifica, e Sua santidade deve ser respeitada.",
-      "temas": ["culpa", "iniquidade", "santidade de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Ao administrar as ofertas, o sacerdote deve evitar que o povo, ao comer o que é santo sem ter a devida purificação, incorra em culpa por meio de falsas expectativas. O sacerdote deve, portanto, guiá-los com rigor, para que o sustento sagrado lhes seja benção, e não ruína.",
+      "referencias": [
+        "Romanos 14:13",
+        "Hebreus 12:28"
+      ],
+      "comentario": "O foco retorna à responsabilidade do sacerdote em proteger a comunidade dos danos espirituais causados pela violação do sagrado, mesmo que inadvertida. O sacerdote é o mediador da pureza.",
+      "temas": [
+        "Mediação",
+        "Guia Espiritual",
+        "Prevenção de Culpa"
+      ],
+      "personagens": []
     },
     "17": {
-      "parafrase": "Então o Senhor disse a Moisés:",
-      "referencias": [],
-      "comentario": "Deus dá a próxima instrução.",
-      "temas": ["instrução divina"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "O Senhor falou novamente a Moisés, estabelecendo mais uma ordem: 'Fale com Arão e com seus descendentes para que sempre separem o melhor para mim, quando receberem as ofertas de Israel.'",
+      "referencias": [
+        "Deuteronômio 32:13",
+        "Malaquias 1:8"
+      ],
+      "comentario": "Introdução a uma nova seção (versículos 17-33), que trata das qualidades do animal a ser sacrificado. O princípio é dar o 'melhor' (o gordo, o perfeito).",
+      "temas": [
+        "Excelência na Oferta",
+        "O Melhor para Deus",
+        "Mandato Divino"
+      ],
+      "personagens": [
+        "Deus",
+        "Moisés",
+        "Arão"
+      ]
     },
     "18": {
-      "parafrase": "'Diga a Arão, a seus filhos e a todos os israelitas: ‘Qualquer homem da casa de Israel, ou qualquer estrangeiro que vive em Israel, que oferecer sua oferta, seja para qualquer um de seus votos ou para qualquer uma de suas ofertas voluntárias, que eles oferecerão ao Senhor como holocausto,",
-      "referencias": [],
-      "comentario": "A lei trata dos requisitos para as ofertas de holocausto, voto e voluntárias, que devem ser sem defeito para serem aceitas por Deus.",
-      "temas": ["holocausto", "oferta de voto", "oferta voluntária", "pureza"],
-      "personagens": ["Deus", "Arão", "filhos de Arão", "israelitas"]
+      "parafrase": "Se alguém apresentar uma oferta queimada, um sacrifício de holocausto, ou qualquer oferta voluntária – seja um animal bovino, um ovino ou um caprino – este deve ser um exemplar perfeito, sem defeito físico algum, para que sua aceitação seja completa.",
+      "referencias": [
+        "Êxodo 12:5",
+        "Hebreus 9:14"
+      ],
+      "comentario": "O requisito de perfeição ('tamim' – sem falha) é reiterado. Isso se aplica tanto aos sacrifícios obrigatórios (holocaustos) quanto aos voluntários (votos, ofertas de paz). A imperfeição física reflete a imperfeição moral que Cristo viria a suprir.",
+      "temas": [
+        "Perfeição do Animal",
+        "Holocausto",
+        "Ofertas Voluntárias"
+      ],
+      "personagens": []
     },
     "19": {
-      "parafrase": "'para que seja aceito para vocês, será macho sem defeito, de bois, de ovelhas ou de cabras'.",
-      "referencias": [],
-      "comentario": "O animal deve ser macho e sem defeito, simbolizando a perfeição e a pureza necessárias para se aproximar de Deus.",
-      "temas": ["animal sem defeito", "pureza", "aceitação"],
+      "parafrase": "Mas se alguém oferecer um animal com alguma mancha, como um olho branco, ou com alguma doença, ou com um defeito evidente, não o apresente ao Senhor. Ele não será aceito como oferta agradável a Deus.",
+      "referencias": [
+        "Deuteronômio 15:21",
+        "Isaías 1:11"
+      ],
+      "comentario": "'Olho leitoso' ou 'cegueira' (indicativo de cegueira) é um exemplo específico de defeito visível. O foco é que o sacrifício deve refletir a majestade e a pureza de Quem o recebe.",
+      "temas": [
+        "Defeitos Inaceitáveis",
+        "Rejeição da Oferta",
+        "Padrões Divinos"
+      ],
       "personagens": []
     },
     "20": {
-      "parafrase": "'Não oferecerão nada que tenha defeito, pois não será aceito para vocês'.",
-      "referencias": [],
-      "comentario": "A proibição de oferecer animais com defeito é clara, pois Deus exige o melhor e o perfeito.",
-      "temas": ["proibição", "perfeição", "aceitação"],
-      "personagens": ["Deus"]
+      "parafrase": "Se, por acaso, vocês tiverem um animal perfeito, um animal que decidem oferecer ao Senhor como um sacrifício especial de sua riqueza, que seja então um animal sem defeito algum, seja ele boi, ovelha ou cabra.",
+      "referencias": [
+        "Malaquias 1:14",
+        "Lucas 1:6"
+      ],
+      "comentario": "Reforça que a intenção de doar o 'melhor' animal (riqueza pessoal) exige que o animal esteja em condições impecáveis. A qualidade da oferta reflete o nível de devoção.",
+      "temas": [
+        "Oferta de Riqueza",
+        "Compromisso de Doação",
+        "Perfeição Obrigatória"
+      ],
+      "personagens": []
     },
     "21": {
-      "parafrase": "'E se alguém oferecer um sacrifício de paz ao Senhor para cumprir um voto ou como oferta voluntária, seja de gado ou de rebanho, ele deve ser sem defeito para ser aceito; não haverá defeito nele'.",
-      "referencias": [],
-      "comentario": "As ofertas de paz também devem ser sem defeito, enfatizando a perfeição e a pureza.",
-      "temas": ["oferta de paz", "animal sem defeito", "pureza"],
+      "parafrase": "Quando alguém trouxer um sacrifício para cumprir um voto ou uma oferta voluntária ao Senhor, o animal oferecido deve ser saudável, sem nenhum sinal de doença ou defeito, para que seja aceito.",
+      "referencias": [
+        "Números 29:39",
+        "2 Coríntios 9:7"
+      ],
+      "comentario": "Este versículo enfatiza que os sacrifícios feitos em cumprimento de juramentos (como um voto de nazireu ou um voto de sacrifício) não podem ser de segunda classe. Deus espera que os votos sejam cumpridos com o melhor que se possui.",
+      "temas": [
+        "Cumprimento de Votos",
+        "Ofertas Votivas",
+        "Saúde do Animal"
+      ],
       "personagens": []
     },
     "22": {
-      "parafrase": "'Não oferecerão ao Senhor o que é cego, ou quebrado, ou mutilado, ou com úlcera, ou com sarna, ou com impetigo; não farão deles oferta queimada sobre o altar ao Senhor'.",
-      "referencias": [],
-      "comentario": "A lista de defeitos que tornam um animal inaceitável para sacrifício é detalhada, enfatizando a exigência de perfeição.",
-      "temas": ["defeitos", "proibição", "perfeição"],
-      "personagens": ["Deus"]
+      "parafrase": "Vocês não podem apresentar animais que foram feridos, quebrados, mutilados, com feridas abertas, ou que estejam aleijados, nem animais com problemas de pele como sarna, para serem colocados no altar do Senhor como oferendas de fogo.",
+      "referencias": [
+        "Deuteronômio 17:1",
+        "Êxodo 21:20"
+      ],
+      "comentario": "Lista explícita de condições que desqualificam o animal: qualquer dano físico grave. Isso inclui ferimentos que possam ter sido causados por outros animais ou por acidente, tornando o sacrifício 'defeituoso' ('mum').",
+      "temas": [
+        "Proibições Específicas",
+        "Dano Físico",
+        "Altar"
+      ],
+      "personagens": []
     },
     "23": {
-      "parafrase": "'Um boi ou um cordeiro que tiver um membro comprido ou curto, você poderá oferecê-lo como oferta voluntária, mas para um voto não será aceito'.",
-      "referencias": [],
-      "comentario": "Animais com pequenas imperfeições podem ser aceitos como ofertas voluntárias, mas não para votos, que exigem perfeição.",
-      "temas": ["imperfeições", "oferta voluntária", "oferta de voto"],
+      "parafrase": "Um animal que tenha nascido com um defeito, como ser bípede demais ou ter um membro extra, pode ser oferecido como um presente voluntário. Mas, para um sacrifício aceitável que satisfaça completamente o Senhor, ele deve ser perfeito.",
+      "referencias": [
+        "Gênesis 1:21",
+        "Salmos 139:14"
+      ],
+      "comentario": "Esta é uma distinção crucial: se o defeito é congênito (nasceu assim, como uma anomalia) e o ofertante quer usá-lo para uma oferta voluntária, pode ser aceito. Mas para as ofertas exigidas pela Lei ou para o holocausto, a perfeição absoluta é a regra.",
+      "temas": [
+        "Defeito Congênito vs. Adquirido",
+        "Aceitação da Vontade",
+        "Padrões de Perfeição"
+      ],
       "personagens": []
     },
     "24": {
-      "parafrase": "'Não oferecerão ao Senhor o que tem testículos esmagados, ou feridos, ou arrancados, ou cortados; não farão isso em sua terra'.",
-      "referencias": [],
-      "comentario": "A lei proíbe a castração de animais, pois isso os torna imperfeitos para sacrifício e para a reprodução. É uma lei que protege a integridade da criação.",
-      "temas": ["castração", "proibição", "integridade da criação"],
-      "personagens": ["Deus"]
+      "parafrase": "Vocês não podem dedicar ao Senhor um animal cujos testículos estejam esmagados ou atrofiados, ou cujos órgãos reprodutores estejam danificados, pois isso é uma profanação do ato de oferecer.",
+      "referencias": [
+        "Levítico 21:19",
+        "Deuteronômio 23:1"
+      ],
+      "comentario": "Foco nos órgãos sexuais. Animais castrados ('testículos esmagados' - hebraico: 'daka' ou 'daka'at') não eram aceitáveis para sacrifício, pois a vitalidade e a plenitude da vida do animal eram importantes para a representação do sacrifício completo.",
+      "temas": [
+        "Vitalidade Reprodutiva",
+        "Castração",
+        "Profanação do Sacrifício"
+      ],
+      "personagens": []
     },
     "25": {
-      "parafrase": "'Nem da mão de um estrangeiro vocês oferecerão o alimento de seu Deus, de qualquer uma dessas coisas, pois seus defeitos estão neles; não serão aceitos para vocês'.",
-      "referencias": [],
-      "comentario": "Ofertas de estrangeiros com defeito não são aceitas, pois Deus exige perfeição, independentemente da origem do ofertante.",
-      "temas": ["ofertas de estrangeiros", "defeitos", "aceitação"],
-      "personagens": ["Deus"]
+      "parafrase": "Vocês não aceitarão tais animais de um estrangeiro para oferecer como o pão do seu Deus, pois estes animais estão viciados ou defeituosos. Mesmo que a intenção do estrangeiro seja boa, a qualidade do sacrifício, que é a nossa comida, deve cumprir o padrão do Senhor.",
+      "referencias": [
+        "Isaías 56:6-7",
+        "Atos 10:34-35"
+      ],
+      "comentario": "A regra de qualidade se aplica igualmente aos estrangeiros ('nokhri') que desejam adorar a Deus de Israel. O sacrifício é sempre 'o pão de Deus' (a porção do altar), e sua qualidade deve ser constante, independentemente da origem do ofertante.",
+      "temas": [
+        "Estranhos e Adoração",
+        "Qualidade Universal",
+        "Pão de Deus"
+      ],
+      "personagens": [
+        "Estrangeiros"
+      ]
     },
     "26": {
-      "parafrase": "Então o Senhor disse a Moisés:",
-      "referencias": [],
-      "comentario": "Deus dá a próxima instrução.",
-      "temas": ["instrução divina"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "Se, porventura, alguém sacrificar um animal puro, um gado, um cordeiro ou uma cabra, mas não tiver o cuidado de derramar o sangue dele sobre o altar ou de separá-lo adequadamente para o Senhor, esse ato é uma profanação. É como se ele estivesse oferecendo comida impura. Quem fizer isso profanou a oferta; portanto, ela deve ser considerada abominável aos olhos do Senhor.",
+      "referencias": [
+        "Levítico 1:3",
+        "Deuteronômio 12:27"
+      ],
+      "comentario": "Este versículo estabelece uma regra crítica sobre a integridade do sacrifício. A chave aqui é o sangue (o 'nephesh', a vida) e sua destinação correta. O sacrifício de um animal 'limpo' (kosher) só é aceitável se o ritual for seguido meticulosamente. O verbo hebraico para 'separar' ou 'dedicar' (nithrach) enfatiza a exclusividade da oferta a YHWH. A falha ritual transforma uma oferta santa em algo 'abominável' (piqqud), um termo forte que indica nojo divino pela desonra ao pacto.",
+      "temas": [
+        "Santidade Ritual",
+        "Integridade do Sacrifício",
+        "Abominação"
+      ],
+      "personagens": [
+        "O Sacerdote/Oferente"
+      ]
     },
     "27": {
-      "parafrase": "'Quando um boi, ou uma ovelha, ou uma cabra nascer, ele ficará por sete dias com sua mãe; e do oitavo dia em diante, será aceito como oferta queimada ao Senhor'.",
-      "referencias": [],
-      "comentario": "O animal deve ter pelo menos oito dias de idade para ser aceito como sacrifício, garantindo sua vitalidade e maturidade.",
-      "temas": ["idade mínima para sacrifício", "vitalidade"],
-      "personagens": ["Deus"]
+      "parafrase": "Qualquer pessoa que tocar em algo impuro — seja carne de animal que morreu naturalmente, ou um animal que foi devorado por feras selvagens, ou algum inseto rastejante — fica contaminada. E se essa pessoa tocar na carne da oferta consagrada antes que ela tenha sido queimada, ela se tornará impura e profanará a oferta. O resultado é que ela mesma ficará excluída do povo, pois violou a santidade.",
+      "referencias": [
+        "Levítico 11:8",
+        "Levítico 15:16"
+      ],
+      "comentario": "Aqui, a impureza não vem de um erro ritual, mas do contato com um vetor de contaminação (tameh). O toque em carne 'mortiça' (nevelah) ou carne devorada por predadores transfere impureza ritual. Se essa impureza é transferida para a oferta antes que ela seja purificada pelo fogo (o meio de consagração final), a oferta é arruinada. O castigo é severo: a exclusão da comunidade ('karat'), sinalizando a seriedade com que Deus tratava a separação entre o sagrado e o profano.",
+      "temas": [
+        "Impureza por Contato",
+        "Exclusão Comunitária",
+        "Contaminação"
+      ],
+      "personagens": [
+        "O Israelita Contaminado"
+      ]
     },
     "28": {
-      "parafrase": "'Não matarão um animal e sua cria no mesmo dia'.",
-      "referencias": [],
-      "comentario": "A lei proíbe o abate de um animal e sua cria no mesmo dia, mostrando compaixão e respeito pela vida.",
-      "temas": ["compaixão", "respeito pela vida", "proibição"],
-      "personagens": []
+      "parafrase": "Se alguém espirrar sangue de um sacrifício sobre a roupa, e essa roupa não for lavada imediatamente ou o sangue não for removido, aquela vestimenta será contaminada e deverá ser queimada. Ela não pode ser purificada. 🧺",
+      "referencias": [
+        "Levítico 13:57",
+        "Números 31:21"
+      ],
+      "comentario": "A regra se estende agora aos objetos inanimados. O sangue, que carrega a vida e a santidade, exige tratamento imediato. O sangue, neste contexto, age como um contaminante potente. Se a roupa não for lavada ('lavar') ou se o sangue não for removido, a contaminação é considerada permanente. A destruição pelo fogo é o único meio de eliminar tal contaminação severa, indicando que a mancha de sangue sacrificial removida inadequadamente não é 'limpável' pelos meios normais.",
+      "temas": [
+        "Permanência da Impureza",
+        "Purificação pelo Fogo",
+        "Regras de Higiene Ritual"
+      ],
+      "personagens": [
+        "O Sacerdote ou a Pessoa Responsável"
+      ]
     },
     "29": {
-      "parafrase": "'Quando oferecerem um sacrifício de ação de graças ao Senhor, ofereçam-no de tal maneira que seja aceito para vocês'.",
-      "referencias": [],
-      "comentario": "As ofertas de ação de graças devem ser oferecidas de forma correta para serem aceitas por Deus.",
-      "temas": ["oferta de ação de graças", "aceitação divina"],
-      "personagens": ["Deus"]
+      "parafrase": "Quando vocês fizerem uma oferta de comunhão ou gratidão ao Senhor, façam-na de tal maneira que ela seja aceita. Ou seja, devem comer toda a carne da oferta no dia em que a oferecerem, sem deixar sobras para o dia seguinte. Qualquer remanescente deve ser completamente consumido. 🍖",
+      "referencias": [
+        "Levítico 7:15",
+        "1 Coríntios 10:17"
+      ],
+      "comentario": "Este versículo trata especificamente das ofertas de comunhão (Shelamim), que permitiam ao ofertante participar da refeição com Deus e o sacerdócio. A regra é: a celebração deve ser completa no dia. Comer a carne no dia seguinte ('o que restar para o dia seguinte') é proibido porque a carne, embora santa, perderia sua santidade imediata e se tornaria algo menos digno da celebração festiva e imediata do pacto.",
+      "temas": [
+        "Oferta de Comunhão",
+        "Imediatismo do Culto",
+        "Compartilhamento da Aliança"
+      ],
+      "personagens": [
+        "Os Participantes da Refeição Sacrificial"
+      ]
     },
     "30": {
-      "parafrase": "'Ele será comido no mesmo dia; não deixem sobrar nada até a manhã'.",
-      "referencias": [],
-      "comentario": "A carne da oferta de ação de graças deve ser consumida no mesmo dia, enfatizando a urgência da gratidão e a comunhão.",
-      "temas": ["consumo imediato", "gratidão", "comunhão"],
-      "personagens": []
+      "parafrase": "Se a carne da oferta for consumida no mesmo dia em que foi apresentada, ela será aceita por Deus. Não deve sobrar nada para o dia seguinte, pois é um mandamento solene.",
+      "referencias": [
+        "Levítico 7:16",
+        "Mateus 26:26"
+      ],
+      "comentario": "Reafirmação e conclusão da regra do versículo 29. A aceitabilidade da oferta de comunhão está diretamente ligada ao cumprimento rigoroso do tempo estipulado para o seu consumo. Este tempo limitado sugere a urgência e a alegria da comunhão presente com Deus; não se adia a festa da aliança.",
+      "temas": [
+        "Aceitação Divina",
+        "Observância dos Prazos",
+        "Fidelidade ao Ritual"
+      ],
+      "personagens": [
+        "O Oferente"
+      ]
     },
     "31": {
-      "parafrase": "'Guardem os meus mandamentos e os cumpram. Eu sou o Senhor'.",
-      "referencias": [],
-      "comentario": "A obediência aos mandamentos de Deus é essencial para a santidade e a comunhão com Ele.",
-      "temas": ["obediência", "santidade", "comunhão"],
-      "personagens": ["Deus"]
+      "parafrase": "Portanto, obedeçam rigorosamente a todos os meus decretos e mandamentos, para que não incorram em culpa e não profanem o que é santo, sendo assim punidos por Deus. ⚖️",
+      "referencias": [
+        "Levítico 18:5",
+        "Deuteronômio 4:2"
+      ],
+      "comentario": "Este é um resumo ético e legal. O 'decreto' (chuqqot) e o 'mandamento' (mitzvot) são o alicerce da relação de Israel com YHWH. A obediência total é a única defesa contra a culpa ('ashmah') e a consequente contaminação do sagrado. A consequência da desobediência não é apenas uma falha técnica, mas uma ofensa pessoal contra a santidade de Deus.",
+      "temas": [
+        "Obediência Total",
+        "Consequência da Culpa",
+        "Santidade como Lei"
+      ],
+      "personagens": [
+        "O Povo de Israel"
+      ]
     },
     "32": {
-      "parafrase": "'Não profanarão o meu santo nome, mas eu serei santificado no meio dos israelitas. Eu sou o Senhor que os santifica'.",
-      "referencias": [],
-      "comentario": "A profanação do nome de Deus é proibida, e Deus será santificado através da obediência de Seu povo. Ele é quem os santifica.",
-      "temas": ["profanação", "santidade de Deus", "santificação"],
-      "personagens": ["Deus"]
+      "parafrase": "Assim, vocês deverão separar os animais permitidos para o sacrifício, guardando-os para serem oferecidos, e não misturarão o puro com o impuro, nem o limpo com o imundo. Vocês deverão me tratar como santo entre o povo de Israel. Eu sou o Senhor, seu Deus. 🌟",
+      "referencias": [
+        "Levítico 10:10",
+        "1 Pedro 1:16"
+      ],
+      "comentario": "Este versículo sintetiza o princípio central de Levítico: a separação. O povo de Israel era chamado a ser um espelho da santidade de Deus (Qadosh) no meio das nações. A distinção clara entre 'limpo' (tahor) e 'imundo' (tameh) não era apenas uma questão de dieta ou higiene, mas uma demonstração visível da natureza única e separada de YHWH. A meta final é que Deus seja santificado ('tiqdashu') entre eles.",
+      "temas": [
+        "Separação entre Santo e Profano",
+        "Identidade Nacional e Divina",
+        "Santificação de Deus no Meio do Povo"
+      ],
+      "personagens": [
+        "O Senhor (YHWH)"
+      ]
     },
     "33": {
-      "parafrase": "'Eu os tirei da terra do Egito para ser o seu Deus. Eu sou o Senhor'.",
-      "referencias": [],
-      "comentario": "A libertação do Egito tem como objetivo final a santidade do povo e o relacionamento com Deus. A redenção leva à santificação e à comunhão.",
-      "temas": ["redenção", "santificação", "comunhão"],
-      "personagens": ["Deus"]
+      "parafrase": "Fui eu quem os tirou da terra do Egito para ser o seu Deus. Eu sou o Senhor, o Deus de vocês. Lembrem-se disso ao cumprirem todas estas leis.",
+      "referencias": [
+        "Êxodo 6:7",
+        "Apocalipse 21:3"
+      ],
+      "comentario": "O fundamento teológico de toda a Lei é relembrado aqui: o Êxodo. A autoridade para dar estes mandamentos e a expectativa de obediência baseiam-se no ato soberano de Deus ao resgatar Israel da escravidão ('Eu os tirei do Egito'). A relação de aliança (YHWH como 'seu Deus') é a motivação para a santidade ritual e ética.",
+      "temas": [
+        "Fundamento do Êxodo",
+        "Aliança",
+        "Motivação para a Lei"
+      ],
+      "personagens": [
+        "O Senhor (YHWH)"
+      ]
     }
   }
 }

@@ -1,180 +1,429 @@
 {
   "livro": "Êxodo",
   "capitulo": 20,
-  "contexto_historico": "Este capítulo de Êxodo registra a entrega dos Dez Mandamentos por Deus ao povo de Israel no monte Sinai. Após a preparação do povo, Deus fala diretamente a eles, estabelecendo os princípios fundamentais de Sua aliança. Os mandamentos abrangem tanto a relação do homem com Deus (os primeiros quatro) quanto a relação do homem com o próximo (os últimos seis). A entrega da Lei é acompanhada de manifestações poderosas da presença de Deus, que causam temor no povo. O capítulo enfatiza a santidade de Deus, a importância da obediência à Sua Lei e a base para uma sociedade justa e reta.",
-  "bloco_tematico": "Os Dez Mandamentos: A Lei de Deus para Israel",
+  "contexto_historico": "Após a libertação da escravidão no Egito (Êxodo 1-15), o povo de Israel está viajando pelo deserto, guiado por Moisés. O povo está sedento e inseguro sobre o futuro e a liderança de Deus. A experiência no Sinai, onde Deus estabelece a Aliança, é crucial para definir a identidade nacional e religiosa de Israel. O capítulo 20 representa o clímax da revelação divina em termos de lei e moralidade, estabelecendo os pilares da relação entre Deus e o povo escolhido. Este é o momento da fundação ética da nação. 🏜️📜",
+  "bloco_tematico": "Os Dez Mandamentos: A Fundação da Aliança e o Fundamento Moral de Israel ⚖️🔑",
   "versiculos": {
     "1": {
-      "parafrase": "E Deus falou todas estas palavras, dizendo:",
-      "referencias": [],
-      "comentario": "Deus fala diretamente ao povo, estabelecendo Sua autoridade e a importância das palavras que se seguirão. A voz de Deus é a fonte da Lei.",
-      "temas": ["Deus", "Palavra de Deus", "autoridade divina", "Lei"],
-      "personagens": ["Deus"]
+      "parafrase": "Então, o Senhor Deus, a Fonte de toda a vida e autoridade, convocou Moisés e fez com que ele ouvisse a totalidade de Sua Palavra. Ele estava prestes a declarar as regras fundamentais para a convivência da comunidade recém-liberta, as leis que sustentariam a nova nação de Israel sob o olhar vigilante de Deus.",
+      "referencias": [
+        "Deuteronômio 5:6",
+        "Levítico 26:46"
+      ],
+      "comentario": "O verbo hebraico para 'convocou' (dibar) significa falar ou declarar. O contexto é de revelação direta e solene da autoridade divina, estabelecendo a base legal e moral para Israel, iniciando com o Decálogo.",
+      "temas": [
+        "Revelação Divina",
+        "Aliança",
+        "Autoridade de Deus"
+      ],
+      "personagens": [
+        "Deus",
+        "Moisés"
+      ]
     },
     "2": {
-      "parafrase": "'Eu sou o Senhor, seu Deus, que o tirou da terra do Egito, da casa da servidão.'",
-      "referencias": [],
-      "comentario": "Deus se apresenta como o Senhor, o libertador de Israel da escravidão no Egito. Sua identidade como Salvador é a base para a obediência à Sua Lei.",
-      "temas": ["YHWH", "libertador", "Egito", "servidão", "identidade divina"],
-      "personagens": ["Deus"]
+      "parafrase": "Deus se apresentou como aquele que o resgatou da opressão, dizendo: 'Eu Sou YHWH (o Eterno), Aquele que É e Sempre Será), e Eu o tirei da terra miserável do Egito, onde vocês eram escravos. Lembrem-se sempre disso: Eu os libertei da fornalha da servidão.'",
+      "referencias": [
+        "Gênesis 15:13",
+        "Salmos 81:10"
+      ],
+      "comentario": "A auto-identificação como YHWH é crucial. Ela fundamenta a autoridade dos mandamentos subsequentes no ato salvífico prévio (o Êxodo). Não é um legislador qualquer, mas o Libertador pessoal deles.",
+      "temas": [
+        "Identidade de Deus",
+        "Liberdade",
+        "Memória da Salvação"
+      ],
+      "personagens": [
+        "Deus",
+        "Israel"
+      ]
     },
     "3": {
-      "parafrase": "'Você não terá outros deuses diante de mim.'",
-      "referencias": [],
-      "comentario": "O primeiro mandamento proíbe a adoração a outros deuses, exigindo lealdade exclusiva a Deus. A idolatria é uma afronta à Sua soberania.",
-      "temas": ["mandamento", "idolatria", "lealdade", "soberania divina"],
-      "personagens": []
+      "parafrase": "Agora, ouçam com atenção e sigam rigorosamente o que lhes ordeno: Não aceitem nenhuma outra divindade em sua vida. Que nenhum outro ser ou poder ocupe o lugar que somente Eu devo ter em seu coração e em seu culto. Eu exijo exclusividade total.",
+      "referencias": [
+        "Deuteronômio 4:19",
+        "Mateus 6:24"
+      ],
+      "comentario": "Este é o princípio monoteísta absoluto. O termo hebraico para 'nenhum outro deus' (eloheem zarim) enfatiza a ideia de divindades estranhas, falsas ou impostoras, que compete com a soberania de YHWH.",
+      "temas": [
+        "Monoteísmo",
+        "Exclusividade do Culto",
+        "Fidelidade"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "4": {
-      "parafrase": "'Você não fará para si imagem esculpida, nem semelhança alguma do que há em cima nos céus, nem embaixo na terra, nem nas águas debaixo da terra.'",
-      "referencias": [],
-      "comentario": "O segundo mandamento proíbe a criação e a adoração de imagens, pois Deus é espírito e não pode ser representado por formas criadas. A adoração deve ser espiritual.",
-      "temas": ["mandamento", "imagens esculpidas", "adoração", "espírito", "idolatria"],
-      "personagens": []
+      "parafrase": "Em hipótese alguma você deve criar ou fabricar para si qualquer tipo de imagem, seja ela moldada, esculpida ou gravada, que represente algo que existe lá em cima, no céu (como o sol, a lua ou as estrelas), ou aqui embaixo, na terra (como animais), ou mesmo nas águas sob a terra.",
+      "referencias": [
+        "Isaías 40:18-20",
+        "Atos 17:29"
+      ],
+      "comentario": "Este mandamento proíbe a idolatria antropomórfica ou zoomórfica. O hebraico usa 'pesel' (imagem esculpida) e 'temunah' (semelhança/forma). A proibição visa evitar a materialização do divino, mantendo Deus como transcendente.",
+      "temas": [
+        "Proibição da Imagem",
+        "Transcendência Divina",
+        "Idolatria"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "5": {
-      "parafrase": "'Você não se prostrará a elas, nem as servirá; pois eu, o Senhor, seu Deus, sou um Deus zeloso, que visito a iniquidade dos pais nos filhos até a terceira e quarta geração daqueles que me odeiam,
+      "parafrase": "Você não deve se curvar diante dessas representações nem prestar-lhes qualquer tipo de adoração, pois Eu, o Senhor seu Deus, sou um Deus zeloso! Meu ciúme não é vaidade, mas o desejo de proteger a santidade da nossa relação. Eu punirei a desobediência até a terceira e quarta geração daqueles que Me rejeitam.",
+      "referencias": [
+        "Números 14:18",
+        "Sofonias 1:3"
+      ],
+      "comentario": "'Deus zeloso' (El Kana) significa que Ele defende fervorosamente a aliança. O castigo que 'cai sobre os filhos' não é uma punição arbitrária, mas o resultado natural e a herança de um ambiente familiar contaminado pela infidelidade religiosa.",
+      "temas": [
+        "Zelo Divino",
+        "Consequências da Desobediência",
+        "Justiça"
+      ],
+      "personagens": [
+        "Deus"
+      ]
+    },
     "6": {
-      "parafrase": "e mostro misericórdia a milhares daqueles que me amam e guardam os meus mandamentos.'",
-      "referencias": [],
-      "comentario": "Deus é um Deus zeloso que pune a iniquidade dos idólatras, mas mostra misericórdia àqueles que O amam e guardam Seus mandamentos. A justiça e a misericórdia divinas são equilibradas.",
-      "temas": ["zelo divino", "iniquidade", "misericórdia divina", "amor", "mandamentos", "justiça divina"],
-      "personagens": ["Deus"]
+      "parafrase": "Contudo, para aqueles que Me amam e Me obedecem, Minha misericórdia se estende por mil gerações. Demonstro esse amor inabalável àqueles que decidem manter a relação comigo fielmente.",
+      "referencias": [
+        "Salmos 103:17",
+        "Romanos 5:8"
+      ],
+      "comentario": "Este é o contraponto ao versículo anterior. A misericórdia (hesed, lealdade amorosa) supera em muito a duração do juízo, enfatizando a natureza redentora e paciente de Deus.",
+      "temas": [
+        "Misericórdia",
+        "Amor Fiel (Hesed)",
+        "Graça"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "7": {
-      "parafrase": "'Você não tomará o nome do Senhor, seu Deus, em vão; pois o Senhor não terá por inocente aquele que tomar o seu nome em vão.'",
-      "references": [],
-      "comentario": "O terceiro mandamento proíbe o uso indevido do nome de Deus, exigindo reverência e respeito. O nome de Deus é santo e não deve ser profanado.",
-      "temas": ["mandamento", "nome de Deus", "reverência", "respeito", "profanação"],
-      "personagens": []
+      "parafrase": "Jamais usem Meu Nome Santo, o nome do Senhor, de maneira vazia, leviana ou profana. Não o mencionem em juramentos falsos, em xingamentos, ou como um amuleto de sorte. Quem tratar Meu Nome com desrespeito e negligência, será considerado culpado aos meus olhos, e não ficará impune.",
+      "referencias": [
+        "Levítico 19:12",
+        "Mateus 5:33-37"
+      ],
+      "comentario": "O mandamento proíbe o uso do nome YHWH ('Sho'av' - levar em vão). Isso inclui juramentos feitos sem intenção de cumprir, blasfêmia ou invocar o nome de Deus para justificar atos impuros ou desonestos.",
+      "temas": [
+        "Santidade do Nome de Deus",
+        "Veracidade",
+        "Respeito"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "8": {
-      "parafrase": "'Lembre-se do dia de sábado, para o santificar.'",
-      "references": [],
-      "comentario": "O quarto mandamento instrui a lembrar e santificar o dia de sábado, dedicando-o ao descanso e à adoração a Deus. O sábado é um memorial da criação e da libertação.",
-      "temas": ["mandamento", "sábado", "santificação", "descanso", "adoração", "memorial"],
-      "personagens": []
+      "parafrase": "Lembrem-se sempre de reservar o dia do Sábado — o dia de descanso — para torná-lo santo. Dediquem este dia exclusivamente à comunhão e ao repouso, honrando o meu ciclo criativo.",
+      "referencias": [
+        "Gênesis 2:2-3",
+        "Hebreus 4:9-10"
+      ],
+      "comentario": "O Sábado ('Shabbat') é instituído como memorial da criação (Gênesis 2). É um dia separado (santificado) para a cessação do trabalho secular, permitindo a reflexão na obra de Deus.",
+      "temas": [
+        "Sábado",
+        "Santificação do Tempo",
+        "Descanso"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "9": {
-      "parafrase": "'Seis dias você trabalhará e fará toda a sua obra;
+      "parafrase": "Vocês têm seis dias de trabalho para realizar todas as suas tarefas, sejam elas pesadas ou leves.",
+      "referencias": [
+        "Levítico 23:3",
+        "Colossenses 2:16"
+      ],
+      "comentario": "A concessão de seis dias para o trabalho demonstra que Deus não é contra o labor, mas contra a exploração total do tempo humano. O trabalho deve ter seu limite.",
+      "temas": [
+        "Jornada de Trabalho",
+        "Ordem Temporal"
+      ],
+      "personagens": [
+        "Deus"
+      ]
+    },
     "10": {
-      "parafrase": "mas o sétimo dia é o sábado do Senhor, seu Deus; nele você não fará nenhuma obra, nem você, nem o seu filho, nem a sua filha, nem o seu servo, nem a sua serva, nem o seu gado, nem o estrangeiro que está dentro das suas portas.'",
-      "references": [],
-      "comentario": "O sábado é um dia de descanso para todos, incluindo servos e estrangeiros, mostrando a abrangência da Lei de Deus e Sua preocupação com o bem-estar de todos.",
-      "temas": ["sábado", "trabalho", "descanso", "abrangência", "bem-estar"],
-      "personagens": []
+      "parafrase": "No entanto, o sétimo dia é um dia de descanso completo dedicado ao Senhor seu Deus. Nesse dia, nem você, nem seu filho, nem sua filha, nem seus servos, nem suas servas, nem os animais que lhes pertencem, nem o estrangeiro que reside dentro de seus muros podem realizar qualquer tipo de trabalho remunerado ou forçado.",
+      "referencias": [
+        "Deuteronômio 5:14",
+        "Marcos 2:27"
+      ],
+      "comentario": "A abrangência deste mandamento é notável; ele inclui toda a casa (família, empregados e até estrangeiros residentes), estendendo a bênção do descanso a todos sob sua autoridade. É um princípio de justiça social ligado à teologia.",
+      "temas": [
+        "Descanso Universal",
+        "Inclusão",
+        "Cessação do Trabalho"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "11": {
-      "parafrase": "'Pois em seis dias o Senhor fez os céus e a terra, o mar e tudo o que neles há, e descansou no sétimo dia; por isso o Senhor abençoou o dia de sábado e o santificou.'",
-      "references": [],
-      "comentario": "A razão para o sábado é a criação de Deus em seis dias e Seu descanso no sétimo. O sábado é abençoado e santificado por Deus, tornando-o um dia especial.",
-      "temas": ["criação", "descanso divino", "sábado", "bênção divina", "santificação"],
-      "personagens": ["Deus"]
+      "parafrase": "Isso se deve ao fato de que em seis dias o Senhor formou os céus, a terra, os mares e tudo o que neles existe, e no sétimo dia Ele parou e descansou de toda a Sua obra. Por isso, o Senhor abençoou o Sábado e o consagrou como dia sagrado.",
+      "referencias": [
+        "Gênesis 1:31-2:3",
+        "Hebreus 4:4"
+      ],
+      "comentario": "A justificativa teológica do Sábado é apresentada aqui: imitamos o descanso de Deus após a criação. Deus não precisava descansar por cansaço, mas para estabelecer um padrão de ritmo e propósito para a vida humana.",
+      "temas": [
+        "Modelo Criacional",
+        "Propósito do Sábado",
+        "Descanso Divino"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "12": {
-      "parafrase": "'Honre o seu pai e a sua mãe, para que os seus dias se prolonguem na terra que o Senhor, seu Deus, lhe dá.'",
-      "references": [],
-      "comentario": "O quinto mandamento exige honra aos pais, prometendo longevidade na terra. O respeito aos pais é fundamental para a ordem social e para a bênção.",
-      "temas": ["mandamento", "honra", "pai", "mãe", "longevidade", "bênção"],
-      "personagens": []
+      "parafrase": "Agora, honrem seu pai e sua mãe com todo o respeito e reverência, dedicando-lhes tempo e cuidado, para que vocês possam viver uma vida longa e plena na terra que Eu, o Senhor seu Deus, lhes darei.",
+      "referencias": [
+        "Efésios 6:2-3",
+        "Deuteronômio 27:16"
+      ],
+      "comentario": "Este é o primeiro mandamento com uma promessa específica ('para que os teus dias sejam longos'). O verbo hebraico para 'honrar' (kabad) implica em dar peso, importância e seriedade aos pais.",
+      "temas": [
+        "Honra aos Pais",
+        "Longevidade",
+        "Estrutura Familiar"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "13": {
-      "parafrase": "'Você não matará.'",
-      "references": [],
-      "comentario": "O sexto mandamento proíbe o assassinato, protegendo a vida humana, que é sagrada. A vida é um dom de Deus e deve ser respeitada.",
-      "temas": ["mandamento", "assassinato", "vida", "sacralidade"],
-      "personagens": []
+      "parafrase": "Você jamais deve tirar a vida de outra pessoa. O ato de assassinato é absolutamente proibido.",
+      "referencias": [
+        "Gênesis 9:6",
+        "Mateus 5:21"
+      ],
+      "comentario": "O termo hebraico 'ratsach' refere-se especificamente ao assassinato premeditado ou ilegal, não cobrindo necessariamente a pena capital ordenada por Deus em outros contextos, mas protegendo a vida humana como um dom sagrado.",
+      "temas": [
+        "Proteção à Vida",
+        "Não Matarás",
+        "Valor da Vida"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "14": {
-      "parafrase": "'Você não cometerá adultério.'",
-      "references": [],
-      "comentario": "O sétimo mandamento proíbe o adultério, protegendo a santidade do casamento e a fidelidade conjugal. O casamento é uma instituição divina.",
-      "temas": ["mandamento", "adultério", "casamento", "santidade", "fidelidade"],
-      "personagens": []
+      "parafrase": "Jamais cometa adultério. Não viole a confiança e o pacto sagrado do casamento alheio.",
+      "referencias": [
+        "Provérbios 6:27-29",
+        "Hebreus 13:4"
+      ],
+      "comentario": "O adultério destrói a estrutura social e a confiança mútua, sendo visto como uma quebra da fidelidade que espelha a fidelidade devida a Deus. O termo é 'na'af' (adultério sexual ilícito).",
+      "temas": [
+        "Fidelidade Conjugal",
+        "Santidade Sexual",
+        "Casamento"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "15": {
-      "parafrase": "'Você não roubará.'",
-      "references": [],
-      "comentario": "O oitavo mandamento proíbe o roubo, protegendo a propriedade e a justiça nas relações humanas. A honestidade é essencial para a sociedade.",
-      "temas": ["mandamento", "roubo", "propriedade", "justiça", "honestidade"],
-      "personagens": []
+      "parafrase": "Você não tem o direito de roubar. Não tome para si, por meio de engano ou força, aquilo que pertence legitimamente ao seu próximo.",
+      "referencias": [
+        "Levítico 19:11",
+        "Lucas 19:8"
+      ],
+      "comentario": "O roubo mina a ordem econômica e a justiça distributiva. O mandamento visa proteger a propriedade privada estabelecida pela justiça e pelo trabalho.",
+      "temas": [
+        "Honestidade",
+        "Proteção da Propriedade",
+        "Não Roubarás"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "16": {
-      "parafrase": "'Você não dará falso testemunho contra o seu próximo.'",
-      "references": [],
-      "comentario": "O nono mandamento proíbe o falso testemunho, protegendo a verdade e a reputação do próximo. A verdade é fundamental para a justiça.",
-      "temas": ["mandamento", "falso testemunho", "verdade", "reputação", "justiça"],
-      "personagens": []
+      "parafrase": "Você jamais deve proferir falsidades ou testemunhos enganosos contra o seu vizinho. Não minta sobre a conduta ou caráter da pessoa que está ao seu lado.",
+      "referencias": [
+        "Provérbios 6:19",
+        "Efésios 4:25"
+      ],
+      "comentario": "O mandamento trata da calúnia e do falso testemunho ('ed shéqer'). O foco está na proteção da reputação e da integridade judicial da comunidade, impedindo a destruição interpessoal por mentiras.",
+      "temas": [
+        "Verdade",
+        "Calúnia",
+        "Falso Testemunho"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "17": {
-      "parafrase": "'Você não cobiçará a casa do seu próximo; você não cobiçará a esposa do seu próximo, nem o seu servo, nem a sua serva, nem o seu boi, nem o seu jumento, nem coisa alguma que seja do seu próximo.'",
-      "references": [],
-      "comentario": "O décimo mandamento proíbe a cobiça, que é a raiz de muitos pecados. Ele protege o coração e os desejos, exigindo contentamento e respeito pelos bens alheios.",
-      "temas": ["mandamento", "cobiça", "coração", "desejos", "contentamento", "respeito"],
-      "personagens": []
+      "parafrase": "E, por fim, não cobiçará a casa do seu próximo. Não deseje com ânsia doentia os bens materiais dele, nem a sua residência, nem a sua esposa, nem o seu servo, nem a sua serva, nem o seu boi, nem o seu jumento, nem qualquer outra coisa que pertença àquela pessoa.",
+      "referencias": [
+        "Romanos 7:7",
+        "Lucas 12:15"
+      ],
+      "comentario": "Este é o único mandamento que foca inteiramente no interior, no desejo ('chamad' - cobiçar intensamente). Ele revela que a raiz de todos os pecados externos (roubo, adultério) reside no coração insatisfeito e invejoso.",
+      "temas": [
+        "Cobiça",
+        "Desejo Interior",
+        "Satisfação"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "18": {
-      "parafrase": "E todo o povo viu os trovões, e os relâmpagos, e o som da trombeta, e o monte fumegando; e quando o povo viu, eles tremeram e ficaram de longe.",
-      "references": [],
-      "comentario": "O povo testemunha as manifestações poderosas da presença de Deus, que causam temor e os fazem ficar de longe. A santidade de Deus é avassaladora.",
-      "temas": ["trovões", "relâmpagos", "trombeta", "monte fumegando", "temor", "presença divina"],
-      "personagens": []
+      "parafrase": "Quando o povo viu isso, eles tremiam de medo, como se estivessem sendo atingidos por relâmpagos. Eles ouviam os trovões retumbantes e viam a fumaça subindo como de um forno gigante, e seus corações desfaleciam de pavor.",
+      "referencias": [
+        "Hebreus 12:18-19",
+        "Salmos 77:18"
+      ],
+      "comentario": "A reação sensorial da nação (trovões, fumaça, fogo) ilustra a majestade terrível ('Nora') de Deus. O tremor indica a consciência aguda da santidade divina em contraste com a impureza humana.",
+      "temas": [
+        "Temor a Deus",
+        "Majestade Divina",
+        "Manifestação Teofânica"
+      ],
+      "personagens": [
+        "Povo de Israel"
+      ]
     },
     "19": {
-      "parafrase": "E eles disseram a Moisés: 'Fale você conosco, e nós ouviremos; mas que Deus não fale conosco, para que não morramos.'",
-      "references": [],
-      "comentario": "O povo pede a Moisés que seja o mediador, pois temem morrer se Deus falar diretamente com eles. A mediação é necessária por causa da santidade de Deus.",
-      "temas": ["Moisés", "mediação", "temor", "morte", "santidade divina"],
-      "personagens": ["Moisés"]
+      "parafrase": "Então, todos os israelitas, tomados pelo terror, correram para longe da base da montanha, gritando para Moisés: 'Fale o Senhor conosco, e nós faremos tudo o que Ele mandar! Mas, por favor, não deixe que Deus fale conosco diretamente outra vez, pois morreremos com a intensidade da Sua voz!'",
+      "referencias": [
+        "Gálatas 3:19",
+        "Deuteronômio 5:25"
+      ],
+      "comentario": "O povo, diante da manifestação direta, demonstra que, embora desejem a lei, não suportam o acesso direto ao santo. Eles pedem um mediador, reconhecendo a distância intransponível entre a glória e sua fragilidade.",
+      "temas": [
+        "Mediação",
+        "Medo da Presença",
+        "Submissão à Lei"
+      ],
+      "personagens": [
+        "Povo de Israel",
+        "Moisés"
+      ]
     },
     "20": {
-      "parafrase": "E Moisés disse ao povo: 'Não temam; pois Deus veio para prová-los, e para que o seu temor esteja diante de seus olhos, para que vocês não pequem.'",
-      "references": [],
-      "comentario": "Moisés encoraja o povo a não temer, pois Deus veio para prová-los e para que o temor a Ele os impeça de pecar. O temor a Deus é para a obediência.",
-      "temas": ["Moisés", "ausência de medo", "prova", "temor a Deus", "pecado", "obediência"],
-      "personagens": ["Moisés"]
+      "parafrase": "Moisés, com firmeza, os tranquilizou: 'Não tenham medo! Deus veio até vocês com este propósito terrível apenas para testá-los, para que vocês mantenham o temor d'Ele em seus corações e, assim, nunca quebrem os Seus mandamentos.'",
+      "referencias": [
+        "Deuteronômio 13:2-3",
+        "1 Pedro 1:17"
+      ],
+      "comentario": "Moisés explica que o medo não é para paralisar, mas para incentivar a obediência contínua (temor reverencial). O teste serve para solidificar a obediência e proteger a relação de aliança.",
+      "temas": [
+        "Propósito do Teste",
+        "Temor Reverencial",
+        "Consolidação da Lei"
+      ],
+      "personagens": [
+        "Moisés",
+        "Deus"
+      ]
     },
     "21": {
-      "parafrase": "E o povo ficou de longe, e Moisés se aproximou da escuridão espessa onde Deus estava.",
-      "references": [],
-      "comentario": "O povo permanece de longe, enquanto Moisés se aproxima da escuridão onde Deus está. Moisés é o único que pode se aproximar de Deus em Sua glória.",
-      "temas": ["povo", "Moisés", "escuridão", "presença divina", "proximidade"],
-      "personagens": ["Moisés"]
+      "parafrase": "Assim, o povo permaneceu a uma distância segura, enquanto Moisés, o líder e mediador, se aproximou da densa nuvem escura de onde a glória de Deus emanava.",
+      "referencias": [
+        "Êxodo 24:18",
+        "Hebreus 12:21"
+      ],
+      "comentario": "Moisés, mais uma vez, assume a posição de intercessor, avançando para o lugar onde a glória reside, enquanto o povo permanece em observância à sua instrução anterior.",
+      "temas": [
+        "Mediação",
+        "Proximidade de Moisés",
+        "Nuvem de Glória"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "22": {
-      "parafrase": "E o Senhor disse a Moisés: 'Assim você dirá aos filhos de Israel: Vocês viram que eu falei com vocês do céu.'",
-      "references": [],
-      "comentario": "Deus lembra a Israel que Ele falou com eles do céu, confirmando a origem divina da Lei. A revelação é celestial.",
-      "temas": ["Deus", "céu", "Palavra de Deus", "revelação", "origem divina"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "Então, Deus deu a Moisés instruções adicionais sobre como deveriam ser construídos os altares para o culto, especialmente aqueles destinados aos sacrifícios queimados, dizendo: 'Você dirá aos israelitas o seguinte sobre os altares de terra que deverão Me levantar.'",
+      "referencias": [
+        "Levítico 1:1-2",
+        "Deuteronômio 12:5"
+      ],
+      "comentario": "A transição para as leis de culto material (altares) mostra que a vida ética (os Dez Mandamentos) está intrinsecamente ligada à vida litúrgica. O povo não deveria construir altares de pedra talhada, mas de terra batida.",
+      "temas": [
+        "Culto",
+        "Altare",
+        "Instruções Rituais"
+      ],
+      "personagens": [
+        "Deus",
+        "Moisés"
+      ]
     },
     "23": {
-      "parafrase": "'Vocês não farão comigo deuses de prata, nem farão para si deuses de ouro.'",
-      "referencias": [],
-      "comentario": "Deus proíbe a criação de deuses de prata ou ouro, reiterando o mandamento contra a idolatria. A adoração deve ser exclusiva a Deus.",
-      "temas": ["deuses de prata", "deuses de ouro", "idolatria", "proibição", "exclusividade"],
-      "personagens": ["Deus"]
+      "parafrase": "'Se você for Me construir um altar feito de pedras inteiras, tome o cuidado de jamais usar ferramentas de metal, como cinzéis ou martelos, sobre essas pedras.'",
+      "referencias": [
+        "Deuteronômio 27:5",
+        "Josué 8:31"
+      ],
+      "comentario": "A proibição de usar instrumentos de ferro ('b'arzel') sugere que o altar, símbolo da comunhão com Deus, deve ser construído de forma natural, sem a 'interferência' da tecnologia humana que civiliza e modifica a natureza de forma agressiva.",
+      "temas": [
+        "Construção do Altar",
+        "Simplicidade Ritual",
+        "Proibição de Ferro"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "24": {
-      "parafrase": "'Um altar de terra você fará para mim, e sobre ele você sacrificará os seus holocaustos e as suas ofertas de paz, as suas ovelhas e os seus bois; em todo lugar onde eu fizer o meu nome ser lembrado, eu virei a você e o abençoarei.'",
-      "references": [],
-      "comentario": "Deus instrui a construção de um altar de terra para sacrifícios, prometendo abençoar em todo lugar onde Seu nome for lembrado. A adoração é simples e acessível.",
-      "temas": ["altar de terra", "holocaustos", "ofertas de paz", "nome de Deus", "bênção"],
-      "personagens": ["Deus"]
+      "parafrase": "Para Me erguer um altar de terra, você deve usar pedras brutas e não trabalhadas. Então, sobre essa base, você deverá oferecer seus sacrifícios de queima total, e também suas ofertas de paz, como sinal de comunhão.",
+      "referencias": [
+        "Levítico 1:3",
+        "2 Samuel 24:25"
+      ],
+      "comentario": "O altar de terra (ou pedras naturais) contrasta com os altares complexos de outras culturas. O sacrifício de queima total (Holocausto) e a oferta pacífica (Shelamim) estabelecem o padrão sacrificial inicial.",
+      "temas": [
+        "Oferta Queimada",
+        "Oferta de Paz",
+        "Adoração Primitiva"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "25": {
-      "parafrase": "'E se você me fizer um altar de pedras, você não o construirá de pedras lavradas; pois se você levantar a sua ferramenta sobre ele, você o profanará.'",
-      "references": [],
-      "comentario": "Se um altar de pedras for construído, ele não deve ser feito de pedras lavradas, para não profaná-lo. A simplicidade e a pureza são valorizadas na adoração.",
-      "temas": ["altar de pedras", "pedras lavradas", "profanação", "simplicidade", "pureza"],
-      "personagens": ["Deus"]
+      "parafrase": "E se você usar pedras naturais, você deve ter um cuidado extremo para que, ao construir a plataforma do altar, você não pise sobre ela. Pois se você subir, estará profanando o lugar onde o sangue do sacrifício será derramado em sua honra.",
+      "referencias": [
+        "Levítico 9:22",
+        "Isaías 6:1"
+      ],
+      "comentario": "A proibição de pisar no altar é uma norma de santidade. O acesso ao lugar de expiação e encontro com Deus deve ser feito com reverência, subindo por rampas ou degraus, e não diretamente sobre a estrutura onde o sagrado se manifesta.",
+      "temas": [
+        "Santidade do Altar",
+        "Respeito ao Lugar Santo",
+        "Acesso ao Sagrado"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "26": {
-      "parafrase": "'Nem você subirá por degraus ao meu altar, para que a sua nudez não seja descoberta sobre ele.'",
-      "references": [],
-      "comentario": "Não se deve subir por degraus ao altar, para que a nudez não seja descoberta. Isso enfatiza a reverência e a modéstia na adoração a Deus.",
-      "temas": ["degraus", "altar", "nudez", "reverência", "modéstia"],
-      "personagens": ["Deus"]
+      "parafrase": "Moisés também recebeu a instrução clara de que não deveria subir ao altar de pedras brutas (não lavradas ou talhadas com ferramentas de metal) para oferecer sacrifícios em degraus. Deus estabeleceu um princípio de santidade que se estendia até mesmo à estrutura física do local de adoração: a ascensão ao lugar sagrado deveria ser feita de maneira digna, sem usar uma escada de degraus que sugerisse uma subida gradual e artificial, mas sim através de uma rampa ou de um plano inclinado, preservando a reverência e a pureza do ato sacrificial.",
+      "referencias": [
+        "Levitico 11:44",
+        "Mateus 17:1-5"
+      ],
+      "comentario": "O mandamento em Êxodo 20:26 proíbe que o altar seja construído em degraus (hebraico: \", ma'alot). A proibição visa evitar a ideia de que o sacerdote estaria subindo em degraus para alcançar Deus ou o altar, o que poderia ser interpretado como uma tentativa humana de se elevar espiritualmente por mérito próprio ou por meio de um artifício. O altar deve ser construído de forma que o acesso seja direto e unificado, simbolizando que a aproximação a Deus é pela graça, não por esforço em degraus. A alternativa implícita era uma rampa contínua. Isso ressalta a pureza do culto e a transcendência de Deus.",
+      "temas": [
+        "Santidade do Culto",
+        "Pureza do Altar",
+        "Proibição de Escadas"
+      ],
+      "personagens": [
+        "Moisés",
+        "Deus"
+      ]
     }
   }
 }

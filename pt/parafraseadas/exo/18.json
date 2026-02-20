@@ -1,187 +1,481 @@
 {
   "livro": "Êxodo",
   "capitulo": 18,
-  "contexto_historico": "Este capítulo de Êxodo descreve a visita de Jetro, sogro de Moisés, ao acampamento de Israel no deserto. Jetro, um sacerdote de Midiã, ouve sobre as grandes coisas que Deus fez por Israel e vem para se alegrar com eles. Ele observa Moisés julgando o povo o dia todo e o aconselha a delegar responsabilidades a homens capazes, para que a carga não seja muito pesada para ele sozinho. Moisés aceita o conselho de Jetro e implementa um sistema de juízes. O capítulo enfatiza a importância da sabedoria na liderança, a necessidade de delegar tarefas e a providência de Deus em usar conselhos externos para o bem de Seu povo.",
-  "bloco_tematico": "A Visita de Jetro e o Conselho para a Organização da Liderança",
+  "contexto_historico": "Após a libertação dramática do Egito (Êxodo 1-15), os israelitas estão em jornada pelo deserto, enfrentando os desafios logísticos e espirituais da peregrinação. O povo está impaciente, duvidando da liderança de Moisés e da fidelidade de Deus. Este capítulo ocorre logo após a chegada ao Monte Sinai (ou Horebe), onde a aliança será formalizada. A preocupação imediata é a provisão básica: comida e água. Este momento testa a fé recém-adquirida no Deus que os tirou da escravidão, exigindo uma dependência diária.",
+  "bloco_tematico": "A Provisão Divina e a Estruturação da Aliança: O Deserto e o Maná 🏜️🍞",
   "versiculos": {
     "1": {
-      "parafrase": "Ora, Jetro, o sacerdote de Midiã, sogro de Moisés, ouviu falar de tudo o que Deus havia feito por Moisés e por Israel, seu povo, e como o Senhor havia tirado Israel do Egito.",
-      "referencias": [],
-      "comentario": "Jetro, sogro de Moisés, ouve sobre as grandes obras de Deus em favor de Israel e de Moisés. Sua vinda é motivada pelo reconhecimento do poder divino.",
-      "temas": ["Jetro", "sogro", "obras de Deus", "reconhecimento", "libertação"],
-      "personagens": ["Jetro", "Moisés"]
+      "parafrase": "Assim que Moisés terminou de falar com seu sogro, Jetro, ele se preparou para a longa jornada de volta. O Senhor o chamou em uma visão, dizendo-lhe: 'Moisés, volte agora para o Egito, pois aqueles egípcios que queriam matar você já morreram. Livre-se de todos os seus medos; agora você pode ir'.",
+      "referencias": [
+        "Êxodo 4:18",
+        "Números 10:29"
+      ],
+      "comentario": "O versículo marca o ponto de inflexão da missão de Moisés. A permissão de retornar é dada por Deus, indicando que o obstáculo maior (o Faraó, que agora estaria mais enfraquecido pela passagem do tempo e pelas possíveis mortes ocorridas, incluindo a do seu filho, embora este detalhe não seja confirmado aqui) foi removido ou neutralizado. A ordem é imperativa: 'Volte'.",
+      "temas": [
+        "Chamado de Deus",
+        "Retorno ao Egito",
+        "Segurança divina"
+      ],
+      "personagens": [
+        "Moisés",
+        "Deus"
+      ]
     },
     "2": {
-      "parafrase": "E Jetro, sogro de Moisés, pegou Zípora, a esposa de Moisés, depois que ele a havia enviado de volta,",
-      "referencias": [],
-      "comentario": "Jetro traz Zípora, a esposa de Moisés, e seus filhos, que haviam sido enviados de volta por Moisés. A reunião familiar é um momento de alegria.",
-      "temas": ["Jetro", "Zípora", "esposa", "reunião familiar", "alegria"],
-      "personagens": ["Jetro", "Moisés", "Zípora"]
+      "parafrase": "Jetro, seu sogro, insistiu com Moisés, dizendo: 'Vá em paz! Tudo o que o Senhor o abençoou para fazer, faça com coragem e dedicação'.",
+      "referencias": [
+        "Gênesis 44:29",
+        "Jó 5:24"
+      ],
+      "comentario": "Jetro, um sacerdote de Midiã (um não-israelita), oferece uma bênção paternal e um encorajamento prático. É notável que ele reconhece a obra de Deus na vida de Moisés, mesmo antes de conhecer Yahweh plenamente, usando o termo geral 'o Senhor' (YHWH, que ele pode ter entendido através da fé de Moisés).",
+      "temas": [
+        "Bênção e despedida",
+        "Reconhecimento da obra de Deus",
+        "Sucesso na missão"
+      ],
+      "personagens": [
+        "Moisés",
+        "Jetro"
+      ]
     },
     "3": {
-      "parafrase": "e seus dois filhos; dos quais o nome de um era Gérson, pois ele disse: 'Eu fui um estrangeiro em terra estranha';
+      "parafrase": "Moisés pegou sua esposa, Zipora, e seus dois filhos, e os colocou sobre os jumentos. Então, ele partiu, voltando à terra do Egito, levando consigo a vara de Deus em suas mãos, o instrumento de seus milagres.",
+      "referencias": [
+        "Êxodo 4:20",
+        "Êxodo 7:8-12"
+      ],
+      "comentario": "O foco volta para a família e o símbolo de sua autoridade: a vara. Este objeto, que realizou sinais no Monte Horebe, é agora o emblema de sua autoridade perante Faraó e o povo. A jornada é retomada com a família, demonstrando a responsabilidade de Moisés.",
+      "temas": [
+        "Família",
+        "Símbolos de autoridade",
+        "Viagem"
+      ],
+      "personagens": [
+        "Moisés",
+        "Zipora",
+        "Filhos de Moisés"
+      ]
+    },
     "4": {
-      "parafrase": "e o nome do outro era Eliézer, pois ele disse: 'O Deus de meu pai foi a minha ajuda, e me livrou da espada do Faraó.'",
-      "referencias": [],
-      "comentario": "Os nomes dos filhos de Moisés, Gérson (estrangeiro) e Eliézer (Deus é minha ajuda), refletem as experiências de Moisés e a providência divina em sua vida. Os nomes são memoriais.",
-      "temas": ["Gérson", "Eliézer", "estrangeiro", "ajuda divina", "livramento", "nomes"],
-      "personagens": ["Moisés"]
+      "parafrase": "Moisés também disse a seu sogro: 'Se eu encontrar algum favor aos seus olhos, peço-lhe que me dê cartas de recomendação para que eu possa seguir para o Egito. Eu preciso de uma autorização para ir e falar com o Faraó em nome do povo de Israel'.",
+      "referencias": [
+        "Gênesis 32:4-5",
+        "2 Coríntios 3:1"
+      ],
+      "comentario": "Moisés pede uma carta de Jetro para legitimar sua posição perante o Faraó, talvez como um diplomata vindo de uma nação vizinha (Midiã), mesmo que o poder real venha de Deus. É um ato de prudência humana ao lado da obediência divina.",
+      "temas": [
+        "Legitimidade",
+        "Diplomacia",
+        "Prudência"
+      ],
+      "personagens": [
+        "Moisés",
+        "Jetro"
+      ]
     },
     "5": {
-      "parafrase": "E Jetro, sogro de Moisés, veio a Moisés no deserto, onde ele estava acampado, no monte de Deus.",
-      "referencias": [],
-      "comentario": "Jetro encontra Moisés no deserto, no monte de Deus (Horebe/Sinai), um local significativo para a revelação divina. O encontro é importante para a liderança de Moisés.",
-      "temas": ["Jetro", "Moisés", "deserto", "monte de Deus", "encontro"],
-      "personagens": ["Jetro", "Moisés"]
+      "parafrase": "Jetro respondeu: 'Vá em paz'. E Moisés seguiu o conselho. Naquele tempo, Deus havia instruído Moisés sobre o que fazer, e foi então que Moisés se preparou para encontrar o Faraó.",
+      "referencias": [
+        "Êxodo 3:12",
+        "Salmos 119:9"
+      ],
+      "comentario": "Mais uma vez, Jetro dá sua bênção. O texto enfatiza que, apesar de todo o conselho humano, o roteiro de ação de Moisés era ditado por Deus. A preparação final para o confronto com o Egito está completa.",
+      "temas": [
+        "Obediência",
+        "Direção divina",
+        "Preparação"
+      ],
+      "personagens": [
+        "Jetro",
+        "Moisés",
+        "Deus"
+      ]
     },
     "6": {
-      "parafrase": "E ele disse a Moisés: 'Eu, seu sogro Jetro, vim a você, com sua esposa e seus dois filhos com ela.'",
-      "references": [],
-      "comentario": "Jetro se apresenta a Moisés, confirmando sua identidade e a presença de sua família. A formalidade é para o reconhecimento.",
-      "temas": ["Jetro", "Moisés", "identidade", "família", "formalidade"],
-      "personagens": ["Jetro", "Moisés"]
+      "parafrase": "Enquanto Moisés estava a caminho, Deus apareceu a ele no deserto e disse: 'Olhe, eu quero que você se lembre de tudo o que eu lhe mostrei e de todos os sinais que você realizou. Vá e reúna todos os anciãos de Israel, os líderes do povo'.",
+      "referencias": [
+        "Êxodo 4:1-9",
+        "Deuteronômio 31:6"
+      ],
+      "comentario": "Deus reafirma a comissão e insiste que Moisés se aproprie das evidências de seu poder (os sinais). O próximo passo não é confrontar o Faraó, mas sim consolidar a liderança interna de Israel, chamando os 'Zekenim' (anciãos), que representam a autoridade patriarcal.",
+      "temas": [
+        "Reafirmação da missão",
+        "Liderança de Israel",
+        "Memória dos sinais"
+      ],
+      "personagens": [
+        "Deus",
+        "Moisés"
+      ]
     },
     "7": {
-      "parafrase": "E Moisés saiu ao encontro de seu sogro, e se inclinou, e o beijou; e eles perguntaram um ao outro sobre o seu bem-estar; e eles entraram na tenda.",
-      "references": [],
-      "comentario": "Moisés demonstra respeito e afeto por seu sogro, inclinando-se e beijando-o. A troca de saudações e a entrada na tenda indicam a intimidade e a hospitalidade.",
-      "temas": ["Moisés", "respeito", "afeto", "hospitalidade", "intimidade"],
-      "personagens": ["Moisés", "Jetro"]
+      "parafrase": "Moisés então se dirigiu a eles e lhes transmitiu esta mensagem direta de Deus: 'Reúnam-se, pois o tempo chegou! O Deus de seus pais, o Deus de Abraão, Isaque e Jacó, me enviou a vocês para dizer: Eu vi o que está acontecendo com vocês no Egito e como estão sofrendo muito com a opressão'.",
+      "referencias": [
+        "Gênesis 15:13-14",
+        "Êxodo 3:16"
+      ],
+      "comentario": "A transmissão da mensagem é feita com uma ênfase poderosa na linhagem da aliança ('Deus de Abraão, Isaque e Jacó'). Este é o argumento teológico central: a promessa feita aos patriarcas está prestes a ser cumprida através de Moisés.",
+      "temas": [
+        "Aliança Patriarcal",
+        "Identidade de Deus",
+        "Visão do sofrimento"
+      ],
+      "personagens": [
+        "Moisés",
+        "Anciãos de Israel",
+        "Abraão",
+        "Isaque",
+        "Jacó"
+      ]
     },
     "8": {
-      "parafrase": "E Moisés contou ao seu sogro tudo o que o Senhor havia feito ao Faraó e aos egípcios por causa de Israel, e todo o trabalho que lhes havia acontecido no caminho, e como o Senhor os havia livrado.",
-      "references": [],
-      "comentario": "Moisés relata a Jetro todas as grandes obras de Deus em favor de Israel, incluindo as pragas, a libertação e os livramentos no deserto. O testemunho é para a glória de Deus.",
-      "temas": ["Moisés", "testemunho", "obras de Deus", "libertação", "livramento", "glória a Deus"],
-      "personagens": ["Moisés", "Jetro"]
+      "parafrase": "E eu decidi resgatá-los das mãos dos egípcios, tirando-os dessa terra miserável e levando-os para uma terra boa e vasta, uma terra que jorra leite e mel, o lugar prometido àqueles que vieram antes de vocês, como Canã, Hititas, Amorreus, Perizeus,:'', Hivitas e Jebuseus.'",
+      "referencias": [
+        "Êxodo 3:8",
+        "Deuteronômio 6:3"
+      ],
+      "comentario": "O texto reitera a promessa da Terra Prometida, usando a descrição clássica da fertilidade ('leite e mel'). A lista das nações cananeias serve para demarcar o território geográfico que Deus está doando, estabelecendo o escopo da futura conquista.",
+      "temas": [
+        "Terra Prometida",
+        "Libertação (Exodo)",
+        "Herança de Abraão"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "9": {
-      "parafrase": "E Jetro se alegrou por todo o bem que o Senhor havia feito a Israel, a quem Ele havia livrado da mão dos egípcios.",
-      "references": [],
-      "comentario": "Jetro se alegra com as bênçãos de Deus sobre Israel, mostrando sua fé e seu reconhecimento do poder divino. A alegria é genuína e compartilhada.",
-      "temas": ["Jetro", "alegria", "bênçãos", "poder divino", "reconhecimento"],
-      "personagens": ["Jetro"]
+      "parafrase": "Moisés terminou de falar, e o povo acreditou. Eles ouviram sua mensagem e se curvaram em adoração, agradecendo a Deus pela libertação que estava por vir.",
+      "referencias": [
+        "Êxodo 4:31",
+        "Atos 7:34"
+      ],
+      "comentario": "Este versículo é crucial. A primeira audiência de Moisés o aceita imediatamente. A fé do povo é estabelecida com base na autoridade divina da mensagem, não apenas no poder de Moisés.",
+      "temas": [
+        "Fé do povo",
+        "Reconhecimento da autoridade",
+        "Adoração"
+      ],
+      "personagens": [
+        "Moisés",
+        "Povo de Israel"
+      ]
     },
     "10": {
-      "parafrase": "E Jetro disse: 'Bendito seja o Senhor, que os livrou da mão dos egípcios e da mão do Faraó, que livrou o povo de debaixo da mão dos egípcios.'",
-      "references": [],
-      "comentario": "Jetro bendiz a Deus pelo livramento de Israel, reconhecendo Sua soberania sobre o Faraó e os egípcios. Sua confissão é de louvor e adoração.",
-      "temas": ["Jetro", "bênção", "livramento", "soberania divina", "louvor"],
-      "personagens": ["Jetro"]
+      "parafrase": "Então, Moisés e os anciãos foram até o Faraó, o governante do Egito, e lhe disseram de maneira firme e respeitosa: 'Assim diz o Senhor, o Deus dos Hebreus: Permita que nosso povo vá três dias de jornada para o deserto, a fim de fazerem um sacrifício solene ao Senhor, nosso Deus!'",
+      "referencias": [
+        "Êxodo 3:18",
+        "Salmos 136:23"
+      ],
+      "comentario": "O confronto inicial. A exigência é modesta (três dias de festa religiosa no deserto), visando estabelecer a soberania de Yahweh sobre a autoridade egípcia, antes da reivindicação total da saída permanente.",
+      "temas": [
+        "Confronto com Faraó",
+        "Soberania de Deus",
+        "Pedido de libertação temporária"
+      ],
+      "personagens": [
+        "Moisés",
+        "Anciãos de Israel",
+        "Faraó"
+      ]
     },
     "11": {
-      "parafrase": "'Agora eu sei que o Senhor é maior do que todos os deuses; pois naquilo em que eles agiram com orgulho, Ele estava acima deles.'",
-      "references": [],
-      "comentario": "Jetro confessa que o Senhor é maior do que todos os deuses, pois Ele humilhou o orgulho dos egípcios. Sua confissão é de reconhecimento da superioridade de Deus.",
-      "temas": ["conhecimento de Deus", "superioridade divina", "orgulho", "humilhação", "confissão"],
-      "personagens": ["Jetro"]
+      "parafrase": "Mas o Faraó respondeu com total desprezo e arrogância: 'Quem é este Senhor, para que eu deva obedecer à sua voz e liberar Israel de minhas mãos? Eu, pessoalmente, não conheço este Deus, e certamente não deixarei o povo de Israel sair daqui!'",
+      "referencias": [
+        "Êxodo 5:2",
+        "Isaías 37:23"
+      ],
+      "comentario": "Esta é a declaração fundamental da soberba faraônica. O verbo hebraico para 'conhecer' (yada') aqui implica submissão e reconhecimento da autoridade. Faraó nega o conhecimento prático e a autoridade de Yahweh.",
+      "temas": [
+        "Arrogância de Faraó",
+        "Negação de Deus",
+        "Autoridade terrena versus divina"
+      ],
+      "personagens": [
+        "Faraó",
+        "Senhor (YHWH)"
+      ]
     },
     "12": {
-      "parafrase": "E Jetro, sogro de Moisés, pegou um holocausto e sacrifícios para Deus; e Arão veio, e todos os anciãos de Israel, para comer pão com o sogro de Moisés diante de Deus.",
-      "references": [],
-      "comentario": "Jetro oferece um holocausto e sacrifícios a Deus, e Arão e os anciãos de Israel comem pão com ele. Isso simboliza a comunhão e a adoração conjunta a Deus.",
-      "temas": ["Jetro", "holocausto", "sacrifícios", "comunhão", "adoração"],
-      "personagens": ["Jetro", "Arão"]
+      "parafrase": "E eles responderam: 'O Deus dos Hebreus nos encontrou e nos ordenou ir ao deserto para oferecer sacrifícios ao Senhor. Precisamos ir, pois se não formos, ele poderá nos ferir com pragas ou nos atacar com a espada!'.",
+      "referencias": [
+        "Êxodo 3:18",
+        "1 Samuel 15:22"
+      ],
+      "comentario": "Moisés e os anciãos apresentam o ultimato: a desobediência resultará em intervenção divina destrutiva. Eles estão apresentando a consequência teológica da recusa de Faraó.",
+      "temas": [
+        "Consequências da desobediência",
+        "Ultimato divino",
+        "Poder destrutivo de Deus"
+      ],
+      "personagens": [
+        "Moisés",
+        "Anciãos de Israel",
+        "Senhor"
+      ]
     },
     "13": {
-      "parafrase": "E aconteceu que, no dia seguinte, Moisés se sentou para julgar o povo; e o povo ficou em pé diante de Moisés desde a manhã até a tarde.",
-      "references": [],
-      "comentario": "Moisés se senta para julgar o povo o dia todo, mostrando a grande demanda sobre sua liderança. A carga é pesada e exaustiva.",
-      "temas": ["Moisés", "julgamento", "liderança", "carga", "exaustão"],
-      "personagens": ["Moisés"]
+      "parafrase": "Mas o Faraó, irritado com a insistência, virou-se para eles e gritou: 'Por que vocês, israelitas, estão tentando me impedir de realizar meu trabalho? Voltem imediatamente para suas tarefas árduas!'",
+      "referencias": [
+        "Êxodo 6:9",
+        "Romanos 9:18"
+      ],
+      "comentario": "A reação de Faraó é de fúria e possessividade. Ele vê o pedido como um ataque direto à sua economia e controle ('impedir de realizar meu trabalho'). O povo de Israel é visto apenas como mão de obra escrava.",
+      "temas": [
+        "Ira de Faraó",
+        "Opressão",
+        "Domínio econômico"
+      ],
+      "personagens": [
+        "Faraó"
+      ]
     },
     "14": {
-      "parafrase": "E quando o sogro de Moisés viu tudo o que ele fazia pelo povo, ele disse: 'O que é isso que você está fazendo pelo povo? Por que você se senta sozinho, e todo o povo fica em pé diante de você desde a manhã até a tarde?'",
-      "references": [],
-      "comentario": "Jetro observa a carga de trabalho de Moisés e o questiona sobre a ineficiência do sistema. Sua preocupação é com o bem-estar de Moisés e do povo.",
-      "temas": ["Jetro", "observação", "carga de trabalho", "ineficiência", "preocupação"],
-      "personagens": ["Jetro", "Moisés"]
+      "parafrase": "Então, Faraó ordenou aos supervisores egípcios: 'Não permitam que eles coletem a palha para fazer tijolos. De agora em diante, eles mesmos terão que ir buscar o material para seus tijolos!'.",
+      "referencias": [
+        "Êxodo 5:16",
+        "Lamentações 3:9"
+      ],
+      "comentario": "Este é o primeiro ato de retaliação direta. Ao remover a palha (que servia como agente ligante e combustível), Faraó torna a produção de tijolos exponencialmente mais difícil, aumentando o sofrimento dos escravos.",
+      "temas": [
+        "Retaliação",
+        "Aumento do fardo",
+        "Tijolos e palha"
+      ],
+      "personagens": [
+        "Faraó",
+        "Supervisores egípcios"
+      ]
     },
     "15": {
-      "parafrase": "E Moisés disse ao seu sogro: 'Porque o povo vem a mim para consultar a Deus.'",
-      "references": [],
-      "comentario": "Moisés explica que o povo vem a ele para consultar a Deus, mostrando sua função como mediador entre Deus e o povo. Sua responsabilidade é grande.",
-      "temas": ["Moisés", "consulta", "mediação", "responsabilidade"],
-      "personagens": ["Moisés"]
+      "parafrase": "Os capatazes israelitas, sobrecarregados com a nova ordem, foram imediatamente procurar Moisés e Arão e perguntaram, cheios de desespero: 'Por que vocês nos trouxeram essa aflição? Vocês vieram nos dizer que Deus os enviou, mas Faraó nos ouve e nos trata pior do que antes!'",
+      "referencias": [
+        "Êxodo 6:21",
+        "Lucas 19:23"
+      ],
+      "comentario": "A reação do povo não é de gratidão, mas de frustração e acusação contra seus libertadores. Eles sentem que a intervenção de Moisés piorou a situação imediata, um padrão comum em momentos de grande transição de fé.",
+      "temas": [
+        "Desespero do povo",
+        "Acusação contra Moisés",
+        "Piora aparente"
+      ],
+      "personagens": [
+        "Capatazes israelitas",
+        "Moisés",
+        "Arão",
+        "Faraó"
+      ]
     },
     "16": {
-      "parafrase": "'Quando eles têm uma questão, eles vêm a mim, e eu julgo entre um e outro, e lhes faço saber os estatutos de Deus e as suas leis.'",
-      "references": [],
-      "comentario": "Moisés julga as questões do povo e lhes ensina os estatutos e as leis de Deus. Sua função é de juiz e de mestre.",
-      "temas": ["julgamento", "estatutos", "leis", "ensino", "função"],
-      "personagens": ["Moisés"]
+      "parafrase": "Os capatazes se queixaram a Faraó: 'Não fazemos ideia do porquê o senhor está tratando seus servos de forma tão cruel. A palha nos foi negada, mas ainda se espera de nós a cota de tijolos que sempre produzimos!'.",
+      "referencias": [
+        "Jó 19:7",
+        "Salmos 69:20"
+      ],
+      "comentario": "Aqui, os capatazes (que eram israelitas, mas supervisionavam o trabalho) tentam usar a lógica administrativa para apelar à razão do Faraó, focando na impossibilidade logística de cumprir a cota sem o material essencial.",
+      "temas": [
+        "Apelação à lógica",
+        "Injustiça flagrante",
+        "Cota de tijolos"
+      ],
+      "personagens": [
+        "Capatazes israelitas",
+        "Faraó"
+      ]
     },
     "17": {
-      "parafrase": "E o sogro de Moisés lhe disse: 'A coisa que você está fazendo não é boa.'",
-      "references": [],
-      "comentario": "Jetro, com sabedoria, diz a Moisés que seu método de julgamento não é bom, pois é insustentável. Seu conselho é para a eficiência.",
-      "temas": ["Jetro", "conselho", "ineficiência", "sabedoria"],
-      "personagens": ["Jetro", "Moisés"]
+      "parafrase": "Eles continuaram a argumentar: 'Vossos servos estão sendo açoitados porque não há palha suficiente! A culpa, na verdade, é do seu próprio povo, e não de nós!'.",
+      "referencias": [
+        "Deuteronômio 28:33",
+        "Miquéias 3:3"
+      ],
+      "comentario": "A queixa se torna uma acusação direta de que o Faraó e seu povo são os verdadeiros culpados pela interrupção da produção. O açoite ('golpeado') é o resultado direto da política real.",
+      "temas": [
+        "Culpa",
+        "Açoite",
+        "Interrupção do trabalho"
+      ],
+      "personagens": [
+        "Capatazes israelitas",
+        "Faraó"
+      ]
     },
     "18": {
-      "parafrase": "'Você certamente desfalecerá, tanto você quanto este povo que está com você; pois a coisa é muito pesada para você; você não pode fazê-la sozinho.'",
-      "references": [],
-      "comentario": "Jetro adverte Moisés que ele e o povo desfalecerão, pois a carga é muito pesada para ele sozinho. A advertência é para a prevenção da exaustão.",
-      "temas": ["desfalecimento", "carga pesada", "exaustão", "advertência"],
-      "personagens": ["Jetro", "Moisés"]
+      "parafrase": "Faraó lhes respondeu, zombando: 'Trabalho escravo é o que vocês querem! Por isso estão dizendo: 'Vamos sair e oferecer sacrifícios ao Senhor'. Vão trabalhar! A palha não será dada a vocês, mas a cota de tijolos deve ser cumprida na íntegra!'",
+      "referencias": [
+        "Isaías 58:3",
+        "Tiago 2:15-16"
+      ],
+      "comentario": "Faraó expõe o cerne de sua visão: para ele, a religiosidade do povo é apenas uma desculpa conveniente para a preguiça. Ele redefine o problema como uma falta de vontade de trabalhar, não uma falta de material. O 'sacrifício' é visto como lazer.",
+      "temas": [
+        "Zombaria real",
+        "Religião como desculpa",
+        "Trabalho forçado"
+      ],
+      "personagens": [
+        "Faraó"
+      ]
     },
     "19": {
-      "parafrase": "'Agora, ouça a minha voz; eu lhe darei conselho, e Deus estará com você. Seja você para o povo diante de Deus, para que você possa trazer as questões a Deus;
+      "parafrase": "Os supervisores egípcios viram que a situação era grave, pois os israelitas estavam em desespero ao saberem que não poderiam falhar na produção de tijolos sem sofrerem castigo.",
+      "referencias": [
+        "Provérbios 12:10",
+        "Gênesis 42:36"
+      ],
+      "comentario": "Os supervisores egípcios percebem o desespero ('mal') da situação. Eles são testemunhas da opressão e das duras consequências impostas pela ordem faraônica, mesmo que não se importem com a causa, apenas com a produtividade.",
+      "temas": [
+        "Desespero",
+        "Consequências imediatas",
+        "Vigilância do trabalho"
+      ],
+      "personagens": [
+        "Supervisores egípcios",
+        "Israelitas"
+      ]
+    },
     "20": {
-      "parafrase": "e você lhes ensinará os estatutos e as leis, e lhes mostrará o caminho em que devem andar e a obra que devem fazer.'",
-      "references": [],
-      "comentario": "Jetro aconselha Moisés a ser o representante do povo diante de Deus, ensinando-lhes os estatutos e as leis. Sua função é de mediador e de mestre.",
-      "temas": ["conselho", "mediação", "ensino", "estatutos", "leis"],
-      "personagens": ["Jetro", "Moisés"]
+      "parafrase": "Quando os capatazes israelitas estavam saindo de perto de Faraó, eles encontraram Moisés e Arão parados lá, e eles os confrontaram diretamente, dizendo: 'Que o Senhor olhe para vocês e os julgue! Vocês nos colocaram em uma situação terrível diante do Faraó e de seus servos, entregando-nos uma espada para nos matar, e o Senhor não os ouviu quando clamamos por ajuda!'",
+      "referencias": [
+        "Lamentações 2:20",
+        "Números 11:11"
+      ],
+      "comentario": "O povo volta sua ira e desespero contra Moisés e Arão. A expressão 'que o Senhor olhe para vocês e os julgue' é um lamento profundo, uma acusação de que a intervenção divina resultou em 'cheiro de morte' em vez de libertação imediata.",
+      "temas": [
+        "Confronto com líderes",
+        "Desespero e acusação",
+        "Julgamento"
+      ],
+      "personagens": [
+        "Capatazes israelitas",
+        "Moisés",
+        "Arão",
+        "Senhor"
+      ]
     },
     "21": {
-      "parafrase": "'Além disso, você selecionará de todo o povo homens capazes, tementes a Deus, homens de verdade, que odeiam a cobiça; e os porá sobre eles para serem chefes de milhares, chefes de centenas, chefes de cinquenta e chefes de dez.'",
-      "references": [],
-      "comentario": "Jetro aconselha Moisés a delegar responsabilidades a homens capazes, tementes a Deus, verdadeiros e que odeiam a cobiça. A delegação é para a eficiência e a justiça.",
-      "temas": ["delegação", "homens capazes", "temor a Deus", "verdade", "justiça", "cobiça"],
-      "personagens": ["Jetro", "Moisés"]
+      "parafrase": "Moisés, ao ouvir isso, voltou-se para o Senhor, profundamente perturbado, e perguntou: 'Senhor, por que o Senhor fez tanto mal a este povo? Por que o Senhor me enviou?'.",
+      "referencias": [
+        "Jonas 4:3",
+        "Jeremias 20:14"
+      ],
+      "comentario": "Moisés replica a queixa do povo, mas diretamente a Deus. Ele questiona a eficácia e a justiça de sua própria missão diante do sofrimento intensificado. É um momento de profunda crise de fé e liderança para Moisés.",
+      "temas": [
+        "Crise de Moisés",
+        "Questionamento de Deus",
+        "Sofrimento intensificado"
+      ],
+      "personagens": [
+        "Moisés",
+        "Senhor"
+      ]
     },
     "22": {
-      "parafrase": "'E que eles julguem o povo em todo o tempo; e acontecerá que toda questão grande eles trarão a você, mas toda questão pequena eles julgarão; assim será mais fácil para você, e eles carregarão o fardo com você.'",
-      "references": [],
-      "comentario": "Os juízes julgarão as questões pequenas, e as grandes serão levadas a Moisés. Isso aliviará a carga de Moisés e distribuirá a responsabilidade. A organização é para a eficiência.",
-      "temas": ["julgamento", "questões", "carga", "distribuição de responsabilidade", "eficiência"],
-      "personagens": ["Jetro", "Moisés"]
+      "parafrase": "Moisés então se queixou ao Senhor, dizendo: 'Desde que eu fui falar com o Faraó em seu nome, ele só fez mal a este povo. E, de fato, o Senhor não livrou seu povo de maneira alguma até agora!'",
+      "referencias": [
+        "Êxodo 5:23",
+        "Mateus 27:44"
+      ],
+      "comentario": "A reclamação de Moisés se torna mais específica: o mal foi introduzido *depois* de sua intervenção. Ele sente que o ato de trazer a palavra de Deus resultou em repressão, e não em alívio, questionando se Deus cumpriu Sua promessa de libertar ('livrar').",
+      "temas": [
+        "Aparência de fracasso",
+        "Cumprimento da promessa",
+        "Confronto com a autoridade"
+      ],
+      "personagens": [
+        "Moisés",
+        "Faraó",
+        "Senhor"
+      ]
     },
     "23": {
-      "parafrase": "'Se você fizer esta coisa, e Deus o ordenar, então você poderá suportar, e todo este povo também irá para o seu lugar em paz.'",
-      "references": [],
-      "comentario": "Jetro promete que, se Moisés seguir seu conselho e Deus o ordenar, ele poderá suportar a carga, e o povo terá paz. O conselho é sábio e para o bem de todos.",
-      "temas": ["conselho", "suporte", "paz", "sabedoria"],
-      "personagens": ["Jetro", "Moisés"]
+      "parafrase": "O Senhor, então, respondeu a Moisés: 'Agora você verá o que farei ao Faraó. Devido ao meu poder, ele será forçado a deixá-los ir. E mais, por causa do meu poder, ele não apenas os deixará sair, mas os expulsará de sua terra completamente!'",
+      "referencias": [
+        "Êxodo 6:1",
+        "Isaías 26:12"
+      ],
+      "comentario": "Deus reafirma a vitória vindoura, contrastando a percepção humana de fracasso. A promessa é ampliada: não será apenas uma permissão para sair, mas uma expulsão forçada pelo poder de Deus.",
+      "temas": [
+        "Promessa de intervenção",
+        "Poder de Deus",
+        "Expulsão forçada"
+      ],
+      "personagens": [
+        "Senhor",
+        "Moisés",
+        "Faraó"
+      ]
     },
     "24": {
-      "parafrase": "Então Moisés deu ouvidos à voz de seu sogro e fez tudo o que ele havia dito.",
-      "references": [],
-      "comentario": "Moisés ouve o conselho de Jetro e o implementa, mostrando sua humildade e sua sabedoria em aceitar ajuda. A obediência ao conselho é para o bem.",
-      "temas": ["Moisés", "obediência", "conselho", "humildade", "sabedoria"],
-      "personagens": ["Moisés", "Jetro"]
+      "parafrase": "E Deus continuou, falando com Moisés: 'Eu sou o Senhor. Eu me revelei a Abraão, a Isaque e a Jacó como El-Shaddai, o Deus Todo-Poderoso. Embora eu não tenha revelado meu nome sagrado, YHWH, a eles de forma clara, eu agora o farei a você!'",
+      "referencias": [
+        "Êxodo 3:14-15",
+        "Gênesis 17:1"
+      ],
+      "comentario": "Deus se apresenta com dois títulos: 'Eu Sou o Senhor' (YHWH, o Ser Eterno) e 'El-Shaddai' (Deus Todo-Poderoso, a quem os patriarcas conheciam). Este é o momento da revelação completa do Nome, garantindo a Moisés a base da sua autoridade: Aquele que É, envia.",
+      "temas": [
+        "Revelação do Nome (YHWH)",
+        "Aliança com os Patriarcas",
+        "Onipotência divina"
+      ],
+      "personagens": [
+        "Deus",
+        "Moisés",
+        "Abraão",
+        "Isaque",
+        "Jacó"
+      ]
     },
     "25": {
-      "parafrase": "E Moisés selecionou homens capazes de todo o Israel e os fez chefes sobre o povo, chefes de milhares, chefes de centenas, chefes de cinquenta e chefes de dez.",
-      "references": [],
-      "comentario": "Moisés seleciona homens capazes e os nomeia chefes, implementando o sistema de juízes. A organização é para a eficiência e a justiça.",
-      "temas": ["Moisés", "seleção", "chefes", "organização", "justiça"],
-      "personagens": ["Moisés"]
+      "parafrase": "Eu também estabeleci minha Aliança com eles, prometendo dar-lhes a terra de Canaã. Agora, eu me lembro da minha aliança e estou agindo para cumpri-la para o bem do meu povo oprimido no Egito!'",
+      "referencias": [
+        "Gênesis 15:18",
+        "Salmos 105:8-9"
+      ],
+      "comentario": "A ação divina é motivada pelo cumprimento da Aliança (*Brit*). Deus não está agindo de forma arbitrária, mas respondendo à sua própria promessa feita aos ancestrais. O sofrimento de Israel é o gatilho que aciona a fidelidade de Deus à sua palavra.",
+      "temas": [
+        "Fidelidade à Aliança",
+        "Memória de Deus",
+        "Justiça redentora"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "26": {
-      "parafrase": "E eles julgaram o povo em todo o tempo; a questão difícil eles traziam a Moisés, mas toda questão pequena eles julgavam a si mesmos.",
-      "references": [],
-      "comentario": "Os juízes julgam as questões pequenas, e as grandes são levadas a Moisés. O sistema funciona eficientemente, aliviando a carga de Moisés.",
-      "temas": ["julgamento", "questões", "eficiência", "carga"],
-      "personagens": ["Moisés"]
+      "parafrase": "Então Moisés instruiu o povo sobre a preparação para o grande dia. Ele ordenou que os homens fossem até as partes mais altas da montanha, onde Deus se manifestaria em glória, e estabeleceu limites muito claros e firmes. Era proibido a qualquer um sequer tocar na base da montanha, onde o fogo consumia e a escuridão envolvia a presença divina.  Qualquer pessoa, homem ou mulher, que ousasse transpor essa fronteira sagrada, mesmo por um instante, morreria instantaneamente. Era um aviso severo, para que a santidade de Deus fosse respeitada acima de todo desejo humano de proximidade imprudente. ⚡️",
+      "referencias": [
+        "Levítico 15:12",
+        "Números 1:48",
+        "Isaías 6:5"
+      ],
+      "comentario": "O versículo 26 estabelece a demarcação física da santidade. O hebraico para 'limite' ou 'fronteira' aqui é uma demarcação clara que não pode ser violada (Hebraico: 'gebul'). Esta ação de Moisés serve como um prenúncio do Antigo Pacto: a santidade de Deus é tão absoluta que a aproximação descuidada é fatal. Isso ecoa o princípio de que o pecado separa o homem da presença divina (Isaías 59:2). A proibição se aplica a todos ('homem ou mulher'), enfatizando a universalidade da necessidade de reverência perante o Santo.",
+      "temas": [
+        "Santidade de Deus",
+        "Obediência à Lei",
+        "Limites Sagrados"
+      ],
+      "personagens": [
+        "Moisés",
+        "Israelitas"
+      ]
     },
     "27": {
-      "parafrase": "E Moisés deixou seu sogro ir; e ele foi para sua própria terra.",
-      "references": [],
-      "comentario": "Moisés se despede de seu sogro Jetro, que retorna à sua própria terra. A visita de Jetro foi benéfica para Moisés e para Israel.",
-      "temas": ["Moisés", "Jetro", "despedida", "benefício"],
-      "personagens": ["Moisés", "Jetro"]
+      "parafrase": "Depois que as instruções foram dadas, um sacerdote ou um dos anciãos do povo tinha que subir a montanha. Essa pessoa deveria ir apenas até o ponto onde era seguro estar, para poder testemunhar o esplendor da glória do Senhor, mas sem se aproximar demais do centro da manifestação. A promessa era que, ao verem a majestade de Deus, eles não morreriam. Essa subida controlada era uma permissão especial, um privilégio concedido para que pudessem relatar ao povo a intensidade e o poder da teofania, confirmando a seriedade dos avisos dados anteriormente. ⛰️✨",
+      "referencias": [
+        "Êxodo 19:21",
+        "Números 4:15",
+        "Deuteronômio 4:3"
+      ],
+      "comentario": "Este versículo contrasta drasticamente com o anterior. Enquanto a maioria é proibida de tocar a montanha sob pena de morte, uma comissão específica (sacerdotes ou anciãos, representando a liderança) é autorizada a ascender parcialmente. O termo para 'subir' é 'alah'. O objetivo é testemunhar a glória ('kabod') de Deus, mas de uma distância segura. Isso prefigura o sacerdócio, que atuava como mediador entre o povo impuro e o Deus santo, permitindo uma interação mediada onde o contato direto era perigoso (como visto na morte de Nadabe e Abiú mais tarde).",
+      "temas": [
+        "Mediação",
+        "Glória Divina",
+        "Diferença entre o Sagrado e o Profano"
+      ],
+      "personagens": [
+        "Sacerdotes",
+        "Anciãos"
+      ]
     }
   }
 }

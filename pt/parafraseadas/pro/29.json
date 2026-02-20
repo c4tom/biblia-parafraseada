@@ -1,197 +1,463 @@
 {
   "livro": "Provérbios",
   "capitulo": 29,
-  "contexto_historico": "Este capítulo continua a coleção de provérbios de Salomão, oferecendo insights sobre a importância da disciplina, da justiça, da fala e da sabedoria na liderança. Ele contrasta a vida do justo com a do ímpio, enfatizando que as escolhas de caráter têm um impacto direto na sociedade, na família e no destino individual.",
-  "bloco_tematico": "Disciplina, Justiça e Liderança Sábia",
+  "contexto_historico": "O Livro de Provérbios, atribuído em grande parte à sabedoria de Salomão e outros sábios de Israel, serve como um manual prático para a vida piedosa e bem-sucedida. O capítulo 29 insere-se no bloco de provérbios atribuídos a Salomão, focando-se na aplicação imediata da justiça e da retidão nas relações interpessoais e na liderança. Este trecho enfatiza as consequências diretas de nossas ações e a importância de corrigir e educar, contrastando a estabilidade trazida pelo temor a Deus com a ruína causada pela impiedade e pela tirania. É um chamado à responsabilidade moral na esfera pública e privada. ⏳",
+  "bloco_tematico": "Justiça, Liderança e Consequências Imediatas ⚖️",
   "versiculos": {
     "1": {
-      "parafrase": "Aquele que, sendo muitas vezes repreendido, endurece a cerviz, será de repente destruído, e isso sem cura.",
-      "referencias": [],
-      "comentario": "O provérbio adverte sobre a teimosia e a resistência à correção. Aquele que se recusa a ser disciplinado enfrentará uma destruição súbita e irreversível. A humildade e a receptividade são essenciais para evitar a ruína.",
-      "temas": ["repreensão", "teimosia", "destruição", "humildade", "consequência"],
-      "personagens": []
+      "parafrase": "O homem que, mesmo após ter sido repetidamente repreendido e corrigido, teima em endurecer o pescoço, sofrerá uma ruína súbita e irreparável, como se tivesse levado um golpe fatal de um rei poderoso, sem possibilidade alguma de cura ou recuperação. É o fim abrupto para o teimoso recalcitrante. 💥",
+      "referencias": [
+        "Isaías 30:1",
+        "Jeremias 6:27"
+      ],
+      "comentario": "O termo hebraico para 'endurecer o pescoço' (הִשְׁרִישׁ, hishriysh) implica uma resistência obstinada e inflexível à autoridade ou ao conselho. A consequência não é gradual, mas um 'destruição' (שֶׁבֶר, shever) imediata e total, comparada à quebra de um vaso sob o comando de um soberano absoluto.",
+      "temas": [
+        "Consequências da Teimosia",
+        "A Autoridade da Repreensão",
+        "Destruição Súbita"
+      ],
+      "personagens": [
+        "O Homem Teimoso"
+      ]
     },
     "2": {
-      "parafrase": "Quando os justos estão no poder, o povo se alegra, mas quando o ímpio governa, o povo geme.",
-      "referencias": [],
-      "comentario": "O governo dos justos traz alegria e prosperidade para o povo, enquanto o governo dos ímpios traz sofrimento e opressão. A liderança justa é uma bênção para a nação.",
-      "temas": ["justiça", "governo", "alegria", "sofrimento", "liderança"],
-      "personagens": []
+      "parafrase": "Quando a retidão e a justiça florescem em abundância, a nação inteira se regozija e celebra com alegria; mas quando o ímpio assume o controle e o poder, o povo não tem para onde fugir e geme sob o fardo da opressão. 😞",
+      "referencias": [
+        "Provérbios 11:10",
+        "Isaías 3:4"
+      ],
+      "comentario": "Contrasta duas eras de governo: uma sob a égide da 'justiça' (צְדָקָה, tzedakah), que gera celebração (שָׂמֵחַ, sameach), e outra sob o domínio do perverso (רָשָׁע, rasha), que leva ao lamento (יִתְאַבֵּל, yit'abel) e ao desespero por refúgio.",
+      "temas": [
+        "Governo Justo vs. Governo Ímpio",
+        "Alegria Nacional",
+        "Opressão"
+      ],
+      "personagens": [
+        "O Justo",
+        "O Ímpio",
+        "O Povo"
+      ]
     },
     "3": {
-      "parafrase": "Aquele que ama a sabedoria alegra seu pai, mas o que anda com prostitutas desperdiça seus bens.",
-      "referencias": [],
-      "comentario": "A sabedoria do filho traz alegria ao pai, enquanto a imoralidade e a má companhia levam ao desperdício de bens e à ruína. As escolhas morais afetam a família e a prosperidade.",
-      "temas": ["sabedoria", "alegria", "imoralidade", "desperdício", "família"],
-      "personagens": []
+      "parafrase": "Aquele que ama a sabedoria e a disciplina, que aceita o ensino, traz satisfação ao coração de seu pai; mas quem despreza a correção e rejeita a instrução, anda em má companhia e se associa com libertinos. 🍻",
+      "referencias": [
+        "Provérbios 10:1",
+        "Lucas 15:13"
+      ],
+      "comentario": "A aceitação da sabedoria (חָכְמָה, chokhmah) é um sinal de honra filial. Inversamente, o desprezo pela repreensão leva à má associação ('companheiros de ladrões' ou 'dissipadores' no hebraico), indicando que a má conduta atrai companhias igualmente desordenadas.",
+      "temas": [
+        "Honra aos Pais",
+        "Influência das Companhias",
+        "Amor à Sabedoria"
+      ],
+      "personagens": [
+        "O Filho Sábio",
+        "O Pai"
+      ]
     },
     "4": {
-      "parafrase": "Um rei estabelece a terra pela justiça, mas o que ama subornos a derruba.",
-      "referencias": [],
-      "comentario": "A justiça é o fundamento de um governo estável e duradouro, enquanto a corrupção e o suborno destroem a nação. A integridade na liderança é essencial para a estabilidade social.",
-      "temas": ["rei", "justiça", "corrupção", "suborno", "estabilidade"],
-      "personagens": []
+      "parafrase": "Com o sustento da lei e da ordem (a justiça), o rei edifica e fortalece sua nação, trazendo prosperidade; mas o homem que só arrecada impostos e exige tributos sem justiça, apenas destrói sua própria obra com desmandos. 👑",
+      "referencias": [
+        "Provérbios 14:34",
+        "1 Reis 12:4"
+      ],
+      "comentario": "O rei (מֶלֶךְ, melekh) constrói (בָּנָה, banah) o reino através da aplicação correta da Torá ('Lei'). Em contraste, aquele que apenas exige tributos excessivos ('dar dízimos') arruína o que se propõe a erguer, mostrando a falha da tirania administrativa.",
+      "temas": [
+        "Liderança Justa",
+        "Administração Pública",
+        "Prosperidade"
+      ],
+      "personagens": [
+        "O Rei"
+      ]
     },
     "5": {
-      "parafrase": "Um homem que lisonjeia seu próximo arma uma rede para os seus pés.",
-      "referencias": [],
-      "comentario": "A lisonja é uma forma de engano que visa manipular o próximo para benefício próprio. Ela é uma armadilha que pode levar à queda. A sinceridade é valorizada.",
-      "temas": ["lisonja", "engano", "manipulação", "armadilha"],
-      "personagens": []
+      "parafrase": "Cuidado com o homem que bajula seu vizinho com palavras doces, pois ele está, na verdade, preparando uma armadilha cruel para os pés dele. Fique alerta contra os elogios vazios e lisonjeiros! 🐍",
+      "referencias": [
+        "Provérbios 26:28",
+        "Salmos 5:9"
+      ],
+      "comentario": "A lisonja (חָלַק, chalaq) é apresentada como uma tática de caça. As palavras suaves escondem uma intenção maliciosa ('armadilha' ou 'rede') destinada a fazer o outro tropeçar ou cair em desgraça.",
+      "temas": [
+        "Perigo da Lisonja",
+        "Intenções Ocultas",
+        "Cautela Social"
+      ],
+      "personagens": [
+        "O Adulador",
+        "O Vizinho"
+      ]
     },
     "6": {
-      "parafrase": "Na transgressão do homem mau há uma armadilha, mas o justo canta e se alegra.",
-      "referencias": [],
-      "comentario": "A transgressão do ímpio o leva a uma armadilha e à destruição, enquanto o justo encontra alegria e liberdade em sua retidão. A justiça divina inverte a sorte.",
-      "temas": ["transgressão", "armadilha", "justiça", "alegria", "liberdade"],
-      "personagens": []
+      "parafrase": "Que a iniquidade do perverso seja sua própria ruína, mas o homem justo, que age com integridade, pode tropeçar, mas sempre encontrará a luz e a salvação, pois Deus o protege. ✨",
+      "referencias": [
+        "Jó 15:30",
+        "Salmos 37:24"
+      ],
+      "comentario": "O iníquo (רָשָׁע, rasha) é pego em seu próprio erro ('pescá-lo-á'). O justo (צַדִּיק, tzaddiq), apesar de suas falhas momentâneas ('tropeçar'), é guiado pela alegria e pela retidão, que funcionam como um escudo divino.",
+      "temas": [
+        "Recompensa da Justiça",
+        "Consequência da Iniquidade",
+        "Proteção Divina"
+      ],
+      "personagens": [
+        "O Ímpio",
+        "O Justo"
+      ]
     },
     "7": {
-      "parafrase": "O justo considera a causa dos pobres, mas o ímpio não tem entendimento para conhecê-la.",
-      "referencias": [],
-      "comentario": "O justo se preocupa com a justiça social e com a causa dos pobres, enquanto o ímpio é insensível e não compreende suas necessidades. A compaixão é um sinal de retidão.",
-      "temas": ["justiça social", "pobreza", "compaixão", "insensibilidade"],
-      "personagens": []
+      "parafrase": "O homem de caráter justo se importa com a causa dos pobres e desfavorecidos, questionando o porquê da injustiça; mas o insensato, aquele que não compreende o valor da retidão, nem se importa em perguntar ou investigar sobre essas questões. 🤔",
+      "referencias": [
+        "Deuteronômio 10:18",
+        "Amós 5:24"
+      ],
+      "comentario": "Aqui, a distinção é feita pela empatia. O justo se preocupa com o direito do pobre (עָנִי, ani) e busca entender a razão da opressão. O insensato (בַּעַר, ba'ar) é caracterizado pela indiferença total, ignorando os princípios morais básicos.",
+      "temas": [
+        "Justiça Social",
+        "Compaixão pelos Pobres",
+        "Diferença entre Sábio e Insensato"
+      ],
+      "personagens": [
+        "O Justo",
+        "O Insensato"
+      ]
     },
     "8": {
-      "parafrase": "Os zombadores incendeiam a cidade, mas os sábios desviam a ira.",
-      "referencias": [],
-      "comentario": "Os zombadores causam discórdia e conflito na sociedade, enquanto os sábios promovem a paz e desviam a ira. A sabedoria é uma força pacificadora.",
-      "temas": ["zombador", "discórdia", "sabedoria", "paz", "ira"],
-      "personagens": []
+      "parafrase": "Pessoas que zombam e se acham superiores despertam a cidade inteira para a briga e a confusão; mas aqueles que buscam a sabedoria e o conhecimento trazem a paz e a calma ao ambiente. 🤫",
+      "referencias": [
+        "Provérbios 16:18",
+        "Tiago 3:18"
+      ],
+      "comentario": "Os escarnecedores (לֹעֲגִים, lo'agim) são agitadores sociais. Suas palavras inflamam a comunidade ('acesos', como fogo). Em contraste, os que buscam a sabedoria promovem a concórdia (שָׁלוֹם, shalom).",
+      "temas": [
+        "Conflito Social",
+        "Poder da Sabedoria",
+        "Paz Comunitária"
+      ],
+      "personagens": [
+        "Os Escarnecedores"
+      ]
     },
     "9": {
-      "parafrase": "Se um homem sábio contender com um tolo, quer ele se zangue ou ria, não haverá descanso.",
-      "referencias": [],
-      "comentario": "É inútil tentar argumentar com um tolo, pois ele não tem capacidade de raciocinar ou de aprender. A sabedoria aconselha a evitar discussões infrutíferas com insensatos.",
-      "temas": ["sabedoria", "tolice", "contenda", "discussão"],
-      "personagens": []
+      "parafrase": "Se um homem inteligente entra em disputa com um tolo, este último se irrita, zomba e berra, mas nunca conseguirá provar seu ponto, pois está dominado pela fúria e pela falta de lógica. 😡",
+      "referencias": [
+        "Provérbios 26:4",
+        "Gálatas 5:19-21"
+      ],
+      "comentario": "Este versículo descreve a futilidade de debater com o insensato. A 'cólera' (חָרָה, charah) do tolo substitui o raciocínio. Ele não busca a verdade, mas apenas expressar sua frustração, tornando o diálogo impossível.",
+      "temas": [
+        "Inutilidade do Debate com Tolo",
+        "Fúria vs. Razão",
+        "Debate"
+      ],
+      "personagens": [
+        "O Homem Inteligente",
+        "O Tolo"
+      ]
     },
     "10": {
-      "parafrase": "Homens sanguinários odeiam o íntegro, mas os retos buscam a sua vida.",
-      "referencias": [],
-      "comentario": "Os homens violentos e sanguinários odeiam a retidão e buscam a vida dos íntegros. A maldade se opõe à justiça, mas os justos buscam a vida e a proteção.",
-      "temas": ["violência", "ódio", "integridade", "justiça"],
-      "personagens": []
+      "parafrase": "Homens de bem e honrados se unem para proteger a vida do justo e bom; mas os ímpios, traiçoeiros e cruéis, só desejam vê-lo morrer, planejam sua destruição em segredo. 🗡️",
+      "referencias": [
+        "Salmos 37:12",
+        "João 15:18"
+      ],
+      "comentario": "Os 'homens retos' (יְשָׁרִים, yesharim) defendem a vida do justo ('para tirar a sua vida'). Os perversos, por outro lado, conspiram para tirar-lhe a vida, mostrando o contraste entre o instinto protetor dos bons e o instinto destrutivo dos maus.",
+      "temas": [
+        "Defesa dos Justos",
+        "Conspiração",
+        "Intenção de Morte"
+      ],
+      "personagens": [
+        "Homens Retos",
+        "Os Ímpios"
+      ]
     },
     "11": {
-      "parafrase": "O tolo expõe toda a sua ira, mas o sábio a retém e a acalma.",
-      "referencias": [],
-      "comentario": "O tolo expressa sua raiva impulsivamente, enquanto o sábio controla suas emoções e as acalma. O autocontrole é um sinal de sabedoria.",
-      "temas": ["tolice", "ira", "autocontrole", "sabedoria"],
-      "personagens": []
+      "parafrase": "O tolo revela todo o seu interior, descarrega toda a sua alma e paixão assim que sente o menor sopro de irritação; mas o sábio mantém suas emoções sob controle, esperando o momento certo para falar. 🤐",
+      "referencias": [
+        "Tiago 1:19",
+        "Provérbios 17:27"
+      ],
+      "comentario": "A palavra hebraica para 'espirito' ou 'sopro' (רוּחַ, ruach) é usada aqui para indicar a irritação inicial. O insensato extravasa tudo imediatamente. O sábio (חָכָם, chakham) guarda seu espírito, demonstrando autocontrole e paciência.",
+      "temas": [
+        "Autocontrole Emocional",
+        "Paciência",
+        "Revelação Impulsiva"
+      ],
+      "personagens": [
+        "O Tolo",
+        "O Sábio"
+      ]
     },
     "12": {
-      "parafrase": "Se um governante dá ouvidos a mentiras, todos os seus servos se tornam ímpios.",
-      "referencias": [],
-      "comentario": "A corrupção na liderança se espalha para os subordinados. Se um governante aceita a mentira, seus servos também se tornarão corruptos. A integridade na liderança é crucial.",
-      "temas": ["governante", "mentira", "corrupção", "liderança"],
-      "personagens": []
+      "parafrase": "Se um governante ou juiz aceita suborno e se deixa comprar, mesmo que pareça justo no momento, ele acabará por derrubar a cidade e trazer a ruína sobre todos os seus habitantes. 💸",
+      "referencias": [
+        "Êxodo 23:8",
+        "Isaías 1:23"
+      ],
+      "comentario": "O suborno (שֹׁחַד, shochad) é um veneno para a justiça. Um governante que se deixa comprar, embora possa parecer benéfico no curto prazo para o subornador, inevitavelmente levará à destruição (הָפַךְ, hafac) da cidade através da injustiça sistêmica.",
+      "temas": [
+        "Corrupção Governamental",
+        "Suborno",
+        "Destruição Cívica"
+      ],
+      "personagens": [
+        "O Governante/Juiz"
+      ]
     },
     "13": {
-      "parafrase": "O pobre e o opressor se encontram; o Senhor ilumina os olhos de ambos.",
-      "referencias": [],
-      "comentario": "Deus, em Sua soberania, permite que ricos e pobres se encontrem, e Ele ilumina os olhos de ambos, revelando a verdade e a justiça. A providência divina se estende a todos.",
-      "temas": ["pobreza", "opressão", "encontro", "iluminação divina"],
-      "personagens": []
+      "parafrase": "O pobre e o homem que o explora têm algo em comum: o Senhor é a luz que ilumina a vida de ambos, dando-lhes o fôlego para viver. ☀️",
+      "referencias": [
+        "Jó 12:10",
+        "Atos 17:28"
+      ],
+      "comentario": "Este é um ponto de convergência surpreendente. O Criador (יהוה, YHWH) é a fonte de vida ('luz' ou 'alento') tanto para o oprimido (עָנִי, ani) quanto para o opressor (עֹשֵׁק, oseq). Ambos dependem de Deus para a existência, independentemente de suas ações morais.",
+      "temas": [
+        "Soberania de Deus",
+        "Ponto de Contato Universal",
+        "Vida e Criação"
+      ],
+      "personagens": [
+        "O Pobre",
+        "O Explorador",
+        "O Senhor"
+      ]
     },
     "14": {
-      "parafrase": "Um rei que julga os pobres com justiça, seu trono será estabelecido para sempre.",
-      "referencias": [],
-      "comentario": "A justiça para com os pobres é o fundamento de um reinado duradouro e estável. A equidade e a compaixão são essenciais para a liderança justa.",
-      "temas": ["rei", "justiça", "pobreza", "trono", "estabilidade"],
-      "personagens": []
+      "parafrase": "Governar com justiça, defendendo os pobres e ouvindo suas queixas, é a maneira correta de julgar e manter a estabilidade de um reino; assim se estabelece a autoridade sobre bases sólidas. ⚖️",
+      "referencias": [
+        "Provérbios 31:8-9",
+        "Salmos 82:3-4"
+      ],
+      "comentario": "O juízo justo, que se inclina para defender os necessitados ('examinar a causa dos pobres'), estabelece a legitimidade do trono. É um mandamento direto para a função judicial e régia.",
+      "temas": [
+        "Julgamento Justo",
+        "Dever do Governante",
+        "Estabilidade Política"
+      ],
+      "personagens": [
+        "O Governante/Juiz"
+      ]
     },
     "15": {
-      "parafrase": "A vara e a repreensão dão sabedoria, mas a criança entregue a si mesma envergonha a sua mãe.",
-      "referencias": [],
-      "comentario": "A disciplina e a repreensão são essenciais para o desenvolvimento da sabedoria na criança. A falta de disciplina leva à vergonha e à desonra para a família.",
-      "temas": ["disciplina", "repreensão", "sabedoria", "criança", "vergonha"],
-      "personagens": []
+      "parafrase": "O jovem teimoso ou o pupilo indisciplinado, que se recusa a aprender com os mais velhos, deve ser deixado em sua própria teimosia por um tempo; quando for deixado sozinho, ele sentirá a necessidade de orientação. 🧍",
+      "referencias": [
+        "Provérbios 22:6",
+        "Hebreus 12:11"
+      ],
+      "comentario": "O autor reconhece que a correção muitas vezes só é eficaz quando a pessoa experimenta as consequências da própria rebeldia. Deixar 'livre' (אוּלַי, ulai - talvez) a criança à sua vontade serve como lição prática e natural.",
+      "temas": [
+        "Disciplina e Liberdade",
+        "Aprendizado pela Experiência",
+        "Educação Juvenil"
+      ],
+      "personagens": [
+        "O Jovem/Pupilo"
+      ]
     },
     "16": {
-      "parafrase": "Quando os ímpios se multiplicam, a transgressão aumenta, mas os justos verão a sua queda.",
-      "referencias": [],
-      "comentario": "O aumento da impiedade leva ao aumento da transgressão na sociedade. No entanto, os justos terão a satisfação de testemunhar a queda e a destruição dos ímpios. A justiça divina é certa.",
-      "temas": ["impiedade", "transgressão", "justiça", "queda", "retribuição"],
-      "personagens": []
+      "parafrase": "Quando os perversos aumentam em poder, a impiedade também se multiplica, e as pessoas decentes e honestas são desprezadas e escondem-se com vergonha, pois a maldade está à vista de todos. 🙈",
+      "referencias": [
+        "Provérbios 28:12",
+        "1 Pedro 4:4"
+      ],
+      "comentario": "A ascensão do ímpio (רָשָׁע, rasha) leva ao aumento visível da 'abominação' ou imoralidade (נִבְלָה, nivlah). Os justos, por sua vez, se retraem, pois o ambiente se tornou hostil à sua conduta.",
+      "temas": [
+        "Aumento da Imoralidade",
+        "Retraimento dos Justos",
+        "Influência do Mal no Poder"
+      ],
+      "personagens": [
+        "Os Perversos",
+        "As Pessoas Decentes"
+      ]
     },
     "17": {
-      "parafrase": "Castigue seu filho, e ele lhe dará descanso; ele trará deleite à sua alma.",
-      "referencias": [],
-      "comentario": "A disciplina adequada dos filhos traz paz e alegria aos pais. A correção amorosa resulta em filhos que trazem satisfação e honra.",
-      "temas": ["disciplina", "filho", "descanso", "deleite", "família"],
-      "personagens": []
+      "parafrase": "Que o governante se esforce para corrigir o tolo e o insensato, pois uma vez que ele for disciplinado e endereçado, ele não se tornará um problema para a comunidade; sua vida ganhará um novo rumo. ✅",
+      "referencias": [
+        "Provérbios 27:17",
+        "2 Timóteo 2:25"
+      ],
+      "comentario": "A disciplina ('corrigir') o tolo, quando aplicada com sabedoria, pode ser transformadora, e o resultado é a paz social. O tolo, uma vez instruído, não causará mais 'tropeço' ou escândalo na sociedade.",
+      "temas": [
+        "Potencial de Mudança",
+        "Correção Efetiva",
+        "Ordem Social"
+      ],
+      "personagens": [
+        "O Governante",
+        "O Tolo"
+      ]
     },
     "18": {
-      "parafrase": "Onde não há visão, o povo perece, mas bem-aventurado é aquele que guarda a lei.",
-      "referencias": [],
-      "comentario": "A falta de direção e de revelação divina leva à perdição do povo. A obediência à Lei de Deus, que é a Sua revelação, traz bem-aventurança e vida. A visão é essencial para a guia.",
-      "temas": ["visão", "perdição", "Lei", "bem-aventurança", "guia"],
-      "personagens": []
+      "parafrase": "Quando não há mais a orientação profética e visível da Lei ou da Palavra de Deus, o povo se desgoverna, age como um animal selvagem solto, sem freios morais, buscando apenas seus próprios interesses. 🌾",
+      "referencias": [
+        "Juízes 17:6",
+        "Romanos 1:21"
+      ],
+      "comentario": "A ausência de uma 'visão' ou 'revelação' (חָזוֹן, chazon) clara — frequentemente ligada à liderança profética ou à Lei — resulta em anarquia. O povo é comparado a cavalos selvagens sem rédeas, agindo por instinto e desordem.",
+      "temas": [
+        "Importância da Revelação Divina",
+        "Anarquia Moral",
+        "Falta de Liderança Espiritual"
+      ],
+      "personagens": [
+        "O Povo"
+      ]
     },
     "19": {
-      "parafrase": "Um servo não será corrigido apenas com palavras; embora ele entenda, ele não responderá.",
-      "referencias": [],
-      "comentario": "Alguns servos (ou pessoas) não respondem apenas à instrução verbal; eles precisam de disciplina mais forte para mudar seu comportamento. A teimosia exige uma abordagem mais firme.",
-      "temas": ["servo", "correção", "teimosia", "disciplina"],
-      "personagens": []
+      "parafrase": "Um servo que é apenas repreendido verbalmente, mesmo que com severidade, raramente aprenderá a lição pelo som das palavras; pois, embora as entenda, ele continuará a desafiá-lo e agirá com desrespeito. 🗣️",
+      "referencias": [
+        "Efésios 6:5-8",
+        "Provérbios 17:21"
+      ],
+      "comentario": "Este versículo trata da ineficácia da mera admoestação verbal contra a desobediência persistente do servo (עֶבֶד, ebed). É necessária uma ação mais forte ou a experiência das consequências, pois ele entende a ordem, mas escolhe ignorá-la.",
+      "temas": [
+        "Autoridade no Trabalho",
+        "Ineficácia da Palavra Isolada",
+        "Desobediência do Servo"
+      ],
+      "personagens": [
+        "O Servo"
+      ]
     },
     "20": {
-      "parafrase": "Você vê um homem que é precipitado em suas palavras? Há mais esperança para um tolo do que para ele.",
-      "referencias": [],
-      "comentario": "Aquele que fala impulsivamente e sem pensar é pior do que um tolo, pois sua imprudência pode causar mais dano. A sabedoria se manifesta na moderação da fala.",
-      "temas": ["precipitação", "fala", "tolice", "imprudência"],
-      "personagens": []
+      "parafrase": "Você já observou alguém que fala com pressa, que é imprudente em suas palavras, que mal termina uma frase e já está envolvido em problemas? O homem que se apressa em falar sempre terá um concorrente mais sábio e paciente esperando por ele. ⏳",
+      "referencias": [
+        "Tiago 1:19",
+        "Provérbios 26:12"
+      ],
+      "comentario": "A pessoa que se precipita em falar (מהִתְרַחֵב, mitracheb – alguém que se expande ou se apressa) revela sua falta de discernimento. A impaciência verbal é um sinal de insensatez, e sempre haverá alguém mais ponderado pronto para expor sua precipitação.",
+      "temas": [
+        "Precipitação Verbal",
+        "Discernimento",
+        "Consequências da Pressa"
+      ],
+      "personagens": [
+        "O Falante Impetuoso"
+      ]
     },
     "21": {
-      "parafrase": "Aquele que mima seu servo desde a infância, no final ele se tornará um filho.",
-      "referencias": [],
-      "comentario": "Mimar um servo desde a infância pode levar a uma inversão de papéis, onde o servo se torna como um filho, sem respeito pela autoridade. A disciplina e os limites são essenciais.",
-      "temas": ["mimo", "servo", "disciplina", "limites"],
-      "personagens": []
+      "parafrase": "Se um escravo for mimado desde a infância, recebendo todo tipo de conforto e privilégio, no futuro ele se levantará contra seu senhor e exigirá direitos que não lhe pertencem, agindo como um filho rebelde. 😠",
+      "referencias": [
+        "Gênesis 16:4",
+        "Filipenses 2:6-7"
+      ],
+      "comentario": "Aqui, a disciplina é a chave para a ordem social hierárquica. Tratar um servo (עֶבֶד, ebed) como um herdeiro ('dar-lhe o pão') resulta em rebelião ('tornar-se seu senhor'), indicando que a ausência de limites estabelece expectativas erradas de igualdade de poder.",
+      "temas": [
+        "Hierarquia Social",
+        "Consequências da Mimosidade",
+        "Rebelião do Servo"
+      ],
+      "personagens": [
+        "O Servo",
+        "O Senhor"
+      ]
     },
     "22": {
-      "parafrase": "Um homem irascível provoca contendas, e um homem furioso multiplica transgressões.",
-      "referencias": [],
-      "comentario": "A ira e a fúria levam a conflitos e ao aumento de transgressões. O controle das emoções é essencial para a paz e a retidão.",
-      "temas": ["ira", "fúria", "contenda", "transgressão"],
-      "personagens": []
+      "parafrase": "O homem dominado pela raiva e pelo espírito irascível está sempre prestes a cometer um grande erro; ele é um convite aberto para que outros o provoquem e o levem a atos piores. 🔥",
+      "referencias": [
+        "Provérbios 15:18",
+        "Efésios 4:26"
+      ],
+      "comentario": "A ira (אַף, aph – narinas inflamadas, fogo) torna o indivíduo um alvo fácil para o conflito. Ele se coloca em uma posição de vulnerabilidade e risco, pois sua explosão emocional serve de gatilho para outros atos destrutivos.",
+      "temas": [
+        "Perigo da Ira",
+        "Instigação",
+        "Vulnerabilidade Emocional"
+      ],
+      "personagens": [
+        "O Homem Irado"
+      ]
     },
     "23": {
-      "parafrase": "O orgulho de um homem o humilhará, mas o humilde de espírito obterá honra.",
-      "referencias": [],
-      "comentario": "O orgulho leva à humilhação e à queda, enquanto a humildade de espírito traz honra. A humildade é uma virtude que agrada a Deus e aos homens.",
-      "temas": ["orgulho", "humilhação", "humildade", "honra"],
-      "personagens": []
+      "parafrase": "A soberba e a arrogância (humildes-se!) levam o homem à vergonha e à queda; mas o humilde, aquele que anda com modéstia, recebe honra e reconhecimento das pessoas. 🙏",
+      "referencias": [
+        "Provérbios 18:12",
+        "1 Pedro 5:5"
+      ],
+      "comentario": "O termo para 'soberba' (גֵּאוּת, ge'ut) aponta para a exaltação desmedida. A instrução é clara: humilhe-se! A verdadeira honra (כָּבוֹד, kavod) não vem da autopromoção, mas da humildade genuína perante Deus e os homens.",
+      "temas": [
+        "Arrogância vs. Humildade",
+        "Honra Verdadeira",
+        "Exaltação"
+      ],
+      "personagens": [
+        "O Soberbo",
+        "O Humilde"
+      ]
     },
     "24": {
-      "parafrase": "Aquele que divide o lucro com um ladrão odeia a sua própria alma; ele ouve a maldição, mas não confessa.",
-      "referencias": [],
-      "comentario": "Aquele que se associa com um ladrão e compartilha de seus ganhos ilícitos prejudica a si mesmo. Ele ouve a maldição (a lei), mas se recusa a confessar seu pecado. A cumplicidade no crime é condenável.",
-      "temas": ["roubo", "cumplicidade", "pecado", "maldição", "confissão"],
-      "personagens": []
+      "parafrase": "Aquele que se une a um ladrão ou partilha bens roubados com um malfeitor está, na verdade, traindo a si mesmo e a sua própria consciência, e, embora tente se safar, será forçado a testemunhar contra si mesmo. 🤥",
+      "referencias": [
+        "Levítico 5:1",
+        "1 Reis 8:32"
+      ],
+      "comentario": "Participar do crime ('dividir com o ladrão') é um ato de autoincriminação. O 'amaldiçoar' (אָרַר, arar) aqui significa ser condenado ou amaldiçoado pela própria ação. O pacto com o mal sempre exige testemunho contra o cúmplice.",
+      "temas": [
+        "Cumplicidade no Crime",
+        "Traição",
+        "Consciência Culpada"
+      ],
+      "personagens": [
+        "O Cúmplice",
+        "O Ladrão"
+      ]
     },
     "25": {
-      "parafrase": "O medo do homem traz uma armadilha, mas aquele que confia no Senhor estará seguro.",
-      "referencias": [],
-      "comentario": "O medo do homem pode levar a armadilhas e compromissos, mas a confiança em Deus traz segurança e proteção. A fé é a base da liberdade.",
-      "temas": ["medo", "armadilha", "confiança em Deus", "segurança"],
-      "personagens": []
+      "parafrase": "O medo que paralisa os homens e os faz depender da aprovação alheia é uma armadilha perigosa; mas aquele que coloca sua total confiança no Senhor poderoso é verdadeiramente seguro e protegido de todos os perigos. 🛡️",
+      "referencias": [
+        "Salmos 56:4",
+        "João 14:27"
+      ],
+      "comentario": "O medo do homem (פַּח, pach – armadilha) é uma forma de idolatria, pois coloca a segurança nas mãos humanas, e não em Deus (יהוה, YHWH). A confiança no Senhor é a única segurança verdadeira e inabalável contra todos os temores.",
+      "temas": [
+        "Medo Humano vs. Confiança em Deus",
+        "Segurança Espiritual",
+        "Dependência de Deus"
+      ],
+      "personagens": [
+        "O Temeroso",
+        "O Senhor"
+      ]
     },
     "26": {
-      "parafrase": "Muitos buscam o favor de um governante, mas a justiça de um homem vem do Senhor.",
-      "referencias": [],
-      "comentario": "As pessoas buscam o favor de líderes humanos, mas a verdadeira justiça e o favor vêm de Deus. A dependência de Deus é superior à dependência de homens.",
-      "temas": ["favor", "governante", "justiça", "dependência de Deus"],
-      "personagens": []
+      "parafrase": "Quem tenta manipular ou forçar a mão de alguém que teme a Deus, como se fosse possível subornar a consciência ou a justiça divina, está, na verdade, apenas semeando a própria desgraça. Ao tentar influenciar o justo ou o temente a Deus, a pessoa perversa tece uma armadilha para si mesma. O coração que busca o bem e anda na retidão, mesmo diante da pressão, acaba por desmantelar os planos tortuosos de quem o tenta subverter. É como tentar desviar o curso de um rio caudaloso; a força da retidão prevalecerá e o manipulador será encoberto pela própria onda que tentou criar. 🌊",
+      "referencias": [
+        "Salmos 15:4",
+        "Miquéias 6:11",
+        "Jó 31:13"
+      ],
+      "comentario": "O termo hebraico para 'manipular' ou 'forçar a mão' pode evocar a ideia de suborno ou de exercer pressão injusta. O versículo trata da futilidade de tentar corromper ou coagir um indivíduo íntegro (temor a Deus, 'יראת ה' - Yirat Yah). A retidão do justo atua como uma barreira intransponível contra a tentativa de desvio moral. A consequência para o opressor não é um castigo externo imediato, mas sim a implosão de sua própria estratégia, pois a verdade e a justiça inerentes ao homem íntegro frustrarão o intento maligno.",
+      "temas": [
+        "Integridade moral",
+        "Futilidade da corrupção",
+        "Pressão social",
+        "Justiça divina"
+      ],
+      "personagens": [
+        "O justo/temente a Deus",
+        "O manipulador"
+      ]
     },
     "27": {
-      "parafrase": "O homem injusto é abominação para os justos, e aquele que é reto em seu caminho é abominação para o ímpio.",
-      "referencias": [],
-      "comentario": "Há uma aversão mútua entre o justo e o injusto. O justo abomina a iniquidade, e o ímpio abomina a retidão. A moralidade divide as pessoas.",
-      "temas": ["injustiça", "abominação", "justiça", "retidão", "divisão"],
-      "personagens": []
+      "parafrase": "O homem honesto e íntegro detesta o engano e a mentira; ele mantém a palavra dada, mesmo que isso lhe cause prejuízo. Por outro lado, o ímpio, que vive de aparências e truques, sempre encontrará um caminho para se livrar das consequências, mas sua saída é sempre marcada pela destruição daqueles que se aproximam dele. O caminho do homem reto é pavimentado com sinceridade e ele se mantém firme; o caminho do perverso é uma trilha cheia de armadilhas que, no final, caem sobre ele mesmo ou sobre aqueles que nele confiam. 💥",
+      "referencias": [
+        "Provérbios 11:3",
+        "Provérbios 12:22",
+        "Salmos 26:4"
+      ],
+      "comentario": "Este versículo estabelece um forte contraste ('mas') entre dois tipos de conduta: o 'tōmē' (ímprobo, detestável, que comete atos imundos) e o homem íntegro. O ímpio é caracterizado pelo ódio à mentira (embora sua vida seja uma mentira). O texto sugere que, embora o ímpio possa escapar de um problema imediato ('se livrar'), a natureza de sua saída é destrutiva para outros ('destrói aqueles que se juntam a ele'). O justo, por sua vez, anda com sinceridade e retidão, garantindo estabilidade para si e para o seu círculo social. ⚖️",
+      "temas": [
+        "Verdade vs. Mentira",
+        "Consequências morais",
+        "Caráter do ímio",
+        "Sinceridade"
+      ],
+      "personagens": [
+        "O homem íntegro",
+        "O ímpio"
+      ]
     }
   }
 }

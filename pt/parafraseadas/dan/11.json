@@ -1,323 +1,764 @@
 {
   "livro": "Daniel",
   "capitulo": 11,
-  "contexto_historico": "Este capítulo de Daniel contém uma profecia detalhada sobre os reis do norte (o Império Selêucida) e do sul (o Egito Ptolomaico), que se seguirão ao Império Persa. A profecia descreve as guerras, as alianças, as traições e as intrigas que ocorrerão entre esses reinos, culminando na ascensão de um rei vil (Antíoco IV Epifânio) que profanará o santuário e perseguirá o povo de Deus. O capítulo enfatiza a soberania de Deus sobre a história, Sua capacidade de revelar o futuro e a inevitabilidade do cumprimento de Suas profecias, mesmo em meio à complexidade dos eventos humanos.",
-  "bloco_tematico": "Guerras e Intrigas entre os Reis do Norte e do Sul e a Ascensão do Rei Vil",
+  "contexto_historico": "O livro de Daniel, no seu capítulo 11, apresenta uma das profecias mais detalhadas e historicamente verificáveis do Antigo Testamento. Este capítulo é frequentemente chamado de 'A Visão do Anjo', detalhando os conflitos futuros entre os 'Reis do Norte' (Seleucidas) e os 'Reis do Sul' (Ptolomeus), que dominavam o Egito e a Síria após a divisão do império de Alexandre, o Grande. A narrativa avança cronologicamente, descrevendo batalhas, alianças, traições e, crucialmente, a ascensão de Antíoco IV Epifânio, que será a figura central que aponta para o futuro 'Rei do Norte' final (o Anticristo). O foco está na perseguição violenta contra o povo de Deus (os judeus) e a subsequente intervenção divina. 📜⚔️",
+  "bloco_tematico": "Conflitos Dinásticos e a Ascensão do Perseguidor (Seleucidas vs. Ptolomeus) 👑📉",
   "versiculos": {
     "1": {
-      "parafrase": "'E quanto a mim, no primeiro ano de Dario, o medo, eu estava em pé para fortalecê-lo e para ser uma fortaleza para ele.'",
-      "referencias": [],
-      "comentario": "O ser celestial (provavelmente Gabriel) revela que ele estava presente para fortalecer Dario, o medo, no início de seu reinado. Isso mostra a intervenção divina nos assuntos dos reinos humanos.",
-      "temas": ["Dario", "fortalecimento divino", "intervenção divina", "reino"],
-      "personagens": ["Gabriel", "Dario"]
+      "parafrase": "No primeiro ano do reinado de Dario, o Medo, eu, Gabriel, levantei-me para lhe dar força e coragem, pois ele precisava de apoio para consolidar seu poder sobre o império recém-conquistado.",
+      "referencias": [
+        "Isaías 41:10",
+        "Apocalipse 1:6"
+      ],
+      "comentario": "O anjo refere-se a si mesmo como um agente fortalecedor de Dario (o Medo, provavelmente Dario I, filho de Ciaxares, ou, mais tradicionalmente, Dario, o Medo, associado a Ciro). O foco é a necessidade de estabilidade para o novo regime Medo-Persa, um ponto crucial na profecia posterior.",
+      "temas": [
+        "Apoio Divino",
+        "Transição de Poder",
+        "Fortalecimento Angelical"
+      ],
+      "personagens": [
+        "Gabriel",
+        "Dario, o Medo"
+      ]
     },
     "2": {
-      "parafrase": "'E agora eu lhe farei saber a verdade. Vejam, ainda haverá três reis na Pérsia; e o quarto será muito mais rico do que todos eles; e quando ele se tornar forte por suas riquezas, ele agitará tudo contra o reino da Grécia.'",
-      "referencias": [],
-      "comentario": "A profecia prediz a ascensão de três reis persas após Ciro, e um quarto (Xerxes I) que será muito rico e agitará o reino da Grécia. Isso se refere às Guerras Greco-Persas.",
-      "temas": ["reis da Pérsia", "riqueza", "Guerras Greco-Persas", "profecia"],
-      "personagens": ["Xerxes I"]
+      "parafrase": "E agora, deixe-me revelar-lhe o que está por vir. As visões que Daniel presenciou são sobre os tempos futuros, os grandes conflitos e as eras que se desdobrarão após estes dias iniciais de governo.",
+      "referencias": [
+        "Daniel 2:28",
+        "Apocalipse 4:1"
+      ],
+      "comentario": "Gabriel prepara o cenário para a complexa visão profética. A palavra hebraica para 'revelar' (גַּלֹּתִי - 'gáloti') implica descobrir algo oculto. A ênfase está no futuro distante em relação ao tempo presente de Daniel.",
+      "temas": [
+        "Profecia Futura",
+        "Revelação Divina",
+        "Tempo Escatológico"
+      ],
+      "personagens": [
+        "Gabriel",
+        "Daniel"
+      ]
     },
     "3": {
-      "parafrase": "'E um rei poderoso se levantará, que governará com grande domínio e fará o que lhe agradar.'",
-      "referencias": [],
-      "comentario": "Um rei poderoso (Alexandre, o Grande) se levantará e governará com grande domínio, fazendo o que lhe agrada. Isso prediz a ascensão do Império Grego.",
-      "temas": ["rei poderoso", "domínio", "Império Grego", "Alexandre, o Grande"],
-      "personagens": ["Alexandre, o Grande"]
+      "parafrase": "Você já viu claramente a glória do Rei Celestial, mas agora veja a luta que se aproxima: três reis poderosos se levantarão no reino da Pérsia, e o quarto, um império ainda mais rico e formidável, desafiará a todos os existentes, acumulando riquezas apenas para se preparar para a batalha final.",
+      "referencias": [
+        "Daniel 7:5",
+        "Isaías 23:1"
+      ],
+      "comentario": "Aqui começa a visão dos 'Reis da Pérsia' (três sucessores imediatos de Ciro, provavelmente Cambises II, Bardiya, e Dario I ou, se a visão for mais adiante, os sucessores persas após a queda para os gregos, dependendo da exegese). O quarto é classicamente interpretado como Alexandre, o Grande, ou o poder helenístico que sucede a Pérsia, que se torna imensamente rico (conforme 11:3b).",
+      "temas": [
+        "Sucessão Real",
+        "Impérios Mundiais",
+        "Riqueza e Conflito"
+      ],
+      "personagens": [
+        "Reis da Pérsia"
+      ]
     },
     "4": {
-      "parafrase": "'E quando ele se levantar, o seu reino será quebrado e dividido para os quatro ventos do céu; mas não para a sua posteridade, nem de acordo com o seu domínio com que ele governou; pois o seu reino será arrancado e dado a outros além destes.'",
-      "referencias": [],
-      "comentario": "O reino de Alexandre será quebrado e dividido entre seus quatro generais, mas não para sua descendência. Isso prediz a divisão do Império Grego após sua morte.",
-      "temas": ["reino quebrado", "divisão", "quatro ventos", "generais", "sucessão"],
-      "personagens": []
+      "parafrase": "Contudo, este quarto rei terá um poder estrondoso, mas seu reino será quebrado em pedaços, não por sua própria descendência, mas por outros, pois seu reinado será de curta duração quando comparado aos outros.",
+      "referencias": [
+        "Daniel 8:8",
+        "Mateus 2:13"
+      ],
+      "comentario": "Esta é uma descrição cristalina da ascensão e queda do Império Persa sob Alexandre, o Grande (o quarto poder). Ele conquista rapidamente (poder estrondoso), mas morre jovem, e seu império é dividido entre seus generais (os 'quatro ventos' mencionados em Daniel 8:8).",
+      "temas": [
+        "Ascensão Rápida",
+        "Fragilidade do Poder Terreno",
+        "Divisão de Impérios"
+      ],
+      "personagens": [
+        "O Quarto Rei"
+      ]
     },
     "5": {
-      "parafrase": "'E o rei do sul se tornará forte, e um de seus príncipes; e ele se tornará forte sobre ele e governará; seu domínio será um grande domínio.'",
-      "referencias": [],
-      "comentario": "O rei do sul (Egito Ptolomaico) se tornará forte, e um de seus príncipes (Ptolomeu I Sóter) governará com grande domínio. Isso marca o início das guerras entre os Ptolomeus e os Selêucidas.",
-      "temas": ["rei do sul", "Egito Ptolomaico", "príncipe", "domínio", "guerras"],
-      "personagens": ["Ptolomeu I Sóter"]
+      "parafrase": "Então, um rei muito forte surgirá do sul, um dos generais do reino original, e ele será mais poderoso que o primeiro rei que o precedeu. Seu domínio será vasto e se estenderá por toda a terra.",
+      "referencias": [
+        "Daniel 8:21",
+        "Jeremias 49:1"
+      ],
+      "comentario": "Este 'Rei do Sul' é universalmente identificado como Ptolomeu I Sóter, que governou o Egito após a morte de Alexandre. Ele era um dos sucessores (reis do Lado Sul) e estabeleceu um reino poderoso.",
+      "temas": [
+        "Reino do Sul",
+        "Guerra de Sucessão",
+        "Domínio Territorial"
+      ],
+      "personagens": [
+        "Rei do Sul (Ptolomeu I)"
+      ]
     },
     "6": {
-      "parafrase": "'E ao fim de alguns anos eles se aliarão; e a filha do rei do sul virá ao rei do norte para fazer um acordo; mas ela não reterá a força do seu braço, nem ele permanecerá, nem o seu braço; mas ela será entregue, e aqueles que a trouxeram, e aquele que a gerou, e aquele que a fortaleceu nestes tempos.'",
-      "references": [],
-      "comentario": "Uma aliança será feita entre o rei do sul e o rei do norte, através do casamento da filha do rei do sul (Berenice) com o rei do norte (Antíoco II Teos). No entanto, a aliança falhará, e ela e seus aliados serão mortos. Isso prediz as intrigas e traições entre os reinos.",
-      "temas": ["aliança", "rei do sul", "rei do norte", "casamento", "traição", "morte"],
-      "personagens": ["Berenice", "Antíoco II Teos"]
+      "parafrase": "Após alguns anos, este rei do sul se unirá em aliança com o rei do norte, oferecendo sua própria filha em casamento ao governante do império rival. No entanto, essa união será uma armadilha passageira; ela não perdurará, pois ela será entregue, junto com seus acompanhantes, para ser destruída, e o pacto falhará.",
+      "referencias": [
+        "Oséias 2:19",
+        "Juízes 1:36"
+      ],
+      "comentario": "Isso se refere ao casamento político entre Ptolomeu II Filadelfo (Rei do Sul) e Berenice, filha de Ptolomeu I, com Antíoco II Teos (Rei do Norte, Império Selêucida). Berenice foi posteriormente assassinada por ordem da primeira esposa de Antíoco, Laodice, o que aniquilou o tratado.",
+      "temas": [
+        "Alianças Políticas",
+        "Traição Conjugal",
+        "Ruptura de Tratados"
+      ],
+      "personagens": [
+        "Rei do Sul",
+        "Rei do Norte",
+        "Filha do Rei do Sul",
+        "Acompanhantes"
+      ]
     },
     "7": {
-      "parafrase": "'Mas de um broto de suas raízes se levantará um em seu lugar, que virá com um exército e entrará na fortaleza do rei do norte, e agirá contra eles, e prevalecerá.'",
-      "references": [],
-      "comentario": "Um broto das raízes do rei do sul (Ptolomeu III Evérgeta) se levantará e invadirá a fortaleza do rei do norte, prevalecendo sobre ele. Isso prediz a Terceira Guerra Síria.",
-      "temas": ["broto", "rei do sul", "rei do norte", "invasão", "prevalência", "guerra"],
-      "personagens": ["Ptolomeu III Evérgeta"]
+      "parafrase": "Mas, quando o pai dela, o rei do sul, souber da tragédia, ele levantará um exército poderoso e atacará com fúria, marchando contra o rei do norte. Ele vencerá essa batalha, mas seu avanço será breve.",
+      "referencias": [
+        "2 Reis 14:25",
+        "Salmos 37:36"
+      ],
+      "comentario": "O pai de Berenice, Ptolomeu II, lança uma campanha militar (as Guerras Sírias) em retaliação, mas ele morre logo após os sucessos iniciais, ou sua campanha não resulta em domínio permanente sobre o território do norte.",
+      "temas": [
+        "Vingança",
+        "Campanhas Militares",
+        "Ataques Breves"
+      ],
+      "personagens": [
+        "Pai da Noiva (Ptolomeu II)"
+      ]
     },
     "8": {
-      "parafrase": "'E também os seus deuses, com os seus príncipes, e com os seus vasos preciosos de prata e de ouro, ele os levará cativos para o Egito; e ele continuará por mais anos do que o rei do norte.'",
-      "references": [],
-      "comentario": "O rei do sul levará os deuses, príncipes e tesouros do rei do norte para o Egito, e viverá mais tempo do que ele. Isso simboliza a vitória do Egito e o saque de seus inimigos.",
-      "temas": ["deuses", "príncipes", "tesouros", "cativeiro", "vitória", "saque"],
-      "personagens": []
+      "parafrase": "O rei do norte retornará ao seu território, mas levará consigo não apenas os despojos de guerra, mas também seus ídolos em forma de metal, os tesouros preciosos de prata e ouro que o rei do sul havia acumulado. E assim, a invasão do sul será suspensa por alguns anos.",
+      "referencias": [
+        "2 Crônicas 36:10",
+        "Jeremias 51:14"
+      ],
+      "comentario": "Esta passagem descreve a subsequente invasão do sul (Egito) pelo Rei do Norte (provavelmente Antíoco III ou Ptolomeu III) para vingança, onde ele saquearia vastos tesouros egípcios. Os 'ídolos' ou 'vasos de fundição' (סִכְסוּכָם - 'sikhsum') podem se referir a objetos rituais ou ídolos específicos.",
+      "temas": [
+        "Saque de Guerra",
+        "Saque de Tesouros",
+        "Suspensão de Hostilidades"
+      ],
+      "personagens": [
+        "Rei do Norte",
+        "Rei do Sul"
+      ]
     },
     "9": {
-      "parafrase": "'Então o rei do norte retornará à sua própria terra, mas ele retornará à sua própria terra.'",
-      "references": [],
-      "comentario": "O rei do norte retornará à sua própria terra, mas sua derrota é evidente. A profecia é de um retorno humilhante.",
-      "temas": ["rei do norte", "retorno", "derrota", "humilhação"],
-      "personagens": []
+      "parafrase": "Apesar de o rei do norte ter retornado ao seu reino, o rei do sul não ficará inerte. Ele se preparará para um novo e violento confronto, e voltará a atacar o norte com um exército ainda maior e mais numeroso do que o anterior.",
+      "referencias": [
+        "1 Reis 20:25",
+        "Jó 12:21"
+      ],
+      "comentario": "Descreve a preparação para a Terceira Guerra Síria, onde Ptolomeu III (ou IV) tentará recuperar as perdas ou expandir sua influência. A preparação é maior, indicando um esforço maciço de mobilização.",
+      "temas": [
+        "Preparação Militar",
+        "Revanche",
+        "Mobilização de Tropas"
+      ],
+      "personagens": [
+        "Rei do Sul",
+        "Rei do Norte"
+      ]
     },
     "10": {
-      "parafrase": "'Mas os seus filhos se agitarão e ajuntarão uma multidão de grandes forças; e um deles certamente virá e inundará e passará, e retornará e agitará a sua fortaleza.'",
-      "references": [],
-      "comentario": "Os filhos do rei do norte (Selêucidas) se agitarão e ajuntarão um grande exército, e um deles (Antíoco III, o Grande) virá e inundará e passará, e agitará a fortaleza do rei do sul. Isso prediz a Quarta Guerra Síria.",
-      "temas": ["filhos", "rei do norte", "exército", "invasão", "fortaleza", "guerra"],
-      "personagens": ["Antíoco III, o Grande"]
+      "parafrase": "Porém, os filhos do rei do norte se unirão e formarão uma grande e avassaladora força de ataque, investindo com poder total contra o sul. Esta investida será tão massiva que resultará na destruição total do poder militar do sul.",
+      "referencias": [
+        "Daniel 7:23",
+        "2 Reis 10:16"
+      ],
+      "comentario": "Isto se encaixa na Quarta Guerra Síria, quando Antíoco III (o Grande) do Norte esmagou o Egito ptolomaico (sob Ptolomeu V Epifânio). Os 'muitos filhos' (muitas forças) do rei do norte aniquilam a resistência egípcia.",
+      "temas": [
+        "Força Conjunta",
+        "Destruição Total",
+        "Vitória Decisiva"
+      ],
+      "personagens": [
+        "Filhos do Rei do Norte",
+        "Rei do Sul"
+      ]
     },
     "11": {
-      "parafrase": "'E o rei do sul se enfurecerá e sairá e lutará com ele, com o rei do norte; e ele levantará uma grande multidão, mas a multidão será entregue em sua mão.'",
-      "references": [],
-      "comentario": "O rei do sul (Ptolomeu IV Filopátor) se enfurecerá e lutará com o rei do norte, e a grande multidão do rei do norte será entregue em sua mão. Isso prediz a vitória do Egito na Batalha de Rafia.",
-      "temas": ["rei do sul", "rei do norte", "fúria", "batalha", "vitória", "multidão"],
-      "personagens": ["Ptolomeu IV Filopátor"]
+      "parafrase": "O rei do sul, então humilhado e enfraquecido, sairá de sua fortaleza com grande raiva e atacará o rei do norte com um exército, mas será derrotado e forçado a recuar vergonhosamente.",
+      "referencias": [
+        "2 Crônicas 25:11",
+        "Lamentações 1:15"
+      ],
+      "comentario": "Apesar da derrota anterior, o Egito tenta uma contraofensiva, mas é esmagado novamente pelo poder selêucida, levando a um tratado desfavorável (o Tratado de Raphia, ou um evento similar).",
+      "temas": [
+        "Humilhação",
+        "Derrota Militar",
+        "Retirada Forçada"
+      ],
+      "personagens": [
+        "Rei do Sul",
+        "Rei do Norte"
+      ]
     },
     "12": {
-      "parafrase": "'E quando a multidão for levada, o seu coração se exaltará; e ele derrubará dezenas de milhares, mas não prevalecerá.'",
-      "references": [],
-      "comentario": "O rei do sul se exaltará com sua vitória e derrubará muitos, mas não prevalecerá a longo prazo. Sua arrogância será sua queda.",
-      "temas": ["multidão", "coração exaltado", "derrota", "arrogância"],
-      "personagens": []
+      "parafrase": "Ao ver a carnificina e o poder do inimigo, o rei do sul ficará profundamente ressentido e tentará uma nova manobra política, mas sua ambição o trairá, pois seus esforços serão infrutíferos e não trarão glória duradoura.",
+      "referencias": [
+        "Provérbios 14:29",
+        "Tiago 4:3"
+      ],
+      "comentario": "Reflete as tentativas fracassadas de Ptolomeu V de reverter a situação de subjugação, possivelmente através de concessões territoriais ou políticas que se mostraram vazias.",
+      "temas": [
+        "Rancor Político",
+        "Tentativas Fracassadas",
+        "Ambição Vã"
+      ],
+      "personagens": [
+        "Rei do Sul"
+      ]
     },
     "13": {
-      "parafrase": "'Pois o rei do norte retornará e levantará uma multidão maior do que a primeira; e ao fim dos tempos, depois de alguns anos, ele virá com um grande exército e com muitas riquezas.'",
-      "references": [],
-      "comentario": "O rei do norte (Antíoco III) retornará com um exército maior e muitas riquezas, após alguns anos. Isso prediz a Quinta Guerra Síria.",
-      "temas": ["rei do norte", "retorno", "exército", "riquezas", "guerra"],
-      "personagens": ["Antíoco III, o Grande"]
+      "parafrase": "Em seguida, o rei do norte reunirá um exército colossal, muito maior e mais forte do que o primeiro, e após um longo período de preparação e guerra, ele finalmente esmagará o poder do sul com força avassaladora.",
+      "referencias": [
+        "Números 13:33",
+        "Judas 1:3"
+      ],
+      "comentario": "Isto aponta para a invasão final, quando Antíoco III o Grande lidera a Sexta Guerra Síria (cerca de 202-199 a.C.), subjugando definitivamente o Egito Ptolomaico. O longo período de preparação corresponde aos anos de consolidação persa/selêucida.",
+      "temas": [
+        "Exércitos Colossais",
+        "Supremacia Militar",
+        "Domínio Final"
+      ],
+      "personagens": [
+        "Rei do Norte"
+      ]
     },
     "14": {
-      "parafrase": "'E naqueles tempos muitos se levantarão contra o rei do sul; também os filhos dos violentos do seu povo se levantarão para cumprir a visão; mas eles cairão.'",
-      "references": [],
-      "comentario": "Muitos se levantarão contra o rei do sul, incluindo os filhos dos violentos (judeus rebeldes) que tentarão cumprir a visão, mas cairão. Isso se refere às revoltas judaicas e à intervenção divina.",
-      "temas": ["rei do sul", "revolta", "visão", "queda", "intervenção divina"],
-      "personagens": []
+      "parafrase": "Naquele tempo, muitos se levantarão contra o reino do sul, e salteadores e rebeldes de seu próprio povo se juntarão a eles para tomar seus tesouros, mas todos esses esforços combinados resultarão apenas em um fracasso retumbante.",
+      "referencias": [
+        "Salmos 129:1",
+        "Apocalipse 17:16"
+      ],
+      "comentario": "Descreve a instabilidade interna do Egito Ptolomaico (revoltas internas e ataques de vizinhos menores) durante a ascensão do poder selêucida, mas essas revoltas não conseguem derrubar a dinastia, sendo esmagadas ou ignoradas pelo poder maior.",
+      "temas": [
+        "Revolta Interna",
+        "Instabilidade Política",
+        "Fracasso da Oposição"
+      ],
+      "personagens": [
+        "Rei do Sul",
+        "Salteadores",
+        "Rebeldes"
+      ]
     },
     "15": {
-      "parafrase": "'Então o rei do norte virá e construirá rampas de cerco e tomará a cidade fortificada; e os braços do sul não resistirão, nem o seu povo escolhido, nem haverá força para resistir.'",
-      "references": [],
-      "comentario": "O rei do norte (Antíoco III) virá e tomará a cidade fortificada (Sidom), e o rei do sul não resistirá. Isso prediz a vitória de Antíoco III sobre o Egito.",
-      "temas": ["rei do norte", "cerco", "cidade fortificada", "rei do sul", "vitória"],
-      "personagens": ["Antíoco III, o Grande"]
+      "parafrase": "Então, o rei do norte marchará com todo o seu poder militar e sitiará as cidades fortificadas do sul, e as forças egípcias não conseguirão resistir a ele; seus soldados mais bravos desmaiarão de terror.",
+      "referencias": [
+        "Miquéias 4:13",
+        "Isaías 37:33"
+      ],
+      "comentario": "Antíoco III investe contra o Egito, tomando as fortalezas costeiras (como Gaza) e forçando o Egito a aceitar seus termos. As 'cidades bem defendidas' (מִגְדָּלִים - 'migdalim') caem perante a pressão implacável.",
+      "temas": [
+        "Cerco Militar",
+        "Queda de Fortalezas",
+        "Terror no Campo de Batalha"
+      ],
+      "personagens": [
+        "Rei do Norte",
+        "Soldados do Sul"
+      ]
     },
     "16": {
-      "parafrase": "'Mas aquele que vem contra ele fará o que lhe agradar, e ninguém resistirá diante dele; e ele ficará na terra gloriosa, e a destruição estará em sua mão.'",
-      "references": [],
-      "comentario": "O rei do norte (Antíoco III) fará o que lhe agradar, e ninguém resistirá a ele. Ele ficará na terra gloriosa (Israel) e trará destruição. Isso prediz o domínio selêucida sobre Israel.",
-      "temas": ["rei do norte", "domínio", "terra gloriosa", "destruição", "Antíoco III, o Grande"],
-      "personagens": ["Antíoco III, o Grande"]
+      "parafrase": "Ele fará o que quiser contra o sul, e não haverá ninguém capaz de barrar seu avanço. Ele invadirá a terra prometida (a terra de Israel), e ela cairá completamente em suas mãos conquistadoras.",
+      "referencias": [
+        "Josué 1:5",
+        "Daniel 7:25"
+      ],
+      "comentario": "A conquista da Celessíria e da Judeia faz parte da campanha de Antíoco III contra o Egito. A 'Terra Santa' (ארץ־הצבי - 'erets hatsvi', literalmente 'a terra da glória/beleza') é tomada como consequência do conflito principal entre os dois reinos.",
+      "temas": [
+        "Conquista Territorial",
+        "Domínio Absoluto",
+        "A Terra Santa"
+      ],
+      "personagens": [
+        "Rei do Norte"
+      ]
     },
     "17": {
-      "parafrase": "'Ele também porá o seu rosto para vir com a força de todo o seu reino, e fará um acordo com ele; e ele lhe dará a filha das mulheres para destruí-la; mas ela não permanecerá, nem será para ele.'",
-      "referencias": [],
-      "comentario": "O rei do norte (Antíoco III) fará um acordo com o rei do sul, dando-lhe sua filha (Cleópatra I) em casamento para destruí-lo. No entanto, o plano falhará. Isso prediz a aliança matrimonial e sua falha.",
-      "temas": ["rei do norte", "rei do sul", "acordo", "casamento", "traição", "falha"],
-      "personagens": ["Antíoco III, o Grande", "Cleópatra I"]
+      "parafrase": "O rei do norte então planejará dominar completamente o sul, propondo um acordo matrimonial, oferecendo sua filha para ser esposa do jovem rei do sul, com o objetivo secreto de enfraquecê-lo e tomar seu reino por meio da traição familiar. Mas este plano astuto falhará, pois os conselheiros do sul o farão desistir desse acordo.",
+      "referencias": [
+        "Gênesis 34:13",
+        "Provérbios 29:20"
+      ],
+      "comentario": "Antíoco III tenta casar sua filha Cleópatra I com Ptolomeu V Epifânio (o jovem rei do sul), esperando obter controle indireto sobre o Egito. No entanto, os ministros egípcios resistem a essa dominação política disfarçada, forçando Antíoco a usar a força.",
+      "temas": [
+        "Casamento Político",
+        "Intriga",
+        "Resistência dos Conselheiros"
+      ],
+      "personagens": [
+        "Rei do Norte",
+        "Filha do Rei do Norte",
+        "Jovem Rei do Sul",
+        "Conselheiros"
+      ]
     },
     "18": {
-      "parafrase": "'Depois disso, ele voltará o seu rosto para as ilhas e tomará muitas; mas um comandante o fará cessar de seu opróbrio; sem o seu próprio opróbrio, ele o fará retornar a ele.'",
-      "references": [],
-      "comentario": "O rei do norte (Antíoco III) voltará seu rosto para as ilhas e tomará muitas, mas um comandante (Cipião Asiático) o fará cessar de seu opróbrio. Isso prediz a Guerra Romano-Síria e a derrota de Antíoco III.",
-      "temas": ["rei do norte", "ilhas", "comandante", "opróbrio", "derrota", "guerra"],
-      "personagens": ["Antíoco III, o Grande", "Cipião Asiático"]
+      "parafrase": "Com o fracasso da aliança, o rei do norte voltará suas atenções para o oeste, lançando ataques contra as costas e as ilhas, conquistando muitas cidades poderosas. Mas seu avanço será interrompido por um comandante vindo de terras distantes (Roma), que o forçará a recuar e o humilhará publicamente.",
+      "referencias": [
+        "Jonas 1:17",
+        "1 Macabeus 8:1"
+      ],
+      "comentario": "Antíoco III volta-se para o Mediterrâneo ocidental (Ásia Menor e Grécia), mas é confrontado pela República Romana (o 'homem do mar' ou o poder de longe), que o derrota na Batalha de Magnésia (190 a.C.).",
+      "temas": [
+        "Expansão Marítima",
+        "Intervenção Estrangeira",
+        "Humilhação Pública"
+      ],
+      "personagens": [
+        "Rei do Norte",
+        "Comandante de Longe (Roma)"
+      ]
     },
     "19": {
-      "parafrase": "'Então ele voltará o seu rosto para as fortalezas de sua própria terra; mas ele tropeçará e cairá, e não será encontrado.'",
-      "references": [],
-      "comentario": "O rei do norte (Antíoco III) retornará às suas fortalezas, mas tropeçará e cairá, e não será encontrado. Isso prediz sua morte e o fim de seu reinado.",
-      "temas": ["rei do norte", "fortalezas", "queda", "morte", "fim"],
-      "personagens": ["Antíoco III, o Grande"]
+      "parafrase": "O rei do norte terá que se voltar para suas próprias fortalezas no seu próprio território, mas tropeçará e cairá de forma decisiva, desaparecendo para sempre do cenário de poder.",
+      "referencias": [
+        "Salmos 37:10",
+        "Isaías 17:4"
+      ],
+      "comentario": "A derrota em Magnésia enfraqueceu irrevogavelmente o poder selêucida, que foi forçado a pagar tributos e nunca mais recuperou sua antiga força, levando a um declínio interno.",
+      "temas": [
+        "Queda Final",
+        "Fracasso Interno",
+        "Desaparecimento do Poder"
+      ],
+      "personagens": [
+        "Rei do Norte"
+      ]
     },
     "20": {
-      "parafrase": "'Então em seu lugar se levantará um que fará com que um cobrador de impostos passe pela glória do reino; mas em poucos dias ele será quebrado, nem em ira, nem em batalha.'",
-      "references": [],
-      "comentario": "Em seu lugar, um cobrador de impostos (Selêuco IV Filopátor) se levantará, mas será quebrado em poucos dias, sem ira ou batalha. Isso prediz sua morte por envenenamento.",
-      "temas": ["cobrador de impostos", "glória do reino", "quebra", "morte", "envenenamento"],
-      "personagens": ["Selêuco IV Filopátor"]
+      "parafrase": "Em seu lugar, surgirá um personagem astuto e traiçoeiro, um cobrador de impostos, que será enviado por uma nação vizinha para governar, mas seu reinado será de curta duração, terminando em morte súbita e inesperada, sem que ninguém o ame ou o deseje.",
+      "referencias": [
+        "Daniel 8:23",
+        "1 Tessalonicenses 5:3"
+      ],
+      "comentario": "Este é classicamente identificado como Seleuco IV Filopator, filho de Antíoco III. Ele enviou Heliodoro (o 'coletor de impostos' ou 'enviado') para saquear o Templo em Jerusalém (2 Macabeus 3). Ele foi assassinado por Heliodoro, confirmando a 'morte súbita' e sem aclamação.",
+      "temas": [
+        "Sucessor Astuto",
+        "Morte Prematura",
+        "Reinado Não Amado"
+      ],
+      "personagens": [
+        "Homem Astuto (Seleuco IV)",
+        "Enviado (Heliodoro)"
+      ]
     },
     "21": {
-      "parafrase": "'E em seu lugar se levantará um homem vil, a quem não darão a honra da realeza; mas ele virá em paz e obterá o reino por intrigas.'",
-      "references": [],
-      "comentario": "Em seu lugar, um homem vil (Antíoco IV Epifânio) se levantará, que não terá a honra da realeza, mas obterá o reino por intrigas. Isso prediz sua ascensão ao poder de forma ilegítima.",
-      "temas": ["homem vil", "realeza", "intrigas", "ascensão ao poder", "Antíoco IV Epifânio"],
-      "personagens": ["Antíoco IV Epifânio"]
+      "parafrase": "Então, levantará um indivíduo desprezível, um usurpador, que não teria direito legítimo à coroa, mas que, através de maquinações e subornos, assumirá o trono com astúcia e falsidade.",
+      "referencias": [
+        "Daniel 7:8",
+        "Romanos 1:29"
+      ],
+      "comentario": "Este é Antíoco IV Epifânio, que era tecnicamente o segundo filho, mas que subiu ao poder enquanto o herdeiro legítimo estava em Roma, subornando oficiais romanos para garantir o trono. Ele é o arquétipo do 'desprezível' (בּוֹז - 'boz').",
+      "temas": [
+        "Usurpação",
+        "Corrupção Política",
+        "Falsidade Real"
+      ],
+      "personagens": [
+        "Indivíduo Desprezível (Antíoco IV)"
+      ]
     },
     "22": {
-      "parafrase": "'E com os braços de uma inundação eles serão varridos de diante dele e quebrados; sim, também o príncipe da aliança.'",
-      "references": [],
-      "comentario": "Antíoco IV varrerá e quebrará os braços de uma inundação (exércitos), incluindo o príncipe da aliança (o sumo sacerdote Onias III). Isso prediz sua crueldade e sua perseguição.",
-      "temas": ["inundação", "quebra", "príncipe da aliança", "crueldade", "perseguição"],
-      "personagens": ["Antíoco IV Epifânio", "Onias III"]
+      "parafrase": "Exércitos poderosos serão varridos de sua frente como um rio transbordado, e também o príncipe da aliança (o líder da nação eleita) será derrubado por essas forças avassaladoras.",
+      "referencias": [
+        "Isaías 8:7",
+        "Salmos 89:39"
+      ],
+      "comentario": "Antíoco IV Epifânio esmagou a liderança judaica da época e subjugou a Judeia (o 'príncipe da aliança' ou líder da nação eleita), consolidando o controle selêucida após a morte do predecessor.",
+      "temas": [
+        "Supressão da Liderança",
+        "Exércitos Inundantes",
+        "Derrubada de Autoridade"
+      ],
+      "personagens": [
+        "Antíoco IV",
+        "Príncipe da Aliança"
+      ]
     },
     "23": {
-      "parafrase": "'E depois da aliança feita com ele, ele agirá traiçoeiramente; pois ele subirá e se tornará forte com um pequeno povo.'",
-      "references": [],
-      "comentario": "Antíoco IV agirá traiçoeiramente após fazer uma aliança, e se tornará forte com um pequeno povo. Isso prediz sua astúcia e sua capacidade de enganar.",
-      "temas": ["aliança", "traição", "astúcia", "engano", "Antíoco IV Epifânio"],
-      "personagens": ["Antíoco IV Epifânio"]
+      "parafrase": "E mesmo após firmar um pacto de paz com os líderes, ele o quebrará rapidamente, pois seu poder se consolidará através de um pequeno grupo de aliados traiçoeiros que o apoiam com maquinações astutas.",
+      "referencias": [
+        "Daniel 9:27",
+        "Salmos 55:12"
+      ],
+      "comentario": "Refere-se a um dos tratados iniciais feitos por Antíoco IV com os Ptolomeus (ou com os judeus), que ele logo violaria para iniciar sua campanha de helenização forçada, usando uma camarilha para tramar.",
+      "temas": [
+        "Pacto Quebrado",
+        "Maquinações Políticas",
+        "Apoio de Cúmplices"
+      ],
+      "personagens": [
+        "Antíoco IV",
+        "Aliados"
+      ]
     },
     "24": {
-      "parafrase": "'Ele entrará em paz nas províncias mais ricas; e ele fará o que seus pais não fizeram, nem os pais de seus pais; ele espalhará entre eles a presa, e o despojo, e as riquezas; e ele tramará os seus planos contra as fortalezas, mesmo por um tempo.'",
-      "references": [],
-      "comentario": "Antíoco IV entrará em paz nas províncias ricas e espalhará presa, despojo e riquezas, agindo de forma diferente de seus antecessores. Ele tramará planos contra as fortalezas, mostrando sua astúcia e sua ganância.",
-      "temas": ["paz", "províncias ricas", "presa", "despojo", "riquezas", "planos", "astúcia", "ganância"],
-      "personagens": ["Antíoco IV Epifânio"]
+      "parafrase": "Ele invadirá as partes mais férteis da nação em tempos de aparente paz e segurança, fazendo o que seus antecessores, nem mesmo os mais ousados, jamais ousaram fazer, acumulando vastas riquezas antes de lançar seu ataque principal.",
+      "referencias": [
+        "Provérbios 29:11",
+        "Ezequiel 38:12"
+      ],
+      "comentario": "Este é o ponto crucial da invasão da Judeia por Antíoco IV, descrita em detalhe em 2 Macabeus. Ele age sob o pretexto de paz, toma a terra rica e, crucialmente, saqueia o Templo de Jerusalém, algo que os reis anteriores (talvez por respeito ou medo) não fizeram com tal audácia.",
+      "temas": [
+        "Invasão Sob Falsa Paz",
+        "Acúmulo de Riquezas",
+        "Ousadia Inigualável"
+      ],
+      "personagens": [
+        "Antíoco IV"
+      ]
     },
     "25": {
-      "parafrase": "'E ele agitará a sua força e o seu coração contra o rei do sul com um grande exército; e o rei do sul se agitará para a guerra com um exército muito grande e poderoso; mas ele não resistirá, pois eles tramarão planos contra ele.'",
-      "references": [],
-      "comentario": "Antíoco IV agitará sua força contra o rei do sul com um grande exército, e o rei do sul (Ptolomeu VI Filométor) se agitará com um exército ainda maior, mas não resistirá, pois haverá planos contra ele. Isso prediz a Sexta Guerra Síria.",
-      "temas": ["rei do norte", "rei do sul", "exército", "guerra", "planos", "derrota"],
-      "personagens": ["Antíoco IV Epifânio", "Ptolomeu VI Filométor"]
+      "parafrase": "Ele usará sua imensa força e coragem para se voltar contra o rei do sul, mas esta não será a batalha final; ele o atacará com um exército enorme, mas o rei do sul, fortalecido e apoiado, responderá com um contra-ataque ainda mais poderoso e triunfante.",
+      "referencias": [
+        "1 Reis 20:13",
+        "Apocalipse 19:19"
+      ],
+      "comentario": "Isso descreve a Quinta Guerra Síria, onde Antíoco IV (Rei do Norte) ataca o Egito (Rei do Sul). No entanto, a intervenção de Roma (simbolizada pelo poder que apoia o Sul, como visto no versículo 18) força Antíoco a recuar em Eleusis (168 a.C.), marcando a derrota final de sua ambição em relação ao Egito.",
+      "temas": [
+        "Conflito Final Sul vs. Norte",
+        "Apoio Estrangeiro",
+        "Reversão de Poder"
+      ],
+      "personagens": [
+        "Antíoco IV",
+        "Rei do Sul"
+      ]
     },
     "26": {
-      "parafrase": "'Sim, aqueles que comem da sua porção de comida o destruirão, e o seu exército será varrido, e muitos cairão mortos.'",
-      "references": [],
-      "comentario": "Aqueles que comem da comida do rei do sul (seus próprios oficiais) o destruirão, e seu exército será varrido, com muitos mortos. A traição interna é a causa da derrota.",
-      "temas": ["traição", "destruição", "exército", "morte", "derrota"],
-      "personagens": []
+      "parafrase": "O seu filho, aquele que governava em seu lugar, chegou com um exército enorme, como uma onda avassaladora, e se apoderou do trono, mas foi derrotado e destruído, e o reino dele desapareceu. Seu filho, que era fraco, juntou-se ao pai na ruína. Esta conquista foi rápida e violenta.",
+      "referencias": [
+        "Isaías 19:13",
+        "Jeremias 49:7"
+      ],
+      "comentario": "Este versículo descreve a queda do sucessor do Rei do Norte (Selêuco II Calínico). O 'seu filho' refere-se a Seleuco III Cerauno. A imagem de 'levantar-se' um pequeno exército que rapidamente aniquila o poder estabelecido sugere uma vitória esmagadora e inesperada, talvez referindo-se à sua derrota posterior ou ao seu assassinato subsequente por seus próprios oficiais. A destruição é total, um evento rápido e destrutivo.",
+      "temas": [
+        "Queda de Reinados",
+        "Sucessão Violenta",
+        "Destruição Rápida"
+      ],
+      "personagens": [
+        "Rei do Norte (Selêuco II)",
+        "Filho do Rei do Norte (Selêuco III)"
+      ]
     },
     "27": {
-      "parafrase": "'E ambos os reis, com seus corações inclinados ao mal, falarão mentiras à mesma mesa; mas não prosperará, pois o fim ainda está para o tempo determinado.'",
-      "references": [],
-      "comentario": "Ambos os reis (Antíoco IV e Ptolomeu VI) falarão mentiras um ao outro, mas seus planos não prosperarão, pois o fim ainda não chegou. A traição e o engano são evidentes.",
-      "temas": ["reis", "corações inclinados ao mal", "mentiras", "planos", "falha", "tempo determinado"],
-      "personagens": ["Antíoco IV Epifânio", "Ptolomeu VI Filométor"]
+      "parafrase": "Ambos os reis, o pai e o filho, sentar-se-ão à mesa para urdir planos malignos, mas o acordo será uma farsa. A aliança deles não terá futuro, pois tudo terminará em traição e destruição, antes que o prazo final chegue.",
+      "referencias": [
+        "Salmos 55:21",
+        "Provérbios 26:25"
+      ],
+      "comentario": "Refere-se à tentativa de aliança ou acordo matrimonial, provavelmente entre a casa Selêucida e Ptolomeu, destinada a fortalecer a posição do Rei do Norte contra Roma ou outros inimigos. O termo 'mesa' simboliza o acordo político. A expressão hebraica 'fim determinado' aponta para o desfecho profético final, indicando que seus esforços humanos serão frustrados pelo cronograma divino.",
+      "temas": [
+        "Alianças Fracassadas",
+        "Intrigas Políticas",
+        "Previsibilidade do Julgamento"
+      ],
+      "personagens": [
+        "Rei do Norte",
+        "Rei do Sul (Ptolomeu)"
+      ]
     },
     "28": {
-      "parafrase": "'Então ele retornará à sua própria terra com grandes riquezas; e o seu coração estará contra a aliança santa; e ele agirá, e retornará à sua própria terra.'",
-      "references": [],
-      "comentario": "Antíoco IV retornará à sua própria terra com grandes riquezas, e seu coração estará contra a aliança santa (o povo de Deus). Ele agirá contra eles e retornará. Isso prediz sua perseguição aos judeus.",
-      "temas": ["rei do norte", "riquezas", "aliança santa", "perseguição", "Antíoco IV Epifânio"],
-      "personagens": ["Antíoco IV Epifânio"]
+      "parafrase": "Então, o Rei do Norte voltará para sua própria terra com suas vastas riquezas saqueadas. Seu coração estará cheio de ódio contra a aliança sagrada. Ele executará seus planos de vingança e voltará para casa, para o seu próprio território.",
+      "referencias": [
+        "Ezequiel 25:15",
+        "Apocalipse 13:16"
+      ],
+      "comentario": "Após o fracasso da aliança (possivelmente após a desastrosa Batalha de Raphia, onde ele perdeu, ou após retornar de campanhas anteriores), ele se volta contra a 'aliança sagrada' (o pacto com a Casa de Ptolomeu ou, em outra interpretação, contra os judeus que haviam se aliado ao Egito). O ódio se volta para a violação do juramento ou pacto religioso/político. Ele acumula despojos de guerra antes de se retirar.",
+      "temas": [
+        "Ira Contra a Aliança",
+        "Saque e Riqueza",
+        "Retorno ao Território Nativo"
+      ],
+      "personagens": [
+        "Rei do Norte"
+      ]
     },
     "29": {
-      "parafrase": "'No tempo determinado ele retornará e virá para o sul; mas não será como a primeira ou como a última vez.'",
-      "references": [],
-      "comentario": "Antíoco IV retornará para o sul no tempo determinado, mas sua segunda invasão não será como a primeira ou a última. Isso prediz sua segunda campanha contra o Egito.",
-      "temas": ["rei do norte", "retorno", "sul", "invasão", "Antíoco IV Epifânio"],
-      "personagens": ["Antíoco IV Epifânio"]
+      "parafrase": "Em uma data marcada, ele se preparará novamente para marchar contra o Sul, mas desta vez, a situação não será como antes. O destino mudou para ele.",
+      "referencias": [
+        "Números 24:20",
+        "Isaías 14:28"
+      ],
+      "comentario": "Este ponto marca uma nova campanha do Rei do Norte, geralmente identificada como sendo contra Ptolomeu IV. A frase 'não será como antes' indica uma reversão de sorte, sinalizando que os resultados desta próxima investida serão diferentes das anteriores, prenunciando a derrota em Raphia ou o seu próprio fim.",
+      "temas": [
+        "Mudança de Fortuna",
+        "Nova Campanha Militar",
+        "Inversão de Resultados"
+      ],
+      "personagens": [
+        "Rei do Norte"
+      ]
     },
     "30": {
-      "parafrase": "'Pois os navios de Quitim virão contra ele; portanto, ele ficará desanimado e retornará, e terá indignação contra a aliança santa; e ele agirá; e ele retornará e dará atenção àqueles que abandonam a aliança santa.'",
-      "references": [],
-      "comentario": "Navios de Quitim (Roma) virão contra Antíoco IV, e ele ficará desanimado e retornará. Ele terá indignação contra a aliança santa e dará atenção àqueles que a abandonam. Isso prediz a intervenção romana e a perseguição aos judeus apóstatas.",
-      "temas": ["navios de Quitim", "Roma", "desânimo", "indignação", "aliança santa", "apóstatas", "Antíoco IV Epifânio"],
-      "personagens": ["Antíoco IV Epifânio"]
+      "parafrase": "Pois navios vindos do Ocidente, da região de Quitim, chegarão. Eles trarão uma força que o confrontará e o humilhará. Então, ele desistirá de seu plano, sentindo-se derrotado, e voltará para casa com rancor profundo.",
+      "referencias": [
+        "Gênesis 10:5",
+        "Ezequiel 27:6"
+      ],
+      "comentario": "A chegada de 'navios de Quitim' (geralmente identificados como Roma ou forças influenciadas por Roma, vindas da costa italiana ou ilhas do Mediterrâneo ocidental) é o ponto de inflexão. Roma intervém diplomaticamente (ou ameaça intervir) no conflito entre Síria e Egito. O Rei do Norte é forçado a recuar, seu orgulho ferido.",
+      "temas": [
+        "Intervenção Estrangeira (Roma)",
+        "Humilhação Militar",
+        "Frustração do Orgulho"
+      ],
+      "personagens": [
+        "Rei do Norte",
+        "Forças de Quitim (Roma)"
+      ]
     },
     "31": {
-      "parafrase": "'E braços se levantarão de sua parte, e eles profanarão o santuário da força, e tirarão o sacrifício contínuo, e estabelecerão a abominação desoladora.'",
-      "references": [],
-      "comentario": "Braços (exércitos) de Antíoco IV profanarão o santuário, tirarão o sacrifício contínuo e estabelecerão a abominação desoladora. Isso se refere à profanação do Templo de Jerusalém e à interrupção dos sacrifícios.",
-      "temas": ["braços", "profanação", "santuário", "sacrifício contínuo", "abominação desoladora", "Antíoco IV Epifânio"],
-      "personagens": ["Antíoco IV Epifânio"]
+      "parafrase": "O Rei do Norte enviará suas tropas para profanar o Templo Sagrado e as fortalezas da Judeia. Eles abolirão os rituais diários de adoração e erguerão o abominável ato de desolação.",
+      "referencias": [
+        "Mateus 24:15",
+        "2 Crônicas 36:7"
+      ],
+      "comentario": "Este é um evento crucial, frequentemente visto como uma antecipação de Antíoco IV Epifânio (o 'Rei do Norte' final). O ato de 'tirar o sacrifício diário' (o Holocausto contínuo) e 'colocar a abominação que desola' é uma blasfêmia direta contra o Judaísmo. O termo para 'abominação' (Heb. *shiqquç*) é forte, denotando idolatria repugnante.",
+      "temas": [
+        "Profanação do Templo",
+        "Cessação do Culto",
+        "Abominação da Desolação"
+      ],
+      "personagens": [
+        "Rei do Norte"
+      ]
     },
     "32": {
-      "parafrase": "'E aqueles que agem impiamente contra a aliança, ele os corromperá com lisonjas; mas o povo que conhece o seu Deus será forte e agirá.'",
-      "references": [],
-      "comentario": "Antíoco IV corromperá com lisonjas aqueles que agem impiamente contra a aliança, mas o povo que conhece seu Deus será forte e agirá. Isso contrasta a apostasia com a fidelidade.",
-      "temas": ["impiedade", "aliança", "lisonjas", "corrupção", "conhecimento de Deus", "força", "ação"],
-      "personagens": ["Antíoco IV Epifânio"]
+      "parafrase": "Com palavras astutas e melosas, ele enganará aqueles que agem de forma perversa e vil contra a aliança. Mas o povo que realmente conhece o seu Deus demonstrará firmeza e resistirá.",
+      "referencias": [
+        "2 Tessalonicenses 2:10",
+        "Romanos 11:18"
+      ],
+      "comentario": "O engano é a ferramenta principal. Ele usará lisonja e falsas promessas ('palavras suaves') para manipular aqueles que já estão inclinados à apostasia ou à cumplicidade. Em contraste, os fiéis ('o povo que conhece seu Deus') permanecem firmes, um testemunho de fé inabalável.",
+      "temas": [
+        "Engano e Falsidade",
+        "Apostasia",
+        "Fidelidade em Meio à Perseguição"
+      ],
+      "personagens": [
+        "Rei do Norte",
+        "Apostatas",
+        "O Povo Fiel"
+      ]
     },
     "33": {
-      "parafrase": "'E aqueles que são sábios entre o povo instruirão a muitos; no entanto, eles cairão pela espada e pela chama, pelo cativeiro e pelo despojo, por muitos dias.'",
-      "references": [],
-      "comentario": "Os sábios instruirão a muitos, mas sofrerão perseguição, caindo pela espada, chama, cativeiro e despojo. Isso prediz o martírio dos fiéis durante a perseguição de Antíoco IV.",
-      "temas": ["sábios", "instrução", "perseguição", "espada", "chama", "cativeiro", "despojo", "martírio"],
-      "personagens": []
+      "parafrase": "Os sábios e entendidos, os verdadeiros mestres, serão pisoteados e caídos por um tempo. Eles sofrerão a violência da perseguição e cairão pela espada e pelo fogo, e serão roubados de seus bens.",
+      "referencias": [
+        "Hebreus 11:36-38",
+        "Apocalipse 6:9"
+      ],
+      "comentario": "Os 'sábios' (Heb. *maskilim*) são aqueles dotados de discernimento espiritual. A perseguição os atinge duramente, forçando-os a um período de sofrimento extremo, que inclui prisão, expropriação e morte violenta, espelhando o martírio de muitos servos de Deus através da história.",
+      "temas": [
+        "Perseguição dos Sábios",
+        "Martírio",
+        "Sofrimento dos Justos"
+      ],
+      "personagens": [
+        "Os Sábios",
+        "Os Perseguidores"
+      ]
     },
     "34": {
-      "parafrase": "'Ora, quando eles caírem, eles serão ajudados com uma pequena ajuda; mas muitos se juntarão a eles com lisonjas.'",
-      "references": [],
-      "comentario": "Os fiéis receberão uma pequena ajuda, mas muitos se juntarão a eles com lisonjas, indicando a presença de falsos aliados. A ajuda é limitada e a traição é possível.",
-      "temas": ["ajuda", "lisonjas", "falsos aliados", "traição"],
-      "personagens": []
+      "parafrase": "Embora estejam caindo, um pequeno grupo deles receberá uma ajuda momentânea. Muitas pessoas se juntarão à causa deles, mas isso será feito por meio de conveniências e interesses, não por uma convicção profunda.",
+      "referencias": [
+        "Josué 1:5",
+        "Atos 4:32"
+      ],
+      "comentario": "A 'pequena ajuda' (*'ezrah ketsarah*) sugere um auxílio tático, talvez a resistência Macabeia inicial ou o apoio de facções políticas descontentes. A adesão de muitos não é por genuína conversão ou princípio, mas por oportunismo ('com lisonjas').",
+      "temas": [
+        "Auxílio Temporário",
+        "Apoio Oportunista",
+        "Resistência Minoritária"
+      ],
+      "personagens": [
+        "Os Sábios"
+      ]
     },
     "35": {
-      "parafrase": "'E alguns dos sábios cairão, para prová-los, e para purificá-los, e para embranquecê-los, até o tempo do fim; pois ainda está para o tempo determinado.'",
-      "references": [],
-      "comentario": "Alguns dos sábios cairão para provar, purificar e embranquecer o povo, até o tempo do fim. O sofrimento é para a purificação e para o cumprimento do plano divino.",
-      "temas": ["sábios", "queda", "prova", "purificação", "embranquecimento", "tempo do fim", "plano divino"],
-      "personagens": []
+      "parafrase": "Alguns dos sábios cairão para serem purificados pelo sofrimento, para que possam ser refinados e limpos antes do tempo designado. Mas a tribulação continuará até o fim, porque o prazo final estabelecido pelo destino ainda não chegou.",
+      "referencias": [
+        "1 Pedro 1:6-7",
+        "Apocalipse 3:18"
+      ],
+      "comentario": "O sofrimento não é apenas punição, mas um processo de refinação ('para serem purificados' ou 'para serem testados'). Isso conecta o sofrimento presente com o tempo profético final ('o tempo determinado' ou 'o fim designado'). A purificação é necessária antes que o plano maior se desenrole.",
+      "temas": [
+        "Purificação pelo Sofrimento",
+        "Refinamento Espiritual",
+        "O Fim Determinado"
+      ],
+      "personagens": [
+        "Os Sábios"
+      ]
     },
     "36": {
-      "parafrase": "'E o rei fará o que lhe agradar; e ele se exaltará e se engrandecerá acima de todo deus, e falará coisas maravilhosas contra o Deus dos deuses, e prosperará até que a indignação seja cumprida; pois o que está determinado será feito.'",
-      "references": [],
-      "comentario": "O rei vil (Antíoco IV) fará o que lhe agradar, exaltando-se acima de todo deus e falando blasfêmias contra Deus. Ele prosperará até que a indignação seja cumprida, pois o que está determinado será feito. Sua arrogância é extrema.",
-      "temas": ["rei vil", "exaltação", "blasfêmia", "prosperidade", "indignação", "determinação divina", "Antíoco IV Epifânio"],
-      "personagens": ["Antíoco IV Epifânio"]
+      "parafrase": "Então, o rei agirá segundo sua própria vontade, exaltando-se acima de todo deus, e falará as mais impensáveis blasfêmias contra o Deus dos deuses. Ele prosperará em sua tirania até que a ira divina, decretada para o fim, se complete.",
+      "referencias": [
+        "2 Tessalonicenses 2:4",
+        "Apocalipse 17:17"
+      ],
+      "comentario": "Este é o auge da arrogância do 'Rei do Norte' (identificado classicamente como Antíoco IV). A expressão 'Deus dos deuses' (*El Ha'elim*) enfatiza sua afronta direta contra o Deus supremo. Sua prosperidade é paradoxalmente parte do plano de Deus para cumprir o juízo final ('a determinação estabelecida').",
+      "temas": [
+        "Arrogância Máxima",
+        "Blasfêmia Contra Deus",
+        "Prosperidade do Ímpio"
+      ],
+      "personagens": [
+        "O Rei Tirano"
+      ]
     },
     "37": {
-      "parafrase": "'Nem dará atenção aos deuses de seus pais, nem ao desejo das mulheres, nem dará atenção a deus algum; pois ele se engrandecerá acima de tudo.'",
-      "references": [],
-      "comentario": "O rei vil não dará atenção aos deuses de seus pais, nem ao desejo das mulheres, nem a deus algum, pois ele se engrandecerá acima de tudo. Sua impiedade é total e sua autossuficiência é absoluta.",
-      "temas": ["deuses dos pais", "desejo das mulheres", "impiedade", "autossuficiência", "Antíoco IV Epifânio"],
-      "personagens": ["Antíoco IV Epifânio"]
+      "parafrase": "Ele não dará atenção aos deuses de seus ancestrais, nem ao desejo das mulheres, nem a qualquer outro deus, pois ele se colocará acima de todos eles, buscando apenas seu próprio poder e glória.",
+      "referencias": [
+        "1 Reis 11:4",
+        "Romanos 1:25"
+      ],
+      "comentario": "Esta recusa em honrar os deuses tradicionais de sua linhagem (ou talvez a recusa em fazer alianças matrimoniais políticas estratégicas) mostra seu foco singular na auto-deificação. Ele rejeita todas as formas de autoridade, incluindo aquelas baseadas em tradição ou laços afetivos/dinásticos.",
+      "temas": [
+        "Rejeição da Tradição",
+        "Auto-Adoração",
+        "Rejeição da Autoridade Divina"
+      ],
+      "personagens": [
+        "O Rei Tirano"
+      ]
     },
     "38": {
-      "parafrase": "'Mas em seu lugar ele honrará o deus das fortalezas; e um deus que seus pais não conheceram ele honrará com ouro, e com prata, e com pedras preciosas, e com coisas desejáveis.'",
-      "references": [],
-      "comentario": "O rei vil honrará o deus das fortalezas (um deus da guerra ou do poder militar), e um deus desconhecido por seus pais, com riquezas. Sua adoração é pragmática e idolátrica.",
-      "temas": ["deus das fortalezas", "deus desconhecido", "honra", "riquezas", "idolatria", "Antíoco IV Epifânio"],
-      "personagens": ["Antíoco IV Epifânio"]
+      "parafrase": "Em seu lugar, ele honrará a fortaleza, o deus da fortaleza (ou o poder militar), e a um deus que seus antepassados jamais conheceram, ele oferecerá riquezas, ouro, prata e pedras preciosas como tributo de sua lealdade.",
+      "referencias": [
+        "Jó 28:1",
+        "Isaías 60:6"
+      ],
+      "comentario": "O 'deus da fortaleza' (*'el mahoz'*) pode ser uma personificação do poder militar, da máquina de guerra, ou talvez uma referência a Zeus, que era muito cultuado na época helenística. Ele investe seu tesouro na base de seu poder, o exército e a força bruta, em vez dos deuses antigos.",
+      "temas": [
+        "Culto à Força Militar",
+        "Materialismo",
+        "Novos Ídolos"
+      ],
+      "personagens": [
+        "O Rei Tirano"
+      ]
     },
     "39": {
-      "parafrase": "'Assim ele agirá nas fortalezas mais fortes com um deus estrangeiro, a quem ele reconhecerá e aumentará a glória; e ele os fará governar sobre muitos, e dividirá a terra por preço.'",
-      "references": [],
-      "comentario": "O rei vil agirá nas fortalezas com um deus estrangeiro, a quem ele reconhecerá e glorificará. Ele fará com que governem sobre muitos e dividirá a terra por preço. Sua ação é de poder e de corrupção.",
-      "temas": ["fortalezas", "deus estrangeiro", "glória", "governo", "divisão da terra", "corrupção", "Antíoco IV Epifânio"],
-      "personagens": ["Antíoco IV Epifânio"]
+      "parafrase": "Com o apoio deste novo poder, ele sitiará as fortalezas mais bem guardadas. Aos que o seguirem, ele lhes dará grande honra e autoridade, distribuindo terras e riquezas como recompensa pela traição.",
+      "referencias": [
+        "Lucas 12:19",
+        "2 Timóteo 3:13"
+      ],
+      "comentario": "O rei usa os recursos para solidificar sua base de poder, recompensando generosamente seus colaboradores mais leais — aqueles que apostataram e o ajudaram a profanar o culto. Este 'repartimento de terras' é a sedução final para a apostasia.",
+      "temas": [
+        "Recompensa aos Traidores",
+        "Domínio das Fortalezas",
+        "Concessões Políticas"
+      ],
+      "personagens": [
+        "O Rei Tirano",
+        "Seus Apoiadores"
+      ]
     },
     "40": {
-      "parafrase": "'E no tempo do fim, o rei do sul lutará com ele; e o rei do norte virá contra ele como uma tempestade, com carros, e com cavaleiros, e com muitos navios; e ele entrará nos países, e inundará, e passará.'",
-      "references": [],
-      "comentario": "No tempo do fim, o rei do sul (Egito) lutará com o rei do norte (Antíoco IV), e o rei do norte virá como uma tempestade, invadindo muitos países. Isso prediz os eventos que levarão ao fim dos tempos.",
-      "temas": ["tempo do fim", "rei do sul", "rei do norte", "guerra", "tempestade", "invasão"],
-      "personagens": ["Antíoco IV Epifânio"]
+      "parafrase": "No tempo do fim, o Rei do Sul avançará com fúria e impulso, como um aríete contra ele. O Rei do Norte reagirá, atacando com carros de guerra, cavalaria e uma frota imensa, invadindo muitas terras como uma inundação imparável.",
+      "referencias": [
+        "Joel 2:2",
+        "Apocalipse 9:16"
+      ],
+      "comentario": "Esta é a batalha final entre os dois reis, onde o Sul (Egito, sob Ptolomeu VI ou talvez uma referência futura a Roma) ataca o Norte (Síria). A imagem de 'aríete' simboliza um ataque direto e esmagador. A resposta do Norte é descrita com uma força militar colossal, uma massa de poder militar que inunda a terra.",
+      "temas": [
+        "Confronto Final",
+        "Invasão em Massa",
+        "Poder Bélico"
+      ],
+      "personagens": [
+        "Rei do Sul",
+        "Rei do Norte"
+      ]
     },
     "41": {
-      "parafrase": "'Ele também entrará na terra gloriosa, e muitos países serão derrubados; mas estes escaparão de sua mão: Edom, e Moabe, e os principais dos filhos de Amom.'",
-      "references": [],
-      "comentario": "O rei do norte entrará na terra gloriosa (Israel) e derrubará muitos países, mas Edom, Moabe e Amom escaparão de sua mão. Isso prediz a invasão de Israel e a proteção de algumas nações vizinhas.",
-      "temas": ["terra gloriosa", "países", "Edom", "Moabe", "Amom", "invasão"],
-      "personagens": []
+      "parafrase": "Ele invadirá a Terra Santa, e muitos reinos cairão sob seu poder. Porém, três nações conseguirão escapar de seu domínio direto: Edom, Moabe e as principais cidades dos amonitas.",
+      "referencias": [
+        "Jeremias 48:1-4",
+        "Isaías 11:14"
+      ],
+      "comentario": "A Terra Santa (Judeia) é o palco central da batalha e é conquistada. O fato de Edom, Moabe e Amom escaparem sugere que estas regiões podem ter se aliado ao Sul ou que o Rei do Norte, focado em alvos maiores (como o Egito ou a própria Judeia), poupou estas nações vizinhas por razões estratégicas ou alianças temporárias.",
+      "temas": [
+        "Conquista da Terra Santa",
+        "Sobrevivência de Nações",
+        "Estratégia de Guerra"
+      ],
+      "personagens": [
+        "Rei do Norte",
+        "Edomitas",
+        "Moabitas",
+        "Amonitas"
+      ]
     },
     "42": {
-      "parafrase": "'Ele estenderá a sua mão sobre os países, e a terra do Egito não escapará.'",
-      "references": [],
-      "comentario": "O rei do norte estenderá sua mão sobre os países, e o Egito não escapará. Isso prediz o domínio do rei do norte sobre o Egito.",
-      "temas": ["rei do norte", "países", "Egito", "domínio"],
-      "personagens": []
+      "parafrase": "Ao estender seu poder sobre muitas terras, ele conquistará o Egito, o país poderoso, e não haverá escapatória para os egípcios, nem dos líbios, nem dos etíopes.",
+      "referencias": [
+        "Isaías 20:4",
+        "Ezequiel 30:4-5"
+      ],
+      "comentario": "O objetivo final da campanha é o Egito ('a terra formosa' em algumas traduções). O Rei do Norte, após subjugar a Judeia, lança-se sobre seu rival histórico, o Rei do Sul. Líbios e Etíopes (referências ao controle egípcio sobre a Núbia e o Norte da África) também caem sob seu jugo, consolidando seu domínio regional.",
+      "temas": [
+        "Conquista do Egito",
+        "Domínio Regional Total",
+        "Queda do Rei do Sul"
+      ],
+      "personagens": [
+        "Rei do Norte",
+        "Egito",
+        "Líbia",
+        "Etiópia"
+      ]
     },
     "43": {
-      "parafrase": "'Mas ele terá poder sobre os tesouros de ouro e de prata, e sobre todas as coisas desejáveis do Egito; e os líbios e os etíopes estarão em seus passos.'",
-      "references": [],
-      "comentario": "O rei do norte terá poder sobre os tesouros do Egito, e os líbios e etíopes o seguirão. Isso prediz o saque do Egito e a submissão de seus aliados.",
-      "temas": ["poder", "tesouros", "Egito", "líbios", "etíopes", "saque"],
-      "personagens": []
+      "parafrase": "Mas ele obterá tesouros escondidos de ouro, prata e tudo o que há de mais valioso no Egito. Os líbios e os etíopes o seguirão como seus servos leais.",
+      "referencias": [
+        "Provérbios 13:22",
+        "Zacarias 14:14"
+      ],
+      "comentario": "A conquista do Egito traz imensa riqueza (os 'tesouros escondidos' de seus templos e tesourarias reais). Os povos subjugados (líbios e etíopes) agora servem ao novo conquistador, tornando-o o poder hegemônico indiscutível na região.",
+      "temas": [
+        "Acumulação de Riquezas",
+        "Servidão dos Povos",
+        "Poder Hegemônico"
+      ],
+      "personagens": [
+        "Rei do Norte",
+        "Povos Subjugados"
+      ]
     },
     "44": {
-      "parafrase": "'Mas notícias do leste e do norte o perturbarão; portanto, ele sairá com grande furor para destruir e aniquilar muitos.'",
-      "references": [],
-      "comentario": "Notícias do leste e do norte perturbarão o rei do norte, e ele sairá com grande furor para destruir e aniquilar muitos. Isso prediz sua reação a ameaças externas.",
-      "temas": ["notícias", "leste", "norte", "perturbação", "furor", "destruição", "aniquilação"],
-      "personagens": []
+      "parafrase": "No entanto, notícias do Oriente e do Norte o perturbarão profundamente. Uma força poderosa virá contra ele, enviada para destruí-lo, e ele terá que partir em retirada rápida e furiosa.",
+      "referencias": [
+        "Jeremias 50:3",
+        "Apocalipse 16:12"
+      ],
+      "comentario": "A ascensão do Rei do Norte é interrompida. As notícias perturbadoras vêm do Oriente e do Norte. Este é amplamente interpretado como o movimento das legiões romanas (em resposta às ameaças ao Egito, que era um aliado de Roma) ou, em uma visão escatológica, a intervenção divina final. O ataque o força a abandonar suas conquistas.",
+      "temas": [
+        "Notícias Perturbadoras",
+        "Intervenção Externa",
+        "Retirada Forçada"
+      ],
+      "personagens": [
+        "Rei do Norte",
+        "A Força Interventora"
+      ]
     },
     "45": {
-      "parafrase": "'E ele plantará as tendas de seu palácio entre os mares, no monte glorioso e santo; no entanto, ele chegará ao seu fim, e ninguém o ajudará.'",
-      "references": [],
-      "comentario": "O rei do norte plantará as tendas de seu palácio no monte glorioso e santo (Jerusalém), mas chegará ao seu fim, e ninguém o ajudará. Isso prediz sua derrota final e a intervenção divina.",
-      "temas": ["palácio", "monte glorioso e santo", "fim", "derrota", "intervenção divina"],
-      "personagens": []
+      "parafrase": "Ele montará seu acampamento suntuoso entre o mar grandioso e a montanha sagrada, o Monte Sião. Mas, mesmo ali, em seu auge de arrogância, ele chegará ao seu fim trágico e ninguém poderá salvá-lo.",
+      "referencias": [
+        "Ezequiel 38:23",
+        "Apocalipse 20:10"
+      ],
+      "comentario": "O 'mar grandioso' é o Mediterrâneo; a 'montanha sagrada' é o Monte Sião em Jerusalém. Ele faz de Jerusalém ou de suas proximidades seu quartel-general final, simbolizando a máxima arrogância ao se posicionar fisicamente no centro da fé de seu inimigo. No entanto, é ali que seu poder é quebrado definitivamente, cumprindo o juízo final sobre o tirano, sem possibilidade de resgate humano.",
+      "temas": [
+        "Julgamento Final no Centro Sagrado",
+        "Queda do Tirano",
+        "Fim Inevitável"
+      ],
+      "personagens": [
+        "Rei do Norte"
+      ]
     }
   }
 }

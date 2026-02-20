@@ -1,239 +1,563 @@
 {
   "livro": "Efésios",
   "capitulo": 5,
-  "contexto_historico": "Continuando a exortação à nova vida em Cristo (capítulo 4), Paulo neste capítulo aprofunda a ética cristã, focando na imitação de Deus, na vida em amor, na pureza sexual, na sabedoria e no controle do Espírito Santo. Ele contrasta a vida nas trevas com a vida na luz, e exorta os crentes a andarem como filhos da luz, discernindo a vontade de Deus e se submetendo uns aos outros no temor de Cristo, especialmente no casamento.",
-  "bloco_tematico": "Andar em Amor, Luz e Sabedoria",
+  "contexto_historico": "O capítulo 5 de Efésios faz parte da seção prática da carta (capítulos 4-6), onde Paulo move o foco da teologia doutrinária (capítulos 1-3) para a aplicação ética e relacional da vida em Cristo. Historicamente, a igreja primitiva enfrentava tensões sobre como viver em santidade em um mundo greco-romano imoral. Este capítulo foca especificamente na transformação da identidade do cristão (deixando a escuridão para ser luz) e estabelece princípios para a vida familiar e comunitária, culminando com a analogia do casamento como reflexo de Cristo e a Igreja. O contexto exige um padrão de vida elevado, contrastando com os costumes pagãos da época. 🚶‍♂️➡️💡",
+  "bloco_tematico": "Vida Cristã Prática: Andar em Luz, Sabedoria e Ética Familiar 🏡💍",
   "versiculos": {
     "1": {
-      "parafrase": "Portanto, sejam imitadores de Deus, como filhos amados,",
-      "referencias": ["Mateus 5:48"],
-      "comentario": "A exortação é para imitar a Deus, que é o modelo perfeito de amor e santidade. A imitação é um sinal de filiação e amor.",
-      "temas": ["imitação de Deus", "filhos amados", "modelo"],
-      "personagens": ["Deus"]
+      "parafrase": "Portanto, sigam o caminho que Deus traçou para vocês! Tornem-se imitadores fiéis de Deus, como filhos amados que buscam seguir o exemplo de seu Pai celestial. Seus atos devem refletir o amor inigualável que Ele demonstrou por vocês. ❤️",
+      "referencias": [
+        "Colossenses 3:12",
+        "1 Pedro 1:15-16"
+      ],
+      "comentario": "O termo grego para 'Portanto' (οὖν - oun) estabelece uma forte conexão lógica com o capítulo 4, onde Paulo fala sobre a nova identidade em Cristo. 'Imitadores de Deus' (mimetai tou Theou) não é um convite à onipotência, mas sim à imitação de Seus atributos morais, especialmente o amor e a santidade.",
+      "temas": [
+        "Imitação de Deus",
+        "Chamado à santidade",
+        "Vida nova"
+      ],
+      "personagens": [
+        "Paulo",
+        "Cristãos de Éfeso"
+      ]
     },
     "2": {
-      "parafrase": "e vivam em amor, assim como Cristo nos amou e se entregou por nós como oferta e sacrifício de aroma agradável a Deus.",
-      "referencias": ["João 13:34", "Gálatas 2:20"],
-      "comentario": "O amor é o princípio que deve governar a vida do crente, seguindo o exemplo de Cristo, que se entregou como um sacrifício de aroma agradável a Deus. O amor sacrificial é a essência da vida cristã.",
-      "temas": ["viver em amor", "exemplo de Cristo", "sacrifício de aroma agradável", "amor sacrificial"],
-      "personagens": ["Cristo", "Deus"]
+      "parafrase": "E a forma principal de imitá-Lo é vivendo uma vida repleta de amor. Cristo nos amou e se entregou por nós como uma oferta viva, um sacrifício de aroma agradável e aceitável a Deus, um presente de valor supremo. 🎁",
+      "referencias": [
+        "Romanos 12:1",
+        "Gálatas 2:20"
+      ],
+      "comentario": "A referência a Cristo como 'oferta' (thusia) e 'perfume suave' (osmen eudias) remete ao sistema de sacrifícios do Antigo Testamento, mas aqui é visto como o sacrifício final e perfeito. É a base teológica para a ética subsequente.",
+      "temas": [
+        "Amor sacrificial",
+        "Sacrifício de Cristo",
+        "Oferta agradável"
+      ],
+      "personagens": [
+        "Jesus Cristo"
+      ]
     },
     "3": {
-      "parafrase": "Entre vocês não deve haver nem sequer menção de imoralidade sexual, de impureza ou de cobiça, pois essas coisas não são próprias para os santos.",
-      "referencias": ["1 Coríntios 6:18"],
-      "comentario": "Paulo adverte contra a imoralidade sexual, a impureza e a cobiça, que são incompatíveis com a vida de santidade dos crentes. A pureza é essencial para o testemunho.",
-      "temas": ["imoralidade sexual", "impureza", "cobiça", "não próprias para os santos", "pureza"],
-      "personagens": []
+      "parafrase": "Mas, atenção! Que jamais se ouça entre vocês a menção de imoralidades sexuais, de qualquer tipo de impureza ou de ganância desenfreada! Essas coisas não combinam com quem foi chamado para ser santo. Jamais permitam que esses assuntos sequer sejam nomeados entre vocês. 🚫",
+      "referencias": [
+        "1 Coríntios 6:18",
+        "Colossenses 3:5"
+      ],
+      "comentario": "A palavra para imoralidade sexual é 'porneia' (πορνεία), um termo abrangente. 'Ganância' (pleonexia - πλεονεξία) literalmente significa 'querer ter mais' e é identificada como idolatria em Colossenses. A ordem é de não dar espaço para a conversa (laleo) dessas práticas.",
+      "temas": [
+        "Pureza sexual",
+        "Rejeição à ganância",
+        "Santidade prática"
+      ],
+      "personagens": [
+        "Nenhum específico"
+      ]
     },
     "4": {
-      "parafrase": "Não haja obscenidade, nem conversas tolas, nem piadas indecentes, que são coisas impróprias; pelo contrário, haja ações de graças.",
-      "referencias": ["Colossenses 3:8"],
-      "comentario": "A fala do crente deve ser edificante e cheia de gratidão, em contraste com a linguagem obscena, tola e indecente. A fala reflete o coração.",
-      "temas": ["não obscenidade", "não conversas tolas", "não piadas indecentes", "ações de graças", "fala edificante"],
-      "personagens": []
+      "parafrase": "Da mesma forma, evitem conversas indecentes, piadas bobas ou sarcasmo malicioso. Essas coisas não edificam! Pelo contrário, aquilo que é bom e apropriado deve ser falado, pois a gratidão a Deus deve ser o resultado final de toda comunicação. 🙏",
+      "referencias": [
+        "Tiago 1:26",
+        "Provérbios 18:21"
+      ],
+      "comentario": "As 'palavras tolas' (mōrologia) e 'trocadilhos obscenos' (eutrapelia) representam um uso irresponsável da linguagem. O contraste é colocado com o 'agradecer' (eucharistia), ligando a fala correta à adoração.",
+      "temas": [
+        "Uso da língua",
+        "Discurso edificante",
+        "Gratidão"
+      ],
+      "personagens": [
+        "Nenhum específico"
+      ]
     },
     "5": {
-      "parafrase": "Pois vocês podem ter certeza de que nenhum imoral, impuro ou avarento — que é idólatra — tem herança no Reino de Cristo e de Deus.",
-      "referencias": ["1 Coríntios 6:9-10"],
-      "comentario": "Paulo adverte que aqueles que praticam a imoralidade, a impureza e a cobiça (que é idolatria) não herdarão o Reino de Cristo e de Deus. A santidade é essencial para a salvação.",
-      "temas": ["imoralidade", "impureza", "avareza", "idolatria", "não herdarão o Reino de Cristo e de Deus", "santidade"],
-      "personagens": ["Cristo", "Deus"]
+      "parafrase": "Tenham isto gravado em seus corações: quem se entrega à imoralidade, à impureza ou à cobiça – que é idolatria – jamais terá parte no Reino de Cristo e de Deus. A herança prometida não pertence a quem vive assim. ⚠️",
+      "referencias": [
+        "1 Coríntios 6:9-10",
+        "Apocalipse 21:8"
+      ],
+      "comentario": "Este é um sério aviso. A 'cobiça' (pleonexia) é equiparada à idolatria, pois coloca o desejo material acima da submissão a Deus. A consequência é a exclusão do 'Reino de Cristo e Deus' (Basileian Christou kai Theou).",
+      "temas": [
+        "Consequências do pecado",
+        "Idolatria",
+        "Herança eterna"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "6": {
-      "parafrase": "Ninguém os engane com palavras vazias, pois é por causa dessas coisas que a ira de Deus vem sobre os filhos da desobediência.",
-      "referencias": ["Colossenses 2:8"],
-      "comentario": "Paulo adverte contra o engano e as palavras vazias que tentam justificar o pecado. A ira de Deus virá sobre aqueles que praticam a desobediência, mostrando a seriedade do pecado.",
-      "temas": ["engano", "palavras vazias", "ira de Deus", "filhos da desobediência"],
-      "personagens": ["Deus"]
+      "parafrase": "Não se deixem enganar por ninguém com discursos vazios! Pois é por causa desse tipo de vida pecaminosa que a ira de Deus desce sobre os desobedientes. Não se associem a eles. 😠",
+      "referencias": [
+        "Colossenses 2:8",
+        "Romanos 1:18"
+      ],
+      "comentario": "Paulo alerta contra aqueles que tentam justificar o pecado ('palavras vãs' ou enganosas). A 'ira de Deus' (orgē Theou) é a Sua resposta santa ao pecado contínuo e deliberado dos desobedientes.",
+      "temas": [
+        "Engano",
+        "Ira de Deus",
+        "Desobediência"
+      ],
+      "personagens": [
+        "Nenhum específico"
+      ]
     },
     "7": {
-      "parafrase": "Portanto, não sejam cúmplices deles.",
-      "referencias": [],
-      "comentario": "A exortação é para não se associar com aqueles que praticam o pecado, para não se tornar cúmplice de suas obras das trevas.",
-      "temas": ["não cúmplices", "separação do pecado"],
-      "personagens": []
+      "parafrase": "Portanto, não se tornem parceiros ou cúmplices desses descrentes. Vocês estavam na escuridão, mas agora, por causa do Senhor, foram trazidos para a Luz. ✨",
+      "referencias": [
+        "2 Coríntios 6:14",
+        "João 8:12"
+      ],
+      "comentario": "O termo 'sócios' (metochoi) significa compartilhar ou ter parte. O contraste entre a escuridão passada e a luz presente é fundamental na teologia paulina, marcando a conversão.",
+      "temas": [
+        "Separação do mundo",
+        "Luz e Trevas",
+        "Nova identidade"
+      ],
+      "personagens": [
+        "Nenhum específico"
+      ]
     },
     "8": {
-      "parafrase": "Pois outrora vocês eram trevas, mas agora são luz no Senhor. Vivam como filhos da luz,",
-      "referencias": ["Colossenses 1:13"],
-      "comentario": "Os crentes foram transformados de trevas para luz em Cristo. A nova identidade como filhos da luz implica uma nova forma de viver, em santidade e retidão.",
-      "temas": ["trevas", "luz no Senhor", "filhos da luz", "nova identidade"],
-      "personagens": ["Senhor"]
+      "parafrase": "Vivendo nessa nova realidade, ajam como filhos da luz! E qual é o fruto da luz? É a bondade, a justiça e a verdade em tudo o que vocês fazem. 💡",
+      "referencias": [
+        "1 João 1:5-7",
+        "Filipenses 4:8"
+      ],
+      "comentario": "A vida 'na luz' exige uma manifestação prática. Bondade (agathosynē), justiça (dikaiosynē) e verdade (alētheia) são os pilares da conduta cristã, espelhando o caráter de Deus.",
+      "temas": [
+        "Frutos da luz",
+        "Ação correta",
+        "Verdade"
+      ],
+      "personagens": [
+        "Nenhum específico"
+      ]
     },
     "9": {
-      "parafrase": "pois o fruto da luz consiste em toda bondade, justiça e verdade.",
-      "referencias": ["Gálatas 5:22-23"],
-      "comentario": "O fruto da luz é a manifestação da nova natureza em Cristo, que se expressa em bondade, justiça e verdade. Essas são as características da vida cristã.",
-      "temas": ["fruto da luz", "bondade", "justiça", "verdade", "nova natureza"],
-      "personagens": []
+      "parafrase": "Pois o resultado de viver na luz é produzir sempre o que é bom, reto e verdadeiro. É assim que vocês provam o que agrada ao Senhor, nosso Mestre. ✅",
+      "referencias": [
+        "Romanos 14:17",
+        "Tiago 3:17"
+      ],
+      "comentario": "Este versículo reforça o anterior, enfatizando a necessidade de examinar e discernir ('dokimazete') o que é aceitável a Deus. A vida de retidão é o teste de fidelidade.",
+      "temas": [
+        "Discernimento",
+        "Agradar a Deus",
+        "Retidão"
+      ],
+      "personagens": [
+        "Jesus Cristo"
+      ]
     },
     "10": {
-      "parafrase": "Aprovem o que é agradável ao Senhor.",
-      "referencias": ["Romanos 12:2"],
-      "comentario": "A vida do crente deve ser caracterizada pela busca da aprovação do Senhor. O discernimento da vontade de Deus é essencial para viver uma vida que o agrada.",
-      "temas": ["aprovação do Senhor", "vontade de Deus", "discernimento"],
-      "personagens": ["Senhor"]
+      "parafrase": "Portanto, esforcem-se ativamente para descobrir e fazer aquilo que o Senhor aprova. Desvendem o que Ele quer de vocês e executem com alegria. 🧐",
+      "referencias": [
+        "Filipenses 2:12",
+        "Salmos 119:105"
+      ],
+      "comentario": "O verbo 'pesquisar' ou 'provar' (dokimazō) sugere um esforço contínuo para testar e confirmar a vontade divina, não algo passivo. É um convite à investigação ativa da Palavra e do Espírito.",
+      "temas": [
+        "Busca pela vontade de Deus",
+        "Obediência ativa",
+        "Discernimento"
+      ],
+      "personagens": [
+        "Nenhum específico"
+      ]
     },
     "11": {
-      "parafrase": "Não participem das obras infrutíferas das trevas; pelo contrário, exponham-nas.",
-      "referencias": ["Romanos 13:12"],
-      "comentario": "Os crentes não devem participar das obras das trevas, mas devem expô-las. A luz de Cristo revela a escuridão do pecado, e o crente é chamado a ser uma testemunha da verdade.",
-      "temas": ["não participar das obras das trevas", "expor as trevas", "luz de Cristo", "testemunho"],
-      "personagens": ["Cristo"]
+      "parafrase": "E o que devem rejeitar? As obras estéreis e inúteis das trevas. Não participem delas, e se ouvirem sobre elas, não lhes deem voz nem apoio. Em vez disso, exponham-nas à luz. 🔦",
+      "referencias": [
+        "Romanos 13:12",
+        "João 3:20"
+      ],
+      "comentario": "As 'obras infrutíferas' (ergon akarpous) são aquelas que não produzem nada de valor eterno. O mandamento é 'não ter parte' (mē synkoinōneite), um chamado à separação moral, seguida pela exposição (o ato de repreender ou confrontar).",
+      "temas": [
+        "Exposição do mal",
+        "Separação",
+        "Obras infrutíferas"
+      ],
+      "personagens": [
+        "Nenhum específico"
+      ]
     },
     "12": {
-      "parafrase": "Pois é vergonhoso até mesmo mencionar o que eles fazem em segredo.",
-      "referencias": [],
-      "comentario": "As obras das trevas são tão vergonhosas que é constrangedor até mesmo mencioná-las. A exposição da verdade revela a depravação do pecado.",
-      "temas": ["vergonha", "obras das trevas", "depravação"],
-      "personagens": []
+      "parafrase": "Pois essas práticas condenáveis são feitas em segredo, à escuridão, de modo que é até vergonhoso falar sobre elas abertamente. 🤫",
+      "referencias": [
+        "João 3:19",
+        "Provérbios 28:13"
+      ],
+      "comentario": "A vergonha (athēmia) mencionada refere-se à desonra que tais atos trazem, não apenas para a pessoa, mas para o testemunho cristão. Eles se escondem porque não suportam o julgamento da luz.",
+      "temas": [
+        "Segredo",
+        "Vergonha",
+        "Julgamento"
+      ],
+      "personagens": [
+        "Nenhum específico"
+      ]
     },
     "13": {
-      "parafrase": "Mas tudo o que é exposto pela luz torna-se visível, pois tudo o que se torna visível é luz.",
-      "referencias": ["João 3:20-21"],
-      "comentario": "A luz de Cristo revela a verdade e expõe o que está oculto. A exposição da verdade traz clareza e iluminação.",
-      "temas": ["luz de Cristo", "exposição da verdade", "clareza", "iluminação"],
-      "personagens": ["Cristo"]
+      "parafrase": "Contudo, quando a verdade é exposta, ela brilha intensamente! Tudo o que é trazido à luz torna-se visível e claro, como se fosse iluminado por uma lâmpada. 💡",
+      "referencias": [
+        "Mateus 5:16",
+        "Hebreus 4:13"
+      ],
+      "comentario": "Este versículo opera um contraste dramático com o v. 12. A verdade (panta ta phōrizomena) tem o poder inerente de revelar e transformar. O que é exposto é 'manifestado' ou 'trazido à plena vista'.",
+      "temas": [
+        "Poder da revelação",
+        "Manifestação da verdade",
+        "Clareza"
+      ],
+      "personagens": [
+        "Nenhum específico"
+      ]
     },
     "14": {
-      "parafrase": "Por isso é que se diz: 'Desperte, ó você que dorme, levante-se dentre os mortos, e Cristo o iluminará'.",
-      "referencias": ["Isaías 60:1"],
-      "comentario": "A exortação é para despertar da morte espiritual e receber a iluminação de Cristo. A vida cristã é uma vida de luz e de despertar espiritual.",
-      "temas": ["despertar espiritual", "levantar dentre os mortos", "iluminação de Cristo"],
-      "personagens": ["Cristo"]
+      "parafrase": "Por isso, há um chamado para despertar: 'Desperte, você que está dormindo! Levante-se dos mortos, e Cristo lhe dará a luz e o entendimento!' 📢",
+      "referencias": [
+        "Isaías 60:1",
+        "Romanos 13:11"
+      ],
+      "comentario": "Este trecho parece ser uma citação de um hino ou um provérbio cristão primitivo. O 'sono' e a condição de 'morto' (nekrōn) metaforizam a vida sem Cristo, da qual só se pode ser despertado pela ação de Cristo (Christos epilampsetai - Cristo brilhará sobre você).",
+      "temas": [
+        "Despertar espiritual",
+        "Ressurreição",
+        "Iluminação divina"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "15": {
-      "parafrase": "Portanto, tenham cuidado com a maneira como vocês vivem; que não seja como insensatos, mas como sábios,",
-      "referencias": ["Colossenses 4:5"],
-      "comentario": "A exortação é para viver com sabedoria e discernimento, em contraste com a insensatez do mundo. A sabedoria é essencial para viver uma vida que agrada a Deus.",
-      "temas": ["sabedoria", "discernimento", "não insensatos", "vida cristã"],
-      "personagens": []
+      "parafrase": "Assim, observem com extrema cautela como vocês vivem. Não vivam de maneira descuidada e tola, mas sim com sabedoria e propósito. 🧐",
+      "referencias": [
+        "Colossenses 4:5",
+        "Provérbios 4:23"
+      ],
+      "comentario": "O verbo 'examinar' (akribōs - com precisão ou rigor) indica que a conduta deve ser meticulosamente ajustada. Não é apenas 'como' se vive, mas o quão consciente e deliberadamente se vive.",
+      "temas": [
+        "Viver com sabedoria",
+        "Cautela",
+        "Conduta"
+      ],
+      "personagens": [
+        "Nenhum específico"
+      ]
     },
     "16": {
-      "parafrase": "aproveitando ao máximo cada oportunidade, porque os dias são maus.",
-      "referencias": ["Colossenses 4:5"],
-      "comentario": "A urgência é para aproveitar ao máximo cada oportunidade, pois os dias são maus. O tempo é precioso e deve ser usado para a glória de Deus.",
-      "temas": ["aproveitar oportunidades", "dias maus", "urgência", "glória a Deus"],
-      "personagens": []
+      "parafrase": "Aproveitem cada oportunidade que o tempo lhes oferece, pois os dias atuais são maus e cheios de perigos. Não desperdicem um único momento! ⏳",
+      "referencias": [
+        "Gálatas 6:10",
+        "Tiago 4:14"
+      ],
+      "comentario": "O termo 'resgatando o tempo' (exagorazomenoi ton kairon) sugere comprar ou adquirir o tempo, tirando-o das mãos do mal e dedicando-o ao bem. 'Dias maus' (pontēroi) refere-se a um ambiente moralmente corrompido.",
+      "temas": [
+        "Urgência",
+        "Resgate do tempo",
+        "Mundo caído"
+      ],
+      "personagens": [
+        "Nenhum específico"
+      ]
     },
     "17": {
-      "parafrase": "Por isso, não sejam insensatos, mas procurem entender qual é a vontade do Senhor.",
-      "referencias": ["Romanos 12:2"],
-      "comentario": "A insensatez é a falta de compreensão da vontade do Senhor. O crente deve buscar entender a vontade de Deus, que é a fonte de toda a sabedoria e direção.",
-      "temas": ["não insensatos", "vontade do Senhor", "sabedoria", "direção"],
-      "personagens": ["Senhor"]
+      "parafrase": "Por causa disso, não sejam tolos, mas compreendam qual é a vontade do Senhor para suas vidas. Tenham discernimento espiritual sobre o que Ele deseja. 🤔",
+      "referencias": [
+        "Romanos 12:2",
+        "Tiago 1:5"
+      ],
+      "comentario": "A tolice aqui é a ignorância persistente da vontade de Deus. 'Compreender' (synientes) é um ato ativo de unir o entendimento intelectual à direção espiritual.",
+      "temas": [
+        "Discernimento da vontade de Deus",
+        "Sabedoria",
+        "Fim da tolice"
+      ],
+      "personagens": [
+        "Nenhum específico"
+      ]
     },
     "18": {
-      "parafrase": "Não se embriaguem com vinho, que leva à devassidão, mas sejam cheios do Espírito.",
-      "referencias": ["Gálatas 5:16"],
-      "comentario": "Paulo contrasta a embriaguez com a plenitude do Espírito Santo. A embriaguez leva à devassidão, enquanto a plenitude do Espírito leva à santidade e ao controle próprio. O Espírito é a fonte de poder para viver uma vida santa.",
-      "temas": ["não embriaguez", "cheios do Espírito", "devassidão", "santidade", "controle próprio"],
-      "personagens": ["Espírito"]
+      "parafrase": "E, crucialmente, não se embriaguem com vinho, pois isso leva à dissolução e à libertinagem. Em vez disso, sejam preenchidos e controlados pelo Espírito Santo. 🍷➡️🕊️",
+      "referencias": [
+        "Atos 2:15",
+        "Provérbios 20:1"
+      ],
+      "comentario": "O contraste é direto: a embriaguez alcoólica leva à perda de controle ('aselgeia' - libertinagem/excesso desenfreado), enquanto o Espírito Santo confere o verdadeiro controle e sobriedade. É uma troca de mestres.",
+      "temas": [
+        "Sobriedade",
+        "Plenitude do Espírito",
+        "Controle de vícios"
+      ],
+      "personagens": [
+        "Espírito Santo"
+      ]
     },
     "19": {
-      "parafrase": "Falem uns aos outros com salmos, hinos e cânticos espirituais, cantando e louvando de coração ao Senhor.",
-      "referencias": ["Colossenses 3:16"],
-      "comentario": "A plenitude do Espírito se manifesta em adoração e louvor. A fala do crente deve ser cheia de salmos, hinos e cânticos espirituais, expressando gratidão e louvor ao Senhor.",
-      "temas": ["salmos", "hinos", "cânticos espirituais", "cantar", "louvar", "coração", "adoração"],
-      "personagens": ["Senhor"]
+      "parafrase": "Em vez disso, conversem uns com os outros em salmos, hinos e cânticos inspirados pelo Espírito. Cantem com todo o coração, elevando louvores ao Senhor em todas as suas músicas. 🎶",
+      "referencias": [
+        "Colossenses 3:16",
+        "Atos 16:25"
+      ],
+      "comentario": "Aqui, a alegria e a plenitude do Espírito se manifestam na adoração comunal. 'Salmos' (salmoi), 'hinos' (hymnoi) e 'cânticos espirituais' (ōdais pneumatikais) indicam diferentes formas de expressão musical aprovadas.",
+      "temas": [
+        "Adoração comunitária",
+        "Música cristã",
+        "Louvor"
+      ],
+      "personagens": [
+        "Nenhum específico"
+      ]
     },
     "20": {
-      "parafrase": "Dando sempre graças por tudo a Deus, o Pai, em nome de nosso Senhor Jesus Cristo.",
-      "referencias": ["Colossenses 3:17"],
-      "comentario": "A gratidão é uma atitude contínua do crente, expressa em nome de Jesus Cristo. A ação de graças é uma forma de glorificar a Deus em todas as circunstâncias.",
-      "temas": ["ação de graças", "tudo", "Deus Pai", "nome de nosso Senhor Jesus Cristo", "glória a Deus"],
-      "personagens": ["Deus", "Pai", "Senhor Jesus Cristo"]
+      "parafrase": "E, ao fazerem isso, sempre deem graças a Deus, o Pai, por tudo, em nome do nosso Senhor Jesus Cristo, sempre e por todas as coisas. A gratidão deve permear cada nota e palavra. 🤲",
+      "referencias": [
+        "1 Tessalonicenses 5:18",
+        "Filipenses 4:6"
+      ],
+      "comentario": "A gratidão (eucharistountes) é a resposta constante à obra de Deus. O foco é triplo: A quem (Deus Pai), Por qual meio (Em nome de Jesus Cristo), e Sobre o quê (Por todas as coisas).",
+      "temas": [
+        "Gratidão constante",
+        "Mediação de Cristo",
+        "Adoração"
+      ],
+      "personagens": [
+        "Deus Pai",
+        "Jesus Cristo"
+      ]
     },
     "21": {
-      "parafrase": "Sujeitem-se uns aos outros no temor de Cristo.",
-      "referencias": ["Filipenses 2:3"],
-      "comentario": "A submissão mútua é um sinal de humildade e amor, motivada pelo temor de Cristo. A submissão é essencial para a unidade e a harmonia na igreja.",
-      "temas": ["sujeição mútua", "temor de Cristo", "humildade", "amor", "unidade"],
-      "personagens": ["Cristo"]
+      "parafrase": "Ainda mais, submetam-se uns aos outros, por reverência e profundo respeito que têm por Cristo. Este é o princípio fundamental para a convivência cristã. 🤝",
+      "referencias": [
+        "Filipenses 2:3",
+        "Gálatas 5:13"
+      ],
+      "comentario": "O grego 'hypotassesthe' significa colocar-se sob a autoridade de outro, não por fraqueza, mas por um ato de vontade motivado pelo temor/reverência ('phobos') a Cristo, estabelecendo uma hierarquia de serviço mútuo.",
+      "temas": [
+        "Submissão mútua",
+        "Respeito",
+        "Humildade"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "22": {
-      "parafrase": "Mulheres, sujeitem-se a seus próprios maridos, como ao Senhor.",
-      "referencias": ["Colossenses 3:18"],
-      "comentario": "A submissão da mulher ao marido é um princípio de ordem no casamento, e deve ser feita como ao Senhor, reconhecendo a autoridade de Cristo.",
-      "temas": ["submissão da mulher", "marido", "como ao Senhor", "ordem no casamento"],
-      "personagens": ["Senhor"]
+      "parafrase": "Esposas, submetam-se aos seus maridos como se estivessem fazendo isso ao próprio Senhor. Essa é a postura esperada para quem está unido a Cristo. 💍",
+      "referencias": [
+        "Colossenses 3:18",
+        "1 Pedro 3:1"
+      ],
+      "comentario": "A submissão da esposa é colocada em analogia direta com a submissão da igreja a Cristo. O termo 'como ao Senhor' (hōs tō Kyriō) eleva o ato de submissão conjugal a um ato de serviço espiritual.",
+      "temas": [
+        "Relações conjugais",
+        "Submissão da esposa",
+        "Ordem cristã"
+      ],
+      "personagens": [
+        "Esposas",
+        "Maridos",
+        "Cristo"
+      ]
     },
     "23": {
-      "parafrase": "Pois o marido é a cabeça da mulher, como também Cristo é a cabeça da igreja, que é o seu corpo, e ele é o Salvador.",
-      "referencias": ["1 Coríntios 11:3"],
-      "comentario": "O marido é a cabeça da mulher, assim como Cristo é a cabeça da igreja. A relação de Cristo com a igreja é o modelo para a relação entre marido e mulher. Cristo é o Salvador do corpo.",
-      "temas": ["marido como cabeça", "Cristo como cabeça da igreja", "corpo de Cristo", "Salvador"],
-      "personagens": ["Cristo"]
+      "parafrase": "Pois o marido é a cabeça do lar, assim como Cristo é a Cabeça de toda a Igreja. Ele é o Salvador do corpo, a Igreja, e quem lhe dá vida e direção. 👑",
+      "referencias": [
+        "1 Coríntios 11:3",
+        "Colossenses 1:18"
+      ],
+      "comentario": "Esta é a base teológica para a ordem familiar. O marido tem a autoridade delegada (cabeça - kephalē), espelhando o papel de Cristo como autoridade máxima sobre a Igreja, Seu corpo. O papel de Salvador (Sōtēr) enfatiza a dependência do corpo em relação à cabeça.",
+      "temas": [
+        "Liderança do marido",
+        "Cristo como cabeça",
+        "Salvação da Igreja"
+      ],
+      "personagens": [
+        "Maridos",
+        "Cristo",
+        "Igreja"
+      ]
     },
     "24": {
-      "parafrase": "Assim como a igreja está sujeita a Cristo, também as mulheres estejam em tudo sujeitas a seus maridos.",
-      "referencias": [],
-      "comentario": "A submissão da mulher ao marido é um reflexo da submissão da igreja a Cristo. A submissão é um ato de amor e respeito, e não de inferioridade.",
-      "temas": ["submissão da mulher", "submissão da igreja a Cristo", "amor", "respeito"],
-      "personagens": ["Cristo"]
+      "parafrase": "Assim como a Igreja se submete de bom grado a Cristo em tudo, as esposas também devem se submeter completamente aos seus maridos em cada aspecto da vida. 💯",
+      "referencias": [
+        "Tito 2:5",
+        "1 Pedro 3:5"
+      ],
+      "comentario": "A submissão da esposa deve ser total ('em tudo' - en panti), replicando a lealdade incondicional da Igreja a Cristo. Isso pressupõe que o marido esteja cumprindo seu papel de cabeça conforme o modelo de Cristo (v. 25).",
+      "temas": [
+        "Totalidade da submissão",
+        "Analogia eclesiástica",
+        "Relações familiares"
+      ],
+      "personagens": [
+        "Igreja",
+        "Cristo",
+        "Esposas",
+        "Maridos"
+      ]
     },
     "25": {
-      "parafrase": "Maridos, amem suas mulheres, assim como Cristo amou a igreja e se entregou por ela,",
-      "referencias": ["Colossenses 3:19"],
-      "comentario": "O amor do marido pela mulher deve ser sacrificial, seguindo o exemplo de Cristo, que amou a igreja e se entregou por ela. O amor sacrificial é a essência do casamento cristão.",
-      "temas": ["amor do marido", "exemplo de Cristo", "amor sacrificial", "casamento cristão"],
-      "personagens": ["Cristo"]
+      "parafrase": "E para os maridos, há uma ordem ainda mais exigente: amem suas esposas com a mesma profundidade e dedicação com que Cristo amou a Igreja. Ele se entregou completamente por ela, como um sacrifício supremo. 💔",
+      "referencias": [
+        "Colossenses 3:19",
+        "1 Pedro 3:7"
+      ],
+      "comentario": "Este é o ápice da exortação. O amor exigido é 'agapē' (amor sacrificial incondicional), o mesmo que levou Cristo à cruz. O marido deve amar a esposa ao ponto do sacrifício pessoal, espelhando o modelo de Cristo pelo corpo.",
+      "temas": [
+        "Amor sacrificial do marido",
+        "Modelo de Cristo",
+        "Sacrifício conjugal"
+      ],
+      "personagens": [
+        "Maridos",
+        "Cristo",
+        "Igreja"
+      ]
     },
     "26": {
-      "parafrase": "para santificá-la, purificando-a pela lavagem da água mediante a palavra,",
-      "referencias": ["João 15:3"],
-      "comentario": "O propósito do amor de Cristo pela igreja é santificá-la e purificá-la pela lavagem da água (batismo) e pela palavra. A santificação é um processo contínuo.",
-      "temas": ["santificação", "purificação", "lavagem da água", "palavra"],
-      "personagens": ["Cristo"]
+      "parafrase": "E Ele fez isso para poder santificar a Igreja, Seu corpo amado na Terra. Pensem nisto: Ele a purificou completamente, como alguém que lava e esfrega o corpo com água pura, para apresentá-la a Si mesmo, sem qualquer mancha, sem ruga, sem defeito algum—uma noiva radiante e imaculada perante o universo, pronta para o dia do casamento eterno.",
+      "referencias": [
+        "Tito 2:13",
+        "Apocalipse 19:7-8"
+      ],
+      "comentario": "Paulo introduz a finalidade sacrificial do amor de Cristo: a santificação da Igreja. O verbo grego usado para 'santificar' (hagiásai) implica um ato de consagração ou separação para Deus. A metáfora é extremamente vívida: Cristo atua como Aquele que purifica a noiva (a Igreja). A imagem de lavar com água (o batismo e a Palavra) visa remover toda impureza moral e espiritual, preparando-a para a apresentação final ('parastēsai' - colocar ao lado de). O resultado desejado é uma pureza absoluta, comparável à de uma noiva sem mácula (sem 'rugas' ou 'manchas'), ecoando ideais de pureza encontrados no Antigo Testamento sobre o povo de Israel.",
+      "temas": [
+        "Santificação",
+        "Pureza da Igreja",
+        "O Casamento de Cristo e a Igreja",
+        "Propósito do Sacrifício"
+      ],
+      "personagens": [
+        "Cristo (Ele)",
+        "A Igreja (A Noiva)"
+      ]
     },
     "27": {
-      "parafrase": "e apresentá-la a si mesmo como igreja gloriosa, sem mancha nem ruga ou coisa semelhante, mas santa e irrepreensível.",
-      "referencias": ["Colossenses 1:22"],
-      "comentario": "O objetivo final do amor de Cristo pela igreja é apresentá-la a si mesmo como uma noiva gloriosa, santa e irrepreensível. A igreja é a noiva de Cristo, e Ele a prepara para si mesmo.",
-      "temas": ["igreja gloriosa", "sem mancha nem ruga", "santa e irrepreensível", "noiva de Cristo"],
-      "personagens": ["Cristo"]
+      "parafrase": "O objetivo final de todo esse cuidado e purificação é que Ele pudesse, diante de tudo e de todos, apresentar essa Sua Igreja, gloriosa e resplandecente, sem qualquer vestígio de erro, pecado ou fraqueza, mas sim revestida de perfeita justiça e glória.",
+      "referencias": [
+        "Colossenses 1:28",
+        "Judas 1:24"
+      ],
+      "comentario": "Este versículo detalha a conclusão gloriosa do processo iniciado no versículo 26. A 'Igreja gloriosa' (doxa) indica um estado de esplendor e honra. A ausência de 'rugas' (rhytis) ou 'manchas' (spilos) utiliza termos comuns na época para descrever defeitos estéticos em tecidos ou na pele. Paulo está usando o ápice da beleza física e perfeição material para descrever a perfeição espiritual que Cristo alcançará em Seu povo no futuro glorioso.",
+      "temas": [
+        "Glória da Igreja",
+        "Apresentação Final",
+        "Perfeição Espiritual",
+        "Justificação"
+      ],
+      "personagens": [
+        "Cristo",
+        "A Igreja"
+      ]
     },
     "28": {
-      "parafrase": "Assim também os maridos devem amar suas mulheres como a seus próprios corpos. Quem ama sua mulher, ama a si mesmo.",
-      "referencias": [],
-      "comentario": "O amor do marido pela mulher deve ser como o amor por seu próprio corpo, pois eles são uma só carne. O amor próprio é a base para o amor ao próximo.",
-      "temas": ["amor do marido", "corpo", "uma só carne", "amor próprio"],
-      "personagens": []
+      "parafrase": "Da mesma forma, os maridos devem amar suas esposas como amam seus próprios corpos. Pois quem jamais negligenciou ou maltratou a própria carne? Pelo contrário, a nutre e a cuida com extremo zelo, exatamente como o faz com o seu próprio ser.",
+      "referencias": [
+        "Efésios 5:25",
+        "Gênesis 2:24"
+      ],
+      "comentario": "Paulo faz uma transição abrupta da analogia cósmica de Cristo e a Igreja para o dever prático dos maridos. A exigência de amar a esposa 'como a seu próprio corpo' estabelece um padrão elevadíssimo. O grego 'sarkas heautōn' (carne de si mesmos) reforça a ideia de que a esposa é uma extensão do eu do marido. O princípio é a autoproteção e o autocuidado levados ao extremo; o marido não deve ver a esposa como algo externo a ser dominado, mas como parte intrínseca de sua própria vida e bem-estar.",
+      "temas": [
+        "Dever Conjugal",
+        "Amor Marital",
+        "Unidade no Casamento",
+        "Autocuidado"
+      ],
+      "personagens": [
+        "Maridos",
+        "Esposas"
+      ]
     },
     "29": {
-      "parafrase": "Pois ninguém jamais odiou a sua própria carne; pelo contrário, a alimenta e dela cuida, como também Cristo faz com a igreja,",
-      "referencias": [],
-      "comentario": "O cuidado do marido pela mulher deve ser como o cuidado de Cristo pela igreja: alimentando e cuidando. O amor de Cristo é o modelo para o amor conjugal.",
-      "temas": ["cuidado", "alimentar", "cuidar", "Cristo e a igreja", "modelo"],
-      "personagens": ["Cristo"]
+      "parafrase": "Isso porque ninguém jamais demonstrou ódio ao seu corpo. Ao contrário, ele é alimentado e tratado com a maior ternura, recebendo todos os cuidados necessários, assim como o Senhor faz com a Igreja, que é o Seu corpo.",
+      "referencias": [
+        "1 Coríntios 12:26-27",
+        "Colossenses 2:19"
+      ],
+      "comentario": "Este versículo serve como uma reafirmação prática da analogia anterior. O autocuidado corporal é um instinto natural, não um mandamento teológico difícil de entender. Cristo, sendo a Cabeça da Igreja (mencionada anteriormente em Efe 4:15-16), alimenta e sustenta Seu corpo, a Igreja. O verbo grego para nutrir ('thálpei') carrega uma conotação de aquecimento e proteção cuidadosa, como um pássaro que aquece seus filhotes. É um cuidado ativo e constante.",
+      "temas": [
+        "Sustento de Cristo",
+        "Cuidado Pastoral",
+        "Instinto Natural",
+        "A Igreja como Corpo"
+      ],
+      "personagens": [
+        "Cristo (Senhor)",
+        "A Igreja"
+      ]
     },
     "30": {
-      "parafrase": "porque somos membros do seu corpo.",
-      "referencias": ["1 Coríntios 12:27"],
-      "comentario": "A razão para o amor e o cuidado de Cristo pela igreja é que somos membros do seu corpo. A união com Cristo é a base do amor e da interdependência.",
-      "temas": ["membros do corpo de Cristo", "união com Cristo", "amor", "interdependência"],
-      "personagens": ["Cristo"]
+      "parafrase": "A razão para tal devoção é simples e profunda: nós somos membros do Seu corpo, feitos da mesma matéria que Ele, parte de Sua própria constituição física e espiritual.",
+      "referencias": [
+        "1 Coríntios 12:12",
+        "João 15:5"
+      ],
+      "comentario": "Este é o argumento crucial que fundamenta os versículos 28 e 29. Não se trata apenas de uma regra social; é uma verdade ontológica. O marido deve amar a esposa porque eles são 'membros do Seu corpo' (sōma). Embora a referência primária do contexto seja o casamento humano, Paulo aponta para a união mística entre Cristo e os crentes. O marido, ao amar a esposa, está inconscientemente espelhando a união mais profunda que existe entre Cristo e Seus seguidores.",
+      "temas": [
+        "Unidade Essencial",
+        "Identidade em Cristo",
+        "Analogia Teológica",
+        "Membros do Corpo"
+      ],
+      "personagens": [
+        "Cristo",
+        "Crentes"
+      ]
     },
     "31": {
-      "parafrase": "'Por essa razão, o homem deixará pai e mãe e se unirá à sua mulher, e os dois se tornarão uma só carne'.",
-      "referencias": ["Gênesis 2:24", "Mateus 19:5"],
-      "comentario": "Paulo cita Gênesis para enfatizar a natureza sagrada e a unidade do casamento. O casamento é uma união profunda que resulta em uma só carne.",
-      "temas": ["casamento", "uma só carne", "unidade", "natureza sagrada"],
-      "personagens": []
+      "parafrase": "Os antigos escritos sagrados já previam e confirmavam essa união profunda: 'Por essa razão, o homem deixará seu pai e sua mãe e se unirá firmemente à sua esposa, e os dois se tornarão uma só carne'.",
+      "referencias": [
+        "Gênesis 2:24",
+        "Mateus 19:5"
+      ],
+      "comentario": "Paulo recorre à fundação do casamento no livro de Gênesis (2:24). O verbo grego 'proskollēthēsetai' (será unido/grudado) enfatiza a irreversibilidade e a intensidade dessa ligação. A união matrimonial é um espelho da união entre Cristo e a Igreja, mas, neste ponto, Paulo usa a criação original para legitimar a profundidade da ligação conjugal, ligando-a ao plano divino desde o princípio.",
+      "temas": [
+        "Fundamento Bíblico",
+        "União Conjugal",
+        "O Princípio da Criação",
+        "Ato de Deixar e Unir"
+      ],
+      "personagens": [
+        "Homem",
+        "Mulher"
+      ]
     },
     "32": {
-      "parafrase": "Este é um mistério profundo; refiro-me, porém, a Cristo e à igreja.",
-      "referencias": [],
-      "comentario": "O casamento é um mistério que aponta para a união de Cristo e a igreja. A relação entre Cristo e a igreja é o modelo para o casamento.",
-      "temas": ["mistério", "Cristo e a igreja", "modelo"],
-      "personagens": ["Cristo"]
+      "parafrase": "Esta é uma verdade profunda e misteriosa, um segredo divino revelado, que se aplica diretamente ao casamento, mas que aponta para a união sublime entre Cristo e a Sua Igreja.",
+      "referencias": [
+        "1 Coríntios 15:51",
+        "Romanos 16:25-26"
+      ],
+      "comentario": "O termo grego 'mysterion' (mistério) é central aqui. Para os gregos, um mistério era um segredo guardado pelos deuses e revelado apenas a iniciados. Paulo usa este termo para indicar que a união matrimonial, em sua profundidade e propósito, não é apenas um contrato social, mas um vislumbre de uma verdade espiritual muito maior—a união entre Cristo e a Igreja. O casamento terrestre é o símbolo que aponta para o relacionamento celestial.",
+      "temas": [
+        "Mistério Revelado",
+        "Símbolo e Realidade",
+        "A União Cristológica",
+        "Natureza do Sacramento"
+      ],
+      "personagens": [
+        "Cristo",
+        "A Igreja"
+      ]
     },
     "33": {
-      "parafrase": "Portanto, cada um de vocês também ame a sua mulher como a si mesmo, e a mulher respeite o seu marido.",
-      "referencias": ["Colossenses 3:19"],
-      "comentario": "A exortação final é para que os maridos amem suas mulheres como a si mesmos, e as mulheres respeitem seus maridos. O amor e o respeito são essenciais para um casamento saudável e harmonioso.",
-      "temas": ["amor do marido", "respeito da mulher", "casamento saudável", "harmonia"],
-      "personagens": []
+      "parafrase": "Portanto, para resumir tudo: que cada marido, individualmente, ame a sua esposa como a si mesmo, com um amor zeloso e sacrificial. E que cada esposa, por sua vez, demonstre o mais profundo respeito e reverência ao seu marido.",
+      "referencias": [
+        "Colossenses 3:19",
+        "1 Pedro 3:2"
+      ],
+      "comentario": "Este versículo finaliza a seção prática (a homilética) com um resumo claro e imperativo. 'Agapē' (amor sacrificial) é repetido para o marido, reforçando que a exigência de Cristo em relação ao sacrifício pela Igreja deve ser imitada. Para a esposa, o termo grego 'phobētai' (temer/reverenciar) não implica medo servil, mas sim um profundo respeito e honra pela posição de liderança que lhe foi designada, como resposta à liderança sacrificial do marido, que por sua vez imita Cristo. É um chamado ao equilíbrio relacional baseado no modelo divino.",
+      "temas": [
+        "Deveres Recíprocos",
+        "Amor Sacrificial (Marido)",
+        "Reverência e Respeito (Esposa)",
+        "Conclusão Prática"
+      ],
+      "personagens": [
+        "Maridos",
+        "Esposas"
+      ]
     }
   }
 }

@@ -1,225 +1,511 @@
 {
   "livro": "1 Coríntios",
   "capitulo": 1,
-  "contexto_historico": "Paulo escreveu esta carta por volta de 55 d.C., durante sua estada em Éfeso, para a igreja que ele havia fundado na cidade de Corinto. Corinto era uma cidade portuária rica, cosmopolita e notoriamente imoral, um centro de comércio e de diversos cultos pagãos. A igreja, embora espiritualmente dotada, era imatura e estava cheia de problemas, incluindo divisões, imoralidade, orgulho e desordem na adoração. Paulo escreve para corrigir esses problemas e responder a perguntas que eles haviam feito.",
-  "bloco_tematico": "Introdução e o Problema da Divisão na Igreja",
+  "contexto_historico": "A igreja de Corinto, fundada por Paulo em sua segunda viagem missionária (Atos 18), era uma comunidade vibrante, mas cheia de problemas internos. Corinto era uma cidade portuária grega notória por sua riqueza, imoralidade e diversidade filosófica. A carta visa corrigir sérias divisões, imoralidade sexual, disputas legais entre crentes e confusões sobre o uso dos dons espirituais e a Ceia do Senhor. O Capítulo 1 inicia abordando a questão central das divisões na igreja, alimentadas pela atração por oradores carismáticos.",
+  "bloco_tematico": "Saudações e a Crise das Divisões: A Sabedoria da Cruz ✝️🆚🏛️",
   "versiculos": {
     "1": {
-      "parafrase": "Eu, Paulo, chamado para ser apóstolo de Cristo Jesus pela vontade de Deus, e o irmão Sóstenes,",
-      "referencias": ["Romanos 1:1", "Atos 18:17"],
-      "comentario": "Paulo começa afirmando sua autoridade apostólica, que não veio de si mesmo, mas da vontade de Deus. Ele inclui Sóstenes, que provavelmente era seu amanuense e era conhecido da igreja de Corinto (possivelmente o mesmo chefe da sinagoga de Atos 18).",
-      "temas": ["autoridade apostólica", "vontade de Deus", "parceria ministerial"],
-      "personagens": ["Paulo", "Cristo Jesus", "Deus", "Sóstenes"]
+      "parafrase": "Saudações! Eu, Paulo, que fui chamado por uma decisão soberana e incontestável da vontade de Deus para ser apóstolo de Jesus Cristo, o Cristo prometido, escrevo esta carta. E Sostenes, meu companheiro de jornada e fé, também envia sua saudação cordial a vocês, a igreja de Deus reunida em Corinto.",
+      "referencias": [
+        "Romanos 1:1",
+        "Gálatas 1:1"
+      ],
+      "comentario": "Paulo imediatamente estabelece sua autoridade apostólica, não por escolha humana, mas por 'chamado da vontade de Deus' (thelēmatos Theou). Isso é crucial para legitimar as correções que virão. Sostenes é provavelmente um líder da igreja local ou um secretário que acompanhava Paulo.",
+      "temas": [
+        "Saudação Apostólica",
+        "Autoridade Divina",
+        "Igreja Local"
+      ],
+      "personagens": [
+        "Paulo",
+        "Sostenes"
+      ]
     },
     "2": {
-      "parafrase": "à igreja de Deus que está em Corinto, aos que foram santificados em Cristo Jesus e chamados para serem santos, juntamente com todos os que, em toda parte, invocam o nome de nosso Senhor Jesus Cristo, Senhor deles e nosso.",
-      "referencias": ["Atos 18:1-11"],
-      "comentario": "Paulo se dirige à igreja, lembrando-os de sua verdadeira identidade. Apesar de seus problemas, eles são a igreja 'de Deus', foram 'santificados' (separados) em Cristo e 'chamados para serem santos'. Ele também amplia a saudação para incluir todos os crentes em todos os lugares, enfatizando a universalidade da fé.",
-      "temas": ["identidade da igreja", "santificação", "chamado à santidade", "universalidade da igreja"],
-      "personagens": ["Deus", "Cristo Jesus", "Senhor Jesus Cristo"]
+      "parafrase": "Esta carta é dirigida especialmente à comunidade de crentes que Deus santificou e separou para Si na cidade de Corinto; uma comunidade que foi tornada pura em Cristo Jesus, o Senhor, e que, assim como todos os santos espalhados por toda parte, clama ao nome dAquele que é Senhor tanto deles quanto nosso.",
+      "referencias": [
+        "Atos 18:1",
+        "1 Pedro 1:15"
+      ],
+      "comentario": "Paulo define o destinatário: 'igreja de Deus' (ekklesia Theou) em Corinto, diferenciando-a do corpo cívico da cidade. Eles são 'santificados' (hegiasmenois), um estado alcançado pela obra de Cristo, não por esforço próprio. A menção de invocar o nome do Senhor Jesus é um marcador de identidade cristã primitiva.",
+      "temas": [
+        "Santificação",
+        "Identidade Cristã",
+        "Comunidade de Fé"
+      ],
+      "personagens": [
+        "Cristo Jesus"
+      ]
     },
     "3": {
-      "parafrase": "Graça e paz a vocês, da parte de Deus nosso Pai e do Senhor Jesus Cristo.",
-      "referencias": ["Romanos 1:7"],
-      "comentario": "A saudação padrão de Paulo, desejando-lhes o favor imerecido de Deus (graça) e o bem-estar completo que vem disso (paz).",
-      "temas": ["graça", "paz", "saudação"],
-      "personagens": ["Deus Pai", "Senhor Jesus Cristo"]
+      "parafrase": "Que a graça abundante e a paz profunda, que vêm somente de Deus, nosso Pai, e do Senhor Jesus Cristo, nosso Salvador, estejam sempre com todos vocês, fortalecendo sua jornada.",
+      "referencias": [
+        "Romanos 1:7",
+        "Filipenses 4:7"
+      ],
+      "comentario": "A fórmula paulina de bênção: 'Graça e Paz'. A graça (charis) é o favor imerecido, e a paz (eirēnē) é o resultado dessa graça, um estado de bem-estar integral dado por Deus Pai e pelo Senhor Jesus Cristo.",
+      "temas": [
+        "Bênção",
+        "Graça de Deus",
+        "Paz"
+      ],
+      "personagens": [
+        "Deus Pai",
+        "Senhor Jesus Cristo"
+      ]
     },
     "4": {
-      "parafrase": "Sempre dou graças ao meu Deus por vocês, por causa da graça de Deus que lhes foi dada em Cristo Jesus.",
-      "referencias": [],
-      "comentario": "Antes de abordar os problemas, Paulo começa com ação de graças, focando na obra da graça de Deus na vida dos coríntios. Ele os elogia pelo que Deus fez neles, não pelo que eles eram em si mesmos.",
-      "temas": ["ação de graças", "graça de Deus"],
-      "personagens": ["Deus", "Cristo Jesus"]
+      "parafrase": "Meus olhos e meu coração se enchem de gratidão constante a Deus por cada um de vocês, por causa da maravilhosa obra que Cristo Jesus realizou em suas vidas, mostrando a excelência de sua graça através de suas experiências.",
+      "referencias": [
+        "Efésios 1:15-16",
+        "Colossenses 1:3"
+      ],
+      "comentario": "O agradecimento de Paulo é contínuo ('sempre', pantote). O foco da gratidão é a 'graça de Deus' concedida a eles 'em Cristo Jesus' (en Christō Iēsou), indicando que todo benefício flui através da união com Ele.",
+      "temas": [
+        "Gratidão",
+        "Obra de Cristo",
+        "Excelência da Graça"
+      ],
+      "personagens": [
+        "Paulo",
+        "Cristo Jesus"
+      ]
     },
     "5": {
-      "parafrase": "Pois em tudo vocês foram enriquecidos nele, em toda a palavra e em todo o conhecimento,",
-      "referencias": [],
-      "comentario": "Ele reconhece que eles eram uma igreja espiritualmente rica, especialmente nos dons relacionados à fala (palavra) e ao entendimento (conhecimento).",
-      "temas": ["enriquecimento espiritual", "dons espirituais"],
-      "personagens": ["Cristo"]
+      "parafrase": "Pois em Cristo vocês foram enriquecidos em tudo: em todas as formas de comunicação verbal e em todo o conhecimento disponível, conforme a verdade de Cristo foi firmemente estabelecida entre vocês, pregada por nós.",
+      "referencias": [
+        "2 Pedro 3:18",
+        "Tito 2:1"
+      ],
+      "comentario": "Os coríntios foram dotados de dons ('en tē logō' – palavra, e 'gnōsei' – conhecimento). A prosperidade aqui não é material, mas espiritual e de testemunho, baseada no 'testemunho de Cristo' (martyria tou Christou) confirmado na comunidade.",
+      "temas": [
+        "Enriquecimento Espiritual",
+        "Conhecimento",
+        "Testemunho"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "6": {
-      "parafrase": "porque o testemunho de Cristo foi confirmado entre vocês,",
-      "referencias": [],
-      "comentario": "A presença desses dons serviu como uma confirmação da veracidade da mensagem do evangelho que Paulo lhes pregou.",
-      "temas": ["confirmação do evangelho", "testemunho"],
-      "personagens": ["Cristo"]
+      "parafrase": "Isso significa que vocês não estão em falta em nenhum dom espiritual, enquanto aguardam com fervorosa expectativa a manifestação plena e gloriosa de nosso Senhor Jesus Cristo, nosso Salvador, aqui na Terra.",
+      "referencias": [
+        "Romanos 8:23",
+        "Tiago 5:7-8"
+      ],
+      "comentario": "O dom 'selado' ou 'confirmado' (bebaion) significa que a autenticidade dos dons espirituais (charismata) dos coríntios estava garantida. O ponto culminante dessa esperança é a 'epifania' (manifestação) de Cristo.",
+      "temas": [
+        "Dons Espirituais",
+        "Expectativa Escatológica",
+        "Manifestação de Cristo"
+      ],
+      "personagens": [
+        "Senhor Jesus Cristo"
+      ]
     },
     "7": {
-"parafrase": "de modo que não lhes falta nenhum dom espiritual, enquanto vocês aguardam a revelação de nosso Senhor Jesus Cristo.",
-      "referencias": [],
-      "comentario": "Eles possuíam todos os dons necessários para a vida da igreja enquanto aguardavam a segunda vinda de Cristo. Isso, no entanto, contrastava com sua falta de maturidade.",
-      "temas": ["dons espirituais", "expectativa da segunda vinda"],
-      "personagens": ["Senhor Jesus Cristo"]
+      "parafrase": "Dessa forma, a chegada Dele os encontra sem deficiência em nada, pois Ele mesmo é quem os sustenta e os aperfeiçoa em todos os aspectos, até o dia em que Ele retornar para a plenitude.",
+      "referencias": [
+        "Filipenses 1:6",
+        "1 Tessalonicenses 5:23"
+      ],
+      "comentario": "Deus é quem assegura que a igreja não careça de nada ('apoleipomenous'), enquanto esperam o retorno. Isso fornece um bálsamo contra a ansiedade sobre a vinda final de Cristo.",
+      "temas": [
+        "Perseverança",
+        "Sustento Divino",
+        "Esperança Firme"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "8": {
-      "parafrase": "Ele os manterá firmes até o fim, para que vocês sejam irrepreensíveis no dia de nosso Senhor Jesus Cristo.",
-      "referencias": ["Filipenses 1:6", "1 Tessalonicenses 5:23-24"],
-      "comentario": "Paulo expressa sua confiança na soberania de Deus para preservar os crentes. Aquele que começou a obra neles (Cristo) é fiel para completá-la, apresentando-os sem culpa no dia do juízo.",
-      "temas": ["segurança da salvação", "perseverança dos santos", "fidelidade de Deus"],
-      "personagens": ["Cristo", "Senhor Jesus Cristo"]
+      "parafrase": "E Ele, com certeza, os manterá firmes e fortes até o fim, garantindo que vocês estejam irrepreensíveis e sem mancha no Grande Dia de nosso Senhor Jesus Cristo, o nosso Salvador.",
+      "referencias": [
+        "1 Tessalonicenses 5:24",
+        "Judas 1:24"
+      ],
+      "comentario": "Este versículo é uma promessa de perseverança final. Deus é fiel (pistós) para manter o trabalho iniciado. O objetivo é a apresentação 'sem culpa' (anepilēmptous) no dia do julgamento de Cristo.",
+      "temas": [
+        "Fidelidade de Deus",
+        "Perfeição Final",
+        "Julgamento"
+      ],
+      "personagens": [
+        "Senhor Jesus Cristo"
+      ]
     },
     "9": {
-      "parafrase": "Fiel é Deus, que os chamou para a comunhão com seu Filho, Jesus Cristo, nosso Senhor.",
-      "referencias": [],
-      "comentario": "A base da nossa segurança não é nossa própria força, mas a fidelidade de Deus, que nos chamou para um relacionamento de união e parceria com Seu Filho.",
-      "temas": ["fidelidade de Deus", "chamado divino", "comunhão com Cristo"],
-      "personagens": ["Deus", "Filho de Deus (Jesus Cristo)"]
+      "parafrase": "Pois Deus é fiel; Ele é Aquele que os chamou a participar ativamente da comunhão íntima e eterna com Seu amado Filho, nosso Senhor Jesus Cristo. Essa é uma chamada de fidelidade inegociável.",
+      "referencias": [
+        "Romanos 8:30",
+        "Hebreus 10:23"
+      ],
+      "comentario": "A fidelidade de Deus (pistós ho Theos) é a base da segurança do crente. O chamado é para 'koinōnian' (comunhão, partilha) com Cristo, sublinhando o relacionamento íntimo, e não apenas a crença doutrinária.",
+      "temas": [
+        "Fidelidade",
+        "Comunhão com Cristo",
+        "Chamado Divino"
+      ],
+      "personagens": [
+        "Deus",
+        "Filho"
+      ]
     },
     "10": {
-      "parafrase": "Rogo-lhes, irmãos, em nome de nosso Senhor Jesus Cristo, que todos concordem e que não haja divisões entre vocês; antes, que sejam unidos no mesmo modo de pensar e no mesmo propósito.",
-      "referencias": ["Filipenses 2:1-2"],
-      "comentario": "Após a introdução encorajadora, Paulo aborda o primeiro e mais sério problema da igreja: as divisões. Ele apela, com base na autoridade de Cristo, para que eles busquem a unidade de mente e de propósito.",
-      "temas": ["apelo à unidade", "perigo da divisão", "harmonia"],
-      "personagens": ["Senhor Jesus Cristo"]
+      "parafrase": "Meus irmãos e irmãs, suplico enfaticamente a vocês, agora, por autoridade do nosso Senhor Jesus Cristo: falem a mesma linguagem, estejam em total harmonia, e que não haja divisões ou disputas destrutivas entre vocês, mas sim uma unidade completa de pensamento e propósito.",
+      "referencias": [
+        "Efésios 4:3",
+        "Romanos 12:16"
+      ],
+      "comentario": "O tom muda para exortação urgente, iniciada com o apelo 'Parakalō' (Eu suplico). O foco é a unidade. 'Mesmo falar' (ton auton logon laleite) e 'sem cisões' (schismata) aborda a principal doença de Corinto: a facciosismo.",
+      "temas": [
+        "Unidade na Igreja",
+        "Exortação",
+        "Harmonia"
+      ],
+      "personagens": [
+        "Senhor Jesus Cristo"
+      ]
     },
     "11": {
-      "parafrase": "Pois fui informado a respeito de vocês, meus irmãos, pelos da casa de Cloe, que há contendas entre vocês.",
-      "referencias": [],
-      "comentario": "Paulo revela a fonte de sua informação, um relatório da família de Cloe, uma crente. Ele não está agindo com base em boatos, mas em um testemunho confiável.",
-      "temas": ["relatório confiável", "contendas", "divisão"],
-      "personagens": ["Cloe"]
+      "parafrase": "Isto se faz necessário porque recebi notícias perturbadoras de alguns membros da família de Cloé, indicando que há brigas e desentendimentos sérios em meio a vocês, dividindo a irmandade.",
+      "referencias": [
+        "Gálatas 5:15",
+        "Atos 20:29-30"
+      ],
+      "comentario": "Cloé provavelmente era uma matrona de uma das casas onde as reuniões eram realizadas. 'De Chloēs' sugere que a informação veio de sua casa ou família, confirmando que os problemas eram evidentes até para os de dentro do círculo doméstico.",
+      "temas": [
+        "Fofoca e Divisão",
+        "Conhecimento dos Problemas",
+        "Estrutura Familiar da Igreja"
+      ],
+      "personagens": [
+        "Cloé"
+      ]
     },
     "12": {
-      "parafrase": "O que quero dizer é isto: cada um de vocês diz: \"Eu sou de Paulo\", ou \"Eu sou de Apolo\", ou \"Eu sou de Cefas\", ou \"Eu sou de Cristo.\"",
-      "referencias": ["Atos 18:24-28"],
-      "comentario": "Ele descreve as facções na igreja. Eles estavam se dividindo em torno de seus pregadores favoritos: Paulo (o fundador), Apolo (um pregador eloquente), Cefas (Pedro, o apóstolo dos judeus) e um grupo que, de forma arrogante, afirmava ser o único a seguir verdadeiramente a Cristo.",
-      "temas": ["partidarismo", "divisão", "personalismo"],
-      "personagens": ["Paulo", "Apolo", "Cefas (Pedro)", "Cristo"]
+      "parafrase": "A questão é a seguinte: cada um de vocês está declarando lealdade a um líder diferente. Um diz: 'Eu sou do lado de Paulo'; outro se agarra a 'Eu sigo Apolo'; e, mais lamentável ainda, há quem diga: 'Eu sou fiel a Pedro'; e, para completar a confusão, outros afirmam: 'Eu sou exclusivo de Cristo'.",
+      "referencias": [
+        "Gálatas 2:9",
+        "Romanos 16:21"
+      ],
+      "comentario": "Este é o cerne da divisão: a glorificação de líderes humanos (Paulo, Apolo, Cefas/Pedro) sobre a união em Cristo. O último grupo, 'somos de Cristo', embora pareça mais espiritual, ainda denota separação dos demais grupos.",
+      "temas": [
+        "Facciosismo",
+        "Autoridade de Líderes",
+        "Submissão a Cristo"
+      ],
+      "personagens": [
+        "Paulo",
+        "Apolo",
+        "Cefas (Pedro)",
+        "Cristo"
+      ]
     },
     "13": {
-      "parafrase": "Acaso Cristo está dividido? Foi Paulo crucificado por vocês? Ou vocês foram batizados em nome de Paulo?",
-      "referencias": [],
-      "comentario": "Paulo faz uma série de perguntas retóricas para mostrar o absurdo de suas divisões. A lealdade deles pertence unicamente a Cristo, que é indivisível. Foi Cristo quem morreu por eles e é em nome de Cristo que foram batizados. Colocar qualquer líder humano em seu lugar é uma idolatria.",
-      "temas": ["absurdo da divisão", "centralidade de Cristo", "idolatria de líderes"],
-      "personagens": ["Cristo", "Paulo"]
+      "parafrase": "Como assim, Cristo está dividido entre vocês? Será que Paulo foi crucificado em favor de algum de vocês? Ou será que vocês foram batizados todos em nome exclusivo de Paulo? Isso é absurdo!",
+      "referencias": [
+        "2 Coríntios 10:13",
+        "Gálatas 6:12"
+      ],
+      "comentario": "Paulo usa um raciocínio retórico chocante: o escândalo da crucificação (skandala) foi central à sua pregação (v. 18). Se Cristo está dividido, Ele não é mais o Cristo crucificado. O batismo ('baptisthēte') é em nome do Pai, Filho e Espírito Santo, não de um homem.",
+      "temas": [
+        "Absurdidade da Divisão",
+        "Centralidade da Cruz",
+        "Batismo"
+      ],
+      "personagens": [
+        "Cristo",
+        "Paulo"
+      ]
     },
     "14": {
-      "parafrase": "Dou graças a Deus por não ter batizado nenhum de vocês, exceto Crispo e Gaio,",
-      "referencias": ["Atos 18:8", "Romanos 16:23"],
-      "comentario": "Paulo expressa alívio por ter batizado pessoalmente poucos coríntios, para que ninguém pudesse usar isso como pretexto para formar uma facção em seu nome.",
-      "temas": ["batismo", "prevenção de partidarismo"],
-      "personagens": ["Deus", "Crispo", "Gaio"]
+      "parafrase": "Agradeço a Deus o fato de eu não ter batizado a nenhum de vocês, exceto Crispo e Gaio, para que ninguém possa alegar que foi batizado em meu nome particular.",
+      "referencias": [
+        "Atos 18:8",
+        "Romanos 16:23"
+      ],
+      "comentario": "Paulo ressalta que sua função não era 'batizar' como um ritual de afiliação, mas pregar o Evangelho. Crispo (chefe da sinagoga) e Gaio (hospedeiro de Paulo em Corinto) são exceções conhecidas, mas Paulo usa isso para evitar qualquer confusão de lealdade.",
+      "temas": [
+        "Função do Apóstolo",
+        "Batismo",
+        "Evangelismo"
+      ],
+      "personagens": [
+        "Deus",
+        "Crispo",
+        "Gaio",
+        "Paulo"
+      ]
     },
     "15": {
-      "parafrase": "para que ninguém diga que vocês foram batizados em meu nome.",
-      "referencias": [],
-      "comentario": "Ele reforça a razão de sua gratidão.",
-      "temas": ["foco em Cristo"],
-      "personagens": []
+      "parafrase": "Assim, ninguém pode argumentar que pertence à facção de Paulo, porque eu não batizei ninguém além daqueles dois.",
+      "referencias": [
+        "Gálatas 1:8"
+      ],
+      "comentario": "Reforço direto da exclusividade de Cristo como o único batizador em termos de afiliação à igreja, usando o fato do batismo limitado como prova.",
+      "temas": [
+        "Prevenção de Facciosismo",
+        "Lealdade Exclusiva"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "16": {
-      "parafrase": "(Ah, sim, batizei também a família de Estéfanas; além destes, não me lembro se batizei algum outro.)",
-      "referencias": ["1 Coríntios 16:15"],
-      "comentario": "Ele corrige sua declaração anterior, lembrando-se de outra família que batizou. A hesitação mostra que o ato de batizar não era o foco principal de seu ministério.",
-      "temas": ["correção", "memória"],
-      "personagens": ["Estéfanas"]
+      "parafrase": "Ah, sim, eu me lembro! Eu também batizei a família de Estéfanas. Além deles, não me recordo de ter batizado mais ninguém da comunidade de Corinto.",
+      "referencias": [
+        "Gálatas 1:17",
+        "Romanos 16:17"
+      ],
+      "comentario": "Paulo menciona a casa de Estéfanas, que ele havia batizado anteriormente (mencionado em 16:17). Isso parece contradizer ligeiramente o v. 14 ('exceto Crispo e Gaio'), indicando que ele está listando aqueles que poderiam ser citados como 'seus batizados' para focar no princípio, não na lista completa.",
+      "temas": [
+        "Memória Pastoral",
+        "Fundação da Igreja"
+      ],
+      "personagens": [
+        "Estéfanas",
+        "Paulo"
+      ]
     },
     "17": {
-      "parafrase": "Pois Cristo не me enviou para batizar, mas para pregar o evangelho; não com sabedoria de palavras, para que a cruz de Cristo não se esvaziasse do seu poder.",
-      "referencias": [],
-      "comentario": "Paulo esclarece sua comissão principal: pregar o evangelho. E ele o faz de uma maneira específica: não usando a retórica eloquente e a sabedoria filosófica que os gregos tanto valorizavam. Ele temia que a exibição de sabedoria humana pudesse obscurecer a mensagem central e o poder da cruz.",
-      "temas": ["prioridade da pregação", "sabedoria humana vs. poder da cruz"],
-      "personagens": ["Cristo"]
+      "parafrase": "Pois Cristo não me enviou para que eu batizasse, mas sim para que eu anunciasse a mensagem do Evangelho. E isso deveria ser feito sem a ostentação de uma retórica humana sofisticada e vazia, para que a força da cruz de Cristo não fosse diminuída ou neutralizada.",
+      "referencias": [
+        "Colossenses 2:8",
+        "1 Pedro 1:23"
+      ],
+      "comentario": "Paulo contrasta o papel de 'batizar' (que pode gerar afiliação humana) com 'pregar o evangelho' (kēryssein to euangelion). Ele evita a 'sofisticação da palavra' (sophia logou), temendo que a arte da oratória ofusque o poder salvífico da mensagem.",
+      "temas": [
+        "Pregação do Evangelho",
+        "Simplicidade da Mensagem",
+        "Poder da Cruz"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "18": {
-      "parafrase": "Pois a mensagem da cruz é loucura para os que estão perecendo, mas para nós, que estamos sendo salvos, é o poder de Deus.",
-      "referencias": ["Romanos 1:16"],
-      "comentario": "A mensagem central do cristianismo – um Messias crucificado – é vista de duas maneiras opostas. Para o mundo incrédulo, parece uma tolice e uma fraqueza. Mas para os crentes, é a demonstração suprema do poder de Deus para salvar.",
-      "temas": ["mensagem da cruz", "loucura para o mundo", "poder de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Porque a mensagem da cruz, aquela que fala da crucificação de Cristo, pode até parecer tolice, uma loucura completa, para aqueles que estão perecendo, presos no caminho da destruição. Mas para nós, que estamos sendo salvos, ela é o poder real e divino de Deus!",
+      "referencias": [
+        "Romanos 1:16",
+        "Hebreus 2:3"
+      ],
+      "comentario": "O conceito da 'palavra da cruz' (ho logos ho tou staurou) é central. Para o mundo grego, a crucificação era o opróbrio máximo; logo, o Evangelho era 'mōria' (tolice). Para os crentes, é 'dynamis Theou' (poder de Deus).",
+      "temas": [
+        "Tolice da Cruz",
+        "Poder Salvífico",
+        "Perdição vs. Salvação"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "19": {
-      "parafrase": "Porque está escrito: \"Destruirei a sabedoria dos sábios e rejeitarei a inteligência dos inteligentes.\"",
-      "referencias": ["Isaías 29:14"],
-      "comentario": "Paulo cita Isaías para mostrar que o método de Deus sempre foi subverter a sabedoria humana. Deus se deleita em anular o orgulho intelectual do homem.",
-      "temas": ["sabedoria de Deus vs. sabedoria humana", "orgulho intelectual"],
+      "parafrase": "As Escrituras Sagradas já haviam profetizado isso, quando dizem: 'Destruirei a sabedoria dos sábios e anularei a inteligência dos intelectuais e dos peritos'. Assim está escrito.",
+      "referencias": [
+        "Isaías 29:14",
+        "Jeremias 8:9"
+      ],
+      "comentario": "Paulo usa uma citação complexa, que combina elementos de Isaías 29:14 com possíveis ecos de Jeremias 8:9. O ponto é que a filosofia humana falha em encontrar Deus; Deus escolhe anular a sabedoria humana.",
+      "temas": [
+        "Profecia Cumprida",
+        "Sabedoria Humana vs. Divina",
+        "Anulação da Inteligência"
+      ],
       "personagens": []
     },
     "20": {
-      "parafrase": "Onde está o sábio? Onde está o escriba? Onde está o debatedor desta era? Acaso não tornou Deus louca a sabedoria deste mundo?",
-      "referencias": ["Isaías 19:12", "Isaías 33:18"],
-      "comentario": "Com uma série de perguntas retóricas, Paulo declara a falência da sabedoria humana (seja a filosofia grega, a erudição judaica ou a retórica) em comparação com o plano de Deus. A cruz expõe a tolice de toda a sabedoria mundana.",
-      "temas": ["falência da sabedoria humana", "loucura do mundo"],
-      "personagens": ["Deus"]
+      "parafrase": "Onde está agora o sábio? Onde está o escriba, aquele que copiava os textos sagrados com erudição? Onde está o grande questionador deste tempo presente? Não é evidente que Deus transformou toda a aparente sabedoria deste mundo em pura tolice?",
+      "referencias": [
+        "Jó 12:17",
+        "Isaías 33:18"
+      ],
+      "comentario": "Uma série de perguntas retóricas direcionadas às classes cultas de Corinto. O 'sofos' (sábio), o 'grammateus' (escriba/doutor da lei) e o 'exetastēs' (investigador/arguidor) são colocados em xeque pela revelação divina.",
+      "temas": [
+        "Questionamento Retórico",
+        "Sábios do Mundo",
+        "Revelação"
+      ],
+      "personagens": []
     },
     "21": {
-      "parafrase": "Visto que, na sabedoria de Deus, o mundo não o conheceu por meio da sua própria sabedoria, agradou a Deus salvar os que creem pela loucura da pregação.",
-      "referencias": [],
-      "comentario": "No plano sábio de Deus, Ele permitiu que o mundo falhasse em encontrá-lo através da filosofia e da razão. Em vez disso, Deus escolheu um método que o mundo considera tolo: salvar as pessoas através da pregação da mensagem da cruz.",
-      "temas": ["plano de Deus", "loucura da pregação", "salvação pela fé"],
-      "personagens": ["Deus"]
+      "parafrase": "Isso aconteceu porque, com toda a sua sabedoria mundana, o mundo não conseguiu reconhecer a Deus através de suas próprias investigações. Assim, Deus decidiu que seria do Seu agrado salvar aqueles que creem, utilizando o método que o mundo considerou a maior das loucuras: a pregação do Evangelho.",
+      "referencias": [
+        "Atos 17:27",
+        "Romanos 1:28"
+      ],
+      "comentario": "A incredulidade não foi por falta de evidência (como visto em Romanos 1), mas por falha em reconhecer o Criador. A salvação, portanto, acontece através da 'pregação', um ato de fé baseado na revelação.",
+      "temas": [
+        "Reconhecimento de Deus",
+        "Salvação pela Fé",
+        "Método Divino"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "22": {
-      "parafrase": "Pois os judeus pedem sinais, e os gregos buscam sabedoria;",
-      "referencias": ["Mateus 12:38", "Atos 17:18"],
-      "comentario": "Paulo descreve as duas principais objeções ao evangelho. Os judeus queriam demonstrações de poder miraculoso (sinais) para validar o Messias. Os gregos queriam um sistema filosófico coerente e racional (sabedoria).",
-      "temas": ["pedra de tropeço", "sinais e sabedoria"],
+      "parafrase": "Os judeus, com sua busca por sinais visíveis e evidências miraculosas, exigem maravilhas espetaculares para crer. Os gentios, por sua vez, buscam incessantemente por uma filosofia profunda e racional, um caminho de sabedoria terrena.",
+      "referencias": [
+        "João 4:48",
+        "Atos 17:18"
+      ],
+      "comentario": "Paulo polariza a oposição: os judeus (que viam milagres como sinal messiânico) e os gregos (que buscavam a filosofia). Ambos procuram algo *diferente* da cruz.",
+      "temas": [
+        "Exigência Judaica (Sinais)",
+        "Busca Grega (Sabedoria)",
+        "Oposição ao Evangelho"
+      ],
       "personagens": []
     },
     "23": {
-      "parafrase": "nós, porém, pregamos a Cristo crucificado, que é pedra de tropeço para os judeus e loucura para os gentios.",
-      "referencias": ["Gálatas 5:11"],
-      "comentario": "A mensagem da cruz não satisfaz nenhuma dessas expectativas. Para os judeus, um Messias crucificado era uma contradição, uma maldição, uma pedra de tropeço. Para os gentios, um salvador que morre em uma cruz era o cúmulo da loucura e da fraqueza.",
-      "temas": ["Cristo crucificado", "pedra de tropeço", "loucura"],
-      "personagens": ["Cristo"]
+      "parafrase": "Mas nós pregamos a Cristo crucificado! Para os judeus, isso é um tropeço escandaloso, algo que os faz tropeçar e cair. Para os gentios, é a definição máxima de loucura, algo que os faz rir com desprezo.",
+      "referencias": [
+        "Isaías 8:14",
+        "Mateus 11:6"
+      ],
+      "comentario": "O 'skandalon' (pedra de tropeço) para os judeus era o Messias ser executado vergonhosamente. Para os gentios, era 'mōria' (loucura). A mensagem central da cruz é um obstáculo para a razão e a tradição.",
+      "temas": [
+        "Tropeço",
+        "Escândalo da Cruz",
+        "Desprezo Gentio"
+      ],
+      "personagens": [
+        "Cristo crucificado"
+      ]
     },
     "24": {
-      "parafrase": "Mas para os que foram chamados, tanto judeus como gregos, Cristo é o poder de Deus e a sabedoria de Deus.",
-      "referencias": [],
-      "comentario": "No entanto, para os eleitos de Deus (os chamados), a perspectiva muda completamente. Na cruz, eles veem a manifestação suprema do poder de Deus (para derrotar o pecado e a morte) e da sabedoria de Deus (para salvar pecadores de uma forma que ninguém poderia ter imaginado).",
-      "temas": ["poder de Deus", "sabedoria de Deus", "perspectiva dos eleitos"],
-      "personagens": ["Cristo", "Deus"]
+      "parafrase": "No entanto, para aqueles que são chamados por Deus, sejam eles judeus ou gentios, o Cristo pregado – mesmo crucificado – é o poder de Deus e a manifestação da sabedoria suprema de Deus.",
+      "referencias": [
+        "Efésios 2:1",
+        "Romanos 8:30"
+      ],
+      "comentario": "Este versículo é o clímax da seção. Para os 'chamados' (klētois), a mesma mensagem que é tolice para os de fora torna-se 'dynamis Theou' e 'sophia Theou'. O chamado divino supera a rejeição humana.",
+      "temas": [
+        "Poder na Chamada",
+        "Sabedoria Divina Revelada",
+        "Unidade dos Chamados"
+      ],
+      "personagens": [
+        "Deus",
+        "Cristo"
+      ]
     },
     "25": {
-      "parafrase": "Porque a loucura de Deus é mais sábia do que os homens, e a fraqueza de Deus é mais forte do que os homens.",
-      "referencias": [],
-      "comentario": "Paulo conclui com um paradoxo poderoso. O que parece ser a loucura e a fraqueza de Deus (a cruz) é, na realidade, infinitamente mais sábio e mais forte do que qualquer sabedoria ou poder humano.",
-      "temas": ["paradoxo divino", "sabedoria de Deus", "poder de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Isso se dá porque a aparente fraqueza e tolice das coisas de Deus são, na verdade, muito mais profundas e eficazes do que qualquer coisa que os humanos possam conceber como força ou sabedoria. O que parece fraco em Deus é invencível!",
+      "referencias": [
+        "Isaías 55:8",
+        "2 Coríntios 12:9"
+      ],
+      "comentario": "Conclusão paradoxal: A loucura de Deus é mais sábia que a sabedoria humana. A fraqueza de Deus (ilustrada pela cruz) supera a força humana. Este é o princípio teológico da inversão de valores divinos.",
+      "temas": [
+        "Paradoxo Divino",
+        "Inversão de Valores",
+        "Sabedoria Superior"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "26": {
-      "parafrase": "Irmãos, pensem no chamado de vocês. Não muitos eram sábios segundo os padrões humanos, nem muitos eram poderosos, nem muitos eram de nobre nascimento.",
-      "referencias": [],
-      "comentario": "Paulo pede aos coríntios que olhem para si mesmos como prova do método de Deus. A maioria deles não pertencia à elite da sociedade; não eram sábios, poderosos ou de famílias nobres.",
-      "temas": ["chamado dos humildes", "graça de Deus"],
-      "personagens": []
+      "parafrase": "Olhem só para a situação de vocês, irmãos, quando foram chamados por Cristo! Não havia uma multidão de sábios segundo os padrões do mundo, nem muitos que governavam com poder, nem tantos nascidos em famílias nobres e influentes. Pelo contrário, Deus escolheu propositalmente o que era humilde, o que era desprezado, o que parecia fraco e insignificante aos olhos da sociedade da época, para que ninguém pudesse se gabar de ter alcançado a fé por sua própria força ou status social. 👑➡️🌾",
+      "referencias": [
+        "Isaías 29:19",
+        "Tiago 2:5"
+      ],
+      "comentario": "Paulo estabelece um contraste fundamental entre a 'sabedoria do mundo' (sofia) e a sabedoria divina. O termo grego para 'chamados' é 'kletos', indicando um chamado soberano de Deus. A lista ('nem muitos sábios', 'nem muitos poderosos', 'nem muitos nobres') demonstra que a Igreja primitiva era majoritariamente composta por pessoas da base social, prevenindo a arrogância baseada em mérito humano. A escolha divina visa 'anientar' (destruir/anular) a glória humana.",
+      "temas": [
+        "Vocação",
+        "Humildade",
+        "Contraste entre o Mundo e Deus"
+      ],
+      "personagens": [
+        "Apóstolo Paulo",
+        "Irmãos em Corinto"
+      ]
     },
     "27": {
-      "parafrase": "Mas Deus escolheu as coisas loucas do mundo para envergonhar os sábios, e escolheu as coisas fracas do mundo para envergonhar as fortes.",
-      "referencias": [],
-      "comentario": "O método de Deus é escolher o que o mundo despreza para anular o orgulho humano. Ele usa o que é considerado tolo e fraco para mostrar a futilidade da sabedoria e da força do mundo.",
-      "temas": ["escolha soberana de Deus", "paradoxo da eleição", "humilhação do orgulho"],
-      "personagens": ["Deus"]
+      "parafrase": "Mas Deus, em Sua sabedoria soberana, fez exatamente o oposto: Ele escolheu deliberadamente as coisas que o mundo considerava tolas e fracas. Por quê? Para que pudesse envergonhar e deixar no chão aqueles que se vangloriavam de sua própria inteligência e força. Ele pegou o que era irrelevante para a sociedade e o elevou, confundindo os poderosos. 🔨🤯",
+      "referencias": [
+        "Provérbios 3:34",
+        "Romanos 1:20"
+      ],
+      "comentario": "O verbo grego 'exelaxen' (escolheu) carrega um peso de seleção intencional. Paulo usa 'mōra' (tolas, tolices) para descrever aquilo que o mundo considerava absurdo, especialmente a mensagem da Cruz. O objetivo é claro: humilhar o orgulho intelectual e social ('kautēsas') dos coríntios cultos.",
+      "temas": [
+        "Sabedoria Divina",
+        "Confusão do Orgulho Humano",
+        "Poder de Deus"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "28": {
-      "parafrase": "E Deus escolheu as coisas humildes e desprezadas do mundo, e as que não são, para reduzir a nada as que são,",
-      "referencias": [],
-      "comentario": "Deus escolhe o insignificante e o que não tem status para anular o que o mundo considera importante. Ele cria a partir do nada.",
-      "temas": ["escolha dos humildes", "soberania de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Deus escolheu o que é considerado de baixa estirpe, desprezado, e até mesmo o que não existe mais — aquilo que a sociedade havia descartado ou nem sequer considerava importante. Ele fez isso para que ninguém, sob nenhuma circunstância, pudesse sequer sonhar em se apresentar diante de Deus vangloriando-se de qualquer conquista pessoal ou posição alcançada. 🚫🏆",
+      "referencias": [
+        "Salmos 145:3",
+        "Romanos 4:17"
+      ],
+      "comentario": "A adição de 'ousantos' (o que não é, o inexistente) reforça a ideia de que a base da fé não está em estruturas terrenas. A frase 'para que ninguém se glorie diante de Deus' é o clímax da teologia da graça neste trecho. O foco é inteiramente na obra de Cristo e não na performance do receptor.",
+      "temas": [
+        "Graça Soberana",
+        "Exclusão da Auto-glorificação",
+        "Valorização do Desprezado"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "29": {
-      "parafrase": "a fim de que ninguém se glorie na presença de Deus.",
-      "referencias": ["Romanos 3:27"],
-      "comentario": "O propósito final do método de Deus na salvação é eliminar toda a possibilidade de orgulho humano. Ninguém poderá se gabar de ter contribuído para sua própria salvação.",
-      "temas": ["exclusão do orgulho", "glória a Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "O propósito de tudo isso é que nenhum ser humano possa reivindicar qualquer crédito perante Ele. É uma regra estabelecida por Deus, e não um acidente da história. O reconhecimento e a honra devem pertencer exclusivamente ao Criador, e não à criatura que Ele salvou. ✋🛑",
+      "referencias": [
+        "Efésios 2:8-9",
+        "Filipenses 2:10-11"
+      ],
+      "comentario": "Paulo conclui a argumentação sobre a eliminação da 'eulogia' (glorificação humana). A razão teológica é que a salvação deve refletir a glória de Deus (doxa). Se a fé dependesse de inteligência ou poder, o mérito seria transferido para o homem, o que anularia a soberania de Deus no ato salvífico.",
+      "temas": [
+        "Glória de Deus",
+        "Mérito vs. Graça",
+        "Soberania"
+      ],
+      "personagens": [
+        "Homem",
+        "Deus"
+      ]
     },
     "30": {
-      "parafrase": "É por causa dele que vocês estão em Cristo Jesus, o qual se tornou para nós sabedoria da parte de Deus, isto é, justiça, santidade e redenção.",
-      "referencias": ["Jeremias 23:5-6"],
-      "comentario": "Nossa posição em Cristo não é por nosso mérito, mas unicamente pela ação de Deus. Cristo mesmo se tornou para nós tudo o que precisávamos: a verdadeira sabedoria de Deus, nossa justiça (nosso status correto diante de Deus), nossa santidade (nossa pureza moral) e nossa redenção (nossa libertação).",
-      "temas": ["união com Cristo", "Cristo como nossa sabedoria", "justiça", "santidade", "redenção"],
-      "personagens": ["Deus", "Cristo Jesus"]
+      "parafrase": "Mas, meus amigos, vocês não estão em Cristo Jesus apenas por um acaso ou por mérito próprio! É Deus quem nos colocou dentro da união com Jesus Cristo. Ele, por Sua vontade, tornou Jesus a nossa base, a nossa fundação, a nossa realidade salvadora. ⚓️🌟",
+      "referencias": [
+        "João 14:6",
+        "Colossenses 1:27"
+      ],
+      "comentario": "Aqui, a discussão muda do 'por que Deus escolheu os fracos' para 'o que Cristo representa para nós'. 'Ginomai' (tornou-se) enfatiza a obra ativa de Deus. Cristo é apresentado como a fonte tripla de nossa posição: Sabedoria (Sofia), Retidão (Dikaiosyne) e Santificação (Hagiasmos). Estes não são dons adquiridos, mas características inerentes a Cristo que nos são imputadas.",
+      "temas": [
+        "Cristocêntrismo",
+        "A Identidade em Cristo",
+        "Sabedoria e Retidão"
+      ],
+      "personagens": [
+        "Jesus Cristo",
+        "Irmãos"
+      ]
     },
     "31": {
-      "parafrase": "Portanto, como está escrito: \"Aquele que se gloria, glorie-se no Senhor.\"",
-      "referencias": ["Jeremias 9:23-24"],
-      "comentario": "Paulo conclui o capítulo com uma citação de Jeremias. Se todo orgulho humano é excluído e tudo o que temos vem de Deus através de Cristo, então nosso único motivo de orgulho e exaltação deve ser o próprio Senhor.",
-      "temas": ["gloriar-se no Senhor", "humildade", "adoração"],
-      "personagens": ["Senhor"]
+      "parafrase": "E isso acontece para que, como as Escrituras antigas profetizaram, aquele que deseja se gabar ou se orgulhar, se orgulhe apenas e exclusivamente do Senhor! A única coisa digna de nossa exaltação é o que Deus fez em nós através de Seu Filho. O foco deve estar sempre no Mestre, nunca no aprendiz. 🙌❤️",
+      "referencias": [
+        "Jeremias 9:23-24",
+        "Apocalipse 5:12"
+      ],
+      "comentario": "Este versículo é uma citação direta (ou um poderoso eco) de Jeremias 9:23-24. Paulo utiliza a profecia do Antigo Testamento para legitimar seu argumento. O mandamento final é: se for para se gabar, que seja apenas no Senhor ('en Kyrio'). Isto resolve toda a tensão sobre o orgulho em Corinto, redirecionando toda a honra para a fonte da salvação.",
+      "temas": [
+        "Exaltação do Senhor",
+        "Referência Bíblica",
+        "Foco na Salvação"
+      ],
+      "personagens": [
+        "O Senhor"
+      ]
     }
   }
 }

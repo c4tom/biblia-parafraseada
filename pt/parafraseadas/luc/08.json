@@ -1,400 +1,944 @@
 {
   "livro": "Lucas",
   "capitulo": 8,
-  "contexto_historico": "Este capítulo apresenta uma série de parábolas de Jesus sobre o Reino de Deus, a importância de ouvir e praticar a palavra, e a autoridade de Jesus sobre a natureza, os demônios e a morte. Ele narra a parábola do semeador, a parábola da lâmpada, a parábola da semente que cresce secretamente, a parábola do grão de mostarda, a cura do endemoninhado gadareno, a cura da mulher com hemorragia e a ressurreição da filha de Jairo. O capítulo destaca a soberania de Jesus e a resposta variada à Sua mensagem.",
-  "bloco_tematico": "Parábolas do Reino e a Autoridade de Jesus",
+  "contexto_historico": "O capítulo 8 de Lucas se desenrola durante a fase central do ministério itinerante de Jesus na Galileia, após os primeiros sinais de oposição e a crescente popularidade. Historicamente, este período é marcado pela consolidação do grupo dos Doze Apóstolos (que acabaram de ser comissionados, conforme Lucas 9), e Jesus está agora ensinando de forma mais sistemática, utilizando parábolas para explicar a natureza do Reino de Deus a públicos mistos: discípulos, multidões curiosas e líderes religiosos céticos. O contexto social inclui a transição de um ministério centrado em milagres para um ensino mais profundo sobre discipulado e as dificuldades que ele acarreta, preparando o terreno para a jornada final a Jerusalém. Há também um foco na inclusão de mulheres como apoiadoras financeiras e seguidoras ativas (Lucas 8:1-3).",
+  "bloco_tematico": "A Semeadura do Reino, a Fé em Meio à Tempestade e a Revelação da Identidade de Cristo 👨‍🌾🌊👤",
   "versiculos": {
     "1": {
-      "parafrase": "Aconteceu, depois disso, que ele andava de cidade em cidade e de aldeia em aldeia, pregando e anunciando o evangelho do Reino de Deus. E os doze estavam com ele,",
-      "referencias": [],
-      "comentario": "Jesus continua Seu ministério itinerante, pregando o evangelho do Reino de Deus, acompanhado por Seus doze discípulos. Isso mostra a expansão de Seu ministério.",
-      "temas": ["ministério itinerante", "evangelho do Reino", "discípulos"],
-      "personagens": ["Jesus"]
+      "parafrase": "Logo após estes acontecimentos, Jesus viajava por cidades e aldeias da Galileia, pregando e anunciando a maravilhosa notícia do Reino de Deus. E Ele não estava sozinho; um grupo de doze homens, Seus discípulos mais próximos, o acompanhava de perto, junto com algumas mulheres notáveis que haviam sido libertadas de espíritos malignos ou curadas de enfermidades graves, como Maria Madalena, de quem sete demônios haviam sido expulsos, e Joana, esposa de Cuza, administrador de Herodes, e Susana, e muitas outras que sustentavam o ministério de Jesus com seus próprios recursos.",
+      "referencias": [
+        "Marcos 16:15",
+        "Mateus 4:23"
+      ],
+      "comentario": "Lucas estabelece o cenário da atividade itinerante de Jesus após a fase inicial em Jerusalém. O termo grego para 'anunciando' (katangellō) sugere uma proclamação formal e vigorosa. A menção específica das mulheres que O seguiam e sustentavam financeiramente (diakonousa) destaca um papel ativo e não apenas passivo no discipulado, um contraste notável com os costumes da época.",
+      "temas": [
+        "O Ministério Itinerante de Jesus",
+        "A Presença das Mulheres no Discipulado",
+        "Proclamação do Reino"
+      ],
+      "personagens": [
+        "Jesus",
+        "Doze Discípulos",
+        "Maria Madalena",
+        "Joana",
+        "Susana"
+      ]
     },
     "2": {
-      "parafrase": "e também algumas mulheres que haviam sido curadas de espíritos malignos e de enfermidades: Maria, chamada Madalena, da qual saíram sete demônios;",
-      "referencias": [],
-      "comentario": "Jesus é acompanhado por mulheres que foram curadas e que o apoiam financeiramente. Maria Madalena é destacada por sua libertação de sete demônios, mostrando o poder transformador de Jesus.",
-      "temas": ["mulheres seguidoras", "cura", "expulsão de demônios", "apoio financeiro"],
-      "personagens": ["Maria Madalena"]
+      "parafrase": "Junto a Jesus estava um círculo íntimo, os Doze, que eram Seus companheiros mais dedicados, e também havia um número de outras pessoas, mulheres notáveis, que haviam sido completamente curadas de doenças terríveis ou libertadas de possessões demoníacas. Entre elas estavam Maria, conhecida como Madalena, da qual sete espíritos malignos haviam sido expulsos, e Joana, esposa de Cuza, que administrava os bens de Herodes, e Susana, além de muitas outras que, com seus bens, ajudavam a manter a missão de Jesus e dos Seus seguidores.",
+      "referencias": [
+        "Marcos 15:40",
+        "Mateus 27:55"
+      ],
+      "comentario": "Este versículo reforça a menção das mulheres no v.1. O número sete para os demônios expulsos de Maria Madalena (Septuaginta, simbolismo de plenitude) indica uma libertação completa. O detalhe sobre Joana ser esposa do administrador de Herodes (epitropos) é importante, pois mostra que pessoas com conexões financeiras e políticas envolvidas seguiam Jesus.",
+      "temas": [
+        "A Profundidade da Cura",
+        "Apoio Financeiro ao Ministério",
+        "Exemplo de Maria Madalena"
+      ],
+      "personagens": [
+        "Jesus",
+        "Maria Madalena",
+        "Joana",
+        "Cuza"
+      ]
     },
     "3": {
-      "parafrase": "e Joana, esposa de Cuza, procurador de Herodes, e Susana, e muitas outras que o serviam com os seus bens.",
-      "referencias": [],
-      "comentario": "Outras mulheres são mencionadas, incluindo Joana, esposa de um oficial de Herodes, mostrando que o ministério de Jesus alcançava diferentes classes sociais. Elas o serviam com seus próprios recursos.",
-      "temas": ["mulheres seguidoras", "apoio financeiro", "diversidade"],
-      "personagens": ["Joana", "Susana"]
+      "parafrase": "Enquanto Jesus seguia Seu caminho, Ele lhes contou uma história para ilustrar a natureza do Reino, uma parábola que falava sobre um semeador que saiu para lançar suas sementes no campo. Enquanto ele espalhava o grão, algumas das sementes caíram em diferentes tipos de solo, cada uma encontrando um destino distinto.",
+      "referencias": [
+        "Mateus 13:3",
+        "Marcos 4:3"
+      ],
+      "comentario": "Este versículo introduz a Parábola do Semeador, que é uma das parábolas mais conhecidas e centrais. A ação de 'lançar' (speirein) a semente era um ato comum, mas o foco está na recepção do solo, que simboliza o coração humano.",
+      "temas": [
+        "A Parábola do Semeador",
+        "A Natureza da Palavra",
+        "Recepção Espiritual"
+      ],
+      "personagens": [
+        "Jesus",
+        "Semeador"
+      ]
     },
     "4": {
-      "parafrase": "E, ajuntando-se uma grande multidão, e vindo a ele de todas as cidades, disse por parábola:",
-      "referencias": ["Mateus 13:2", "Marcos 4:1"],
-      "comentario": "Jesus ensina por parábolas a uma grande multidão, usando histórias simples para ilustrar verdades espirituais profundas.",
-      "temas": ["parábolas", "ensino", "multidão"],
-      "personagens": ["Jesus"]
+      "parafrase": "Parte da semente caiu bem ao lado do caminho pisoteado, onde muitas pessoas passavam. Ali, as aves do céu, rápidas e vorazes, vieram e comeram a semente caída, não dando chance para que ela sequer germinasse ou criasse raízes na terra.",
+      "referencias": [
+        "Mateus 13:4",
+        "Marcos 4:4"
+      ],
+      "comentario": "O 'caminho' (hodon) representa o solo duro, impenetrável. As aves (petinou) são frequentemente interpretadas como o poder maligno ou distrações imediatas que roubam a Palavra antes que ela possa penetrar o coração endurecido.",
+      "temas": [
+        "Coração Endurecido",
+        "Ação do Inimigo",
+        "Perda Imediata da Palavra"
+      ],
+      "personagens": [
+        "Aves"
+      ]
     },
     "5": {
-      "parafrase": "'O semeador saiu a semear a sua semente. E, ao semear, uma parte caiu à beira do caminho, e foi pisada, e as aves do céu a comeram.'",
-      "referencias": ["Mateus 13:4", "Marcos 4:4"],
-      "comentario": "A parábola do semeador ilustra como a palavra de Deus é recebida e produz fruto em diferentes tipos de corações. A semente à beira do caminho representa a palavra que não penetra no coração e é roubada pelo maligno.",
-      "temas": ["semeador", "palavra de Deus", "caminho", "rejeição"],
-      "personagens": ["Jesus"]
+      "parafrase": "Outra porção da semente foi lançada sobre rochas e pedras. Esta caiu superficialmente, e embora tenha brotado rapidamente por não ter profundidade, ela não pôde se desenvolver. Como o solo era raso e não havia umidade para nutrir a raiz, a pequena planta secou sob o calor do sol inclemente, morrendo antes de dar fruto algum.",
+      "referencias": [
+        "Mateus 13:5-6",
+        "Marcos 4:5-6"
+      ],
+      "comentario": "O solo rochoso (epi tēn petran) simboliza a recepção superficial da Palavra, comum em ouvintes que aceitam a mensagem com entusiasmo inicial, mas sem profundidade ou compromisso real. A falta de 'raiz' (rhizan) implica que a fé não se aprofunda na vida da pessoa.",
+      "temas": [
+        "Fé Superficial",
+        "Falta de Profundidade",
+        "Reação ao Calor das Provações"
+      ],
+      "personagens": []
     },
     "6": {
-      "parafrase": "'Outra parte caiu sobre a rocha, e, depois de nascer, secou, porque não tinha umidade.'",
-      "referencias": ["Mateus 13:5", "Marcos 4:5"],
-      "comentario": "A semente em solo rochoso representa aqueles que recebem a palavra com entusiasmo, mas sem profundidade. Sua fé é superficial e não resiste às dificuldades.",
-      "temas": ["semente", "rocha", "fé superficial", "dificuldades"],
-      "personagens": ["Jesus"]
+      "parafrase": "Uma terceira parte das sementes caiu em um solo misturado com espinhos e ervas daninhas. Estas conseguiram brotar, mas à medida que cresciam, os espinhos, que eram mais vigorosos, subiram ao lado do trigo, sufocando-o e impedindo que ele alcançasse sua plena maturidade e colheita.",
+      "referencias": [
+        "Mateus 13:7",
+        "Marcos 4:7"
+      ],
+      "comentario": "A semente que cai entre espinhos (metaxy tōn achanthōn) representa aqueles que ouvem a mensagem, mas são, posteriormente, dominados pelas preocupações e riquezas deste mundo. Os espinhos simbolizam as distrações da vida que 'sufocam' a Palavra (sumpnigein).",
+      "temas": [
+        "Sufocamento pela Preocupação",
+        "Desejos Mundanos",
+        "Maturidade Inibida"
+      ],
+      "personagens": []
     },
     "7": {
-      "parafrase": "'Outra parte caiu entre espinhos, e os espinhos, crescendo com ela, a sufocaram.'",
-      "referencias": ["Mateus 13:7", "Marcos 4:7"],
-      "comentario": "A semente entre espinhos representa aqueles que ouvem a palavra, mas as preocupações deste mundo, as riquezas e os prazeres da vida a sufocam, impedindo-a de dar fruto.",
-      "temas": ["semente", "espinhos", "preocupações do mundo", "riquezas", "infrutífero"],
-      "personagens": ["Jesus"]
+      "parafrase": "Finalmente, a última e melhor porção da semente caiu em terra boa, em solo fértil e bem preparado. Esta semente não apenas germinou, mas cresceu vigorosamente, produzindo uma colheita extraordinária, rendendo trinta, sessenta e até cem vezes mais do que havia sido plantado inicialmente.",
+      "referencias": [
+        "Mateus 13:8",
+        "Marcos 4:8"
+      ],
+      "comentario": "O solo bom (gē kalē) é o coração receptivo, que ouve a Palavra e a 'guarda' (katechei, no sentido de reter firmemente). O rendimento variado (trinta, sessenta, cem) mostra que a eficácia da Palavra varia de acordo com a qualidade da recepção individual, mas sempre resultará em fruto abundante.",
+      "temas": [
+        "Coração Fértil",
+        "Frutificação Abundante",
+        "Retenção da Palavra"
+      ],
+      "personagens": []
     },
     "8": {
-      "parafrase": "'E outra parte caiu em boa terra e, depois de nascer, produziu fruto a cem por um.' Dizendo estas coisas, clamava: 'Quem tem ouvidos para ouvir, ouça!'",
-      "referencias": ["Mateus 13:8", "Marcos 4:8"],
-      "comentario": "A semente em boa terra representa aqueles que ouvem a palavra, a retêm em um coração bom e honesto, e produzem fruto abundante. A frutificação é o resultado da obediência e da receptividade. O chamado final enfatiza a importância de ouvir e entender.",
-      "temas": ["boa terra", "fruto abundante", "obediência", "receptividade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Enquanto terminava de contar esta história, Jesus olhou para eles com intensidade e os exortou: 'Quem tem ouvidos para ouvir a verdade profunda, que preste muita atenção e a escute com clareza!'",
+      "referencias": [
+        "Mateus 11:15",
+        "Apocalipse 2:7"
+      ],
+      "comentario": "A exortação 'Quem tem ouvidos para ouvir' (Echon ota akouein) é um convite à audição ativa e engajada, não apenas passiva. Lucas enfatiza que a compreensão desta parábola exige um preparo espiritual.",
+      "temas": [
+        "Chamado à Audição Atenta",
+        "Discernimento Espiritual",
+        "Conclusão da Parábola"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "9": {
-      "parafrase": "Os seus discípulos lhe perguntaram o que significava esta parábola.",
-      "referencias": ["Mateus 13:10", "Marcos 4:10"],
-      "comentario": "Os discípulos buscam a explicação da parábola, mostrando seu desejo de entender os mistérios do Reino.",
-      "temas": ["explicação da parábola", "discípulos", "busca por entendimento"],
-      "personagens": ["Discípulos"]
+      "parafrase": "Os discípulos, confusos com o significado oculto da história, aproximaram-se de Jesus em particular e perguntaram: 'Mestre, por que o senhor usa histórias e comparações para falar conosco sobre o Reino?'",
+      "referencias": [
+        "Mateus 13:10",
+        "Marcos 4:10"
+      ],
+      "comentario": "Os discípulos reconhecem que Jesus está usando um método de ensino velado, típico de um enigma ou alegoria. O termo grego 'parabole' (parábola) implica uma justaposição de duas realidades distintas para revelar uma verdade mais profunda.",
+      "temas": [
+        "O Propósito da Parábola",
+        "O Segredo do Reino",
+        "A Busca por Explicação"
+      ],
+      "personagens": [
+        "Discípulos",
+        "Jesus"
+      ]
     },
     "10": {
-      "parafrase": "Ele lhes respondeu: 'A vocês é dado conhecer os mistérios do Reino de Deus; mas aos outros, por parábolas, para que, vendo, não vejam; e, ouvindo, não entendam.'",
-      "referencias": ["Mateus 13:11-13", "Marcos 4:11-12"],
-      "comentario": "Jesus explica o propósito das parábolas: revelar a verdade aos que são receptivos e escondê-la daqueles que têm o coração endurecido. O conhecimento dos mistérios do Reino é um privilégio.",
-      "temas": ["mistérios do Reino", "revelação", "coração endurecido", "privilégio"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus lhes respondeu: 'A vocês foi concedido o privilégio de compreender os mistérios secretos do Reino de Deus, algo que não foi revelado a todos. Mas para aqueles que estão fora, Eu falo em figuras e enigmas, para que vejam sem realmente enxergar, e ouçam sem captar o verdadeiro significado.'",
+      "referencias": [
+        "Isaías 6:9-10",
+        "Mateus 13:11-12"
+      ],
+      "comentario": "Este é um ponto crucial sobre a revelação seletiva. Jesus cita profecias do Antigo Testamento (como Isaías 6:9-10) para justificar o uso de linguagem velada. A revelação é um presente ('dedotai' - foi dado) aos discípulos, enquanto os outros ficam em um estado de cegueira intencional ('para que não vejam').",
+      "temas": [
+        "Privilégio da Revelação",
+        "Mistérios do Reino",
+        "Cegueira Espiritual Proposital"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "11": {
-      "parafrase": "'A parábola é esta: A semente é a palavra de Deus.'",
-      "referencias": [],
-      "comentario": "Jesus explica o significado da semente na parábola: a palavra de Deus.",
-      "temas": ["explicação da parábola", "palavra de Deus"],
-      "personagens": ["Jesus"]
+      "parafrase": "A explicação da parábola é esta: a semente representa a Palavra de Deus, a mensagem do Reino. Agora, prestem atenção ao que significa cada tipo de solo onde ela caiu.",
+      "referencias": [
+        "Mateus 13:18-19",
+        "Marcos 4:14"
+      ],
+      "comentario": "Este versículo atua como a chave de leitura (a hermenêutica) para a parábola. A semente (sporos) é explicitamente identificada como a 'Palavra de Deus' (rhēma tou theou), o componente ativo da mensagem divina.",
+      "temas": [
+        "Interpretação da Parábola",
+        "A Palavra como Semente",
+        "Significado do Solo"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "12": {
-      "parafrase": "'Os que estão à beira do caminho são aqueles que ouvem; então vem o diabo e tira a palavra do coração deles, para que não creiam e não sejam salvos.'",
-      "referencias": [],
-      "comentario": "A explicação da primeira parte da parábola. A palavra é roubada pelo diabo antes que possa criar raízes e levar à fé e à salvação.",
-      "temas": ["caminho", "diabo", "roubo da palavra", "incredulidade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Aqueles que ouvem, mas que têm o seu coração como o caminho pisoteado, são as pessoas para quem a mensagem é pregada, mas logo Satanás, o adversário, chega e 'arranca' a Palavra de seus corações, para que não consigam crer e serem salvos.",
+      "referencias": [
+        "Mateus 13:19",
+        "1 Pedro 5:8"
+      ],
+      "comentario": "A referência a Satanás ('o diabo') como o ladrão da semente ilustra a oposição ativa à Palavra. O verbo grego para 'arrancar' (airō, levar embora) sugere uma remoção rápida e intencional.",
+      "temas": [
+        "Ação Demoníaca",
+        "Coração Endurecido",
+        "Perda da Salvação Inicial"
+      ],
+      "personagens": [
+        "Satanás"
+      ]
     },
     "13": {
-      "parafrase": "'Os que estão sobre a rocha são aqueles que, ao ouvirem, recebem a palavra com alegria; mas não têm raiz, creem por um tempo e, no tempo da provação, se desviam.'",
-      "referencias": [],
-      "comentario": "A explicação da segunda parte da parábola. A alegria inicial não é suficiente se não houver profundidade e raiz. A fé superficial não resiste à provação.",
-      "temas": ["rocha", "alegria superficial", "fé superficial", "provação"],
-      "personagens": ["Jesus"]
+      "parafrase": "As pessoas que recebem a Palavra sobre as pedras são aquelas que a escutam com grande alegria e aceitam a mensagem imediatamente. Contudo, como sua fé não tem profundidade nem raízes firmes, eles se mantêm na fé apenas por um breve período. Quando surgem as primeiras dificuldades, as provas ou as perseguições, eles rapidamente desistem e caem.",
+      "referencias": [
+        "Tiago 1:2-3",
+        "Efésios 2:6"
+      ],
+      "comentario": "A alegria inicial é genuína, mas superficial. A ausência de raízes (choris rhizēs) significa que a fé não passou pelo teste da perseverança. A 'queda' (ekpistēsan) refere-se ao abandono total do caminho da fé.",
+      "temas": [
+        "Fé de Momento",
+        "Provações e Perseguições",
+        "A Necessidade de Perseverança"
+      ],
+      "personagens": []
     },
     "14": {
-      "parafrase": "'E o que caiu entre espinhos são aqueles que ouvem, mas, ao prosseguirem, são sufocados pelas preocupações, riquezas e prazeres da vida, e não produzem fruto maduro.'",
-      "referencias": [],
-      "comentario": "A explicação da terceira parte da parábola. As distrações e as tentações do mundo impedem que a palavra dê fruto, mesmo que seja recebida.",
-      "temas": ["espinhos", "preocupações do mundo", "riquezas", "prazeres", "infrutífero"],
-      "personagens": ["Jesus"]
+      "parafrase": "E quanto à semente que caiu no meio dos espinhos? Esses são os que ouvem a Palavra, mas, ao longo do tempo, as preocupações da vida diária — a ansiedade com o sustento, o desejo por riquezas e os prazeres passageiros — crescem tanto que abafam a mensagem. Assim, a Palavra torna-se estéril em suas vidas, e eles nunca chegam a produzir frutos maduros.",
+      "referencias": [
+        "1 Timóteo 6:9-10",
+        "Mateus 6:33"
+      ],
+      "comentario": "As preocupações ('merimnai') e as riquezas ('ploutou') são mencionadas como os 'espinhos'. O verbo grego 'symptnigontai' significa literalmente sufocar ou estrangular, mostrando como as prioridades terrenas matam o potencial espiritual da Palavra.",
+      "temas": [
+        "Distrações Terrenas",
+        "Riqueza como Obstáculo",
+        "Esterilidade Espiritual"
+      ],
+      "personagens": []
     },
     "15": {
-      "parafrase": "'Mas o que caiu em boa terra são aqueles que, com um coração bom e honesto, ouvem a palavra, a retêm e produzem fruto com perseverança.'",
-      "referencias": [],
-      "comentario": "A explicação da quarta parte da parábola. O coração bom e honesto, a retenção da palavra e a perseverança resultam em fruto abundante. A frutificação é a prova da verdadeira fé.",
-      "temas": ["boa terra", "coração bom e honesto", "perseverança", "fruto abundante"],
-      "personagens": ["Jesus"]
+      "parafrase": "Por fim, a porção que caiu em solo bom representa aqueles cujo coração está bem disposto e íntegro. Eles ouvem a mensagem com atenção, a retêm firmemente em suas mentes e corações, e perseveram, produzindo frutos de maneira abundante e duradoura.",
+      "referencias": [
+        "Hebreus 12:1",
+        "Colossenses 1:6"
+      ],
+      "comentario": "O solo bom requer um coração 'bom e reto' (agathē kai eilikrinē). A integridade ('eilikrinē') implica pureza de intenção e sinceridade. O fruto é o resultado visível de uma fé genuinamente enraizada.",
+      "temas": [
+        "Coração Sincero",
+        "Retenção da Palavra",
+        "Frutificação Duradoura"
+      ],
+      "personagens": []
     },
     "16": {
-      "parafrase": "'Ninguém, depois de acender uma candeia, a cobre com um vaso ou a põe debaixo da cama; mas a coloca no candelabro, para que os que entram vejam a luz.'",
-      "referencias": ["Mateus 5:15", "Marcos 4:21"],
-      "comentario": "A parábola da lâmpada ilustra o propósito da revelação de Deus. A luz deve ser exposta e não escondida, para que ilumine a todos.",
-      "temas": ["parábola", "luz", "revelação", "propósito"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ninguém que acende uma lâmpada a esconde debaixo de um cesto ou a coloca debaixo da cama. Pelo contrário, a luz deve ser colocada sobre um candeeiro, para que todos os que entram na casa possam ver seu brilho.",
+      "referencias": [
+        "Mateus 5:15",
+        "Marcos 4:21"
+      ],
+      "comentario": "Esta é uma nova analogia, mudando o foco da recepção para a manifestação. A luz (luchnos) representa a Palavra ou a verdade do Reino. Esconder a luz sob um cesto (modios) ou debaixo da cama (hypokatō klinēs) é um ato contra a própria natureza da luz.",
+      "temas": [
+        "A Luz do Crente",
+        "Manifestação da Verdade",
+        "Propósito da Revelação"
+      ],
+      "personagens": []
     },
     "17": {
-      "parafrase": "'Pois nada há oculto que não venha a ser manifestado, nem escondido que não venha a ser conhecido e revelado.'",
-      "referencias": ["Mateus 10:26", "Marcos 4:22"],
-      "comentario": "A verdade será revelada. O que está oculto será manifestado, e o que está escondido será descoberto. A luz de Deus expõe tudo.",
-      "temas": ["revelação da verdade", "luz", "descoberta"],
-      "personagens": ["Jesus"]
+      "parafrase": "Pois tudo o que está oculto será revelado à luz, e o que está guardado em segredo será trazido à vista e tornado público.",
+      "referencias": [
+        "Mateus 10:26",
+        "1 Coríntios 4:5"
+      ],
+      "comentario": "Este princípio se aplica tanto à verdade do Reino quanto à natureza oculta do coração humano. O que está encoberto será trazido à manifestação pública (eis phaneron elthei).",
+      "temas": [
+        "Revelação do Oculto",
+        "Prestação de Contas",
+        "Verdade Manifesta"
+      ],
+      "personagens": []
     },
     "18": {
-      "parafrase": "'Portanto, cuidado com a forma como vocês ouvem. Pois a quem tem, mais será dado; e a quem não tem, até o que pensa ter lhe será tirado.'",
-      "referencias": ["Mateus 13:12", "Marcos 4:25"],
-      "comentario": "Jesus adverte sobre a importância de ouvir com atenção e discernimento. A forma como recebemos a palavra de Deus determinará a medida da bênção que receberemos. A responsabilidade é proporcional ao que se recebe.",
-      "temas": ["cuidado ao ouvir", "medida", "bênção", "responsabilidade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Portanto, tenham muito cuidado com a maneira como vocês ouvem a mensagem. Pois àquele que já entendeu e aplicou o que ouviu, mais lhe será dado. Mas daquele que não prestou atenção, até mesmo aquilo que ele pensava possuir será retirado.",
+      "referencias": [
+        "Mateus 25:29",
+        "Marcos 4:24-25"
+      ],
+      "comentario": "Este é o princípio do 'mais virá ao que tem'. O verbo grego para 'ouvir' (eisakouō) implica ouvir com diligência. A perda ('apolethēsetai') para o que não entende não é apenas a perda da nova bênção, mas a deterioração do que já possuía.",
+      "temas": [
+        "Lei da Mordomia Espiritual",
+        "Recompensa pela Fidelidade",
+        "Perda por Descuido"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "19": {
-      "parafrase": "A mãe e os irmãos de Jesus vieram até ele, mas não puderam aproximar-se por causa da multidão.",
-      "referencias": ["Mateus 12:46", "Marcos 3:31"],
-      "comentario": "A família de Jesus tenta se aproximar Dele, mas Ele usa a oportunidade para ensinar sobre a verdadeira família de Deus.",
-      "temas": ["família de Jesus", "interrupção", "ensino"],
-      "personagens": ["Maria", "Irmãos de Jesus"]
+      "parafrase": "Naquele momento, a mãe de Jesus e Seus irmãos chegaram, mas, por causa da multidão, não conseguiam se aproximar Dele para falar.",
+      "referencias": [
+        "Marcos 3:31-32",
+        "Mateus 12:47"
+      ],
+      "comentario": "Este episódio interrompe a discussão da parábola. A chegada da família biológica de Jesus, possivelmente tentando tirá-Lo de Sua missão (como sugerido em Marcos), enfatiza a prioridade de Sua nova família espiritual.",
+      "temas": [
+        "Prioridades de Jesus",
+        "Família Biológica vs. Família Espiritual",
+        "Obstáculos da Multidão"
+      ],
+      "personagens": [
+        "Mãe de Jesus",
+        "Irmãos de Jesus",
+        "Jesus"
+      ]
     },
     "20": {
-      "parafrase": "E lhe disseram: 'Sua mãe e seus irmãos estão lá fora, querendo vê-lo.'",
-      "referencias": [],
-      "comentario": "A notícia é trazida a Jesus, que está ensinando a multidão.",
-      "temas": ["notícia", "interrupção"],
-      "personagens": []
+      "parafrase": "Alguém da multidão Lhe avisou: 'Mestre, Sua mãe e Seus irmãos estão lá fora, querendo vê-Lo!'",
+      "referencias": [
+        "Marcos 3:32"
+      ],
+      "comentario": "A notícia é trazida por um mensageiro, destacando a dificuldade de acesso a Jesus devido à grande aglomeração de pessoas que O buscavam.",
+      "temas": [
+        "A Busca por Jesus",
+        "Interrupção do Ensino"
+      ],
+      "personagens": [
+        "Jesus",
+        "Mensageiro"
+      ]
     },
     "21": {
-      "parafrase": "Ele, porém, respondeu: 'Minha mãe e meus irmãos são aqueles que ouvem a palavra de Deus e a praticam.'",
-      "referencias": ["Mateus 12:49-50", "Marcos 3:34-35"],
-      "comentario": "Jesus redefine o conceito de família, elevando a família espiritual acima dos laços de sangue. A verdadeira família de Jesus é definida pela obediência à vontade de Deus.",
-      "temas": ["redefinição de família", "família espiritual", "obediência", "vontade de Deus"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus, porém, em vez de ir até eles, olhou para a multidão reunida ao Seu redor e declarou com clareza: 'Minha verdadeira mãe e Meus verdadeiros irmãos são aqueles que ouvem a Palavra de Deus e a obedecem com fidelidade!'",
+      "referencias": [
+        "Mateus 12:49-50",
+        "Gálatas 6:16"
+      ],
+      "comentario": "Esta é uma declaração radical sobre a primazia da comunhão espiritual sobre os laços de sangue. O grego 'oi poioi' (aqueles que fazem/praticam) enfatiza a obediência como o critério de parentesco com Cristo, não o parentesco físico.",
+      "temas": [
+        "Nova Definição de Família",
+        "Obediência como Vínculo",
+        "Prioridade Espiritual"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "22": {
-      "parafrase": "Aconteceu que, num daqueles dias, ele entrou num barco com os seus discípulos e lhes disse: 'Vamos para o outro lado do lago.' E eles partiram.",
-      "referencias": ["Mateus 8:23", "Marcos 4:35"],
-      "comentario": "Jesus e Seus discípulos embarcam para atravessar o mar da Galileia, a caminho de uma nova região para o ministério.",
-      "temas": ["viagem", "ministério"],
-      "personagens": ["Jesus"]
+      "parafrase": "Em certo dia, Jesus decidiu embarcar com Seus discípulos em uma pequena embarcação e lhes disse: 'Vamos atravessar o grande lago para o outro lado.' E assim fizeram, partindo em viagem.",
+      "referencias": [
+        "Mateus 8:23",
+        "Marcos 4:35"
+      ],
+      "comentario": "A narrativa muda de cenário, introduzindo a próxima grande demonstração de poder. A travessia do Mar da Galileia (Lago Genesaré) era comum, mas frequentemente perigosa.",
+      "temas": [
+        "Travessia do Mar",
+        "Início da Prova de Fé"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "23": {
-      "parafrase": "Enquanto navegavam, ele adormeceu. E desceu uma tempestade de vento sobre o lago, e o barco começou a se encher de água, e eles estavam em perigo.",
-      "referencias": ["Mateus 8:24", "Marcos 4:37"],
-      "comentario": "Uma tempestade repentina ameaça o barco, testando a fé dos discípulos. O sono de Jesus demonstra Sua paz e confiança em meio ao perigo.",
-      "temas": ["tempestade", "perigo", "sono de Jesus", "teste de fé"],
-      "personagens": ["Jesus"]
+      "parafrase": "Enquanto navegavam, Jesus adormeceu profundamente. De repente, uma tempestade violenta irrompeu no lago; o vento uivava, as ondas enormes se levantavam e a barcaça começou a encher-se perigosamente de água, ameaçando afundar.",
+      "referencias": [
+        "Salmos 107:23-27",
+        "Jonas 1:4"
+      ],
+      "comentario": "O termo grego para a tempestade (laelaps) denota um vendaval ou furacão repentino. O fato de Jesus estar dormindo (katasarkin) sugere um sono profundo, que testa a confiança dos discípulos no poder de Seu Mestre, mesmo em meio ao caos absoluto.",
+      "temas": [
+        "A Força da Natureza",
+        "O Sono de Jesus",
+        "Perigo Iminente"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "24": {
-      "parafrase": "Eles se aproximaram dele e o despertaram, dizendo: 'Mestre, Mestre, estamos perecendo!' Ele, porém, levantando-se, repreendeu o vento e a fúria da água; e eles cessaram, e fez-se bonança.",
-      "referencias": ["Mateus 8:25-26", "Marcos 4:38-39"],
-      "comentario": "Os discípulos, em seu medo, clamam a Jesus por ajuda, reconhecendo Seu poder de salvá-los. Jesus demonstra Seu poder soberano sobre a natureza, acalmando a tempestade com uma palavra.",
-      "temas": ["medo", "clamor", "poder de Jesus sobre a natureza", "milagre"],
-      "personagens": ["Jesus"]
+      "parafrase": "Os discípulos, em pânico mortal, correram até Jesus, que estava dormindo, e O despertaram com urgência, gritando: 'Mestre, Mestre! Estamos nos afogando! O senhor não se importa conosco?'",
+      "referencias": [
+        "Mateus 8:25",
+        "Salmos 44:23"
+      ],
+      "comentario": "O chamado 'Epistates' (Mestre/Comandante) e a acusação implícita ('ou não te importas?') mostram o desespero. Eles reconhecem Sua autoridade, mas duvidam de Sua vontade de intervir no momento de crise.",
+      "temas": [
+        "Desespero dos Discípulos",
+        "Apelo a Jesus",
+        "Dúvida em Meio ao Medo"
+      ],
+      "personagens": [
+        "Discípulos",
+        "Jesus"
+      ]
     },
     "25": {
-      "parafrase": "Então lhes disse: 'Onde está a fé de vocês?' E eles, atemorizados, maravilharam-se, dizendo uns aos outros: 'Quem é este, que até aos ventos e à água manda, e eles lhe obedecem?'",
-      "referencias": ["Mateus 8:26-27", "Marcos 4:40-41"],
-      "comentario": "Jesus repreende a falta de fé dos discípulos. Eles ficam admirados com o poder de Jesus, reconhecendo que Ele é mais do que um homem comum. Sua autoridade sobre a natureza revela Sua divindade.",
-      "temas": ["falta de fé", "admiração", "autoridade de Jesus", "divindade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus despertou, repreendeu o vento com autoridade e ordenou ao mar revolto: 'Silêncio! Acalme-se!' Imediatamente, o vento cessou, e tudo ficou completamente quieto, como se nunca tivesse havido perturbação.",
+      "referencias": [
+        "Mateus 8:26",
+        "Salmos 89:9"
+      ],
+      "comentario": "O poder de Jesus é demonstrado através de dois comandos verbais: 'Silêncio' (Sopé, referente ao vento) e 'Ser pacificai' (referente à água). Ele não ora, Ele comanda, demonstrando soberania absoluta sobre a criação. O resultado é 'grande calma' (galēnē megalē).",
+      "temas": [
+        "Soberania de Jesus sobre a Criação",
+        "Comando sobre o Caos",
+        "Poder Sobrenatural"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "26": {
-      "parafrase": "Eles navegaram para a região dos gadarenos, que fica defronte da Galileia.",
-      "referencias": ["Mateus 8:28", "Marcos 5:1"],
-      "comentario": "Jesus e Seus discípulos chegam a uma região gentia, onde encontrarão um homem possuído por demônios. A região dos gadarenos era predominantemente gentia, indicando que o ministério de Jesus se estende além das fronteiras judaicas.",
-      "temas": ["região gentia", "ministério", "viagem"],
-      "personagens": ["Jesus"]
+      "parafrase": "E então, eles navegaram até a região dos gadarenos, que fica do outro lado do mar, em oposição à Galileia. Assim que Jesus pôs os pés em terra firme, um homem dominado por demônios, que já fazia tempo vivia nu e não habitava em casa alguma, mas sim nos sepulcros, correu ao seu encontro, sentindo a presença Dele.",
+      "referencias": [
+        "Mateus 8:28",
+        "Marcos 5:1"
+      ],
+      "comentario": "A travessia do Mar da Galileia, um ato de soberania sobre a natureza (conforme visto nos versículos anteriores), os leva a um território predominantemente gentio ('gentios' ou 'gregos'), os Gadarenos. O encontro imediato com o endemoninhado sublinha o campo de batalha principal de Jesus: o domínio das trevas sobre a humanidade, manifestado aqui na extrema degradação social e espiritual (vivendo nu e em tumbas).",
+      "temas": [
+        "Geografia da Missão",
+        "Confronto Espiritual",
+        "Libertação Imediata"
+      ],
+      "personagens": [
+        "Jesus",
+        "Endemoninhado"
+      ]
     },
     "27": {
-      "parafrase": "Ao desembarcar, veio ao seu encontro um homem da cidade que tinha demônios; e há muito tempo não vestia roupa, nem morava em casa, mas nos sepulcros.",
-      "referencias": ["Marcos 5:2"],
-      "comentario": "Um homem possuído por demônios, que vivia entre os túmulos, vai ao encontro de Jesus. Sua condição é terrível e perigosa, mostrando a gravidade da possessão demoníaca.",
-      "temas": ["endemoninhado", "espíritos impuros", "sepulcros"],
-      "personagens": ["Homem endemoninhado"]
+      "parafrase": "Assim que Jesus se aproximou, este homem, que era possuído por uma legião de espíritos malignos, caiu a Seus pés, gritando com uma voz estrondosa e rouca: 'O que eu tenho a ver com Você, ó Jesus, Filho do Deus Altíssimo? Eu Lhe suplico, não me castigue ou me torture com o Seu poder agora!'",
+      "referencias": [
+        "Mateus 8:29",
+        "Tiago 2:19"
+      ],
+      "comentario": "O termo grego para 'legião' (stratós) remete a uma unidade militar romana, simbolizando a força organizada e a opressão extrema. A confissão 'Filho do Deus Altíssimo' é uma admissão involuntária da divindade de Jesus, mesmo que vinda dos demônios. O medo da tortura (basanos) indica que eles reconhecem a autoridade divina de Jesus como Juiz e Executor.",
+      "temas": [
+        "Reconhecimento Demoníaco",
+        "Soberania Divina",
+        "Poder e Julgamento"
+      ],
+      "personagens": [
+        "Jesus",
+        "Legião de Demônios"
+      ]
     },
     "28": {
-      "parafrase": "Ao ver Jesus, ele clamou, prostrou-se diante dele e disse em alta voz: 'O que temos nós contigo, Jesus, Filho do Deus Altíssimo? Peço-te que não me atormentes!'",
-      "referencias": ["Mateus 8:29", "Marcos 5:7"],
-      "comentario": "O demônio, através do homem, reconhece a identidade de Jesus como o Filho do Deus Altíssimo e teme Seu poder. Ele sabe que Jesus tem autoridade para atormentá-lo.",
-      "temas": ["reconhecimento demoníaco", "Filho do Deus Altíssimo", "tormento", "medo"],
-      "personagens": ["Demônio"]
+      "parafrase": "Pois Jesus havia ordenado ao espírito impuro: 'Saia deste homem!'. Várias vezes este espírito havia se apoderado dele, amarrando-o com correntes e grilhões, que ele sempre quebrava. Em seguida, o homem era arrastado para o ermo, dominado por uma força incontrolável.",
+      "referencias": [
+        "Marcos 5:3",
+        "Isaías 28:2"
+      ],
+      "comentario": "A ordem é direta e imperativa: 'Sai!'. Isso demonstra a autoridade de Jesus sobre o mundo espiritual. O detalhe das correntes quebradas (mesmo estando amarrado, a força da possessão o tornava indomável) ilustra a fúria e a força destrutiva da possessão, algo que nenhuma contenção humana poderia segurar.",
+      "temas": [
+        "Autoridade de Cristo",
+        "Destruição da Carne",
+        "Inutilidade da Força Humana"
+      ],
+      "personagens": [
+        "Jesus",
+        "Espírito Impuro"
+      ]
     },
     "29": {
-      "parafrase": "Pois Jesus havia ordenado ao espírito impuro que saísse do homem. (Muitas vezes ele o havia agarrado; e, embora fosse amarrado com correntes e grilhões e guardado, ele quebrava as amarras e era impelido pelo demônio para os desertos.)",
-      "referencias": [],
-      "comentario": "A força sobrenatural do homem possuído é evidente. Nenhuma força humana pode contê-lo, mostrando o poder do demônio e a necessidade de uma intervenção divina.",
-      "temas": ["força sobrenatural", "possessão demoníaca", "impotência humana"],
-      "personagens": ["Jesus"]
+      "parafrase": "Como Jesus perguntou: 'Qual é o seu nome?', ele respondeu: 'Meu nome é Legião, porque somos muitos os que estamos dentro dele.' Assim, os demônios imploravam fervorosamente a Jesus que não os mandasse ir para o abismo, o lugar de punição.",
+      "referencias": [
+        "Apocalipse 9:11",
+        "Judas 1:6"
+      ],
+      "comentario": "A resposta 'Legião' não é um nome pessoal, mas uma descrição de sua identidade coletiva e força destrutiva. A súplica para não serem enviados ao 'abismo' (abyssos) confirma sua consciência do destino final de punição reservado aos anjos caídos, algo que eles buscam desesperadamente evitar, transferindo-se para outro hospedeiro.",
+      "temas": [
+        "Identidade Espiritual",
+        "Consciência do Julgamento",
+        "O Abismo"
+      ],
+      "personagens": [
+        "Jesus",
+        "Legião de Demônios"
+      ]
     },
     "30": {
-      "parafrase": "Jesus lhe perguntou: 'Qual é o seu nome?' Ele respondeu: 'Legião', porque muitos demônios haviam entrado nele.",
-      "referencias": ["Marcos 5:9"],
-      "comentario": "Jesus questiona o demônio para revelar sua identidade e sua natureza. O nome \"Legião\" indica uma grande quantidade de demônios, mostrando a gravidade da possessão.",
-      "temas": ["identidade demoníaca", "Legião", "multiplicidade"],
-      "personagens": ["Jesus", "Demônio"]
+      "parafrase": "Naquele momento, havia uma grande manada de porcos pastando na colina próxima, um rebanho considerável. Os demônios suplicaram a Jesus, com grande insistência, para que lhes permitisse entrar naquelas criaturas, e Ele lhes concedeu permissão.",
+      "referencias": [
+        "Mateus 8:30",
+        "Levítico 11:7"
+      ],
+      "comentario": "A presença de uma grande quantidade de porcos é significativa, pois suínos eram animais impuros sob a Lei Mosaica (Levítico). Conceder a entrada nos porcos era um teste de autoridade e uma demonstração do poder destrutivo que os demônios possuíam, embora limitados pela permissão de Jesus. É o único cenário onde a autorização para a possessão é dada.",
+      "temas": [
+        "A Permissão Divina",
+        "Impureza",
+        "Poder Destrutivo"
+      ],
+      "personagens": [
+        "Jesus",
+        "Demônios",
+        "Manada de Porcos"
+      ]
     },
     "31": {
-      "parafrase": "E suplicavam-lhe que não os mandasse para o abismo.",
-      "referencias": [],
-      "comentario": "Os demônios, temendo o juízo, pedem para não serem enviados para o abismo, um lugar de tormento e prisão.",
-      "temas": ["súplica demoníaca", "medo do juízo", "abismo"],
-      "personagens": ["Demônios"]
+      "parafrase": "Com a permissão concedida, aqueles espíritos saíram do homem e entraram nos porcos. Imediatamente, toda a manada, composta por cerca de dois mil animais, correu descontroladamente do alto do declive até o lago, afogando-se completamente.",
+      "referencias": [
+        "Marcos 5:13",
+        "Jó 4:13"
+      ],
+      "comentario": "A ação é instantânea e catastrófica. A destruição da manada (estimada em cerca de 2000 animais) representa uma perda econômica substancial para os proprietários locais. Isso sublinha a natureza destrutiva inerente aos demônios: onde eles entram, o resultado final é a morte e a ruína total. Jesus demonstrou que o custo de libertar um homem foi a perda de bens materiais, mas não a vida humana.",
+      "temas": [
+        "Catástrofe Imediata",
+        "Custo da Libertação",
+        "Perda Material"
+      ],
+      "personagens": [
+        "Demônios",
+        "Manada de Porcos"
+      ]
     },
     "32": {
-      "parafrase": "Ora, havia ali uma grande manada de porcos pastando no monte; e eles suplicaram a Jesus que lhes permitisse entrar neles. E ele lhes deu permissão.",
-      "referencias": ["Mateus 8:30-32", "Marcos 5:11-13"],
-      "comentario": "Os demônios pedem permissão para entrar nos porcos, mostrando que eles não têm poder sem a permissão de Deus. Jesus lhes dá permissão, demonstrando Sua soberania.",
-      "temas": ["permissão divina", "demônios", "porcos"],
-      "personagens": ["Jesus"]
+      "parafrase": "Os guardiões dos porcos, testemunhas de tudo, fugiram em pânico e contaram o ocorrido na cidade e nos arredores. A notícia da perda econômica e do milagre se espalhou rapidamente.",
+      "referencias": [
+        "Mateus 8:33",
+        "Atos 12:15"
+      ],
+      "comentario": "A reação primária da comunidade é baseada na perda financeira. Eles não focam na libertação milagrosa do homem, mas sim no prejuízo material. Isso revela uma prioridade distorcida, comum quando se lida com o sagrado versus o pragmatismo mundano.",
+      "temas": [
+        "Reação da Comunidade",
+        "Prejuízo Material",
+        "Testemunho Fuga"
+      ],
+      "personagens": [
+        "Guardiões dos Porcos"
+      ]
     },
     "33": {
-      "parafrase": "Então os demônios saíram do homem e entraram nos porcos; e a manada precipitou-se despenhadeiro abaixo no lago e se afogou.",
-      "referencias": [],
-      "comentario": "A expulsão dos demônios resulta na destruição da manada de porcos. Isso demonstra o poder destrutivo dos demônios e a soberania de Jesus sobre eles.",
-      "temas": ["expulsão de demônios", "poder destrutivo", "soberania de Jesus"],
-      "personagens": []
+      "parafrase": "Então, as pessoas saíram para ver o que havia acontecido. Ao chegarem perto de Jesus, encontraram o homem que havia sido libertado dos demônios, sentado calmamente aos pés de Jesus, vestido com suas roupas e em plena posse de suas faculdades mentais. Um terror profundo os apoderou.",
+      "referencias": [
+        "Marcos 5:15",
+        "Salmos 119:18"
+      ],
+      "comentario": "O contraste é impressionante: antes nu e insano, agora vestido e são. Ele não apenas está livre, mas está na posição correta: aos pés do Mestre. O 'terror profundo' (phobos) que a multidão sente não é admiração piedosa, mas sim medo paralisante diante do poder demonstrado, especialmente porque envolveu a destruição de sua propriedade.",
+      "temas": [
+        "Transformação Visível",
+        "Medo Espiritual",
+        "Evidência de Poder"
+      ],
+      "personagens": [
+        "Jesus",
+        "Homem Libertado",
+        "Multidão"
+      ]
     },
     "34": {
-      "parafrase": "Os que apascentavam os porcos, ao verem o que havia acontecido, fugiram e contaram na cidade e nos campos.",
-      "referencias": ["Mateus 8:33", "Marcos 5:14"],
-      "comentario": "Os pastores de porcos, aterrorizados, relatam os eventos na cidade, espalhando a notícia do milagre e da destruição.",
-      "temas": ["testemunho", "medo", "notícia"],
-      "personagens": ["Pastores de porcos"]
+      "parafrase": "Os moradores daquela região, os gadarenos, todos, tomados por um medo avassalador, pediram a Jesus que se retirasse imediatamente da presença deles, pois estavam tomados pelo pânico.",
+      "referencias": [
+        "Mateus 8:34",
+        "Apocalipse 6:15"
+      ],
+      "comentario": "Esta é a reação mais triste: rejeitar a salvação e o libertador por causa do custo (perda dos porcos) ou por estarem intimidados pelo poder manifestado. Eles preferem manter sua ordem social e econômica, mesmo que isso signifique viver sob o domínio do caos espiritual. Jesus concede o pedido, demonstrando respeito pela escolha humana, mesmo que autodestrutiva.",
+      "temas": [
+        "Rejeição de Cristo",
+        "Prioridades Mundanas",
+        "O Custo da Fé"
+      ],
+      "personagens": [
+        "Multidão",
+        "Jesus"
+      ]
     },
     "35": {
-      "parafrase": "Então o povo saiu para ver o que havia acontecido. E, vindo a Jesus, encontraram o homem de quem os demônios haviam saído, sentado aos pés de Jesus, vestido e em perfeito juízo; e ficaram com medo.",
-      "referencias": ["Marcos 5:15"],
-      "comentario": "A transformação do homem é evidente. Ele está curado, vestido e em seu perfeito juízo, o que causa medo nas pessoas, que não conseguem compreender o poder de Jesus.",
-      "temas": ["transformação", "cura", "medo", "poder de Jesus"],
-      "personagens": []
+      "parafrase": "Então, Jesus entrou novamente no barco para voltar. O homem que havia sido curado, agora são, implorou a Jesus que o deixasse acompanhá-Lo. Contudo, Jesus o dispensou, dizendo:",
+      "referencias": [
+        "Marcos 5:18",
+        "João 6:66"
+      ],
+      "comentario": "O homem curado demonstra o desejo de discipulado, a resposta correta à graça recebida. Jesus, no entanto, estabelece uma nova missão para ele. Muitas vezes, a maior missão de um convertido não é seguir fisicamente o Mestre, mas testemunhar onde ele estava antes.",
+      "temas": [
+        "Discipulado Desejado",
+        "Vocação e Missão",
+        "Seguir a Cristo"
+      ],
+      "personagens": [
+        "Jesus",
+        "Homem Libertado"
+      ]
     },
     "36": {
-      "parafrase": "E os que haviam visto contaram-lhes como o endemoninhado havia sido curado.",
-      "referencias": [],
-      "comentario": "As testemunhas oculares relatam os eventos, confirmando o milagre e a libertação.",
-      "temas": ["testemunho", "relato"],
-      "personagens": []
+      "parafrase": "'Volte para sua casa e narre a todos o quanto Deus fez por você.' Então o homem se afastou e pregou por toda a cidade, contando detalhadamente como Jesus o havia libertado daquela escuridão.",
+      "referencias": [
+        "Atos 1:8",
+        "Salmos 26:7"
+      ],
+      "comentario": "O homem se torna o primeiro evangelista daquela região, o apóstolo da sua própria história de redenção. Jesus o envia como testemunha ocular (uma 'missão de retorno'). O foco não é apenas 'o que Jesus fez', mas 'o que Deus fez' através de Jesus, sublinhando a obra do Pai.",
+      "temas": [
+        "Missão Pessoal",
+        "Testemunho de Redenção",
+        "Glória de Deus"
+      ],
+      "personagens": [
+        "Jesus",
+        "Homem Libertado"
+      ]
     },
     "37": {
-      "parafrase": "Então toda a multidão da região dos gadarenos suplicou a Jesus que se retirasse deles, pois estavam tomados de grande medo. E ele, entrando no barco, voltou.",
-      "referencias": ["Mateus 8:34", "Marcos 5:17"],
-      "comentario": "A reação da cidade é de medo e rejeição. Eles preferem a segurança de seus bens materiais à presença de Jesus e Seu poder. Eles pedem que Ele se afaste, mostrando sua falta de fé e sua prioridade errada.",
-      "temas": ["medo", "rejeição de Jesus", "prioridades erradas", "falta de fé"],
-      "personagens": []
+      "parafrase": "A população daquela região dos gadarenos, vendo que toda a sua comunidade estava em pânico por causa do mar agitado e por terem perdido seus rebanhos, pediu a Jesus que partisse, pois estavam tomados por um grande medo. Ele então embarcou e voltou para o lado de onde tinha vindo.",
+      "referencias": [
+        "Mateus 8:37",
+        "Jó 21:31"
+      ],
+      "comentario": "Lucas reforça o tema da rejeição. A perda dos porcos e o medo do poder divino levaram toda a cidade a pedir a partida de Jesus. O poder de Deus foi percebido como uma ameaça à sua estabilidade e conforto, e eles preferiram expulsá-Lo a se arrepender.",
+      "temas": [
+        "Rejeição Coletiva",
+        "Medo da Manifestação Divina",
+        "Retorno"
+      ],
+      "personagens": [
+        "Multidão",
+        "Jesus"
+      ]
     },
     "38": {
-      "parafrase": "O homem de quem os demônios haviam saído suplicou-lhe que o deixasse ficar com ele. Jesus, porém, o despediu, dizendo:",
-      "referencias": ["Marcos 5:18-19"],
-      "comentario": "O homem curado, em sua gratidão, deseja seguir Jesus, demonstrando sua devoção. Jesus, no entanto, o envia para ser um testemunho em sua própria comunidade.",
-      "temas": ["gratidão", "devoção", "seguimento"],
-      "personagens": ["Homem curado", "Jesus"]
+      "parafrase": "O homem que fora curado, porém, seguia Jesus fervorosamente. Mas Ele lhe disse: 'Volte para sua casa e conte a todos o que Deus realizou em sua vida.'",
+      "referencias": [
+        "Marcos 5:19",
+        "João 4:29"
+      ],
+      "comentario": "Lucas repete a instrução dada no versículo 36, mas focando no homem que quer segui-Lo imediatamente (discipulado). Em Lucas, o homem é instruído a voltar imediatamente (v.36), enquanto Marcos foca no desejo de segui-Lo primeiro. A mensagem central permanece: sua conversão deve ser proclamada no seu contexto anterior.",
+      "temas": [
+        "Discípulo e Testemunha",
+        "Prioridade do Chamado",
+        "Proclamação da Obra de Deus"
+      ],
+      "personagens": [
+        "Jesus",
+        "Homem Libertado"
+      ]
     },
     "39": {
-      "parafrase": "'Volte para a sua casa e conte tudo o que Deus fez por você.' E ele foi, proclamando por toda a cidade o quanto Jesus havia feito por ele.",
-      "referencias": [],
-      "comentario": "Jesus envia o homem curado de volta para sua casa, para ser um testemunho vivo do poder e da misericórdia de Deus. O testemunho pessoal é poderoso.",
-      "temas": ["testemunho pessoal", "missão", "misericórdia de Deus"],
-      "personagens": ["Jesus"]
+      "parafrase": "O homem, então, se afastou, e foi por toda a cidade contando a todos os que encontrava o quanto Jesus havia feito por ele. Ele se tornou a principal voz testemunhal daquele milagre naquela região.",
+      "referencias": [
+        "Atos 4:20",
+        "2 Coríntios 5:17"
+      ],
+      "comentario": "Este versículo é uma reafirmação do versículo 36, enfatizando que o homem seguiu a ordem de Jesus com zelo e diligência, pregando em todas as partes da cidade, cumprindo a função de ser um 'embaixador' da nova vida recebida.",
+      "temas": [
+        "Evangelismo Pessoal",
+        "Novo Testamento de Vida",
+        "Obediência à Ordem"
+      ],
+      "personagens": [
+        "Homem Libertado"
+      ]
     },
     "40": {
-      "parafrase": "Quando Jesus voltou, a multidão o recebeu com alegria, pois todos o esperavam.",
-      "referencias": ["Mateus 9:1", "Marcos 5:21"],
-      "comentario": "Jesus retorna para a região judaica, e a multidão o recebe com alegria, demonstrando sua expectativa e sua busca por Ele.",
-      "temas": ["retorno", "multidão", "alegria", "expectativa"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ao retornar para o outro lado do lago, Jesus foi recebido com grande alegria por toda a multidão, pois todos estavam esperando por Ele, cheios de expectativa.",
+      "referencias": [
+        "Mateus 8:38",
+        "João 6:2"
+      ],
+      "comentario": "A cena muda drasticamente. Ao voltar para o lado da Galileia, onde a fé é mais receptiva (embora ainda imperfeita), Ele é recebido com aclamação. Isso contrasta com a rejeição hostil ou amedrontada dos gadarenos.",
+      "temas": [
+        "Boas-Vindas",
+        "Diferença de Recepção",
+        "Multidão Esperando"
+      ],
+      "personagens": [
+        "Jesus",
+        "Multidão"
+      ]
     },
     "41": {
-      "parafrase": "E eis que veio um homem chamado Jairo, que era chefe da sinagoga; e, prostrando-se aos pés de Jesus, suplicou-lhe que fosse à sua casa,",
-      "referencias": ["Mateus 9:18", "Marcos 5:22"],
-      "comentario": "Um líder religioso, em sua angústia, busca a ajuda de Jesus, demonstrando fé em Seu poder.",
-      "temas": ["fé", "líder religioso", "súplica"],
-      "personagens": ["Jairo", "Jesus"]
+      "parafrase": "Nesse momento, surgiu um homem chamado Jairo, uma das autoridades principais da sinagoga local. Ele se prostrou aos pés de Jesus e O implorou com grande fervor para que viesse urgentemente à sua casa, pois sua única filha, uma menina de cerca de doze anos, estava à beira da morte.",
+      "referencias": [
+        "Marcos 5:21",
+        "Mateus 9:18"
+      ],
+      "comentario": "Jairo é um líder religioso (arquisinagogo), o que torna sua humildade em se prostrar perante Jesus ainda mais notável. Ele reconhece que a cura só virá através de Jesus, mesmo que isso signifique submeter-se publicamente à autoridade de alguém que poderia ser visto como um rabino 'não ortodoxo'. A idade da filha (doze anos) é um ponto crucial, simbolizando o fim de uma fase inicial da vida.",
+      "temas": [
+        "Fé de um Líder",
+        "Humildade",
+        "Desespero Paternal"
+      ],
+      "personagens": [
+        "Jairo",
+        "Jesus",
+        "Filha de Jairo"
+      ]
     },
     "42": {
-      "parafrase": "porque tinha uma filha única, de cerca de doze anos, que estava morrendo. Enquanto Jesus ia, as multidões o apertavam.",
-      "referencias": [],
-      "comentario": "Jairo expressa sua urgência e sua fé na capacidade de Jesus de curar sua filha, mesmo que ela esteja morrendo. A multidão continua a seguir Jesus.",
-      "temas": ["urgência", "fé", "cura", "multidão"],
-      "personagens": ["Jairo"]
+      "parafrase": "Enquanto Jesus ia com Jairo, a multidão O comprimia, esmagando-O de todos os lados, fazendo o caminho ser lento e difícil.",
+      "referencias": [
+        "Marcos 5:24",
+        "Isaías 40:4"
+      ],
+      "comentario": "A multidão, embora receptiva, é um obstáculo físico. A pressão constante simboliza a demanda incessante sobre Jesus, mas Ele continua a avançar em direção à necessidade urgente de Jairo, mantendo o foco na missão de redenção.",
+      "temas": [
+        "Pressão da Multidão",
+        "Urgência da Missão",
+        "Perseverança"
+      ],
+      "personagens": [
+        "Jesus",
+        "Jairo",
+        "Multidão"
+      ]
     },
     "43": {
-      "parafrase": "E uma mulher que havia doze anos sofria de hemorragia, e que havia gastado todos os seus bens com médicos, e por ninguém pudera ser curada,",
-      "referencias": ["Mateus 9:20", "Marcos 5:25-26"],
-      "comentario": "Uma mulher com uma doença crônica e impura (pela Lei) se aproxima de Jesus. Sua condição é desesperadora, e ela já havia esgotado todos os recursos humanos.",
-      "temas": ["doença crônica", "desespero", "impureza"],
-      "personagens": ["Mulher com hemorragia"]
+      "parafrase": "E havia ali uma mulher que sofria há doze longos anos com um fluxo de sangue constante. Ela já havia gasto todos os seus bens com os médicos mais renomados, mas em vez de melhorar, sua condição só se agravava. Ela estava desesperada.",
+      "referencias": [
+        "Levítico 15:25-30",
+        "Marcos 5:25"
+      ],
+      "comentario": "Este fluxo (doença ritualmente impura, leucorreia, ou hemorragia crônica) não apenas a debilitava fisicamente, mas a tornava social e religiosamente 'impura' segundo a Lei (Levítico). Isso significa que ela estava impedida de participar plenamente da vida religiosa e social por doze anos. O fato de ter gasto tudo aponta para a falha da medicina humana.",
+      "temas": [
+        "Impureza Ritual",
+        "Sofrimento Prolongado",
+        "Falência Humana"
+      ],
+      "personagens": [
+        "Mulher do Fluxo de Sangue"
+      ]
     },
     "44": {
-      "parafrase": "aproximou-se por trás dele e tocou na orla do seu manto; e imediatamente a sua hemorragia cessou.",
-      "referencias": [],
-      "comentario": "A fé da mulher é evidente. Ela acredita que um simples toque no manto de Jesus pode curá-la, mesmo sem ser vista. A cura é instantânea e completa.",
-      "temas": ["fé", "cura instantânea", "milagre", "poder de Jesus"],
-      "personagens": ["Mulher com hemorragia"]
+      "parafrase": "Chegando por trás de Jesus, ela tocou a ponta da borda do Seu manto, convencida de que apenas este contato físico seria suficiente para curá-la. No mesmo instante, o fluxo de sangue cessou completamente.",
+      "referencias": [
+        "Mateus 9:20-21",
+        "Números 15:38-39"
+      ],
+      "comentario": "O 'manto' ou 'franja' (kraspedon) refere-se às bordas das vestes, onde se prendiam as borlas rituais (tzitzit). Sua fé não estava na magia do objeto, mas na santidade do Portador. O toque é um ato de fé desesperada, e o cese imediato da doença mostra a imediata resposta de Cristo à fé genuína, mesmo quando expressa timidamente.",
+      "temas": [
+        "Fé Táctil",
+        "Poder da Santidade",
+        "Cura Instantânea"
+      ],
+      "personagens": [
+        "Mulher do Fluxo de Sangue",
+        "Jesus"
+      ]
     },
     "45": {
-      "parafrase": "Jesus perguntou: 'Quem me tocou?' E, negando todos, Pedro e os que estavam com ele disseram: 'Mestre, a multidão te aperta e te comprime, e perguntas: Quem me tocou?'",
-      "referencias": ["Marcos 5:30-31"],
-      "comentario": "Jesus sente o poder saindo Dele e busca identificar quem o tocou, não por falta de conhecimento, mas para revelar a fé da mulher e ensinar aos outros. Os discípulos, em sua incompreensão, questionam a pergunta de Jesus.",
-      "temas": ["poder de Jesus", "percepção", "ensino", "incompreensão"],
-      "personagens": ["Jesus", "Pedro"]
+      "parafrase": "Jesus perguntou imediatamente: 'Quem foi que Me tocou?'. Como todos estavam Lhe apertando, Pedro respondeu, confuso: 'Mestre, a multidão está Lhe pressionando e aglomerando por todos os lados, e ainda assim Você pergunta quem O tocou?'",
+      "referencias": [
+        "Marcos 5:31",
+        "Gênesis 32:25"
+      ],
+      "comentario": "Jesus sabia quem O tocou (como em Marcos, onde Ele sente a força sair). Ele faz a pergunta não por ignorância, mas para forçar a mulher a se expor publicamente e declarar sua fé e cura, validando o milagre perante a multidão.",
+      "temas": [
+        "Revelação Forçada",
+        "Consciência de Cristo",
+        "Ato de Fé Pública"
+      ],
+      "personagens": [
+        "Jesus",
+        "Pedro",
+        "Mulher do Fluxo de Sangue"
+      ]
     },
     "46": {
-      "parafrase": "Jesus, porém, disse: 'Alguém me tocou, pois percebi que saiu poder de mim.'",
-      "referencias": [],
-      "comentario": "Jesus reafirma que houve um toque intencional e que poder saiu Dele para curar.",
-      "temas": ["poder de Jesus", "toque", "cura"],
-      "personagens": ["Jesus"]
+      "parafrase": "Mas a mulher, percebendo que não poderia se esconder, tremeu de medo e se aproximou, caindo aos pés de Jesus. Diante de todos, ela contou exatamente o que havia acontecido e como havia sido curada naquele exato momento.",
+      "referencias": [
+        "Atos 4:19-20",
+        "Hebreus 4:13"
+      ],
+      "comentario": "A confissão pública é o passo final de sua libertação. Ela supera o medo do julgamento social (por sua impureza) e o medo da repreensão de Jesus. Ao declarar a verdade, ela sela sua cura e se torna uma testemunha, assim como o gadareno.",
+      "temas": [
+        "Confissão",
+        "Superação do Medo",
+        "Testemunho Público"
+      ],
+      "personagens": [
+        "Mulher do Fluxo de Sangue",
+        "Jesus"
+      ]
     },
     "47": {
-      "parafrase": "Então a mulher, vendo que não podia esconder-se, aproximou-se tremendo e, prostrando-se diante dele, declarou diante de todo o povo a razão por que o havia tocado e como havia sido curada imediatamente.",
-      "referencias": ["Marcos 5:33"],
-      "comentario": "A mulher, com medo, mas também com gratidão, confessa o que aconteceu, revelando sua fé e a cura que recebeu. Seu testemunho é público.",
-      "temas": ["medo", "gratidão", "confissão", "cura", "testemunho"],
-      "personagens": ["Mulher com hemorragia"]
+      "parafrase": "Jesus então disse a ela com grande gentileza e autoridade: 'Filha, sua fé a curou. Vá em paz, pois você está perdoada e livre de sua enfermidade.'",
+      "referencias": [
+        "Gálatas 3:26",
+        "Isaías 65:23"
+      ],
+      "comentario": "O termo 'Filha' (thygater) é um termo de profundo carinho e aceitação familiar. Jesus não apenas cura o corpo, mas também restaura seu status social e religioso ao declará-la 'em paz' (eirene) e perdoada, resolvendo a raiz de sua longa aflição, que frequentemente tinha raízes espirituais.",
+      "temas": [
+        "Misericórdia",
+        "Paz e Perdão",
+        "Filiação Divina"
+      ],
+      "personagens": [
+        "Jesus",
+        "Mulher do Fluxo de Sangue"
+      ]
     },
     "48": {
-      "parafrase": "E ele lhe disse: 'Filha, a sua fé a salvou; vá em paz.'",
-      "referencias": ["Marcos 5:34"],
-      "comentario": "Jesus elogia a fé da mulher e a cura completamente, enviando-a em paz. A fé é o canal através do qual o poder de Jesus opera.",
-      "temas": ["fé", "salvação", "paz", "poder de Jesus"],
-      "personagens": ["Jesus"]
+      "parafrase": "Enquanto Ele ainda falava com a mulher, um mensageiro de Jairo chegou, vindo da casa do líder da sinagoga. Este mensageiro disse: 'Sua filha acaba de falecer. Não incomode mais o Mestre com isso.'",
+      "referencias": [
+        "Marcos 5:35",
+        "1 Samuel 1:17"
+      ],
+      "comentario": "Este é o ponto de máxima tensão. A morte confirmada chega no exato momento em que Jesus está validando a fé da mulher. O mensageiro sugere que Jesus não vale mais o esforço, pois a esperança se esvaiu. Para o mundo, a morte encerra a possibilidade do milagre.",
+      "temas": [
+        "Notícia da Morte",
+        "Desencorajamento",
+        "Pico da Crise"
+      ],
+      "personagens": [
+        "Jesus",
+        "Mensageiro",
+        "Jairo"
+      ]
     },
     "49": {
-      "parafrase": "Enquanto ele ainda falava, chegou alguém da casa do chefe da sinagoga, dizendo: 'Sua filha morreu; não incomode mais o Mestre.'",
-      "referencias": ["Mateus 9:23", "Marcos 5:35"],
-      "comentario": "A notícia da morte da filha de Jairo chega, aparentemente pondo fim à esperança. Eles acreditam que não há mais nada que Jesus possa fazer.",
-      "temas": ["morte", "desespero", "notícia"],
-      "personagens": []
+      "parafrase": "Ao ouvir a notícia, Jesus olhou diretamente para Jairo e disse, com uma voz firme que silenciou o medo: 'Não tema! Apenas mantenha sua fé em Mim, e sua filha viverá.'",
+      "referencias": [
+        "Isaías 41:10",
+        "João 11:40"
+      ],
+      "comentario": "A ordem dupla é a chave: 'Não tema' (anaphebo) e 'Crer somente' (pisteuó). Jesus reafirma que o maior obstáculo para a intervenção divina não é a gravidade da situação, mas a ausência de fé diante do desastre final (a morte).",
+      "temas": [
+        "Confronto com o Medo",
+        "A Necessidade da Fé",
+        "A Promessa de Vida"
+      ],
+      "personagens": [
+        "Jesus",
+        "Jairo"
+      ]
     },
     "50": {
-      "parafrase": "Jesus, porém, ouvindo isso, respondeu-lhe: 'Não temas; crê somente, e ela será salva.'",
-      "referencias": ["Marcos 5:36"],
-      "comentario": "Jesus encoraja Jairo a não perder a fé, mesmo diante da morte. A fé é a chave para a ressurreição.",
-      "temas": ["não temer", "fé", "crença"],
-      "personagens": ["Jesus"]
+      "parafrase": "Quando chegaram à casa, Jesus não permitiu que mais ninguém Entrasse, exceto o pai, a mãe da menina e Seus três discípulos mais íntimos (Pedro, Tiago e João). Lá dentro, Ele encontrou a criança já sem vida, mas disse: 'Dêem espaço para Ela, pois ela não morreu, apenas está dormindo.'",
+      "referencias": [
+        "Mateus 17:1",
+        "João 11:11"
+      ],
+      "comentario": "O círculo íntimo é estabelecido, protegendo o milagre de interferências céticas. A declaração 'não morreu, mas dorme' é uma definição teológica de morte para quem tem poder sobre ela. Para Jesus, a morte terrena é um sono temporário. Isso prepara a ressurreição.",
+      "temas": [
+        "Exclusividade da Fé",
+        "Separação para o Milagre",
+        "Morte como Sono"
+      ],
+      "personagens": [
+        "Jesus",
+        "Jairo",
+        "Mãe da Menina",
+        "Pedro",
+        "Tiago",
+        "João",
+        "Filha de Jairo"
+      ]
     },
     "51": {
-      "parafrase": "Ao chegar à casa, não permitiu que ninguém entrasse com ele, a não ser Pedro, Tiago e João, e o pai e a mãe da menina.",
-      "referencias": ["Marcos 5:37"],
-      "comentario": "Jesus leva apenas Seus três discípulos mais íntimos e os pais da menina para testemunhar a ressurreição, mostrando a importância do evento.",
-      "temas": ["discípulos íntimos", "testemunho", "exclusividade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Mas se vocês não me escutam, e continuam em silêncio, por que estão me agitando? Eu lhes pergunto com seriedade: O que vocês fariam se Eu fosse embora agora? Vocês pensam que podem lidar com a ausência de Cristo, ou será que, na verdade, o que os preocupa é a perda do conforto que Eu lhes trouxe? Reflitam profundamente sobre o valor real da minha presença entre vocês.",
+      "referencias": [
+        "João 6:66",
+        "Mateus 9:15"
+      ],
+      "comentario": "O grego de 'Se vocês não me escutam' (εὰν δὲ μὴ ἀκούητέ) sugere uma falha contínua na recepção da mensagem. Jesus confronta a apatia ou a resistência passiva do povo. O termo grego para 'agitando' ou 'turbando' (ταράσσεσθε) aponta para uma perturbação interior que eles não conseguem expressar ou resolver, talvez medo da mudança ou da responsabilidade que a verdade impõe. Ele questiona a profundidade do compromisso deles: eles seguem o milagre, ou o Mestre?",
+      "temas": [
+        "Confronto",
+        "Apatia Espiritual",
+        "Compromisso",
+        "A Necessidade da Fé Ativa"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "52": {
-      "parafrase": "E todos choravam e a lamentavam. Mas ele disse: 'Não chorem; ela não está morta, mas dorme.'",
-      "referencias": ["Mateus 9:24", "Marcos 5:39"],
-      "comentario": "Jesus afirma que a menina não está morta, mas dormindo, o que é uma forma de dizer que Sua intervenção trará vida. Ele tem poder sobre a morte.",
-      "temas": ["ressurreição", "sono", "poder de Jesus"],
-      "personagens": ["Jesus"]
+      "parafrase": "Os habitantes daquela cidade não entenderam o peso das minhas palavras. Eles começaram a murmurar, dizendo entre si: 'Este homem não é um profeta? Por que Ele fala sobre uma ausência iminente? Por que não está apenas realizando prodígios aqui, como fazia antes? Ele não percebe que as pessoas esperam ver sinais visíveis e confortáveis?'",
+      "referencias": [
+        "Mateus 13:57",
+        "João 4:48"
+      ],
+      "comentario": "A reação imediata é a zombaria e a dúvida, pois esperavam um Messias político ou um realizador de maravilhas contínuas, não um mestre que exigia transformação interna. O murmúrio (ἐγόγγυζον) é um padrão de descrença já visto no Antigo Testamento (Êxodo 16:7). Eles estavam presos à expectativa de um Messias que se conformasse aos seus desejos terrenos.",
+      "temas": [
+        "Murmuração",
+        "Expectativas Frustradas",
+        "Rejeição Profética",
+        "Cegueira Espiritual"
+      ],
+      "personagens": [
+        "Habitantes da cidade"
+      ]
     },
     "53": {
-      "parafrase": "E zombavam dele, sabendo que ela estava morta.",
-      "referencias": [],
-      "comentario": "A zombaria da multidão revela sua falta de fé e sua incompreensão do poder de Jesus.",
-      "temas": ["zombaria", "incredulidade", "morte"],
-      "personagens": []
+      "parafrase": "Eles, então, o rejeitaram com desprezo e o expulsaram da aldeia. O pensamento deles era: 'Como este homem, que não tem o prestígio das grandes escolas de Jerusalém, nem faz os espetáculos que estamos acostumados a ver, pode ser alguém importante para nós? Queremos o conforto visível, não a dureza da verdade!'",
+      "referencias": [
+        "Lucas 4:29",
+        "Atos 7:57"
+      ],
+      "comentario": "A rejeição violenta (ἀπωσάμενοι αὐτὸν ἔξω) mostra a escalada da oposição. O versículo espelha a rejeição de Jesus em Nazaré (Lucas 4:28-30). Eles expulsam Jesus fisicamente porque suas palavras perfuraram a bolha de sua autossuficiência religiosa e social. A rejeição do mensageiro é a rejeição da mensagem.",
+      "temas": [
+        "Rejeição",
+        "Expulsão",
+        "Preconceito Social",
+        "Incredulidade"
+      ],
+      "personagens": [
+        "Jesus",
+        "Habitantes da cidade"
+      ]
     },
     "54": {
-      "parafrase": "Mas ele, pegando-a pela mão, clamou, dizendo: 'Menina, levante-se!'",
-      "referencias": ["Marcos 5:41"],
-      "comentario": "Jesus restaura a menina completamente, demonstrando Seu poder sobre a morte e a doença. Sua palavra tem poder para ressuscitar os mortos.",
-      "temas": ["ressurreição", "poder da palavra de Jesus", "milagre"],
-      "personagens": ["Jesus"]
+      "parafrase": "Quando seus discípulos mais próximos, Tiago e João, testemunharam essa afronta, um fogo de indignação acendeu-se neles. Eles se voltaram para Jesus e perguntaram, com a impetuosidade típica de quem defende a honra de seu Mestre: 'Senhor, Tu queres que usemos o poder do céu para mandar um fogo consumidor que os destrua, como Elias fez com os profetas falsos? 🔥 Que o céu os julgue agora por sua ingratidão!'",
+      "referencias": [
+        "2 Reis 1:10-12",
+        "Marcos 3:17"
+      ],
+      "comentario": "Tiago e João, apelidados de 'Boanerges' (Filhos do Trovão, Marcos 3:17), demonstram aqui seu temperamento ardente. A referência a Elias é explícita e direta (2 Reis 1), um modelo de zeloso defensor de Deus. Os discípulos, ainda imbuídos de uma mentalidade de retribuição terrena, veem a expulsão como um ato que merece julgamento imediato e visível.",
+      "temas": [
+        "Zelo",
+        "Desejo de Vingança",
+        "Intervenção Divina",
+        "Discípulos em Formação"
+      ],
+      "personagens": [
+        "Tiago",
+        "João",
+        "Jesus"
+      ]
     },
     "55": {
-      "parafrase": "E o seu espírito voltou, e ela se levantou imediatamente; e ele ordenou que lhe dessem de comer.",
-      "referencias": [],
-      "comentario": "A ressurreição é instantânea e visível. Jesus demonstra Sua preocupação com as necessidades físicas da menina, confirmando que ela está verdadeiramente viva.",
-      "temas": ["ressurreição instantânea", "provisão", "vida"],
-      "personagens": ["Jesus"]
+      "parafrase": "Mas Jesus, com a calma imperturbável da sabedoria eterna, virou-se para eles e os repreendeu com ternura severa. Ele disse: 'Vocês não entendem de que espírito vocês são. 🌬️ O propósito do Filho do Homem não é trazer o fogo da destruição, mas sim a chama da salvação. Vocês estão pensando como os homens deste mundo, que desejam aniquilar o erro, e não como Deus, que deseja resgatar o pecador.'",
+      "referencias": [
+        "João 12:47",
+        "1 Pedro 3:15"
+      ],
+      "comentario": "A repreensão (ἐπιστραφεὶς ἐπετίμησεν αὐτοὺς) é suave, mas firme. O grego para 'espírito' (πνεῦμα) aqui contrasta o 'espírito humano' ou o 'espírito vingativo' com o Espírito de Deus. Jesus estabelece aqui a diferença crucial entre a justiça retaliativa do Antigo Pacto (que Seus discípulos ainda anelavam) e a missão redentora do Novo Pacto, que busca a misericórdia antes do juízo final.",
+      "temas": [
+        "Misericórdia",
+        "Missão Redentora",
+        "Diferença entre Justiça e Vingança",
+        "Autocontrole dos Discípulos"
+      ],
+      "personagens": [
+        "Jesus",
+        "Tiago",
+        "João"
+      ]
     },
     "56": {
-      "parafrase": "E seus pais ficaram maravilhados. Mas ele lhes ordenou que não contassem a ninguém o que havia acontecido.",
-      "referencias": ["Marcos 5:42-43"],
-      "comentario": "Os pais ficam maravilhados com o milagre. Jesus impõe o \"segredo messiânico\", instruindo-os a não revelarem o milagre. Isso pode ser para evitar a fama prematura ou para que o plano de Deus se cumprisse em Seu tempo.",
-      "temas": ["admiração", "segredo messiânico", "discrição", "plano divino"],
-      "personagens": ["Jesus"]
+      "parafrase": "Então, Ele os instruiu claramente, finalizando com uma declaração de propósito: 'Pois o Filho do Homem não veio para destruir as vidas, mas para oferecer uma nova chance, para salvar cada alma que se perdeu. 💖 Vamos seguir adiante para a próxima aldeia, pois nosso destino não é brigar, mas sim chamar os perdidos ao arrependimento.'",
+      "referencias": [
+        "1 Timóteo 1:15",
+        "Mateus 10:6"
+      ],
+      "comentario": "Este versículo é uma das declarações mais claras do propósito da encarnação. A palavra para 'destruir' (ἀπολέσαι) refere-se à condenação eterna ou ao fim da vida sem esperança. Jesus reafirma que Sua vinda está focada no resgate (σῶσαι). Esta afirmação serve como um corretivo teológico, lembrando aos discípulos que a agenda de Cristo é sempre a da graça, mesmo diante da rejeição mais hostil. O foco muda de Jerusalém (conflito) para 'outra aldeia' (missão).",
+      "temas": [
+        "Propósito de Cristo",
+        "Salvação",
+        "Arrependimento",
+        "Missão Contínua"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     }
   }
 }

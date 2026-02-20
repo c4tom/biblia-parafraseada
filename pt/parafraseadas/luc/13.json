@@ -1,253 +1,594 @@
 {
   "livro": "Lucas",
   "capitulo": 13,
-  "contexto_historico": "Este capítulo apresenta ensinamentos de Jesus sobre o arrependimento, o juízo e a necessidade de entrar pela porta estreita. Ele narra a parábola da figueira estéril, a cura de uma mulher encurvada no sábado, a parábola do grão de mostarda e do fermento, e a advertência sobre a porta estreita. O capítulo culmina com o lamento de Jesus sobre Jerusalém, que rejeitou Seus profetas e a Si mesmo.",
-  "bloco_tematico": "Arrependimento, Juízo e a Porta Estreita",
+  "contexto_historico": "O Evangelho de Lucas é frequentemente datado entre 80-90 d.C. e se destina a um público gentio-cristão (Teófilo). O capítulo 13 se situa no meio do ministério público de Jesus, um período de crescente tensão com as autoridades judaicas (fariseus e escribas) em Jerusalém. Este trecho acontece logo após Jesus ter lamentado sobre Jerusalém (Lucas 13:31-35, implícito no contexto anterior) e inclui narrativas curtas e parábolas impactantes que desafiam as expectativas do Reino de Deus e a urgência do arrependimento. O contexto imediato envolve discussões sobre desastres (lição sobre o julgamento) e a natureza do crescimento do Reino (parábolas do grão de mostarda e do fermento). ⏳",
+  "bloco_tematico": "Urgentia da Conversão e a Natureza Inclusiva do Reino de Deus 🚪🌱",
   "versiculos": {
     "1": {
-      "parafrase": "Naquele mesmo tempo, estavam presentes alguns que lhe contaram sobre os galileus cujo sangue Pilatos havia misturado com os seus sacrifícios.",
-      "referencias": [],
-      "comentario": "Alguns informam Jesus sobre um evento trágico: Pilatos havia massacrado galileus enquanto eles ofereciam sacrifícios. Isso levanta a questão da relação entre sofrimento e pecado.",
-      "temas": ["tragédia", "Pilatos", "sofrimento", "pecado"],
-      "personagens": ["Jesus"]
+      "parafrase": "Naquele exato momento, algumas pessoas que estavam ali com Jesus trouxeram à tona uma notícia terrível. Elas contaram a Ele sobre galileus cujo sangue Pilatos, o governador, havia misturado com o sangue dos seus próprios sacrifícios. Isso era um ultraje imenso e chocante, algo que levava as pessoas a pensarem que aqueles galileus eram pecadores piores que todos os outros, por terem sofrido tal destino atroz.",
+      "referencias": [
+        "Atos 5:37"
+      ],
+      "comentario": "A menção aos galileus massacrados por Pilatos serve como um gatilho para a discussão de Jesus sobre o julgamento e o arrependimento. O sangue misturado ao sacrifício (provavelmente durante uma revolta ou ato de resistência contra Roma) era visto como uma profanação máxima, implicando que eles eram amaldiçoados ou moralmente depravados. Jesus usa isso como ponto de partida para desconstruir a teologia popular do 'sofrimento = pecado'.",
+      "temas": [
+        "Julgamento humano",
+        "Sofrimento",
+        "Interpretação da tragédia"
+      ],
+      "personagens": [
+        "Jesus",
+        "Pilatos"
+      ]
     },
     "2": {
-      "parafrase": "Jesus lhes respondeu: 'Vocês pensam que esses galileus eram mais pecadores do que todos os outros galileus por terem sofrido assim?'",
-      "referencias": [],
-      "comentario": "Jesus corrige a concepção errônea de que o sofrimento é sempre uma punição direta por pecados específicos. Ele desafia a ideia de que as vítimas eram mais pecadoras.",
-      "temas": ["sofrimento", "pecado", "concepção errônea", "juízo"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus ouviu a fofoca carregada de pressupostos e, com um olhar penetrante, Ele lhes perguntou diretamente: 'Vocês realmente pensam que aqueles pobres homens eram pecadores extraordinários, merecendo um fim tão horrível, apenas por terem sofrido essa tragédia? Pensem melhor!'.",
+      "referencias": [
+        "Jó 4:7",
+        "Salmos 73:3"
+      ],
+      "comentario": "Jesus refuta a noção simplista da retribuição imediata. Ele não nega o sofrimento, mas questiona a causa atribuída pela multidão. A retórica é direta: o sofrimento extremo não é, automaticamente, prova de pecado extremo. O foco muda da culpa da vítima para a condição espiritual do ouvinte.",
+      "temas": [
+        "Erro de julgamento",
+        "Retribuição",
+        "Arrependimento"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "3": {
-      "parafrase": "'Eu lhes digo que não! Mas, se vocês não se arrependerem, todos vocês também perecerão.'",
-      "referencias": [],
-      "comentario": "Jesus enfatiza a necessidade universal de arrependimento. O sofrimento alheio deve servir como um alerta para a própria necessidade de arrependimento, pois o juízo virá sobre todos os que não se arrependerem.",
-      "temas": ["arrependimento", "juízo", "perdição", "advertência"],
-      "personagens": ["Jesus"]
+      "parafrase": "E Ele continuou, elevando a seriedade da situação: 'Eu lhes digo com firmeza: a menos que todos vocês mudem radicalmente o rumo de suas vidas, abandonando o velho caminho e se voltando para Deus, vocês enfrentarão um destino ainda mais terrível!'.",
+      "referencias": [
+        "Mateus 4:17",
+        "Atos 3:19"
+      ],
+      "comentario": "A palavra grega para 'mudar radicalmente o rumo' é *metanoeō* (metanoia), que significa uma mudança de mente, um arrependimento profundo. Jesus usa a tragédia como um alerta urgente. O perigo não está no sofrimento físico, mas na estagnação espiritual que leva à condenação final.",
+      "temas": [
+        "Arrependimento urgente",
+        "Alerta profético",
+        "Condenação espiritual"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "4": {
-      "parafrase": "'Ou vocês pensam que aqueles dezoito sobre os quais a torre de Siloé caiu e os matou eram mais culpados do que todos os outros habitantes de Jerusalém?'",
-      "referencias": [],
-      "comentario": "Jesus usa outro exemplo de tragédia para reforçar a mesma lição: o sofrimento não é necessariamente um indicador de maior pecado. A morte pode vir a qualquer um, e a preparação é essencial.",
-      "temas": ["tragédia", "Siloé", "culpa", "morte"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ou talvez vocês se lembrem daqueles dezoito homens sobre os quais a torre de Siloé desabou, matando-os em um acidente desastroso. Será que vocês acham que eles eram os maiores culpados de Jerusalém, aqueles que mereciam ser esmagados por pedras caídas do céu?",
+      "referencias": [
+        "Isaías 8:6",
+        "2 Pedro 3:9"
+      ],
+      "comentario": "A segunda ilustração é um desastre estrutural, não um ato político. A Torre de Siloé era uma construção local cuja queda resultou em morte. Ao usar dois exemplos distintos de morte súbita (violência estatal e acidente), Jesus mostra que a calamidade é universal e não seletiva quanto ao pecado de quem a sofre.",
+      "temas": [
+        "Calamidade universal",
+        "Acidentes",
+        "Imprevisibilidade da morte"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "5": {
-      "parafrase": "'Eu lhes digo que não! Mas, se vocês não se arrependerem, todos vocês também perecerão.'",
-      "referencias": [],
-      "comentario": "A repetição da advertência enfatiza a urgência e a universalidade do chamado ao arrependimento. A perdição é o destino daqueles que se recusam a se arrepender.",
-      "temas": ["arrependimento", "juízo", "perdição", "urgência"],
-      "personagens": ["Jesus"]
+      "parafrase": "Novamente, Eu lhes asseguro: se vocês não se arrependerem de verdade, a consequência será muito mais severa para suas almas do que o peso daquela torre foi para aqueles corpos.",
+      "referencias": [
+        "Mateus 10:15",
+        "Apocalipse 18:21"
+      ],
+      "comentario": "A conclusão é que a morte física é temporária e, ironicamente, pode ser um 'livramento' se a pessoa já estava arrependida. A verdadeira tragédia, segundo Jesus, é morrer sem arrependimento, enfrentando um juízo mais pesado.",
+      "temas": [
+        "Julgamento final",
+        "Consequência do não-arrependimento",
+        "Prioridade espiritual"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "6": {
-      "parafrase": "E contou esta parábola: 'Certo homem tinha uma figueira plantada em sua vinha. E, vindo procurar fruto nela, não o encontrou.'",
-      "referencias": [],
-      "comentario": "A parábola da figueira estéril ilustra a paciência de Deus com Israel (a figueira) e a necessidade de produzir frutos de arrependimento. A falta de fruto indica a esterilidade espiritual.",
-      "temas": ["parábola", "figueira estéril", "Israel", "frutos", "arrependimento"],
-      "personagens": ["Jesus"]
+      "parafrase": "Então, para ilustrar ainda mais essa necessidade de mudança, Jesus contou uma história que todos entenderiam: Havia um homem que possuía um pé de figueira plantado cuidadosamente no seu vinhedo. Ele foi até a árvore, esperando colher frutos, ansioso por encontrar figos maduros.",
+      "referencias": [
+        "Isaías 5:1-7",
+        "Mateus 21:19"
+      ],
+      "comentario": "A parábola da figueira estéril. A figueira ('ficus carica') era uma árvore comum e esperada que produzisse fruto. Seu lugar no vinhedo sugere que ela recebia cuidado especial (fertilização, poda, tempo). O dono é frequentemente interpretado como Deus Pai, e a figueira como Israel ou o indivíduo sob graça.",
+      "temas": [
+        "Parábola",
+        "Expectativa de fruto",
+        "Cuidado divino"
+      ],
+      "personagens": [
+        "Dono da vinha",
+        "Figueira"
+      ]
     },
     "7": {
-      "parafrase": "'Então disse ao viticultor: Eis que há três anos venho procurar fruto nesta figueira e não o encontro. Corte-a! Por que ela ocupa inutilmente a terra?'",
-      "referencias": [],
-      "comentario": "O proprietário (Deus) demonstra Sua paciência, mas também Sua expectativa de frutos. A falta de fruto leva à decisão de cortar a árvore, simbolizando o juízo.",
-      "temas": ["paciência de Deus", "expectativa", "juízo", "esterilidade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Mas, para sua grande decepção, Ele foi três vezes e em todas as vezes encontrou apenas galhos vazios. Não havia um único figo para colher. Ele disse ao seu jardineiro ou administrador: 'Olha só! Já fazem três anos que venho inspecionando esta árvore e ela nunca me deu nada de valor! É tempo de cortá-la, para que não desperdice mais o espaço bom da terra!'",
+      "referencias": [
+        "Jeremias 8:13",
+        "Miqueias 7:1"
+      ],
+      "comentario": "Três anos é um período significativo de paciência. A estéril não é apenas improdutiva, mas está ocupando um espaço vital. A decisão de cortar não é impensada, mas baseada em um longo histórico de frustração. A figueira representa uma vida que, apesar de ter todas as condições para produzir, falha em manifestar os frutos do arrependimento ou da fé.",
+      "temas": [
+        "Estéril",
+        "Paciência esgotada",
+        "Julgamento iminente"
+      ],
+      "personagens": [
+        "Dono da vinha",
+        "Jardineiro"
+      ]
     },
     "8": {
-      "parafrase": "'Ele, porém, respondeu: Senhor, deixe-a ainda este ano, até que eu cave ao redor dela e a adube.'",
-      "referencias": [],
-      "comentario": "O viticultor (Jesus) intercede pela figueira, pedindo mais tempo e oferecendo um cuidado adicional. Isso demonstra a misericórdia de Jesus e Sua intercessão pelo povo.",
-      "temas": ["intercessão de Jesus", "misericórdia", "cuidado"],
-      "personagens": ["Jesus"]
+      "parafrase": "O jardineiro, movido pela compaixão e talvez pelo seu próprio trabalho investido, interveio com uma súplica apaixonada: 'Meu senhor, por favor, conceda mais um ano a esta árvore! Deixe-a ficar mais este tempo aqui. Eu vou cavar a terra ao redor dela e aplicar uma grande quantidade de adubo rico, um verdadeiro 'excesso de cuidado'.",
+      "referencias": [
+        "Romanos 2:4",
+        "2 Coríntios 6:2"
+      ],
+      "comentario": "O jardineiro é visto como o intercessor (possivelmente representando o ministério de Jesus ou a graça estendida). Ele não sugere que a árvore mereça, mas pede uma 'moratória' baseada na possibilidade de intervenção e cuidado intensivo. O adubo simboliza a intensificação dos meios de graça (ensino, disciplina, o Espírito Santo).",
+      "temas": [
+        "Intercessão",
+        "Graça adicional",
+        "Cuidado pastoral"
+      ],
+      "personagens": [
+        "Jardineiro",
+        "Dono da vinha"
+      ]
     },
     "9": {
-      "parafrase": "'Talvez ela dê fruto no futuro. Se não, então você a cortará.'",
-      "referencias": [],
-      "comentario": "A esperança é que a figueira produza fruto com o cuidado adicional. Se não, o juízo será inevitável. A parábola enfatiza a urgência do arrependimento.",
-      "temas": ["esperança", "fruto", "juízo", "urgência"],
-      "personagens": ["Jesus"]
+      "parafrase": "Eu farei o meu melhor para cuidar dela, e se no próximo ano ela finalmente produzir frutos, ótimo! Mas se, depois de todo esse esforço extra, ela permanecer estéril, então, e somente então, você terá toda a razão em cortá-la e acabar com ela.'",
+      "referencias": [
+        "Hebreus 6:7-8",
+        "Tiago 2:20"
+      ],
+      "comentario": "Este versículo estabelece a condição final para a sobrevivência da figueira: produzir fruto após o tratamento intensivo. Isso ilustra a última chamada de Deus ao arrependimento antes do julgamento final. O fruto é a prova da transformação interna.",
+      "temas": [
+        "Prova final",
+        "Paciência ativa",
+        "Resultado inevitável"
+      ],
+      "personagens": [
+        "Jardineiro"
+      ]
     },
     "10": {
-      "parafrase": "Jesus estava ensinando numa das sinagogas no sábado.",
-      "referencias": [],
-      "comentario": "Jesus continua Seu ministério de ensino nas sinagogas, onde Ele encontrará uma mulher doente.",
-      "temas": ["ensino", "sinagoga", "sábado"],
-      "personagens": ["Jesus"]
+      "parafrase": "Depois de terminar essa parábola, Jesus foi ensinar em uma das sinagogas locais, e era um Sábado. E, ali, Ele viu uma mulher que estava totalmente encurvada, incapaz de se endireitar, como se estivesse presa ao chão há dezoito longos anos. Ela parecia totalmente dominada por aquele mal.",
+      "referencias": [
+        "Êxodo 20:8-11",
+        "Isaías 61:1"
+      ],
+      "comentario": "A mudança de cena é abrupta. Jesus, agora, move-se para um cenário de cura e autoridade no Sábado. A mulher está 'presa' (curvada), uma representação física da opressão espiritual ou da doença crônica. 18 anos de aflição a tornam uma figura de longa marginalização.",
+      "temas": [
+        "Cura no Sábado",
+        "Opressão",
+        "Tradição religiosa vs. Misericórdia"
+      ],
+      "personagens": [
+        "Jesus",
+        "Mulher"
+      ]
     },
     "11": {
-      "parafrase": "E eis que havia ali uma mulher que, havia dezoito anos, tinha um espírito de enfermidade; e andava encurvada, e de modo nenhum podia endireitar-se.",
-      "referencias": [],
-      "comentario": "Uma mulher sofre de uma enfermidade crônica causada por um espírito, o que a impede de se endireitar. Sua condição é de grande sofrimento e limitação.",
-      "temas": ["enfermidade", "espírito de enfermidade", "sofrimento"],
-      "personagens": ["Mulher encurvada"]
+      "parafrase": "Ao vê-la, Jesus a chamou para perto e, com ternura, disse: 'Mulher, a prisão que a tem dominado por tantos anos finalmente acabou! Você está livre!'",
+      "referencias": [
+        "Salmos 146:8",
+        "Lucas 4:18"
+      ],
+      "comentario": "A declaração de Jesus é um ato de autoridade imediata, proclamando a libertação antes mesmo do toque físico. O 'espírito de enfermidade' (como é descrito em alguns manuscritos) a mantinha presa, simbolizando uma subjugação demoníaca ou uma doença que transcende a causa natural.",
+      "temas": [
+        "Libertação",
+        "Autoridade sobre a doença",
+        "Misericórdia"
+      ],
+      "personagens": [
+        "Jesus",
+        "Mulher"
+      ]
     },
     "12": {
-      "parafrase": "Ao vê-la, Jesus a chamou e lhe disse: 'Mulher, você está livre da sua enfermidade!'",
-      "referencias": [],
-      "comentario": "Jesus, movido de compaixão, chama a mulher e a liberta de sua enfermidade com uma palavra de autoridade. Ele não espera que ela peça, mas age por Sua própria iniciativa.",
-      "temas": ["compaixão de Jesus", "libertação", "cura", "autoridade de Jesus"],
-      "personagens": ["Jesus"]
+      "parafrase": "E então, Jesus simplesmente estendeu a mão e tocou nela. Imediatamente, a mulher se endireitou completamente, erguendo-se e glorificando a Deus pela sua cura milagrosa.",
+      "referencias": [
+        "Mateus 8:3",
+        "Marcos 1:41"
+      ],
+      "comentario": "O toque confirma e sela a cura, demonstrando o poder físico de Jesus. A reação dela — glorificar a Deus — mostra que ela compreendeu a origem daquele poder e não O atribuiu a si mesma ou a meios naturais.",
+      "temas": [
+        "Toque de cura",
+        "Restauração física",
+        "Adoração"
+      ],
+      "personagens": [
+        "Jesus",
+        "Mulher"
+      ]
     },
     "13": {
-      "parafrase": "E impôs as mãos sobre ela, e imediatamente ela se endireitou e glorificou a Deus.",
-      "referencias": [],
-      "comentario": "A cura é instantânea e visível, e a mulher glorifica a Deus, confirmando o milagre e a autoridade de Jesus.",
-      "temas": ["cura instantânea", "glória a Deus", "milagre"],
-      "personagens": []
+      "parafrase": "Contudo, o líder da sinagoga ficou extremamente irritado com o que testemunhava, pois Jesus a havia curado no Sábado. Ele se voltou para a multidão, indignado, e bradou: 'Há seis dias para trabalhar! Venham nesses dias para serem curados, mas não usem o dia santo para realizar milagres!'",
+      "referencias": [
+        "Mateus 12:10",
+        "Marcos 3:2"
+      ],
+      "comentario": "O líder sinagogal representa a rigidez legalista. Ele está mais preocupado com a observância estrita da lei do sábado (derivada de tradições rabínicas, não do mandamento primário) do que com a libertação de um ser humano. A cura é vista como 'trabalho' ('ergon').",
+      "temas": [
+        "Legalismo",
+        "Tradição humana",
+        "Conflito sobre o Sábado"
+      ],
+      "personagens": [
+        "Líder da sinagoga",
+        "Jesus",
+        "Mulher"
+      ]
     },
     "14": {
-      "parafrase": "Mas o chefe da sinagoga, indignado porque Jesus havia curado no sábado, disse à multidão: 'Há seis dias em que se deve trabalhar; venham, pois, nesses dias para serem curados, e não no dia de sábado.'",
-      "referencias": [],
-      "comentario": "O chefe da sinagoga, em seu legalismo, se indigna com a cura no sábado, priorizando a tradição sobre a compaixão e a necessidade humana. Ele repreende a multidão, não Jesus.",
-      "temas": ["legalismo", "sábado", "indignação", "hipocrisia"],
-      "personagens": ["Chefe da sinagoga"]
+      "parafrase": "Jesus respondeu a essa crítica com ironia e firmeza: 'Hipócritas! Vocês mesmos, cada um de vocês, não desamarram seu boi ou seu jumento da manjedoura no Sábado para levá-lo à bebedouro? Não é justo que esta filha de Abraão, aprisionada por Satanás por dezoito anos, fosse libertada do seu cativeiro no dia de descanso?'",
+      "referencias": [
+        "Mateus 12:11-12",
+        "Tiago 2:13"
+      ],
+      "comentario": "Jesus expõe a hipocrisia usando um exemplo prático e inegável: cuidar de animais. Se eles quebravam o Sábado para salvar um animal de estimação ou trabalho (que não estava em perigo imediato de morte), quanto mais uma filha de Abraão merecia ser libertada de uma servidão de quase duas décadas. O termo 'filha de Abraão' a coloca sob a aliança divina.",
+      "temas": [
+        "Hipocrisia",
+        "Lei de misericórdia",
+        "Filhos de Abraão"
+      ],
+      "personagens": [
+        "Jesus",
+        "Líder da sinagoga"
+      ]
     },
     "15": {
-      "parafrase": "O Senhor, porém, lhe respondeu: 'Hipócritas! Cada um de vocês não desamarra o seu boi ou o seu jumento da manjedoura no sábado e o leva para beber?'",
-      "referencias": [],
-      "comentario": "Jesus expõe a hipocrisia do chefe da sinagoga, usando um exemplo do cotidiano. Eles cuidam de seus animais no sábado, mas se recusam a cuidar de uma pessoa. A vida humana é mais valiosa do que a vida animal.",
-      "temas": ["hipocrisia", "sábado", "vida humana", "valor"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ao ouvir isso, todos os seus opositores ficaram envergonhados, sentindo o peso da verdade, enquanto o povo celebrava os atos maravilhosos que Ele continuava a realizar.",
+      "referencias": [
+        "Mateus 22:46",
+        "Lucas 20:40"
+      ],
+      "comentario": "A acusação de Jesus foi tão irrefutável que resultou em vergonha pública para os legalistas. A reação da multidão mostra a aceitação popular da misericórdia de Jesus em contraste com a crítica da elite religiosa.",
+      "temas": [
+        "Vergonha dos opositores",
+        "Aprovação popular",
+        "Autoridade de Jesus"
+      ],
+      "personagens": [
+        "Jesus",
+        "Opositores"
+      ]
     },
     "16": {
-      "parafrase": "'E esta mulher, que é filha de Abraão, e que Satanás manteve presa por dezoito anos, não deveria ser libertada desta prisão no dia de sábado?'",
-      "referencias": [],
-      "comentario": "Jesus enfatiza a dignidade da mulher como filha de Abraão e a gravidade de sua condição, que era uma prisão de Satanás. A libertação no sábado é um ato de misericórdia e de cumprimento da Lei, que visa o bem-estar do homem.",
-      "temas": ["filha de Abraão", "libertação", "sábado", "misericórdia"],
-      "personagens": ["Jesus"]
+      "parafrase": "E, para fechar o argumento, Jesus declarou: 'Esta mulher, que é descendente de Abraão, estava atada por este jugo maligno por dezoito anos, e não é direito dela ser libertada desta escravidão no Sábado, dia de descanso e restauração?'",
+      "referencias": [
+        "Gálatas 5:1",
+        "Atos 8:39"
+      ],
+      "comentario": "O uso da palavra 'jugo' reforça a ideia de servidão e opressão. O Sábado, que deveria ser um dia de descanso do jugo do trabalho, torna-se o dia perfeito para libertar alguém do jugo espiritual da doença. É uma inversão teológica da prioridade da lei.",
+      "temas": [
+        "Jugo de opressão",
+        "Liberdade",
+        "Significado do Sábado"
+      ],
+      "personagens": [
+        "Jesus",
+        "Mulher"
+      ]
     },
     "17": {
-      "parafrase": "Ao dizer isso, todos os seus adversários ficaram envergonhados, e toda a multidão se alegrava com todas as coisas gloriosas que ele fazia.",
-      "referencias": [],
-      "comentario": "Os adversários de Jesus ficam envergonhados por sua hipocrisia, e a multidão se alegra com os milagres e os ensinamentos de Jesus. A verdade prevalece sobre a hipocrisia.",
-      "temas": ["vergonha", "alegria", "milagres", "verdade"],
-      "personagens": []
+      "parafrase": "Quando Ele terminou de falar, todos os adversários se sentiram profundamente humilhados por Sua sabedoria e poder demonstrados, e o povo, vendo os feitos extraordinários, se alegrou com o que estava acontecendo.",
+      "referencias": [
+        "Mateus 7:28-29",
+        "Lucas 2:47"
+      ],
+      "comentario": "Reforça a rejeição pública dos adversários e a admiração do povo, marcando uma vitória retórica e espiritual de Jesus sobre a interpretação legalista da Lei.",
+      "temas": [
+        "Sabedoria divina",
+        "Admiração popular",
+        "Humilhação dos ímpios"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "18": {
-      "parafrase": "Então ele disse: 'A que é semelhante o Reino de Deus? E a que o compararei?'",
-      "referencias": ["Mateus 13:31", "Marcos 4:30"],
-      "comentario": "Jesus usa parábolas para ilustrar o crescimento e a natureza do Reino de Deus.",
-      "temas": ["parábola", "Reino de Deus", "comparação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Então Jesus prosseguiu com outra lição, perguntando: 'A qual Reino de Deus se assemelha o que estamos vivendo agora? Com o que posso comparar a ação de Deus? É como um pequeno grão de mostarda, que um homem pega e planta em sua horta.'",
+      "referencias": [
+        "Mateus 13:31-32",
+        "Marcos 4:30-32"
+      ],
+      "comentario": "Início da Parábola do Grão de Mostarda. Jesus muda o foco do julgamento pessoal para a natureza progressiva do Reino de Deus. O grão de mostarda era a menor das sementes conhecidas na época, sendo um símbolo poderoso para algo que começa insignificante.",
+      "temas": [
+        "Natureza do Reino",
+        "Crescimento",
+        "Início humilde"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "19": {
-      "parafrase": "'É semelhante a um grão de mostarda que um homem pegou e plantou em sua horta; e cresceu e se tornou uma grande árvore, e as aves do céu fizeram ninhos em seus ramos.'",
-      "referencias": ["Mateus 13:31-32", "Marcos 4:31-32"],
-      "comentario": "A parábola do grão de mostarda ilustra o crescimento do Reino de Deus, que começa pequeno, mas se torna grande e abrangente, oferecendo abrigo a muitos. Sua influência se estenderá por todo o mundo.",
-      "temas": ["grão de mostarda", "crescimento", "abrigo", "influência"],
-      "personagens": ["Jesus"]
+      "parafrase": "Apesar de ser minúsculo ao ser plantado, ele cresceu, tornando-se uma árvore robusta. E, quando estava pronto, todos os pássaros do céu vinham fazer seus ninhos nos seus ramos, encontrando abrigo ali.'",
+      "referencias": [
+        "Ezequiel 17:23",
+        "Daniel 4:21"
+      ],
+      "comentario": "A árvore resultante não é uma figueira (como na parábola anterior), mas sim um arbusto grande, o que reforça o ponto de contraste com o início. Os pássaros, em interpretações antigas, podiam ser tanto o povo de Deus quanto nações gentias buscando refúgio.",
+      "temas": [
+        "Abrigo",
+        "Desenvolvimento do Reino",
+        "Refúgio"
+      ],
+      "personagens": [
+        "Pássaros"
+      ]
     },
     "20": {
-      "parafrase": "E disse novamente: 'A que compararei o Reino de Deus?'",
-      "referencias": [],
-      "comentario": "Jesus usa outra parábola para ilustrar o crescimento e a natureza do Reino de Deus.",
-      "temas": ["parábola", "Reino de Deus", "comparação"],
-      "personagens": ["Jesus"]
+      "parafrase": "E Ele usou outra comparação, perguntando: 'Com o que mais posso descrever o Reino de Deus? É como o fermento que uma mulher pega e mistura em uma enorme quantidade de farinha, o suficiente para fazer pães para muita gente.'",
+      "referencias": [
+        "Mateus 13:33",
+        "1 Coríntios 5:6"
+      ],
+      "comentario": "Parábola do Fermento. O fermento (*zymē*) tinha conotações negativas (associado à corrupção e ao pecado), mas aqui Jesus o usa de forma positiva para mostrar o poder penetrante e transformador do Reino. A ação da mulher representa o modo sutil, mas inevitável, com que a influência do Reino se espalha.",
+      "temas": [
+        "Influência sutil",
+        "Penetração do Reino",
+        "Transformação interna"
+      ],
+      "personagens": [
+        "Mulher"
+      ]
     },
     "21": {
-      "parafrase": "'É semelhante ao fermento que uma mulher pegou e misturou em três medidas de farinha, até que toda a massa levedou.'",
-      "referencias": ["Mateus 13:33"],
-      "comentario": "A parábola do fermento ilustra a influência transformadora e o crescimento interno do Reino de Deus. O fermento, embora pequeno, tem um grande poder de transformação.",
-      "temas": ["fermento", "transformação", "crescimento interno"],
-      "personagens": ["Jesus"]
+      "parafrase": "A mulher trabalhou a massa até que, por fim, todo o grande volume de farinha ficou levedado, cheio de ar e pronto para assar, mostrando como a presença do Reino permeia tudo o que lhe é misturado.'",
+      "referencias": [
+        "Efésios 5:8",
+        "Gálatas 5:9"
+      ],
+      "comentario": "O ponto chave é a permeação total. O fermento, embora pequeno, altera a estrutura de toda a massa. O Reino de Deus, embora inicialmente discreto, mudará fundamentalmente a sociedade e a humanidade em que é introduzido.",
+      "temas": [
+        "Impacto total",
+        "Levedura",
+        "Mudança estrutural"
+      ],
+      "personagens": [
+        "Mulher"
+      ]
     },
     "22": {
-      "parafrase": "Jesus ia passando por cidades e aldeias, ensinando e prosseguindo viagem para Jerusalém.",
-      "referencias": [],
-      "comentario": "Jesus continua Sua jornada para Jerusalém, ensinando e preparando Seus discípulos para o que está por vir.",
-      "temas": ["viagem", "ensino", "Jerusalém"],
-      "personagens": ["Jesus"]
+      "parafrase": "Depois disso, Jesus continuou sua jornada, ensinando e abrindo caminho em direção à cidade de Jerusalém, passando por muitas aldeias e vilarejos.",
+      "referencias": [
+        "Lucas 9:51",
+        "Mateus 19:1"
+      ],
+      "comentario": "Este versículo marca uma transição geográfica e narrativa. É o momento em que Jesus firma seu propósito de ir a Jerusalém, onde o clímax de Sua missão ocorrerá. A jornada é marcada pela continuidade do ensino.",
+      "temas": [
+        "Viagem a Jerusalém",
+        "Missão contínua",
+        "Ensino itinerante"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "23": {
-      "parafrase": "Alguém lhe perguntou: 'Senhor, são poucos os que são salvos?' Ele lhes respondeu:",
-      "referencias": [],
-      "comentario": "A pergunta sobre o número de salvos é uma preocupação comum. Jesus responde, não com um número, mas com uma exortação à ação.",
-      "temas": ["salvação", "número de salvos", "pergunta"],
-      "personagens": ["Jesus"]
+      "parafrase": "Alguém perguntou a Ele, talvez esperançoso por uma resposta definitiva: 'Senhor, o número de pessoas que serão salvas é muito pequeno? As portas do Céu são estreitas mesmo?'",
+      "referencias": [
+        "Mateus 7:13-14",
+        "Apocalipse 7:9"
+      ],
+      "comentario": "A pergunta reflete a ansiedade comum sobre a salvação. É a dúvida sobre a universalidade da graça versus a exclusividade do Reino. A questão implica que a maioria das pessoas está perdida.",
+      "temas": [
+        "Salvação",
+        "Exclusividade do Reino",
+        "Número de salvos"
+      ],
+      "personagens": [
+        "Jesus",
+        "Interrogador"
+      ]
     },
     "24": {
-      "parafrase": "'Esforcem-se para entrar pela porta estreita, pois eu lhes digo que muitos tentarão entrar e não conseguirão.'",
-      "referencias": ["Mateus 7:13-14"],
-      "comentario": "Jesus adverte sobre a dificuldade de entrar no Reino de Deus. A porta é estreita, exigindo esforço, dedicação e renúncia. Muitos tentarão, mas poucos conseguirão, pois não estão dispostos a pagar o preço.",
-      "temas": ["porta estreita", "esforço", "dificuldade", "salvação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus não respondeu diretamente à questão numérica. Em vez disso, Ele usou uma imagem de urgência e esforço físico: 'Lutem com toda a sua força para entrar pela porta estreita! Pois Eu lhes digo que muitos tentarão entrar, mas descobrirão que não têm permissão.'",
+      "referencias": [
+        "Filipenses 3:14",
+        "Hebreus 12:1"
+      ],
+      "comentario": "A resposta é uma chamada à ação, não uma estatística. O esforço para 'empurrar' ou 'lutar' (do grego *agonizomai*, de onde vem 'agonizar') indica que a entrada não é automática, mas requer dedicação e disciplina espiritual. A porta estreita é o caminho da verdade e do discipulado.",
+      "temas": [
+        "Esforço espiritual",
+        "Porta estreita",
+        "Dificuldade de ser discípulo"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "25": {
-      "parafrase": "'Quando o dono da casa se levantar e fechar a porta, e vocês, ficando do lado de fora, começarem a bater na porta, dizendo: Senhor, abra-nos a porta!, ele lhes responderá: Não sei de onde vocês são.'",
-      "referencias": [],
-      "comentario": "A parábola ilustra a urgência da decisão. Haverá um tempo em que a porta será fechada, e será tarde demais para entrar. A falta de reconhecimento indica a falta de um relacionamento verdadeiro.",
-      "temas": ["porta fechada", "urgência", "relacionamento"],
-      "personagens": ["Jesus"]
+      "parafrase": "Isso acontecerá quando o dono da casa finalmente se levantar e fechar a porta. Nesse momento, vocês ficarão do lado de fora, batendo freneticamente e implorando: 'Senhor, abra para nós!', mas Ele responderá de forma definitiva: 'Não sei de onde vocês são. Não os reconheço como meus.'",
+      "referencias": [
+        "Mateus 25:10-12",
+        "Apocalipse 3:20"
+      ],
+      "comentario": "A porta fechada simboliza o fim do tempo da graça e do arrependimento. O 'não sei de onde são' é a declaração mais aterrorizante, pois indica que a relação professada (religiosidade, obras feitas) não estava fundamentada em um relacionamento genuíno com Cristo (o 'conhecer').",
+      "temas": [
+        "Juízo final",
+        "Oportunidade perdida",
+        "Falso relacionamento"
+      ],
+      "personagens": [
+        "Dono da casa (Jesus)"
+      ]
     },
     "26": {
-      "parafrase": "'Então vocês começarão a dizer: Comemos e bebemos na tua presença, e tu ensinaste em nossas ruas.'",
-      "referencias": [],
-      "comentario": "As pessoas tentarão usar suas experiências passadas com Jesus como justificativa para entrar, mas isso não será suficiente. A mera associação externa não garante a salvação.",
-      "temas": ["justificativa falsa", "associação externa", "salvação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Então vocês começarão a expressar aquele sentimento perturbador, dizendo: 'Nós comemos e bebemos com Ele! Estivemos ao Seu lado, aprendendo em Suas praças, ouvindo Seus ensinamentos nas ruas!', mas o Mestre responderá com a dureza da verdade: 'Eu não conheço a origem de vocês, não sei quem são de verdade; de onde vieram esses vossos atos e palavras?'",
+      "referencias": [
+        "Mateus 7:21",
+        "Apocalipse 3:5"
+      ],
+      "comentario": "A confissão externa de proximidade ('comemos e bebemos') é insuficiente. O grego 'syn-edon' (comer junto) denota comunhão física, mas Jesus aponta para a necessidade de uma relação interior e contínua. A rejeição ('Não vos conheço') não é sobre ignorância factual, mas sobre falta de reconhecimento mútuo em termos de discipulado genuíno e obediência. É um julgamento sobre a superficialidade da fé baseada apenas em experiências.",
+      "temas": [
+        "Falsa Segurança",
+        "Julgamento",
+        "Reconhecimento Divino"
+      ],
+      "personagens": [
+        "Jesus",
+        "Os que serão rejeitados"
+      ]
     },
     "27": {
-      "parafrase": "'Mas ele lhes dirá: Eu lhes digo que não sei de onde vocês são. Afastem-se de mim, todos vocês, praticantes da iniquidade!'",
-      "referencias": ["Mateus 7:23"],
-      "comentario": "A rejeição é final e severa. Aqueles que praticam a iniquidade, mesmo que tenham tido contato com Jesus, serão afastados Dele. A obediência é essencial para a salvação.",
-      "temas": ["rejeição", "iniquidade", "obediência", "salvação"],
-      "personagens": ["Jesus"]
+      "parafrase": "E, no entanto, Ele lhes dirá, com uma tristeza cortante: 'Vocês, que se dizem meus seguidores, observem os que fazem a justiça de verdade! Eles serão recebidos no Reino. Mas vocês, que praticaram o mal e se afastaram do caminho reto, serão atirados para fora, como lixo inútil, para fora da presença de Deus, onde haverá choro amargo e ranger de dentes agonizante!' 😭",
+      "referencias": [
+        "Mateus 25:41",
+        "Salmos 6:8",
+        "Apocalipse 21:8"
+      ],
+      "comentario": "O contraste é gritante: enquanto os hipócritas são expulsos, os justos são acolhidos. O 'choro e ranger de dentes' (grego: 'gorgymos') é uma imagem vívida da angústia e do desespero irrevogável daqueles que perderam a oportunidade. O ato de fazer o mal ('ergatizomenoi tēn adikian') é o oposto de praticar a justiça requerida.",
+      "temas": [
+        "Expulsão",
+        "Justiça",
+        "Consequências Eternas"
+      ],
+      "personagens": [
+        "Jesus",
+        "Os Iníquos"
+      ]
     },
     "28": {
-      "parafrase": "'Ali haverá choro e ranger de dentes, quando vocês virem Abraão, Isaque, Jacó e todos os profetas no Reino de Deus, e vocês mesmos forem lançados para fora.'",
-      "referencias": ["Mateus 8:12"],
-      "comentario": "O juízo final trará choro e ranger de dentes para aqueles que forem excluídos do Reino de Deus. Eles verão os patriarcas e os profetas no Reino, enquanto eles mesmos serão lançados para fora.",
-      "temas": ["juízo final", "choro e ranger de dentes", "exclusão", "Reino de Deus"],
-      "personagens": ["Jesus"]
+      "parafrase": "Lá, na escuridão exterior, vocês verão, com uma clareza terrível, Abraão, Isaque e Jacó, e todos os Profetas, desfrutando plenamente do Reino de Deus, enquanto vocês estão de fora. Isso lhes causará uma dor excruciante, pois verão os que realmente mereceram o convite desfrutando da festa à qual vocês se sentiram com direito!",
+      "referencias": [
+        "Gênesis 15:6",
+        "Isaías 65:13-14",
+        "Apocalipse 7:4"
+      ],
+      "comentario": "A menção aos Patriarcas (Abraão, Isaque e Jacó) serve para reforçar que a salvação é por meio da aliança e da fé, não por descendência étnica ou mera associação. O sofrimento aqui reside na 'visão' da glória perdida, um tormento psicológico e espiritual adicional.",
+      "temas": [
+        "Patriarcas",
+        "Perda da Visão Celestial",
+        "Herança da Promessa"
+      ],
+      "personagens": [
+        "Abraão",
+        "Isaque",
+        "Jacó",
+        "Profetas"
+      ]
     },
     "29": {
-      "parafrase": "'E virão do oriente e do ocidente, do norte e do sul, e se sentarão à mesa no Reino de Deus.'",
-      "referencias": ["Mateus 8:11"],
-      "comentario": "O Reino de Deus será inclusivo, com pessoas de todas as nações e de todas as partes do mundo participando do banquete celestial. A salvação é universal.",
-      "temas": ["inclusão", "universalidade", "Reino de Deus", "banquete celestial"],
-      "personagens": ["Jesus"]
+      "parafrase": "E este será o cenário: pessoas virão de todas as direções concebíveis do mundo — do leste, do oeste, do norte e do sul — e se assentarão à mesa, celebrando com alegria na presença de Deus, no banquete do Seu Reino! 🥂",
+      "referencias": [
+        "Isaías 43:5-6",
+        "Mateus 8:11"
+      ],
+      "comentario": "Este versículo assegura a universalidade do chamado e a inclusão dos gentios (e de todos os verdadeiramente arrependidos) no Reino. O ato de 'reclinarem-se à mesa' (grego: 'kataklinontai') é um símbolo de plena aceitação e comunhão festiva na eternidade.",
+      "temas": [
+        "Universalidade do Reino",
+        "Convite Global",
+        "Comunhão Eterna"
+      ],
+      "personagens": [
+        "Pessoas de todas as direções"
+      ]
     },
     "30": {
-      "parafrase": "'E eis que há últimos que serão primeiros, e primeiros que serão últimos.'",
-      "referencias": ["Mateus 19:30"],
-      "comentario": "Jesus conclui com um paradoxo que inverte os valores do mundo. A ordem do Reino de Deus é diferente da ordem humana. Aqueles que são considerados grandes no mundo podem ser pequenos no Reino, e vice-versa.",
-      "temas": ["paradoxo", "valores do Reino", "inversão"],
-      "personagens": ["Jesus"]
+      "parafrase": "E então se cumprirá a ordem divina: aqueles que agora são os últimos, os esquecidos, aqueles que são considerados menores ou indignos na visão deste mundo, estes serão os primeiros a entrar e a tomar seus lugares de honra. Inversamente, aqueles que hoje se julgam importantes, os primeiros na fila terrena, serão os que ficarão de fora, os últimos. 🔄",
+      "referencias": [
+        "Marcos 10:31",
+        "Tiago 1:9"
+      ],
+      "comentario": "Esta é a inversão radical dos valores terrenos pelo critério divino. O grego 'eschatoi' (últimos) e 'protoi' (primeiros) refere-se à posição no julgamento final, não necessariamente à ordem cronológica de conversão. A humildade é a chave de acesso.",
+      "temas": [
+        "Inversão de Valores",
+        "Humildade",
+        "Posição no Reino"
+      ],
+      "personagens": [
+        "Os Últimos",
+        "Os Primeiros"
+      ]
     },
     "31": {
-      "parafrase": "Naquela mesma hora, alguns fariseus se aproximaram e lhe disseram: 'Saia e vá embora daqui, pois Herodes quer matá-lo.'",
-      "referencias": [],
-      "comentario": "Os fariseus, talvez com uma falsa preocupação, advertem Jesus sobre a intenção de Herodes de matá-lo. Eles tentam afastá-lo de Jerusalém.",
-      "temas": ["advertência", "Herodes", "morte"],
-      "personagens": ["Fariseus", "Jesus"]
+      "parafrase": "Nesse exato momento, alguns Fariseus, sempre atentos a qualquer falha de Jesus, aproximaram-se e o advertiram, dizendo: 'Saia daqui! Vá embora! Herodes quer te matar! Ele está tramando contra Sua vida!' 🔪",
+      "referencias": [
+        "Mateus 14:1",
+        "Atos 4:27"
+      ],
+      "comentario": "A menção de Herodes Antipas, que havia decapitado João Batista (Lucas 9:9), introduz um elemento de perigo político imediato. Os Fariseus, embora inimigos teológicos de Jesus, servem aqui como portadores de uma informação factual e perigosa, talvez para testá-Lo ou forçá-Lo a se retirar da jurisdição de Herodes.",
+      "temas": [
+        "Perseguição Iminente",
+        "Aviso",
+        "Conflito Político"
+      ],
+      "personagens": [
+        "Fariseus",
+        "Herodes"
+      ]
     },
     "32": {
-      "parafrase": "Ele lhes respondeu: 'Vão e digam àquela raposa: Eis que expulso demônios e realizo curas hoje e amanhã, e no terceiro dia terminarei.'",
-      "referencias": [],
-      "comentario": "Jesus se refere a Herodes como uma \"raposa\", indicando sua astúcia e sua falta de caráter. Ele afirma Sua autoridade sobre a morte e Seu controle sobre o tempo de Sua paixão. Ele continuará Sua missão até o fim.",
-      "temas": ["Herodes", "astúcia", "autoridade de Jesus", "missão"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus, porém, não se intimidou com a ameaça e respondeu com uma calma soberana: 'Vão e digam àquele astuto de cabeça de raposa que eu continuarei a expulsar demônios e a realizar curas hoje e amanhã. Sim, no terceiro dia, Minha obra será completada.' 🦊",
+      "referencias": [
+        "João 10:32",
+        "Lucas 13:16"
+      ],
+      "comentario": "O termo 'raposa' (grego: 'alopex') era um insulto forte, usado por Jesus para descrever a astúcia traiçoeira e covarde de Herodes, contrastando com a coragem do poder divino. Jesus estabelece um cronograma divino ('no terceiro dia') que aponta para a consumação de Sua missão (a ressurreição), mostrando que nenhuma ameaça humana pode alterar Seu plano.",
+      "temas": [
+        "Soberania Divina",
+        "Coragem de Cristo",
+        "Astúcia Humana"
+      ],
+      "personagens": [
+        "Jesus",
+        "Herodes (mencionado)"
+      ]
     },
     "33": {
-      "parafrase": "'Contudo, preciso prosseguir hoje, amanhã e depois de amanhã, pois não convém que um profeta morra fora de Jerusalém.'",
-      "referencias": [],
-      "comentario": "Jesus afirma que Ele deve ir para Jerusalém, pois é ali que os profetas são mortos. Ele aceita Seu destino e o plano de Deus para Sua paixão.",
-      "temas": ["destino", "Jerusalém", "profeta", "paixão"],
-      "personagens": ["Jesus"]
+      "parafrase": "Mas é imprescindível que Eu prossiga o Meu caminho, indo adiante, para onde Eu devo ir, pois não é aceitável que um profeta seja morto fora dos muros da cidade de Jerusalém! 🛡️",
+      "referencias": [
+        "João 19:20",
+        "Hebreus 13:12"
+      ],
+      "comentario": "Aqui, Jesus afirma a necessidade teológica de Seu sofrimento e morte ocorrerem em Jerusalém e especificamente fora dos portões da cidade (como crucificação, que era praticada fora dos muros). Isso liga Sua morte não apenas a um plano, mas a um cumprimento profético exato, como o sacrifício da Páscoa.",
+      "temas": [
+        "Necessidade da Crucificação",
+        "Cumprimento Profético",
+        "Jerusalém"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "34": {
-      "parafrase": "'Jerusalém, Jerusalém, que mata os profetas e apedreja os que lhe são enviados! Quantas vezes eu quis ajuntar os seus filhos, como a galinha ajunta os seus pintinhos debaixo das suas asas, e vocês não quiseram!'",
-      "referencias": ["Mateus 23:37"],
-      "comentario": "Jesus lamenta a rejeição de Jerusalém aos profetas e a Si mesmo. Ele expressa Seu amor e Seu desejo de protegê-los, mas eles se recusam a aceitar Sua proteção. A imagem da galinha e dos pintinhos é de cuidado e proteção.",
-      "temas": ["lamento", "rejeição de Jerusalém", "amor de Jesus", "proteção"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ó, Jerusalém, Jerusalém! Você que tem a triste tradição de assassinar os profetas enviados a você e apedrejar aqueles que Deus envia com mensagens de verdade! Quantas vezes Eu desejei reunir seus filhos sob a Minha proteção, assim como uma galinha carinhosamente junta seus pintinhos debaixo das asas, mas vocês recusaram o Meu abraço salvador! 💔",
+      "referencias": [
+        "Mateus 23:37-39",
+        "Salmos 91:4",
+        "Lamentações 3:24"
+      ],
+      "comentario": "Este é um lamento profundo. O grego 'O Ierousalem' denota uma profunda emoção. A imagem da 'galinha' (grego: 'ornis') reunindo seus filhotes é uma das mais ternas da Bíblia, vinda de alguém que se veste de autoridade divina, mas usa a ternura maternal. A recusa ('ouk ethelesate') é a causa da condenação iminente.",
+      "temas": [
+        "Lamento Messiânico",
+        "Rejeição de Deus",
+        "Proteção Divina"
+      ],
+      "personagens": [
+        "Jesus",
+        "Jerusalém"
+      ]
     },
     "35": {
-      "parafrase": "'E eis que a casa de vocês lhes é deixada deserta. E eu lhes digo que vocês não me verão até que digam: Bendito o que vem em nome do Senhor!'",
-      "referencias": ["Salmos 118:26"],
-      "comentario": "Jesus prediz a desolação de Jerusalém e do Templo, que se cumpriria em 70 d.C. Ele não será visto novamente até que eles O reconheçam como o Messias, que vem em nome do Senhor.",
-      "temas": ["desolação", "rejeição", "segunda vinda", "reconhecimento do Messias"],
-      "personagens": ["Jesus"]
+      "parafrase": "Agora, prestem atenção, pois a partir deste momento, sua casa espiritual será deixada em ruínas, vazia. Eu lhes digo com certeza: vocês não Me verão mais até que chegue o dia em que proclamarão com clamor e esperança: 'Bendito aquele que vem em nome do Senhor!' Assim será o fim de vossa oportunidade presente! 🙏",
+      "referencias": [
+        "Salmos 118:26",
+        "Mateus 23:38",
+        "João 12:13"
+      ],
+      "comentario": "A 'casa' deixada deserta refere-se ao Templo e, metaforicamente, à nação de Israel, abandonada de sua proteção espiritual após rejeitar o Messias. O versículo termina citando a aclamação de Hosana (Bendito o que vem), indicando que a aceitação final de Jesus como Senhor virá, mas apenas depois de um período de julgamento e desolação.",
+      "temas": [
+        "Desolação",
+        "Julgamento Nacional",
+        "Reconhecimento Futuro"
+      ],
+      "personagens": [
+        "Jesus",
+        "Israel/Jerusalém"
+      ]
     }
   }
 }

@@ -1,120 +1,238 @@
 {
   "livro": "Isaías",
   "capitulo": 11,
-  "contexto_historico": "Após a descrição da destruição da orgulhosa 'floresta' assíria no final do capítulo 10, este capítulo retorna ao tema da esperança messiânica. Em contraste com a grande árvore assíria que é derrubada, uma nova esperança surgirá de um 'toco' aparentemente morto: a linhagem de Jessé (pai de Davi). A profecia descreve a natureza do Messias, a paz e a justiça de Seu reino, e a restauração futura de Israel.",
-  "bloco_tematico": "O Reino do Renovo de Jessé",
+  "contexto_historico": "O livro de Isaías, escrito por volta do século VIII a.C., aborda profecias e visões dirigidas ao Reino de Judá (e, em menor grau, a Israel) durante um período de intensa instabilidade política, ameaças externas (especialmente da Assíria) e corrupção interna. O Capítulo 11 se situa após as profecias de juízo sobre nações vizinhas (Cap. 10), marcando uma transição para a promessa de restauração e esperança messiânica para o remanescente de Israel. É um texto de consolidação da fé em meio à crise. 📜👑",
+  "bloco_tematico": "O Ramo Messiânico e a Paz Universal 🌿🕊️",
   "versiculos": {
     "1": {
-      "parafrase": "Do toco de Jessé brotará um rebento, e das suas raízes um renovo dará fruto.",
-      "referencias": ["Isaías 53:2", "Apocalipse 5:5"],
-      "comentario": "A dinastia de Davi (filho de Jessé) parecia ter sido cortada e reduzida a um simples toco. No entanto, de uma fonte humilde e aparentemente sem vida, Deus fará brotar um novo Rei. Este 'Renovo' é o Messias, que trará vida e fruto.",
-      "temas": ["esperança messiânica", "Renovo de Jessé", "humildade", "restauração da linhagem davídica"],
-      "personagens": ["Messias (Renovo)"]
+      "parafrase": "Uma esperança majestosa irromperá do tronco aparentemente seco de Jessé, o pai do rei Davi. De suas raízes, que pareciam cortadas e sem vida, brotará um Rebento, um novo e frutífero ramo. Este broto será ungido com a plenitude da essência divina.",
+      "referencias": [
+        "Isaías 53:2",
+        "Jeremias 23:5"
+      ],
+      "comentario": "Este versículo introduz a profecia messiânica central de Isaías. A imagem do 'toco' ou 'tronco' (do hebraico 'môṭâ') de Jessé, que seria cortado como um cedro derrubado (cf. Isaías 10:33-34), aponta para o declínio da dinastia davídica no exílio. O 'Ramo' (hebraico 'Netzer') é um título messiânico que promete o restabelecimento da linhagem real, cumprido em Jesus Cristo. O 'Espírito do Senhor' repousará sobre Ele.",
+      "temas": [
+        "Messias",
+        "Restauração da Dinastia de Davi",
+        "Esperança"
+      ],
+      "personagens": [
+        "Jessé"
+      ]
     },
     "2": {
-      "parafrase": "O Espírito do Senhor repousará sobre ele: o Espírito de sabedoria e de entendimento, o Espírito de conselho e de poder, o Espírito de conhecimento e de temor do Senhor.",
-      "referencias": ["Isaías 61:1", "João 1:32"],
-      "comentario": "Este Rei será perfeitamente capacitado pelo Espírito de Deus. A descrição em três pares mostra a plenitude de Suas qualidades: sabedoria e entendimento para governar, conselho e poder para executar Seus planos, e um relacionamento perfeito com Deus baseado no conhecimento e na reverência (temor do Senhor).",
-      "temas": ["Espírito Santo", "capacitação divina", "sabedoria", "poder", "caráter do Messias"],
-      "personagens": ["Messias", "Espírito do Senhor"]
+      "parafrase": "O Espírito do Senhor, a própria força inspiradora e capacitadora de Deus, pousará sobre este ungido. Este Espírito se manifestará como sabedoria profunda e compreensão perspicaz. Ele será guiado pelo conselho divino e dotado de poder para realizar feitos grandiosos.",
+      "referencias": [
+        "Êxodo 31:3",
+        "Lucas 4:18"
+      ],
+      "comentario": "Descreve as qualidades do Messias através da ação do Espírito. A menção de Sabedoria ('Ḥokmah') e Entendimento ('Bînâ') sugere uma capacidade intelectual e espiritual sobrenatural para discernir a verdade de Deus. A capacidade de aconselhar e o poder ('Gevurah') indicam a autoridade e a força para executar a vontade divina.",
+      "temas": [
+        "Atributos do Messias",
+        "Sabedoria Divina",
+        "Poder do Espírito Santo"
+      ],
+      "personagens": []
     },
     "3": {
-      "parafrase": "E ele se deleitará no temor do Senhor. Não julgará pela aparência, nem decidirá pelo que ouvir dizer;",
-      "referencias": ["João 7:24"],
-      "comentario": "Sua maior alegria será a reverência e a obediência a Deus. Seu julgamento não será baseado em aparências superficiais ou em boatos, mas em uma percepção perfeita da verdade.",
-      "temas": ["temor de Deus", "justiça perfeita", "discernimento"],
-      "personagens": ["Messias"]
+      "parafrase": "Sua maior alegria e vida não virão da observância rigorosa de meros rituais, mas de temer verdadeiramente ao Senhor. Ele encontrará prazer em obedecer e honrar a Deus, vivendo em comunhão íntima com o Criador.",
+      "referencias": [
+        "Deuteronômio 6:5",
+        "Salmos 111:10"
+      ],
+      "comentario": "O temor do Senhor ('Yir'at YHWH') não é medo paralisante, mas reverência profunda e obediência amorosa. Este é o fundamento da vida justa, distinto da prática externa da Lei, focando na motivação interna do coração.",
+      "temas": [
+        "Temor a Deus",
+        "Obediência",
+        "Motivação Espiritual"
+      ],
+      "personagens": []
     },
     "4": {
-      "parafrase": "mas com retidão julgará os necessitados, e com equidade tomará decisões em favor dos pobres da terra. Ele ferirá a terra com a vara de sua boca, e com o sopro de seus lábios matará o ímpio.",
-      "referencias": ["Salmos 72:2-4", "2 Tessalonicenses 2:8"],
-      "comentario": "O Messias será o campeão dos oprimidos, garantindo justiça para os pobres e necessitados. Seu poder não será exercido por armas convencionais, mas pela autoridade de Sua palavra ('vara de sua boca'), que tem o poder de executar juízo sobre a terra e condenar a impiedade.",
-      "temas": ["justiça social", "defesa dos pobres", "poder da palavra", "juízo sobre a impiedade"],
-      "personagens": ["Messias"]
+      "parafrase": "Este líder vindouro não julgará apenas pelo que seus olhos veem ou seus ouvidos escutam, como fazem os juízes humanos. Ele usará um padrão de justiça divina, defendendo os fracos e oprimidos com a autoridade que lhe foi conferida.",
+      "referencias": [
+        "Apocalipse 19:11",
+        "Tiago 2:6"
+      ],
+      "comentario": "Contrasta o julgamento humano, falho e baseado em aparências, com o julgamento divino, penetrante e justo. Ele não se deixará enganar pelas mentiras ou pelos status sociais. O julgamento será baseado na realidade interior e na verdade objetiva.",
+      "temas": [
+        "Justiça Perfeita",
+        "Julgamento",
+        "Verdade"
+      ],
+      "personagens": []
     },
     "5": {
-      "parafrase": "A retidão será o cinto em seus lombos, e a fidelidade, o cinturão em sua cintura.",
-      "referencias": ["Efésios 6:14"],
-      "comentario": "Retidão e fidelidade serão as características fundamentais que sustentam todo o Seu ser e governo. Ele estará completamente vestido e preparado com essas qualidades.",
-      "temas": ["retidão", "fidelidade", "caráter do Messias"],
-      "personagens": ["Messias"]
+      "parafrase": "Sua força mais marcante não será o cinturão de seu traje, símbolo de poder militar, mas sim a Verdade e a Fidelidade que envolverão seu ser como um cinto de sustentação. Essa integridade será a marca inconfundível de seu governo.",
+      "referencias": [
+        "Efésios 6:14",
+        "Salmos 89:14"
+      ],
+      "comentario": "O cinto (hebraico 'eṣor') era essencial para a vestimenta e a ação. Aqui, a fidelidade ('’emeth') e a constância ('tsedeq') substituem os símbolos de poder mundano. O Messias será definido por seu caráter irrepreensível.",
+      "temas": [
+        "Integridade",
+        "Verdade",
+        "Fidelidade"
+      ],
+      "personagens": []
     },
     "6": {
-      "parafrase": "O lobo viverá com o cordeiro, e o leopardo se deitará com o cabrito; o bezerro, o leão novo e o animal cevado viverão juntos, e um menino pequeno os guiará.",
-      "referencias": ["Isaías 65:25"],
-      "comentario": "O reinado do Messias trará uma paz tão profunda que transformará a própria ordem da natureza. As hostilidades naturais entre predador e presa serão removidas. A imagem de uma criança liderando animais selvagens ilustra a segurança e a inocência perfeitas deste reino.",
-      "temas": ["paz universal", "reino messiânico", "harmonia na criação", "shalom"],
+      "parafrase": "Sob Seu reinado, mesmo os inimigos mais ferozes da paz viverão em harmonia. O lobo, predador implacável, fará seu lar pacificamente ao lado do cordeiro dócil. O leopardo, ágil e selvagem, repousará tranquilo ao lado do cabrito indefeso. A convivência será de mútua segurança.",
+      "referencias": [
+        "Isaías 65:25",
+        "Oséias 2:18"
+      ],
+      "comentario": "Esta é uma imagem icônica de um tempo de paz universal e redenção ecológica, indicando a restauração completa da ordem original, onde a natureza predadora é subvertida. É uma descrição da era messiânica perfeita, um estado de inocência recuperada.",
+      "temas": [
+        "Paz Universal",
+        "Era Messiânica",
+        "Reconciliação"
+      ],
       "personagens": []
     },
     "7": {
-      "parafrase": "A vaca e o urso pastarão juntos, seus filhotes se deitarão juntos, e o leão comerá palha como o boi.",
-      "referencias": [],
-      "comentario": "A harmonia se estende a outros animais, com o leão, o maior dos predadores, tornando-se herbívoro. A criação será restaurada à sua condição ideal.",
-      "temas": ["restauração da criação", "paz", "harmonia"],
+      "parafrase": "Até mesmo os animais mais selvagens se adaptarão a uma nova dieta e convivência. O bezerro e o leão jovem comerão juntos, como se fossem do mesmo rebanho. E uma criança pequena terá a liberdade e a confiança para guiar ou até mesmo tocar uma serpente venenosa sem sofrer qualquer dano.",
+      "referencias": [
+        "Gênesis 1:29",
+        "Mateus 10:16"
+      ],
+      "comentario": "A imagem se aprofunda na transformação da natureza. O leão, que simboliza força e perigo, torna-se dócil. A ausência de medo da criança diante da serpente (símbolo do mal e engano desde o Éden) mostra a completa anulação do perigo destrutivo.",
+      "temas": [
+        "Transformação da Natureza",
+        "Segurança",
+        "Domínio sobre o Mal"
+      ],
       "personagens": []
     },
     "8": {
-      "parafrase": "A criança de peito brincará perto do ninho da cobra, e o menino desmamado porá a mão na toca da víbora.",
-      "referencias": [],
-      "comentario": "Até mesmo a inimizade entre a humanidade e as serpentes, que remonta ao Jardim do Éden, será removida. As criaturas mais temidas se tornarão inofensivas, e as crianças mais vulneráveis estarão perfeitamente seguras.",
-      "temas": ["segurança perfeita", "remoção da maldição", "inocência"],
+      "parafrase": "Neste reino de harmonia restaurada, ninguém mais sofrerá com a exploração ou a dor. A criança que mamar não será ameaçada pelo monstro venenoso, pois toda a hostilidade terá desaparecido do ambiente.",
+      "referencias": [
+        "Apocalipse 21:4",
+        "Jó 5:23"
+      ],
+      "comentario": "Reforça a ideia da ausência total de ameaças. A criança de peito é o arquétipo da vulnerabilidade; sua segurança total garante a segurança de todos. O mal físico e espiritual é removido.",
+      "temas": [
+        "Ausência de Perigo",
+        "Inocência Restaurada",
+        "Paz Completa"
+      ],
       "personagens": []
     },
     "9": {
-      "parafrase": "Ninguém fará o mal nem destruirá em todo o meu santo monte, pois a terra se encherá do conhecimento do Senhor, como as águas cobrem o mar.",
-      "referencias": ["Habacuque 2:14"],
-      "comentario": "A causa desta paz e harmonia universais é o conhecimento universal de Deus. Quando todos conhecerem a Deus de forma pessoal e relacional, a maldade e a destruição cessarão. O conhecimento de Deus transformará os corações e, consequentemente, o mundo inteiro.",
-      "temas": ["conhecimento de Deus", "paz universal", "transformação"],
+      "parafrase": "A terra inteira estará repleta do conhecimento profundo e pleno do Senhor, assim como as águas cobrem a extensão dos oceanos, inundando cada vale e cada recanto do planeta. A revelação de Deus será universal e abrangente.",
+      "referencias": [
+        "Habacuque 2:14",
+        "Salmos 19:3"
+      ],
+      "comentario": "Esta é a consequência social e espiritual da vinda do Messias. O conhecimento ('Da'at') de Deus não é apenas intelectual, mas relacional e experiencial. A metáfora da inundação demonstra a cobertura total e inevitável deste conhecimento sobre toda a criação.",
+      "temas": [
+        "Conhecimento de Deus",
+        "Universalidade da Salvação",
+        "Reino de Deus"
+      ],
       "personagens": []
     },
     "10": {
-      "parafrase": "Naquele dia, a raiz de Jessé se levantará como uma bandeira para os povos; as nações o buscarão, e o seu lugar de descanso será glorioso.",
-      "referencias": ["Romanos 15:12"],
-      "comentario": "O Messias (a raiz de Jessé) se tornará um ponto de união para todas as nações. Ele será como um estandarte que reúne os povos, e eles virão a Ele em busca de orientação e salvação. Seu reino será um lugar de descanso e glória.",
-      "temas": ["salvação das nações", "unidade", "descanso glorioso"],
-      "personagens": ["Messias (Raiz de Jessé)"]
+      "parafrase": "Naquele dia glorioso, o descendente de Jessé será como uma bandeira de comando, um farol erguido no ponto mais alto, visível para todas as nações. Os povos de todas as partes, aqueles que buscam verdadeiramente a Deus, virarão seus rostos para Ele em busca de refúgio e direção.",
+      "referencias": [
+        "Isaías 49:22",
+        "João 12:32"
+      ],
+      "comentario": "O Messias se torna o ponto focal da esperança mundial. O termo 'Estandarte' (hebraico 'Nezer', novamente, ligando-o ao 'Netzer' do v. 1) significa um ponto de reunião, um símbolo de soberania e um chamado à peregrinação espiritual.",
+      "temas": [
+        "Messias como Sinal",
+        "Nações Vindo a Cristo",
+        "Refúgio"
+      ],
+      "personagens": []
     },
     "11": {
-      "parafrase": "Naquele dia, o Senhor estenderá o seu braço pela segunda vez para resgatar o remanescente do seu povo que for deixado na Assíria, no Egito, em Patros, em Cuxe, em Elão, em Sinar, em Hamate e nas ilhas do mar.",
-      "referencias": [],
-      "comentario": "Deus promete uma segunda grande libertação, comparável ao primeiro Êxodo do Egito. Ele reunirá Seu povo disperso de todas as partes do mundo onde foram exilados.",
-      "temas": ["novo Êxodo", "restauração de Israel", "reunião do remanescente"],
-      "personagens": ["Deus"]
+      "parafrase": "E então, pela segunda vez, o Senhor estenderá Sua mão poderosa, não para punir Israel como fez no passado, mas para resgatar e reunir aquilo que restou de Seu povo. Ele os reunirá de todos os lugares de exílio e dispersão: da terra da Assíria, onde foram cativos, e das regiões do Egito, de onde foram libertados.",
+      "referencias": [
+        "Isaías 27:13",
+        "Jeremias 30:10-11"
+      ],
+      "comentario": "Refere-se ao duplo 'Resgate' ou 'Segunda Vez' (cf. Isaías 11:16). A primeira vez foi a libertação do Egito sob Moisés. A segunda vez é a reunião final do exílio, o retorno dos judeus dispersos, simbolizando a reunião final de todos os crentes.",
+      "temas": [
+        "Redenção de Israel",
+        "Êxodo (Segundo)",
+        "Reunião dos Exilados"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "12": {
-      "parafrase": "Ele levantará uma bandeira para as nações e ajuntará os exilados de Israel; reunirá o povo disperso de Judá desde os quatro cantos da terra.",
-      "referencias": ["João 7:35"],
-      "comentario": "O Messias (a bandeira) será o agente da reunião. Ele reunirá tanto os exilados do reino do norte (Israel) quanto do reino do sul (Judá), restaurando a unidade do povo de Deus de todo o mundo.",
-      "temas": ["reunião de Israel e Judá", "restauração da unidade", "salvação universal"],
-      "personagens": ["Deus"]
+      "parafrase": "Ele levantará um sinal para as nações dispersas, um gesto que convocará os exilados de Israel e os estrangeiros de Judá. Será como erguer uma bandeira no topo de uma montanha desolada, um chamado claro e inconfundível a todos os cantos da terra.",
+      "referencias": [
+        "Jeremias 31:7",
+        "Mateus 24:31"
+      ],
+      "comentario": "O sinal ('Nes') é um chamado visível. A imagem do sinal erguido em uma montanha enfatiza a visibilidade e a autoridade do chamado, transcendendo fronteiras geográficas e étnicas (Israel e Judá sendo usados para representar todo o povo de Deus).",
+      "temas": [
+        "Chamado Universal",
+        "Símbolo de Esperança",
+        "Superação das Fronteiras"
+      ],
+      "personagens": []
     },
     "13": {
-      "parafrase": "O ciúme de Efraim desaparecerá, e os adversários de Judá serão eliminados. Efraim não terá ciúmes de Judá, nem Judá será hostil a Efraim.",
-      "referencias": ["Ezequiel 37:16-17"],
-      "comentario": "A rivalidade e a hostilidade históricas entre os reinos do norte (Efraim) e do sul (Judá), que levaram à divisão da nação, serão completamente curadas. Haverá perfeita unidade e harmonia entre o povo de Deus.",
-      "temas": ["unidade", "reconciliação", "cura da divisão"],
+      "parafrase": "A rivalidade e a inveja entre os dois reinos irmãos cessarão completamente. Efraim, o reino do Norte, não mais sentirá ciúmes ou antagonismo contra Judá, o reino do Sul. Pelo contrário, eles se unirão em propósito e espírito.",
+      "referencias": [
+        "Ezequiel 37:22",
+        "Zacarias 10:6"
+      ],
+      "comentario": "Este versículo aborda a divisão política e tribal que marcou a história de Israel (Reino Dividido). O fim da animosidade entre Efraim (representante das dez tribos) e Judá é essencial para a restauração completa, indicando a unidade sob o Messias.",
+      "temas": [
+        "Unidade de Israel",
+        "Fim das Rivalidades",
+        "Paz Interna"
+      ],
       "personagens": []
     },
     "14": {
-      "parafrase": "Eles descerão sobre as encostas da Filístia, a oeste; juntos, saquearão os povos do leste. Porão as mãos sobre Edom e Moabe, e os amonitas lhes estarão sujeitos.",
-      "referencias": [],
-      "comentario": "O povo de Deus unificado terá vitória sobre seus inimigos históricos vizinhos. Esta pode ser uma descrição literal de vitória ou uma representação simbólica da subjugação de toda a oposição ao reino de Deus.",
-      "temas": ["vitória sobre os inimigos", "triunfo", "reino unificado"],
+      "parafrase": "Juntos, eles voarão sobre as nações vizinhas, atacando e dominando os Filisteus que sempre foram seus inimigos a oeste. Unindo forças, eles pilharão os povos a leste, sobre Edom e Moabe. E os Amonitas, vizinhos do norte, estarão sob o seu jugo.",
+      "referencias": [
+        "Miqueias 4:13",
+        "Naum 3:13"
+      ],
+      "comentario": "A união interna (v. 13) resulta em poder externo. Esta é uma profecia de restauração territorial e política, onde Israel, finalmente unido sob a liderança messiânica, prevalecerá sobre seus opressores históricos (Filisteus, Edomitas, Moabitas, Amonitas).",
+      "temas": [
+        "Vitória sobre Inimigos",
+        "Domínio Político",
+        "Restauração Nacional"
+      ],
       "personagens": []
     },
     "15": {
-      "parafrase": "O Senhor secará o golfo do mar do Egito; com seu vento abrasador, agitará a mão sobre o rio Eufrates e o dividirá em sete riachos, para que se possa atravessá-lo de sandálias.",
-      "referencias": ["Zacarias 10:11", "Apocalipse 16:12"],
-      "comentario": "Deus removerá todos os obstáculos geográficos para o retorno de Seu povo, realizando milagres que lembram o Êxodo (secando o Mar Vermelho) e a conquista (atravessando o Jordão). O grande rio Eufrates, que simbolizava o poder dos impérios inimigos, será reduzido a riachos fáceis de atravessar.",
-      "temas": ["milagres", "remoção de obstáculos", "novo Êxodo"],
-      "personagens": ["Deus"]
+      "parafrase": "O Senhor, com um poder tremendo vindo do Seu controle sobre as águas, fará com que o Golfo de Aqaba (o braço do Mar Vermelho) se divida novamente. Com um sopro forte, Ele secará os rios da Mesopotâmia, transformando-os em um caminho seco, facilitando o retorno de Seu povo.",
+      "referencias": [
+        "Josué 3:15-17",
+        "Êxodo 14:21-29"
+      ],
+      "comentario": "Esta é uma alusão direta ao primeiro Êxodo. O controle de Deus sobre os corpos d'água demonstra Sua soberania absoluta sobre a geografia e a natureza. A divisão do Mar Vermelho e a secagem dos rios (provavelmente o Eufrates, na direção leste) garantem um caminho seguro de volta para todos os dispersos.",
+      "temas": [
+        "Soberania de Deus sobre a Natureza",
+        "Milagres",
+        "Caminho de Retorno"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "16": {
-      "parafrase": "Haverá um caminho para o remanescente do seu povo que for deixado da Assíria, assim como houve para Israel no dia em que saiu do Egito.",
-      "referencias": ["Isaías 19:23"],
-      "comentario": "A promessa é clara: Deus proverá um caminho seguro e milagroso para o retorno de Seu povo do exílio, assim como fez na primeira vez que os libertou. A libertação futura será tão grandiosa quanto a do passado.",
-      "temas": ["caminho seguro", "libertação", "promessa de restauração"],
-      "personagens": ["Deus"]
+      "parafrase": "E haverá uma grande estrada de regresso para os remanescentes de Seu povo, aqueles que sobreviverem à dispersão, vindo da Assíria. Será uma passagem tão segura e fácil quanto a que Deus abriu para Israel ao sair da terra do Egito. Este evento será um testemunho monumental da glória de Deus.",
+      "referencias": [
+        "Apocalipse 21:23",
+        "1 Coríntios 10:1-2"
+      ],
+      "comentario": "O caminho ('Mesillâh') é a estrada de volta para a pátria. A comparação explícita com a saída do Egito sublinha que a glória manifestada na libertação original será igualada ou superada na redenção final. O propósito de toda essa manifestação de poder é glorificar a Deus.",
+      "temas": [
+        "Glória de Deus",
+        "Remanescente Fiel",
+        "Conclusão da Redenção"
+      ],
+      "personagens": []
     }
   }
 }

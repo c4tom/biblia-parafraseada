@@ -1,205 +1,539 @@
 {
   "livro": "Daniel",
   "capitulo": 5,
-  "contexto_historico": "Este capítulo de Daniel descreve o banquete do rei Belsazar, onde ele profana os vasos sagrados do Templo de Jerusalém. Em meio à festa, uma mão misteriosa aparece e escreve uma mensagem na parede. Belsazar, aterrorizado, convoca seus sábios, mas nenhum consegue interpretar a escrita. Daniel é então chamado e, através da revelação divina, interpreta a mensagem como um juízo de Deus sobre o reino da Babilônia, anunciando sua queda iminente. O capítulo enfatiza a soberania de Deus sobre os reinos humanos, Sua justiça em punir a profanação e a arrogância, e a fidelidade de Daniel em proclamar a verdade, mesmo diante do perigo.",
-  "bloco_tematico": "O Banquete de Belsazar e a Escrita na Parede: A Queda da Babilônia",
+  "contexto_historico": "O capítulo 5 de Daniel narra a blasfêmia do rei Belsazar, sucessor de Nabucodonosor, durante um grande banquete onde foram usados os utensílios de ouro e prata roubados do Templo de Jerusalém. Em meio à orgia, surge uma mão misteriosa que escreve uma mensagem na parede: \"Mene, Mene, Tekel, Uparsim\". Os sábios babilônicos são incapazes de interpretar os escritos, o que leva a rainha a sugerir a chamada de Daniel, conhecido por seu dom de interpretar sonhos e visões. Daniel, já idoso, é trazido e, após repreender o rei por sua soberba e idolatria, interpreta a mensagem como o julgamento iminente de Deus contra o reino babilônico, anunciando seu fim e a entrega do poder aos Medos e Persas. Na mesma noite, Belsazar é morto e o reino cai.",
+  "bloco_tematico": "A Queda de Babilônia: Julgamento pela Arrogância e Idolatria 👑📜✍️",
   "versiculos": {
     "1": {
-      "parafrase": "O rei Belsazar fez um grande banquete para mil de seus grandes, e bebeu vinho diante dos mil.",
-      "referencias": [],
-      "comentario": "O rei Belsazar, sucessor de Nabucodonosor, realiza um grande banquete, mostrando sua ostentação e sua confiança em seu próprio poder, mesmo em meio à ameaça persa. O banquete é um ato de arrogância.",
-      "temas": ["banquete", "ostentação", "arrogância", "rei"],
-      "personagens": ["Belsazar"]
+      "parafrase": "O Rei Belsazar, em meio à sua grande celebração, preparou um banquete suntuoso para mil de seus nobres e, embriagado pelo vinho abundante, deu a ordem de trazer os utensílios sagrados de ouro e prata que seu predecessor, Nabucodonosor, havia roubado do Templo de Jerusalém, o qual era a Casa do Senhor. Era um ato de desafio supremo contra o Deus vivo.",
+      "referencias": [
+        "Êxodo 20:3",
+        "Isaías 5:11-12"
+      ],
+      "comentario": "Belsazar, talvez neto ou sucessor direto, demonstra total desprezo pela santidade dos objetos consagrados ao Deus de Israel. O ato de beber vinho nesses cálices sagrados (utilizados nos rituais do Templo) é uma profanação direta, sinalizando sua arrogância e incredulidade no poder do Deus hebreu. O nome do Templo, 'Casa do Senhor', enfatiza a sacralidade violada.",
+      "temas": [
+        "Profanação",
+        "Orgulho",
+        "Idolatria"
+      ],
+      "personagens": [
+        "Belsazar",
+        "Nabucodonosor"
+      ]
     },
     "2": {
-      "parafrase": "Belsazar, enquanto bebia o vinho, ordenou que trouxessem os vasos de ouro e de prata que Nabucodonosor, seu pai, havia tirado do templo que estava em Jerusalém; para que o rei e seus príncipes, suas esposas e suas concubinas bebessem neles.",
-      "referencias": [],
-      "comentario": "Belsazar profana os vasos sagrados do Templo de Jerusalém, usando-os para seu banquete. Este ato de profanação é uma afronta direta a Deus e um sinal de sua impiedade.",
-      "temas": ["profanação", "vasos sagrados", "Templo", "impiedade", "arrogância"],
-      "personagens": ["Belsazar", "Nabucodonosor"]
+      "parafrase": "Enquanto o vinho ainda circulava e aquecia seus corações, o rei, num gesto de total desrespeito, ordenou que trouxessem os vasos preciosos, ordenando que ele, seus convidados, suas esposas e concubinas os usassem para beber e, de quebra, elogiar seus próprios deuses de ouro, prata, bronze, ferro, madeira e pedra.",
+      "referencias": [
+        "Isaías 42:8",
+        "Jeremias 51:39"
+      ],
+      "comentario": "A escalada da blasfêmia é clara: não apenas profana os objetos, mas os utiliza para glorificar ídolos pagãos (deuses de materiais inertes) em contraste direto com o Deus único de Israel. A inclusão das mulheres (esposas e concubinas) amplia o escândalo social e religioso.",
+      "temas": [
+        "Blasfêmia",
+        "Sacrilégio",
+        "Frivolidade"
+      ],
+      "personagens": [
+        "Belsazar",
+        "Nobres"
+      ]
     },
     "3": {
-      "parafrase": "Então trouxeram os vasos de ouro que haviam sido tirados do templo da casa de Deus que estava em Jerusalém; e o rei e seus príncipes, suas esposas e suas concubinas beberam neles.",
-      "referencias": [],
-      "comentario": "Os vasos são trazidos e usados para o banquete, confirmando o ato de profanação. A participação de todos os presentes demonstra a extensão da impiedade.",
-      "temas": ["profanação", "vasos sagrados", "impiedade", "participação"],
-      "personagens": []
+      "parafrase": "Aquele foi o momento exato em que, no meio do seu descontrole festivo, a mão de alguém apareceu! Uma mão espectral, sem corpo visível, surgiu na parede do palácio, bem iluminada, diretamente em frente ao candelabro, e começou a escrever uma mensagem misteriosa.",
+      "referencias": [
+        "Êxodo 3:2",
+        "1 Reis 19:12"
+      ],
+      "comentario": "A aparição da 'mão de homem' (Hebraico: 'yad adamah') é o clímax visual da narrativa. O contraste entre a luz do candelabro (símbolo de presença divina ou esplendor) e a escuridão do mistério que se desenrola é marcante. Este é um prenúncio da intervenção divina imediata.",
+      "temas": [
+        "Intervenção Divina",
+        "Julgamento Iminente",
+        "Manifestação Sobrenatural"
+      ],
+      "personagens": [
+        "Mão Espectral"
+      ]
     },
     "4": {
-      "parafrase": "Eles beberam vinho e louvaram os deuses de ouro, e de prata, de bronze, de ferro, de madeira e de pedra.",
-      "referencias": [],
-      "comentario": "Enquanto bebem, eles louvam os deuses pagãos, mostrando sua idolatria e sua rejeição ao Deus de Israel. A adoração a ídolos é um contraste com a glória de Deus.",
-      "temas": ["idolatria", "louvor", "deuses pagãos", "rejeição"],
-      "personagens": []
+      "parafrase": "Ao ver aquela escrita surgindo na parede, o rosto do rei Belsazar perdeu toda a cor. O pânico o dominou de tal forma que seus joelhos começaram a bater um contra o outro, e ele foi tomado por um terror paralisante.",
+      "referencias": [
+        "Jó 21:6",
+        "Isaías 13:8"
+      ],
+      "comentario": "A reação física de Belsazar (perda de cor, joelhos batendo) ilustra o terror absoluto diante do poder que ele tentou ignorar. O terror não vem de um exército, mas de um sinal direto do poder divino, provando que ele não estava lidando com um inimigo mortal, mas com o Juiz supremo.",
+      "temas": [
+        "Medo",
+        "Reconhecimento do Poder",
+        "Pânico Real"
+      ],
+      "personagens": [
+        "Belsazar"
+      ]
     },
     "5": {
-      "parafrase": "Na mesma hora, apareceram os dedos de uma mão de homem e escreveram na cal da parede do palácio do rei, em frente ao candelabro; e o rei viu a parte da mão que escrevia.",
-      "referencias": [],
-      "comentario": "Uma mão misteriosa aparece e escreve na parede do palácio, em frente ao candelabro. O rei vê a mão escrevendo, o que o aterroriza profundamente. O evento é sobrenatural e assustador.",
-      "temas": ["mão misteriosa", "escrita na parede", "terror", "sobrenatural"],
-      "personagens": ["Belsazar"]
+      "parafrase": "Dominado pelo pavor, o rei gritou desesperadamente, ordenando que os sábios astrólogos, os caldeus e os videntes fossem trazidos imediatamente para decifrar aquela escrita aterrorizante.",
+      "referencias": [
+        "Isaías 47:13-14",
+        "Jeremias 50:35"
+      ],
+      "comentario": "Belsazar recorre aos mesmos conselheiros que antes o haviam encorajado em sua presunção. A ironia reside no fato de que aqueles que confiavam na astrologia e nos presságios falharam miseravelmente em face de um sinal direto de Deus. A urgência da convocação mostra seu desespero.",
+      "temas": [
+        "Desespero",
+        "Busca por Respostas",
+        "Falsos Profetas"
+      ],
+      "personagens": [
+        "Belsazar",
+        "Sábios",
+        "Caldeus",
+        "Videntes"
+      ]
     },
     "6": {
-      "parafrase": "Então o semblante do rei mudou, e seus pensamentos o perturbaram, e as juntas de seus lombos se afrouxaram, e seus joelhos batiam um no outro.",
-      "referencias": [],
-      "comentario": "O rei fica aterrorizado, seu semblante muda, seus pensamentos o perturbam, e ele treme incontrolavelmente. O medo é físico e psicológico, mostrando o impacto da manifestação divina.",
-      "temas": ["terror", "medo", "perturbação", "tremor"],
-      "personagens": ["Belsazar"]
+      "parafrase": "Quando os sábios finalmente entraram, o rei lhes ofereceu uma recompensa astronômica: quem conseguisse ler aquela mensagem e interpretar seu significado receberia uma vestimenta púrpura de honra real e seria instalado como o terceiro homem mais poderoso no reino da Babilônia.",
+      "referencias": [
+        "Gênesis 41:40-42",
+        "Provérbios 13:18"
+      ],
+      "comentario": "A recompensa proposta é altíssima, demonstrando o valor que Belsazar dava à sua própria segurança e reputação. Ser o 'terceiro no reino' era uma posição de imenso poder, logo abaixo do rei e do príncipe regente. No entanto, o poder mundano é inútil contra o julgamento divino.",
+      "temas": [
+        "Recompensa Terrena",
+        "Poder",
+        "Inabilidade"
+      ],
+      "personagens": [
+        "Belsazar",
+        "Sábios"
+      ]
     },
     "7": {
-      "parafrase": "O rei clamou em alta voz para que trouxessem os astrólogos, os caldeus e os adivinhos. O rei falou e disse aos sábios da Babilônia: 'Quem quer que leia esta escrita e me declare a sua interpretação, será vestido de púrpura, e terá um colar de ouro em seu pescoço, e governará como o terceiro no reino.'",
-      "referencias": [],
-      "comentario": "Belsazar convoca seus sábios para interpretar a escrita, oferecendo grandes recompensas. Ele está desesperado por uma explicação, mas a sabedoria humana é limitada.",
-      "temas": ["convocação", "sábios", "interpretação", "recompensa", "desespero"],
-      "personagens": ["Belsazar"]
+      "parafrase": "Apesar de todas as promessas, aqueles homens cultos e sábios se viram incapazes! Eles olharam fixamente para as palavras, mas ninguém conseguiu dizer ao rei o que elas significavam. O terror havia paralisado até mesmo a erudição deles.",
+      "referencias": [
+        "Jó 12:17",
+        "Isaías 29:14"
+      ],
+      "comentario": "A incapacidade dos sábios babilonicos de ler uma escrita que, presumivelmente, estava em uma forma de Aramaico ou Caldeu que eles conheciam, aponta para uma intervenção divina específica, que obscureceu o entendimento deles. A sabedoria humana falhou diante do mistério de Deus.",
+      "temas": [
+        "Fracasso da Sabedoria Humana",
+        "Mistério Divino",
+        "Incapacidade"
+      ],
+      "personagens": [
+        "Belsazar",
+        "Sábios"
+      ]
     },
     "8": {
-      "parafrase": "Então todos os sábios do rei vieram, mas não puderam ler a escrita, nem fazer saber ao rei a sua interpretação.",
-      "referencias": [],
-      "comentario": "Os sábios do rei falham em ler e interpretar a escrita, mostrando a limitação de sua sabedoria e a natureza divina da mensagem. Sua incapacidade é evidente.",
-      "temas": ["sábios", "falha", "limitação humana", "incapacidade"],
-      "personagens": []
+      "parafrase": "A confusão e o pavor cresceram tanto no rei e em seus nobres que eles ficaram completamente agitados e sem saber o que fazer a seguir.",
+      "referencias": [
+        "Salmos 55:4",
+        "Jó 39:25"
+      ],
+      "comentario": "A agitação do rei agora se espalha pela corte. O banquete, que começou em exaltação pagã, transformou-se em uma cena de caos e impotência política e espiritual.",
+      "temas": [
+        "Caos",
+        "Impotência",
+        "Agitação"
+      ],
+      "personagens": [
+        "Belsazar",
+        "Nobres"
+      ]
     },
     "9": {
-      "parafrase": "Então o rei Belsazar ficou muito perturbado, e seu semblante mudou ainda mais, e seus grandes ficaram perplexos.",
-      "referencias": [],
-      "comentario": "O rei fica ainda mais perturbado, e seus oficiais ficam perplexos. O mistério da escrita e a incapacidade de interpretá-la causam grande angústia.",
-      "temas": ["perturbação", "perplexidade", "mistério", "angústia"],
-      "personagens": ["Belsazar"]
+      "parafrase": "O Rei Belsazar, ainda aterrorizado, ficou ainda mais abalado quando a rainha-mãe (ou talvez a rainha viúva, que tinha conhecimento da história) entrou na sala do banquete, ao ouvir os gritos e o tumulto.",
+      "referencias": [
+        "Isaías 47:5",
+        "Provérbios 31:27"
+      ],
+      "comentario": "A entrada da rainha-mãe geralmente simboliza a experiência e a memória histórica da dinastia. Ela reconhece a seriedade do acontecimento, pois ela havia testemunhado eventos sobrenaturais anteriores, como os de Nabucodonosor.",
+      "temas": [
+        "Sabedoria Feminina",
+        "Memória Histórica",
+        "Intervenção Externa"
+      ],
+      "personagens": [
+        "Belsazar",
+        "Rainha-Mãe"
+      ]
     },
     "10": {
-      "parafrase": "Ora, a rainha, por causa das palavras do rei e de seus grandes, entrou na sala do banquete; e a rainha falou e disse: 'Ó rei, viva para sempre! Não o perturbem os seus pensamentos, nem mude o seu semblante.'",
-      "referencias": [],
-      "comentario": "A rainha-mãe, provavelmente a mãe de Nabucodonosor, entra na sala do banquete e aconselha o rei a não se perturbar. Ela é uma figura de sabedoria e experiência.",
-      "temas": ["rainha-mãe", "conselho", "sabedoria", "experiência"],
-      "personagens": []
+      "parafrase": "Ao ver a aflição do rei e dos nobres, a rainha falou com voz firme, mas solene: 'Ó Rei, que você não se perturbe por causa daquelas palavras ou do seu semblante sombrio! Há um homem no seu reino que possui o espírito dos santos deuses, aquele que seu pai, Nabucodonosor, descobriu ser dotado de grande inteligência e discernimento, assim como os sábios'.",
+      "referencias": [
+        "Jó 15:15",
+        "Salmos 119:129"
+      ],
+      "comentario": "A rainha-mãe atua como mediadora da experiência, lembrando Belsazar da história de seu antecessor e da existência de Daniel. Ela usa a expressão 'espírito dos santos deuses', reconhecendo a qualidade superior do espírito de Daniel, embora se refira ao Deus de Israel.",
+      "temas": [
+        "Mediação",
+        "Reconhecimento da Virtude",
+        "Experiência Passada"
+      ],
+      "personagens": [
+        "Rainha-Mãe",
+        "Belsazar",
+        "Nabucodonosor",
+        "Daniel"
+      ]
     },
     "11": {
-      "parafrase": "'Há um homem em seu reino em quem está o espírito dos deuses santos; e nos dias de seu pai, luz e entendimento e sabedoria, como a sabedoria dos deuses, foram encontrados nele; e o rei Nabucodonosor, seu pai, o fez chefe dos magos, astrólogos, caldeus e adivinhos;
+      "parafrase": "Ela continuou explicando: 'Na época do seu pai, este homem, a quem chamam Daniel, foi nomeado supervisor dos sábios, porque em Daniel se encontrava um espírito extraordinário, pleno de conhecimento e capacidade de interpretar sonhos e decifrar enigmas complexos. Chame Daniel agora, e ele certamente lhe dirá o que tudo isso significa!'",
+      "referencias": [
+        "Daniel 2:48",
+        "Números 27:18"
+      ],
+      "comentario": "A rainha-mãe faz um apelo baseado em precedentes históricos e na reputação estabelecida de Daniel. O 'espírito extraordinário' (Hebraico: 'ruach b'hîrâ', espírito de luz/excelência) é o que diferencia Daniel dos magos da corte.",
+      "temas": [
+        "Excelência",
+        "Chamado ao Serviço",
+        "Interpretação"
+      ],
+      "personagens": [
+        "Rainha-Mãe",
+        "Daniel",
+        "Nabucodonosor"
+      ]
+    },
     "12": {
-      "parafrase": "porquanto um espírito excelente, e conhecimento, e entendimento, interpretando sonhos, e explicando enigmas, e resolvendo dúvidas, foram encontrados neste Daniel, a quem o rei deu o nome de Beltessazar. Agora, que Daniel seja chamado, e ele declarará a interpretação.'",
-      "references": [],
-      "comentario": "A rainha-mãe lembra o rei da existência de Daniel, que possui um espírito excelente e a capacidade de interpretar sonhos e resolver dúvidas. Ela o recomenda como a única esperança para a interpretação.",
-      "temas": ["Daniel", "espírito excelente", "interpretação de sonhos", "resolução de dúvidas", "esperança"],
-      "personagens": ["Daniel", "Nabucodonosor"]
+      "parafrase": "Imediatamente, Daniel foi trazido daquele lugar onde estava exilado, sendo chamado à presença do rei. Belsazar, olhando para o profeta idoso, perguntou: 'Você é aquele Daniel, um dos exilados de Judá que meu pai, o rei, trouxe de lá, aquele que possui o espírito dos deuses e que tem tanta clareza de entendimento?'",
+      "referencias": [
+        "Daniel 2:13",
+        "Isaías 65:24"
+      ],
+      "comentario": "Daniel, que provavelmente estava afastado das funções políticas por algum tempo (ou vivendo discretamente), é trazido de volta. O rei repete as credenciais de Daniel, confirmando que ele é a última esperança, ligando-o diretamente aos seus ancestrais e ao poder divino.",
+      "temas": [
+        "Restauração",
+        "Reconhecimento Público",
+        "Fé Comprovada"
+      ],
+      "personagens": [
+        "Daniel",
+        "Belsazar"
+      ]
     },
     "13": {
-      "parafrase": "Então Daniel foi trazido diante do rei. O rei falou e disse a Daniel: 'Você é aquele Daniel, dos filhos do cativeiro de Judá, que meu pai, o rei, trouxe de Judá?'",
-      "references": [],
-      "comentario": "Daniel é trazido diante do rei, que o questiona sobre sua identidade e sua origem. A posição de Daniel como cativo é lembrada.",
-      "temas": ["Daniel", "cativeiro", "identidade", "origem"],
-      "personagens": ["Belsazar", "Daniel"]
+      "parafrase": "Então Daniel respondeu ao rei, com a dignidade que lhe era característica: 'Eu estou aqui, Majestade. Se o senhor quiser, posso ler e explicar a mensagem escrita na parede, conforme sua promessa de recompensa'.",
+      "referencias": [
+        "Jó 33:3",
+        "Atos 4:19-20"
+      ],
+      "comentario": "Daniel, mantendo sua postura, não se deixa intimidar pela pompa real. Ele aceita o desafio, mas condiciona a revelação à manutenção da promessa feita pelo rei (a recompensa). Sua confiança é calma, contrastando com o pânico do monarca.",
+      "temas": [
+        "Dignidade",
+        "Condicionalidade",
+        "Coragem"
+      ],
+      "personagens": [
+        "Daniel",
+        "Belsazar"
+      ]
     },
     "14": {
-      "parafrase": "'Ouvi dizer a seu respeito que o espírito dos deuses está em você, e que luz e entendimento e sabedoria excelente são encontrados em você.'",
-      "references": [],
-      "comentario": "O rei reconhece a reputação de Daniel e sua capacidade espiritual, mas ainda com uma compreensão pagã do 'espírito dos deuses'. Ele busca a sabedoria de Daniel.",
-      "temas": ["reputação", "espírito dos deuses", "luz", "entendimento", "sabedoria"],
-      "personagens": ["Belsazar"]
+      "parafrase": "Entretanto, antes de aceitar qualquer glória material, Daniel fez questão de lembrar o rei: 'Eu ouvi dizer que o senhor tem consigo os vasos de ouro e prata que foram tirados do Templo do Senhor em Jerusalém, e que o senhor e sua corte os estão usando para beber vinho, celebrando seus próprios deuses que não podem ver nem ouvir, mas que são feitos de pedra e metal'.",
+      "referencias": [
+        "Amós 6:6",
+        "Salmos 115:5-8"
+      ],
+      "comentario": "Daniel, fiel ao seu chamado, confronta Belsazar imediatamente sobre o motivo do julgamento: a profanação. Ele aponta a inutilidade dos ídolos ('não podem ver nem ouvir'), contrastando-os com o Deus vivo que acaba de enviar um mensageiro visível (a mão).",
+      "temas": [
+        "Confronto Profético",
+        "Inutilidade da Idolatria",
+        "Motivo do Julgamento"
+      ],
+      "personagens": [
+        "Daniel",
+        "Belsazar"
+      ]
     },
     "15": {
-      "parafrase": "'E agora os sábios, os astrólogos, foram trazidos diante de mim, para que lessem esta escrita e me fizessem saber a sua interpretação; mas eles não puderam declarar a interpretação do assunto.'",
-      "references": [],
-      "comentario": "O rei reitera a falha de seus sábios em interpretar a escrita, enfatizando a necessidade da intervenção de Daniel. A limitação humana é evidente.",
-      "temas": ["sábios", "falha", "interpretação", "limitação humana"],
-      "personagens": ["Belsazar"]
+      "parafrase": "Aquele sinal sobrenatural apareceu justamente por causa da sua transgressão, ó rei. A mão que escreveu pertence ao Deus que governa sobre todas as coisas, e a mensagem foi enviada para lhe mostrar que seu tempo acabou.",
+      "referencias": [
+        "Habacuque 2:3",
+        "Romanos 1:18"
+      ],
+      "comentario": "Daniel estabelece a causa e o efeito. A aparição da mão não foi um acidente; foi uma convocação direta do Deus que soberanamente controla os reinos ('governa sobre todas as coisas'). O juízo está centrado na soberania divina confrontada pela soberba humana.",
+      "temas": [
+        "Causa e Efeito",
+        "Soberania Divina",
+        "Convocação ao Juízo"
+      ],
+      "personagens": [
+        "Daniel",
+        "Belsazar"
+      ]
     },
     "16": {
-      "parafrase": "'Mas ouvi dizer a seu respeito que você pode dar interpretações e resolver dúvidas. Agora, se você pode ler a escrita e me fazer saber a sua interpretação, você será vestido de púrpura, e terá um colar de ouro em seu pescoço, e governará como o terceiro no reino.'",
-      "references": [],
-      "comentario": "O rei oferece as mesmas recompensas a Daniel, mostrando sua urgência e sua disposição em honrar quem puder resolver o mistério. A oferta é tentadora.",
-      "temas": ["recompensa", "interpretação", "urgência", "honra"],
-      "personagens": ["Belsazar"]
+      "parafrase": " 'E eu, ó rei, ouvi o que o senhor disse sobre a minha capacidade de decifrar coisas difíceis. Se o senhor puder me dar um momento, eu posso ler essas palavras e traduzi-las para o senhor com toda a certeza'.",
+      "referencias": [
+        "1 Coríntios 14:9",
+        "Mateus 13:15"
+      ],
+      "comentario": "Daniel reitera sua capacidade, mas agora, após o sermão inicial sobre a causa do julgamento, ele se prepara para entregar a sentença, mantendo a condição de que a mensagem será transmitida claramente.",
+      "temas": [
+        "Clareza",
+        "Autoridade na Fala",
+        "Profecia"
+      ],
+      "personagens": [
+        "Daniel",
+        "Belsazar"
+      ]
     },
     "17": {
-      "parafrase": "Então Daniel respondeu e disse diante do rei: 'Que os seus presentes fiquem com você, e dê as suas recompensas a outro; no entanto, lerei a escrita ao rei e lhe farei saber a interpretação.'",
-      "references": [],
-      "comentario": "Daniel recusa os presentes do rei, mostrando sua integridade e sua dedicação em servir a Deus, não ao homem. Ele se propõe a interpretar a escrita, independentemente da recompensa.",
-      "temas": ["recusa", "integridade", "dedicação", "interpretação"],
-      "personagens": ["Daniel"]
+      "parafrase": "O rei, ainda agitado, respondeu com urgência: 'Pois bem, Daniel! Seja qual for a inscrição, diga-a a mim! Você manterá a posição de terceiro no reino, com todas as honras, se puder me explicar este mistério!'",
+      "referencias": [
+        "Lucas 19:42",
+        "Filipenses 3:8"
+      ],
+      "comentario": "Belsazar reafirma a oferta, quase desesperadamente. O valor da vida e do reino agora depende de um homem de Deus, enquanto o rei, com toda a sua riqueza, está impotente. A promessa de poder material é repetida como um suborno final.",
+      "temas": [
+        "Desespero Materialista",
+        "Última Chance",
+        "Compromisso Forçado"
+      ],
+      "personagens": [
+        "Belsazar",
+        "Daniel"
+      ]
     },
     "18": {
-      "parafrase": "'Ó rei, o Deus Altíssimo deu a Nabucodonosor, seu pai, um reino, e majestade, e glória, e honra;
+      "parafrase": "Daniel, no entanto, recusou a oferta de riqueza com firmeza no coração: 'Vossa Majestade pode ficar com suas riquezas, e pode dar suas honras a quem quiser! Eu lerei a escrita para o rei, mas não preciso de nenhuma recompensa terrena para cumprir a Palavra do meu Deus'.",
+      "referencias": [
+        "1 Timóteo 6:10",
+        "Atos 8:20"
+      ],
+      "comentario": "Este é o ponto de maior contraste moral. Daniel recusa o suborno, demonstrando que sua lealdade é a Deus e não ao ouro. Ele mostra que a verdade divina não pode ser comprada. Este ato eleva sua autoridade moral sobre o rei.",
+      "temas": [
+        "Integridade",
+        "Rejeição da Avareza",
+        "Lealdade Inabalável"
+      ],
+      "personagens": [
+        "Daniel",
+        "Belsazar"
+      ]
+    },
     "19": {
-      "parafrase": "e por causa da majestade que Ele lhe deu, todos os povos, nações e línguas tremiam e temiam diante dele; a quem ele queria, ele matava; e a quem ele queria, ele mantinha vivo; e a quem ele queria, ele exaltava; e a quem ele queria, ele humilhava.'",
-      "references": [],
-      "comentario": "Daniel relembra a Nabucodonosor a soberania de Deus em dar poder e glória a seu pai, Nabucodonosor. Ele enfatiza que o poder do rei vem de Deus e que Ele tem controle sobre a vida e a morte.",
-      "temas": ["Deus Altíssimo", "reino", "majestade", "glória", "honra", "soberania divina"],
-      "personagens": ["Daniel", "Nabucodonosor"]
+      "parafrase": "Então Daniel começou a falar, lembrando ao rei a história de seu poderoso predecessor, Nabucodonosor: 'Ó Rei, o Altíssimo Deus concedeu a ele um reino vasto, poder, honra e majestade, pois ele era o rei supremo'.",
+      "referencias": [
+        "Salmos 75:6-7",
+        "Daniel 2:37"
+      ],
+      "comentario": "Daniel inicia a exegese contextualizando. Ele primeiro reconhece a fonte de todo poder legítimo: Deus Altíssimo ('El Elyon'). Ele usa Nabucodonosor como exemplo de como Deus eleva reis que O reconhecem, preparando o terreno para contrastar com Belsazar.",
+      "temas": [
+        "Lembrança da Graça",
+        "Poder Concedido",
+        "Contraste Histórico"
+      ],
+      "personagens": [
+        "Daniel",
+        "Belsazar",
+        "Nabucodonosor"
+      ]
     },
     "20": {
-      "parafrase": "'Mas quando o seu coração se exaltou, e o seu espírito se endureceu em orgulho, ele foi deposto do seu trono real, e a sua glória foi tirada dele;
+      "parafrase": "Mas, devido à grande honra que lhe foi dada por Deus, Nabucodonosor se tornou arrogante, seu coração se encheu de orgulho, e ele agiu com tirania e desobediência. Por isso, Deus o destronou de seu magnífico reino e tirou dele toda a sua glória.",
+      "referencias": [
+        "Provérbios 16:18",
+        "Isaías 14:12-14"
+      ],
+      "comentario": "O pecado de Nabucodonosor foi o orgulho ('coração se tornou altivo'). Daniel explica o princípio teológico: Deus derruba aqueles que, tendo recebido tudo por graça, se exaltam acima do Doador. Este é um aviso direto a Belsazar.",
+      "temas": [
+        "Arrogância",
+        "Queda do Orgulhoso",
+        "Justiça Retributiva"
+      ],
+      "personagens": [
+        "Daniel",
+        "Nabucodonosor"
+      ]
+    },
     "21": {
-      "parafrase": "e ele foi expulso dos filhos dos homens, e o seu coração se tornou como o dos animais, e a sua morada foi com os asnos selvagens; ele foi alimentado com grama como bois, e o seu corpo foi molhado com o orvalho do céu, até que ele soube que o Deus Altíssimo governa no reino dos homens, e que Ele levanta sobre ele a quem quer.'",
-      "references": [],
-      "comentario": "Daniel relembra a humilhação de Nabucodonosor por causa de seu orgulho, que o levou a viver como um animal até que ele reconhecesse a soberania de Deus. A história serve como um aviso para Belsazar.",
-      "temas": ["orgulho", "humilhação", "vida animal", "conhecimento de Deus", "soberania divina"],
-      "personagens": ["Daniel", "Nabucodonosor"]
+      "parafrase": "E quando ele foi humilhado, tirado de seu trono e seu senso comum lhe foi roubado, ele foi forçado a viver entre os animais selvagens. Ele comeu grama como um boi, e seu corpo foi molhado pelo orvalho do céu, até que ele reconheceu que o Deus Altíssimo tem domínio absoluto sobre todos os reinos da terra e que é Ele quem escolhe quem reinará sobre eles.",
+      "referencias": [
+        "Jó 4:18",
+        "Salmos 8:4"
+      ],
+      "comentario": "Daniel detalha a humilhação de Nabucodonosor, que se tornou um símbolo de insanidade real imposta por Deus. O ponto crucial é a submissão final do rei: reconhecer que Deus ('El Elyon') é o soberano supremo que nomeia os governantes deste mundo.",
+      "temas": [
+        "Humilhação",
+        "Loucura Divinamente Imposta",
+        "Reconhecimento da Soberania"
+      ],
+      "personagens": [
+        "Daniel",
+        "Nabucodonosor"
+      ]
     },
     "22": {
-      "parafrase": "'E você, Belsazar, seu filho, não humilhou o seu coração, embora soubesse de tudo isso;
+      "parafrase": "'Mas você, Belsazar, seu servo, que viu tudo isso e ainda assim se fez forte contra o Senhor dos céus, você não aprendeu com o exemplo do seu predecessor!'",
+      "referencias": [
+        "Lucas 12:48",
+        "Deuteronômio 29:18-19"
+      ],
+      "comentario": "A transição para Belsazar é um golpe direto. Ele não tinha a desculpa da ignorância; ele viu a prova viva do julgamento divino contra o orgulho, mas escolheu a mesma arrogância. A expressão 'se fez forte contra' (Hebraico: 'hit'haRēm') indica uma rebelião deliberada.",
+      "temas": [
+        "Teimosia",
+        "Falta de Aprendizado",
+        "Rebeldia Deliberada"
+      ],
+      "personagens": [
+        "Daniel",
+        "Belsazar"
+      ]
+    },
     "23": {
-      "parafrase": "mas você se exaltou contra o Senhor do céu; e eles trouxeram os vasos da sua casa diante de você, e você e seus príncipes, suas esposas e suas concubinas beberam vinho neles; e você louvou os deuses de prata, e de ouro, de bronze, de ferro, de madeira e de pedra, que não veem, nem ouvem, nem sabem; e o Deus em cuja mão está a sua respiração, e de quem são todos os seus caminhos, você não glorificou.'",
-      "references": [],
-      "comentario": "Daniel acusa Belsazar de não ter aprendido com a experiência de seu pai, mas de ter se exaltado contra Deus, profanando Seus vasos e louvando ídolos. Sua impiedade é grave e sem desculpa.",
-      "temas": ["Belsazar", "orgulho", "profanação", "idolatria", "impiedade", "falta de aprendizado"],
-      "personagens": ["Daniel", "Belsazar"]
+      "parafrase": "'Você, na verdade, elevou seu coração contra o próprio Senhor dos céus, e ordenou que os vasos sagrados do Templo Dele fossem trazidos para a sua festa pagã. Você e seus conselheiros, que se reuniram para louvar deuses que não veem nem entendem nada, mas não honrou o Deus em cujas mãos está o seu próprio sopro de vida e todo o seu destino!'",
+      "referencias": [
+        "Tiago 4:6",
+        "Gênesis 2:7"
+      ],
+      "comentario": "Daniel resume a ofensa capital: Belsazar desafiou a Deus que é o sustentador de sua própria vida ('em cujas mãos está o seu próprio sopro de vida'). O contraste final é entre os deuses inertes e o Deus que concede a própria existência.",
+      "temas": [
+        "Sopro de Vida",
+        "Culpa Definida",
+        "Ofensa Suprema"
+      ],
+      "personagens": [
+        "Daniel",
+        "Belsazar"
+      ]
     },
     "24": {
-      "parafrase": "'Então a parte da mão foi enviada por Ele, e esta escrita foi escrita.'",
-      "references": [],
-      "comentario": "Daniel revela que a mão misteriosa foi enviada por Deus como um juízo contra Belsazar por sua impiedade. A escrita é uma mensagem divina.",
-      "temas": ["mão misteriosa", "escrita na parede", "juízo divino", "mensagem divina"],
-      "personagens": ["Daniel"]
+      "parafrase": "'Portanto, foi essa mão que apareceu, enviada por Ele, que escreveu esta mensagem diante dos seus olhos. Agora, veja o que está escrito!'",
+      "referencias": [
+        "Jó 5:7",
+        "Salmos 37:35-36"
+      ],
+      "comentario": "Daniel direciona o foco de volta ao fenômeno sobrenatural, confirmando que a mão é um mensageiro direto de Deus, e anuncia que a sentença será revelada através das palavras escritas.",
+      "temas": [
+        "Confirmação Divina",
+        "Sentença Iminente",
+        "Revelação"
+      ],
+      "personagens": [
+        "Daniel"
+      ]
     },
     "25": {
-      "parafrase": "'E esta é a escrita que foi escrita: MENE, MENE, TEQUEL, PARSIM.'",
-      "references": [],
-      "comentario": "Daniel revela a escrita misteriosa: MENE, MENE, TEQUEL, PARSIM. As palavras são em aramaico e têm um significado profético.",
-      "temas": ["escrita na parede", "aramaico", "profecia"],
-      "personagens": ["Daniel"]
+      "parafrase": "As palavras escritas na parede eram: 'MENE, MENE, TEKEL, UPARSIM'. E a interpretação, ó Rei, é a seguinte: MENE significa que Deus contou e encerrou os dias do seu reinado. TEKEL indica que você foi pesado na balança do julgamento e achado insuficiente, leve demais. E PERES (ou UPARSIM) significa que o seu reino foi dividido e entregue aos Medos e aos Persas!'",
+      "referencias": [
+        "Apocalipse 20:12",
+        "Provérbios 16:11"
+      ],
+      "comentario": "Daniel explica os quatro termos, que são verbos no aramaico: 'Mene' (contar/determinar), 'Tekel' (pesar), e 'Peres/Uparsim' (dividir). 'Mene' indica o fim cronológico; 'Tekel' indica a falha moral; e 'Peres' indica a transferência política imediata do poder.",
+      "temas": [
+        "Julgamento Explícito",
+        "Peso Moral",
+        "Transferência de Reino"
+      ],
+      "personagens": [
+        "Daniel",
+        "Belsazar"
+      ]
     },
     "26": {
-      "parafrase": "'Esta é a interpretação do assunto: MENE; Deus contou o seu reino e o terminou.'",
-      "references": [],
-      "comentario": "Daniel interpreta a primeira palavra, MENE, como significando que Deus contou o reino de Belsazar e o terminou. O fim do reino é iminente.",
-      "temas": ["interpretação", "MENE", "reino", "fim", "juízo divino"],
-      "personagens": ["Daniel"]
+      "parafrase": "Então o rei Belsazar, ao ouvir tudo aquilo, ficou profundamente abalado em seu espírito, e o brilho de sua alegria apagou-se subitamente. Uma angústia paralisante tomou conta dele, e seus conselheiros mais próximos também ficaram aterrorizados com o que viam e ouviam, sem saber como interpretar aquele pavor que invadira o palácio.",
+      "referencias": [
+        "Daniel 4:19",
+        "Jó 21:6"
+      ],
+      "comentario": "A expressão hebraica para 'ficou sobremodo turbado' (רָגַז, *ragaz*) denota um tremor violento, um choque profundo. A alegria forçada do banquete é substituída pelo medo existencial. A turbulência de Belsazar espelha a perturbação de Nabucodonosor no capítulo 4, mostrando que o poder humano é frágil diante do julgamento divino. A estabilidade do rei desmorona.",
+      "temas": [
+        "Medo do Julgamento",
+        "Fragilidade do Poder Temporal",
+        "Perturbação Real"
+      ],
+      "personagens": [
+        "Belsazar",
+        "Conselheiros do Rei"
+      ]
     },
     "27": {
-      "parafrase": "'TEQUEL; você foi pesado na balança e foi achado em falta.'",
-      "references": [],
-      "comentario": "Daniel interpreta a segunda palavra, TEQUEL, como significando que Belsazar foi pesado na balança divina e achado em falta. Sua vida e seu reinado são insuficientes.",
-      "temas": ["interpretação", "TEQUEL", "balança", "falta", "juízo divino"],
-      "personagens": ["Daniel"]
+      "parafrase": "Em sua aflição, o rei, tentando desesperadamente manter alguma aparência de controle, disse em voz alta ao grupo de sábios: 'Quem quer que consiga ler esta inscrição fantasmagórica e me desvendar o seu significado, eu o vestirei com púrpura real, colocarei um colar de ouro maciço em seu pescoço, e ele será o terceiro governante mais importante neste reino!' 👑",
+      "referencias": [
+        "Ester 6:8",
+        "Provérbios 31:17"
+      ],
+      "comentario": "Este versículo demonstra a desesperada tentativa de Belsazar de resolver um problema espiritual com soluções materiais e políticas. A oferta de poder (o 'terceiro no reino') era a maior honra secular que ele podia conceder, rivalizando com as promessas feitas a Daniel por Nabucodonosor (Daniel 4:13). O ouro e a púrpura simbolizavam o ápice da glória terrena.",
+      "temas": [
+        "Tentativa de Suborno Espiritual",
+        "Hierarquia e Recompensa Terrena",
+        "Desespero da Liderança"
+      ],
+      "personagens": [
+        "Belsazar",
+        "Sábios Caldeus"
+      ]
     },
     "28": {
-      "parafrase": "'PERES; o seu reino foi dividido e dado aos medos e persas.'",
-      "references": [],
-      "comentario": "Daniel interpreta a terceira palavra, PERES (ou PARSIM), como significando que o reino de Belsazar será dividido e dado aos medos e persas. A queda da Babilônia é iminente.",
-      "temas": ["interpretação", "PERES", "reino", "divisão", "medos", "persas", "queda"],
-      "personagens": ["Daniel"]
+      "parafrase": "Contudo, apesar de toda a pompa e das promessas grandiosas, nenhum dos magos, astrólogos ou adivinhos presentes conseguiu sequer decifrar as letras escritas na parede, quanto mais interpretar a mensagem divina que elas carregavam. O silêncio e a incapacidade deles apenas aumentaram a tensão no salão.",
+      "referencias": [
+        "Isaías 47:13",
+        "2 Timóteo 3:8"
+      ],
+      "comentario": "Aqui reside o contraste gritante entre a sabedoria humana, tão enaltecida no festim, e a revelação divina. Os astrólogos (que liam os céus) e os magos (que interpretavam presságios) são expostos como impotentes diante da escrita direta de Deus. Eles podiam ler o futuro nos astros, mas não podiam ler a sentença de Deus na parede.",
+      "temas": [
+        "Inutilidade da Sabedoria Humana",
+        "Revelação Divina",
+        "Julgamento dos Idólatras"
+      ],
+      "personagens": [
+        "Sábios Caldeus"
+      ]
     },
     "29": {
-      "parafrase": "Então Belsazar ordenou, e eles vestiram Daniel de púrpura, e puseram um colar de ouro em seu pescoço, e fizeram uma proclamação a respeito dele, que ele deveria governar como o terceiro no reino.",
-      "references": [],
-      "comentario": "Belsazar, apesar da mensagem de juízo, cumpre sua promessa e honra Daniel, vestindo-o de púrpura e dando-lhe um colar de ouro. A honra é um reconhecimento da sabedoria de Daniel.",
-      "temas": ["honra", "recompensa", "púrpura", "colar de ouro", "governo"],
-      "personagens": ["Belsazar", "Daniel"]
+      "parafrase": "Então, uma das mulheres da corte (provavelmente a rainha-mãe, que conhecia os feitos passados), interveio na confusão e disse ao rei, lembrando-o de uma história antiga: 'Ó meu senhor, o rei, que a paz esteja contigo! Há um homem no teu reino que possui o espírito dos deuses santos, e que, nos dias de teu pai Nabucodonosor, demonstrou ter sabedoria e entendimento excepcionais para interpretar sonhos e resolver enigmas difíceis. Manda chamá-lo!'",
+      "referencias": [
+        "Daniel 1:17",
+        "Jó 5:2"
+      ],
+      "comentario": "A intervenção feminina (tradicionalmente identificada como a Rainha Mãe, Nitócris, em interpretações) traz a memória a intervenção anterior de Deus através de Daniel. Ela evoca a autoridade de Nabucodonosor, lembrando Belsazar que o poder passado de seu antecessor reconheceu Daniel como alguém com 'espírito divino' (רוּחַ אֱלָהִין קַדִּישִׁין, *ruach elahin qaddishin*).",
+      "temas": [
+        "Memória Histórica",
+        "Reconhecimento da Verdadeira Sabedoria",
+        "Mediação"
+      ],
+      "personagens": [
+        "Rainha",
+        "Belsazar",
+        "Daniel",
+        "Nabucodonosor"
+      ]
     },
     "30": {
-      "parafrase": "Naquela mesma noite, Belsazar, rei dos caldeus, foi morto.",
-      "references": [],
-      "comentario": "Na mesma noite do banquete, Belsazar é morto, cumprindo a profecia de Daniel. A queda da Babilônia é súbita e violenta.",
-      "temas": ["morte", "Belsazar", "profecia cumprida", "queda", "violência"],
-      "personagens": ["Belsazar"]
+      "parafrase": "Imediatamente, enquanto a festa ainda estava em pleno andamento e o pânico se instalava, Belsazar ordenou que Daniel fosse trazido à sua presença. E assim, o profeta, que estava em exílio ou talvez vivendo em reclusão, foi conduzido para o meio do salão real, repleto de confusão e temor. 🏃💨",
+      "referencias": [
+        "Daniel 2:25",
+        "Atos 7:22"
+      ],
+      "comentario": "A rapidez da convocação ('imediatamente') sublinha a urgência da crise. Daniel é trazido diretamente do anonimato para o centro do palco do julgamento. Ele representa a voz da retidão e da profecia que irrompe no meio da orgia pagã e da arrogância desmedida.",
+      "temas": [
+        "Chamado ao Dever",
+        "Contraste entre Santos e Ímpios",
+        "Intervenção Divina"
+      ],
+      "personagens": [
+        "Belsazar",
+        "Daniel"
+      ]
     },
     "31": {
-      "parafrase": "E Dario, o medo, recebeu o reino, tendo cerca de sessenta e dois anos de idade.",
-      "references": [],
-      "comentario": "Dario, o medo, assume o reino, marcando o fim do Império Babilônico e o início do Império Medo-Persa. A sucessão de impérios é um cumprimento da profecia da imagem.",
-      "temas": ["Dario", "medo", "reino", "sucessão", "Império Medo-Persa"],
-      "personagens": ["Dario"]
+      "parafrase": "No mesmo instante em que Daniel entrou, a mão misteriosa que escrevia na parede pareceu desaparecer, mas o rei, cheio de expectativa sombria, dirigiu-se ao profeta e repetiu a promessa feita a todos os outros: 'Se você conseguir ler as palavras e me dizer o que elas significam, você receberá as mesmas honras reais, o ouro e o poder de ser o terceiro em comando neste vasto império!' 💰",
+      "referencias": [
+        "Daniel 6:3",
+        "Jeremias 51:64"
+      ],
+      "comentario": "Belsazar, ainda preso à sua mentalidade materialista, reafirma a oferta, presumivelmente sem ter compreendido que Daniel não servia por recompensa humana, mas por fidelidade a Deus. O rei mantém a mesma falha de raciocínio: tentar comprar a verdade divina. A promessa é a mesma, mas o receptor é diferente: um homem de Deus, não um sábio mundano.",
+      "temas": [
+        "Fidelidade vs. Recompensa",
+        "Confiança no Poder Humano",
+        "O Preço da Verdade"
+      ],
+      "personagens": [
+        "Belsazar",
+        "Daniel"
+      ]
     }
   }
 }

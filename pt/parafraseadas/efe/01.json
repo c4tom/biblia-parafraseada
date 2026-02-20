@@ -1,169 +1,374 @@
 {
   "livro": "Efésios",
   "capitulo": 1,
-  "contexto_historico": "A Epístola aos Efésios foi escrita por Paulo enquanto estava preso em Roma, por volta de 60-62 d.C. É uma carta que se destaca por sua profunda teologia sobre a igreja como o corpo de Cristo e o plano eterno de Deus para unir todas as coisas em Cristo. Neste capítulo, Paulo inicia com uma doxologia, louvando a Deus por suas bênçãos espirituais em Cristo, que incluem a eleição, a adoção, a redenção, o perdão, a revelação do mistério de sua vontade e o selo do Espírito Santo.",
-  "bloco_tematico": "Bênçãos Espirituais em Cristo e o Plano Eterno de Deus",
+  "contexto_historico": "A carta de Paulo aos Efésios foi escrita enquanto ele estava preso em Roma (cerca de 60-62 d.C.). A comunidade de Éfeso era uma igreja mista, composta por judeus e gentios, que haviam sido recentemente trazidos para Cristo. O contexto imediato da carta é a necessidade de instruir essas igrejas sobre a unidade em Cristo, a identidade gloriosa do crente e a nova vida que devem viver em resposta a essa obra salvadora. Paulo estabelece a base teológica para uma vida prática de santidade e unidade, enfatizando que a salvação e a herança espiritual são um dom de Deus para todos em Cristo. 🏛️ Riqueza espiritual e herança em Cristo.",
+  "bloco_tematico": "A Exaltação e a Identidade do Crente em Cristo: Bênçãos Espirituais e a União de Judeus e Gentios (Efésios 1:1-2:22) 🌟📖",
   "versiculos": {
     "1": {
-      "parafrase": "Paulo, apóstolo de Cristo Jesus pela vontade de Deus, aos santos que estão em Éfeso e fiéis em Cristo Jesus:",
-      "referencias": ["1 Coríntios 1:1", "Colossenses 1:1"],
-      "comentario": "Paulo se apresenta com sua autoridade apostólica, enfatizando que seu chamado é pela vontade de Deus. A carta é endereçada aos crentes em Éfeso, que são descritos como santos e fiéis em Cristo Jesus, destacando sua identidade e posição em Cristo.",
-      "temas": ["identidade apostólica", "chamado divino", "santos", "fiéis em Cristo"],
-      "personagens": ["Paulo", "Cristo Jesus", "Deus"]
+      "parafrase": "Paulo, um apóstolo escolhido por Cristo Jesus, não por acidente ou escolha humana, mas pela vontade soberana do próprio Deus, envia esta mensagem solene. O destinatário são os santos fiéis que estão em Éfeso e que demonstraram sua fé leal no Senhor Jesus Cristo.",
+      "referencias": [
+        "Romanos 1:1",
+        "1 Coríntios 1:1"
+      ],
+      "comentario": "O versículo estabelece imediatamente a autoridade apostólica de Paulo ('apóstolo pela vontade de Deus') e a identidade dos destinatários ('santos' - hagioi - aqueles separados para Deus) e sua localização ('em Éfeso'). A expressão 'vontade de Deus' destaca a origem divina de sua missão.",
+      "temas": [
+        "Autoridade Apostólica",
+        "Chamado Divino",
+        "Identidade da Igreja"
+      ],
+      "personagens": [
+        "Paulo",
+        "Santos em Éfeso"
+      ]
     },
     "2": {
-      "parafrase": "Graça e paz a vocês, da parte de Deus, nosso Pai, e do Senhor Jesus Cristo.",
-      "referencias": ["Romanos 1:7"],
-      "comentario": "A saudação padrão de Paulo, desejando graça (favor imerecido de Deus) e paz (reconciliação com Deus e harmonia interior), que vêm do Pai e do Filho.",
-      "temas": ["graça", "paz", "bênção"],
-      "personagens": ["Deus", "Pai", "Senhor Jesus Cristo"]
+      "parafrase": "Que a graça divina, um favor imerecido e poderoso, e a paz que vem de Deus, nosso Pai, e do Senhor Jesus Cristo, sejam derramadas abundantemente sobre vocês, fortalecendo sua vida e unindo seus corações.",
+      "referencias": [
+        "2 Coríntios 1:2",
+        "Gálatas 1:3"
+      ],
+      "comentario": "A saudação padrão paulina: 'Graça' (charis) e 'Paz' (eirēnē). A graça é a fonte da salvação, e a paz é o resultado dessa graça, ligando Deus Pai e o Senhor Jesus Cristo como fontes da bênção.",
+      "temas": [
+        "Graça",
+        "Paz",
+        "Saudação"
+      ],
+      "personagens": [
+        "Deus Pai",
+        "Senhor Jesus Cristo"
+      ]
     },
     "3": {
-      "parafrase": "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, que nos abençoou com todas as bênçãos espirituais nos lugares celestiais em Cristo.",
-      "referencias": ["2 Coríntios 1:3", "1 Pedro 1:3"],
-      "comentario": "Paulo inicia com uma doxologia, louvando a Deus por suas bênçãos espirituais, que são concedidas em Cristo e nos lugares celestiais. As bênçãos são espirituais, não materiais, e são encontradas em Cristo.",
-      "temas": ["doxologia", "bênçãos espirituais", "lugares celestiais", "em Cristo"],
-      "personagens": ["Deus", "Pai", "Senhor Jesus Cristo"]
+      "parafrase": "Devemos exaltar e bendizer ao Deus e Pai do nosso Senhor Jesus Cristo! Este Deus é tão magnífico que, antes mesmo de o mundo ser criado, Ele nos abençoou com toda sorte de bênçãos espirituais profundas, vindas dos reinos celestiais.",
+      "referencias": [
+        "2 Coríntios 1:3",
+        "1 Pedro 1:3"
+      ],
+      "comentario": "Introduz o tema da bênção (eulogia). O ponto crucial é a predestinação temporal: Deus nos abençoou espiritualmente 'antes da fundação do mundo' (pro katabolēs kosmou). As bênçãos são 'espirituais' (pneumatikas) e celestiais ('nos lugares celestiais' - en tois epouraniois).",
+      "temas": [
+        "Louvor",
+        "Bênçãos Espirituais",
+        "Predestinação"
+      ],
+      "personagens": [
+        "Deus Pai"
+      ]
     },
     "4": {
-      "parafrase": "Assim como nos escolheu nele antes da fundação do mundo, para sermos santos e irrepreensíveis diante dele em amor.",
-      "referencias": ["Romanos 8:29", "2 Tessalonicenses 2:13"],
-      "comentario": "A eleição de Deus é eterna e incondicional, feita antes da criação do mundo. O propósito da eleição é a santidade e a irrepreensibilidade, que são alcançadas em amor. A eleição é para um relacionamento com Deus.",
-      "temas": ["eleição divina", "antes da fundação do mundo", "santidade", "irrepreensibilidade", "amor"],
-      "personagens": ["Deus"]
+      "parafrase": "Pois, nesta escolha divina, Ele nos elegeu em Cristo antes de tudo existir, com o propósito supremo de que fôssemos santos, irrepreensíveis e marcados pelo amor diante dEle.",
+      "referencias": [
+        "Romanos 8:29",
+        "1 Pedro 1:15-16"
+      ],
+      "comentario": "O propósito da bênção celestial é a santidade (hagiōsis) e a ausência de culpa ('sem defeito' ou 'sem mancha' - amōmos) no amor de Deus. Esta eleição é 'em Cristo' (en Christō).",
+      "temas": [
+        "Eleição",
+        "Santidade",
+        "Amor de Deus"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "5": {
-      "parafrase": "Ele nos predestinou para sermos adotados como filhos, por meio de Jesus Cristo, segundo o beneplácito da sua vontade,",
-      "referencias": ["Romanos 8:15"],
-      "comentario": "A predestinação de Deus é para a adoção como filhos, por meio de Jesus Cristo. A adoção é um ato de graça, baseado na boa vontade de Deus, não em qualquer mérito humano.",
-      "temas": ["predestinação", "adoção", "Jesus Cristo", "beneplácito da vontade de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Ele nos destinou, de acordo com o Seu desejo e prazer soberano, a sermos adotados como Seus próprios filhos, por meio de Jesus Cristo.",
+      "referencias": [
+        "Romanos 8:15",
+        "Gálatas 4:5"
+      ],
+      "comentario": "A predestinação culmina na adoção (huiothesia - o ato de ser feito filho). Este ato reflete o 'bom prazer' (eudokia) da vontade de Deus, reforçando a soberania de Sua escolha.",
+      "temas": [
+        "Adoção Filial",
+        "Soberania Divina",
+        "Propósito"
+      ],
+      "personagens": [
+        "Jesus Cristo"
+      ]
     },
     "6": {
-      "parafrase": "para louvor da glória da sua graça, a qual ele nos concedeu gratuitamente no Amado.",
-      "referencias": ["Romanos 3:24"],
-      "comentario": "O propósito final de todas as bênçãos de Deus é o louvor da glória de sua graça. A graça é concedida gratuitamente em Cristo, o Amado, que é o objeto do amor de Deus.",
-      "temas": ["louvor da glória da graça", "graça gratuita", "Amado"],
-      "personagens": ["Deus"]
+      "parafrase": "Tudo isso foi planejado para que recebêssemos a glória da Sua graça, um dom maravilhoso que Ele nos concedeu livremente por meio daquele que Ele ama profundamente, nosso amado Jesus.",
+      "referencias": [
+        "Romanos 3:24",
+        "2 Tessalonicenses 1:12"
+      ],
+      "comentario": "O objetivo da adoção é a 'louvor da glória da Sua graça' (eis epainon tēs doxēs tou charismatos autou). O dom (charisma) é dado através do 'Amado' (ho ēgapēmenos), uma referência clara a Cristo.",
+      "temas": [
+        "Glória",
+        "Graça",
+        "Amado"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "7": {
-      "parafrase": "Nele temos a redenção por meio do seu sangue, o perdão dos pecados, de acordo com as riquezas da graça de Deus,",
-      "referencias": ["Colossenses 1:14", "Hebreus 9:22"],
-      "comentario": "A redenção e o perdão dos pecados são alcançados por meio do sangue de Cristo, que é o preço pago pela nossa salvação. Tudo isso é de acordo com as riquezas da graça de Deus, que é abundante e generosa.",
-      "temas": ["redenção", "sangue de Cristo", "perdão dos pecados", "riquezas da graça de Deus"],
-      "personagens": ["Deus", "Cristo"]
+      "parafrase": "Nele, temos a redenção, ou seja, a libertação do cativeiro, alcançada pelo derramamento do Seu sangue. E essa libertação implica o perdão completo de todas as nossas transgressões, conforme a riqueza imensurável da Sua graça!",
+      "referencias": [
+        "Colossenses 1:14",
+        "Hebreus 9:22"
+      ],
+      "comentario": "O meio pelo qual a graça se torna efetiva é a 'redenção' (apolutrōsis) pelo Seu sangue. O perdão (aphesis) das ofensas é diretamente proporcional à 'riqueza' (ploutos) da Sua graça.",
+      "temas": [
+        "Redenção",
+        "Sangue de Cristo",
+        "Perdão"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "8": {
-      "parafrase": "que ele derramou abundantemente sobre nós em toda sabedoria e entendimento,",
-      "referencias": ["Colossenses 1:9"],
-      "comentario": "A graça de Deus é derramada abundantemente sobre nós, acompanhada de sabedoria e entendimento. A sabedoria e o entendimento são dons que nos capacitam a compreender o plano de Deus.",
-      "temas": ["graça abundante", "sabedoria", "entendimento", "dons"],
-      "personagens": ["Deus"]
+      "parafrase": "Essa graça foi derramada sobre nós com toda a sabedoria e inteligência, revelando o mistério profundo do Seu propósito que Ele havia mantido em segredo.",
+      "referencias": [
+        "Colossenses 2:2-3",
+        "Provérbios 2:6"
+      ],
+      "comentario": "A manifestação da graça é acompanhada de sabedoria ('sophia') e entendimento ('phronēsis'). Deus revelou o 'mistério' (mysterion) do Seu plano, que antes estava oculto.",
+      "temas": [
+        "Sabedoria",
+        "Mistério Divino",
+        "Revelação"
+      ],
+      "personagens": []
     },
     "9": {
-      "parafrase": "fazendo-nos conhecer o mistério da sua vontade, segundo o seu beneplácito, que ele propôs em si mesmo,",
-      "referencias": ["Romanos 16:25-26"],
-      "comentario": "Deus nos revelou o mistério de sua vontade, que é o seu plano eterno de salvação. Esse plano foi proposto em si mesmo, mostrando sua soberania e seu propósito.",
-      "temas": ["mistério da vontade de Deus", "beneplácito", "plano eterno", "soberania"],
-      "personagens": ["Deus"]
+      "parafrase": "Este mistério é o desígnio que Ele estabeleceu há muito tempo, um plano que Ele concebeu em Si mesmo, baseado unicamente no Seu bom desejo e na Sua vontade soberana.",
+      "referencias": [
+        "Romanos 16:25-26",
+        "Atos 15:18"
+      ],
+      "comentario": "O mistério é definido como o plano (prothesis) que Ele firmou em Si mesmo ('em si mesmo' - en autō), destacando que a origem de toda a economia da salvação está centrada em Deus.",
+      "temas": [
+        "Plano Divino",
+        "Vontade",
+        "Mistério"
+      ],
+      "personagens": []
     },
     "10": {
-      "parafrase": "para a dispensação da plenitude dos tempos, de reunir em Cristo todas as coisas, tanto as que estão nos céus quanto as que estão na terra.",
-      "referencias": ["Colossenses 1:20"],
-      "comentario": "O propósito final do plano de Deus é reunir todas as coisas em Cristo, tanto as celestiais quanto as terrestres. Cristo é o centro de toda a criação e de toda a história.",
-      "temas": ["dispensação da plenitude dos tempos", "reunir em Cristo", "todas as coisas", "centro de tudo"],
-      "personagens": ["Cristo"]
+      "parafrase": "E este plano grandioso está prestes a ser plenamente revelado no tempo perfeito, visando reunir todas as coisas sob a autoridade suprema de Cristo, tanto aquilo que está no céu quanto aquilo que está na terra.",
+      "referencias": [
+        "Filipenses 2:10",
+        "Apocalipse 21:5"
+      ],
+      "comentario": "O ponto culminante do plano é a 'administração da plenitude dos tempos' (oikonomia tou plērōmatos tōn kairōn), que culmina na unificação ('reunir em um só corpo' - anakephalaiōsasthai) de todas as coisas sob Cristo, o Chefe.",
+      "temas": [
+        "Cristo como Cabeça",
+        "Plenitude dos Tempos",
+        "Unificação"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "11": {
-      "parafrase": "Nele, fomos também feitos herança, havendo sido predestinados conforme o propósito daquele que faz todas as coisas segundo o conselho da sua vontade,",
-      "referencias": ["Romanos 8:28"],
-      "comentario": "Os crentes são feitos herança em Cristo, predestinados de acordo com o propósito soberano de Deus. O plano de Deus é infalível e se cumpre de acordo com sua vontade.",
-      "temas": ["herança", "predestinação", "propósito de Deus", "vontade de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Também fomos escolhidos dentro desse plano de Cristo. Fomos predestinados a receber tudo conforme a decisão firme Daquele que executa todas as coisas segundo a Sua própria vontade soberana, para que fôssemos um testemunho vivo do Seu louvor.",
+      "referencias": [
+        "Romanos 8:30",
+        "Provérbios 19:21"
+      ],
+      "comentario": "A aplicação do plano (v. 10) aos crentes. 'Nós' (referindo-se aos judeus cristãos inicialmente) fomos feitos herança ('klēros' - porção/sorte) em Cristo. O motivo é 'para o louvor da Sua glória' (eis epainon tēs doxēs autou).",
+      "temas": [
+        "Herança",
+        "Predestinação",
+        "Louvor"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "12": {
-      "parafrase": "a fim de que nós, que primeiro esperamos em Cristo, sejamos para louvor da sua glória.",
-      "referencias": ["Efésios 1:6"],
-      "comentario": "O propósito final da eleição e da redenção é o louvor da glória de Deus. Os crentes são chamados para glorificar a Deus por sua graça e seu plano.",
-      "temas": ["louvor da glória de Deus", "esperança em Cristo", "propósito"],
-      "personagens": ["Cristo"]
+      "parafrase": "O objetivo era que fôssemos os primeiros, nós que já tínhamos colocado nossa esperança em Cristo, a proclamar a glória e o poder Dele para que todos soubessem quem Ele é.",
+      "referencias": [
+        "Romanos 15:8",
+        "1 Pedro 2:9"
+      ],
+      "comentario": "A expressão 'para que fôssemos nós' (eis to einai hēmas) enfatiza que a experiência da fé deve servir como testemunho da glória de Cristo. Isso se aplica primariamente àqueles que primeiro confiaram (os judeus cristãos).",
+      "temas": [
+        "Testemunho",
+        "Esperança em Cristo",
+        "Glória"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "13": {
-      "parafrase": "Nele, também vocês, tendo ouvido a palavra da verdade, o evangelho da salvação de vocês, e tendo nele crido, foram selados com o Espírito Santo da promessa,",
-      "referencias": ["2 Coríntios 1:22"],
-      "comentario": "Os crentes são selados com o Espírito Santo da promessa, que é a garantia de sua salvação. O Espírito é o penhor da herança futura, e o selo é a marca da propriedade de Deus.",
-      "temas": ["selo do Espírito Santo", "palavra da verdade", "evangelho da salvação", "garantia"],
-      "personagens": ["Espírito Santo"]
+      "parafrase": "E vocês também, que ouviram a mensagem da verdade, o verdadeiro Evangelho que anuncia a salvação, também foram incluídos nesta herança gloriosa. Depois de ouvirem, vocês selaram sua fé em Cristo com o selo do Espírito Santo prometido.",
+      "referencias": [
+        "Gálatas 3:2-5",
+        "Atos 2:38"
+      ],
+      "comentario": "Transição para os gentios ('vocês também'). Eles foram selados ('sphragisthēte') com o Espírito Santo da promessa após crerem ('akousantes ton logon tēs alētheias'). O selo garante a posse e a autenticidade.",
+      "temas": [
+        "Evangelho",
+        "Selamento do Espírito",
+        "Gentios"
+      ],
+      "personagens": [
+        "Espírito Santo"
+      ]
     },
     "14": {
-      "parafrase": "que é a garantia da nossa herança, até a redenção da sua propriedade, para louvor da sua glória.",
-      "referencias": ["Romanos 8:23"],
-      "comentario": "O Espírito Santo é a garantia da nossa herança, que será plenamente realizada na redenção final. O propósito final é o louvor da glória de Deus.",
-      "temas": ["garantia da herança", "redenção", "propriedade de Deus", "louvor da glória de Deus"],
-      "personagens": ["Espírito Santo", "Deus"]
+      "parafrase": "Este Espírito Santo é a garantia, o sinal de que realmente somos propriedade de Deus, um depósito assegurado até o dia em que Ele resgatará plenamente a Sua posse, para que a Sua glória seja totalmente celebrada!",
+      "referencias": [
+        "2 Coríntios 1:22",
+        "Romanos 8:23"
+      ],
+      "comentario": "O Espírito é o 'penhor' (arrhabōn), um adiantamento ou garantia do que está por vir. Esta garantia aponta para a redenção final do povo de Deus ('aperginasthai tēn peripoiēsin autou'), o que glorificará a Deus.",
+      "temas": [
+        "Penhor/Garantia",
+        "Propriedade de Deus",
+        "Redenção Final"
+      ],
+      "personagens": [
+        "Espírito Santo"
+      ]
     },
     "15": {
-      "parafrase": "Por essa razão, eu também, tendo ouvido falar da fé que vocês têm no Senhor Jesus e do amor que demonstram para com todos os santos,",
-      "referencias": ["Colossenses 1:4"],
-      "comentario": "Paulo expressa sua gratidão pela fé e pelo amor dos efésios. A fé no Senhor Jesus e o amor pelos santos são evidências de sua verdadeira conversão.",
-      "temas": ["fé no Senhor Jesus", "amor pelos santos", "gratidão"],
-      "personagens": ["Paulo", "Senhor Jesus"]
+      "parafrase": "É por causa disso, de tudo que lhes disse sobre o plano de Deus, que eu não paro de dar graças por vocês, assim que ouvi falar da fé firme que vocês têm no Senhor Jesus.",
+      "referencias": [
+        "Filipenses 1:3",
+        "1 Tessalonicenses 1:7-8"
+      ],
+      "comentario": "Paulo inicia a seção de oração. A motivação da ação de graças ('eucharistia') é dupla: a fé ('pistis') em Jesus e o amor ('agapē') demonstrado a todos os santos.",
+      "temas": [
+        "Ação de Graças",
+        "Fé",
+        "Amor"
+      ],
+      "personagens": [
+        "Paulo",
+        "Senhor Jesus"
+      ]
     },
     "16": {
-      "parafrase": "não cesso de dar graças por vocês, lembrando-me de vocês em minhas orações.",
-      "referencias": ["Romanos 1:9"],
-      "comentario": "Paulo ora continuamente pelos efésios, demonstrando seu cuidado pastoral e sua dedicação à oração intercessória.",
-      "temas": ["oração intercessória", "gratidão", "cuidado pastoral"],
-      "personagens": ["Paulo"]
+      "parafrase": "Eu não cesso de interceder por vocês, agradecendo constantemente ao meu Deus por cada vez que me lembro de vocês em minhas orações silenciosas.",
+      "referencias": [
+        "Filipenses 4:6",
+        "1 Tessalonicenses 5:17"
+      ],
+      "comentario": "Distingue-se a ação de graças (v. 15) da intercessão contínua ('adiaplēstōs' - sem cessar). A lembrança constante ('mnēmē') é o gatilho para a oração.",
+      "temas": [
+        "Oração Constante",
+        "Intercessão",
+        "Memória"
+      ],
+      "personagens": []
     },
     "17": {
-      "parafrase": "Peço que o Deus de nosso Senhor Jesus Cristo, o Pai da glória, lhes dê espírito de sabedoria e de revelação no pleno conhecimento dele.",
-      "referencias": ["Colossenses 1:9"],
-      "comentario": "Paulo ora para que Deus lhes conceda sabedoria e revelação, para que possam ter um conhecimento mais profundo de Deus. O conhecimento de Deus é essencial para o crescimento espiritual.",
-      "temas": ["espírito de sabedoria", "revelação", "conhecimento de Deus", "crescimento espiritual"],
-      "personagens": ["Deus", "Senhor Jesus Cristo", "Pai da glória"]
+      "parafrase": "Peço que o Deus glorioso, o Pai de nosso Senhor Jesus Cristo, que é a verdadeira Fonte de toda sabedoria e revelação, lhes conceda um espírito de profunda revelação e conhecimento dEle.",
+      "referencias": [
+        "Tiago 1:5",
+        "Colossenses 1:9"
+      ],
+      "comentario": "O foco da oração é a concessão do 'espírito de sabedoria e revelação' (pneuma sophias kai apokalypsēos). O termo grego para 'revelação' é 'apokalypsis', ligando-se aos mistérios mencionados antes (v. 9-10).",
+      "temas": [
+        "Sabedoria",
+        "Revelação",
+        "Conhecimento de Deus"
+      ],
+      "personagens": [
+        "Deus Glorioso",
+        "Jesus Cristo"
+      ]
     },
     "18": {
-      "parafrase": "Oro também para que os olhos do coração de vocês sejam iluminados, a fim de que vocês conheçam a esperança para a qual ele os chamou, as riquezas da gloriosa herança dele nos santos,",
-      "referencias": ["Efésios 2:12"],
-      "comentario": "Paulo ora para que os efésios tenham uma compreensão mais profunda da esperança de seu chamado e das riquezas de sua herança em Cristo. A iluminação do coração é essencial para a compreensão espiritual.",
-      "temas": ["olhos do coração iluminados", "esperança do chamado", "riquezas da herança", "santos"],
-      "personagens": ["Deus"]
+      "parafrase": "Que os olhos do entendimento de vocês sejam iluminados, para que possam compreender a verdadeira esperança que a Sua chamada lhes trouxe, e a riqueza espantosa da glória que Ele reservou para os Seus herdeiros santos.",
+      "referencias": [
+        "2 Coríntios 4:18",
+        "Hebreus 6:18"
+      ],
+      "comentario": "O objeto da revelação é triplo: 1. A esperança da vocação ('elpis tēs klēroseōs autou'). 2. A glória da herança. A iluminação é no 'coração' (kardia) através dos 'olhos do entendimento'.",
+      "temas": [
+        "Entendimento Iluminado",
+        "Esperança da Vocação",
+        "Glória da Herança"
+      ],
+      "personagens": []
     },
     "19": {
-      "parafrase": "e a incomparável grandeza do seu poder para conosco, os que cremos, conforme a atuação da sua poderosa força.",
-      "referencias": ["Efésios 3:7"],
-      "comentario": "Paulo ora para que eles compreendam a grandeza do poder de Deus que opera nos crentes. O poder de Deus é incomparável e se manifesta na vida daqueles que creem.",
-      "temas": ["grandeza do poder de Deus", "atuação da força", "crentes"],
-      "personagens": ["Deus"]
+      "parafrase": "E, mais importante, que vocês compreendam a grandeza incomparável do poder que Ele exerce a nosso favor, os que cremos, um poder que é absolutamente imenso e ilimitado.",
+      "referencias": [
+        "Filipenses 3:10",
+        "Colossenses 1:29"
+      ],
+      "comentario": "O foco muda para o poder de Deus ('dynamis'). Este poder é descrito com adjetivos intensos: 'supereminente' (hyperballousa) e 'imensurável' (kath' hyperbolēn). Este é o poder ativo na vida do crente.",
+      "temas": [
+        "Poder de Deus",
+        "Incomparável Força",
+        "Crentes"
+      ],
+      "personagens": []
     },
     "20": {
-      "parafrase": "Esse poder ele exerceu em Cristo, ressuscitando-o dos mortos e fazendo-o assentar à sua direita nos lugares celestiais,",
-      "referencias": ["Romanos 8:11", "Colossenses 3:1"],
-      "comentario": "O poder de Deus é demonstrado na ressurreição de Cristo e em sua exaltação à direita de Deus. A ressurreição de Cristo é a garantia da nossa própria ressurreição e exaltação.",
-      "temas": ["poder de Deus", "ressurreição de Cristo", "exaltação de Cristo", "lugares celestiais"],
-      "personagens": ["Deus", "Cristo"]
+      "parafrase": "Este é o mesmo poder extraordinário que Deus demonstrou em Cristo, quando o ressuscitou dentre os mortos, colocando-o em posição de domínio absoluto sobre todos os poderes e autoridades no universo.",
+      "referencias": [
+        "Romanos 6:4",
+        "1 Pedro 3:22"
+      ],
+      "comentario": "O poder ativo é exemplificado pela ressurreição de Cristo ('egeiras auton ek nekrōn'). A ressurreição culmina na ascensão e exaltação de Cristo ('kathisantes en tois dexia autou' - assentando-o à Sua direita).",
+      "temas": [
+        "Ressurreição de Cristo",
+        "Exaltação",
+        "Autoridade Suprema"
+      ],
+      "personagens": [
+        "Cristo",
+        "Deus"
+      ]
     },
     "21": {
-      "parafrase": "muito acima de todo principado, autoridade, poder e domínio, e de todo nome que se possa mencionar, não apenas nesta era, mas também na que há de vir.",
-      "referencias": ["Filipenses 2:9-10", "Colossenses 2:10"],
-      "comentario": "A exaltação de Cristo é suprema, acima de todas as autoridades e poderes, tanto no presente quanto no futuro. Ele é o Senhor de tudo.",
-      "temas": ["exaltação de Cristo", "supremacia de Cristo", "principados", "autoridades", "poderes", "domínios"],
-      "personagens": ["Cristo"]
+      "parafrase": "Cristo está sentado no trono, soberano sobre todo principado, toda autoridade, todo poder e todo domínio, não só neste tempo presente, mas também na era que está por vir.",
+      "referencias": [
+        "Colossenses 1:16",
+        "1 Pedro 3:22"
+      ],
+      "comentario": "O escopo do domínio de Cristo é cósmico e eterno. Ele está acima de todos os 'principados' (archē), 'poderes' (exousia), 'poderes' (dynamis) e 'domínios' (kyriotēta). Estes termos são frequentemente usados para descrever hierarquias espirituais, sejam elas boas ou más.",
+      "temas": [
+        "Soberania de Cristo",
+        "Domínio Cósmico",
+        "Autoridades"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "22": {
-      "parafrase": "Deus colocou todas as coisas debaixo dos seus pés e o designou cabeça sobre todas as coisas para a igreja,",
-      "referencias": ["Salmos 8:6", "Efésios 5:23"],
-      "comentario": "Deus sujeitou todas as coisas a Cristo e o fez cabeça sobre todas as coisas para o benefício da igreja. A igreja é o corpo de Cristo, e Ele é a sua cabeça.",
-      "temas": ["sujeição de todas as coisas", "cabeça da Igreja", "corpo de Cristo"],
-      "personagens": ["Deus", "Cristo"]
+      "parafrase": "E Deus Pai colocou tudo, absolutamente tudo, sob os pés de Cristo, e o constituiu como Cabeça suprema e incontestável da Igreja.",
+      "referencias": [
+        "1 Coríntios 15:27",
+        "Hebreus 2:8"
+      ],
+      "comentario": "O ato de sujeitar tudo é uma alusão direta ao Salmo 8:6. Cristo é nomeado a 'Cabeça' (kephalē) da Igreja, que é identificada como Seu 'Corpo' no versículo seguinte, definindo Sua autoridade sobre a comunidade de fé.",
+      "temas": [
+        "Sujeição a Cristo",
+        "Cabeça da Igreja",
+        "Corpo de Cristo"
+      ],
+      "personagens": [
+        "Deus Pai",
+        "Cristo",
+        "Igreja"
+      ]
     },
     "23": {
-      "parafrase": "que é o seu corpo, a plenitude daquele que preenche tudo em todos.",
-      "referencias": ["Colossenses 1:18"],
-      "comentario": "A igreja é o corpo de Cristo, e ela é a plenitude daquele que preenche tudo em todos. A igreja é a manifestação visível de Cristo no mundo, e ela é preenchida por Ele.",
-      "temas": ["corpo de Cristo", "plenitude de Cristo", "manifestação de Cristo"],
-      "personagens": ["Cristo"]
+      "parafrase": "A Igreja, por sua vez, é o corpo de Cristo, a totalidade daqueles que foram reunidos. Ela é preenchida por Aquele que preenche tudo em todos os lugares, a plenitude perfeita de Cristo que permeia toda a existência.",
+      "referencias": [
+        "Colossenses 1:18",
+        "1 Coríntios 12:27"
+      ],
+      "comentario": "Define a Igreja como o 'Corpo' (sōma) de Cristo. A Igreja é 'enchida' (to plērōma) por Aquele que é 'Tudo em Todos' ('ta panta en pasin'). O 'plērōma' aqui se refere ao preenchimento que Cristo provê à Sua Igreja, não a Cristo sendo preenchido por algo.",
+      "temas": [
+        "Igreja como Corpo",
+        "Plenitude (Plērōma)",
+        "Unidade"
+      ],
+      "personagens": [
+        "Cristo",
+        "Igreja"
+      ]
     }
   }
 }

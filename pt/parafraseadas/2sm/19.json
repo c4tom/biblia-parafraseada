@@ -1,309 +1,741 @@
 {
   "livro": "2 Samuel",
   "capitulo": 19,
-  "contexto_historico": "Após a morte de Absalão e a vitória das forças de Davi, o rei está em profundo luto, o que desmoraliza seu exército e o povo. Este capítulo narra a intervenção de Joabe para que Davi retome suas responsabilidades como rei, o retorno de Davi a Jerusalém e as complexas negociações e reconciliações com as tribos de Israel, especialmente Judá e Benjamim, que haviam apoiado Absalão.",
-  "bloco_tematico": "O Retorno de Davi a Jerusalém e a Reconciliação",
+  "contexto_historico": "Após a morte de Saul e a ascensão de Davi como rei de Judá, e subsequente unificação de Israel sob seu reinado, o Reino Unido de Israel experimenta um período de consolidação de poder. Contudo, a paz interna é ameaçada pelas consequências das ações passadas de Davi. Este capítulo específico foca na crise gerada pela rebelião de Absalão, filho de Davi, que utiliza a injustiça percebida (como a vingança contra Hamor e Siquém, ou o caso de Amnom e Tamar) e a ausência/negligência percebida do rei para ganhar apoio popular e usurpar o trono. O contexto imediato é a fuga humilhante de Davi de Jerusalém.",
+  "bloco_tematico": "A Humilhação Real e a Traição Familiar 🏃‍♂️👑💔",
   "versiculos": {
     "1": {
-      "parafrase": "Foi contado a Joabe: 'Eis que o rei está chorando e lamentando por Absalão.'",
-      "referencias": [],
-      "comentario": "A notícia do luto inconsolável de Davi pela morte de Absalão chega a Joabe, que percebe o impacto negativo na moral do exército e na percepção da vitória.",
-      "temas": ["luto", "liderança", "moral"],
-      "personagens": ["Joabe", "Davi", "Absalão"]
+      "parafrase": "Ao saber Davi que o povo estava reunido e ansioso por ele, saiu da cidade e se assentou à entrada do portão principal, esperando o momento certo para o encontro. A multidão, sedenta por notícias e por ver seu rei, aguardava com grande expectativa o pronunciamento oficial sobre a recente vitória e a paz restaurada no reino.",
+      "referencias": [
+        "2 Samuel 18:4",
+        "2 Samuel 19:8"
+      ],
+      "comentario": "A ação imediata de Davi de ir ao portão, em vez de esperar que o povo viesse até ele em Jerusalém, demonstra liderança humilde e acessível. O 'portão' (Heb. *sha'ar*) era o centro da vida pública, administrativa e judicial da cidade. Davi se coloca ali para receber a nação.",
+      "temas": [
+        "Liderança",
+        "Reconciliação",
+        "Acessibilidade do Rei"
+      ],
+      "personagens": [
+        "Davi"
+      ]
     },
     "2": {
-      "parafrase": "E a vitória daquele dia se transformou em luto para todo o povo, pois o povo ouviu dizer naquele dia: 'O rei está angustiado por seu filho.'",
-      "referencias": [],
-      "comentario": "A alegria da vitória é ofuscada pela tristeza do rei, desmoralizando o exército que lutou por ele. A dor pessoal de Davi se sobrepõe à celebração nacional.",
-      "temas": ["luto", "desmoralização", "vitória agridoce"],
-      "personagens": ["Povo de Davi", "Davi"]
+      "parafrase": "Então, aqueles que haviam retornado da perseguição e da batalha se aproximaram dele e trouxeram a notícia: 'Vimos que o Senhor garantiu a vitória ao nosso rei! O povo rebelde de Absalão foi totalmente disperso!'",
+      "referencias": [
+        "2 Samuel 18:8",
+        "Salmos 3:7-8"
+      ],
+      "comentario": "O povo atribui a vitória explicitamente a Deus ('o Senhor garantiu a vitória'), reconhecendo que a derrota de Absalão não foi mérito militar humano, mas intervenção divina. Isso valida a posição de Davi como rei ungido.",
+      "temas": [
+        "Vitória Divina",
+        "Reconhecimento de Deus"
+      ],
+      "personagens": [
+        "Davi",
+        "Os homens de Israel"
+      ]
     },
     "3": {
-      "parafrase": "O povo entrou na cidade furtivamente naquele dia, como o povo que está envergonhado quando foge da batalha.",
-      "referencias": [],
-      "comentario": "Os soldados de Davi, que deveriam ser celebrados como vitoriosos, se sentem envergonhados e entram na cidade como se tivessem sido derrotados, devido ao luto do rei.",
-      "temas": ["vergonha", "desmoralização", "percepção"],
-      "personagens": ["Povo de Davi"]
+      "parafrase": "Mas Davi, em meio à alegria da vitória, respondeu com uma profunda tristeza, ignorando os aplausos: 'Meus filhos, meus filhos, por que esta alegria prematura? O meu coração está de luto por causa do que aconteceu com Absalão!'",
+      "referencias": [
+        "2 Samuel 18:33",
+        "Miquéias 7:18"
+      ],
+      "comentario": "Este é o cerne emocional do capítulo. Davi contrasta a vitória política com a perda pessoal. O lamento por Absalão (seu filho, mesmo sendo um rebelde) demonstra sua natureza humana e seu amor paternal, ofuscando o triunfo militar para a multidão. A repetição 'meus filhos, meus filhos' expressa dor intensa.",
+      "temas": [
+        "Luto Pessoal",
+        "Conflito Pessoal vs. Público",
+        "Paternidade"
+      ],
+      "personagens": [
+        "Davi",
+        "Absalão"
+      ]
     },
     "4": {
-      "parafrase": "O rei cobriu o rosto e clamou em alta voz: 'Meu filho Absalão! Ó Absalão, meu filho, meu filho!'",
-      "referencias": ["2 Samuel 18:33"],
-      "comentario": "Davi continua seu lamento público e inconsolável, expressando a profundidade de sua dor paternal.",
-      "temas": ["luto profundo", "dor paternal"],
-      "personagens": ["Davi", "Absalão"]
+      "parafrase": "E, assim que terminou de falar, os soldados que voltavam da luta, sentindo-se desvalorizados e frustrados, entraram na cidade, agindo de forma rude e insensível. Eles estavam exultantes pela salvação do reino, mas sentiam que seu sacrifício e a coragem demonstrada não eram o foco do rei.",
+      "referencias": [
+        "Jó 19:2",
+        "Filipenses 2:3"
+      ],
+      "comentario": "A reação dos soldados é um choque de realidade. Eles esperavam louvor pela vitória, mas encontraram o rei imerso em luto. Sua entrada 'de modo grosseiro' (ou 'com vergonha' em algumas leituras, devido à mudança de foco) reflete o desapontamento por não serem a prioridade do rei naquele momento.",
+      "temas": [
+        "Desilusão",
+        "Prioridades do Liderança",
+        "Reconhecimento do Serviço"
+      ],
+      "personagens": [
+        "Davi",
+        "Os soldados"
+      ]
     },
     "5": {
-      "parafrase": "Então Joabe entrou na casa do rei e disse: 'Hoje você envergonhou o rosto de todos os seus servos, que hoje salvaram sua vida, a vida de seus filhos e filhas, a vida de suas esposas e a vida de suas concubinas.'",
-      "referencias": [],
-      "comentario": "Joabe, em sua franqueza e pragmatismo, confronta Davi, repreendendo-o por sua atitude. Ele argumenta que o luto excessivo de Davi está desonrando e desmoralizando aqueles que arriscaram suas vidas por ele.",
-      "temas": ["confronto", "repreensão", "pragmatismo", "desonra"],
-      "personagens": ["Joabe", "Davi"]
+      "parafrase": "Então, o comandante Joabe, vendo o estado de espírito do rei, foi até ele e o repreendeu severamente: 'O que está fazendo? Você está nos humilhando publicamente! Você age como se estivesse grato àqueles que o odiavam, enquanto despreza aqueles que arriscaram suas vidas por você e por seus filhos e filhas!'",
+      "referencias": [
+        "Jonas 4:4",
+        "Romanos 12:15"
+      ],
+      "comentario": "Joabe, o general pragmático e de pulso firme, confronta Davi. Ele usa um argumento poderoso: o rei está demonstrando amor a seus inimigos (Absalão) e desonrando seus leais defensores. A repreensão é dura, mas baseada na realidade política e militar necessária para manter a coesão do exército. Joabe chama a atenção para o contraste entre 'amar os que o odeiam' e 'odiar os que o amam'.",
+      "temas": [
+        "Confronto de Líderes",
+        "Pragmatismo vs. Emoção",
+        "Lealdade"
+      ],
+      "personagens": [
+        "Joabe",
+        "Davi"
+      ]
     },
     "6": {
-      "parafrase": "'Pois você ama os que o odeiam e odeia os que o amam. Pois hoje você deixou claro que não se importa com seus comandantes e seus servos. Pois hoje eu sei que, se Absalão estivesse vivo e todos nós estivéssemos mortos, então isso lhe agradaria.'",
-      "referencias": [],
-      "comentario": "Joabe acusa Davi de amar seu inimigo (Absalão) e desprezar seus leais seguidores. Ele expõe a irracionalidade do luto de Davi, que está colocando em risco a lealdade de seu exército.",
-      "temas": ["acusação", "irracionalidade", "lealdade"],
-      "personagens": ["Joabe", "Davi", "Absalão"]
+      "parafrase": "Joabe continuou, com voz firme: 'Levante-se agora e vá falar com seu povo com palavras de conforto. Eu juro pelo Senhor: se você não sair, nem um homem ficará ao seu lado nesta noite, e essa será uma calamidade pior para você do que todas as que sofreu desde a sua juventude até agora!'",
+      "referencias": [
+        "Deuteronômio 31:6",
+        "Jeremias 30:10-11"
+      ],
+      "comentario": "Joabe apela para a sobrevivência política de Davi. A ameaça de abandono ('nem um homem ficará ao seu lado') é extrema, mas visa forçar Davi a reassumir seu papel de rei. Ele ressalta que a inação neste momento crítico pode ser a ruína final, superando todas as adversidades passadas.",
+      "temas": [
+        "Obrigações do Rei",
+        "Ameaça de Abandono",
+        "Necessidade de Ação"
+      ],
+      "personagens": [
+        "Joabe",
+        "Davi"
+      ]
     },
     "7": {
-      "parafrase": "'Agora, pois, levante-se, saia e fale bondosamente com seus servos. Pois eu juro pelo Senhor que, se você não sair, nem um só homem ficará com você esta noite. E isso será pior para você do que todo o mal que lhe aconteceu desde a sua juventude até agora.'",
-      "referencias": [],
-      "comentario": "Joabe dá um ultimato a Davi: ele deve retomar suas responsabilidades como rei e encorajar seus homens, ou perderá todo o apoio. Ele ameaça Davi com uma deserção em massa, o que seria o fim de seu reinado.",
-      "temas": ["ultimato", "ameaça", "liderança", "responsabilidade"],
-      "personagens": ["Joabe", "Davi"]
+      "parafrase": "Então Davi, compreendendo a gravidade da situação e a necessidade de se recompor, levantou-se e foi sentar-se novamente no portão. Toda a tropa se reuniu ao seu redor, enquanto ele se preparava para cumprir seu dever real.",
+      "referencias": [
+        "2 Samuel 5:1-3",
+        "Atos 20:24"
+      ],
+      "comentario": "Davi cede ao conselho pragmático de Joabe. Sua obediência a Joabe aqui não é fraqueza, mas sabedoria tática para restaurar a ordem e o ânimo das tropas. Ele retoma sua posição pública, mostrando que, apesar da dor, o reino deve vir em primeiro lugar.",
+      "temas": [
+        "Submissão ao Conselho",
+        "Restauração da Ordem",
+        "Dever Real"
+      ],
+      "personagens": [
+        "Davi",
+        "Joabe"
+      ]
     },
     "8": {
-      "parafrase": "Então o rei se levantou e sentou-se no portão. E foi contado a todo o povo: 'Eis que o rei está sentado no portão.' E todo o povo veio diante do rei.",
-      "referencias": [],
-      "comentario": "Davi cede à pressão de Joabe e retoma seu lugar como rei, sentando-se no portão da cidade, um local público onde o rei se encontrava com o povo e administrava a justiça. Sua presença restaura a moral e a ordem.",
-      "temas": ["retomada da liderança", "restauração da ordem", "moral"],
-      "personagens": ["Davi", "Povo de Davi"]
+      "parafrase": "Nesse momento, um grande tumulto começou a surgir entre o povo. Os homens de Israel estavam discutindo entre si, descontentes e murmúrios de insatisfação ecoavam, porque sentiam que as tribos do leste, que o haviam protegido durante a fuga, não receberam o devido reconhecimento na celebração do retorno.",
+      "referencias": [
+        "Números 22:3",
+        "Romanos 14:1"
+      ],
+      "comentario": "A insatisfação se espalha da esfera militar para a esfera tribal. O texto hebraico sugere que o povo de Israel (as tribos do Oeste/Norte) estava em disputa com Judá (tribo do Sul, onde Davi se firmou primeiro) sobre a honra do retorno. A discórdia se instala rapidamente após a crise política.",
+      "temas": [
+        "Tensão Tribal",
+        "Disputa por Honra",
+        "Unidade Fragilizada"
+      ],
+      "personagens": [
+        "O povo de Israel"
+      ]
     },
     "9": {
-      "parafrase": "Ora, Israel havia fugido, cada um para sua tenda. E todo o povo de todas as tribos de Israel estava discutindo, dizendo: 'O rei nos livrou das mãos de nossos inimigos, e nos salvou das mãos dos filisteus, e agora ele fugiu da terra por causa de Absalão.'",
-      "referencias": [],
-      "comentario": "O povo de Israel, que havia apoiado Absalão, agora discute o retorno de Davi, reconhecendo seus feitos passados, mas também sua fuga. Há uma divisão de opiniões e uma busca por uma nova liderança.",
-      "temas": ["divisão", "discussão", "liderança"],
-      "personagens": ["Israelitas", "Davi", "Absalão"]
+      "parafrase": "Em meio a essa confusão, surgiu um questionamento áspero entre os israelitas: 'O que aconteceu? O rei Davi fugiu da batalha contra Absalão, mas agora ele foi o primeiro a voltar para casa, para Jerusalém? E por que ele está dando toda a atenção aos seus parentes de Judá, deixando o resto de nós de lado?'",
+      "referencias": [
+        "1 Reis 12:16",
+        "Gálatas 2:6"
+      ],
+      "comentario": "A desconfiança atinge o auge. A memória da fuga de Davi é usada como munição contra ele, acusando-o de favoritismo tribal (Judá vs. o resto de Israel). Isso reflete a fragilidade da unidade monárquica recém-restaurada, que dependia da aceitação universal de Davi.",
+      "temas": [
+        "Favoritismo",
+        "Memória da Derrota",
+        "Divisão Política"
+      ],
+      "personagens": [
+        "Davi",
+        "Israelitas"
+      ]
     },
     "10": {
-      "parafrase": "'E Absalão, a quem ungimos sobre nós, morreu na batalha. Agora, por que vocês se calam e não trazem o rei de volta?'",
-      "referencias": [],
-      "comentario": "O povo reconhece a morte de Absalão e a necessidade de trazer Davi de volta ao trono. Há um senso de urgência em restaurar a ordem.",
-      "temas": ["urgência", "restauração do trono"],
-      "personagens": ["Israelitas", "Absalão", "Davi"]
+      "parafrase": "Davi, percebendo que a divisão ameaçava desfazer toda a conquista, enviou uma mensagem direta e urgente a todos os homens de Israel: 'Voltem para suas casas, por favor! Vocês são meus irmãos, vocês me salvaram da mão de Absalão, e eu devo toda a minha vida a vocês!'",
+      "referencias": [
+        "Êxodo 1:21",
+        "Efésios 4:3"
+      ],
+      "comentario": "Davi usa a linguagem da irmandade (*achim* em hebraico) para apelar à unidade familiar e tribal. Ele reconhece publicamente que sua vida e o reino foram salvos por 'todo' o Israel, não apenas Judá, tentando neutralizar a acusação de parcialidade.",
+      "temas": [
+        "Apelo à Unidade",
+        "Reconhecimento da Salvação",
+        "Restauração da Paz"
+      ],
+      "personagens": [
+        "Davi",
+        "Os homens de Israel"
+      ]
     },
     "11": {
-      "parafrase": "O rei Davi enviou uma mensagem aos sacerdotes Zadoque e Abiatar, dizendo: 'Falem com os anciãos de Judá, dizendo: 'Por que vocês seriam os últimos a trazer o rei de volta à sua casa, visto que a palavra de todo o Israel já chegou ao rei para trazê-lo de volta?''",
-      "referencias": [],
-      "comentario": "Davi, em sua sabedoria política, percebe que Judá, sua própria tribo, está hesitante em trazê-lo de volta. Ele os exorta a agir, apelando para sua lealdade e para o fato de que o resto de Israel já o quer de volta.",
-      "temas": ["estratégia política", "lealdade tribal", "exortação"],
-      "personagens": ["Davi", "Zadoque", "Abiatar", "Anciãos de Judá"]
+      "parafrase": "Então, o rei Davi convocou os líderes de Judá — os homens de sua própria tribo — e lhes disse: 'Vocês são os últimos a voltarem para casa. O que aconteceu? Por que demoraram tanto para me trazer de volta? Vocês são minha carne e meu sangue!'",
+      "referencias": [
+        "Gênesis 29:14",
+        "1 Coríntios 12:27"
+      ],
+      "comentario": "Este versículo revela a parcialidade involuntária de Davi. Ele trata Judá com proximidade familiar ('minha carne e meu sangue' – *basar v'dam*), enquanto tratou o resto de Israel como 'irmãos'. Essa distinção, embora natural para Davi (sendo de Judá), alimentou o ressentimento dos outros.",
+      "temas": [
+        "Parcialidade Involuntária",
+        "Lealdade Tribal",
+        "Proximidade Familiar"
+      ],
+      "personagens": [
+        "Davi",
+        "Homens de Judá"
+      ]
     },
     "12": {
-      "parafrase": "'Vocês são meus irmãos, meu osso e minha carne. Por que, então, seriam os últimos a trazer o rei de volta?'",
-      "referencias": [],
-      "comentario": "Davi apela para os laços de parentesco com Judá, enfatizando sua conexão e sua expectativa de lealdade.",
-      "temas": ["parentesco", "lealdade"],
-      "personagens": ["Davi"]
+      "parafrase": "E respondeu Uzai, um homem de Judá, em nome de toda a tribo: 'O rei Davi é o nosso pai, nosso líder eterno! Ele é insubstituível! Devemos fazer tudo o que ele ordenar, sem questionamentos!'",
+      "referencias": [
+        "Miquéias 4:1",
+        "1 Pedro 2:17"
+      ],
+      "comentario": "Uzai expressa a devoção inabalável de Judá a Davi, vendo-o como o patriarca ('nosso pai') e governante incontestável. Esta lealdade extrema é o que gera a inveja e a desconfiança das outras tribos, que temem ser relegadas a um status secundário.",
+      "temas": [
+        "Devoção Inquestionável",
+        "Autoridade do Rei",
+        "Lealdade de Judá"
+      ],
+      "personagens": [
+        "Uzai",
+        "Davi"
+      ]
     },
     "13": {
-      "parafrase": "E digam a Amasa: 'Você não é meu osso e minha carne? Que Deus me castigue com o que quiser, se você não for o comandante do meu exército para sempre, em lugar de Joabe.'",
-      "referencias": ["2 Samuel 17:25"],
-      "comentario": "Davi, em um movimento político astuto, oferece a Amasa, o comandante do exército de Absalão, o cargo de Joabe. Isso visa dividir a lealdade dos seguidores de Absalão e punir Joabe por ter matado Absalão.",
-      "temas": ["estratégia política", "recompensa", "punição"],
-      "personagens": ["Davi", "Amasa", "Joabe"]
+      "parafrase": "Então, Davi, sentindo-se mais seguro com o apoio de sua tribo, partiu de onde estava e foi até Gilgal. Enquanto cruzavam o Jordão, o povo de Judá estava preparado para acompanhá-lo com honra e solenidade, levando o rei de volta a Jerusalém.",
+      "referencias": [
+        "Josué 4:19",
+        "Salmos 114:3"
+      ],
+      "comentario": "A travessia do Jordão, associada à entrada na Terra Prometida (Josué), é um ato simbólico de recomeço e restauração. O foco se move para o retorno triunfal de Judá, mas a discórdia subjacente ainda não foi resolvida.",
+      "temas": [
+        "Retorno Simbólico",
+        "Restauração da Monarquia",
+        "Travessia do Jordão"
+      ],
+      "personagens": [
+        "Davi",
+        "Povo de Judá"
+      ]
     },
     "14": {
-      "parafrase": "Ele inclinou o coração de todos os homens de Judá como o coração de um só homem, de modo que eles enviaram uma mensagem ao rei, dizendo: 'Volte, você e todos os seus servos.'",
-      "referencias": [],
-      "comentario": "A estratégia de Davi funciona. Judá é persuadida a trazê-lo de volta, demonstrando a influência de Davi e a eficácia de sua abordagem.",
-      "temas": ["persuasão", "influência", "retorno"],
-      "personagens": ["Davi", "Homens de Judá"]
+      "parafrase": "Enquanto isso, Simei, filho de Gera, um homem da antiga casa de Saul, que era da tribo de Benjamim, apressou-se em descer com todo o seu clã para encontrar Davi antes que ele chegasse a Maanaim. Ele queria mostrar submissão e pedir perdão ao rei.",
+      "referencias": [
+        "2 Samuel 16:5-7",
+        "Romanos 13:1"
+      ],
+      "comentario": "Simei, um benjamita (da casa do rei deposto Saul) e aquele que o amaldiçoou ferozmente (2Sm 16), agora corre para encontrar Davi. Este é um movimento de autopreservação desesperada, esperando que Davi pratique a misericórdia imediatamente após a vitória.",
+      "temas": [
+        "Arrependimento Tático",
+        "Submissão",
+        "Ato de Autopreservação"
+      ],
+      "personagens": [
+        "Simei",
+        "Davi",
+        "Gera",
+        "Benjamim"
+      ]
     },
     "15": {
-      "parafrase": "Então o rei voltou e chegou ao Jordão. E Judá veio a Gilgal para encontrar o rei e levá-lo através do Jordão.",
-      "referencias": [],
-      "comentario": "Davi retorna a Israel, e Judá o encontra no Jordão para escoltá-lo de volta a Jerusalém.",
-      "temas": ["retorno", "escolta"],
-      "personagens": ["Davi", "Judá"]
+      "parafrase": "Ele se jogou aos pés do rei Davi, implorando: 'Que o meu senhor não leve para o lado pessoal este ato terrível! Não guarde rancor do seu servo por causa daquela maldição que me escapou no dia em que o rei, meu senhor, estava saindo de Jerusalém em fuga. Minha boca falou tolices movida pelo desespero!'",
+      "referencias": [
+        "Provérbios 19:11",
+        "Tiago 3:8"
+      ],
+      "comentario": "Simei confessa que suas palavras foram 'tolices' (*awon* – erro, maldade) e que foram ditas sob coação emocional (o pânico da fuga do rei). Ele tenta apelar à clemência de Davi, classificando a maldição como um lapso momentâneo e não como um plano premeditado de rebelião.",
+      "temas": [
+        "Petição de Perdão",
+        "Reconhecimento do Erro",
+        "Clerência Real"
+      ],
+      "personagens": [
+        "Simei",
+        "Davi"
+      ]
     },
     "16": {
-      "parafrase": "Simei, filho de Gera, o benjamita, de Baurim, apressou-se e desceu com os homens de Judá para encontrar o rei Davi.",
-      "referencias": ["2 Samuel 16:5"],
-      "comentario": "Simei, que havia amaldiçoado Davi em sua fuga, agora se apressa para encontrá-lo, buscando perdão e demonstrando sua mudança de lealdade.",
-      "temas": ["mudança de lealdade", "perdão", "oportunismo"],
-      "personagens": ["Simei", "Davi"]
+      "parafrase": "Imediatamente, Abisai, filho de Zeruia, o comandante militar impetuoso, irrompeu, dizendo: 'Por acaso não deveríamos tirar a vida desse homem agora mesmo? Ele se atreveu a amaldiçoar o rei ungido do Senhor!'",
+      "referencias": [
+        "1 Samuel 24:4-7",
+        "Mateus 26:51"
+      ],
+      "comentario": "Abisai, o protetor feroz de Davi, reage com indignação à presença de Simei. Ele se lembra do momento em que Davi poupou Saul (1Sm 24) e exige que, agora que a ordem foi restaurada, a traição e a desonra pública devem ser punidas com a morte, honrando a santidade da unção real.",
+      "temas": [
+        "Justiça Imediata",
+        "Defesa da Unção",
+        "Reação Impetuosa"
+      ],
+      "personagens": [
+        "Abisai",
+        "Simei",
+        "Davi"
+      ]
     },
     "17": {
-      "parafrase": "Com ele estavam mil homens de Benjamim, e Ziba, o servo da casa de Saul, com seus quinze filhos e vinte servos. Eles atravessaram o Jordão diante do rei.",
-      "referencias": [],
-      "comentario": "Simei traz consigo um grande número de benjamitas, mostrando seu apoio a Davi. Ziba também está presente, buscando manter seu favor com Davi.",
-      "temas": ["apoio", "oportunismo"],
-      "personagens": ["Simei", "Ziba", "Davi"]
+      "parafrase": "Mas Davi, mantendo sua decisão anterior, o deteve com firmeza: 'Não! Você e eu, filhos de Zeruia, não vamos tomar nenhuma vida hoje. Este dia deve ser lembrado como um dia de salvação e não de vingança. Pois hoje eu sou o rei sobre todo o Israel!'",
+      "referencias": [
+        "2 Samuel 19:22",
+        "Lucas 23:34"
+      ],
+      "comentario": "Davi reafirma sua posição de rei vitorioso e, crucialmente, de rei magnânimo. Ele usa a vitória de Absalão como a razão para não executar a pena de morte. O dia da restauração deve ser um dia de perdão, estabelecendo um padrão de misericórdia para seu novo (e reunificado) reinado.",
+      "temas": [
+        "Magnanimidade",
+        "Perdão como Pilar do Reinado",
+        "Restabelecimento da Autoridade"
+      ],
+      "personagens": [
+        "Davi",
+        "Abisai",
+        "Zeruia"
+      ]
     },
     "18": {
-      "parafrase": "Eles atravessaram a passagem para levar a casa do rei e fazer o que lhe agradasse. E Simei, filho de Gera, caiu diante do rei quando ele estava prestes a atravessar o Jordão,",
-      "referencias": [],
-      "comentario": "Simei se prostra diante de Davi, buscando perdão e demonstrando sua submissão.",
-      "temas": ["submissão", "perdão"],
-      "personagens": ["Simei", "Davi"]
+      "parafrase": "Então, Mefibosete, o filho aleijado de Jônatas e neto do antigo rei Saul, foi ao encontro do rei. Ele não tinha cuidado de seus pés, nem havia ajeitado suas vestes desde o dia em que Davi partiu, demonstrando que não havia feito preparativos, pois acreditava que o rei jamais voltaria em paz.",
+      "referencias": [
+        "2 Samuel 4:4",
+        "Filipenses 3:7-8"
+      ],
+      "comentario": "Mefibosete aparece visualmente negligenciado ('não havia aparado a barba, nem lavado as roupas'). Sua aparência desgrenhada simboliza sua lealdade inabalável, mas também sua quase desistência de que Davi voltaria vitorioso. Ele agiu como se tivesse perdido tudo.",
+      "temas": [
+        "Lealdade em Adversidade",
+        "Aparência de Desespero",
+        "Esperança Ferida"
+      ],
+      "personagens": [
+        "Mefibosete",
+        "Davi",
+        "Jônatas",
+        "Saul"
+      ]
     },
     "19": {
-      "parafrase": "e disse ao rei: 'Que meu senhor não me impute iniquidade, nem se lembre do que seu servo fez perversamente no dia em que meu senhor, o rei, saiu de Jerusalém, para que o rei não o leve a sério.'",
-      "referencias": [],
-      "comentario": "Simei pede perdão por sua maldição e agressão, reconhecendo seu pecado e apelando para a misericórdia de Davi.",
-      "temas": ["confissão de pecado", "perdão", "misericórdia"],
-      "personagens": ["Simei", "Davi"]
+      "parafrase": "Mefibosete se prostrou diante do rei e disse: 'Meu senhor, eu sinto muita vergonha. Eu deveria ter ido com você, mas na minha incapacidade, permaneci em casa, temendo que você não voltasse vivo e que eu ficasse desamparado!'",
+      "referencias": [
+        "1 Samuel 20:41-42",
+        "João 15:13"
+      ],
+      "comentario": "Mefibosete reconhece a falha em não seguir Davi, mas a justifica pelo medo da anarquia e pela desconfiança (natural, dado o histórico de Saul) de que Davi sobreviveria à rebelião. Ele se coloca numa posição de extrema humildade e culpa, lembrando o pacto com Jônatas.",
+      "temas": [
+        "Humildade e Vergonha",
+        "Medo da Perda",
+        "Pacto de Amizade"
+      ],
+      "personagens": [
+        "Mefibosete",
+        "Davi",
+        "Jônatas"
+      ]
     },
     "20": {
-      "parafrase": "'Pois seu servo sabe que pequei. E eis que hoje sou o primeiro de toda a casa de José a descer para encontrar meu senhor, o rei.'",
-      "referencias": [],
-      "comentario": "Simei se humilha, reconhecendo seu pecado e se apresentando como o primeiro a buscar a reconciliação com Davi.",
-      "temas": ["humildade", "reconciliação", "pecado"],
-      "personagens": ["Simei", "Davi"]
+      "parafrase": "Davi, com um olhar de afeto, respondeu-lhe: 'Não se aflija mais, Mefibosete! Não há motivo para vergonha. Pois eu decidi que, de agora em diante, você participará de todas as refeições à minha mesa, como se fosse um dos meus próprios filhos!'",
+      "referencias": [
+        "2 Samuel 9:7",
+        "Apocalipse 3:20"
+      ],
+      "comentario": "Davi cumpre fielmente a promessa feita a Jônatas (2Sm 9). Ao reafirmar que Mefibosete comerá à sua mesa, ele garante a proteção, honra e sustento vitalício, elevando-o acima de sua posição original como neto do rei deposto. É um ato de graça soberana.",
+      "temas": [
+        "Graça Real",
+        "Fidelidade à Aliança",
+        "Honra Inesperada"
+      ],
+      "personagens": [
+        "Davi",
+        "Mefibosete",
+        "Jônatas"
+      ]
     },
     "21": {
-      "parafrase": "Mas Abisai, filho de Zeruia, respondeu: 'Não deveria Simei morrer por isso, porque amaldiçoou o ungido do Senhor?'",
-      "referencias": [],
-      "comentario": "Abisai, em seu zelo, insiste na punição de Simei, argumentando que ele merece a morte por ter amaldiçoado o rei ungido por Deus.",
-      "temas": ["zelo", "punição", "ungido do Senhor"],
-      "personagens": ["Abisai", "Simei"]
+      "parafrase": "Mefibosete, profundamente grato, curvou-se novamente e disse: 'Meu senhor, o rei, você é bondoso comigo! Estou feliz por tudo o que o rei faz por mim, seu servo!'",
+      "referencias": [
+        "Salmos 116:12-13",
+        "Romanos 5:8"
+      ],
+      "comentario": "A resposta de Mefibosete é de pura gratidão. Ele reconhece a imensa bondade (*hesed* – lealdade amorosa) de Davi, que transcende a necessidade política e se baseia na memória da amizade passada.",
+      "temas": [
+        "Gratidão Profunda",
+        "Reconhecimento da Bondade",
+        "Lealdade Amorosa (Hesed)"
+      ],
+      "personagens": [
+        "Mefibosete",
+        "Davi"
+      ]
     },
     "22": {
-      "parafrase": "Davi disse: 'O que eu tenho a ver com vocês, filhos de Zeruia, para que hoje vocês sejam meus adversários? Hoje ninguém será morto em Israel, pois hoje eu sei que sou rei sobre Israel.'",
-      "referencias": [],
-      "comentario": "Davi, em sua sabedoria e magnanimidade, recusa-se a permitir a execução de Simei. Ele declara que, no dia de sua restauração ao trono, não haverá derramamento de sangue. Ele demonstra sua autoridade e sua misericórdia.",
-      "temas": ["sabedoria", "magnanimidade", "misericórdia", "autoridade"],
-      "personagens": ["Davi", "Abisai"]
+      "parafrase": "Nesse meio tempo, Barzilai, o gileadita, um homem idoso e muito rico, desceu do outro lado do Jordão para receber o rei enquanto ele se preparava para cruzar de volta para casa.",
+      "referencias": [
+        "Jó 29:15-17",
+        "Hebreus 13:2"
+      ],
+      "comentario": "Barzilai, um apoiador crucial durante a fuga de Davi (fornecendo suprimentos em Maanaim, conforme narrado antes), faz o último gesto de lealdade, encontrando Davi na margem do Jordão, no limite de sua jurisdição (Gileade). Ele demonstra honra até o último momento.",
+      "temas": [
+        "Hospitalidade",
+        "Lealdade na Velhice",
+        "Apoio Logístico"
+      ],
+      "personagens": [
+        "Barzilai",
+        "Davi"
+      ]
     },
     "23": {
-      "parafrase": "Então o rei disse a Simei: 'Você não morrerá.' E o rei lhe jurou.",
-      "referencias": [],
-      "comentario": "Davi perdoa Simei e jura que ele não morrerá, demonstrando sua graça e sua capacidade de perdoar.",
-      "temas": ["perdão", "graça", "juramento"],
-      "personagens": ["Davi", "Simei"]
+      "parafrase": "Barzilai disse ao rei: 'Por que o meu senhor faria essa honra de me convidar para acompanhá-lo até Jerusalém? Eu sou um homem velho e já não tenho idade para desfrutar dos prazeres da corte real.'",
+      "referencias": [
+        "Eclesiastes 12:1-7",
+        "Salmos 92:14"
+      ],
+      "comentario": "Barzilai, sendo muito velho (ele tinha 80 anos na época, segundo o versículo 32), recusa a honra de ir para a capital. Ele entende que a vida na corte requer vigor e que seu papel como provedor terminou. Ele expressa sabedoria sobre os limites da velhice.",
+      "temas": [
+        "Sabedoria da Velhice",
+        "Recusa Honrosa",
+        "Limites da Idade"
+      ],
+      "personagens": [
+        "Barzilai",
+        "Davi"
+      ]
     },
     "24": {
-      "parafrase": "Mefibosete, filho de Saul, também desceu para encontrar o rei. Ele não havia lavado os pés, nem aparado a barba, nem lavado suas roupas, desde o dia em que o rei saiu até o dia em que voltou em paz.",
-      "referencias": ["2 Samuel 4:4"],
-      "comentario": "Mefibosete, em seu luto e lealdade a Davi, demonstra sua tristeza pela fuga do rei, abstendo-se de cuidados pessoais. Sua aparência desleixada é um sinal de sua fidelidade.",
-      "temas": ["luto", "lealdade", "fidelidade"],
-      "personagens": ["Mefibosete", "Davi"]
+      "parafrase": "Davi insistiu, dizendo: 'Venha comigo, Barzilai! Eu cuidarei de você, e você viverá confortavelmente comigo aqui em Jerusalém. Você merece o melhor de mim!'",
+      "referencias": [
+        "Salmos 23:6",
+        "Provérbios 3:10"
+      ],
+      "comentario": "Davi tenta retribuir o enorme favor prestado durante sua perseguição. Ele não apenas oferece compensação, mas convida Barzilai para viver no centro do poder, garantindo-lhe os melhores anos finais de vida como recompensa pelo *hesed* recebido.",
+      "temas": [
+        "Gratidão Material",
+        "Recompensa por Lealdade",
+        "Hospitalidade Real"
+      ],
+      "personagens": [
+        "Davi",
+        "Barzilai"
+      ]
     },
     "25": {
-      "parafrase": "Quando ele veio a Jerusalém para encontrar o rei, o rei lhe perguntou: 'Por que você não foi comigo, Mefibosete?'",
-      "referencias": [],
-      "comentario": "Davi questiona Mefibosete sobre sua ausência, dando-lhe a oportunidade de se explicar.",
-      "temas": ["questionamento", "explicação"],
-      "personagens": ["Davi", "Mefibosete"]
+      "parafrase": "Mas Barzilai respondeu novamente: 'Meu senhor, permita-me apenas uma coisa: Deixe que meu filho, Quelam, cruze o Jordão com você e receba a honra de servir ao rei em seu lugar. Que ele seja seu companheiro na capital. Quanto a mim, deixarei que meu filho desfrute dessa glória!'",
+      "referencias": [
+        "Gênesis 47:5-6",
+        "1 Reis 1:47"
+      ],
+      "comentario": "Barzilai demonstra um último ato de sabedoria e desapego. Ele transfere a recompensa para seu filho, Quelam (ou Quilom), garantindo que o legado de serviço prestado ao rei continue na próxima geração, enquanto ele se retira para sua terra natal.",
+      "temas": [
+        "Legado Familiar",
+        "Transferência de Honra",
+        "Desapego"
+      ],
+      "personagens": [
+        "Barzilai",
+        "Quelam",
+        "Davi"
+      ]
     },
     "26": {
-      "parafrase": "Ele respondeu: 'Meu senhor, ó rei, meu servo me enganou. Pois seu servo disse: 'Selarei um jumento para mim, para que eu possa cavalgar nele e ir com o rei', pois seu servo é aleijado.'",
-      "referencias": [],
-      "comentario": "Mefibosete acusa Ziba de tê-lo enganado e impedido de ir com Davi, usando sua deficiência física como justificativa.",
-      "temas": ["acusação", "engano", "deficiência física"],
-      "personagens": ["Mefibosete", "Ziba", "Davi"]
+      "parafrase": "E, assim que o sol se pôs, voltaram os homens de Israel para as suas tendas, mas Joabe reuniu o restante do exército e o conduziu de volta, pois o grupo que ficou para trás precisava de descanso após o intenso combate.",
+      "referencias": [
+        "Êxodo 17:12",
+        "Josué 1:14"
+      ],
+      "comentario": "O fim do dia marca o fim da luta. A narrativa destaca a diferença entre os soldados comuns, que se retiram para o descanso, e a tropa de elite liderada por Joabe, que precisa ser guiada de volta. Isso sublinha a liderança de Joabe e a exaustão geral da guerra, que terminou não por rendição, mas pelo cair da noite.",
+      "temas": [
+        "Término da Batalha",
+        "Liderança Militar",
+        "Descanso"
+      ],
+      "personagens": [
+        "Joabe"
+      ]
     },
     "27": {
-      "parafrase": "'Ele caluniou seu servo diante de meu senhor, o rei. Mas meu senhor, o rei, é como um anjo de Deus; faça, pois, o que lhe parecer bem.'",
-      "referencias": [],
-      "comentario": "Mefibosete acusa Ziba de calúnia e apela para a sabedoria e a justiça de Davi, comparando-o a um anjo de Deus.",
-      "temas": ["calúnia", "apelo à justiça", "sabedoria"],
-      "personagens": ["Mefibosete", "Ziba", "Davi"]
+      "parafrase": "No dia seguinte, Isbosete, filho de Saul, mandou mensageiros até Maanaim, chamando a atenção de Abner, comandante do exército de Saul, e ordenou: 'Por que é que vocês não fizeram nada ontem para impedir Davi de cruzar o Jordão para atacar a minha terra?'",
+      "referencias": [
+        "2 Samuel 3:8",
+        "Gênesis 49:19"
+      ],
+      "comentario": "A tensão se transfere do campo de batalha para a corte de Isbosete, que se sente ameaçado pela ausência de ação de Abner. A pergunta 'Por que vocês não fizeram nada?' revela a inércia e a incompetência política daquele governo, que esperava uma intervenção milagrosa em vez de ação militar coordenada.",
+      "temas": [
+        "Inércia Política",
+        "Rivalidade de Poder",
+        "Acusação"
+      ],
+      "personagens": [
+        "Isbosete",
+        "Abner",
+        "Davi"
+      ]
     },
     "28": {
-      "parafrase": "'Pois toda a casa de meu pai não era senão homens mortos diante de meu senhor, o rei. No entanto, você pôs seu servo entre os que comem à sua mesa. Que direito, pois, tenho eu ainda de clamar ao rei?'",
-      "referencias": ["2 Samuel 9:7"],
-      "comentario": "Mefibosete expressa sua gratidão pela bondade de Davi, reconhecendo que ele não tinha direito a nada, mas foi honrado pelo rei. Ele se submete à decisão de Davi.",
-      "temas": ["gratidão", "humildade", "submissão"],
-      "personagens": ["Mefibosete", "Davi"]
+      "parafrase": "Abner, então, respondeu a Isbosete, defendendo-se com firmeza: 'Eu jurei solenemente a Davi, em Hebrom, que cessaria toda a resistência. Eu disse a ele: volte para casa agora, pois este seu movimento será desastroso para você!'",
+      "referencias": [
+        "2 Samuel 3:9",
+        "Salmos 133:1"
+      ],
+      "comentario": "Abner expõe o acordo de trégua selado com Davi em Hebrom, onde ele havia prometido parar os conflitos. Ele joga a responsabilidade do fracasso no colo de Isbosete, sugerindo que a continuação da guerra traria ruína ao próprio Isbosete. O 'juro solenemente' indica um voto sério feito sob juramento.",
+      "temas": [
+        "Quebra de Aliança",
+        "Justificativa",
+        "Ameaça Velada"
+      ],
+      "personagens": [
+        "Abner",
+        "Davi",
+        "Isbosete"
+      ]
     },
     "29": {
-      "parafrase": "O rei lhe disse: 'Por que você fala mais sobre seus assuntos? Eu decidi: você e Ziba dividirão a terra.'",
-      "referencias": [],
-      "comentario": "Davi, talvez cansado da disputa ou incerto sobre a verdade, decide dividir a propriedade entre Mefibosete e Ziba, uma solução de compromisso.",
-      "temas": ["decisão", "compromisso", "divisão"],
-      "personagens": ["Davi", "Mefibosete", "Ziba"]
+      "parafrase": "Mas Isbosete, em sua teimosia e medo, não ouviu a advertência de Abner, nem se importou com a promessa feita ao seu rival. Assim, a inação continuou a dominar o lado dele.",
+      "referencias": [
+        "Provérbios 1:30",
+        "Romanos 11:20"
+      ],
+      "comentario": "Este versículo mostra a fraqueza central do reino do norte: a recusa de Isbosete em aceitar a realidade política e o conselho de seu principal general. Ele ignora o apelo de Abner, pavimentando o caminho para a instabilidade futura do seu reinado.",
+      "temas": [
+        "Teimosia",
+        "Desobediência",
+        "Inabilidade de Governar"
+      ],
+      "personagens": [
+        "Isbosete",
+        "Abner"
+      ]
     },
     "30": {
-      "parafrase": "Mefibosete disse ao rei: 'Que ele tome tudo, já que meu senhor, o rei, voltou em paz para sua própria casa.'",
-      "referencias": [],
-      "comentario": "Mefibosete, em sua lealdade, demonstra que sua prioridade é o retorno seguro de Davi, e não a propriedade. Ele está satisfeito com a restauração do rei.",
-      "temas": ["lealdade", "prioridade", "satisfação"],
-      "personagens": ["Mefibosete", "Davi"]
+      "parafrase": "Enquanto isso, Joabe conduziu as tropas de Davi de volta a Hebrom, e, após a batalha, ele se apressou em fazer um levantamento completo das baixas sofridas por seus homens no confronto contra os benjamitas.",
+      "referencias": [
+        "2 Samuel 2:11",
+        "Números 1:46"
+      ],
+      "comentario": "A cena muda de volta para o lado vitorioso. A prioridade de Joabe, após a vitória, não é a celebração, mas o inventário das perdas. Isso demonstra a seriedade com que ele tratava a vida de seus soldados e a contabilidade da guerra.",
+      "temas": [
+        "Contabilidade de Guerra",
+        "Valorização da Vida",
+        "Retorno a Hebrom"
+      ],
+      "personagens": [
+        "Joabe"
+      ]
     },
     "31": {
-      "parafrase": "Barzilai, o gileadita, também desceu de Rogelim e atravessou o Jordão com o rei para acompanhá-lo através do Jordão.",
-      "referencias": [],
-      "comentario": "Barzilai, um homem rico e leal que havia provido Davi em sua fuga, o acompanha em seu retorno, demonstrando sua fidelidade.",
-      "temas": ["lealdade", "fidelidade", "acompanhamento"],
-      "personagens": ["Barzilai", "Davi"]
+      "parafrase": "Descobriu-se que, dos homens de Israel que haviam lutado bravamente, dezoito guerreiros tinham morrido naquele dia terrível.",
+      "referencias": [
+        "1 Reis 12:18",
+        "Jó 1:15"
+      ],
+      "comentario": "O número é surpreendentemente baixo considerando a ferocidade da descrição da batalha anterior, onde a morte de Asahel foi tão chocante. Este número (18) contrasta com a possível carnificina do lado adversário (que o versículo 32 detalhará), mostrando que a batalha foi um confronto tático, não um massacre unilateral.",
+      "temas": [
+        "Perdas Humanas",
+        "Custo da Guerra",
+        "Contagem de Vítimas"
+      ],
+      "personagens": [
+        "Homens de Israel"
+      ]
     },
     "32": {
-      "parafrase": "Barzilai era muito velho, com oitenta anos. Ele havia provido o rei enquanto ele estava em Maanaim, pois era um homem muito rico.",
-      "referencias": ["2 Samuel 17:27-29"],
-      "comentario": "A idade e a riqueza de Barzilai são destacadas, mostrando sua generosidade e sua capacidade de ajudar Davi em sua necessidade.",
-      "temas": ["velhice", "riqueza", "generosidade"],
-      "personagens": ["Barzilai"]
+      "parafrase": "E os homens de Benjamim, que pertenciam à tribo de Saul, também foram contados. Descobriram que apenas trezentos e sessenta homens daquele grupo pereceram, todos eles guerreiros notórios.",
+      "referencias": [
+        "Juízes 20:46",
+        "1 Crônicas 11:42"
+      ],
+      "comentario": "O número de 360 sobreviventes do lado de Benjamim/Saul, que eram, segundo o texto, 'homens de valor', é um indicativo da severidade da derrota para eles. O fato de serem apenas homens 'notórios' sugere que as forças mais capazes de Isbosete foram dizimadas ou forçadas a recuar.",
+      "temas": [
+        "Derrota Tática",
+        "Forças de Elite",
+        "Sobreviventes"
+      ],
+      "personagens": [
+        "Homens de Benjamim"
+      ]
     },
     "33": {
-      "parafrase": "O rei disse a Barzilai: 'Venha comigo, e eu o sustentarei comigo em Jerusalém.'",
-      "referencias": [],
-      "comentario": "Davi oferece a Barzilai um lugar em sua corte em Jerusalém, como recompensa por sua lealdade e provisão.",
-      "temas": ["recompensa", "honra", "sustento"],
-      "personagens": ["Davi", "Barzilai"]
+      "parafrase": "Os homens de Israel, após a contagem, voltaram para as suas tribos, e a luta cessou, mas a dor da separação e a lembrança dos mortos permaneceram entre todos.",
+      "referencias": [
+        "2 Samuel 3:1",
+        "Amós 8:11"
+      ],
+      "comentario": "Com a contagem das perdas e o fim formal do combate do dia, a ação militar se encerra. O texto sinaliza o fim da fase inicial da guerra civil, que agora se tornará uma disputa política e de poder, em vez de uma série de confrontos abertos sangrentos.",
+      "temas": [
+        "Pausa nos Conflitos",
+        "Consequências da Guerra",
+        "Divisão das Tribos"
+      ],
+      "personagens": [
+        "Homens de Israel"
+      ]
     },
     "34": {
-      "parafrase": "Mas Barzilai disse ao rei: 'Quantos anos ainda me restam de vida, para que eu suba com o rei a Jerusalém?'",
-      "referencias": [],
-      "comentario": "Barzilai, em sua sabedoria, reconhece sua idade avançada e a futilidade de ir para a corte real. Ele prefere morrer em sua própria terra.",
-      "temas": ["sabedoria", "velhice", "futilidade"],
-      "personagens": ["Barzilai", "Davi"]
+      "parafrase": "Joabe e todo o exército que estava com ele marcharam durante toda a noite, e ao amanhecer, eles chegaram a Maanaim, trazendo consigo os corpos dos caídos.",
+      "referencias": [
+        "Salmos 18:29",
+        "Atos 20:24"
+      ],
+      "comentario": "A marcha noturna de Joabe não era apenas um retorno, mas um ato estratégico. Eles se movem rapidamente para garantir sua posição e, presumivelmente, para dar um sepultamento adequado aos seus próprios mortos em território amigo (Maanaim).",
+      "temas": [
+        "Marcha Militar",
+        "Lealdade aos Mortos",
+        "Retorno Estratégico"
+      ],
+      "personagens": [
+        "Joabe"
+      ]
     },
     "35": {
-      "parafrase": "'Tenho oitenta anos hoje. Posso eu discernir entre o bem e o mal? Pode seu servo saborear o que come ou o que bebe? Posso eu ainda ouvir a voz de cantores e cantoras? Por que, então, seu servo seria um fardo para meu senhor, o rei?'",
-      "referencias": [],
-      "comentario": "Barzilai lista as limitações da velhice, mostrando que ele não seria um bom companheiro para a vida na corte. Ele não quer ser um fardo para Davi.",
-      "temas": ["limitações da velhice", "fardo", "humildade"],
-      "personagens": ["Barzilai"]
+      "parafrase": "E continuaram a lutar dia após dia contra os homens de Isbosete. O confronto era incessante, e a força de um lado parecia se igualar à do outro, embora Davi estivesse ganhando vantagem lentamente.",
+      "referencias": [
+        "2 Samuel 3:1",
+        "Filipenses 3:13"
+      ],
+      "comentario": "A narrativa indica que, embora a grande batalha em Gibeão tenha acabado, a guerra civil não cessou; ela entrou em uma fase de escaramuças contínuas e desgastantes. A frase 'mas Davi se tornava cada vez mais forte, e a casa de Saul se tornava cada vez mais fraca' (implícita no contexto) resume o curso da história.",
+      "temas": [
+        "Guerra de Atrito",
+        "Crescimento do Poder de Davi",
+        "Declínio de Saul"
+      ],
+      "personagens": [
+        "Davi",
+        "Isbosete"
+      ]
     },
     "36": {
-      "parafrase": "'Seu servo apenas atravessará o Jordão com o rei. E que o rei recompense seu servo com o que lhe parecer bem.'",
-      "referencias": [],
-      "comentario": "Barzilai se contenta em acompanhar Davi até o Jordão, pedindo apenas uma recompensa modesta.",
-      "temas": ["modéstia", "recompensa"],
-      "personagens": ["Barzilai", "Davi"]
+      "parafrase": "No entanto, o povo de Israel começou a questionar cada vez mais o porquê de continuarem a apoiar a causa de Isbosete, filho de Saul, quando o desejo geral era ver Davi como o líder ungido de todo o reino.",
+      "referencias": [
+        "1 Samuel 16:13",
+        "Atos 2:36"
+      ],
+      "comentario": "Este versículo é crucial, pois mostra a mudança na opinião pública. O apoio a Isbosete estava diminuindo à medida que a força e a legitimidade de Davi cresciam. O povo reconhecia a vontade de Deus manifestada no sucesso de Davi.",
+      "temas": [
+        "Opinião Pública",
+        "Legitimidade do Rei",
+        "Vontade Divina"
+      ],
+      "personagens": [
+        "Isbosete",
+        "Davi"
+      ]
     },
     "37": {
-      "parafrase": "'Deixe seu servo voltar, para que eu possa morrer em minha própria cidade, perto do túmulo de meu pai e de minha mãe. Mas eis que seu servo Quimã irá com meu senhor, o rei; faça com ele o que lhe parecer bem.'",
-      "referencias": [],
-      "comentario": "Barzilai pede para ser sepultado em sua terra natal e oferece seu filho Quimã para servir a Davi em seu lugar, garantindo a continuidade da lealdade de sua família.",
-      "temas": ["sepultamento", "continuidade da lealdade", "serviço"],
-      "personagens": ["Barzilai", "Davi", "Quimã"]
+      "parafrase": "Todos em Judá e nas tribos do norte sabiam que, mesmo que a guerra continuasse, o destino final era inevitável: Davi governaria sobre todo Israel, de uma ponta à outra.",
+      "referencias": [
+        "2 Samuel 5:1",
+        "Miquéias 4:2"
+      ],
+      "comentario": "A visão profética se torna um conhecimento comum. A unificação de Israel sob Davi não é mais uma esperança, mas uma certeza histórica e teológica. É o reconhecimento da promessa feita a Davi.",
+      "temas": [
+        "Profecia Cumprida",
+        "Unificação Nacional",
+        "Destino Inevitável"
+      ],
+      "personagens": [
+        "Davi"
+      ]
     },
     "38": {
-      "parafrase": "O rei respondeu: 'Quimã irá comigo, e eu farei por ele o que lhe parecer bem. E tudo o que você me pedir, eu farei por você.'",
-      "referencias": [],
-      "comentario": "Davi aceita a oferta de Barzilai e promete cuidar de Quimã, demonstrando sua gratidão e sua generosidade.",
-      "temas": ["aceitação", "gratidão", "generosidade"],
-      "personagens": ["Davi", "Quimã", "Barzilai"]
+      "parafrase": "Abner, ao perceber a desmoralização e o descontentamento generalizado com Isbosete, decidiu que era hora de agir para concretizar o plano de unificação, trazendo paz ao povo.",
+      "referencias": [
+        "2 Samuel 3:9",
+        "Provérbios 29:2"
+      ],
+      "comentario": "Abner, vendo que Isbosete era um fardo e que o tempo estava acabando, decide usar sua influência militar para fazer o que ele já havia prometido a Davi. Ele se torna o catalisador da mudança política, agindo para garantir a unidade nacional, talvez por lealdade a Saul ou por pragmatismo político.",
+      "temas": [
+        "Pragmatismo Político",
+        "Transição de Poder",
+        "Intervenção de Abner"
+      ],
+      "personagens": [
+        "Abner",
+        "Isbosete"
+      ]
     },
     "39": {
-      "parafrase": "Então todo o povo atravessou o Jordão, e o rei também atravessou. O rei beijou Barzilai e o abençoou, e ele voltou para sua casa.",
-      "referencias": [],
-      "comentario": "A despedida de Davi e Barzilai é um momento de afeto e bênção, marcando o fim de sua jornada juntos.",
-      "temas": ["despedida", "bênção", "afeto"],
-      "personagens": ["Povo de Israel", "Davi", "Barzilai"]
+      "parafrase": "Portanto, Abner enviou imediatamente emissários a Davi, dizendo: 'Você é o verdadeiro rei, e o poder de sua linhagem deve se estender sobre Israel. Assine um acordo de paz conosco, e eu dedicarei todo o meu esforço para garantir que todo o povo de Israel se curve diante de você e te reconheça como seu soberano!'",
+      "referencias": [
+        "2 Samuel 3:12",
+        "Isaías 11:10"
+      ],
+      "comentario": "Este é o ponto de virada. Abner oferece a rendição total das forças restantes de Saul e a lealdade de Israel. Ele propõe um pacto formal, oferecendo o controle da nação em troca do reconhecimento de Davi como rei absoluto. O verbo 'curvar-se' (implica em lealdade e submissão) é forte.",
+      "temas": [
+        "Oferta de Lealdade",
+        "Pacto Político",
+        "Reconhecimento Real"
+      ],
+      "personagens": [
+        "Abner",
+        "Davi"
+      ]
     },
     "40": {
-      "parafrase": "O rei foi para Gilgal, e Quimã foi com ele. E todo o povo de Judá levou o rei, e também metade do povo de Israel.",
-      "referencias": [],
-      "comentario": "Davi retorna a Gilgal, acompanhado por Quimã e por uma parte do povo de Israel, mostrando que a unificação ainda não está completa.",
-      "temas": ["retorno", "unificação parcial"],
-      "personagens": ["Davi", "Quimã", "Povo de Judá", "Povo de Israel"]
+      "parafrase": "Então, Davi, com o coração cheio de gratidão e alívio, ofereceu sacrifícios a Deus ali mesmo, no monte. Ele ofereceu holocaustos (ofertas totalmente queimadas, simbolizando dedicação total) e sacrifícios de comunhão (ofertas que envolviam uma refeição compartilhada com Deus e o povo). Ao final desses rituais, ele abençoou o povo, desejando a eles a bênção e a paz de Jeová, o Senhor Todo-Poderoso.",
+      "referencias": [
+        "Gênesis 8:20",
+        "Levítico 1:1-17",
+        "1 Crônicas 21:26"
+      ],
+      "comentario": "Este versículo marca a conclusão da crise. Davi, imitando seu pai, Abraão, ergue um altar no lugar onde a praga foi detida (Monte Moriá, local tradicionalmente associado a sacrifícios). O ato de oferecer holocaustos e sacrifícios de comunhão (shelamim) demonstra sua reconciliação com Deus e seu desejo de restaurar o relacionamento comunitário. A bênção final é um ato sacerdotal, demonstrando a liderança espiritual de Davi sobre Israel.",
+      "temas": [
+        "Adoração",
+        "Reconciliação",
+        "Liderança Espiritual",
+        "Gratidão"
+      ],
+      "personagens": [
+        "Davi",
+        "O Senhor (Jeová)"
+      ]
     },
     "41": {
-      "parafrase": "E eis que todos os homens de Israel vieram ao rei e disseram ao rei: 'Por que nossos irmãos, os homens de Judá, o roubaram e levaram o rei e sua casa, e todos os homens de Davi com ele, através do Jordão?'",
-      "referencias": [],
-      "comentario": "A rivalidade entre Judá e as outras tribos de Israel ressurge. As tribos do norte se sentem desprezadas e questionam a exclusividade de Judá em trazer o rei de volta.",
-      "temas": ["rivalidade tribal", "ciúme", "questionamento"],
-      "personagens": ["Homens de Israel", "Davi", "Homens de Judá"]
+      "parafrase": "Enquanto isso, o sacerdote Uzias, que talvez estivesse presente ou retornando, juntou-se ao rei. Ele anunciou a Davi: 'Vamos subir agora! O Senhor nos aceitou e nosso povo está seguro. Que os sacerdotes e levitas preparem tudo para levarmos a Arca da Aliança de volta para Jerusalém, a Cidade de Davi, para celebrarmos juntos!'",
+      "referencias": [
+        "1 Samuel 6:19",
+        "2 Samuel 6:1"
+      ],
+      "comentario": "Uzias (não confundir com o rei de Judá) aparece aqui como uma figura de autoridade religiosa ou um representante do sacerdócio que estava supervisionando os rituais no local do sacrifício. Sua fala é um convite ativo para a fase seguinte: restaurar a presença visível de Deus (a Arca) no centro político e espiritual do reino, Jerusalém. Isso sinaliza a transição da penitência para a celebração pública.",
+      "temas": [
+        "Restauração",
+        "Iniciativa Sacerdotal",
+        "Preparação Ritual"
+      ],
+      "personagens": [
+        "Uzias",
+        "Davi"
+      ]
     },
     "42": {
-      "parafrase": "Todos os homens de Judá responderam aos homens de Israel: 'Porque o rei é nosso parente próximo. Por que vocês estão irados por causa disso? Comemos algo do rei? Ele nos deu algum presente?'",
-      "referencias": [],
-      "comentario": "Judá defende sua ação, apelando para os laços de parentesco com Davi e negando qualquer benefício pessoal. Eles tentam justificar sua prioridade.",
-      "temas": ["defesa", "parentesco", "justificativa"],
-      "personagens": ["Homens de Judá", "Homens de Israel"]
+      "parafrase": "Assim, eles trouxeram os bens que haviam sido separados para o sacrifício, não apenas os animais para os holocaustos, mas também os animais gordos destinados aos sacrifícios de comunhão, e os ofereceram ao Senhor. A fumaça subiu, um sinal agradável que mostrava que Deus havia aceitado a oferta de Davi.",
+      "referencias": [
+        "Levítico 3:1-5",
+        "Amós 5:21"
+      ],
+      "comentario": "Detalha a execução dos sacrifícios mencionados no versículo 40. A distinção entre animais para holocausto (dedicação total) e sacrifícios de comunhão (festa compartilhada) é importante. O aroma que subia era visto como o meio pelo qual a oração e a oferta eram comunicadas ao céu, um cheiro 'doce' ou agradável a Javé, indicando aceitação divina (cf. Efésios 5:2, onde Cristo é um sacrifício agradável).",
+      "temas": [
+        "Aceitação Divina",
+        "Rituais de Oferta",
+        "Aroma Sacrificial"
+      ],
+      "personagens": [
+        "O Senhor"
+      ]
     },
     "43": {
-      "parafrase": "Os homens de Israel responderam aos homens de Judá, dizendo: 'Temos dez partes no rei, e também temos mais direito a Davi do que vocês. Por que, então, vocês nos desprezaram? Não fomos nós os primeiros a falar em trazer nosso rei de volta?' Mas a palavra dos homens de Judá foi mais dura do que a palavra dos homens de Israel.",
-      "referencias": [],
-      "comentario": "A disputa se intensifica, com Israel reivindicando uma parte maior no rei e acusando Judá de desprezo. A linguagem se torna mais agressiva, prenunciando um novo conflito.",
-      "temas": ["disputa", "reivindicação", "desprezo", "conflito"],
-      "personagens": ["Homens de Israel", "Homens de Judá"]
+      "parafrase": "Finalmente, Davi deu ordens para que toda a congregação de Israel fosse abençoada, desde o homem mais importante até o mais simples. O rei, então, retornou à sua casa para cumprir suas funções governamentais, fortalecido pelo livramento que recebera do flagelo de Deus. 🙏🔥",
+      "referencias": [
+        "Números 6:24-26",
+        "Deuteronômio 28:1-6"
+      ],
+      "comentario": "Este é o clímax da bênção final, aplicada a todo o povo, reforçando o papel de Davi como mediador entre Deus e Israel. A frase final indica que, após lidar com a crise espiritual através do ritual, Davi retoma suas responsabilidades seculares ('para abençoar o povo'). O julgamento cessou, e a ordem foi restaurada. A menção de Davi voltar para casa encerra o arco narrativo da punição divina.",
+      "temas": [
+        "Bênção Universal",
+        "Restauração da Ordem",
+        "Fim da Praga"
+      ],
+      "personagens": [
+        "Davi",
+        "Israel (Povo)"
+      ]
     }
   }
 }

@@ -1,162 +1,352 @@
 {
   "livro": "Deuteronômio",
   "capitulo": 24,
-  "contexto_historico": "Moisés continua a instruir o povo de Israel sobre as leis que regeriam a vida na Terra Prometida. Este capítulo aborda diversas leis sociais e éticas, incluindo divórcio, penhores, sequestro, lepra, salários, e a importância de cuidar dos necessitados, enfatizando a justiça, a compaixão e a santidade da comunidade.",
-  "bloco_tematico": "Leis Sociais e Éticas: Divórcio, Penhores e Justiça",
+  "contexto_historico": "O livro de Deuteronômio é uma série de discursos de despedida de Moisés ao povo de Israel, pouco antes de entrarem na Terra Prometida, após 40 anos no deserto. Este capítulo específico (Dt 24) surge no contexto da legislação social e ética que Moisés está transmitindo para estabelecer uma sociedade justa e ordenada sob a aliança com Deus, abordando questões práticas de inter-relacionamento humano, especialmente envolvendo vulnerabilidades sociais como divórcio, obrigações econômicas e justiça processual. ⚖️ A lei aqui visa proteger os mais fracos e reforçar a memória da libertação do Egito (serem escravos e depois libertos). 📜",
+  "bloco_tematico": "Leis de Justiça Social e Piedade: O Respeito ao Vulnerável e a Ordem Comunitária 🤝🏠",
   "versiculos": {
     "1": {
-      "parafrase": "Se um homem se casar com uma mulher, e ela não encontrar favor aos seus olhos porque ele encontrou nela algo indecente, e ele lhe escrever uma certidão de divórcio, e a entregar em sua mão, e a mandar embora de sua casa,",
-      "referencias": ["Mateus 5:31-32", "Mateus 19:7-9", "Marcos 10:4-5"],
-      "comentario": "A lei do divórcio é apresentada, reconhecendo uma prática existente, mas regulamentando-a para proteger a mulher. A 'certidão de divórcio' era um documento legal que permitia à mulher se casar novamente.",
-      "temas": ["divórcio", "proteção da mulher", "certidão de divórcio", "regulamentação"],
-      "personagens": ["Moisés"]
+      "parafrase": "Quando um homem casa com uma mulher e se torna seu marido, e depois, por algum motivo, ela perde o seu apreço aos seus olhos, talvez por encontrar algo de 'desagradável' nela, ele não poderá simplesmente descartá-la e mandá-la embora como quem joga fora um objeto velho. Ele deve, antes de tudo, formalizar a separação em um documento legal.",
+      "referencias": [
+        "Gênesis 2:24",
+        "Mateus 19:5"
+      ],
+      "comentario": "O texto introduz a lei do divórcio. A cláusula 'achou nela algo de feio/desagradável' (Heb. ervat davar) é vaga e foi objeto de muita discussão rabínica. Geralmente, a escola de Hillel interpretava-a amplamente (qualquer descontentamento), enquanto Shammai a restringia a falhas morais sérias. Moisés aqui estabelece o procedimento formal (o 'get' ou carta de divórcio) como um freio necessário contra a repudiação arbitrária.",
+      "temas": [
+        "Leis de Casamento e Divórcio",
+        "Dignidade da Mulher",
+        "Ordem Legal"
+      ],
+      "personagens": [
+        "Homem (Marido)",
+        "Mulher"
+      ]
     },
     "2": {
-      "parafrase": "e ela sair da casa dele e se casar com outro homem,",
-      "referencias": [],
-      "comentario": "A mulher divorciada tinha o direito de se casar novamente.",
-      "temas": ["novo casamento", "direito da mulher"],
-      "personagens": []
+      "parafrase": "Para que o processo seja irrevogável, ela deverá deixar a casa do marido, e ele deverá formalmente lhe entregar aquela certidão de divórcio, assinada e datada, e então enviá-la para longe de sua esfera familiar, para que ela seja livre para seguir seu próprio caminho.",
+      "referencias": [
+        "Jeremias 3:1",
+        "Ezequiel 23:2"
+      ],
+      "comentario": "A carta de divórcio (get) era o documento legal que quebrava o vínculo matrimonial sob a Lei Mosaica. Sua posse dava à mulher o direito de casar novamente, prevenindo que ela fosse tratada como escrava ou concubina repudiada sem direitos.",
+      "temas": [
+        "Procedimento Legal",
+        "Dissolução de Vínculos",
+        "Autonomia Pessoal"
+      ],
+      "personagens": [
+        "Mulher"
+      ]
     },
     "3": {
-      "parafrase": "e o segundo marido a odiar e lhe escrever uma certidão de divórcio, e a entregar em sua mão, e a mandar embora de sua casa, ou se o segundo marido, que a tomou para ser sua mulher, morrer,",
-      "referencias": [],
-      "comentario": "A lei continua a descrever cenários de divórcio ou viuvez após um segundo casamento.",
-      "temas": ["segundo casamento", "viuvez"],
-      "personagens": []
+      "parafrase": "Contudo, se, depois de deixar a casa do primeiro marido, ela for e se casar com outro homem, e este segundo marido também passar a desgostar dela, ou se este segundo marido morrer, ela estará em sérios apuros.",
+      "referencias": [
+        "Romanos 7:2",
+        "I Coríntios 7:39"
+      ],
+      "comentario": "Aqui reside o cerne da proibição. Se o segundo casamento for dissolvido (por divórcio ou morte), a mulher fica numa posição social e legal vulnerável, especialmente se retornar ao primeiro marido.",
+      "temas": [
+        "Recasamento",
+        "Vulnerabilidade Social",
+        "Leis de Pureza"
+      ],
+      "personagens": [
+        "Mulher",
+        "Segundo Marido"
+      ]
     },
     "4": {
-      "parafrase": "o primeiro marido, que a mandou embora, não poderá tomá-la novamente para ser sua mulher, depois que ela foi contaminada, pois isso é uma abominação perante o Senhor. Assim, vocês não trarão pecado sobre a terra que o Senhor, o seu Deus, lhes dá como herança.",
-      "referencias": [],
-      "comentario": "A proibição de um homem se casar novamente com sua ex-esposa após ela ter se casado com outro (e se divorciado ou enviuvado) visava proteger a santidade do casamento e evitar a confusão de linhagens. Era considerado uma abominação que contaminaria a terra.",
-      "temas": ["proibição de recasamento", "santidade do casamento", "contaminação da terra", "abominação"],
-      "personagens": ["Deus"]
+      "parafrase": "O primeiro marido que a repudiou não terá o direito de tomá-la de volta para ser sua esposa, mesmo que ela agora esteja desamparada. Isso seria uma abominação e uma grande mancha diante do Senhor, seu Deus, pois aquele primeiro divórcio profanou a terra que Ele lhe deu como herança.",
+      "referencias": [
+        "Levítico 18:24",
+        "Provérbios 30:6"
+      ],
+      "comentario": "O ato de readmitir uma ex-esposa após ela ter se casado com outro é categoricamente proibido (tô'evah - abominação). O versículo conecta a moralidade conjugal com a santidade da terra prometida. A desordem social e familiar é vista como uma contaminação do pacto territorial.",
+      "temas": [
+        "Abominação",
+        "Santidade da Terra",
+        "Pacto Divino"
+      ],
+      "personagens": [
+        "Primeiro Marido",
+        "Senhor Deus"
+      ]
     },
     "5": {
-      "parafrase": "Quando um homem se casar recentemente, não sairá para a guerra, nem se lhe imporá encargo algum. Ele ficará livre em sua casa por um ano, para alegrar a mulher que tomou.",
-      "referencias": [],
-      "comentario": "A lei concede um ano de isenção militar para o recém-casado, permitindo-lhe estabelecer sua família e desfrutar de seu casamento. Isso demonstra o valor da família na sociedade israelita.",
-      "temas": ["isenção militar", "valor da família", "alegria no casamento"],
-      "personagens": ["Moisés"]
+      "parafrase": "Quando um homem acabou de se casar, ele não deve ser convocado para o serviço militar ou para qualquer trabalho público pesado durante o primeiro ano. Ele deve permanecer em casa, dedicado unicamente a trazer alegria e felicidade à mulher que ele escolheu para ser sua companheira de vida.",
+      "referencias": [
+        "Isaías 61:10",
+        "Cântico dos Cânticos 1:15"
+      ],
+      "comentario": "Um contraste notável com a dureza do divórcio. O primeiro ano de casamento é um período sagrado de consolidação do vínculo. O termo hebraico para 'trazer alegria' (samach et ishto) enfatiza a obrigação de nutrir o relacionamento recém-formado.",
+      "temas": [
+        "Dever Conjugal",
+        "Consagração do Lar",
+        "Alegria no Início da Vida"
+      ],
+      "personagens": [
+        "Homem (Recém-casado)",
+        "Mulher"
+      ]
     },
     "6": {
-      "parafrase": "Ninguém tomará como penhor as duas pedras de moinho, nem mesmo a pedra de cima, pois isso seria tomar como penhor a própria vida.",
-      "referencias": [],
-      "comentario": "A proibição de tomar as pedras de moinho como penhor visava proteger a subsistência do devedor, pois elas eram essenciais para moer o grão e produzir alimento. Isso demonstra a compaixão e a justiça social da Lei.",
-      "temas": ["proibição de penhor", "subsistência", "compaixão", "justiça social"],
-      "personagens": ["Moisés"]
+      "parafrase": "É proibido, sob pena de vida, pedir em garantia (como penhor) bens essenciais que o homem necessita para viver. Você nunca poderá confiscar a mó ou o tecido que a pessoa usa para se cobrir, seja a pedra de moer grãos ou o precioso moinho de pedra, pois isso seria pedir a própria vida dela como garantia.",
+      "referencias": [
+        "Êxodo 22:26-27",
+        "Jó 24:3"
+      ],
+      "comentario": "Este versículo trata de garantias (penhores) em empréstimos. A lei protege os meios de subsistência básicos. A pedra de moer (rehajim) era essencial para o pão diário da família. Tomá-la era equivalente a roubar a capacidade de subsistência da família, um ato cruel.",
+      "temas": [
+        "Justiça Econômica",
+        "Proteção ao Pobre",
+        "Penhores e Garantias"
+      ],
+      "personagens": []
     },
     "7": {
-      "parafrase": "Se um homem for encontrado sequestrando um de seus irmãos israelitas, e o tratar como escravo ou o vender, esse sequestrador morrerá. Assim, vocês eliminarão o mal do meio de vocês.",
-      "referencias": ["Êxodo 21:16"],
-      "comentario": "O sequestro de um israelita para escravidão era um crime grave, punível com a morte, pois violava a liberdade e a dignidade do povo de Deus.",
-      "temas": ["sequestro", "pena de morte", "liberdade", "dignidade"],
-      "personagens": ["Moisés"]
+      "parafrase": "Se for descoberto que um homem sequestrou outra pessoa – seja um israelita capturado para ser vendido como escravo, ou se for pego negociando com a vida de alguém – e ele for forçado a ser vendido, esse criminoso deve ser imediatamente executado, sem misericórdia.",
+      "referencias": [
+        "Êxodo 21:16",
+        "I Timóteo 1:10"
+      ],
+      "comentario": "O sequestro, especialmente de um compatriota (slaver trading), era punível com a morte. O termo hebraico para 'sequestrar' (nôsē' ish) implica roubo de pessoa. A pena capital era mandatória para este crime hediondo contra a liberdade humana.",
+      "temas": [
+        "Crime Capital",
+        "Tráfico de Pessoas",
+        "Liberdade"
+      ],
+      "personagens": [
+        "Sequestrador"
+      ]
     },
     "8": {
-      "parafrase": "Tenham cuidado com a praga da lepra, para que vocês observem e façam tudo o que os sacerdotes levitas lhes ensinarem. Tenham o cuidado de fazer como eu lhes ordenei.",
-      "referencias": ["Levítico 13-14"],
-      "comentario": "Moisés adverte sobre a lepra e a importância de seguir as instruções dos sacerdotes levitas para a purificação, pois a lepra era uma doença que trazia impureza ritual e social.",
-      "temas": ["lepra", "purificação ritual", "instruções sacerdotais"],
-      "personagens": ["Moisés"]
+      "parafrase": "Ao lidar com questões de enfermidade, como uma grave erupção cutânea (como a lepra), preste muita atenção e siga rigorosamente as instruções dadas pelos sacerdotes levitas. Eles serão seus guias de acordo com as leis que eu estabeleci para vocês. Lembrem-se bem de tudo o que ordenei a eles.",
+      "referencias": [
+        "Levítico 13:1-59",
+        "II Crônicas 26:18"
+      ],
+      "comentario": "Este trecho redireciona para as leis de pureza ritual, especificamente as relacionadas a doenças de pele (geralmente associadas à lepra bíblica, tsara'at). O papel do sacerdote era vital como juiz de pureza ritual, exigindo obediência estrita às suas diretrizes.",
+      "temas": [
+        "Pureza Ritual",
+        "Autoridade Sacerdotal",
+        "Doenças de Pele"
+      ],
+      "personagens": [
+        "Sacerdotes Levitas"
+      ]
     },
     "9": {
-      "parafrase": "Lembrem-se do que o Senhor, o seu Deus, fez a Miriã no caminho, depois que vocês saíram do Egito.",
-      "referencias": ["Números 12:9-15"],
-      "comentario": "O caso de Miriã, que foi ferida com lepra por murmurar contra Moisés, serve como um aviso sobre as consequências da desobediência e da rebelião.",
-      "temas": ["lembrança", "consequências da desobediência", "rebelião"],
-      "personagens": ["Moisés"]
+      "parafrase": "Lembrem-se do que aconteceu com a terrível praga que atingiu Miriam, a irmã de Arão, quando ela se rebelou contra a autoridade delegada por Deus. Quando ela foi ferida com a doença da pele, ela teve que ser isolada por sete dias fora do acampamento. Não se esqueçam dessa lição de desobediência!",
+      "referencias": [
+        "Números 12:10-15",
+        "Salmos 73:19"
+      ],
+      "comentario": "Uma referência histórica poderosa (Miriam). O episódio serve como prova de que a autoridade sacerdotal e profética, mesmo quando contestada por líderes próximos, deve ser respeitada, sob pena de punição divina visível e humilhante (exílio temporário).",
+      "temas": [
+        "Consequências da Rebeldia",
+        "Exemplo Histórico",
+        "Autoridade Delegada"
+      ],
+      "personagens": [
+        "Miriam",
+        "Arão"
+      ]
     },
     "10": {
-      "parafrase": "Quando vocês emprestarem algo ao seu próximo, não entrem na casa dele para pegar o penhor.",
-      "referencias": [],
-      "comentario": "A lei proíbe o credor de entrar na casa do devedor para tomar o penhor, protegendo a privacidade e a dignidade do devedor.",
-      "temas": ["proibição de entrada", "privacidade", "dignidade"],
-      "personagens": ["Moisés"]
+      "parafrase": "Se, ao emprestar algo ao seu vizinho, você precisar entrar na casa dele para pegar a garantia, não entre na casa de qualquer maneira, de forma violenta ou desrespeitosa, para escolher o que levar.",
+      "referencias": [
+        "Provérbios 24:17",
+        "Tiago 2:15"
+      ],
+      "comentario": "A lei protege a privacidade da casa. A entrada deve ser feita com o consentimento do devedor ou sob supervisão legal, não permitindo que o credor se torne um invasor arbitrário em busca de bens.",
+      "temas": [
+        "Invasão de Domicílio",
+        "Privacidade",
+        "Conduta Ética"
+      ],
+      "personagens": []
     },
     "11": {
-      "parafrase": "Fiquem do lado de fora, e o homem a quem vocês emprestaram trará o penhor para fora.",
-      "referencias": [],
-      "comentario": "O devedor deveria trazer o penhor para fora, mantendo sua dignidade e evitando a humilhação.",
-      "temas": ["dignidade do devedor", "humilhação"],
+      "parafrase": "Você deve esperar do lado de fora, e a pessoa endividada lhe trará a garantia para fora, para que você possa inspecioná-la.",
+      "referencias": [
+        "Êxodo 20:15",
+        "Lucas 10:30"
+      ],
+      "comentario": "Reforça o princípio do versículo 10. A negociação do penhor deve ocorrer fora do santuário doméstico, respeitando a intimidade da família do devedor.",
+      "temas": [
+        "Respeito Mútuo",
+        "Transparência em Transações"
+      ],
       "personagens": []
     },
     "12": {
-      "parafrase": "Se o homem for pobre, não durmam com o penhor dele.",
-      "referencias": ["Êxodo 22:26-27"],
-      "comentario": "Se o penhor fosse a roupa do pobre, ela deveria ser devolvida ao pôr do sol, para que ele pudesse se cobrir durante a noite. Isso demonstra a compaixão pela vulnerabilidade do pobre.",
-      "temas": ["compaixão", "vulnerabilidade", "penhor"],
-      "personagens": ["Moisés"]
+      "parafrase": "E se o homem estiver pobre e não puder oferecer um bem valioso, você deverá permitir que ele durma com o objeto dado em penhor, devolvendo-o a ele ao amanhecer, para que ele possa usar seus próprios bens para se aquecer ou se cobrir durante a noite.",
+      "referencias": [
+        "Jó 29:12",
+        "Amós 2:8"
+      ],
+      "comentario": "Este é um mandamento profundo de compaixão (Hessed). O objeto dado como penhor, se for um item de vestuário necessário para o frio noturno, deve ser devolvido temporariamente. O bem-estar humano supera o direito estrito do credor.",
+      "temas": [
+        "Compaixão (Hessed)",
+        "Direito à Moradia/Cobertura",
+        "Diferenciação de Penhores"
+      ],
+      "personagens": []
     },
     "13": {
-      "parafrase": "Certamente vocês lhe devolverão o penhor ao pôr do sol, para que ele possa dormir com a sua roupa e os abençoe. E isso será justiça para vocês perante o Senhor, o seu Deus.",
-      "referencias": [],
-      "comentario": "A devolução do penhor era um ato de justiça e compaixão que traria bênçãos de Deus sobre o credor.",
-      "temas": ["justiça", "compaixão", "bênção divina"],
-      "personagens": ["Deus"]
+      "parafrase": "Pois este bem era a sua única roupa, a capa que ele usa para cobrir o corpo. Se você o retiver, sobre o que ele se deitará para se aquecer ao cair da noite? Como ele poderá dormir em paz?",
+      "referencias": [
+        "Jó 31:19-20",
+        "Mateus 5:40"
+      ],
+      "comentario": "A paráfrase expõe a necessidade vital. O tecido não era um luxo, mas uma necessidade de sobrevivência. A lei demonstra que a dívida nunca deve levar à desumanização do devedor.",
+      "temas": [
+        "Necessidade Básica",
+        "Direito à Dignidade",
+        "Restituição Noturna"
+      ],
+      "personagens": []
     },
     "14": {
-      "parafrase": "Não oprimam o trabalhador contratado que é pobre e necessitado, seja ele um de seus irmãos ou um estrangeiro que vive em sua terra, dentro das suas portas.",
-      "referencias": ["Levítico 19:13"],
-      "comentario": "A proibição de oprimir o trabalhador pobre e necessitado, seja israelita ou estrangeiro, demonstra a justiça social da Lei e a preocupação de Deus com os vulneráveis.",
-      "temas": ["não oprimir", "trabalhador pobre", "justiça social", "vulneráveis"],
-      "personagens": ["Moisés"]
+      "parafrase": "Você jamais deve oprimir ou explorar o trabalhador pobre e necessitado, seja ele um hebreu ou um estrangeiro que vive em suas cidades. O salário dele deve ser pago no mesmo dia em que ele completar o trabalho.",
+      "referencias": [
+        "Levítico 19:13",
+        "Tiago 5:4"
+      ],
+      "comentario": "Foco na justiça trabalhista. O pagamento diário (ou no fim do dia de trabalho) é essencial para que o trabalhador pobre possa prover para sua família naquele dia. A exploração é proibida de forma explícita.",
+      "temas": [
+        "Justiça Trabalhista",
+        "Salário Digno",
+        "Exploração"
+      ],
+      "personagens": [
+        "Trabalhador Pobre",
+        "Estrangeiro"
+      ]
     },
     "15": {
-      "parafrase": "Paguem-lhe o seu salário no mesmo dia, antes que o sol se ponha, pois ele é pobre e depende disso para viver. Assim, ele não clamará ao Senhor contra vocês, e isso não será pecado para vocês.",
-      "referencias": [],
-      "comentario": "O pagamento diário do salário era essencial para a subsistência do trabalhador pobre. A demora no pagamento seria um pecado que clamaria a Deus por justiça.",
-      "temas": ["pagamento diário", "subsistência", "pecado"],
-      "personagens": ["Moisés"]
+      "parafrase": "Você deve lhe pagar antes que o sol se ponha, pois ele depende daquele pagamento para sua sobrevivência imediata. Se você adiar, ele poderá clamar ao Senhor contra você, e Deus o considerará um grande pecador.",
+      "referencias": [
+        "Neemias 5:4",
+        "Malaquias 3:5"
+      ],
+      "comentario": "O adiar o pagamento era considerado um grito por justiça que alcançava o próprio Deus. A conexão direta entre a opressão do trabalhador e o julgamento divino é uma das sentenças mais fortes sobre ética econômica no Antigo Testamento.",
+      "temas": [
+        "Julgamento Divino",
+        "Dever do Empregador",
+        "Urgência no Pagamento"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "16": {
-      "parafrase": "Os pais não serão mortos por causa dos filhos, nem os filhos por causa dos pais; cada um será morto por seu próprio pecado.",
-      "referencias": ["Ezequiel 18:20"],
-      "comentario": "A lei estabelece a responsabilidade individual pelo pecado, proibindo a punição coletiva ou a transferência de culpa entre gerações. Cada um é responsável por suas próprias ações.",
-      "temas": ["responsabilidade individual", "proibição de punição coletiva", "justiça"],
-      "personagens": ["Moisés"]
+      "parafrase": "Pais não serão mortos por causa dos crimes cometidos por seus filhos, e filhos não serão executados pelos pecados graves de seus pais. Cada pessoa deve morrer apenas pelo seu próprio erro, pelo crime que ela mesma cometeu.",
+      "referencias": [
+        "Ezequiel 18:20",
+        "Gênesis 4:15"
+      ],
+      "comentario": "Este é um princípio fundamental de justiça individual, rompendo com mentalidades tribais de culpa coletiva. A teologia israelita avança aqui para a responsabilidade pessoal perante a lei divina (Princípio da Individualização da Culpa).",
+      "temas": [
+        "Responsabilidade Individual",
+        "Justiça Pessoal",
+        "Fim da Culpa Coletiva"
+      ],
+      "personagens": [
+        "Pais",
+        "Filhos"
+      ]
     },
     "17": {
-      "parafrase": "Não distorçam a justiça do estrangeiro ou do órfão, nem tomem como penhor a roupa da viúva.",
-      "referencias": ["Êxodo 22:22-24"],
-      "comentario": "A lei protege os direitos dos mais vulneráveis da sociedade: estrangeiros, órfãos e viúvas, que eram frequentemente explorados. A justiça para eles era uma prioridade para Deus.",
-      "temas": ["proteção dos vulneráveis", "justiça", "estrangeiros", "órfãos", "viúvas"],
-      "personagens": ["Moisés"]
+      "parafrase": "Você deve sempre defender os direitos do estrangeiro residente e do órfão, e jamais tomar o manto ou a roupa da viúva como penhor.",
+      "referencias": [
+        "Zacarias 7:10",
+        "Jó 22:9"
+      ],
+      "comentario": "Reforça a tríade dos vulneráveis (estrangeiro, órfão, viúva). A lei protege aqueles que não têm poder político ou familiar para se defender. A viúva, em particular, frequentemente dependia de sua roupa para aquecimento e decência social.",
+      "temas": [
+        "Proteção aos Vulneráveis",
+        "Ética Social",
+        "Viúvas"
+      ],
+      "personagens": [
+        "Estrangeiro",
+        "Órfão",
+        "Viúva"
+      ]
     },
     "18": {
-      "parafrase": "Lembrem-se de que vocês foram escravos no Egito, e o Senhor, o seu Deus, os resgatou dali. Por isso, hoje lhes ordeno que façam isso.",
-      "referencias": [],
-      "comentario": "A experiência de Israel como escravos no Egito deveria motivá-los a tratar os outros com compaixão e justiça, lembrando-se da redenção que receberam de Deus.",
-      "temas": ["lembrança da escravidão", "compaixão", "justiça", "redenção"],
-      "personagens": ["Moisés"]
+      "parafrase": "Lembre-se de que você, outrora, foi um escravo na terra do Egito, e foi resgatado de lá pela poderosa mão do Senhor, seu Deus. É por isso que eu lhes dou esta lei: para que vocês ajam com justiça e misericórdia.",
+      "referencias": [
+        "Êxodo 20:2",
+        "Levítico 25:35-36"
+      ],
+      "comentario": "A motivação teológica para a justiça social. A memória da própria escravidão (o Êxodo) deve ser o motor da compaixão e da justiça para com os marginalizados. A graça recebida deve ser replicada no tratamento ao próximo.",
+      "temas": [
+        "Memória do Êxodo",
+        "Gratidão",
+        "Motivação da Lei"
+      ],
+      "personagens": [
+        "Senhor Deus"
+      ]
     },
     "19": {
-      "parafrase": "Quando vocês ceifarem a sua colheita no seu campo e esquecerem um feixe no campo, não voltem para pegá-lo. Ele será para o estrangeiro, para o órfão e para a viúva, para que o Senhor, o seu Deus, os abençoe em todo o trabalho das suas mãos.",
-      "referencias": ["Levítico 19:9-10"],
-      "comentario": "A lei da respiga e do feixe esquecido garantia que os necessitados tivessem acesso a alimento, promovendo a generosidade e a provisão para os vulneráveis. A obediência a esta lei traria bênçãos sobre o trabalho do agricultor.",
-      "temas": ["respiga", "feixe esquecido", "provisão para os necessitados", "generosidade", "bênção divina"],
-      "personagens": ["Moisés"]
+      "parafrase": "Quando você estiver colhendo seus campos e, por descuido, deixar cair um feixe de trigo, ou um cacho de uvas que não colheu da videira, não volte atrás para pegá-los. Deixe-os para trás.",
+      "referencias": [
+        "Levítico 19:9-10",
+        "Rute 2:2-3"
+      ],
+      "comentario": "Instituição do Leket (deixar cair) e Shicáchah (esquecer). A perfeição na colheita não é o objetivo; o objetivo é garantir que os pobres e estrangeiros tenham o que coletar depois que os proprietários terminarem.",
+      "temas": [
+        "Colheita para os Pobres",
+        "Generosidade na Agricultura",
+        "Direito de Coleta"
+      ],
+      "personagens": []
     },
     "20": {
-      "parafrase": "Quando vocês sacudirem as suas oliveiras, não voltem para colher o que sobrou. Será para o estrangeiro, para o órfão e para a viúva.",
-      "referencias": [],
-      "comentario": "A mesma lei se aplica à colheita de azeitonas, garantindo que os necessitados pudessem se beneficiar da abundância da terra.",
-      "temas": ["colheita de azeitonas", "provisão para os necessitados"],
-      "personagens": ["Moisés"]
+      "parafrase": "Aqueles frutos esquecidos, e os cachos não apanhados, e as azeitonas que não foram batidas da árvore, pertencem ao estrangeiro, ao órfão e à viúva. Assim, o Senhor, seu Deus, os abençoará em todo o trabalho que suas mãos realizarem.",
+      "referencias": [
+        "Apocalipse 22:12",
+        "Salmos 146:9"
+      ],
+      "comentario": "A bênção divina está condicionada à prática da justiça. Ao abrir mão do total controle sobre a produção (o 'excesso'), Israel garante a bênção sobre o que permanece.",
+      "temas": [
+        "Bênção e Obediência",
+        "Abundância Compartilhada",
+        "Recompensa do Trabalho"
+      ],
+      "personagens": [
+        "Senhor Deus"
+      ]
     },
     "21": {
-      "parafrase": "Quando vocês colherem as uvas da sua vinha, não voltem para respigar o que sobrou. Será para o estrangeiro, para o órfão e para a viúva.",
-      "referencias": [],
-      "comentario": "A lei da respiga se estende à colheita de uvas, reforçando o princípio da generosidade e do cuidado com os vulneráveis.",
-      "temas": ["colheita de uvas", "provisão para os necessitados", "generosidade"],
-      "personagens": ["Moisés"]
+      "parafrase": "Você deverá fazer o mesmo com suas vinhas e oliveiras: não passe duas vezes para colher os frutos. O que sobrar deve ser deixado para os necessitados da comunidade.",
+      "referencias": [
+        "Lucas 13:8-9",
+        "Habacuque 3:17"
+      ],
+      "comentario": "Estende a regra da 'não-retorno' (não voltar para apanhar o que caiu ou ficou) à produção de azeite e vinho, os pilares da economia agrícola antiga. A terra deve sustentar a comunidade, não apenas o proprietário.",
+      "temas": [
+        "Distribuição de Recursos",
+        "Colheita de Vinho e Azeite",
+        "Generosidade Agrícola"
+      ],
+      "personagens": []
     },
     "22": {
-      "parafrase": "Lembrem-se de que vocês foram escravos na terra do Egito. Por isso, hoje lhes ordeno que façam isso.",
-      "referencias": [],
-      "comentario": "A experiência da escravidão no Egito é novamente citada como a motivação para a compaixão e a justiça para com os necessitados.",
-      "temas": ["lembrança da escravidão", "motivação para a compaixão", "justiça"],
-      "personagens": ["Moisés"]
+      "parafrase": "E você jamais se esquecerá de que também você foi escravo em uma terra estrangeira, no Egito. Portanto, cumpra estas leis com fidelidade, pois elas são a prova de que você aprendeu a ser livre através da misericórdia de Deus.",
+      "referencias": [
+        "Êxodo 13:3",
+        "I Pedro 2:16"
+      ],
+      "comentario": "Fechamento poderoso que amarra a prática ética (colheita e compaixão) à identidade nacional e espiritual (o Êxodo). A liberdade em Israel não era apenas política, mas uma vocação para a justiça social, baseada na libertação experimentada.",
+      "temas": [
+        "Fidelidade ao Pacto",
+        "Identidade Israelita",
+        "Memória da Escravidão"
+      ],
+      "personagens": []
     }
   }
 }

@@ -1,162 +1,364 @@
 {
   "livro": "Rute",
   "capitulo": 1,
-  "contexto_historico": "O livro de Rute se passa durante o período dos juízes, um tempo de grande instabilidade social e moral em Israel, caracterizado pela frase 'cada um fazia o que parecia bem aos seus olhos'. No entanto, em contraste com a violência e a apostasia descritas em Juízes, a história de Rute é um oásis de lealdade, bondade e fidelidade, mostrando que, mesmo em tempos sombrios, a fé e a providência de Deus estavam em ação na vida de indivíduos comuns.",
-  "bloco_tematico": "Noemi e Rute em Belém",
+  "contexto_historico": "O Livro de Rute se passa durante o Período dos Juízes em Israel, uma época marcada por instabilidade política e moral, onde 'cada um fazia o que lhe parecia mais reto' (Juízes 21:25) 🏛️. Este período é caracterizado por ciclos de opressão por nações vizinhas e libertação por juízes levantados por Deus. A história de Rute, especificamente, foca na transição da época dos juízes para o início da monarquia (Rute 4:17 menciona a linhagem de Davi) 👑. Há uma grande ênfase na fidelidade (hesed) em um tempo de deslealdade, e na importância da terra e da redenção familiar (goel) 🌾.",
+  "bloco_tematico": "Da Fome à Fidelidade: A Jornada de Naomi e Rute 🚶‍♀️💔",
   "versiculos": {
     "1": {
-      "parafrase": "Nos dias em que os juízes governavam, houve uma fome na terra. Então um homem de Belém de Judá, chamado Elimeleque, foi morar na terra de Moabe com sua esposa Noemi e seus dois filhos.",
-      "referencias": ["Juízes 21:25"],
-      "comentario": "A história começa com uma crise: a fome, que força uma família israelita a emigrar para Moabe, uma nação pagã e inimiga de Israel. Isso já é um sinal de desespero e de que as coisas não estavam bem em Israel.",
-      "temas": ["fome", "emigração", "crise"],
-      "personagens": ["Elimeleque", "Noemi", "Filhos de Elimeleque"]
+      "parafrase": "Em um tempo muito antigo, quando os juízes governavam Israel, houve uma grande fome que assolou a terra. Por causa dessa terrível escassez de pão, um homem chamado Elimeleque, oriundo de Belém na Judéia, decidiu abandonar sua terra natal. Ele, sua esposa Noemi, e seus dois filhos, Malom e Quelione, viajaram para a terra estrangeira de Moabe, buscando refúgio e sustento na esperança de que ali encontrariam vida melhor.",
+      "referencias": [
+        "Gênesis 41:54",
+        "Miqueias 5:2"
+      ],
+      "comentario": "Este versículo estabelece o pano de fundo: a ausência de um rei ungido ('os juízes governavam') e a crise econômica (a fome). A migração de Belém (Casa do Pão) para Moabe (terra inimiga, descendentes de Ló) é um ato de desespero e ironia geográfica. O texto hebraico indica que eles 'peregrinaram' (gûr), um termo que pode significar tanto morar temporariamente quanto se estabelecer.",
+      "temas": [
+        "Fome e Escassez",
+        "Migração",
+        "Exílio"
+      ],
+      "personagens": [
+        "Elimeleque",
+        "Noemi",
+        "Malom",
+        "Quelione"
+      ]
     },
     "2": {
-      "parafrase": "O nome do homem era Elimeleque, o nome de sua esposa era Noemi, e os nomes de seus dois filhos eram Malom e Quiliom. Eles eram efrateus de Belém de Judá. Chegaram à terra de Moabe e ali ficaram.",
-      "referencias": [],
-      "comentario": "Os nomes dos personagens são significativos: Elimeleque significa 'Meu Deus é Rei', Noemi significa 'Minha doçura', Malom 'doença' e Quiliom 'consumo'. A família se estabelece em Moabe, uma terra estrangeira.",
-      "temas": ["nomes significativos", "assentamento"],
-      "personagens": ["Elimeleque", "Noemi", "Malom", "Quiliom"]
+      "parafrase": "Esses familiares de Belém se estabeleceram na região de Moabe, onde permaneceram vivendo por muitos anos, adaptando-se à vida alheia.",
+      "referencias": [
+        "Gênesis 12:10"
+      ],
+      "comentario": "O verbo hebraico usado para 'estabeleceram-se' sugere uma permanência prolongada, não apenas uma visita breve, o que aprofunda a implicação de seu exílio voluntário.",
+      "temas": [
+        "Exílio",
+        "Permanência"
+      ],
+      "personagens": [
+        "Elimeleque",
+        "Noemi",
+        "Malom",
+        "Quelione"
+      ]
     },
     "3": {
-      "parafrase": "Elimeleque, marido de Noemi, morreu, e ela ficou com seus dois filhos.",
-      "referencias": [],
-      "comentario": "A primeira tragédia atinge a família: a morte do patriarca, deixando Noemi viúva e em uma terra estrangeira.",
-      "temas": ["morte", "viuvez", "tragédia"],
-      "personagens": ["Elimeleque", "Noemi"]
+      "parafrase": "Com o passar do tempo, Elimeleque, o marido de Noemi, faleceu na terra de Moabe, deixando sua esposa viúva e sozinha com seus dois filhos.",
+      "referencias": [
+        "Gênesis 49:33"
+      ],
+      "comentario": "A morte do patriarca Elimeleque, longe de sua pátria e sem o apoio da comunidade israelita, acentua a vulnerabilidade da família no território moabita.",
+      "temas": [
+        "Morte",
+        "Viúvez",
+        "Perda"
+      ],
+      "personagens": [
+        "Elimeleque",
+        "Noemi"
+      ]
     },
     "4": {
-      "parafrase": "Eles se casaram com mulheres moabitas; o nome de uma era Orfa e o nome da outra era Rute. E viveram ali por cerca de dez anos.",
-      "referencias": ["Deuteronômio 23:3-6"],
-      "comentario": "Os filhos de Noemi se casam com mulheres moabitas, o que era proibido pela lei de Moisés. Embora a lei se referisse a casamentos que levassem à idolatria, a situação aqui é de necessidade. No entanto, isso destaca a distância da família da terra de Israel e de suas leis.",
-      "temas": ["casamento misto", "violação da lei", "tempo"],
-      "personagens": ["Malom", "Quiliom", "Orfa", "Rute"]
+      "parafrase": "Esses dois filhos, Malom e Quelione, casaram-se com mulheres moabitas, cujos nomes eram Orfa e Rute. Eles viveram na terra de Moabe por cerca de uma década.",
+      "referencias": [
+        "Gênesis 26:34"
+      ],
+      "comentario": "O casamento dos filhos com moabitas (povos frequentemente inimigos de Israel, cf. Deuteronômio 23:3-6) é um fator crucial que complicará o futuro das noras e de Noemi. O texto destaca que elas eram moabitas, um detalhe cultural importante.",
+      "temas": [
+        "Casamento Intercultural",
+        "Adaptação Cultural"
+      ],
+      "personagens": [
+        "Malom",
+        "Quelione",
+        "Orfa",
+        "Rute"
+      ]
     },
     "5": {
-      "parafrase": "Malom e Quiliom também morreram, e a mulher ficou sem seus dois filhos e sem seu marido.",
-      "referencias": [],
-      "comentario": "A tragédia se aprofunda. Noemi perde seus dois filhos, ficando completamente desamparada, sem marido e sem herdeiros. Ela é uma viúva triplamente enlutada, sem apoio em uma terra estrangeira.",
-      "temas": ["morte", "perda", "desamparo", "tragédia"],
-      "personagens": ["Malom", "Quiliom", "Noemi"]
+      "parafrase": "Infelizmente, a tragédia se abateu novamente sobre Noemi, pois tanto Malom quanto Quelione morreram, deixando-a completamente desamparada, sem o marido e sem os filhos.",
+      "referencias": [
+        "Lamentações 1:1"
+      ],
+      "comentario": "Este versículo solidifica a miséria de Noemi. Ela perdeu toda a sua base familiar imediata: marido e filhos. O hebraico para 'ficaram sem' ou 'tomaram para si' (laqach) sublinha a aquisição da morte sobre sua casa.",
+      "temas": [
+        "Morte",
+        "Luto Profundo",
+        "Perda Total"
+      ],
+      "personagens": [
+        "Noemi",
+        "Malom",
+        "Quelione"
+      ]
     },
     "6": {
-      "parafrase": "Então ela se levantou com suas noras para voltar da terra de Moabe, pois ouviu na terra de Moabe que o Senhor havia visitado seu povo, dando-lhes pão.",
-      "referencias": [],
-      "comentario": "Noemi ouve boas notícias de Israel: a fome acabou, e Deus está abençoando Seu povo. Isso a motiva a retornar à sua terra natal, onde ela espera encontrar algum sustento e segurança.",
-      "temas": ["retorno", "provisão divina", "esperança"],
-      "personagens": ["Noemi", "Orfa", "Rute"]
+      "parafrase": "Então, Noemi ouviu dizer que a mão de Deus havia se lembrado do seu povo em Judá, trazendo fartura de volta à sua terra. Ela sentiu que era hora de deixar para trás o solo moabita e iniciar sua jornada de volta para casa, com suas duas noras ao seu lado.",
+      "referencias": [
+        "Salmos 111:5",
+        "Atos 14:17"
+      ],
+      "comentario": "A 'notícia' da fartura em Judá (Israel) motiva a mudança. O termo 'ouviu dizer' (shama) é passivo; Deus moveu as circunstâncias. O movimento é apresentado como uma resposta à lembrança divina ('o Senhor se lembrou'), um conceito teológico vital.",
+      "temas": [
+        "Esperança",
+        "Provisão Divina",
+        "Retorno"
+      ],
+      "personagens": [
+        "Noemi"
+      ]
     },
     "7": {
-      "parafrase": "Ela saiu do lugar onde estava, e suas duas noras com ela. E elas seguiram o caminho de volta para a terra de Judá.",
-      "referencias": [],
-      "comentario": "As três mulheres iniciam a jornada de volta, um caminho incerto para as moabitas Orfa e Rute.",
-      "temas": ["jornada", "incerteza"],
-      "personagens": ["Noemi", "Orfa", "Rute"]
+      "parafrase": "Assim, ela se preparou para a longa viagem, saindo do lugar onde estiveram exilados, acompanhada por Orfa e Rute. Enquanto caminhavam, Noemi parou e aconselhou suas noras a retornarem às suas famílias em Moabe, para que pudessem encontrar um novo casamento e segurança em suas terras natais.",
+      "referencias": [
+        "Gênesis 31:13"
+      ],
+      "comentario": "Este é um ato de amor e sacrifício de Noemi. Ela tenta libertá-las de um futuro incerto ao lado de uma viúva idosa, incentivando-as a buscar a 'bondade' (ou segurança, no sentido de descanso) no lar de suas mães. A decisão não é forçada, mas uma sugestão carinhosa.",
+      "temas": [
+        "Lealdade",
+        "Sacrifício Pessoal",
+        "Libertação"
+      ],
+      "personagens": [
+        "Noemi",
+        "Orfa",
+        "Rute"
+      ]
     },
     "8": {
-      "parafrase": "Noemi disse às suas duas noras: 'Vão, voltem cada uma para a casa de sua mãe. Que o Senhor lhes mostre bondade, como vocês mostraram aos que morreram e a mim.'",
-      "referencias": [],
-      "comentario": "Noemi, em um ato de altruísmo e amor, tenta persuadir suas noras a voltarem para suas famílias em Moabe. Ela reconhece a bondade que elas demonstraram e ora para que Deus as recompense.",
-      "temas": ["altruísmo", "bondade", "bênção"],
-      "personagens": ["Noemi", "Orfa", "Rute", "Deus"]
+      "parafrase": "Noemi lhes disse: 'Vão, minhas filhas. Voltem para suas mães. Que o Senhor demonstre a mesma bondade e amor leal que vocês mostraram aos meus filhos falecidos e a mim mesma.'",
+      "referencias": [
+        "Êxodo 3:17",
+        "Salmos 103:4"
+      ],
+      "comentario": "Aqui, Noemi invoca a bênção do Senhor ('YHWH') sobre elas. Ela deseja que o amor leal (Hessed) que demonstraram pela família (um conceito central na ética hebraica) seja retribuído pelo próprio Deus a elas.",
+      "temas": [
+        "Bondade (Hessed)",
+        "Bênção",
+        "Gratidão"
+      ],
+      "personagens": [
+        "Noemi"
+      ]
     },
     "9": {
-      "parafrase": "'Que o Senhor lhes conceda encontrar descanso, cada uma na casa de um marido.' Então ela as beijou, e elas levantaram a voz e choraram.",
-      "referencias": [],
-      "comentario": "Noemi deseja que suas noras encontrem segurança e estabilidade através de um novo casamento, a única forma de segurança para mulheres viúvas na época. O choro delas demonstra o forte vínculo afetivo que se formou.",
-      "temas": ["segurança", "casamento", "vínculo afetivo", "tristeza"],
-      "personagens": ["Noemi", "Orfa", "Rute"]
+      "parafrase": "Com essas palavras, ela as beijou, e elas choraram alto. Elas protestaram: 'Não, nós vamos voltar com você para o seu povo!'",
+      "referencias": [
+        "Gênesis 29:11"
+      ],
+      "comentario": "O beijo de despedida é um gesto de profunda afeição. A reação imediata das noras é de profundo apego emocional, indicando que elas já haviam se integrado à família e à fé de Noemi, ou pelo menos tinham um laço muito forte com ela.",
+      "temas": [
+        "Afeição",
+        "Luto Compartilhado",
+        "Compromisso"
+      ],
+      "personagens": [
+        "Noemi",
+        "Orfa",
+        "Rute"
+      ]
     },
     "10": {
-      "parafrase": "E elas lhe disseram: 'Não! Certamente voltaremos com você para o seu povo.'",
-      "referencias": [],
-      "comentario": "As noras expressam sua lealdade e desejo de permanecer com Noemi, apesar das dificuldades.",
-      "temas": ["lealdade", "compromisso"],
-      "personagens": ["Orfa", "Rute", "Noemi"]
+      "parafrase": "Noemi insistiu, argumentando: 'Voltem, minhas filhas! Por que viriam comigo? Será que eu teria mais filhos para dar a vocês, para serem seus maridos, caso eu voltasse agora com algum esposo futuro?'",
+      "referencias": [
+        "Deuteronômio 25:5"
+      ],
+      "comentario": "Noemi usa o argumento prático e social: sem os filhos, ela não pode cumprir o dever social de gerar descendência para os falecidos (embora o Levirato se aplicasse a irmãos, o princípio da continuidade familiar era forte). Ela esvazia qualquer esperança prática de um futuro conjugal com ela.",
+      "temas": [
+        "Pragmatismo",
+        "Desesperança",
+        "Continuidade Familiar"
+      ],
+      "personagens": [
+        "Noemi"
+      ]
     },
     "11": {
-      "parafrase": "Mas Noemi disse: 'Voltem, minhas filhas. Por que viriam comigo? Tenho eu ainda filhos em meu ventre para que se tornem seus maridos?'",
-      "referencias": [],
-      "comentario": "Noemi argumenta de forma prática, apontando para a impossibilidade de lhes oferecer um futuro em Israel. Ela não tem mais filhos para casar com elas, e ela é muito velha para ter mais.",
-      "temas": ["realismo", "impossibilidade"],
-      "personagens": ["Noemi"]
+      "parafrase": "Mas elas gritaram: 'De jeito nenhum! Nós vamos com você para onde você for. O seu povo será o nosso povo, e o seu Deus será o nosso Deus!'",
+      "referencias": [
+        "Isaías 43:1"
+      ],
+      "comentario": "Aqui está a célebre declaração de Rute (embora dita pelas duas inicialmente). É uma renúncia total à identidade moabita e uma adoção completa da fé e da comunidade de Israel. O compromisso é triplo: povo, destino e divindade.",
+      "temas": [
+        "Conversão",
+        "Fidelidade",
+        "Identidade"
+      ],
+      "personagens": [
+        "Orfa",
+        "Rute"
+      ]
     },
     "12": {
-      "parafrase": "'Voltem, minhas filhas, vão! Pois estou velha demais para ter um marido. Mesmo que eu dissesse que tenho esperança, e que ainda esta noite tivesse um marido e desse à luz filhos,'",
-      "referencias": [],
-      "comentario": "Ela enfatiza sua idade avançada e a falta de esperança de ter mais filhos, o que a impediria de cumprir a lei do levirato (casamento com o irmão do falecido para levantar descendência).",
-      "temas": ["desesperança", "idade", "lei do levirato"],
-      "personagens": ["Noemi"]
+      "parafrase": "Noemi respondeu, com a voz embargada: 'Voltem para suas casas, minhas filhas. Eu entendo por que vocês querem vir, mas sejam sábias. Olhar para mim não lhes trará futuro. Minha sorte é amarga demais para vocês seguirem.'",
+      "referencias": [
+        "Jó 19:13"
+      ],
+      "comentario": "Noemi tenta dissuadi-las novamente, usando a metáfora da própria vida dela como um aviso. Ela se vê como um desastre ambulante, um espelho de sofrimento que elas não precisam absorver. Ela as chama de 'sábias' se voltarem.",
+      "temas": [
+        "Autodepreciação",
+        "Aviso",
+        "Piedade"
+      ],
+      "personagens": [
+        "Noemi"
+      ]
     },
     "13": {
-      "parafrase": "'esperariam vocês até que eles crescessem? Ficariam sem se casar por causa deles? Não, minhas filhas. Minha amargura é muito maior que a de vocês, porque a mão do Senhor se voltou contra mim.'",
-      "referencias": ["Jó 19:21"],
-      "comentario": "Noemi expressa a profundidade de sua dor e a convicção de que Deus a está castigando. Ela não quer que suas noras compartilhem de seu sofrimento. Sua amargura é tão grande que ela se sente abandonada por Deus.",
-      "temas": ["amargura", "sofrimento", "juízo divino percebido"],
-      "personagens": ["Noemi", "Deus"]
+      "parafrase": "Mas elas persistiram: 'Se você insiste em ir, nós também iremos. Onde você pousar o pé, nós pousaremos o nosso. Sua terra será nossa terra, e seu Deus, o nosso Deus.'",
+      "referencias": [
+        "2 Reis 6:16"
+      ],
+      "comentario": "A repetição desta promessa reforça a profundidade da lealdade. É uma declaração de solidariedade incondicional, transcendendo laços de sangue.",
+      "temas": [
+        "Solidariedade",
+        "Compromisso Inabalável",
+        "Destino Comum"
+      ],
+      "personagens": [
+        "Orfa",
+        "Rute"
+      ]
     },
     "14": {
-      "parafrase": "Então elas levantaram a voz e choraram novamente. Orfa beijou sua sogra, mas Rute se apegou a ela.",
-      "referencias": [],
-      "comentario": "A cena de despedida. Orfa, embora com dor, decide retornar à sua terra natal, fazendo uma escolha compreensível e prática. Rute, no entanto, demonstra uma lealdade extraordinária e inabalável.",
-      "temas": ["despedida", "lealdade", "escolha"],
-      "personagens": ["Orfa", "Rute", "Noemi"]
+      "parafrase": "Ao verem a firmeza inabalável delas, Noemi parou de argumentar. E assim, as três continuaram juntas a jornada para fora de Moabe, rumo à terra de Judá.",
+      "referencias": [
+        "Filipenses 1:27"
+      ],
+      "comentario": "O silêncio de Noemi ('e ela não lhes disse mais nada') marca a aceitação da vontade delas. A partir deste ponto, a narrativa foca na irmandade formada no caminho de volta, um contraste com a divisão que ocorrerá em breve.",
+      "temas": [
+        "Aceitação",
+        "União de Propósito",
+        "Viagem"
+      ],
+      "personagens": [
+        "Noemi",
+        "Orfa",
+        "Rute"
+      ]
     },
     "15": {
-      "parafrase": "Noemi disse: 'Veja, sua cunhada voltou para o seu povo e para os seus deuses. Volte você também com sua cunhada.'",
-      "referencias": [],
-      "comentario": "Noemi faz um último teste à lealdade de Rute, incentivando-a a seguir o exemplo de Orfa e retornar à sua cultura e religião pagãs.",
-      "temas": ["teste de lealdade", "religião", "cultura"],
-      "personagens": ["Noemi", "Rute", "Orfa"]
+      "parafrase": "Chegando perto da fronteira de Judá, Orfa se despediu de Noemi com um beijo doloroso e retornou à sua família em Moabe, buscando o conforto e a segurança de seu povo de origem.",
+      "referencias": [
+        "Gênesis 38:5"
+      ],
+      "comentario": "Este é o ponto de separação dramático. Orfa escolhe o caminho da prudência social e do retorno familiar, sendo compreendida por Noemi. Sua partida é marcada pela dor, mas é uma escolha de retorno ao conhecido.",
+      "temas": [
+        "Separação",
+        "Escolha",
+        "Retorno ao Lar"
+      ],
+      "personagens": [
+        "Orfa",
+        "Noemi"
+      ]
     },
     "16": {
-      "parafrase": "Mas Rute respondeu: 'Não me insista para que a abandone ou deixe de segui-la. Pois aonde quer que você for, eu irei; e onde quer que você morar, eu morarei. O seu povo será o meu povo, e o seu Deus será o meu Deus.'",
-      "referencias": ["Mateus 19:5"],
-      "comentario": "Esta é uma das declarações de lealdade mais famosas da Bíblia. Rute não apenas promete lealdade a Noemi, mas também uma conversão completa: ela abraça o povo e o Deus de Israel. É uma declaração de fé e de aliança incondicional.",
-      "temas": ["lealdade incondicional", "conversão", "fé", "aliança"],
-      "personagens": ["Rute", "Noemi", "Deus"]
+      "parafrase": "Entretanto, Rute recusou-se a partir. Com um fervor que ecoava um juramento sagrado, ela declarou a Noemi: 'Não me obrigue a deixar você! Não me force a me separar de sua companhia. Para onde você for, eu irei. Onde você morar, eu morarei. Seu povo será o meu povo, e o seu Deus, o meu Deus!'",
+      "referencias": [
+        "Josué 1:5"
+      ],
+      "comentario": "A repetição da promessa de Rute, agora sem a presença de Orfa, torna-a a declaração central da lealdade. A frase 'Não me obrigue a deixar você' (Hebraico: 'al-tistareni') demonstra a resistência ativa de Rute contra a separação. Sua fé e lealdade tornam-se indivisíveis de Noemi.",
+      "temas": [
+        "Lealdade Absoluta",
+        "Fé Declarada",
+        "Vínculo Inquebrável"
+      ],
+      "personagens": [
+        "Rute",
+        "Noemi"
+      ]
     },
     "17": {
-      "parafrase": "'Onde quer que você morrer, eu morrerei, e ali serei sepultada. Que o Senhor me castigue com o que quiser, se algo além da morte me separar de você.'",
-      "referencias": [],
-      "comentario": "Rute sela sua promessa com um juramento solene, invocando o nome do Senhor. Sua lealdade é até a morte, e ela está disposta a enfrentar qualquer consequência por sua escolha.",
-      "temas": ["juramento", "compromisso até a morte", "lealdade"],
-      "personagens": ["Rute", "Deus"]
+      "parafrase": "E mais ainda: 'Onde você morrer, eu morrerei, e lá quero ser sepultada. Que o Senhor me castigue com todo o rigor se outra coisa que não seja a morte me separar de você!'",
+      "referencias": [
+        "2 Samuel 15:21"
+      ],
+      "comentario": "Rute eleva seu juramento ao nível de uma imprecação (uma maldição autoimposta em caso de quebra do voto). Ela não promete apenas viver junto, mas morrer e ser enterrada ao lado de sua sogra, um desejo profundo de permanência cultural e espiritual, aceitando a terra de Israel como seu túmulo final.",
+      "temas": [
+        "Juramento Solene",
+        "Aceitação da Morte",
+        "Lealdade até o Fim"
+      ],
+      "personagens": [
+        "Rute"
+      ]
     },
     "18": {
-      "parafrase": "Quando Noemi viu que Rute estava determinada a ir com ela, parou de insistir.",
-      "referencias": [],
-      "comentario": "A determinação de Rute convence Noemi de sua sinceridade e lealdade.",
-      "temas": ["determinação", "sinceridade"],
-      "personagens": ["Noemi", "Rute"]
+      "parafrase": "Vendo a determinação inabalável de Rute, que estava firmemente decidida a segui-la, Noemi finalmente cessou qualquer tentativa de convencê-la a mudar de ideia.",
+      "referencias": [
+        "Gênesis 44:29"
+      ],
+      "comentario": "A resistência de Rute vence a preocupação protetora de Noemi. A frase hebraica para 'firmemente decidida' (chazaq) sugere que Rute endureceu sua alma ou seu coração para a missão, tornando-se impossível de ser movida.",
+      "temas": [
+        "Determinação",
+        "Vitória da Lealdade",
+        "Aliança Firmada"
+      ],
+      "personagens": [
+        "Noemi",
+        "Rute"
+      ]
     },
     "19": {
-      "parafrase": "Assim, as duas seguiram viagem até chegarem a Belém. Quando chegaram a Belém, toda a cidade ficou agitada por causa delas. As mulheres perguntavam: 'É esta Noemi?'",
-      "referencias": [],
-      "comentario": "A chegada de Noemi e Rute causa comoção em Belém. Noemi, que partiu com uma família completa, retorna desamparada, e sua aparência deve ter mudado drasticamente devido ao sofrimento.",
-      "temas": ["retorno", "comoção", "sofrimento"],
-      "personagens": ["Noemi", "Rute", "Mulheres de Belém"]
+      "parafrase": "Assim, as duas mulheres, Noemi e Rute, continuaram a caminhar juntas até chegarem finalmente à cidade de Belém. A chegada delas gerou um grande alvoroço e espanto entre toda a população, que se perguntava: 'Será que esta é Noemi?'",
+      "referencias": [
+        "Jeremias 4:19"
+      ],
+      "comentario": "O choque da comunidade ao ver Noemi, que havia partido rica e poderosa, retorna empobrecida e acompanhada de uma moabita. O povo não a reconhece facilmente devido à mudança radical em sua situação e aparência.",
+      "temas": [
+        "Reconhecimento",
+        "Contraste Social",
+        "Chegada"
+      ],
+      "personagens": [
+        "Noemi",
+        "Rute"
+      ]
     },
     "20": {
-      "parafrase": "Ela lhes disse: 'Não me chamem de Noemi (Doçura); chamem-me de Mara (Amargura), pois o Todo-Poderoso me tratou com grande amargura.'",
-      "referencias": ["Jó 2:10"],
-      "comentario": "Noemi expressa a profundidade de sua dor e sua percepção de que Deus (o Todo-Poderoso, El Shaddai) a afligiu. Ela se sente tão amargurada que deseja mudar seu próprio nome para refletir seu sofrimento.",
-      "temas": ["amargura", "sofrimento", "percepção de juízo divino"],
-      "personagens": ["Noemi", "Deus"]
+      "parafrase": "Ela lhes respondeu, tentando acalmá-los: 'Não me chamem mais de Noemi, que significa 'A Doce' ou 'A Agradável'. Chamem-me Mara, A Amarga, porque o Todo-Poderoso encheu minha vida de aflição e tristeza!'",
+      "referencias": [
+        "Lamentações 2:2"
+      ],
+      "comentario": "Este é um momento chave de identidade. Noemi rejeita seu nome original (Na'omi), que carrega conotação positiva, em favor de Mara ('amarga'). Ela sente que sua experiência de sofrimento a redefiniu completamente, e ela se identifica agora com a dor, não com a doçura da vida passada.",
+      "temas": [
+        "Identidade Sofrida",
+        "Nomenclatura",
+        "Amargura"
+      ],
+      "personagens": [
+        "Noemi"
+      ]
     },
     "21": {
-      "parafrase": "'Eu saí daqui cheia, mas o Senhor me trouxe de volta vazia. Por que me chamam de Noemi, se o Senhor testificou contra mim e o Todo-Poderoso me afligiu?'",
-      "referencias": [],
-      "comentario": "Ela contrasta sua partida (cheia de família) com seu retorno (vazia de tudo). Ela vê a mão de Deus em sua aflição, embora a história mostrará que Deus tinha um plano de restauração.",
-      "temas": ["perda", "aflição", "plano divino"],
-      "personagens": ["Noemi", "Deus"]
+      "parafrase": "'Fui embora daqui cheia de bens e com tudo resolvido', ela explicou, 'mas o Senhor me fez voltar vazia e humilhada. Por que insistir em me chamar pelo nome antigo, se o próprio Deus me castigou e me trouxe a ruína?'",
+      "referencias": [
+        "Jó 1:21"
+      ],
+      "comentario": "Noemi atribui explicitamente sua desgraça à ação direta de YHWH ('o Senhor me fez voltar vazia'). Embora sua teologia inicial seja providencialista (Deus causou a fome e agora a ruína), essa percepção será transformada ao longo do livro.",
+      "temas": [
+        "Providence Divina",
+        "Percepção de Castigo",
+        "Humilhação"
+      ],
+      "personagens": [
+        "Noemi"
+      ]
     },
     "22": {
-      "parafrase": "Assim, Noemi voltou de Moabe, e com ela Rute, a moabita, sua nora. Elas chegaram a Belém no início da colheita da cevada.",
-      "referencias": [],
-      "comentario": "A chegada delas em Belém no início da colheita da cevada é um detalhe providencial. A colheita é um tempo de abundância e oportunidade, prenunciando a provisão e a restauração que virão.",
-      "temas": ["retorno", "provisão", "esperança"],
-      "personagens": ["Noemi", "Rute"]
+      "parafrase": "Assim, Noemi retornou do campo moabita com Rute, sua nora moabita, e chegaram a Belém justamente no início da colheita da cevada, o tempo da ceifa.",
+      "referencias": [
+        "Levítico 23:10"
+      ],
+      "comentario": "O capítulo se fecha com um contraste imediato: a chegada delas coincide com o início da colheita de cevada (primavera). Isso estabelece o cenário imediato para a providência divina futura, pois a colheita é o momento de sustento e trabalho, embora para elas, no momento, pareça apenas um retorno ao lar vazio.",
+      "temas": [
+        "Início da Colheita",
+        "Retorno",
+        "Temporalidade"
+      ],
+      "personagens": [
+        "Noemi",
+        "Rute"
+      ]
     }
   }
 }

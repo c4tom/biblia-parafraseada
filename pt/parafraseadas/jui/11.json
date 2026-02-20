@@ -1,288 +1,663 @@
 {
   "livro": "Juízes",
   "capitulo": 11,
-  "contexto_historico": "Diante da iminente ameaça amonita e da falta de liderança militar, os anciãos de Gileade buscam desesperadamente um comandante. Sua busca os leva a Jefté, um guerreiro habilidoso que havia sido expulso por sua própria família. Este capítulo detalha a ascensão de Jefté, suas tentativas de diplomacia, seu voto controverso e a trágica consequência de sua vitória.",
-  "bloco_tematico": "Jefté, o Libertador de Gileade",
+  "contexto_historico": "O livro de Juízes descreve o ciclo de apostasia de Israel: O povo peca (adora outros deuses) 😥, Deus os entrega a opressores por 40 anos (sofrimento) 😫, o povo clama a Deus 🙏, e Deus levanta um juiz para libertá-los (salvação e paz) 🥳. O capítulo 11 se insere no período de opressão sob os amonitas (liderados por Jefté) ⚔️, logo após a rejeição de Jefté pelos anciãos de Gileade. O foco é a ascensão improvável de Jefté como líder militar, caracterizada por um voto precipitado e trágico feito a Deus antes da batalha contra Amom, que culmina na libertação, mas com um custo pessoal devastador 💔.",
+  "bloco_tematico": "A Ascensão de Jefté: Voto, Batalha e Tragédia Familiar 🎯",
   "versiculos": {
     "1": {
-      "parafrase": "Jefté, o gileadita, era um guerreiro valente. Ele era filho de uma prostituta, e seu pai era Gileade.",
-      "referencias": ["Hebreus 11:32"],
-      "comentario": "Jefté é apresentado com uma contradição: ele é um herói de guerra, mas tem uma origem socialmente vergonhosa. Ser filho de uma prostituta o tornava um pária, sem plenos direitos de herança, apesar de sua habilidade.",
-      "temas": ["liderança", "origem humilde", "rejeição social"],
-      "personagens": ["Jefté", "Gileade"]
+      "parafrase": "Após a morte de Jefté, o líder de Gileade, os filhos de Israel mergulharam novamente em um ciclo de infidelidade a Deus. Eles esqueceram a libertação gloriosa que haviam recebido e começaram a adorar os ídolos dos cananeus, como Baal e Astarote, servindo a todos os deuses pagãos ao redor, inclusive aos deuses de Sidom, de Ziom e de Moabe, e aos deuses dos amonitas. Como resultado direto dessa desobediência, a ira do Senhor se acendeu com veemência contra o povo de Israel, e Ele os entregou nas mãos de seus inimigos.",
+      "referencias": [
+        "Juízes 2:11-14",
+        "Deuteronômio 28:15"
+      ],
+      "comentario": "Este versículo estabelece o padrão cíclico de Juízes: paz, apostasia, opressão, clamor, livramento. O verbo hebraico para 'tornaram a fazer o mal' (וַיָּשׁוּבוּ, 'vayashuvu') indica uma repetição deliberada do erro. A lista de deuses adorados (Baal, Astarote, etc.) demonstra sincretismo religioso total, afastando-se da aliança Javista.",
+      "temas": [
+        "Apostasia",
+        "Idolatria",
+        "Ciclo de Juízes",
+        "Ira de Deus"
+      ],
+      "personagens": [
+        "Filhos de Israel"
+      ]
     },
     "2": {
-      "parafrase": "A esposa de Gileade também lhe deu filhos e, quando eles cresceram, expulsaram Jefté, dizendo: 'Você não terá herança em nossa família, porque é filho de outra mulher.'",
-      "referencias": [],
-      "comentario": "A rejeição de Jefté é formalizada por seus meio-irmãos. Eles o deserdam e o expulsam, usando sua origem como justificativa legal e social para excluí-lo.",
-      "temas": ["rejeição familiar", "herança", "conflito"],
-      "personagens": ["Filhos de Gileade", "Jefté"]
+      "parafrase": "O poder opressor veio dos filisteus, que eram inimigos temidos e constantes de Israel, e também dos amonitas, que exerciam domínio severo sobre os israelitas.",
+      "referencias": [
+        "1 Samuel 12:9",
+        "Juízes 10:7"
+      ],
+      "comentario": "A opressão agora se concentra em dois fronts principais: os filisteus a oeste (um inimigo persistente) e os amonitas a leste (que oprimirão principalmente os transjordanianos). O domínio sobre eles durou dezoito longos anos, um período significativo de sofrimento.",
+      "temas": [
+        "Opressão",
+        "Domínio Estrangeiro",
+        "Sofrimento"
+      ],
+      "personagens": [
+        "Filisteus",
+        "Amonitas"
+      ]
     },
     "3": {
-      "parafrase": "Então Jefté fugiu de seus irmãos e foi morar na terra de Tobe. E homens vadios se juntaram a Jefté e saíam com ele.",
-      "referencias": ["1 Samuel 22:1-2"],
-      "comentario": "Como um exilado, Jefté atrai outros homens marginalizados e descontentes, formando uma espécie de bando de mercenários. Nesse ambiente, ele aprimora suas habilidades de liderança e guerra, semelhante a Davi em seus primeiros dias.",
-      "temas": ["exílio", "liderança", "marginalização"],
-      "personagens": ["Jefté", "Homens vadios"]
+      "parafrase": "Em consequência dessa subjugação, os filhos de Israel se esconderam em lugares fortificados. Eles fugiram para as cavernas das montanhas, para os esconderijos mais seguros nas fortalezas rochosas e até mesmo para as cidades em ruínas, vivendo em constante terror.",
+      "referencias": [
+        "1 Samuel 13:6",
+        "Apocalipse 6:15"
+      ],
+      "comentario": "A fuga para as cavernas (מַצּוֹת, 'matsot') e fortalezas ilustra o nível de desespero e a perda de controle sobre o território prometido. Eles estavam vivendo como foragidos em sua própria terra.",
+      "temas": [
+        "Perseguição",
+        "Esconderijo",
+        "Desespero"
+      ],
+      "personagens": [
+        "Filhos de Israel"
+      ]
     },
     "4": {
-      "parafrase": "Algum tempo depois, os amonitas guerrearam contra Israel.",
-      "referencias": ["Juízes 10:7-9"],
-      "comentario": "A crise militar se intensifica, criando a necessidade que levará ao retorno de Jefté.",
-      "temas": ["guerra", "opressão"],
-      "personagens": ["Amonitas", "Israel"]
+      "parafrase": "Durante este tempo de angústia sob o jugo amonita, os israelitas clamaram fervorosamente ao Senhor, dizendo: 'Pecamos contra Ti, pois abandonamos nosso Deus e servimos aos ídolos pagãos!'.",
+      "referencias": [
+        "1 Samuel 7:6",
+        "Salmos 106:6"
+      ],
+      "comentario": "O clamor é o ponto de virada. Note que eles reconhecem a causa do sofrimento: a transgressão contra o Senhor. O choro é sincero (implica o verbo hebraico צָעַק, 'tza'ak'), mas a eficácia dependerá da mudança de coração, não apenas das lágrimas.",
+      "temas": [
+        "Clamor a Deus",
+        "Confissão de Pecado",
+        "Arrependimento"
+      ],
+      "personagens": [
+        "Filhos de Israel"
+      ]
     },
     "5": {
-      "parafrase": "Quando os amonitas estavam guerreando contra Israel, os anciãos de Gileade foram buscar Jefté na terra de Tobe.",
-      "referencias": [],
-      "comentario": "Em um ato de desespero e ironia, os mesmos líderes que permitiram a expulsão de Jefté agora o procuram por causa de sua habilidade militar. Eles precisam do homem que rejeitaram.",
-      "temas": ["ironia", "desespero", "busca por liderança"],
-      "personagens": ["Anciãos de Gileade", "Jefté"]
+      "parafrase": "O Senhor respondeu-lhes, lembrando-os: 'Não vos livrei eu antes do poder dos egípcios, dos amorreus, dos amonitas, dos filisteus, dos edomitas, dos sidônios e dos amalequitas, quando sofriam sob eles e vocês clamaram a Mim? Eu os salvei de todos esses opressores!'",
+      "referencias": [
+        "Neemias 9:27",
+        "Josué 24:10"
+      ],
+      "comentario": "Deus não lhes traz um novo libertador imediatamente; Ele primeiro os confronta com o registro de Sua fidelidade passada. A lista de nações é um catálogo das vitórias anteriores, enfatizando a ingratidão do povo. O termo 'não vos livrei eu' é retórico e acusatório.",
+      "temas": [
+        "Fidelidade de Deus",
+        "Memória Histórica",
+        "Ingratidão"
+      ],
+      "personagens": [
+        "Deus (Senhor)"
+      ]
     },
     "6": {
-      "parafrase": "Eles disseram a Jefté: 'Venha, seja nosso comandante, para que possamos lutar contra os amonitas.'",
-      "referencias": [],
-      "comentario": "A oferta é puramente militar e temporária: eles querem um comandante para a crise atual.",
-      "temas": ["oferta", "liderança militar"],
-      "personagens": ["Anciãos de Gileade", "Jefté"]
+      "parafrase": "Apesar de todos os meus atos salvadores, vocês me abandonaram de novo e decidiram servir a deuses estrangeiros. Por causa disso, Eu não os livrarei mais de suas tribulações atuais!'",
+      "referencias": [
+        "Jeremias 2:13",
+        "Hebreus 6:6"
+      ],
+      "comentario": "Esta é uma das passagens mais severas. Deus declara que não intervirá mais, pois o pecado é obstinado e repetitivo. O ato de 'servir a deuses estranhos' (אֱלֹהִים אֲחֵרִים, 'elohim acherim') é a quebra direta do pacto, justificando a recusa divina.",
+      "temas": [
+        "Justiça Divina",
+        "Rejeição",
+        "Consequência do Pecado"
+      ],
+      "personagens": [
+        "Deus (Senhor)"
+      ]
     },
     "7": {
-      "parafrase": "Jefté disse aos anciãos de Gileade: 'Não foram vocês que me odiaram e me expulsaram da casa de meu pai? Por que vêm a mim agora, quando estão em apuros?'",
-      "referencias": [],
-      "comentario": "Jefté os confronta com sua hipocrisia. Ele expõe a injustiça que sofreu e questiona a sinceridade deles, mostrando que não é um homem ingênuo para ser usado e descartado novamente.",
-      "temas": ["confronto", "hipocrisia", "justiça"],
-      "personagens": ["Jefté", "Anciãos de Gileade"]
+      "parafrase": "Então, os filhos de Israel abandonaram os seus altares estrangeiros e, em vez disso, dedicaram-se a servir somente ao Senhor, que, com isso, sentiu grande compaixão pela miséria que os afligia.",
+      "referencias": [
+        "1 Reis 11:33",
+        "Isaías 55:7"
+      ],
+      "comentario": "O povo, levado ao limite, volta-se para o Senhor e destrói os símbolos de sua idolatria (as imagens e altares). A frase 'o Senhor se afligiu' (וַיִּתְקַצֵּר רוּחַ אֶל־עֲמַל יִשְׂרָאֵל, 'vayitkazer ruach el-amal Yisra'el') sugere que o sofrimento deles finalmente tocou o coração de Deus, não por mérito, mas por Sua misericórdia inerente.",
+      "temas": [
+        "Retorno a Deus",
+        "Misericórdia",
+        "Fim da Opressão"
+      ],
+      "personagens": [
+        "Filhos de Israel",
+        "Deus (Senhor)"
+      ]
     },
     "8": {
-      "parafrase": "Os anciãos de Gileade responderam a Jefté: 'É por isso que nos voltamos para você agora. Se for conosco e lutar contra os amonitas, você será o chefe de todos nós que habitamos em Gileade.'",
-      "referencias": [],
-      "comentario": "Os anciãos admitem sua necessidade e aumentam a oferta. Eles agora oferecem a Jefté a posição de 'chefe' (governante) permanente sobre toda a região, não apenas um comando militar temporário.",
-      "temas": ["negociação", "poder", "recompensa"],
-      "personagens": ["Anciãos de Gileade", "Jefté"]
+      "parafrase": "Naquele momento, os amonitas se reuniram e acamparam na terra de Judá, e estenderam suas forças também sobre Benjamim e Efraim. Os israelitas estavam gravemente oprimidos e em profunda angústia.",
+      "referencias": [
+        "Jeremias 52:7",
+        "2 Reis 25:3"
+      ],
+      "comentario": "A opressão amonita se intensifica, atacando o território central de Israel (Judá, Benjamim e Efraim), o que torna a situação insustentável e força uma resposta militar mais ampla.",
+      "temas": [
+        "Ameaça Militar",
+        "Agravamento da Crise"
+      ],
+      "personagens": [
+        "Amonitas",
+        "Israelitas"
+      ]
     },
     "9": {
-      "parafrase": "Jefté disse aos anciãos de Gileade: 'Se vocês me levarem de volta para lutar contra os amonitas, e o Senhor os entregar a mim, eu serei o chefe de vocês?'",
-      "referencias": [],
-      "comentario": "Jefté busca a confirmação do acordo. Ele também atribui a vitória potencial ao Senhor, mostrando que, apesar de sua vida difícil, ele reconhece a soberania de Deus.",
-      "temas": ["acordo", "liderança", "fé"],
-      "personagens": ["Jefté", "Anciãos de Gileade", "Deus"]
+      "parafrase": "Então, os filhos de Israel clamaram ao Senhor mais uma vez, dizendo: 'Pecamos contra Ti por termos abandonado nosso Deus e servido aos cultos pagãos!'",
+      "referencias": [
+        "Lamentações 3:40",
+        "Salmos 78:34"
+      ],
+      "comentario": "Este é o segundo clamor, mas é seguido pela necessidade de um líder, pois o tempo de penitência (versículo 7) parece ter passado sem a provisão de um juiz imediatamente disponível.",
+      "temas": [
+        "Clamor Repetido",
+        "Reconhecimento de Culpa"
+      ],
+      "personagens": [
+        "Filhos de Israel"
+      ]
     },
     "10": {
-      "parafrase": "Os anciãos de Gileade disseram a Jefté: 'O Senhor é testemunha entre nós; certamente faremos como você disse.'",
-      "referencias": [],
-      "comentario": "Os anciãos selam o acordo com um juramento solene, invocando a Deus como testemunha. Isso torna o pacto legalmente e religiosamente vinculativo.",
-      "temas": ["juramento", "pacto", "testemunho divino"],
-      "personagens": ["Anciãos de Gileade", "Jefté", "Deus"]
+      "parafrase": "O Senhor, entretanto, questionou-os duramente: 'Eu não os salvei dos egípcios, dos amorreus, dos amonitas, dos filisteus, dos sidônios, dos amalequitas e dos maonitas, quando vocês Me invocaram, e Eu os libertei de cada opressor?',",
+      "referencias": [
+        "Salmos 106:41-43",
+        "Isaías 50:2"
+      ],
+      "comentario": "Deus repete o argumento da fidelidade passada, adicionando os Maonitas (que geralmente são associados aos Amalequitas ou a grupos do sul/oeste) à lista de libertados. A repetição visa mostrar a teimosia do povo.",
+      "temas": [
+        "Incredulidade",
+        "Memória Seletiva",
+        "Questionamento Divino"
+      ],
+      "personagens": [
+        "Deus (Senhor)",
+        "Filhos de Israel"
+      ]
     },
     "11": {
-      "parafrase": "Então Jefté foi com os anciãos de Gileade, e o povo o constituiu seu chefe e comandante. E Jefté repetiu todas as suas palavras diante do Senhor, em Mispá.",
-      "referencias": [],
-      "comentario": "O acordo é ratificado publicamente. Jefté, o pária, torna-se o líder de seu povo. Ao repetir suas palavras 'diante do Senhor', ele formaliza sua posição sob a autoridade divina, buscando a bênção de Deus para seu governo.",
-      "temas": ["investidura", "liderança", "pacto com Deus"],
-      "personagens": ["Jefté", "Anciãos de Gileade", "Povo de Israel", "Deus"]
+      "parafrase": "'No entanto, vocês Me abandonaram, servindo a outras divindades! Por isso, desta vez, Eu não mais os socorrerei! Vão e peçam a socorro aos deuses que escolheram, para que eles os salvem deste sofrimento terrível!'",
+      "referencias": [
+        "Josué 24:20",
+        "2 Reis 3:13"
+      ],
+      "comentario": "Este é o clímax da rejeição temporária de Deus. A resposta irônica ('Vão clamar aos vossos deuses') expõe a futilidade da idolatria. Os deuses pagãos eram incapazes de proteger seus adoradores.",
+      "temas": [
+        "Consequência Irônica",
+        "Incapacidade dos Ídolos",
+        "Julgamento"
+      ],
+      "personagens": [
+        "Deus (Senhor)"
+      ]
     },
     "12": {
-      "parafrase": "Jefté enviou mensageiros ao rei dos amonitas, dizendo: 'O que há entre mim e você, para que tenha vindo lutar contra a minha terra?'",
-      "referencias": [],
-      "comentario": "A primeira ação de Jefté como líder não é militar, mas diplomática. Ele busca uma resolução pacífica, questionando a base legal para a agressão amonita.",
-      "temas": ["diplomacia", "justiça", "conflito"],
-      "personagens": ["Jefté", "Rei dos amonitas"]
+      "parafrase": "Os israelitas, cheios de dor, responderam ao Senhor: 'Perdoamos a Ti, pois reconhecemos que a culpa é nossa; fizemos o mal ao servir a outros deuses, em vez de Ti.'",
+      "referencias": [
+        "Miquéias 7:9",
+        "Tiago 4:10"
+      ],
+      "comentario": "O reconhecimento de culpa é mais completo aqui. Eles admitem o erro fundamental: abandonar o único Deus verdadeiro. Este é o verdadeiro arrependimento que precede a intervenção divina.",
+      "temas": [
+        "Reconhecimento da Culpa",
+        "Submissão"
+      ],
+      "personagens": [
+        "Filhos de Israel",
+        "Senhor"
+      ]
     },
     "13": {
-      "parafrase": "O rei dos amonitas respondeu aos mensageiros de Jefté: 'É porque, quando Israel saiu do Egito, tomou a minha terra, desde o Arnom até o Jaboque e o Jordão. Agora, devolva-a pacificamente.'",
-      "referencias": ["Números 21:24-26"],
-      "comentario": "O rei amonita faz uma reivindicação histórica sobre a terra de Gileade, acusando Israel de roubo. Sua reivindicação, no entanto, é historicamente imprecisa.",
-      "temas": ["reivindicação territorial", "conflito histórico", "acusação"],
-      "personagens": ["Rei dos amonitas"]
+      "parafrase": "Mas o Senhor lhes disse: 'Eu os libertei tantas vezes antes – dos egípcios, dos amorreus, dos amonitas, dos filisteus, dos sidônios, dos amalequitas e dos maonitas que os oprimiam. Vocês Me clamaram, e Eu os salvei. Mas vocês Me abandonaram e serviram a outros deuses. Portanto, desta vez, Eu não os salvarei!'",
+      "referencias": [
+        "Salmos 116:5",
+        "Oséias 13:6"
+      ],
+      "comentario": "Deus repete o cerne de Sua argumentação (a lista de livramentos) e reafirma a decisão de não intervir *diretamente* por meio de um Juiz, como havia sido feito antes, devido à obstinação demonstrada. Este versículo parece redundante, mas serve para solidificar o 'tempo de espera' imposto por Deus.",
+      "temas": [
+        "Repetição da Graça",
+        "Limite da Paciência",
+        "Autossuficiência"
+      ],
+      "personagens": [
+        "Deus (Senhor)"
+      ]
     },
     "14": {
-      "parafrase": "Jefté enviou os mensageiros de volta ao rei dos amonitas",
-      "referencias": [],
-      "comentario": "Jefté não aceita a falsa reivindicação e prepara uma contra-argumentação detalhada.",
-      "temas": ["diplomacia", "refutação"],
-      "personagens": ["Jefté"]
+      "parafrase": "Vão, pois, e clamem aos deuses que escolheram! Que eles venham resgatá-los no tempo da angústia de vocês!'",
+      "referencias": [
+        "Juízes 3:7",
+        "Jeremias 2:13"
+      ],
+      "comentario": "A sentença de Deus é clara: a intervenção externa cessa até que o povo demonstre uma ação prática e decisiva, e não apenas verbal, de fé. O julgamento passa a ser a própria 'mão' dos ídolos que eles escolheram.",
+      "temas": [
+        "Julgamento de Abandono",
+        "Ironia Divina"
+      ],
+      "personagens": [
+        "Deus (Senhor)"
+      ]
     },
     "15": {
-      "parafrase": "com esta mensagem: 'Assim diz Jefté: Israel não tomou a terra de Moabe nem a terra dos amonitas.'",
-      "referencias": ["Deuteronômio 2:9", "Deuteronômio 2:19"],
-      "comentario": "Jefté começa sua refutação afirmando que Israel, por ordem divina, evitou deliberadamente os territórios de Moabe e Amom durante a jornada do deserto.",
-      "temas": ["argumento histórico", "obediência divina"],
-      "personagens": ["Jefté"]
+      "parafrase": "Então, os filhos de Israel retiraram o culto aos deuses estrangeiros de seu meio e passaram a adorar unicamente ao Senhor, o Deus de Israel. A partir desse momento, o povo não aguentou mais a aflição imposta pelos amonitas.",
+      "referencias": [
+        "2 Reis 17:16",
+        "Josué 24:23"
+      ],
+      "comentario": "A ação prática acompanha o arrependimento. Eles eliminam fisicamente os objetos de idolatria. A dor da opressão torna-se o catalisador final para uma obediência renovada.",
+      "temas": [
+        "Ação Penitencial",
+        "Remoção da Idolatria",
+        "Desgosto pela Opressão"
+      ],
+      "personagens": [
+        "Filhos de Israel"
+      ]
     },
     "16": {
-      "parafrase": "'Mas, quando saíram do Egito, Israel andou pelo deserto até o Mar Vermelho e chegou a Cades.'",
-      "referencias": [],
-      "comentario": "Ele começa a recontar a história da jornada de Israel para estabelecer os fatos.",
-      "temas": ["história de Israel", "jornada no deserto"],
-      "personagens": ["Jefté"]
+      "parafrase": "Eles removeram os santuários dos estrangeiros e os ídolos de suas casas, dedicando-se novamente a servir somente ao Senhor. Ele, então, não pôde mais suportar o sofrimento de Israel.",
+      "referencias": [
+        "1 Reis 15:12",
+        "Deuteronômio 13:5"
+      ],
+      "comentario": "A destruição dos altares (שָׂרָפִים, 'sarapim', muitas vezes referindo-se a postes-ídolos) é um ato público e doméstico de purificação. A mudança no coração de Deus é descrita de forma antropomórfica: 'sua alma se angustiou por causa da miséria de Israel' (וַתִּקְצַר נֶפֶשׁ יִשְׂרָאֵל מֵרָעָה, 'vatiktsar nephesh Yisra'el mera'ah' – embora aqui se refira ao sofrimento, a reação de Deus é a mesma do v. 7).",
+      "temas": [
+        "Purificação",
+        "Renovação da Aliança",
+        "Compaixão Divina"
+      ],
+      "personagens": [
+        "Filhos de Israel",
+        "Senhor"
+      ]
     },
     "17": {
-      "parafrase": "'Então Israel enviou mensageiros ao rei de Edom, dizendo: 'Deixa-nos passar pela tua terra', mas o rei de Edom não deu ouvidos. Também enviaram ao rei de Moabe, mas ele não consentiu. Assim, Israel permaneceu em Cades.'",
-      "referencias": ["Números 20:14-21"],
-      "comentario": "Jefté mostra que Israel tentou a via pacífica com outras nações, respeitando suas fronteiras, mesmo quando a passagem foi negada.",
-      "temas": ["diplomacia passada", "respeito às fronteiras"],
-      "personagens": ["Jefté"]
+      "parafrase": "Naquela época, os amonitas se concentraram e armaram acampamento em Gileade, preparando-se para a batalha. Os israelitas, por sua vez, reuniram suas forças e acamparam no vale de Mitspa, prontos para o confronto.",
+      "referencias": [
+        "1 Samuel 7:5-6",
+        "Jeremias 41:1"
+      ],
+      "comentario": "A reunião militar marca a prontidão para a guerra. Mitspa, um local de grande significado histórico para Israel (lugar de adoração e pactos), serve como ponto de concentração para as tribos do oeste contra os opressores de Gileade (leste).",
+      "temas": [
+        "Mobilização Militar",
+        "Local de Convocação"
+      ],
+      "personagens": [
+        "Amonitas",
+        "Israelitas"
+      ]
     },
     "18": {
-      "parafrase": "'Depois, andaram pelo deserto, contornaram a terra de Edom e a terra de Moabe, e chegaram ao lado leste da terra de Moabe. Acamparam do outro lado do Arnom, mas não entraram no território de Moabe, pois o Arnom era a sua fronteira.'",
-      "referencias": [],
-      "comentario": "Ele continua a detalhar a rota de Israel, provando que eles respeitaram a fronteira de Moabe.",
-      "temas": ["história de Israel", "respeito às fronteiras"],
-      "personagens": ["Jefté"]
+      "parafrase": "Os líderes de Gileade, sentindo a urgência da situação, perguntaram uns aos outros: 'Quem será o homem capaz de liderar todas as tropas de Gileade na guerra contra os amonitas? Aquele que se apresentar como líder será reconhecido como chefe de todo o povo de Gileade!'",
+      "referencias": [
+        "Juízes 10:18",
+        "Números 27:16"
+      ],
+      "comentario": "Aqui se inicia a busca pelo líder, o juiz. A condição 'quem for' (מִי הָאִישׁ, 'mi ha'ish') mostra que a necessidade é tão grande que eles aceitarão qualquer pessoa de capacidade comprovada, independentemente da origem tribal ou status social prévio.",
+      "temas": [
+        "Busca por Liderança",
+        "Necessidade de um Comandante"
+      ],
+      "personagens": [
+        "Líderes de Gileade"
+      ]
     },
     "19": {
-      "parafrase": "'Então Israel enviou mensageiros a Seom, rei dos amorreus, rei de Hesbom, e lhe disse: 'Deixa-nos passar pela tua terra até o nosso lugar.''",
-      "referencias": ["Números 21:21-22"],
-      "comentario": "Israel novamente busca passagem pacífica, desta vez através do reino dos amorreus.",
-      "temas": ["diplomacia", "passagem pacífica"],
-      "personagens": ["Jefté"]
+      "parafrase": "Os gileaditas decidiram: 'O homem que primeiro nos levar à vitória sobre os amonitas será nosso comandante em chefe, nosso líder de guerra.'",
+      "referencias": [
+        "Juízes 10:17",
+        "1 Samuel 9:9"
+      ],
+      "comentario": "Este versículo reitera o critério de seleção: a eficácia militar e a capacidade de reunir as tropas para a vitória imediata. Isso ecoa a convocação feita quando Jefté estava em Toba (Juízes 11:5-6).",
+      "temas": [
+        "Critério de Escolha",
+        "Liderança Militar"
+      ],
+      "personagens": [
+        "Gileaditas"
+      ]
     },
     "20": {
-      "parafrase": "'Mas Seom não confiou em Israel para passar por seu território. Ele reuniu todo o seu povo, acampou em Jaza e lutou contra Israel.'",
-      "referencias": ["Números 21:23"],
-      "comentario": "Ao contrário de Edom e Moabe, Seom não apenas recusou a passagem, mas atacou Israel agressivamente. A guerra foi iniciada pelos amorreus, não por Israel.",
-      "temas": ["agressão", "início da guerra"],
-      "personagens": ["Seom"]
+      "parafrase": "Jefté, o homem que havia sido expulso de sua casa por ser filho de uma prostituta, estava vivendo na terra de Toba, longe de seu povo, enquanto chefiava um bando de homens desordeiros e aventureiros.",
+      "referencias": [
+        "Juízes 11:1",
+        "Hebreus 11:32"
+      ],
+      "comentario": "A apresentação de Jefté é crucial: ele é um pária social (um 'filho de prostituta' ou concubina, dependendo da leitura de 11:1), forçado ao exílio. Sua ocupação como líder de 'homens vazios' ou 'aventureiros' (אֲנָשִׁים רֵיקִים, 'anashim reikim') sugere que ele era um mercenário ou um marginal, o que torna sua ascensão ainda mais notável.",
+      "temas": [
+        "Marginalização",
+        "Exílio",
+        "Potencial Oculto"
+      ],
+      "personagens": [
+        "Jefté"
+      ]
     },
     "21": {
-      "parafrase": "'E o Senhor, o Deus de Israel, entregou Seom e todo o seu povo nas mãos de Israel, que os derrotou. Assim, Israel tomou posse de toda a terra dos amorreus que habitavam naquela região.'",
-      "referencias": [],
-      "comentario": "Este é o ponto crucial do argumento de Jefté. Israel conquistou a terra como resultado de uma guerra defensiva, e a vitória foi um dom de Deus. A terra pertencia aos amorreus, não aos amonitas.",
-      "temas": ["guerra defensiva", "vitória divina", "posse da terra"],
-      "personagens": ["Deus", "Israel", "Seom"]
+      "parafrase": "Quando os homens de Gileade, desesperados, foram até Jefté para convidá-lo a liderá-los, ele lhes perguntou: 'Não foram vocês que me odiaram tanto a ponto de me expulsarem da casa de meu pai? Por que vêm a mim agora, quando estão em apuros?'",
+      "referencias": [
+        "Juízes 11:7",
+        "Provérbios 18:19"
+      ],
+      "comentario": "A reação de Jefté é de amargura compreensível. Ele lembra aos líderes sua rejeição anterior. O passado de desprezo agora contrasta com sua necessidade presente.",
+      "temas": [
+        "Rejeição Passada",
+        "Amargura",
+        "Hipocrisia"
+      ],
+      "personagens": [
+        "Homens de Gileade",
+        "Jefté"
+      ]
     },
     "22": {
-      "parafrase": "'Israel tomou posse de todo o território dos amorreus, desde o Arnom até o Jaboque, e desde o deserto até o Jordão.'",
-      "referencias": [],
-      "comentario": "Ele define claramente as fronteiras da terra conquistada, que é a mesma terra que os amonitas agora reivindicam.",
-      "temas": ["fronteiras", "posse da terra"],
-      "personagens": ["Jefté"]
+      "parafrase": "Eles responderam a Jefté: 'É justamente por isso que voltamos agora. Queremos que você venha conosco para lutar contra os amonitas. Seja nosso comandante, nosso chefe, sobre todos nós, os gileaditas!'",
+      "referencias": [
+        "Juízes 10:18",
+        "Lucas 15:17"
+      ],
+      "comentario": "A resposta dos anciãos é a confissão de sua própria falha em prover um líder. Eles concordam em elevar Jefté acima de todos, validando-o como seu libertador, uma clara inversão de papéis sociais.",
+      "temas": [
+        "Reconhecimento de Autoridade",
+        "Necessidade Extrema"
+      ],
+      "personagens": [
+        "Homens de Gileade",
+        "Jefté"
+      ]
     },
     "23": {
-      "parafrase": "'Agora, pois, foi o Senhor, o Deus de Israel, quem desapossou os amorreus de diante de seu povo Israel. E você quer desapossá-los?'",
-      "referencias": [],
-      "comentario": "Jefté passa de um argumento histórico para um teológico. A posse da terra por Israel é um ato de Deus. Reivindicar a terra é desafiar o próprio Deus de Israel.",
-      "temas": ["argumento teológico", "soberania de Deus", "desafio"],
-      "personagens": ["Jefté", "Deus"]
+      "parafrase": "Jefté lhes disse: 'Se o Senhor me entregar os amonitas nas minhas mãos, eu serei o chefe de vocês, com certeza!'",
+      "referencias": [
+        "1 Samuel 17:47",
+        "Salmos 44:3"
+      ],
+      "comentario": "Jefté aceita a condição, mas coloca a dependência no Senhor (o Deus que Israel havia abandonado e ao qual ele, um exilado, talvez nunca tenha abandonado totalmente). A vitória depende de Deus, não apenas de sua habilidade.",
+      "temas": [
+        "Condição de Liderança",
+        "Dependência de Deus"
+      ],
+      "personagens": [
+        "Jefté",
+        "Senhor"
+      ]
     },
     "24": {
-      "parafrase": "'Você não possui o que Camos, seu deus, lhe dá? Assim também possuiremos tudo o que o Senhor, nosso Deus, desapossou para nós.'",
-      "referencias": ["Números 21:29"],
-      "comentario": "Jefté usa um argumento que o rei amonita entenderia. Ele apela para o princípio de que cada nação possui o território que seu deus lhe concede. Embora Jefté saiba que Camos é um ídolo (e Camos era o deus principal de Moabe, não de Amom, o que pode ser um erro deliberado ou um reflexo da estreita relação entre as nações), ele usa a lógica do rei contra ele mesmo: 'Nós manteremos o que nosso Deus nos deu'.",
-      "temas": ["argumento teológico", "soberania divina", "idolatria"],
-      "personagens": ["Jefté", "Camos", "Deus"]
+      "parafrase": "Então, Jefté foi com os anciãos de Gileade, e o povo o aclama como seu líder e comandante. E em Ramá, Jefté reiterou perante o Senhor todo o seu pacto com eles.",
+      "referencias": [
+        "2 Samuel 5:3",
+        "1 Crônicas 11:2"
+      ],
+      "comentario": "A aclamação pública precede o compromisso formal diante de Deus. O 'pacto' (contrato) é estabelecido em Mitspa (conforme o capítulo seguinte), onde ele formaliza sua posição como juiz e líder militar.",
+      "temas": [
+        "Aceitação Pública",
+        "Pacto Formal"
+      ],
+      "personagens": [
+        "Jefté",
+        "Povo",
+        "Senhor"
+      ]
     },
     "25": {
-      "parafrase": "'Você é melhor do que Balaque, filho de Zipor, rei de Moabe? Ele alguma vez contendeu com Israel ou lutou contra eles?'",
-      "referencias": ["Números 22-24"],
-      "comentario": "Ele apresenta um terceiro argumento, o da precedente legal. Nem mesmo Balaque, rei de Moabe (que tinha uma reivindicação mais forte sobre a terra), ousou lutar contra Israel por ela depois de ver o poder de Deus.",
-      "temas": ["precedente legal", "argumento histórico"],
-      "personagens": ["Jefté", "Balaque"]
+      "parafrase": "Agora, Israel está em guerra contra Amom. E quando o Senhor lhes deu a vitória sobre os amonitas, vocês, que rejeitaram a Deus, Me chamaram para ser seu chefe. Que o Senhor, o Juiz desta hora, julgue hoje entre Israel e os amonitas!'",
+      "referencias": [
+        "Juízes 12:1",
+        "Gênesis 16:5"
+      ],
+      "comentario": "Este versículo resume a situação presente e introduz o desafio final. Jefté joga a questão da justiça de volta para Deus, confrontando os amonitas (que são o opressor) e, indiretamente, a justiça da sua própria nomeação após o desprezo anterior.",
+      "temas": [
+        "Desafio de Guerra",
+        "Soberania de Deus como Juiz"
+      ],
+      "personagens": [
+        "Israel",
+        "Amonitas",
+        "Senhor"
+      ]
     },
     "26": {
-      "parafrase": "'Enquanto Israel habitou em Hesbom e em suas vilas, em Aroer e em suas vilas, e em todas as cidades ao longo do Arnom por trezentos anos, por que vocês não as recuperaram nesse tempo?'",
-      "referencias": [],
-      "comentario": "O argumento final é o da posse estabelecida. Israel viveu na terra por 300 anos sem contestação. O longo silêncio dos amonitas invalida sua reivindicação atual. É tarde demais para reivindicar a terra.",
-      "temas": ["posse estabelecida", "argumento legal"],
-      "personagens": ["Jefté"]
+      "parafrase": "Mas a mulher, vendo que havia ganhado a confiança do filisteu, demorou-se em lhe contar o segredo profundo de sua força. Ela o atraía com conversas amenas e encantos sutis, adiando o momento de revelar a verdade nua e crua sobre o seu juramento a Deus.",
+      "referencias": [
+        "Gênesis 3:13",
+        "Provérbios 11:22"
+      ],
+      "comentario": "O texto hebraico sugere que ela estava 'insistindo' ou 'aborrecendo-o' (Heb. *vayetze'kheth* - um tipo de pressão persistente, mas envolta em afagos) dia após dia. É a manipulação psicológica contínua, o 'pingar' constante, que quebra a resistência de Sansão.",
+      "temas": [
+        "Manipulação",
+        "Persistência Maliciosa",
+        "Engano"
+      ],
+      "personagens": [
+        "Dalila",
+        "Sansão"
+      ]
     },
     "27": {
-      "parafrase": "'Eu não pequei contra você, mas você me faz mal ao lutar contra mim. Que o Senhor, o Juiz, julgue neste dia entre os israelitas e os amonitas.'",
-      "referencias": ["Gênesis 18:25"],
-      "comentario": "Jefté conclui sua defesa, declarando sua inocência e a injustiça da agressão amonita. Ele apela a Deus como o Juiz supremo para vindicar a causa de Israel no campo de batalha.",
-      "temas": ["apelo a Deus", "justiça divina", "julgamento"],
-      "personagens": ["Jefté", "Deus"]
+      "parafrase": "Cansado e angustiado com a pressão incessante dela, Sansão finalmente cedeu, sentindo-se esmagado pela persistência feminina. Sua alma estava exausta daquela tortura emocional, e ele despejou toda a sua verdade secreta, revelando que nunca nenhum instrumento de raspar cabelo havia tocado sua cabeça, pois ele era consagrado a Jeová desde o ventre materno.",
+      "referencias": [
+        "Gênesis 1:28",
+        "Números 6:5"
+      ],
+      "comentario": "A expressão hebraica para 'sua alma se importou até a morte' (Heb. *va'yit'otzetz* - literalmente, sua alma estava 'muito descontente' ou 'aflita') descreve um colapso emocional total. A força de Sansão não é quebrada por um golpe físico, mas pelo desgaste da pressão relacional.",
+      "temas": [
+        "Cansaço Emocional",
+        "Revelação do Segredo",
+        "Voto Nazireu"
+      ],
+      "personagens": [
+        "Sansão",
+        "Dalila"
+      ]
     },
     "28": {
-      "parafrase": "Mas o rei dos amonitas não deu ouvidos à mensagem que Jefté lhe enviou.",
-      "referencias": [],
-      "comentario": "A diplomacia falha. A guerra agora é inevitável.",
-      "temas": ["falha da diplomacia", "guerra inevitável"],
-      "personagens": ["Rei dos amonitas", "Jefté"]
+      "parafrase": "Dalila percebeu que, desta vez, Sansão havia falado com total sinceridade. Ela imediatamente enviou mensageiros aos príncipes filisteus, chamando-os com urgência: 'Venham mais uma vez, pois ele me revelou tudo o que estava guardado em seu coração!'",
+      "referencias": [
+        "Provérbios 29:11",
+        "Isaías 3:12"
+      ],
+      "comentario": "A confiança de Dalila é renovada instantaneamente. A palavra-chave é 'sinceramente' (Heb. *ʾemet* - verdade, firmeza). Ela sabe que a fraqueza foi exposta, e a recompensa está próxima.",
+      "temas": [
+        "Traição",
+        "Oportunismo",
+        "Recompensa Iminente"
+      ],
+      "personagens": [
+        "Dalila",
+        "Príncipes Filisteus"
+      ]
     },
     "29": {
-      "parafrase": "Então o Espírito do Senhor veio sobre Jefté. Ele atravessou Gileade e Manassés, passou por Mispá de Gileade, e de lá avançou contra os amonitas.",
-      "referencias": ["Juízes 3:10", "Juízes 6:34"],
-      "comentario": "Como com outros juízes, Jefté é capacitado pelo Espírito de Deus para a tarefa de libertação militar. Ele reúne suas forças e marcha para a batalha.",
-      "temas": ["Espírito de Deus", "capacitação divina", "liderança militar"],
-      "personagens": ["Espírito do Senhor", "Jefté"]
+      "parafrase": "Com o acordo selado, Sansão se deitou no colo dela para dormir. Enquanto ele repousava profundamente, Dalila chamou um homem que veio, com ferramentas apropriadas, e cortou as sete tranças espessas de sua cabeça, o símbolo visível de sua força consagrada.",
+      "referencias": [
+        "Salmos 127:2",
+        "Mateus 26:40"
+      ],
+      "comentario": "O ato de dormir no colo de Dalila é um símbolo de vulnerabilidade total, o oposto de sua vigilância anterior. O corte das 'sete tranças' (Heb. *sheva' pesimoth*) é a destruição física do sinal do pacto de Deus com ele.",
+      "temas": [
+        "Vulnerabilidade",
+        "Perda da Consagração",
+        "Sono da Insegurança"
+      ],
+      "personagens": [
+        "Sansão",
+        "Dalila",
+        "Cortes Filisteus"
+      ]
     },
     "30": {
-      "parafrase": "E Jefté fez um voto ao Senhor, dizendo: 'Se de fato entregares os amonitas em minhas mãos,'",
-      "referencias": ["Gênesis 28:20-22"],
-      "comentario": "Em um momento de aparente fervor religioso, mas também de falta de fé na promessa implícita de Deus, Jefté tenta barganhar com Deus. Ele faz um voto precipitado e mal concebido para garantir a vitória.",
-      "temas": ["voto", "barganha com Deus", "fé vacilante"],
-      "personagens": ["Jefté", "Deus"]
+      "parafrase": "Ela gritou, despertando-o com pavor: 'Acorde, Sansão! Os filisteus estão sobre você!' Ao despertar do sono profundo, Sansão pensou que poderia se libertar como fizera antes, pois ele não sabia que a glória e o poder de Jeová já o haviam abandonado, pois o voto havia sido rompido.",
+      "referencias": [
+        "Salmos 78:61",
+        "2 Timóteo 3:5"
+      ],
+      "comentario": "A perda da força precede a perda física do cabelo, pois a força residia na fidelidade ao voto, não no cabelo em si. A expressão 'o Senhor se retirou dele' (Heb. *wa'yishmat YHWH mimmennu*) é o ponto crucial teológico da queda. Ele confiava no ritual, não no relacionamento.",
+      "temas": [
+        "Abandono Divino",
+        "Ilusão de Poder",
+        "Falsa Confiança"
+      ],
+      "personagens": [
+        "Sansão",
+        "Dalila"
+      ]
     },
     "31": {
-      "parafrase": "'aquilo que sair da porta de minha casa para me encontrar quando eu voltar em paz dos amonitas, será do Senhor, e eu o oferecerei em holocausto.'",
-      "referencias": ["Levítico 27:28-29"],
-      "comentario": "Este é um dos votos mais trágicos e controversos da Bíblia. A linguagem é ambígua. Ele poderia estar esperando que um animal saísse, mas a frase 'aquilo que sair' (em hebraico, um pronome pessoal) sugere um ser humano. Oferecer um ser humano em holocausto era uma prática pagã abominável e estritamente proibida pela lei de Deus (Levítico 18:21). O voto revela a ignorância teológica de Jefté e a influência da cultura pagã ao seu redor.",
-      "temas": ["voto precipitado", "sacrifício humano", "ignorância teológica"],
-      "personagens": ["Jefté"]
+      "parafrase": "Os filisteus o agarraram rapidamente. Levaram-no para Gaza, tiraram-lhe os olhos com violência, mergulhando-o na escuridão eterna, e o arrastaram para ser escravizado. Colocaram-no para trabalhar moendo grãos pesados, como um animal de carga, usando-o em um moinho de pedra na prisão da cidade.",
+      "referencias": [
+        "Lamentações 3:15",
+        "Miquéias 4:13"
+      ],
+      "comentario": "A perda da visão física (a remoção dos olhos) é um espelho da perda da visão espiritual que Sansão experimentou ao se entregar aos desejos mundanos. Moer grãos no moinho (um trabalho de escravos e mulheres) é a humilhação máxima para um herói de força sobrenatural.",
+      "temas": [
+        "Cegueira Espiritual",
+        "Humilhação",
+        "Escravidão"
+      ],
+      "personagens": [
+        "Sansão",
+        "Filisteus"
+      ]
     },
     "32": {
-      "parafrase": "Então Jefté avançou contra os amonitas para lutar contra eles, e o Senhor os entregou em suas mãos.",
-      "referencias": [],
-      "comentario": "Deus concede a vitória a Jefté, não por causa de seu voto, mas apesar dele, e por causa de Sua misericórdia para com Israel.",
-      "temas": ["vitória divina", "batalha"],
-      "personagens": ["Jefté", "Deus", "Amonitas"]
+      "parafrase": "Enquanto ele estava lá, preso e cego, o cabelo de sua cabeça, gradualmente, começou a crescer novamente, um sinal sutil de que a misericórdia de Deus estava começando a retornar, esperando o momento oportuno para a redenção.",
+      "referencias": [
+        "2 Coríntios 4:16",
+        "Salmos 30:5"
+      ],
+      "comentario": "Este versículo marca o início do processo de restauração. O cabelo voltando a crescer não é um retorno imediato da força, mas sim um 'sinal' visível de que o período de julgamento (a separação de Deus) está chegando ao fim e a graça está sendo reativada. É a esperança silenciosa no sofrimento.",
+      "temas": [
+        "Restauração",
+        "Esperança",
+        "Paciência Divina"
+      ],
+      "personagens": [
+        "Sansão"
+      ]
     },
     "33": {
-      "parafrase": "Ele os derrotou com uma grande matança desde Aroer até as proximidades de Minite, vinte cidades, e até Abel-Queramim. Assim, os amonitas foram subjugados diante dos israelitas.",
-      "referencias": [],
-      "comentario": "A vitória é decisiva e completa, e a opressão amonita termina.",
-      "temas": ["vitória completa", "livramento"],
-      "personagens": ["Jefté", "Amonitas"]
+      "parafrase": "Então, como se tivessem recebido um sinal divino, os israelitas, que estavam à beira do desespero, imediatamente voltaram-se para Deus, suplicando, dizendo: 'Pecamos! Fizemos o que era mau aos teus olhos, pois abandonamos o Senhor nosso Deus para adorar os falsos ídolos dos amalequitas e dos amonitas. Agora, por favor, resgata-nos das mãos dos nossos opressores!'",
+      "referencias": [
+        "Deuteronômio 28:47",
+        "Juízes 2:13"
+      ],
+      "comentario": "Este versículo marca a clássica sequência de arrependimento no ciclo de Juízes: Opressão, Clamor (Implorar a Deus), e em seguida, Esperança na intervenção divina. O clamor aqui não é apenas um lamento, mas um reconhecimento explícito do pecado ('Pecamos! Fizemos o que era mau'). Eles nomeiam a idolatria como a ofensa central contra o pacto com Javé. Este ato de voltar-se a Deus é essencialmente o 'Teshuvah' (arrependimento/retorno).",
+      "temas": [
+        "Arrependimento",
+        "Idolatria",
+        "Súplica"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "34": {
-      "parafrase": "Quando Jefté voltou para sua casa em Mispá, eis que sua filha saiu para encontrá-lo com tamborins e com danças. Ela era sua única filha; além dela, ele não tinha filho nem filha.",
-      "referencias": ["Êxodo 15:20"],
-      "comentario": "A alegria da vitória se transforma instantaneamente em tragédia. A primeira a saudá-lo, em uma celebração tradicional de vitória, é sua única filha, o que torna a consequência de seu voto o mais doloroso possível.",
-      "temas": ["tragédia", "ironia", "voto"],
-      "personagens": ["Jefté", "Filha de Jefté"]
+      "parafrase": "E como se estivessem sentindo o peso da presença de Deus se afastando, os israelitas removeram os altares estranhos que haviam erigido e jogaram fora as imagens dos deuses estrangeiros que haviam trazido para o meio de seu acampamento. Eles se dedicaram novamente ao serviço exclusivo do Senhor, e a angústia que os sufocava começou a diminuir, pois haviam purificado o seu meio.",
+      "referencias": [
+        "Êxodo 20:3",
+        "Deuteronômio 13:8"
+      ],
+      "comentario": "A demonstração de arrependimento não foi apenas verbal; foi física e pública. A remoção dos altares ('bamot') e das imagens dos ídolos ('terafim' ou representações de Astarote, Baal e outros deuses regionais) simboliza a purificação da aliança. O texto hebraico sugere que o sofrimento deles ('a angústia deles foi encurtada') foi aliviado como resposta imediata a este ato de dedicação.",
+      "temas": [
+        "Purificação",
+        "Dedicacão a Deus",
+        "Fim da angústia"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "35": {
-      "parafrase": "Quando ele a viu, rasgou suas vestes e disse: 'Ah, minha filha! Você me arruinou completamente! Você se tornou a causa da minha desgraça, pois fiz um voto ao Senhor e não posso voltar atrás.'",
-      "referencias": ["Números 30:2"],
-      "comentario": "A reação de Jefté é de desespero total. Ele rasga suas vestes, um sinal de luto profundo. Ele se sente preso por seu voto, acreditando que quebrá-lo seria um pecado maior, uma visão equivocada da lei e do caráter de Deus.",
-      "temas": ["desespero", "luto", "voto irrevogável"],
-      "personagens": ["Jefté", "Filha de Jefté"]
+      "parafrase": "Contudo, apesar do seu sincero clamor e da remoção dos seus pecados, o coração dos amonitas permaneceu obstinado. O povo de Amom não foi expulso, e os filhos de Israel continuaram a ser oprimidos e esmagados, sofrendo sob o jugo dos amonitas por dezoito longos anos.",
+      "referencias": [
+        "Juízes 10:8",
+        "Juízes 10:14"
+      ],
+      "comentario": "Este é um ponto crucial e muitas vezes mal interpretado. Deus não livra imediatamente. O versículo 35 estabelece que, apesar do arrependimento, a consequência temporal do pecado (a subjugação militar) persistiu. O verbo hebraico para 'salvar' (Yasha) não foi empregado aqui. A libertação viria, mas somente após a manifestação de um líder e um compromisso renovado com a obediência, mostrando que o perdão divino precede a restauração prática.",
+      "temas": [
+        "Consequências do pecado",
+        "Paciência divina",
+        "Opressão persistente"
+      ],
+      "personagens": [
+        "Amonitas",
+        "Israelitas"
+      ]
     },
     "36": {
-      "parafrase": "Ela lhe disse: 'Meu pai, você fez um voto ao Senhor. Faça comigo conforme o que prometeu, agora que o Senhor o vingou de seus inimigos, os amonitas.'",
-      "referencias": [],
-      "comentario": "A resposta da filha de Jefté é de uma submissão e piedade notáveis. Ela aceita o voto de seu pai como obrigatório e se submete ao seu destino, priorizando a honra de seu pai e a vitória de Israel.",
-      "temas": ["submissão", "piedade", "sacrifício"],
-      "personagens": ["Filha de Jefté", "Jefté"]
+      "parafrase": "Então, os filhos de Israel, ainda sob o jugo estrangeiro, tomaram uma atitude de profunda rendição e humildade. Eles se voltaram para o Senhor e declararam: 'Tiramos de nosso meio tudo o que é estrangeiro e serviremos somente a Ti, ó Senhor! Por favor, atende ao nosso clamor e liberta-nos desta aflição que nos consome!'",
+      "referencias": [
+        "Deuteronômio 6:14",
+        "Josué 24:23"
+      ],
+      "comentario": "Este é um segundo e mais enfático apelo. Eles não apenas tiraram os ídolos, mas reafirmaram o voto de serviço exclusivo ('Serviremos somente a Ti'). A frase 'Tiramos de nosso meio tudo o que é estrangeiro' aponta para uma dedicação total e contínua, distinta da primeira resposta puramente reativa.",
+      "temas": [
+        "Voto de lealdade",
+        "Serviço exclusivo",
+        "Humildade"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "37": {
-      "parafrase": "E disse a seu pai: 'Conceda-me apenas isto: deixe-me em paz por dois meses, para que eu possa vagar pelas montanhas e chorar minha virgindade com minhas companheiras.'",
-      "referencias": [],
-      "comentario": "Seu pedido não é para ser poupada, mas para ter tempo de lamentar o que ela perderá: a possibilidade de se casar e ter filhos, o que era considerado a maior honra para uma mulher em Israel. Este foco em sua virgindade, e não em sua vida, é uma das principais razões pelas quais alguns interpretam o cumprimento do voto como dedicação ao serviço do tabernáculo, e não como morte.",
-      "temas": ["luto", "virgindade", "tradição"],
-      "personagens": ["Filha de Jefté"]
+      "parafrase": "Assim, Israel manifestou a Deus a sua angústia, clamando contra os amonitas, que os oprimiam, e o povo de Amom estava reunido e acampado na terra de Gileade, pronto para a batalha.",
+      "referencias": [
+        "Juízes 10:17",
+        "Gênesis 31:48"
+      ],
+      "comentario": "Este versículo situa geograficamente a tensão: os amonitas estavam mobilizados em Gileade, a leste do Jordão, indicando que a ameaça não era apenas uma ocupação, mas uma ameaça militar ativa e iminente. Isso prepara o cenário para a necessidade de um líder militar ungido.",
+      "temas": [
+        "Mobilização militar",
+        "Localização da opressão",
+        "Confronto iminente"
+      ],
+      "personagens": [
+        "Amonitas",
+        "Israelitas"
+      ]
     },
     "38": {
-      "parafrase": "'Vá', disse ele. E a deixou ir por dois meses. Ela partiu com suas companheiras e chorou sua virgindade nas montanhas.",
-      "referencias": [],
-      "comentario": "Jefté concede seu pedido.",
-      "temas": ["luto", "despedida"],
-      "personagens": ["Jefté", "Filha de Jefté"]
+      "parafrase": "Então, os líderes das tribos de Gileade se reuniram, buscando desesperadamente um comandante que pudesse liderá-los em guerra contra os amonitas, mas ainda não haviam encontrado ninguém à altura da tarefa.",
+      "referencias": [
+        "Juízes 10:18",
+        "Isaías 3:12"
+      ],
+      "comentario": "O povo de Gileade assume a iniciativa de encontrar um líder. Eles reconhecem que a salvação não virá magicamente, mas através de um agente humano capacitado, um 'julgador' (Shofet). A necessidade de um líder é tão premente que eles estão dispostos a aceitar qualquer um que demonstre coragem e capacidade estratégica.",
+      "temas": [
+        "Busca por liderança",
+        "Necessidade de um campeão",
+        "Organização tribal"
+      ],
+      "personagens": [
+        "Líderes de Gileade"
+      ]
     },
     "39": {
-      "parafrase": "Ao fim dos dois meses, ela voltou a seu pai, e ele cumpriu com ela o voto que havia feito. E ela não conheceu homem algum.",
-      "referencias": [],
-      "comentario": "Este é um dos versículos mais difíceis do Antigo Testamento. A frase 'ele cumpriu com ela o voto' é ambígua. A interpretação mais direta, dado o termo 'holocausto', é que ele a sacrificou, um ato terrível que reflete a escuridão espiritual da época. Outra interpretação, apoiada pela ênfase na virgindade, é que ele a dedicou a um serviço perpétuo no tabernáculo, uma espécie de morte civil. De qualquer forma, foi uma perda trágica resultante de um voto precipitado e ignorante.",
-      "temas": ["cumprimento do voto", "tragédia", "ambiguidade", "sacrifício"],
-      "personagens": ["Jefté", "Filha de Jefté"]
+      "parafrase": "Os amonitas, por sua vez, reuniram suas forças contra Israel, acampando-se novamente em Gileade. A nação de Israel se reuniu em Mispá, com seus corações pesados de medo e incerteza, aguardando o sinal para a luta.",
+      "referencias": [
+        "Juízes 10:17",
+        "1 Samuel 7:6"
+      ],
+      "comentario": "A narrativa confirma a localização dos dois exércitos: Amom em Gileade (o território tomado) e Israel em Mispá (um local de convocação e juízo anterior). A reunião em Mispá sugere um esforço nacional de coalizão para enfrentar a ameaça, apesar da falta de um comandante claro.",
+      "temas": [
+        "Confronto direto",
+        "Convocação nacional",
+        "Incerteza"
+      ],
+      "personagens": [
+        "Amonitas",
+        "Israelitas"
+      ]
     },
     "40": {
-      "parafrase": "E disso se tornou um costume em Israel: que as filhas de Israel saíssem quatro dias por ano para lamentar a filha de Jefté, o gileadita.",
-      "referencias": [],
-      "comentario": "A tragédia deu origem a um costume anual, um memorial para a filha de Jefté, cuja piedade e sacrifício em face do voto precipitado de seu pai se tornaram um exemplo duradouro.",
-      "temas": ["costume", "memorial", "lamento"],
-      "personagens": ["Filhas de Israel", "Filha de Jefté"]
+      "parafrase": "E, com grande tristeza e reconhecimento da sua própria incapacidade, os israelitas responderam aos líderes de Gileade, dizendo: 'Faça-se o que for melhor aos teus olhos. Se não podemos confiar em nós mesmos para a batalha, que o teu escolhido vá à guerra. Se Deus decidiu nos livrar, que ele faça isso através da pessoa que você escolher.'",
+      "referencias": [
+        "2 Samuel 10:12",
+        "Romanos 9:16"
+      ],
+      "comentario": "Este versículo final revela a submissão total à vontade divina, expressa através da autoridade local de Gileade. Eles renunciam à sua própria capacidade de escolher o salvador (que seria Jefté, conforme o contexto subsequente) e entregam o poder de decisão aos anciãos. É uma entrega de soberania humana a Deus, mesmo que mediada por homens.",
+      "temas": [
+        "Submissão à vontade de Deus",
+        "Desistência da autossuficiência",
+        "Aceitação da liderança"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Líderes de Gileade"
+      ]
     }
   }
 }

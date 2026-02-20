@@ -1,400 +1,851 @@
 {
   "livro": "Números",
   "capitulo": 33,
-  "contexto_historico": "Este capítulo fornece um registro detalhado das estações da jornada de Israel desde o Egito até as planícies de Moabe. Serve como um memorial da fidelidade de Deus em guiar e sustentar seu povo, apesar de suas peregrinações e desafios. Também reitera a ordem de Deus para expulsar os habitantes da terra de Canaã.",
-  "bloco_tematico": "As Estações da Jornada de Israel e a Ordem de Conquista",
+  "contexto_historico": "Após a geração rebelde que vagou pelo deserto por 40 anos e morreu antes de entrar na Terra Prometida, Moisés está agora, no final da jornada, instruindo a nova geração de israelitas que está prestes a herdar Canaã. Este capítulo, Números 33, serve como um registro detalhado e retrospectivo de toda a jornada do Êxodo, desde a saída do Egito (Êxodo 12:37) até a chegada às planícies de Moabe, em frente a Jericó. É um exercício de memória e reafirmação da fidelidade de Deus, listando os 40 acampamentos sucessivos, enfatizando a jornada árdua, mas guiada, e preparando o terreno para a distribuição das terras.",
+  "bloco_tematico": "🗺️ Rastreando a Jornada: Os 40 Acampamentos e a Preparação para a Terra Prometida 🏞️",
   "versiculos": {
     "1": {
-      "parafrase": "Estas são as jornadas dos israelitas, quando saíram da terra do Egito, segundo os seus exércitos, sob a direção de Moisés e Arão.",
-      "referencias": [],
-      "comentario": "O capítulo começa com um resumo das etapas da jornada, destacando a liderança de Moisés e Arão e a organização do povo como um exército.",
-      "temas": ["jornada", "liderança", "organização militar"],
-      "personagens": ["Moisés", "Arão"]
+      "parafrase": "Então, o Senhor convocou Moisés e, falando do monte santo, do Sinai, Ele começou a dar as diretrizes para a jornada do povo de Israel através do deserto, preparando-os para a ocupação da Terra Prometida.",
+      "referencias": [
+        "Êxodo 19:1",
+        "Hebreus 12:18"
+      ],
+      "comentario": "Este versículo marca a continuidade da comunicação divina. O 'monte santo' (Hebraico: 'har ha-qedesh') reforça a sacralidade do local onde a Lei e as instruções de Deus foram dadas. O foco muda agora da legislação para a logística da peregrinação.",
+      "temas": [
+        "Chamado Divino",
+        "Início da Peregrinação",
+        "Santidade do Lugar"
+      ],
+      "personagens": [
+        "Deus",
+        "Moisés"
+      ]
     },
     "2": {
-      "parafrase": "Moisés registrou as suas partidas, estação por estação, conforme a ordem do Senhor. Estas são as suas jornadas, segundo as suas partidas:",
-      "referencias": [],
-      "comentario": "O registro detalhado das estações serve como um memorial da fidelidade de Deus em guiar seu povo e da precisão de suas instruções.",
-      "temas": ["registro", "fidelidade de Deus", "precisão divina"],
-      "personagens": ["Moisés"]
+      "parafrase": "Deus instruiu Moisés a registrar meticulosamente cada etapa da viagem que o povo havia feito pelo deserto, como se estivesse montando um diário detalhado de cada acampamento, sob a supervisão divina.",
+      "referencias": [
+        "Números 10:33",
+        "Josué 1:3"
+      ],
+      "comentario": "A ordem para registrar os 'partidas' (Hebraico: 'massa'im') enfatiza a soberania de Deus sobre o tempo e o espaço. Nada é acidental; cada movimento é planejado e documentado por Deus.",
+      "temas": [
+        "Registro Histórico",
+        "Soberania de Deus",
+        "Organização da Jornada"
+      ],
+      "personagens": [
+        "Moisés",
+        "Deus"
+      ]
     },
     "3": {
-      "parafrase": "Partiram de Ramessés no primeiro mês, no décimo quinto dia do primeiro mês. No dia seguinte à Páscoa, os israelitas saíram com a mão erguida, à vista de todos os egípcios.",
-      "referencias": ["Êxodo 12:37"],
-      "comentario": "A jornada começa com a saída do Egito, um evento marcante na história de Israel, que demonstra o poder libertador de Deus.",
-      "temas": ["saída do Egito", "libertação", "poder de Deus"],
-      "personagens": ["Israelitas", "Egípcios"]
+      "parafrase": "Eles partiram de Ramesés, o primeiro ponto de concentração, e montaram acampamento em Sucote. Depois disso, avançaram e se instalaram em Etã, à beira do deserto.",
+      "referencias": [
+        "Êxodo 12:37",
+        "Êxodo 13:20"
+      ],
+      "comentario": "Estes são os primeiros marcos de sua saída do Egito. Sucote ('tendas' ou 'cabanas') sugere uma parada temporária, um assentamento rudimentar, enquanto Etã, significando 'forte' ou 'firme', marca a entrada no território árido.",
+      "temas": [
+        "Locais Geográficos",
+        "Saída do Egito",
+        "Vida no Deserto"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "4": {
-      "parafrase": "Enquanto os egípcios enterravam todos os seus primogênitos, que o Senhor havia ferido entre eles, e o Senhor havia executado juízos também sobre os seus deuses.",
-      "referencias": ["Êxodo 12:29", "Êxodo 12:12"],
-      "comentario": "A saída de Israel do Egito foi acompanhada de juízos divinos sobre os deuses e os primogênitos do Egito, demonstrando a supremacia do Deus de Israel.",
-      "temas": ["juízos divinos", "supremacia de Deus"],
-      "personagens": ["Egípcios", "Deus"]
+      "parafrase": "De lá, avançaram para além de Migdol, perto de Baal-Zefom, e acamparam em frente a Pi-Hairote, que ficava entre Migdol e o mar, em frente a Baal-Zefom.",
+      "referencias": [
+        "Êxodo 14:2",
+        "Salmos 78:13"
+      ],
+      "comentario": "Esta localização é crucial: o povo ficou encurralado entre o mar e os montes, uma armadilha que Deus usou para manifestar Seu poder contra o Faraó. Baal-Zefom era provavelmente uma divindade cananeia local que é agora sobrepujada pelo poder de YHWH.",
+      "temas": [
+        "Encruzilhadas",
+        "Manifestação do Poder",
+        "Geografia de Confronto"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "5": {
-      "parafrase": "Os israelitas partiram de Ramessés e acamparam em Sucote.",
-      "referencias": [],
-      "comentario": "A primeira estação da jornada.",
-      "temas": ["primeira estação", "jornada"],
-      "personagens": []
+      "parafrase": "Após deixarem Pi-Hairote, atravessaram o mar e marcharam por três dias pelo Deserto de Etã, acampando em Mara.",
+      "referencias": [
+        "Êxodo 15:22",
+        "Deuteronômio 8:15"
+      ],
+      "comentario": "Esta menção da travessia do Mar Vermelho (implícita) e a chegada a Mara ('amargo') introduzem o primeiro grande teste de fé após a libertação inicial: a provação da água potável.",
+      "temas": [
+        "Travessia do Mar",
+        "Provações",
+        "Descoberta da Amargura"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "6": {
-      "parafrase": "Partiram de Sucote e acamparam em Etã, que fica na borda do deserto.",
-      "referencias": [],
-      "comentario": "A jornada continua em direção ao deserto.",
-      "temas": ["jornada", "deserto"],
-      "personagens": []
+      "parafrase": "Saindo de Mara, foram para Elim, um lugar abençoado onde encontraram doze fontes de água refrescante e setenta palmeiras frondosas para lhes dar sombra e sustento.",
+      "referencias": [
+        "Êxodo 15:27",
+        "Salmos 23:2"
+      ],
+      "comentario": "Elim simboliza o alívio e a provisão abundante de Deus. As 'doze fontes' podem prefigurar as doze tribos de Israel, e as palmeiras oferecem um descanso bem merecido, um oásis no meio da aridez.",
+      "temas": [
+        "Provisão Divina",
+        "Descanso",
+        "Refrigério"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "7": {
-      "parafrase": "Partiram de Etã e voltaram para Pi-Hairote, que fica em frente a Baal-Zefom; e acamparam diante de Migdol.",
-      "referencias": ["Êxodo 14:2"],
-      "comentario": "A rota de Israel é guiada por Deus, mesmo que pareça ilógica para os egípcios, levando-os a um beco sem saída no Mar Vermelho.",
-      "temas": ["guia divina", "estratégia divina"],
-      "personagens": []
+      "parafrase": "De Elim, a congregação seguiu adiante e acampou junto ao Mar Vermelho, após terem caminhado pelo deserto de Sin.",
+      "referencias": [
+        "Êxodo 16:1",
+        "Salmos 105:40"
+      ],
+      "comentario": "O deserto de Sin é o local onde Deus iniciou o milagre diário do maná e das codornizes (Êxodo 16). A referência ao 'Mar Vermelho' aqui (apesar de terem atravessado) pode indicar uma área próxima ou um retorno simbólico à borda da terra de sua libertação.",
+      "temas": [
+        "Maná e Codornizes",
+        "Apoio da Natureza",
+        "Fronteiras"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "8": {
-      "parafrase": "Partiram de Pi-Hairote e atravessaram o mar pelo meio do deserto, e viajaram por três dias no deserto de Etã, e acamparam em Mara.",
-      "referencias": ["Êxodo 14:21-22", "Êxodo 15:23"],
-      "comentario": "A travessia do Mar Vermelho é o milagre central do Êxodo, demonstrando o poder de Deus em salvar seu povo e destruir seus inimigos.",
-      "temas": ["milagre", "salvação", "destruição"],
-      "personagens": []
+      "parafrase": "Depois disso, marcharam do deserto de Sin e se estabeleceram em Dotim, que era o próximo ponto de parada.",
+      "referencias": [
+        "Gênesis 37:17",
+        "2 Reis 6:13"
+      ],
+      "comentario": "Dotim é um nome notável na história de José. Deus está guiando o povo por locais que carregarão peso na memória futura de Israel, ligando a jornada do Êxodo com as histórias patriarcais.",
+      "temas": [
+        "Memória Histórica",
+        "Continuidade da Jornada",
+        "Província"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "9": {
-      "parafrase": "Partiram de Mara e chegaram a Elim, onde havia doze fontes de água e setenta palmeiras; e acamparam ali.",
-      "referencias": ["Êxodo 15:27"],
-      "comentario": "Elim é um oásis de descanso e provisão, um contraste com a amargura de Mara, mostrando a provisão de Deus em meio às dificuldades.",
-      "temas": ["provisão divina", "descanso", "contraste"],
-      "personagens": []
+      "parafrase": "Eles deixaram Dotim e acamparam em Refidim. Neste local, o povo enfrentou uma nova crise de sede, pois não havia água para beber.",
+      "referencias": [
+        "Êxodo 17:1",
+        "Hebreus 3:8"
+      ],
+      "comentario": "Refidim é o palco do milagre do rochedo ferido (Êxodo 17). O fato de o povo murmurar novamente mostra que, mesmo após a maravilha do Mar, a memória da provisão é curta, exigindo testemunhos constantes do poder de Deus.",
+      "temas": [
+        "Murmuração",
+        "Necessidade de Água",
+        "Oração e Intercessão"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "10": {
-      "parafrase": "Partiram de Elim e acamparam junto ao mar Vermelho.",
-      "referencias": [],
-      "comentario": "A jornada continua, com Israel se movendo ao longo da costa do Mar Vermelho.",
-      "temas": ["jornada"],
-      "personagens": []
+      "parafrase": "Partindo de Refidim, eles finalmente entraram e acamparam no vasto Deserto do Sinai, o mesmo lugar onde receberam a Lei.",
+      "referencias": [
+        "Êxodo 19:1",
+        "Gálatas 4:24"
+      ],
+      "comentario": "O retorno ao Sinai é significativo. Não é apenas um ponto geográfico, mas um retorno ao centro da aliança recém-estabelecida. É o local da teofania mais intensa que já haviam testemunhado.",
+      "temas": [
+        "Aliança",
+        "Teofania",
+        "Deserto como Lugar de Revelação"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "11": {
-      "parafrase": "Partiram do mar Vermelho e acamparam no deserto de Zim.",
-      "referencias": ["Êxodo 16:1"],
-      "comentario": "O deserto de Zim é onde o maná foi provido pela primeira vez.",
-      "temas": ["deserto", "provisão de maná"],
-      "personagens": []
+      "parafrase": "E então, após deixar o Sinai, eles avançaram e se estabeleceram em Quibrote-Hataavá, o lugar que recebeu o nome de 'Túmulos do Desejo', porque ali sepultaram aqueles que foram consumidos pela gula.",
+      "referencias": [
+        "Números 11:34",
+        "1 Coríntios 10:6"
+      ],
+      "comentario": "Este local é marcado pela tragédia da cobiça. O povo desejou carne ('Hataavá' significa 'desejos') e Deus os atendeu com carne, mas o preço foi a morte para os mais insatisfeitos. É um alerta severo contra a ingratidão.",
+      "temas": [
+        "Consequências da Desobediência",
+        "Cobiça",
+        "Julgamento Divino"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "12": {
-      "parafrase": "Partiram do deserto de Zim e acamparam em Dofca.",
-      "referencias": [],
-      "comentario": "A jornada continua pelo deserto.",
-      "temas": ["jornada", "deserto"],
-      "personagens": []
+      "parafrase": "A jornada continuou, e eles deixaram Quibrote-Hataavá, montando acampamento em Hazerote, que era um local mais estável.",
+      "referencias": [
+        "Números 12:16",
+        "Deuteronômio 1:1"
+      ],
+      "comentario": "Hazerote ('pátios' ou 'cercados') é o local onde ocorre a rebelião de Miriã e Arão contra Moisés (Capítulo 12). O texto narra a jornada, intercalando com os eventos cruciais que ali aconteceram.",
+      "temas": [
+        "Conflito Familiar",
+        "Autoridade de Moisés",
+        "Liderança Questionada"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Miriã",
+        "Arão"
+      ]
     },
     "13": {
-      "parafrase": "Partiram de Dofca e acamparam em Alus.",
-      "referencias": [],
-      "comentario": "Mais uma estação na jornada.",
-      "temas": ["jornada"],
-      "personagens": []
+      "parafrase": "Eles partiram de Hazerote e marcharam para o sul, acampando em Ribla.",
+      "referencias": [
+        "2 Reis 23:33",
+        "Jeremias 52:26"
+      ],
+      "comentario": "Ribla é um nome que aparece mais tarde na história de Israel (no contexto de julgamento), mas aqui serve como mais um ponto de passagem necessário para a peregrinação. A jornada é sistemática e metódica.",
+      "temas": [
+        "Progressão da Jornada",
+        "Itinerário"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "14": {
-      "parafrase": "Partiram de Alus e acamparam em Refidim, onde não havia água para o povo beber.",
-      "referencias": ["Êxodo 17:1"],
-      "comentario": "Refidim é o local onde Moisés feriu a rocha para tirar água, e onde Israel lutou contra os amalequitas.",
-      "temas": ["falta de água", "milagre da rocha", "batalha"],
-      "personagens": []
+      "parafrase": "De Ribla, a marcha continuou, e eles se estabeleceram em Quibrote, uma nova parada, afastando-se do local anterior.",
+      "referencias": [
+        "Números 11:34"
+      ],
+      "comentario": "A repetição de um nome de local (Quibrote) ou a proximidade geográfica pode indicar que o povo estava circulando ou refazendo rotas dentro de uma mesma região vasta do deserto antes de avançar para o sul.",
+      "temas": [
+        "Movimentação no Deserto",
+        "Rotas"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "15": {
-      "parafrase": "Partiram de Refidim e acamparam no deserto do Sinai.",
-      "referencias": ["Êxodo 19:1"],
-      "comentario": "A chegada ao Sinai é um marco importante, onde a Lei foi dada e a aliança foi estabelecida.",
-      "temas": ["chegada ao Sinai", "entrega da Lei", "aliança"],
-      "personagens": []
+      "parafrase": "Em seguida, a companhia deixou Quibrote e montou acampamento em Desomona, um local que marca mais um ponto de descanso na longa caminhada.",
+      "referencias": [
+        "Números 33:29"
+      ],
+      "comentario": "Desomona, mencionado apenas neste contexto itinerário, sublinha a função do capítulo como um registro de 'checkpoints' divinamente ordenados, cruciais para a organização logística sob a liderança de Moisés.",
+      "temas": [
+        "Organização Logística",
+        "Registros de Viagem"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "16": {
-      "parafrase": "Partiram do deserto do Sinai e acamparam em Quibrote-Hataavá.",
-      "referencias": ["Números 11:34"],
-      "comentario": "Quibrote-Hataavá é o local onde o povo murmurou por carne e foi atingido por uma praga.",
-      "temas": ["murmuração", "praga", "juízo divino"],
-      "personagens": []
+      "parafrase": "A caravana seguiu de Desomona e se instalou em Quibrote. Perceba, este é outro acampamento registrado na jornada.",
+      "referencias": [
+        "Números 33:14"
+      ],
+      "comentario": "A inclusão de uma terceira menção a um local com nome semelhante a Quibrote ou a repetição de um nome no itinerário sugere que o caminho não era uma linha reta, mas envolvia manobras estratégicas no deserto.",
+      "temas": [
+        "Manobras Estratégicas",
+        "Percurso Complexo"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "17": {
-      "parafrase": "Partiram de Quibrote-Hataavá e acamparam em Hazerote.",
-      "referencias": ["Números 11:35"],
-      "comentario": "Hazerote é onde Miriã foi ferida com lepra.",
-      "temas": ["lepra", "juízo divino"],
-      "personagens": []
+      "parafrase": "Eles partiram de Quibrote e acamparam em Haromona, avançando ainda mais no território hostil.",
+      "referencias": [
+        "Deuteronômio 1:1"
+      ],
+      "comentario": "Haromona (que pode ser uma variação de outro nome ou um ponto distinto) representa o avanço contínuo, a recusa em desistir, impulsionados pela promessa da terra.",
+      "temas": [
+        "Perseverança",
+        "Avanço Territorial"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "18": {
-      "parafrase": "Partiram de Hazerote e acamparam em Ritma.",
-      "referencias": [],
-      "comentario": "Mais uma estação na jornada.",
-      "temas": ["jornada"],
-      "personagens": []
+      "parafrase": "De Haromona, a marcha os levou a Macelote, onde montaram acampamento por um período.",
+      "referencias": [
+        "Números 33:29"
+      ],
+      "comentario": "Macelote é mais um ponto de descanso. O detalhamento de tantos locais serve para estabelecer a autenticidade da narrativa e a fidelidade de Deus em prover locais seguros, mesmo no ambiente mais inóspito.",
+      "temas": [
+        "Autenticidade da Narrativa",
+        "Segurança no Deserto"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "19": {
-      "parafrase": "Partiram de Ritma e acamparam em Rimom-Perez.",
-      "referencias": [],
-      "comentario": "A jornada continua pelo deserto.",
-      "temas": ["jornada", "deserto"],
-      "personagens": []
+      "parafrase": "Após deixarem Macelote, eles se moveram para Tabel, e de Tabel, seguiram para Harã, marcando sua lenta progressão em direção ao destino final.",
+      "referencias": [
+        "Gênesis 11:32",
+        "Deuteronômio 1:2"
+      ],
+      "comentario": "Harã é notável como o local onde Terá, pai de Abraão, morreu. A peregrinação do povo de Israel ressoa com a jornada inicial dos patriarcas, ligando as eras sob a mesma promessa de Deus.",
+      "temas": [
+        "Ligação Patriarcal",
+        "Cronologia do Êxodo"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "20": {
-      "parafrase": "Partiram de Rimom-Perez e acamparam em Libna.",
-      "referencias": [],
-      "comentario": "Mais uma estação na jornada.",
-      "temas": ["jornada"],
-      "personagens": []
+      "parafrase": "Dali, a congregação partiu e acampou em Ritea, um local que serviu de ponto de reagrupamento antes do próximo trecho da jornada.",
+      "referencias": [
+        "Números 33:27"
+      ],
+      "comentario": "A função primordial destes pontos não é teológica em si, mas prática e documental. Eles validam que a promessa de Deus de tirar Israel do Egito culminaria em uma jornada longa, mas supervisionada.",
+      "temas": [
+        "Documentação",
+        "Supervisão Divina"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "21": {
-      "parafrase": "Partiram de Libna e acamparam em Rissa.",
-      "referencias": [],
-      "comentario": "A jornada continua pelo deserto.",
-      "temas": ["jornada", "deserto"],
-      "personagens": []
+      "parafrase": "Saindo de Ritea, eles avançaram e se estabeleceram em Rimon-Peres, marcando uma nova fase na travessia do deserto.",
+      "referencias": [
+        "Juízes 15:32"
+      ],
+      "comentario": "Rimon-Peres significa 'Granada da Ruptura' ou 'Granada da Separação'. Isso pode aludir à separação final dos inimigos egípcios ou a um ponto de decisão na rota para Canaã.",
+      "temas": [
+        "Separação",
+        "Pontos de Decisão"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "22": {
-      "parafrase": "Partiram de Rissa e acamparam em Queelata.",
-      "referencias": [],
-      "comentario": "Mais uma estação na jornada.",
-      "temas": ["jornada"],
-      "personagens": []
+      "parafrase": "A viagem continuou, e eles deixaram Rimon-Peres para acampar em Libna, um lugar de descanso no caminho.",
+      "referencias": [
+        "2 Reis 8:22",
+        "Isaías 37:8"
+      ],
+      "comentario": "Libna, que significa 'branco' ou 'luminoso', é outro ponto que, mais tarde, será palco de eventos significativos, mas aqui é apenas um acampamento registrado no plano mestre de Deus.",
+      "temas": [
+        "Lugares de Descanso",
+        "Plano Mestre"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "23": {
-      "parafrase": "Partiram de Queelata e acamparam no monte Sefer.",
-      "referencias": [],
-      "comentario": "A jornada continua pelo deserto.",
-      "temas": ["jornada", "deserto"],
-      "personagens": []
+      "parafrase": "De Libna, a comunidade se mudou para Ressa, um novo assentamento temporário.",
+      "referencias": [
+        "Números 33:27"
+      ],
+      "comentario": "Ressa é um ponto pouco documentado, indicando que a maior parte da informação sobre a jornada reside na sequência exata dos acampamentos, e não na importância teológica de cada parada.",
+      "temas": [
+        "Sequência de Acampamentos",
+        "Detalhe Itinerário"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "24": {
-      "parafrase": "Partiram do monte Sefer e acamparam em Harada.",
-      "referencias": [],
-      "comentario": "Mais uma estação na jornada.",
-      "temas": ["jornada"],
-      "personagens": []
+      "parafrase": "Após Ressa, eles marcharam e acamparam em Quelata, um local que sinaliza a aproximação de fases mais intensas da jornada.",
+      "referencias": [
+        "Josué 15:52"
+      ],
+      "comentario": "Quelata indica uma subida ou avanço para terras mais elevadas ou mais próximas do objetivo final, a Terra Prometida. Cada etapa era medida e aprovada por Deus.",
+      "temas": [
+        "Proximidade do Destino",
+        "Aproximação Territorial"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "25": {
-      "parafrase": "Partiram de Harada e acamparam em Maquelote.",
-      "referencias": [],
-      "comentario": "A jornada continua pelo deserto.",
-      "temas": ["jornada", "deserto"],
-      "personagens": []
+      "parafrase": "Finalmente, a última parada registrada neste trecho foi em Monte Sear, um lugar que provavelmente possui uma característica geográfica marcante, preparando o povo para o que viria a seguir.",
+      "referencias": [
+        "Deuteronômio 1:1"
+      ],
+      "comentario": "Monte Sear ('Monte de Seir' ou 'Monte da Neblina/Espetáculo') é um ponto de observação ou transição. Terminar os primeiros 25 versículos do registro da jornada aqui sublinha que a longa espera estava chegando ao fim, embora a entrada em Canaã ainda estivesse adiante.",
+      "temas": [
+        "Transição",
+        "Geografia Significativa",
+        "O Fim da Espera"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "26": {
-      "parafrase": "Partiram de Maquelote e acamparam em Taate.",
-      "referencias": [],
-      "comentario": "Mais uma estação na jornada.",
-      "temas": ["jornada"],
-      "personagens": []
+      "parafrase": "Depois que partiram de Dibom-Gade, a jornada continuou até Almom-Diblataim. Lá acamparam, mas logo ergueram suas tendas novamente e seguiram viagem, alcançando a região montanhosa de Abarim, que ficava em frente ao monte Nebo, no deserto.",
+      "referencias": [
+        "Deuteronômio 10:7",
+        "Números 21:19"
+      ],
+      "comentario": "O texto detalha a sequência exata de acampamentos no final da jornada no deserto, marcando a aproximação da Terra Prometida. O termo 'Abarim' (que significa 'travessias' ou 'lugares de passagem') já prenuncia a transição final que Israel está prestes a fazer. O Monte Nebo é introduzido como o ponto focal geográfico da revelação vindoura de Deus a Moisés.",
+      "temas": [
+        "Percurso",
+        "Geografia Sagrada",
+        "Proximidade da Promessa"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "27": {
-      "parafrase": "Partiram de Taate e acamparam em Tara.",
-      "referencias": [],
-      "comentario": "A jornada continua pelo deserto.",
-      "temas": ["jornada", "deserto"],
-      "personagens": []
+      "parafrase": "De Abarim, eles se moveram novamente, estabelecendo seu acampamento em um lugar chamado স্থানীয়, e de lá seguiram para o vale, onde a terra era mais fértil e onde esperavam avançar.",
+      "referencias": [
+        "Números 33:43"
+      ],
+      "comentario": "A menção a um local de acampamento sem nome específico ou contexto teológico imediato serve para preencher o itinerário. A progressão é constante, indicando que, apesar da fadiga ou da espera, a liderança divina não cessava de guiar o povo, mantendo o cronograma da peregrinação.",
+      "temas": [
+        "Continuidade da Jornada",
+        "Obediência ao Itinerário"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "28": {
-      "parafrase": "Partiram de Tara e acamparam em Mitca.",
-      "referencias": [],
-      "comentario": "Mais uma estação na jornada.",
-      "temas": ["jornada"],
-      "personagens": []
+      "parafrase": "Seguindo adiante, acamparam perto do Rio Zerede. Este trecho representa uma etapa crucial, pois logo após, a rota os levaria para dentro do território transjordano de Moabe.",
+      "referencias": [
+        "Números 21:12"
+      ],
+      "comentario": "O Rio Zerede (ou Vale de Zerede) é um marco geográfico que separa diferentes regiões do deserto. O registro insiste na precisão geográfica, sublinhando que a providência de Deus se manifestava no controle até dos locais de parada.",
+      "temas": [
+        "Marcos Geográficos",
+        "Provisão Divina"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "29": {
-      "parafrase": "Partiram de Mitca e acamparam em Hasmona.",
-      "referencias": [],
-      "comentario": "A jornada continua pelo deserto.",
-      "temas": ["jornada", "deserto"],
-      "personagens": []
+      "parafrase": "Então, eles deixaram o Zerede e montaram acampamento em Mookah, um lugar que marcava a transição para áreas mais povoadas ou talvez mais difíceis de atravessar.",
+      "referencias": [
+        "Deuteronômio 10:7"
+      ],
+      "comentario": "Novamente, a lista funciona como um 'diário de bordo' espiritual e militar. Cada parada era um momento de reorientação e reagrupamento antes do próximo desafio ou conquista. A repetição do ato de acampar e partir mostra a natureza transitória da vida no deserto.",
+      "temas": [
+        "Transição",
+        "Organização do Acampamento"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "30": {
-      "parafrase": "Partiram de Hasmona e acamparam em Moserote.",
-      "referencias": [],
-      "comentario": "Mais uma estação na jornada.",
-      "temas": ["jornada"],
-      "personagens": []
+      "parafrase": "A rota os conduziu a uma parada em Temã, uma região que já havia sido habitada por Edomitas, mas que agora servia de descanso para o povo de Deus.",
+      "referencias": [
+        "Jeremias 49:7",
+        "Obadias 1:8"
+      ],
+      "comentario": "Temã é associada historicamente com Edom (território de Esaú), contrastando com Israel. O fato de Israel acampar ali mostra que eles estavam avançando através de territórios que, embora habitados, agora estavam sob a permissão ou controle da jornada divinamente ordenada.",
+      "temas": [
+        "Encontro de Territórios",
+        "Propriedade Divina"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "31": {
-      "parafrase": "Partiram de Moserote e acamparam em Bene-Jaacã.",
-      "referencias": [],
-      "comentario": "A jornada continua pelo deserto.",
-      "temas": ["jornada", "deserto"],
-      "personagens": []
+      "parafrase": "Depois de Temã, eles seguiram para Belufo, um local que parece ter sido significativo em sua jornada, antes de prosseguir para a etapa seguinte.",
+      "referencias": [
+        "Êxodo 17:1"
+      ],
+      "comentario": "A dificuldade em fixar a exata localização geográfica de alguns desses acampamentos (como Belufo) reforça a natureza do texto como um registro sacerdotal focado na fidelidade do registro, mais do que na geografia moderna. É um mapa da peregrinação da fé.",
+      "temas": [
+        "Fidelidade no Registro",
+        "Peregrinação"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "32": {
-      "parafrase": "Partiram de Bene-Jaacã e acamparam em Hor-Hagidgade.",
-      "referencias": [],
-      "comentario": "Mais uma estação na jornada.",
-      "temas": ["jornada"],
-      "personagens": []
+      "parafrase": "O próximo acampamento foi estabelecido em Quidataim, um lugar onde o povo certamente buscou reabastecer suas energias e se preparar para os desafios que se aproximavam nas planícies de Moabe.",
+      "referencias": [
+        "Números 33:44"
+      ],
+      "comentario": "O nome Quidataim pode estar ligado à ideia de 'duas cidades' ou 'duas colinas', sugerindo uma parada estratégica em um ponto de bifurcação ou de observação da terra à frente.",
+      "temas": [
+        "Parada Estratégica",
+        "Reagrupamento"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "33": {
-      "parafrase": "Partiram de Hor-Hagidgade e acamparam em Jotbatá.",
-      "referencias": [],
-      "comentario": "A jornada continua pelo deserto.",
-      "temas": ["jornada", "deserto"],
-      "personagens": []
+      "parafrase": "Eles se deslocaram de Quidataim para uma parada em Remom-Peres, um local que exigiu uma nova concentração de esforços para a travessia.",
+      "referencias": [
+        "Isaías 15:4"
+      ],
+      "comentario": "Remom-Peres é um nome complexo que sugere a ideia de 'altitude elevada' ou 'levantar-se para despedaçar'. Isso pode indicar um momento de tensão ou uma vitória parcial antes da chegada à área final.",
+      "temas": [
+        "Ascensão",
+        "Conflito Implícito"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "34": {
-      "parafrase": "Partiram de Jotbatá e acamparam em Abrona.",
-      "referencias": [],
-      "comentario": "Mais uma estação na jornada.",
-      "temas": ["jornada"],
-      "personagens": []
+      "parafrase": "A jornada os levou então a Líbna, onde armaram suas tendas, um lugar que faz parte da sequência final antes da grande travessia do Jordão.",
+      "referencias": [
+        "Josué 10:29"
+      ],
+      "comentario": "Líbna é um nome que significa 'branco' ou 'lugar de alvura'. Em contraste com o pó do deserto, talvez este lugar oferecesse uma visão de frescor ou pureza, preparando-os espiritualmente para a santidade da Terra Prometida.",
+      "temas": [
+        "Purificação",
+        "Esperança"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "35": {
-      "parafrase": "Partiram de Abrona e acamparam em Eziom-Geber.",
-      "referencias": [],
-      "comentario": "A jornada continua pelo deserto.",
-      "temas": ["jornada", "deserto"],
-      "personagens": []
+      "parafrase": "De Líbna, o povo de Israel se moveu para Risá, um lugar de descanso que parecia ser mais tranquilo antes da mudança de cenário.",
+      "referencias": [
+        "Jó 1:1"
+      ],
+      "comentario": "A cadência da narração continua metódica. O registro visa garantir que nenhuma etapa da fidelidade de Deus no caminho fosse esquecida, servindo como prova para as gerações futuras de que Deus os tirou do Egito por um caminho planejado.",
+      "temas": [
+        "Memória da Jornada",
+        "Planejamento Divino"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "36": {
-      "parafrase": "Partiram de Eziom-Geber e acamparam em Cades, no deserto de Zim.",
-      "referencias": ["Números 20:1"],
-      "comentario": "Cades é um local importante, onde ocorreram vários eventos significativos, incluindo a murmuração por água e o pecado de Moisés.",
-      "temas": ["local importante", "murmuração", "pecado de Moisés"],
-      "personagens": []
+      "parafrase": "Em seguida, acamparam em Quelata, um ponto de parada antes de entrarem na região dos desertos que margeavam as terras de Siom.",
+      "referencias": [
+        "Números 33:45"
+      ],
+      "comentario": "Quelata indica uma área de colinas ou pedra. O foco aqui não é apenas a chegada, mas o processo de transição entre os territórios.",
+      "temas": [
+        "Travessia de Fronteiras",
+        "Terreno Variado"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "37": {
-      "parafrase": "Partiram de Cades e acamparam no monte Hor, na fronteira da terra de Edom.",
-      "referencias": ["Números 20:22"],
-      "comentario": "O monte Hor é onde Arão morreu e foi sepultado.",
-      "temas": ["morte de Arão", "sepultamento"],
-      "personagens": []
+      "parafrase": "A rota os levou a Maqam, um ponto de referência importante na marcha final, onde se prepararam para o que viria depois de atravessar o território de Siom.",
+      "referencias": [
+        "Jeremias 48:23"
+      ],
+      "comentario": "Maqam significa 'lugar de se levantar' ou 'lugar de adoração/reverência'. Isso sugere que, mesmo em trânsito, a postura de Israel deveria ser de respeito diante de Deus.",
+      "temas": [
+        "Reverência",
+        "Ponto de Referência"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "38": {
-      "parafrase": "O sacerdote Arão subiu ao monte Hor, conforme a ordem do Senhor, e morreu ali no quadragésimo ano da saída dos israelitas da terra do Egito, no quinto mês, no primeiro dia do mês.",
-      "referencias": ["Números 20:25-28"],
-      "comentario": "A morte de Arão é um marco na jornada, marcando o fim de uma era e a transição para uma nova liderança.",
-      "temas": ["morte de Arão", "marco na jornada", "transição de liderança"],
-      "personagens": ["Arão"]
+      "parafrase": "Após deixarem Maqam, o povo se deslocou para o lugar conhecido como Dibom-Gade, um local já mencionado anteriormente, indicando talvez um retorno estratégico ou um ponto de reagrupamento após uma manobra tática.",
+      "referencias": [
+        "Números 32:3"
+      ],
+      "comentario": "A repetição de Dibom-Gade (já visto no início da lista, versículo 26, embora o texto retorne a ele mais adiante, este ponto é listado como a parada seguinte após Maqam na sequência do texto canônico) mostra ciclos na jornada, voltando a locais conhecidos para logística ou reagrupamento antes da fase final de conquista.",
+      "temas": [
+        "Ciclos da Jornada",
+        "Reorganização Logística"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "39": {
-      "parafrase": "Arão tinha cento e vinte e três anos quando morreu no monte Hor.",
-      "referencias": [],
-      "comentario": "A idade de Arão no momento de sua morte é registrada.",
-      "temas": ["idade", "morte"],
-      "personagens": ["Arão"]
+      "parafrase": "Em seguida, o acampamento foi montado em Abel-Sitim, um nome evocativo que significa 'Lugar das Acácias' ou 'Campo de Acácia', um lugar que ficaria gravado na memória por razões dolorosas que viriam a seguir.",
+      "referencias": [
+        "Números 25:1",
+        "Josué 2:1"
+      ],
+      "comentario": "Este é um ponto extremamente significativo. Abel-Sitim é onde Israel caiu na prostituição com as mulheres de Moabe e Midian, levando à praga (ver Números 25). O registro aqui o inclui como um local de parada, contrastando a beleza da natureza (acácias) com a falha moral humana.",
+      "temas": [
+        "Tentação",
+        "Queda Moral",
+        "Memória Histórica"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "40": {
-      "parafrase": "O rei cananeu de Arade, que vivia no Neguebe, na terra de Canaã, ouviu que os israelitas estavam chegando.",
-      "referencias": ["Números 21:1"],
-      "comentario": "A menção do rei de Arade serve como um lembrete da primeira vitória de Israel na jornada, um sinal da fidelidade de Deus em lutar por seu povo.",
-      "temas": ["vitória", "fidelidade de Deus"],
-      "personagens": ["Rei de Arade"]
+      "parafrase": "Deste local, eles finalmente avançaram para as planícies de Moabe, acampando próximas ao grande Rio Jordão, em frente à região que viria a ser conhecida como Jerusalém, ao oeste do rio.",
+      "referencias": [
+        "Números 22:1",
+        "Josué 3:1"
+      ],
+      "comentario": "Este é o clímax geográfico da jornada no deserto: as planícies de Moabe. O termo 'planícies' (ou 'árvores de acácia') indica um terreno aberto, pronto para a grande transição da conquista. A proximidade do Jordão prepara o cenário para a entrada na Terra Prometida.",
+      "temas": [
+        "Chegada à Fronteira",
+        "Preparação para a Conquista",
+        "O Limiar"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "41": {
-      "parafrase": "Partiram do monte Hor e acamparam em Zalmona.",
-      "referencias": [],
-      "comentario": "A jornada continua após a morte de Arão.",
-      "temas": ["jornada"],
-      "personagens": []
+      "parafrase": "Seu último acampamento antes de cruzar o rio foi nas imediações do Jordão, na região que ficava onde o rio deságua no Mar Morto, ou em algum ponto ao longo do vale do Jordão.",
+      "referencias": [
+        "Números 34:12"
+      ],
+      "comentario": "A descrição precisa da localização final enfatiza que a libertação do deserto estava completa. Eles não estavam mais vagando; estavam na porta de entrada para a herança prometida. O Jordão não é apenas um rio, mas a barreira final que requer um ato de fé miraculoso para ser transposta.",
+      "temas": [
+        "Fronteira Final",
+        "Ato de Fé"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "42": {
-      "parafrase": "Partiram de Zalmona e acamparam em Punom.",
-      "referencias": [],
-      "comentario": "Mais uma estação na jornada.",
-      "temas": ["jornada"],
-      "personagens": []
+      "parafrase": "Eles se estabeleceram em locais designados ao longo do Jordão, na terra de Moabe, preparando-se para a próxima fase de sua história.",
+      "referencias": [
+        "Deuteronômio 1:5"
+      ],
+      "comentario": "A posse da terra de Moabe, mesmo que temporária, foi um passo vital, conquistado através da vitória sobre os reis Seom e Ogue, o que é um pré-requisito para a alocação futura da terra a Rúben, Gade e Meia-tribo de Manassés.",
+      "temas": [
+        "Território Conquistado",
+        "Estabelecimento Temporário"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "43": {
-      "parafrase": "Partiram de Punom e acamparam em Obote.",
-      "referencias": ["Números 21:10"],
-      "comentario": "Obote é onde o povo murmurou por água e foi picado por serpentes venenosas.",
-      "temas": ["murmuração", "serpentes venenosas", "juízo divino"],
-      "personagens": []
+      "parafrase": "A jornada seguiu, e eles acamparam em Queron-Gema, um lugar que serviu de abrigo após a conquista dos territórios a leste.",
+      "referencias": [
+        "Números 33:44"
+      ],
+      "comentario": "Este ponto provavelmente se refere a uma área montanhosa ou a um desfiladeiro ('Queron'), indicando a mudança de terreno ao se afastar da região plana de Moabe, possivelmente em direção ao território de Basã.",
+      "temas": [
+        "Mudança Topográfica",
+        "Refúgio"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "44": {
-      "parafrase": "Partiram de Obote e acamparam em Ijé-Abarim, na fronteira de Moabe.",
-      "referencias": ["Números 21:11"],
-      "comentario": "Israel se aproxima das fronteiras de Moabe.",
-      "temas": ["fronteiras de Moabe"],
-      "personagens": []
+      "parafrase": "De Queron-Gema, a marcha os levou a Bene-Jaacã, um local significativo na progressão para o norte ou para o centro do território que estavam prestes a herdar.",
+      "referencias": [
+        "Deuteronômio 10:6"
+      ],
+      "comentario": "Bene-Jaacã, que significa 'Filhos de Jacã', remete à descendência de Jacó, reforçando a identidade do povo em seu destino final. Cada parada reforça a ideia de que Deus cumpria Sua promessa à linhagem de Jacó.",
+      "temas": [
+        "Identidade Pactual",
+        "Descendência"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "45": {
-      "parafrase": "Partiram de Ijé-Abarim e acamparam em Dibom-Gade.",
-      "referencias": [],
-      "comentario": "Mais uma estação na jornada.",
-      "temas": ["jornada"],
-      "personagens": []
+      "parafrase": "Eles deixaram Bene-Jaacã e foram acampar em Hor-Haguidegade, uma área que pode ter sido elevada, um 'monte de maravilhas' ou 'monte de bonança', como um sinal da proximidade da bênção.",
+      "referencias": [
+        "Números 33:47"
+      ],
+      "comentario": "A repetição de nomes com a raiz 'gade' (como Dibom-Gade) pode indicar áreas onde as tribos de Gade e Rúben já haviam estabelecido postos avançados após terem recebido suas terras a leste.",
+      "temas": [
+        "Marcação de Território",
+        "Anticipação da Bênção"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "46": {
-      "parafrase": "Partiram de Dibom-Gade e acamparam em Almom-Diblataim.",
-      "referencias": [],
-      "comentario": "A jornada continua em direção às planícies de Moabe.",
-      "temas": ["jornada"],
-      "personagens": []
+      "parafrase": "Em seguida, o acampamento foi montado em Jotbata, um lugar que significa 'terra fértil' ou 'lugar agradável', sugerindo um período de descanso e provisão abundante.",
+      "referencias": [
+        "Números 33:33"
+      ],
+      "comentario": "Embora Jotbata apareça em outra parte da jornada (perto do Sinai), sua inclusão aqui, se for o mesmo local, sugere uma repetição de parada estratégica, ou, mais provavelmente, um local com nome semelhante, enfatizando que a provisão de Deus era constante, como no início da caminhada.",
+      "temas": [
+        "Fartura",
+        "Constância da Provisão"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "47": {
-      "parafrase": "Partiram de Almom-Diblataim e acamparam nas montanhas de Abarim, em frente a Nebo.",
-      "referencias": [],
-      "comentario": "As montanhas de Abarim são onde Moisés veria a Terra Prometida antes de morrer.",
-      "temas": ["montanhas de Abarim", "morte de Moisés", "Terra Prometida"],
-      "personagens": []
+      "parafrase": "A marcha prosseguiu até Abrona, um nome que pode significar 'passagem' ou 'travessia', marcando mais uma etapa de transição entre os acampamentos.",
+      "referencias": [
+        "Números 33:34"
+      ],
+      "comentario": "Assim como no passado, Abrona era um lugar onde eles 'passavam'. O foco narrativo aqui é mapear a última fase da peregrinação antes de entrar em Canaã.",
+      "temas": [
+        "Transitoriedade",
+        "Fase Final"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "48": {
-      "parafrase": "Partiram das montanhas de Abarim e acamparam nas planícies de Moabe, junto ao Jordão, em frente a Jericó.",
-      "referencias": [],
-      "comentario": "A última estação da jornada, nas planícies de Moabe, em frente a Jericó, o ponto de partida para a conquista da Terra Prometida.",
-      "temas": ["última estação", "planícies de Moabe", "conquista da Terra Prometida"],
-      "personagens": []
+      "parafrase": "Eles deixaram Abrona e acamparam em Eziom-Geber, um porto ou local importante perto do Mar Vermelho (Golfo de Ácaba), um ponto crucial na rota do sul para o norte, que agora servia como um marco final de suas andanças no deserto.",
+      "referencias": [
+        "1 Reis 9:26",
+        "Números 33:35"
+      ],
+      "comentario": "Eziom-Geber é historicamente significativo como centro de comércio e navegação. Sua menção aqui serve para delimitar o extremo sul da área de peregrinação, antes de Israel se concentrar na conquista da Transjordânia e, finalmente, de Canaã ocidental.",
+      "temas": [
+        "Marco Geográfico Final",
+        "Logística de Viagem"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "49": {
-      "parafrase": "Acamparam junto ao Jordão, desde Bete-Jesimote até Abel-Sitim, nas planícies de Moabe.",
-      "referencias": [],
-      "comentario": "A extensão do acampamento de Israel nas planícies de Moabe.",
-      "temas": ["extensão do acampamento"],
-      "personagens": []
+      "parafrase": "Finalmente, o povo de Israel deixou Eziom-Geber e montou acampamento nas planícies de Zim, que ficavam no limite leste do território de Moabe, perto do Mar Morto, preparando-se para o grande momento da travessia.",
+      "referencias": [
+        "Números 21:20"
+      ],
+      "comentario": "As Planícies de Zim são as planícies de Moabe. O registro está fechando o ciclo do deserto. O povo chega ao ponto exato de onde Deus havia ordenado a Moisés que olhasse para a terra (Nebo).",
+      "temas": [
+        "Conclusão da Peregrinação",
+        "Chegada ao Limiar"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "50": {
-      "parafrase": "O Senhor disse a Moisés nas planícies de Moabe, junto ao Jordão, em frente a Jericó:",
-      "referencias": [],
-      "comentario": "Deus dá a Moisés as instruções finais antes da entrada na Terra Prometida.",
-      "temas": ["instruções finais", "entrada na Terra Prometida"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "Lá, nas planícies de Moabe, em frente ao vale do Jordão, perto da cidade de Jericó, eles estabeleceram seu último acampamento antes de Deus instruir Moisés sobre como deveriam proceder para entrar na terra que Ele havia prometido dar-lhes como herança eterna. Que momento de tensão, expectativa e fé total! 🙌",
+      "referencias": [
+        "Deuteronômio 34:1",
+        "Josué 3:15"
+      ],
+      "comentario": "Este versículo é o ponto de suspensão dramático. O deserto acabou (os versículos 1-49 listaram cada parada). Agora, a ordem é dada: não mais andar, mas possuir. A menção de Jericó (a primeira cidade a cair) sela o propósito de todos os 40 anos de caminhada. A narrativa passa de 'como chegamos' para 'como vamos conquistar'.",
+      "temas": [
+        "Herança",
+        "Instrução para a Conquista",
+        "Fim do Deserto"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Moisés"
+      ]
     },
     "51": {
-      "parafrase": "'Diga aos israelitas: Quando vocês atravessarem o Jordão para a terra de Canaã,'",
-      "referencias": [],
-      "comentario": "A ordem de Deus para a conquista da Terra Prometida.",
-      "temas": ["ordem de conquista", "Terra Prometida"],
-      "personagens": ["Deus"]
+      "parafrase": "Quando vocês finalmente atravessarem o rio Jordão e entrarem na Terra Prometida, não se esqueçam de algo crucial: vocês devem expulsar completamente todos os habitantes originais daquela terra. Não deixem sobrar nenhum vestígio dessas nações idólatras. Arranquem pela raiz os postes sagrados dedicados aos seus falsos deuses e destruam todas as colunas de pedra que eles usavam para adoração. Derrubem os seus lugares altos de culto, onde se reuniam para práticas abomináveis.",
+      "referencias": [
+        "Êxodo 23:32",
+        "Deuteronômio 7:1-2"
+      ],
+      "comentario": "O verbo hebraico para expulsar é 'yaraš' (יָרַשׁ), que significa 'tomar posse', mas aqui é usado no imperativo de remoção total. A ênfase está na aniquilação cultural e religiosa, não apenas na conquista militar. Os 'asherim' (postes sagrados) e 'massēbôt' (colunas/monumentos) eram símbolos centrais do culto pagão cananeu, associados à fertilidade e divindades da terra, e sua destruição era vital para a pureza teocrática de Israel.",
+      "temas": [
+        "Obediência à Conquista",
+        "Extermínio da Idolatria",
+        "Pureza Religiosa"
+      ],
+      "personagens": [
+        "O Povo de Israel"
+      ]
     },
     "52": {
-      "parafrase": "'expulsem todos os habitantes da terra de diante de vocês, destruam todas as suas imagens esculpidas, destruam todas as suas imagens de metal fundido e demolam todos os seus altos.'",
-      "referencias": ["Deuteronômio 7:5"],
-      "comentario": "A ordem de Deus é clara: destruir completamente a idolatria e os altares pagãos da terra, para evitar a contaminação de Israel.",
-      "temas": ["destruição da idolatria", "purificação da terra", "prevenção da contaminação"],
-      "personagens": ["Deus"]
+      "parafrase": "Se vocês permitirem que esses povos permaneçam, eles se tornarão espinhos cravados em seus olhos e ferrões pontiagudos nos vossos flancos. Eles os atormentarão constantemente, querendo desvirtuá-los e forçá-los a abandonar a aliança com Deus. Eles os puxarão de volta para a adoração aos seus próprios deuses.",
+      "referencias": [
+        "Josué 23:13",
+        "Juízes 2:3"
+      ],
+      "comentario": "A metáfora do 'espinho no olho' (Hebraico: 'zōninim be-'ēyneikhem', זֹנִים בְּעֵינֵיכֶם) é extremamente vívida, indicando irritação constante, dor crônica e incapacidade de focar. É uma advertência sobre a contaminação gradual. A palavra 'zōninim' aqui tem uma conotação de 'seduzir' ou 'falsificar a adoração', o que leva à infidelidade espiritual.",
+      "temas": [
+        "Consequências da Desobediência",
+        "Tentação Espiritual",
+        "Perigo da Contaminação Cultural"
+      ],
+      "personagens": [
+        "O Povo de Israel",
+        "Os Povos Cananeus"
+      ]
     },
     "53": {
-      "parafrase": "'Tomem posse da terra e habitem nela, pois eu a dei a vocês para a possuírem.'",
-      "referencias": [],
-      "comentario": "A posse da terra é um dom de Deus, mas exige a ação de Israel para conquistá-la e habitá-la.",
-      "temas": ["posse da terra", "dom de Deus", "ação humana"],
-      "personagens": ["Deus"]
+      "parafrase": "Além disso, se vocês não os expulsarem, acontecerá que Deus os forçará a conviver com vocês, e os que restarem farão com que o seu povo sofra terrivelmente, como se fossem inimigos em seu próprio território. Eles se tornarão instrumentos do juízo divino sobre a sua própria falta de fé.",
+      "referencias": [
+        "Levítico 26:33",
+        "Jeremias 24:8-10"
+      ],
+      "comentario": "Este versículo inverte a dinâmica de poder: a falha em cumprir o mandamento resulta em Deus permitindo que o inimigo (o remanescente) se torne o instrumento de correção para Israel. O termo para 'fazer sofrer' ('la'ah', לַעֲךָ) sugere afligir ou causar sofrimento, mostrando que a desobediência atrai o sofrimento, mesmo das fontes que deveriam ter sido eliminadas.",
+      "temas": [
+        "Instrumentos de Juízo",
+        "Convivência Perigosa",
+        "Soberania Divina"
+      ],
+      "personagens": [
+        "Deus",
+        "O Povo de Israel"
+      ]
     },
     "54": {
-      "parafrase": "'Vocês dividirão a terra por sorteio, segundo as suas famílias. A uma tribo maior vocês darão uma herança maior, e a uma tribo menor, uma herança menor. Onde a sorte cair para cada um, ali será a sua herança. Vocês a herdarão segundo as tribos de seus antepassados.'",
-      "referencias": ["Números 26:52-56"],
-      "comentario": "A divisão da terra seria feita por sorteio, garantindo a justiça e a soberania de Deus na distribuição.",
-      "temas": ["divisão por sorteio", "justiça", "soberania de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Em obediência a esses mandamentos, vocês se dedicarão a manter a Lei e os estatutos que Eu lhes dei hoje, para que possam viver em segurança e prosperidade na terra que está prestes a ser sua. Vivam por estes princípios!",
+      "referencias": [
+        "Deuteronômio 4:1",
+        "Salmos 119:1-2"
+      ],
+      "comentario": "Aqui a narrativa muda do negativo (o que NÃO fazer) para o positivo (o que DEVE fazer): a manutenção ('la'aśot', לַעֲשׂוֹת) da Torá como condição para a posse plena da terra e a segurança ('batuach', בטח), que significa confiança e estabilidade. A vida plena ('hayim', חַיִּים) está diretamente ligada à prática da Palavra.",
+      "temas": [
+        "Fundamento da Aliança",
+        "Viver pela Lei",
+        "Segurança e Prosperidade"
+      ],
+      "personagens": [
+        "O Povo de Israel"
+      ]
     },
     "55": {
-      "parafrase": "'Mas, se vocês não expulsarem os habitantes da terra de diante de vocês, então aqueles que vocês deixarem serão como espinhos nos seus olhos e como espinhos nas suas costas, e os afligirão na terra em que vocês habitarem.'",
-      "referencias": ["Josué 23:13"],
-      "comentario": "Deus adverte sobre as consequências da desobediência: os habitantes remanescentes seriam uma fonte constante de problemas e aflição para Israel.",
-      "temas": ["consequências da desobediência", "aflição", "problemas"],
-      "personagens": ["Deus"]
+      "parafrase": "Mas se vocês negligenciarem estes mandamentos e se esquecerem de praticá-los, e se, pior ainda, vocês se aliarem a esses outros povos e se curvarem em adoração aos seus deuses, saibam que Eu certamente me voltarei contra vocês e os castigarei severamente por essa traição.",
+      "referencias": [
+        "Deuteronômio 28:15",
+        "Oseias 2:14-15"
+      ],
+      "comentario": "O tom se torna incisivo. O verbo 'biqeshti' (בְּקַשְׁתִּי), que significa 'se eu for tentado/provocado', implica que a desobediência ativa e a apostasia (adorar outros deuses) funcionarão como um gatilho para a ira divina, resultando em 'r'a'ah' (רָעָה), que é o mal ou desgraça, como resposta direta à quebra do pacto.",
+      "temas": [
+        "Aposta e Traição",
+        "Consequência da Irreverência",
+        "Juízo Iminente"
+      ],
+      "personagens": [
+        "Deus",
+        "O Povo de Israel"
+      ]
     },
     "56": {
-      "parafrase": "'E farei a vocês o que planejei fazer a eles.'",
-      "referencias": [],
-      "comentario": "A advertência final é severa: se Israel não cumprisse a ordem de Deus, eles sofreriam o mesmo destino dos cananeus.",
-      "temas": ["advertência severa", "destino dos cananeus", "juízo divino"],
-      "personagens": ["Deus"]
+      "parafrase": "Portanto, tenham muito cuidado: Eu não apenas os punirei, mas Eu os arrancarei da boa terra que lhes dei e os lançarei em um lugar estranho, longe de casa. Vocês conhecerão o exílio, pois vocês se entregaram à idolatria que juraram destruir!",
+      "referencias": [
+        "Levítico 20:22-24",
+        "Miquéias 6:9"
+      ],
+      "comentario": "Esta é a sentença final do juízo: a perda da terra, o prêmio da promessa. O verbo 'nātaš' (נָתַשׁ), 'arrancar' ou 'desarraigar', é o oposto do ato de tomar posse ('yaraš') no versículo 51. A terra prometida é retirada como consequência da adulteração espiritual, resultando no exílio ('eretz zarah', אֶרֶץ זָרָה), a experiência histórica mais dolorosa para Israel.",
+      "temas": [
+        "Perda da Herança",
+        "Exílio como Juízo",
+        "Integridade da Aliança"
+      ],
+      "personagens": [
+        "Deus",
+        "O Povo de Israel"
+      ]
     }
   }
 }

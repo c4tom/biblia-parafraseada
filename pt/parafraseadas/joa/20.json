@@ -1,225 +1,523 @@
 {
   "livro": "João",
   "capitulo": 20,
-  "contexto_historico": "Este capítulo é o coração da esperança cristã. Narra os eventos da manhã da ressurreição, começando com a descoberta do túmulo vazio, as aparições de Jesus a Maria Madalena e aos discípulos (excluindo Tomé), e, finalmente, a aparição a Tomé, que o leva à sua grande confissão de fé. O propósito do evangelho é explicitamente declarado no final.",
-  "bloco_tematico": "A Ressurreição de Jesus",
+  "contexto_historico": "O capítulo 20 de João ocorre imediatamente após a crucificação e ressurreição de Jesus. É um momento de intensa turbulência emocional e confusão para os discípulos, especialmente Pedro e João, que estão lidando com a ausência física de seu Mestre e os rumores sobre o túmulo vazio. A narrativa se move rapidamente entre o choque inicial (Maria Madalena, Pedro e João) e a aparição triunfante de Jesus ressurreto, primeiro aos discípulos reunidos (exceto Tomé) e depois a Tomé oito dias depois. Este capítulo é crucial para estabelecer a base da fé cristã: a ressurreição corporal e a autoridade apostólica delegada. O cenário é o primeiro dia da semana (domingo), o dia da vitória sobre a morte. 🩸➡️🌞",
+  "bloco_tematico": "O Amanhecer da Nova Aliança: Visitas ao Sepulcro Vazio e o Encontro com o Ressuscitado 🏃💨🔑😇",
   "versiculos": {
     "1": {
-      "parafrase": "No primeiro dia da semana, bem cedo, enquanto ainda estava escuro, Maria Madalena foi ao sepulcro e viu que a pedra da entrada tinha sido removida.",
-      "referencias": ["Mateus 28:1", "Marcos 16:1-2"],
-      "comentario": "A narrativa da ressurreição começa com Maria Madalena, uma seguidora devotada. Ela vai ao túmulo para lamentar, mas encontra o inesperado: a pedra, uma barreira massiva, foi retirada, não para Jesus sair, mas para que as testemunhas pudessem entrar.",
-      "temas": ["ressurreição", "túmulo vazio", "testemunho"],
-      "personagens": ["Maria Madalena"]
+      "parafrase": "No primeiro dia da semana, bem cedinho, quando o sol mal começava a tingir o céu de cor e as sombras ainda eram longas, Maria Madalena dirigiu-se ao sepulcro, um jazigo cavado na rocha. Ela notou, para seu profundo espanto e aflição, que a grande pedra que selava a entrada havia sido removida do lugar. 😱",
+      "referencias": [
+        "Mateus 28:1",
+        "Marcos 16:2"
+      ],
+      "comentario": "O primeiro dia da semana (Kyriakē hemera, o dia do Senhor) marca a ruptura com o Sábado judaico. Maria Madalena é a primeira testemunha da ressurreição, destacando a importância das mulheres como as primeiras mensageiras da Boa Nova. A 'pedra removida' é o primeiro sinal físico da vitória sobre a morte.",
+      "temas": [
+        "Ressurreição",
+        "Madrugada",
+        "Testemunho Feminino"
+      ],
+      "personagens": [
+        "Maria Madalena"
+      ]
     },
     "2": {
-      "parafrase": "Então ela correu ao encontro de Simão Pedro e do outro discípulo, a quem Jesus amava, e disse: 'Tiraram o Senhor do sepulcro, e não sabemos onde o puseram!'",
-      "referencias": ["Lucas 24:9-10"],
-      "comentario": "A primeira conclusão de Maria não é a ressurreição, mas o roubo do corpo. Seu desespero a leva a informar os líderes dos apóstolos, Pedro e João.",
-      "temas": ["confusão", "desespero", "relato"],
-      "personagens": ["Maria Madalena", "Simão Pedro", "João"]
+      "parafrase": "Correndo, ela se afastou do túmulo vazio e procurou Pedro e o outro discípulo, aquele que Jesus tanto amava, João. Ela irrompeu na presença deles, ofegante, e disse, com a voz embargada pela surpresa e medo: 'Levaram o Senhor do sepulcro! Não sabemos onde o puseram!'. 🏃‍♀️💨",
+      "referencias": [
+        "Lucas 24:12",
+        "João 19:26"
+      ],
+      "comentario": "A reação imediata é o pânico e a busca por autoridade (Pedro) e intimidade (o discípulo amado). A expressão 'não sabemos onde o puseram' revela o estado de confusão, pois a ausência do corpo é inexplicável para elas.",
+      "temas": [
+        "Confusão",
+        "Busca",
+        "Notícia Chocante"
+      ],
+      "personagens": [
+        "Maria Madalena",
+        "Pedro",
+        "Discípulo Amado"
+      ]
     },
     "3": {
-      "parafrase": "Pedro e o outro discípulo saíram e foram para o sepulcro.",
-      "referencias": ["Lucas 24:12"],
-      "comentario": "Movidos pela notícia alarmante, os dois discípulos correm para verificar por si mesmos.",
-      "temas": ["investigação", "urgência"],
-      "personagens": ["Simão Pedro", "João"]
+      "parafrase": "Então Pedro e o outro discípulo saíram apressadamente, disparando em direção ao lugar onde Jesus estava sepultado. Eram dois corpos correndo lado a lado, num ímpeto de urgência mista de esperança e incredulidade. 🏃‍♂️🏃‍♂️",
+      "referencias": [
+        "Lucas 24:12",
+        "Gênesis 41:7"
+      ],
+      "comentario": "A corrida é um ato de fé espontânea, embora ainda incompleta. O fato de os dois correrem juntos simboliza a união de ministérios, embora um deles (o discípulo amado) demonstre maior velocidade, o que será explicado no versículo seguinte.",
+      "temas": [
+        "Urgência",
+        "Corrida",
+        "Incredulidade"
+      ],
+      "personagens": [
+        "Pedro",
+        "Discípulo Amado"
+      ]
     },
     "4": {
-      "parafrase": "Os dois corriam juntos, mas o outro discípulo foi mais rápido que Pedro e chegou primeiro ao sepulcro.",
-      "referencias": [],
-      "comentario": "João, tradicionalmente identificado como o 'outro discípulo', era provavelmente mais jovem e, portanto, mais rápido. É um detalhe vívido de uma testemunha ocular.",
-      "temas": ["testemunho ocular", "corrida"],
-      "personagens": ["João", "Simão Pedro"]
+      "parafrase": "O discípulo mais jovem, o que era mais rápido, chegou primeiro ao jazigo. Ele parou na entrada, hesitando em entrar, mas olhou para dentro para ver o que havia acontecido. 👀",
+      "referencias": [
+        "Salmos 119:105",
+        "Filipenses 3:14"
+      ],
+      "comentario": "O discípulo amado é 'mais rápido' (tachýteros). A hesitação em entrar pode ser reverência ao local sagrado ou o medo de confirmar a perda. Ele espera o mais velho, Pedro, o líder reconhecido, iniciar a inspeção, demonstrando respeito à liderança apostólica.",
+      "temas": [
+        "Liderança",
+        "Hesitação",
+        "Reconhecimento"
+      ],
+      "personagens": [
+        "Discípulo Amado"
+      ]
     },
     "5": {
-      "parafrase": "Ele se curvou e olhou para dentro, viu as faixas de linho ali, mas não entrou.",
-      "referencias": [],
-      "comentario": "João, por respeito ou talvez por medo, hesita em entrar no túmulo. Mas ele vê a primeira evidência intrigante: as mortalhas de linho, deixadas para trás.",
-      "temas": ["evidência da ressurreição", "hesitação"],
-      "personagens": ["João"]
+      "parafrase": "Pedro, chegando logo atrás, entrou diretamente no interior da tumba. Ele observou com atenção o que estava ali dentro. 🧐",
+      "referencias": [
+        "Atos 10:41",
+        "Hebreus 11:29"
+      ],
+      "comentario": "Pedro, agindo como o apóstolo com a autoridade concedida por Cristo, entra primeiro. Ele se torna o primeiro homem a testemunhar a ausência física do corpo.",
+      "temas": [
+        "Autoridade",
+        "Inspeção",
+        "Presença"
+      ],
+      "personagens": [
+        "Pedro"
+      ]
     },
     "6": {
-      "parafrase": "Em seguida, Simão Pedro, que vinha atrás dele, chegou, entrou no sepulcro e viu as faixas de linho,",
-      "referencias": [],
-      "comentario": "Pedro, com sua natureza impulsiva característica, não hesita. Ele entra e se torna a segunda testemunha das evidências.",
-      "temas": ["impulsividade", "testemunho"],
-      "personagens": ["Simão Pedro"]
+      "parafrase": "E ele viu ali os panos de linho, que haviam envolvido o corpo de Jesus, jogados no chão, mas o lençol que cobria a cabeça de Jesus estava dobrado e colocado separado, num lugar à parte, num arranjo que parecia estranhamente organizado. 🧣",
+      "referencias": [
+        "João 11:44",
+        "2 Reis 5:10"
+      ],
+      "comentario": "O detalhe crucial são os 'panos de linho' (othónia) e o 'sudário' (sindōn) que estava 'junto' ou 'dobrado em um lugar' (chōris entetyligmenon). Não eram lençóis roubados e jogados fora; eram lençóis vazios, com um arranjo que não faria sentido se ladrões tivessem levado o corpo apressadamente.",
+      "temas": [
+        "Evidência",
+        "Organização",
+        "Corpo Ausente"
+      ],
+      "personagens": []
     },
     "7": {
-      "parafrase": "bem como o lenço que estivera sobre a cabeça de Jesus. Ele não estava com as faixas de linho, mas enrolado em um lugar à parte.",
-      "referencias": ["João 11:44"],
-      "comentario": "Esta é a evidência crucial. As mortalhas não foram rasgadas ou jogadas de lado como fariam ladrões de túmulos. Elas estavam ordenadamente no lugar, como se o corpo de Jesus tivesse simplesmente passado por elas. O lenço da cabeça, cuidadosamente dobrado, sugere calma e ordem, não um roubo apressado.",
-      "temas": ["evidência da ressurreição", "ordem", "túmulo vazio"],
-      "personagens": ["Simão Pedro"]
+      "parafrase": "Neste momento, o outro discípulo, o que havia chegado primeiro, também entrou na câmara mortuária. Ao ver os panos dispostos daquela maneira particular, ele finalmente compreendeu a verdade que mudaria o mundo. 🙏",
+      "referencias": [
+        "João 2:22",
+        "1 Pedro 1:3"
+      ],
+      "comentario": "O discípulo amado 'viu e creu'. A evidência da organização dos lençóis é o que sela a compreensão da Ressurreição para ele. O verbo 'creu' (episteusen) aqui significa que ele passou do mero conhecimento para a fé plena na ressurreição corporal.",
+      "temas": [
+        "Compreensão Espiritual",
+        "Fé",
+        "Revelação"
+      ],
+      "personagens": [
+        "Discípulo Amado"
+      ]
     },
     "8": {
-      "parafrase": "Depois, o outro discípulo, que chegara primeiro ao sepulcro, também entrou. Ele viu e creu.",
-      "referencias": [],
-      "comentario": "Diante da evidência, a fé nasce. João, a testemunha ocular, viu a cena e compreendeu sua implicação: Jesus havia ressuscitado. A fé dele precedeu o entendimento completo das Escrituras.",
-      "temas": ["fé", "crença", "testemunho ocular"],
-      "personagens": ["João"]
+      "parafrase": "Até então, eles ainda não tinham entendido plenamente as Escrituras que prometiam que o Messias precisava ressuscitar dentre os mortos, embora Jesus tivesse falado tantas vezes sobre isso. 🤯",
+      "referencias": [
+        "Lucas 24:25-27",
+        "Salmos 16:10"
+      ],
+      "comentario": "Este versículo serve como um comentário do narrador, explicando que a ausência de entendimento prévio sobre a ressurreição era comum entre os discípulos, apesar das predições claras de Jesus. A ressurreição era o ponto cego deles.",
+      "temas": [
+        "Ignorância (Temporária)",
+        "Escrituras",
+        "Cumprimento"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "9": {
-      "parafrase": "(Eles ainda não haviam compreendido que, conforme a Escritura, era necessário que Jesus ressuscitasse dos mortos.)",
-      "referencias": ["Salmos 16:10", "Lucas 24:25-27"],
-      "comentario": "João faz uma pausa para explicar que a fé deles não se baseava inicialmente em uma compreensão profética, mas na evidência esmagadora do túmulo vazio. O entendimento das Escrituras viria depois, iluminado pelo evento.",
-      "temas": ["Escrituras", "profecia", "entendimento progressivo"],
-      "personagens": ["discípulos"]
+      "parafrase": "Satisfeitos com o que viram, os dois discípulos deixaram o sepulcro e voltaram para onde estavam os demais, confirmando a ausência do corpo com os próprios olhos. Eles agora acreditavam no milagre. 🚶‍♂️🚶‍♂️",
+      "referencias": [
+        "Marcos 16:11",
+        "Atos 2:32"
+      ],
+      "comentario": "Eles saíram do túmulo para contar o que viram. A visita deles validou a história inicial de Maria Madalena, transformando o relato de choque em testemunho de fé.",
+      "temas": [
+        "Testemunho",
+        "Fé Confirmada",
+        "Partida"
+      ],
+      "personagens": [
+        "Pedro",
+        "Discípulo Amado"
+      ]
     },
     "10": {
-      "parafrase": "Então os discípulos voltaram para casa.",
-      "referencias": [],
-      "comentario": "Pedro e João retornam, provavelmente para ponderar sobre o que viram. A cena agora se concentra novamente em Maria Madalena.",
-      "temas": ["reflexão"],
-      "personagens": ["Simão Pedro", "João"]
+      "parafrase": "E assim, aqueles dois apóstolos partiram, retornando para onde estavam os outros, mas Maria Madalena permaneceu ali, na entrada do lugar, chorando profundamente pela perda aparente de seu Mestre. 😭",
+      "referencias": [
+        "Mateus 28:10",
+        "Isaías 51:11"
+      ],
+      "comentario": "Enquanto os homens, tendo visto a evidência, foram relatar, Maria permanece por não ter ainda processado a esperança da ressurreição; seu foco ainda está na dor da separação. A dor dela contrasta com a fé recém-descoberta dos homens.",
+      "temas": [
+        "Luto Persistente",
+        "Lealdade",
+        "Contraste de Reações"
+      ],
+      "personagens": [
+        "Maria Madalena"
+      ]
     },
     "11": {
-      "parafrase": "Maria, porém, ficou à entrada do sepulcro, chorando. Enquanto chorava, curvou-se para olhar dentro do sepulcro",
-      "referencias": ["Marcos 16:5"],
-      "comentario": "O amor e a devoção de Maria a mantêm no túmulo, mesmo depois que os outros partiram. Sua dor a leva a olhar mais uma vez, e essa perseverança é recompensada.",
-      "temas": ["devoção", "luto", "perseverança"],
-      "personagens": ["Maria Madalena"]
+      "parafrase": "Enquanto Maria estava do lado de fora, chorando lágrimas quentes, ela se inclinou novamente para olhar dentro da cavidade escura do túmulo. De repente, seus olhos captaram a visão de duas figuras vestidas de branco, anjos, sentados onde o corpo de Jesus havia repousado. ✨",
+      "referencias": [
+        "Lucas 24:4",
+        "Apocalipse 6:11"
+      ],
+      "comentario": "O choro de Maria a impede de ver os anjos até que ela se incline novamente. A posição dos anjos (sentados onde a cabeça e os pés de Jesus estiveram) é um testemunho visual direto da ausência do corpo. O branco simboliza pureza e poder celestial.",
+      "temas": [
+        "Manifestação Angelical",
+        "Visão Celestial",
+        "Posição Estratégica"
+      ],
+      "personagens": [
+        "Maria Madalena",
+        "Anjos"
+      ]
     },
     "12": {
-      "parafrase": "e viu dois anjos vestidos de branco, sentados onde o corpo de Jesus estivera, um à cabeceira e outro aos pés.",
-      "referencias": ["Lucas 24:4"],
-      "comentario": "A primeira aparição não é de Jesus, mas de anjos. Sua posição, na cabeceira e nos pés do lugar do corpo, lembra a posição dos querubins sobre a Arca da Aliança, o lugar da expiação. O lugar da morte se tornou o lugar da glória divina.",
-      "temas": ["anjos", "revelação", "Arca da Aliança", "expiação"],
-      "personagens": ["Maria Madalena", "anjos"]
+      "parafrase": "Esses seres celestiais perguntaram a ela, com uma voz que provavelmente era ao mesmo tempo suave e imponente: 'Mulher, por que você está chorando aqui?'. Ela estava tão absorta na tristeza que nem imediatamente percebeu quem a estava abordando. ❓",
+      "referencias": [
+        "Gênesis 3:9",
+        "Lucas 24:5"
+      ],
+      "comentario": "A pergunta é retórica e focada na causa da dor. Maria está chorando por algo que não está mais ali (o corpo de Jesus). A dificuldade de reconhecer a figura, que será Jesus mais tarde, está ligada ao seu estado de luto.",
+      "temas": [
+        "Interrogação Divina",
+        "Luto",
+        "Reconhecimento Impedido"
+      ],
+      "personagens": [
+        "Maria Madalena",
+        "Anjos"
+      ]
     },
     "13": {
-      "parafrase": "Eles lhe perguntaram: 'Mulher, por que você está chorando?' 'Levaram embora o meu Senhor', respondeu ela, 'e não sei onde o puseram'.",
-      "referencias": [],
-      "comentario": "Mesmo diante de seres celestiais, a dor de Maria é o foco. Ela ainda está operando sob a suposição de que o corpo foi roubado.",
-      "temas": ["luto", "confusão"],
-      "personagens": ["Maria Madalena", "anjos"]
+      "parafrase": "Maria lhes respondeu, ainda com a voz embargada: 'É porque eles tiraram meu Senhor de onde O haviam posto! E, sinceramente, eu não tenho a menor ideia de para onde o corpo Dele foi levado!'. 💔",
+      "referencias": [
+        "João 20:2",
+        "Cantares 3:3"
+      ],
+      "comentario": "Maria repete sua queixa, indicando que sua visão de 'ladrões' persiste, pois ainda não internalizou a ideia da ressurreição. Sua linguagem é possessiva ('meu Senhor'), mostrando o profundo apego pessoal.",
+      "temas": [
+        "Aflição Pessoal",
+        "Lealdade",
+        "Miséria"
+      ],
+      "personagens": [
+        "Maria Madalena"
+      ]
     },
     "14": {
-      "parafrase": "Nisso ela se voltou e viu Jesus ali, em pé, mas não o reconheceu.",
-      "referencias": ["João 21:4", "Lucas 24:16"],
-      "comentario": "A primeira aparição do Cristo ressurreto é para Maria Madalena. Sua incapacidade de reconhecê-lo pode ser devido às lágrimas, à aparência glorificada de Jesus, ou a uma incapacidade divinamente permitida para criar um momento de revelação mais dramático.",
-      "temas": ["aparição de Jesus", "ressurreição", "reconhecimento"],
-      "personagens": ["Maria Madalena", "Jesus"]
+      "parafrase": "Assim que ela terminou de falar, virou-se e viu um homem parado ali, atrás dela. Mas ela não sabia, ainda, que era Jesus, o Senhor ressuscitado, e pensava que Ele era apenas o jardineiro do local. 👤",
+      "referencias": [
+        "Lucas 24:16",
+        "Cantares 3:4"
+      ],
+      "comentario": "Esta é a primeira aparição de Jesus ressurreto. O véu da cegueira de Maria é mantido, pois ela está focada na perda terrena. A identificação inicial como 'jardineiro' é comum quando alguém está em estado de profundo luto e não consegue reconhecer o familiar.",
+      "temas": [
+        "Primeira Aparição",
+        "Cegueira Espiritual",
+        "Mistério"
+      ],
+      "personagens": [
+        "Maria Madalena",
+        "Jesus"
+      ]
     },
     "15": {
-      "parafrase": "Disse-lhe Jesus: 'Mulher, por que você está chorando? Quem você está procurando?' Pensando que fosse o jardineiro, ela disse: 'Senhor, se o senhor o levou embora, diga-me onde o pôs, e eu o levarei'.",
-      "referencias": [],
-      "comentario": "A ironia é comovente. Ela confunde o Criador do universo com um simples jardineiro. No entanto, de certa forma, Ele é o Jardineiro do novo Éden, trazendo vida onde havia morte. Sua devoção é tão grande que ela se oferece para carregar o corpo sozinha.",
-      "temas": ["ironia", "identidade equivocada", "devoção"],
-      "personagens": ["Jesus", "Maria Madalena"]
+      "parafrase": "Jesus, com bondade infinita, perguntou-lhe diretamente: 'Mulher, por que essa aflição toda? Quem é que você está procurando?'. Ela, pensando que falava com o zelador, respondeu com a mesma pergunta que havia feito aos anjos: 'Meu Senhor, se foi você quem o tirou daqui, por favor, diga-me onde O colocou, e eu irei buscá-Lo imediatamente!'. 🤲",
+      "referencias": [
+        "Gênesis 3:11",
+        "Mateus 28:5"
+      ],
+      "comentario": "Jesus usa a mesma pergunta dirigida aos anjos para forçar Maria a verbalizar seu desejo. O uso da palavra 'Senhor' (Kyrie) por Maria, mesmo pensando ser o jardineiro, revela um respeito instintivo ou um desejo profundo, mas ainda não a convicção da identidade.",
+      "temas": [
+        "Diálogo Direto",
+        "Desejo de Recuperação",
+        "Apego"
+      ],
+      "personagens": [
+        "Jesus",
+        "Maria Madalena"
+      ]
     },
     "16": {
-      "parafrase": "Jesus lhe disse: 'Maria!' Então, voltando-se para ele, Maria exclamou em aramaico: 'Rabôni!' (que significa 'Mestre!').",
-      "referencias": ["João 10:3"],
-      "comentario": "O Bom Pastor chama sua ovelha pelo nome. O som de sua própria voz, falando seu nome com familiaridade, quebra o véu da incredulidade. O reconhecimento é instantâneo e a resposta dela é de adoração e reverência.",
-      "temas": ["reconhecimento", "relacionamento pessoal", "Bom Pastor", "adoração"],
-      "personagens": ["Jesus", "Maria Madalena"]
+      "parafrase": "Então, Jesus pronunciou apenas uma palavra, o nome dela, com a voz que ela conhecia como a mais familiar e amada do universo: 'Maria!'. Ao ouvir seu nome, chamado com aquela entonação única, a escuridão em sua mente se desfez como fumaça. 💡",
+      "referencias": [
+        "João 10:4",
+        "Gênesis 16:13"
+      ],
+      "comentario": "Este é o clímax da cena. O vocativo 'Maria!' (Maria!) é o ponto de virada. Para João, o reconhecimento íntimo da voz do Mestre é a prova irrefutável da Ressurreição. A palavra grega 'Efratá' (Ephphatha) ou 'Abre-te' está implícita na abertura de seus sentidos.",
+      "temas": [
+        "Reconhecimento",
+        "Voz do Mestre",
+        "Epifania"
+      ],
+      "personagens": [
+        "Jesus",
+        "Maria Madalena"
+      ]
     },
     "17": {
-      "parafrase": "Jesus disse: 'Não me segure, pois ainda não voltei para o Pai. Vá, porém, para os meus irmãos e diga-lhes: Estou voltando para meu Pai e Pai de vocês, para meu Deus e Deus de vocês'.",
-      "referencias": ["Hebreus 2:11", "Romanos 8:29"],
-      "comentario": "A instrução 'não me segure' provavelmente significa que a relação deles agora seria diferente; não mais baseada no toque físico, mas na fé. Jesus a comissiona como a primeira apóstola (enviada) da ressurreição. Ele chama seus discípulos de 'irmãos', indicando a nova relação familiar que sua obra redentora estabeleceu.",
-      "temas": ["comissionamento", "nova aliança", "relacionamento com Cristo", "ascensão"],
-      "personagens": ["Jesus", "Maria Madalena", "Pai", "discípulos"]
+      "parafrase": "Ela imediatamente O reconheceu e, num impulso de devoção extasiada, exclamou em aramaico: 'Rabuni!', que significa 'Meu Mestre!'. Ela correu para se agarrar aos pés Dele, num gesto de posse e adoração renovada. ❤️",
+      "referencias": [
+        "Cantares 3:4",
+        "Hebreus 4:16"
+      ],
+      "comentario": "'Rabuni' (Rabbouni) é um termo mais íntimo e reverente que 'Rabbi'. O gesto de Maria agarrar-se aos pés (que podem ser interpretados como 'tocar' ou 'segurar') demonstra sua alegria e sua relutância em deixá-Lo novamente. Jesus, no entanto, a impede de reter a conexão física.",
+      "temas": [
+        "Adoração",
+        "Intimidade Restaurada",
+        "Posse"
+      ],
+      "personagens": [
+        "Maria Madalena",
+        "Jesus"
+      ]
     },
     "18": {
-      "parafrase": "Maria Madalena foi e anunciou aos discípulos: 'Eu vi o Senhor!' E contou-lhes o que ele lhe dissera.",
-      "referencias": ["Lucas 24:10"],
-      "comentario": "Maria cumpre sua missão. Ela é a primeira a pregar a mensagem da ressurreição, o evangelho em sua forma mais pura e potente.",
-      "temas": ["testemunho", "evangelho", "primeira apóstola"],
-      "personagens": ["Maria Madalena", "discípulos"]
+      "parafrase": "Jesus a instruiu gentilmente, dizendo: 'Pare de Me segurar, pois ainda não subi ao Meu Pai, que é também o vosso Pai, e ao Meu Deus, que é também o vosso Deus. Vá agora e conte aos Meus irmãos o que você viu e ouviu'. 🗣️",
+      "referencias": [
+        "Mateus 28:10",
+        "João 14:28"
+      ],
+      "comentario": "A instrução 'Não me detenhas' (mē mou echou) indica que a relação entre eles deve mudar de contato físico para uma comunhão espiritual baseada na missão. Jesus a comissiona como a primeira apóstola da Ressurreição, referindo-se aos discípulos como 'Meus irmãos', elevando o status deles pela relação com o Pai.",
+      "temas": [
+        "Comissionamento",
+        "Nova Relação",
+        "Ascensão Iminente"
+      ],
+      "personagens": [
+        "Jesus",
+        "Maria Madalena"
+      ]
     },
     "19": {
-      "parafrase": "Ao anoitecer daquele primeiro dia da semana, estando os discípulos reunidos com as portas trancadas por medo dos judeus, Jesus entrou, pôs-se no meio deles e disse: 'Paz seja com vocês!'",
-      "referencias": ["Marcos 16:14", "Lucas 24:36"],
-      "comentario": "Jesus aparece aos discípulos em seu esconderijo. As portas trancadas não são barreira para seu corpo ressurreto. Sua primeira palavra para eles não é de repreensão por sua covardia, mas de paz (Shalom), oferecendo reconciliação e conforto.",
-      "temas": ["aparição de Jesus", "paz", "medo", "corpo ressurreto"],
-      "personagens": ["Jesus", "discípulos"]
+      "parafrase": "Ao cair daquela primeira noite do domingo, após o Sábado ter sido inaugurado pela vitória da vida sobre a morte, os discípulos estavam reunidos em um lugar fechado, cheios de medo dos judeus, e haviam trancado as portas para se protegerem. 🔒😰",
+      "referencias": [
+        "Lucas 24:36",
+        "Atos 1:13"
+      ],
+      "comentario": "O medo é um fator dominante, refletindo a perseguição potencial após a crucificação. As portas trancadas simbolizam o estado de espírito isolado e a necessidade de proteção divina antes do derramamento do Espírito Santo.",
+      "temas": [
+        "Medo",
+        "Isolamento",
+        "Primeira Noite"
+      ],
+      "personagens": [
+        "Discípulos"
+      ]
     },
     "20": {
-      "parafrase": "Tendo dito isso, mostrou-lhes as mãos e o lado. Os discípulos alegraram-se quando viram o Senhor.",
-      "referencias": ["João 16:22", "1 João 1:1"],
-      "comentario": "Jesus oferece prova de sua identidade. As feridas da crucificação, agora glorificadas, são as marcas de seu amor sacrificial e a prova de sua vitória sobre a morte. A tristeza deles se transforma em alegria, como Ele havia prometido.",
-      "temas": ["evidência da ressurreição", "alegria", "marcas da crucificação"],
-      "personagens": ["Jesus", "discípulos"]
+      "parafrase": "Jesus apareceu subitamente no meio deles, no centro da sala trancada, e lhes disse calmamente: 'A paz esteja com vocês!'. Imediatamente, Ele lhes mostrou as marcas de Sua crucificação: Suas mãos e Seu lado ferido. 🌟",
+      "referencias": [
+        "Lucas 24:37",
+        "Efésios 2:14"
+      ],
+      "comentario": "A aparição através das portas fechadas sugere a nova natureza do corpo ressurreto, embora João enfatize as marcas físicas (os estigmas) para combater qualquer heresia que negasse a realidade da Encarnação e do sofrimento.",
+      "temas": [
+        "Paz",
+        "Corpo Glorificado",
+        "Prova Física"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "21": {
-      "parafrase": "Novamente, Jesus disse: 'Paz seja com vocês! Assim como o Pai me enviou, eu os envio'.",
-      "referencias": ["João 17:18", "Mateus 28:19"],
-      "comentario": "A paz de Cristo não é passiva, mas o fundamento para a missão. Ele os comissiona oficialmente, dando-lhes a mesma missão que Ele recebeu do Pai. Este é o nascimento da missão da Igreja.",
-      "temas": ["Grande Comissão", "missão", "paz", "envio"],
-      "personagens": ["Jesus", "Pai", "discípulos"]
+      "parafrase": "A alegria inundou o grupo ao verem o Mestre vivo. E Jesus repetiu a saudação que anunciava a plenitude de Seu ministério: 'Assim como o Pai Me enviou a vocês, Eu também vos envio ao mundo!'. 🌍✉️",
+      "referencias": [
+        "Mateus 28:18-20",
+        "João 17:18"
+      ],
+      "comentario": "A repetição da saudação 'Shalom' (Paz) é a transferência de autoridade e missão. A estrutura da missão é paralela: Pai -> Jesus -> Discípulos. Isso estabelece a Igreja como um corpo enviado (apostólico).",
+      "temas": [
+        "Missão",
+        "Autoridade Apostólica",
+        "Envio"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "22": {
-      "parafrase": "E com isso, soprou sobre eles e disse: 'Recebam o Espírito Santo'.",
-      "referencias": ["Gênesis 2:7", "Ezequiel 37:9"],
-      "comentario": "Este ato de soprar lembra a criação do homem em Gênesis, significando uma nova criação. É uma antecipação ou um Pentecostes joanino, capacitando os discípulos para a missão que acabaram de receber. É a transmissão da vida ressurreta de Cristo para sua Igreja.",
-      "temas": ["Espírito Santo", "nova criação", "capacitação", "Pentecostes"],
-      "personagens": ["Jesus", "discípulos"]
+      "parafrase": "Depois de dizer isso, Ele soprou sobre eles, num gesto profundo e carregado de significado, e acrescentou: 'Recebam o Espírito Santo!'. 🌬️🔥",
+      "referencias": [
+        "Gênesis 2:7",
+        "Joel 2:28"
+      ],
+      "comentario": "O sopro (empneō) é paralelo à criação de Adão, onde Deus soprou o fôlego da vida. Aqui, é o 'sopro da nova criação' espiritual. Embora o derramamento completo do Espírito Santo seja em Pentecostes (Atos 2), este ato é a antecipação, investindo os apóstolos com o poder do Espírito para a missão.",
+      "temas": [
+        "Espírito Santo",
+        "Nova Criação",
+        "Investidura"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "23": {
-      "parafrase": "'Se perdoarem os pecados de alguém, estarão perdoados; se não os perdoarem, não estarão perdoados'.",
-      "referencias": ["Mateus 16:19", "2 Coríntios 5:18-20"],
-      "comentario": "Esta não é uma autoridade para os discípulos perdoarem pecados de forma arbitrária, mas a autoridade para declarar as condições do perdão com base no evangelho. A Igreja, como embaixadora de Cristo, tem a responsabilidade de proclamar fielmente a mensagem da salvação. Declarar o evangelho é declarar quem está perdoado (os que creem) e quem não está (os que não creem).",
-      "temas": ["autoridade da Igreja", "perdão", "evangelho", "chaves do reino"],
-      "personagens": ["Jesus", "discípulos"]
+      "parafrase": "Ele lhes deu o poder de perdoar pecados, explicando: 'Se vocês perdoarem os pecados de alguém, esses pecados são perdoados; se mantiverem os pecados de alguém, eles ficam retidos'. Esta é a responsabilidade que agora cabe a vocês no anúncio do Meu Reino. ⚖️",
+      "referencias": [
+        "Mateus 16:19",
+        "2 Coríntios 5:18"
+      ],
+      "comentario": "Este versículo é central para a compreensão da autoridade eclesial. Não significa que os discípulos têm o poder de salvar, mas sim o poder de declarar quem está dentro ou fora do Reino com base na aceitação ou rejeição do Evangelho pregado. É o poder de atar e desatar a mensagem de Cristo.",
+      "temas": [
+        "Autoridade de Perdoar",
+        "Jurisdição Eclesiástica",
+        "Mensagem do Reino"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "24": {
-      "parafrase": "Tomé, chamado Dídimo, um dos Doze, não estava com os discípulos quando Jesus apareceu.",
-      "referencias": ["João 11:16"],
-      "comentario": "A ausência de Tomé prepara o cenário para um dos encontros mais pessoais e instrutivos do evangelho.",
-      "temas": ["dúvida", "ausência"],
-      "personagens": ["Tomé"]
+      "parafrase": "Entretanto, um dos doze, chamado Tomé, conhecido como Dídimo (Gêmeo), não estava com os outros quando Jesus apareceu naquela primeira vez, e por isso ele não participou daquele momento de revelação e poder. 👤",
+      "referencias": [
+        "Lucas 24:33",
+        "1 Coríntios 15:5"
+      ],
+      "comentario": "Tomé é apresentado como ausente. Sua ausência imediata o coloca em posição de dúvida subsequente. Sua fama de 'dúvido' nasce desta ausência inicial no momento da prova fundamental da ressurreição.",
+      "temas": [
+        "Ausência",
+        "Dúvida",
+        "Oposição (Tácita)"
+      ],
+      "personagens": [
+        "Tomé"
+      ]
     },
     "25": {
-      "parafrase": "Os outros discípulos lhe disseram: 'Vimos o Senhor!' Mas ele lhes disse: 'Se eu não vir as marcas dos pregos nas suas mãos, não colocar o meu dedo onde estavam os pregos e não puser a minha mão no seu lado, não crerei'.",
-      "referencias": [],
-      "comentario": "A dúvida de Tomé não é intelectual, mas existencial. Ele quer a mesma evidência que os outros tiveram. Sua demanda por prova física, embora pareça extrema, reflete um desejo de uma fé concreta e pessoal.",
-      "temas": ["dúvida", "fé", "evidência", "empirismo"],
-      "personagens": ["Tomé", "discípulos"]
+      "parafrase": "Quando os outros discípulos, já cheios de alegria, disseram a Tomé: 'Nós vimos o Senhor ressuscitado!', ele respondeu com teimosia e ceticismo: 'A menos que eu veja as marcas dos pregos em Suas mãos, coloque meu dedo naquele buraco, e ponha minha mão na ferida aberta ao lado de Seu corpo, eu jamais, jamais acreditarei nisso!'. 😤",
+      "referencias": [
+        "Lucas 24:39",
+        "1 Reis 19:1"
+      ],
+      "comentario": "A exigência de Tomé é tripla: visão das mãos, tato no ferimento do prego, e tato no ferimento da lança (a chaga do lado, ou 'trypēma' em algumas tradições). Ele exige a verificação sensorial completa, contrastando com a fé imediata de Maria Madalena e dos outros.",
+      "temas": [
+        "Ceticismo",
+        "Exigência de Prova",
+        "Verificação Sensorial"
+      ],
+      "personagens": [
+        "Tomé",
+        "Discípulos"
+      ]
     },
     "26": {
-      "parafrase": "Uma semana mais tarde, os seus discípulos estavam outra vez ali, e Tomé com eles. Com as portas trancadas, Jesus entrou, pôs-se no meio deles e disse: 'Paz seja com vocês!'",
-      "referencias": [],
-      "comentario": "Jesus graciosamente providencia um encontro especial para o bem de seu discípulo duvidoso. Ele repete a mesma saudação de paz, mostrando que sua graça se estende também aos que lutam com a dúvida.",
-      "temas": ["graça", "dúvida", "paz", "aparição de Jesus"],
-      "personagens": ["Jesus", "discípulos", "Tomé"]
+      "parafrase": "Passados oito dias, quando os discípulos estavam reunidos novamente no mesmo lugar, Jesus apareceu outra vez. Desta vez, Tomé, o chamado Dídimo, que significava 'Gêmeo', estava com eles. Entretanto, Jesus não estava visível para Tomé na primeira aparição; por isso, ele havia se ausentado daquele momento transformador. Quando Tomé chegou, a comunidade já estava fervilhando com a notícia da aparição do Mestre ressurrecto, mas ele não havia presenciado o milagre da presença de Cristo.",
+      "referencias": [
+        "Lucas 24:36",
+        "1 Coríntios 15:5"
+      ],
+      "comentario": "O texto destaca a importância da comunhão ('reunidos no mesmo lugar') e a persistência de Jesus em Se manifestar. O versículo 26 foca em Tomé, cuja ausência prévia o deixará em dúvida. O nome 'Dídimo' (Gêmeo) é uma nota cultural/linguística do Evangelista João. A aparição subsequente demonstra a paciência de Cristo com a necessidade humana de evidência empírica, especialmente após a perda de alguém querido.",
+      "temas": [
+        "Dúvida e Fé",
+        "Aparência Pós-Ressurreição",
+        "Comunidade"
+      ],
+      "personagens": [
+        "Jesus",
+        "Tomé (Dídimo)"
+      ]
     },
     "27": {
-      "parafrase": "E disse a Tomé: 'Coloque o seu dedo aqui; veja as minhas mãos. Estenda a mão e coloque-a no meu lado. Pare de duvidar e creia'.",
-      "referencias": [],
-      "comentario": "Jesus oferece a Tomé exatamente a prova que ele exigiu. Ele conhece as dúvidas e as necessidades de cada um de nós e se encontra conosco em nosso ponto de necessidade. O convite é para passar da dúvida para a fé.",
-      "temas": ["graça", "evidência", "fé", "dúvida"],
-      "personagens": ["Jesus", "Tomé"]
+      "parafrase": "Então, Jesus se voltou diretamente para Tomé, ignorando qualquer tentativa de repreensão severa, e disse-lhe com ternura e autoridade: 'Coloque o seu dedo aqui, bem no lugar onde estavam os pregos na Minha mão; estenda a sua mão e enfie-a na Minha lateral, no lugar onde a lança me feriu. Não seja mais descrente, mas torne-se um fiel adorador! ✋💉'",
+      "referencias": [
+        "Isaías 53:5",
+        "Zacarias 12:10"
+      ],
+      "comentario": "Esta é uma das passagens mais dramáticas. Jesus oferece prova tangível ('tocar') para satisfazer a necessidade de Tomé. O grego para 'Coloque' (Phere) sugere um convite direto. A ferida da lança (na lateral) era uma forma rápida de confirmar a morte, usada para apressar o preparo dos corpos para o sepultamento judaico, confirmando que Ele havia morrido de verdade. O contraste entre 'descrente' (apistos) e 'crente' (pistos) é central aqui.",
+      "temas": [
+        "Prova da Ressurreição",
+        "Ato de Tocar",
+        "Transição da Dúvida para a Crença"
+      ],
+      "personagens": [
+        "Jesus",
+        "Tomé"
+      ]
     },
     "28": {
-      "parafrase": "Disse-lhe Tomé: 'Senhor meu e Deus meu!'",
-      "referencias": ["João 1:1", "Filipenses 2:11"],
-      "comentario": "A resposta de Tomé é a mais elevada confissão de fé em todo o Evangelho de João. Diante do Cristo ressurreto, toda dúvida se dissipa e é substituída por adoração. Ele reconhece Jesus não apenas como Senhor (Kyrios), mas como Deus (Theos).",
-      "temas": ["confissão de fé", "divindade de Cristo", "adoração", "fé"],
-      "personagens": ["Tomé", "Jesus"]
+      "parafrase": "Tomé não hesitou mais. Ele olhou para as marcas profundas e, com a voz embargada pela admiração e temor, declarou solenemente: 'Meu Senhor e meu Deus! Tu és verdadeiramente o meu Mestre e o meu divino Salvador! 🙏👑'",
+      "referencias": [
+        "Salmos 35:23",
+        "João 1:1"
+      ],
+      "comentario": "Esta é a confissão mais explícita e direta da divindade de Jesus em todo o Evangelho de João. A exclamação de Tomé ('Ó meu Senhor e meu Deus!' — 'Ho Kyrios mou kai ho Theos mou') é uma resposta imediata e total ao desafio de Jesus. É o ápice da conversão de Tomé, passando de cético a teólogo em um instante.",
+      "temas": [
+        "Confissão de Fé",
+        "Divindade de Cristo",
+        "Adoração"
+      ],
+      "personagens": [
+        "Tomé",
+        "Jesus"
+      ]
     },
     "29": {
-      "parafrase": "Então Jesus lhe disse: 'Porque me viu, você creu? Felizes os que não viram e creram'.",
-      "referencias": ["1 Pedro 1:8", "2 Coríntios 5:7"],
-      "comentario": "Jesus aceita a fé de Tomé, mas pronuncia uma bênção sobre todas as gerações futuras de crentes que não teriam o privilégio de vê-lo fisicamente, mas que creriam através do testemunho apostólico. Esta é a bem-aventurança da fé.",
-      "temas": ["fé", "visão", "bênção", "bem-aventurança"],
-      "personagens": ["Jesus", "Tomé"]
+      "parafrase": "Jesus, vendo a entrega total de Tomé, respondeu com uma sabedoria que ecoaria através dos séculos: 'Você viu as Minhas marcas e, por causa disso, você crê. Quão abençoados são aqueles que, mesmo sem Me verem fisicamente com os próprios olhos, ainda assim escolherão crer na Minha vitória sobre a morte!' ✨🕊️",
+      "referencias": [
+        "1 Pedro 1:8",
+        "Hebreus 11:1"
+      ],
+      "comentario": "Jesus estabelece aqui uma distinção crucial entre a fé baseada na experiência direta (Tomé) e a fé que virá pela Palavra (gerações futuras). O grego para 'abençoados' é 'makarios', que significa uma felicidade profunda e bem-aventurança espiritual. A fé que se apoia no testemunho é exaltada como a forma mais pura de devoção.",
+      "temas": [
+        "Fé sem Ver",
+        "Bem-Aventurança dos Crentes",
+        "O Poder do Testemunho"
+      ],
+      "personagens": [
+        "Jesus",
+        "Tomé"
+      ]
     },
     "30": {
-      "parafrase": "Jesus realizou na presença dos seus discípulos muitos outros sinais milagrosos, que não estão registrados neste livro.",
-      "referencias": ["João 21:25"],
-      "comentario": "João afirma que seu evangelho é seletivo, não exaustivo. Ele escolheu sinais específicos para cumprir seu propósito.",
-      "temas": ["sinais", "milagres", "Escrituras"],
-      "personagens": ["Jesus", "discípulos"]
+      "parafrase": "João, o escritor, faz uma pausa na narrativa para sublinhar que Jesus realizou muitos outros sinais milagrosos diante dos Seus discípulos, sinais que não estão registrados neste livro que lemos. Estes atos poderosos eram apenas amostras do Seu poder divino.",
+      "referencias": [
+        "João 21:25",
+        "Atos 2:22"
+      ],
+      "comentario": "Este versículo funciona como uma 'cláusula de limitação' literária. João admite que seu evangelho é seletivo, focado em sinais específicos ('semeia' no grego) destinados a conduzir à fé. Ele não está relatando tudo o que aconteceu, mas o suficiente para cumprir seu propósito principal.",
+      "temas": [
+        "Seletividade do Relato Bíblico",
+        "Sinais e Maravilhas",
+        "Propósito do Evangelho"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "31": {
-      "parafrase": "Mas estes foram escritos para que vocês creiam que Jesus é o Cristo, o Filho de Deus e, crendo, tenham vida em seu nome.",
-      "referencias": ["João 3:16", "1 João 5:13"],
-      "comentario": "Esta é a declaração de propósito de todo o Evangelho de João. O objetivo não é meramente histórico, mas evangelístico e teológico: levar o leitor à fé salvadora em Jesus como o Messias e Filho de Deus, resultando em vida eterna.",
-      "temas": ["propósito do evangelho", "fé", "salvação", "vida eterna", "Cristo", "Filho de Deus"],
-      "personagens": ["Jesus"]
+      "parafrase": "No entanto, todas essas maravilhas foram cuidadosamente escritas por uma razão suprema: para que vocês, leitores, vejam a verdade incontestável de que Jesus é o Cristo, o Filho de Deus, e, vendo essa verdade, recebam a vida eterna através da crença no Seu nome. ✍️💡",
+      "referencias": [
+        "João 1:4",
+        "Romanos 10:9"
+      ],
+      "comentario": "Este é o 'objetivo teológico' do Evangelho de João. O autor usa a palavra 'semeia' (sinais) para descrever os milagres, que não eram meros truques, mas manifestações da glória divina (cf. João 2:11). O resultado final buscado é a 'vida' (zoe), a vida em sua plenitude, acessível somente pela fé em Jesus, o Messias prometido ('o Cristo').",
+      "temas": [
+        "Propósito da Escritura",
+        "Vida Eterna",
+        "Fé no Cristo"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     }
   }
 }

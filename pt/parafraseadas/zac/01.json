@@ -1,127 +1,300 @@
 {
   "livro": "Zacarias",
   "capitulo": 1,
-  "contexto_historico": "Zacarias foi um profeta pós-exílico, contemporâneo de Ageu, que profetizou para os judeus que retornaram do cativeiro babilônico. Suas profecias são datadas entre 520 e 518 a.C. O livro de Zacarias é rico em visões e simbolismos, com uma forte ênfase na restauração de Jerusalém e do Templo, na vinda do Messias e no estabelecimento do reino de Deus. Este capítulo inicial serve como uma introdução, com um chamado ao arrependimento e a primeira de uma série de visões noturnas.",
-  "bloco_tematico": "Chamado ao Arrependimento e a Visão dos Cavalos",
+  "contexto_historico": "Após o retorno do exílio babilônico (538 a.C.), a comunidade judaica em Jerusalém enfrentava um ambiente desanimador. A reconstrução do Templo, iniciada sob Zorobabel e Jesua, havia parado por cerca de 15 anos devido à oposição de povos vizinhos (como os samaritanos) e à apatia da população. O povo estava mais preocupado em reconstruir suas próprias casas (aconchego pessoal 🏡) do que o santuário de Deus (missão coletiva 🏛️). O profeta Ageu já havia exortado o povo a retomar a obra, mas a inércia persistia. Zacarias, um profeta levita 🎼, surge neste cenário de desânimo e estagnação espiritual, aproximadamente em 520 a.C., para reavivar a esperança e impulsionar a finalização do Templo.",
+  "bloco_tematico": "Chamado ao Arrependimento e Visões de Restauração 🌃🔄",
   "versiculos": {
     "1": {
-      "parafrase": "No oitavo mês do segundo ano de Dario, a palavra do Senhor veio ao profeta Zacarias, filho de Berequias, filho de Ido, dizendo:",
-      "referencias": [],
-      "comentario": "O livro começa com uma data precisa, situando a profecia no período pós-exílico, durante o reinado de Dario I da Pérsia. Zacarias é identificado por sua linhagem, que o conecta a uma família sacerdotal.",
-      "temas": ["profecia", "contexto histórico", "autoria"],
-      "personagens": ["Zacarias", "Dario"]
+      "parafrase": "No oitavo mês do segundo ano do reinado de Dario, o rei, a palavra do Senhor, por meio do profeta Zacarias, filho de Baraquias e neto de Ido, ecoou com urgência. Ele convocou o povo dizendo: 'Ó Israel, ouçam com atenção a advertência do Senhor! Vocês têm negligenciado a Sua voz por muito tempo!' 😟",
+      "referencias": [
+        "Ageu 1:1",
+        "Esdras 4:24"
+      ],
+      "comentario": "O oráculo é proferido no oitavo mês (Marcheshvan), cerca de dois meses após Ageu ter falado (cf. Ageu 1:1). A menção dos reis Dario e a datação são cruciais para situar a mensagem no contexto pós-exílico, incentivando a reconstrução do Templo. Zacarias é o terceiro dos profetas pós-exílicos. A introdução visa despertar a consciência do povo que estava lento em obedecer.",
+      "temas": [
+        "Chamado ao arrependimento",
+        "Autoridade profética",
+        "Contexto histórico"
+      ],
+      "personagens": [
+        "Zacarias",
+        "Dario"
+      ]
     },
     "2": {
-      "parafrase": "'O Senhor ficou muito irado com os seus pais.'",
-      "referencias": [],
-      "comentario": "Deus relembra a ira que Ele teve contra as gerações passadas de Israel por causa de sua desobediência. Isso serve como um aviso para a geração atual.",
-      "temas": ["ira divina", "pecado dos pais", "advertência"],
-      "personagens": ["Deus"]
+      "parafrase": "O profeta continuou, ecoando uma antiga repreensão: 'O Senhor ficou profundamente irado com os seus antepassados, aqueles que viveram antes de vocês.' Ele estava ligando o presente à desobediência histórica de Israel. 🔥",
+      "referencias": [
+        "Deuteronômio 4:25",
+        "Jeremias 25:5"
+      ],
+      "comentario": "A ira ('qetseph' - forte ira) não é um capricho divino, mas uma resposta justa à infidelidade contínua. Ao mencionar 'os antepassados', Zacarias estabelece que a falta de atenção atual é um padrão histórico, não um erro isolado.",
+      "temas": [
+        "Ira divina",
+        "História da desobediência"
+      ],
+      "personagens": []
     },
     "3": {
-      "parafrase": "'Portanto, diga a eles: Assim diz o Senhor dos Exércitos: Voltem para mim', declara o Senhor dos Exércitos, 'e eu voltarei para vocês', declara o Senhor dos Exércitos.",
-      "referencias": ["Malaquias 3:7"],
-      "comentario": "Um chamado urgente ao arrependimento. A promessa de Deus é condicional: se o povo se voltar para Ele, Ele se voltará para eles. A repetição do título \"Senhor dos Exércitos\" enfatiza a autoridade e o poder de Deus para cumprir Sua palavra.",
-      "temas": ["chamado ao arrependimento", "condicionalidade da promessa", "fidelidade de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Portanto, esta é a mensagem direta do Senhor para vocês, a geração presente: 'Voltem-se, arrependam-se e voltem para Mim, e Eu, por Minha vez, voltarei e abençoarei vocês. Essa é a promessa do Senhor dos Exércitos.' 🙏",
+      "referencias": [
+        "Malaquias 3:7",
+        "Jeremias 3:12"
+      ],
+      "comentario": "O verbo central aqui é 'shuv' (voltar, converter-se). A conversão é apresentada como um movimento recíproco: a volta do homem provoca o retorno da bênção divina. 'YHWH Tsebaoth' (Senhor dos Exércitos) enfatiza Seu poder para cumprir a promessa.",
+      "temas": [
+        "Arrependimento (Teshuvah)",
+        "Retorno a Deus",
+        "Promessa de bênção"
+      ],
+      "personagens": []
     },
     "4": {
-      "parafrase": "'Não sejam como os seus pais, a quem os profetas anteriores clamaram, dizendo: Assim diz o Senhor dos Exércitos: Voltem agora dos seus maus caminhos e das suas más ações. Mas eles não me ouviram, nem me deram atenção', declara o Senhor.",
-      "referencias": ["Jeremias 25:4-7"],
-      "comentario": "Deus adverte a geração atual a não repetir os erros de seus antepassados, que ignoraram os apelos dos profetas e persistiram em sua desobediência, resultando no exílio.",
-      "temas": ["desobediência", "rejeição da profecia", "advertência"],
-      "personagens": ["Deus"]
+      "parafrase": "Não sejam como seus pais, que ignoraram a advertência anterior. Eles ouviram os profetas passados, que receberam as palavras do Senhor, mas fecharam os ouvidos e recusaram-se a mudar de vida. 😤",
+      "referencias": [
+        "Isaías 55:7",
+        "Neemias 9:30"
+      ],
+      "comentario": "Aqui, a desobediência é especificamente ligada à rejeição da Palavra profética anterior (como Jeremias e Ezequiel). Eles ouviram, mas não aplicaram. O coração endurecido é o cerne do problema.",
+      "temas": [
+        "Rejeição da profecia",
+        "Coração endurecido"
+      ],
+      "personagens": []
     },
     "5": {
-      "parafrase": "Os seus pais, onde estão eles? E os profetas, acaso vivem para sempre?",
-      "referencias": [],
-      "comentario": "Uma pergunta retórica que lembra a transitoriedade da vida humana. Tanto os pais que pecaram quanto os profetas que advertiram já morreram, mas a palavra de Deus permanece e se cumpre.",
-      "temas": ["transitoriedade da vida", "permanência da palavra de Deus", "morte"],
+      "parafrase": "Onde estão agora aqueles profetas? Onde estão seus pais? Eles não viveram para sempre. Mas as palavras do Senhor, a mensagem que lhes foi entregue, alcançaram o seu destino e cumpriram o que haviam prometido.",
+      "referencias": [
+        "Ezequiel 12:28",
+        "Isaías 40:8"
+      ],
+      "comentario": "Um poderoso contraste entre a mortalidade humana e a eternidade da Palavra de Deus. A Palavra sempre cumpre seu propósito, mesmo que os mensageiros morram e os ouvintes se esqueçam.",
+      "temas": [
+        "Permanência da Palavra",
+        "Transitoriedade humana"
+      ],
       "personagens": []
     },
     "6": {
-      "parafrase": "'Mas as minhas palavras e os meus estatutos, que eu ordenei aos meus servos, os profetas, acaso não alcançaram os seus pais? E eles se arrependeram e disseram: O Senhor dos Exércitos fez conosco conforme os nossos caminhos e conforme as nossas ações, como ele havia planejado.'",
-      "referencias": ["Lamentações 2:17"],
-      "comentario": "A palavra de Deus, entregue pelos profetas, se cumpriu no juízo que veio sobre a geração anterior. O reconhecimento do cumprimento da profecia levou ao arrependimento e à confissão de que Deus é justo em Seus caminhos.",
-      "temas": ["cumprimento da profecia", "justiça divina", "arrependimento"],
-      "personagens": ["Deus"]
+      "parafrase": "Ainda que aqueles antigos se foram, vocês viram que as consequências das palavras do Senhor finalmente os alcançaram, e eles sentiram o peso do Seu decreto. Assim, vocês devem aprender com a história deles! 💡",
+      "referencias": [
+        "Lamentações 1:5",
+        "Habacuque 2:3"
+      ],
+      "comentario": "As consequências do juízo não foram evitadas. O povo que veio depois testemunha o cumprimento da Palavra nos seus antepassados (o exílio). Isso serve como um alerta vivo para a geração atual.",
+      "temas": [
+        "Consequência do juízo",
+        "Aprendizado histórico"
+      ],
+      "personagens": []
     },
     "7": {
-      "parafrase": "No vigésimo quarto dia do décimo primeiro mês, que é o mês de Sebate, no segundo ano de Dario, a palavra do Senhor veio ao profeta Zacarias, filho de Berequias, filho de Ido, dizendo:",
-      "referencias": [],
-      "comentario": "Esta é a data da primeira visão noturna de Zacarias, cerca de três meses após o chamado inicial ao arrependimento. As visões são uma forma de encorajamento para o povo que está reconstruindo o Templo.",
-      "temas": ["visão", "data", "revelação divina"],
-      "personagens": ["Zacarias"]
+      "parafrase": "No quarto ano de Dario, no mês de Quislev (o décimo primeiro mês), no dia vinte e quatro, Zacarias recebeu outra visão, uma visão noturna, que ele transmitiu ao povo.",
+      "referencias": [
+        "Esdras 6:15",
+        "Zacarias 7:1"
+      ],
+      "comentario": "Outra datação específica (no meio do inverno, dois meses após o versículo 1). O surgimento de visões consecutivas indica que a obra de Deus continuava ativa, apesar da lentidão humana. O uso de 'quatro meses depois' em 7:1 confirma essa cronologia.",
+      "temas": [
+        "Cronologia profética",
+        "Continuidade da revelação"
+      ],
+      "personagens": []
     },
     "8": {
-      "parafrase": "'Eu vi de noite, e eis que um homem montado num cavalo vermelho estava parado entre as murtas que estavam no vale. E atrás dele estavam cavalos vermelhos, malhados e brancos.'",
-      "referencias": ["Apocalipse 6:4"],
-      "comentario": "A primeira visão de Zacarias. O homem no cavalo vermelho é provavelmente o Anjo do Senhor, e os cavalos coloridos representam os mensageiros divinos que patrulham a terra. As murtas no vale podem simbolizar o povo de Deus em sua condição humilde e oprimida.",
-      "temas": ["visão profética", "Anjo do Senhor", "mensageiros divinos", "simbolismo"],
-      "personagens": ["Zacarias", "Anjo do Senhor"]
+      "parafrase": "Naquela visão, vi um homem montado sobre um cavalo vermelho-escuro 🐴, parado entre as árvores de murta, num vale sombrio. Atrás dele estavam outros cavaleiros, montados em cavalos de cores variadas: um baio claro, um branco e um malhado.",
+      "referencias": [
+        "Apocalipse 6:1-8",
+        "Apocalipse 19:11"
+      ],
+      "comentario": "Esta é a primeira de oito visões. O homem a cavalo vermelho-escuro é frequentemente interpretado como um anjo ou o próprio Messias como agente divino. As cores dos cavalos simbolizam o tipo de poder ou juízo que eles representam no âmbito celestial.",
+      "temas": [
+        "Visão celestial",
+        "Simbolismo das cores",
+        "Agentes divinos"
+      ],
+      "personagens": []
     },
     "9": {
-      "parafrase": "Então eu perguntei: 'Meu senhor, o que são estes?' E o anjo que falava comigo me respondeu: 'Eu lhe mostrarei o que são estes.'",
-      "referencias": [],
-      "comentario": "Zacarias, como o profeta, busca entender o significado da visão, e o anjo intérprete se oferece para explicar.",
-      "temas": ["interpretação da visão", "busca por entendimento"],
-      "personagens": ["Zacarias", "Anjo intérprete"]
+      "parafrase": "Perguntei ao anjo que falava comigo: 'Meu senhor, o que significam essas visões que estou tendo? O que estes cavaleiros representam?' ❓",
+      "referencias": [
+        "Daniel 8:16",
+        "Gênesis 40:8"
+      ],
+      "comentario": "Zacarias assume o papel de aprendiz, buscando a interpretação da visão. O interlocutor ('meu senhor' - 'adoni') é geralmente entendido como um anjo mediador ou o Arcanjo.",
+      "temas": [
+        "Interrogação",
+        "Busca por entendimento"
+      ],
+      "personagens": [
+        "Anjo"
+      ]
     },
     "10": {
-      "parafrase": "E o homem que estava parado entre as murtas respondeu e disse: 'Estes são aqueles que o Senhor enviou para patrulhar a terra.'",
-      "referencias": [],
-      "comentario": "Os cavalos e seus cavaleiros são os mensageiros de Deus, enviados para observar a situação da terra e relatar a Ele.",
-      "temas": ["mensageiros divinos", "patrulha da terra", "observação"],
-      "personagens": ["Anjo do Senhor"]
+      "parafrase": "O anjo, que servia como meu intérprete, respondeu com clareza: 'Estes são os que o Senhor enviou para percorrer a terra, para ver onde ela está sendo vigiada e protegida.' 🌍",
+      "referencias": [
+        "Provérbios 15:3",
+        "Gênesis 18:21"
+      ],
+      "comentario": "Os cavaleiros são mensageiros celestiais encarregados de patrulhar e inspecionar a Terra. O verbo 'para percorrer' ('la-chum' - andar, vaguear) sugere uma missão de reconhecimento e supervisão sobre a Terra.",
+      "temas": [
+        "Missão dos anjos",
+        "Soberania divina sobre a Terra"
+      ],
+      "personagens": [
+        "Anjo intérprete"
+      ]
     },
     "11": {
-      "parafrase": "Eles responderam ao Anjo do Senhor, que estava parado entre as murtas, e disseram: 'Patrulhamos a terra, e eis que toda a terra está em repouso e tranquila.'",
-      "referencias": [],
-      "comentario": "O relatório dos mensageiros é que a terra está em paz. Isso é uma ironia, pois Judá ainda está sofrendo e oprimida, enquanto as nações inimigas estão em repouso. Isso levanta a questão da justiça de Deus.",
-      "temas": ["relatório", "paz aparente", "injustiça"],
-      "personagens": ["Mensageiros divinos"]
+      "parafrase": "Então, eles se dirigiram ao anjo que estava entre as murteiras e relataram: 'Nós percorremos toda a terra, e eis que ela está em perfeita paz e sossego. Nenhum sinal de rebelião ou desastre se manifestou.' 😌",
+      "referencias": [
+        "Juízes 18:27",
+        "1 Tessalonicenses 5:3"
+      ],
+      "comentario": "A avaliação é de 'paz e tranquilidade' ('menuchah' e 'shalvah'), sugerindo estabilidade política e ausência de grandes conflitos internacionais. Contudo, essa paz terrena contrasta com a inquietação espiritual do povo de Deus.",
+      "temas": [
+        "Paz terrena",
+        "Relatório celestial"
+      ],
+      "personagens": []
     },
     "12": {
-      "parafrase": "Então o Anjo do Senhor respondeu e disse: 'Ó Senhor dos Exércitos, até quando não terás compaixão de Jerusalém e das cidades de Judá, contra as quais estiveste irado por setenta anos?'",
-      "referencias": ["Jeremias 25:11"],
-      "comentario": "O Anjo do Senhor intercede por Jerusalém e Judá, questionando a Deus sobre a duração de Sua ira. Os setenta anos se referem ao período do cativeiro babilônico, que estava chegando ao fim.",
-      "temas": ["intercessão", "ira divina", "cativeiro babilônico", "duração do juízo"],
-      "personagens": ["Anjo do Senhor"]
+      "parafrase": "Ao ouvir o relatório, o anjo intérprete dirigiu-se ao Senhor e clamou com grande intensidade: 'Ó Senhor dos Exércitos Santo e Poderoso! Já faz setenta anos desde que a Sua misericórdia foi suspensa. Quando o Senhor finalmente mostrará compaixão por Jerusalém e pelas cidades de Judá, para as quais o Seu zelo ainda não se manifestou?' 😢",
+      "referencias": [
+        "Isaías 63:15",
+        "Jeremias 29:10"
+      ],
+      "comentario": "Esta é uma oração intercessória poderosa. O anjo invoca a santidade ('Qadosh') e o poder de Deus. O período de 'setenta anos' remete ao exílio babilônico (iniciado por volta de 605 a.C.). O anjo questiona quando a fase de punição terminará e começará a restauração.",
+      "temas": [
+        "Intercessão angélica",
+        "Duração do juízo",
+        "Misericórdia de Deus"
+      ],
+      "personagens": [
+        "Senhor dos Exércitos"
+      ]
     },
     "13": {
-      "parafrase": "E o Senhor respondeu ao anjo que falava comigo com palavras boas e consoladoras.",
-      "referencias": [],
-      "comentario": "Deus responde à intercessão com palavras de encorajamento e consolo, indicando que o tempo do juízo está terminando e a restauração está próxima.",
-      "temas": ["resposta divina", "consolo", "encorajamento"],
-      "personagens": ["Deus"]
+      "parafrase": "Em resposta a esta súplica, o Senhor dirigiu-se ao anjo que estava comigo, usando palavras de conforto e bondade para com o profeta: 'Continue a falar palavras boas, palavras de consolo e de encorajamento para o povo.' 😊",
+      "referencias": [
+        "Isaías 40:1",
+        "Jeremias 30:18"
+      ],
+      "comentario": "Deus responde ao anjo com um mandamento ao profeta: falar palavras de conforto ('davar tovim'). A missão agora é reanimar a esperança da comunidade em meio às ruínas.",
+      "temas": [
+        "Consolo divino",
+        "Palavras de encorajamento"
+      ],
+      "personagens": []
     },
     "14": {
-      "parafrase": "Então o anjo que falava comigo me disse: 'Proclame: Assim diz o Senhor dos Exércitos: Eu tenho um grande zelo por Jerusalém e por Sião.'",
-      "referencias": ["Joel 2:18"],
-      "comentario": "Deus expressa Seu zelo e paixão por Jerusalém e Sião. Seu zelo é a garantia de que Ele agirá em favor de Seu povo.",
-      "temas": ["zelo de Deus", "Jerusalém", "Sião", "paixão divina"],
-      "personagens": ["Anjo intérprete"]
+      "parafrase": "O anjo então me instruiu: 'Proclame com voz forte: Assim diz o Senhor dos Exércitos: Meu zelo por Jerusalém e por Sião é como um fogo consumidor! Estou muito zangado com as nações vizinhas que se contentaram em causar um pequeno mal ao Meu povo.' 😠",
+      "referencias": [
+        "Ezequiel 36:6",
+        "Isaías 9:18"
+      ],
+      "comentario": "Aqui, o zelo ('qina' - zelo ciumento) de Deus é revelado. Ele não estava apenas zangado com Israel, mas também com as nações pagãs (Amom, Edom, etc.) que, em sua arrogância, pensaram que podiam ferir o povo escolhido impunemente. O juízo de Deus se voltará contra elas.",
+      "temas": [
+        "Zelo divino",
+        "Juízo contra as nações"
+      ],
+      "personagens": []
     },
     "15": {
-      "parafrase": "'E estou muito irado com as nações que vivem em segurança, pois eu estava um pouco irado, mas elas aumentaram o sofrimento.'",
-      "referencias": ["Isaías 47:6"],
-      "comentario": "Deus está irado com as nações que oprimiram Seu povo. Ele as usou como instrumento de disciplina, mas elas excederam os limites, infligindo sofrimento excessivo. Agora, elas serão julgadas por sua crueldade.",
-      "temas": ["ira divina", "juízo sobre as nações", "crueldade"],
-      "personagens": ["Deus"]
+      "parafrase": "Mas o Meu próprio povo, Israel, Eu os castiguei severamente, por um período, mas essas nações o fizeram por maldade e acrescentaram dor à dor que Eu já havia imposto a eles. 💔",
+      "referencias": [
+        "Jeremias 30:11",
+        "Lamentações 2:2"
+      ],
+      "comentario": "Distinção crucial: o castigo de Deus sobre Israel foi corretivo e temporário; a ação das nações vizinhas foi motivada por hostilidade e acrescentou sofrimento desnecessário (o 'mal' extra).",
+      "temas": [
+        "Diferença entre castigo e maldade",
+        "Sofrimento adicional"
+      ],
+      "personagens": []
     },
     "16": {
-      "parafrase": "'Portanto, assim diz o Senhor: Voltei para Jerusalém com misericórdia; a minha casa será reconstruída nela', declara o Senhor dos Exércitos, 'e o cordel de medir será estendido sobre Jerusalém.'",
-      "referencias": ["Zacarias 2:1-5"],
-      "comentario": "Deus anuncia Seu retorno a Jerusalém com misericórdia. A reconstrução do Templo e da cidade é uma promessa de restauração e de Sua presença renovada. O cordel de medir simboliza a reconstrução e a expansão da cidade.",
-      "temas": ["retorno de Deus", "misericórdia", "reconstrução do Templo", "restauração de Jerusalém"],
-      "personagens": ["Deus"]
+      "parafrase": "Por isso, o Senhor declara agora com firmeza: 'Eu voltei para Jerusalém com misericórdia. A Minha casa será reconstruída nela, e os instrumentos de medição para a construção serão estendidos sobre a cidade de Jerusalém novamente.' 📐",
+      "referencias": [
+        "Ageu 1:8",
+        "Ezequiel 40:3"
+      ],
+      "comentario": "O retorno da misericórdia marca o fim do período de punição. A reconstrução da 'Casa' (o Templo) é o símbolo primário da restauração da relação de aliança. A menção de 'instrumentos de medição' (cordel de agrimensor) aponta para a restauração completa e ordenada da cidade.",
+      "temas": [
+        "Restauração de Jerusalém",
+        "Reconstrução do Templo",
+        "Misericórdia"
+      ],
+      "personagens": []
     },
     "17": {
-      "parafrase": "'Proclame novamente: Assim diz o Senhor dos Exércitos: As minhas cidades transbordarão de prosperidade novamente, e o Senhor consolará Sião e novamente escolherá Jerusalém.'",
-      "referencias": ["Isaías 51:3"],
-      "comentario": "A promessa de prosperidade e bênção para as cidades de Judá. Deus consolará Seu povo e reafirmará Sua escolha de Jerusalém como Sua cidade santa.",
-      "temas": ["prosperidade", "consolo", "escolha divina", "bênção"],
-      "personagens": ["Deus"]
+      "parafrase": "O Senhor dá mais uma ordem: 'Diga novamente ao povo que o Senhor dos Exércitos proclama: As Minhas cidades prosperarão novamente, pois Eu derramarei Minha bondade sobre Sião, e Jerusalém será novamente o centro da Minha escolha e favor.' 🏛️",
+      "referencias": [
+        "Isaías 1:26",
+        "Apocalipse 21:2"
+      ],
+      "comentario": "A promessa se estende das estruturas (Templo) à própria cidade ('cidades de Judá'). 'Escolha' ('bachar') reforça o pacto especial. A restauração será visível em prosperidade e favor divino.",
+      "temas": [
+        "Prosperidade",
+        "Favor divino",
+        "Escolha de Sião"
+      ],
+      "personagens": []
+    },
+    "18": {
+      "parafrase": "Então, levantei meus olhos e observei, e eis quatro chifres grandes! 뿔",
+      "referencias": [
+        "Daniel 8:9",
+        "Jó 16:13"
+      ],
+      "comentario": "Zacarias passa para a segunda parte da visão: os quatro chifres. Na iconografia antiga, 'chifres' simbolizam poder, força ou reinos. Este é um novo elemento simbólico que exige nova interpretação.",
+      "temas": [
+        "Símbolos de poder",
+        "Visão subsequente"
+      ],
+      "personagens": []
+    },
+    "19": {
+      "parafrase": "Perguntei ao anjo: 'O que representam estes quatro chifres que estou vendo?' E a resposta que recebi foi que eles são os mesmos quatro reinos que espalharam o povo de Judá, Israel e Jerusalém por toda parte. 🌪️",
+      "referencias": [
+        "Daniel 7:2",
+        "Jeremias 25:9"
+      ],
+      "comentario": "Os quatro chifres são explicitamente ligados aos poderes (provavelmente impérios) que causaram a dispersão e o exílio do povo judeu. Embora as interpretações variem (Egito, Assíria, Babilônia, Pérsia ou sucessores), o significado principal é o de poderes opressores que dispersaram Israel.",
+      "temas": [
+        "Poderes opressores",
+        "Dispersão (Diáspora)"
+      ],
+      "personagens": [
+        "Anjo intérprete"
+      ]
+    },
+    "20": {
+      "parafrase": "Em seguida, o anjo me mostrou quatro artesãos ou ferreiros, homens habilidosos. 🔨",
+      "referencias": [
+        "Êxodo 31:3",
+        "Jeremias 29:7"
+      ],
+      "comentario": "Estes quatro artesãos ('harashim') surgem para contrastar e superar o poder destrutivo dos quatro chifres. Eles representam a força restauradora e construtiva de Deus.",
+      "temas": [
+        "Restauração ativa",
+        "Habilidade divina"
+      ],
+      "personagens": []
+    },
+    "21": {
+      "parafrase": "E perguntei: 'O que estes vieram fazer?' E o anjo me explicou: 'Eles vieram para derrubar e destruir os quatro chifres, ou seja, as nações que espalharam e oprimiram Judá de modo que ninguém mais pudesse levantar a cabeça contra o Seu povo.' 👑",
+      "referencias": [
+        "Daniel 2:44",
+        "Apocalipse 12:9"
+      ],
+      "comentario": "O clímax da primeira seção de visões. Os artesãos têm a missão de desmantelar o poder opressor dos impérios (os chifres). Eles garantem que as nações que feriram Judá ('que fizeram Judá ser disperso sem que ninguém pudesse erguer a cabeça') serão elas mesmas subjugadas, assegurando a supremacia e a liberdade de Israel.",
+      "temas": [
+        "Destruição dos inimigos",
+        "Supremacia de Israel"
+      ],
+      "personagens": [
+        "Anjo intérprete"
+      ]
     }
   }
 }

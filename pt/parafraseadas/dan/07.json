@@ -1,192 +1,467 @@
 {
   "livro": "Daniel",
   "capitulo": 7,
-  "contexto_historico": "Este capítulo de Daniel descreve uma visão que o profeta teve de quatro grandes bestas que emergem do mar, simbolizando quatro reinos mundiais sucessivos. A visão culmina com a aparição de um Ancião de Dias e a vinda de um como Filho do Homem, a quem é dado um reino eterno e universal. O capítulo enfatiza a soberania de Deus sobre a história humana, a ascensão e queda de impérios, e o estabelecimento final do reino de Deus, que prevalecerá sobre todos os reinos terrenos. A visão é uma revelação profética do plano divino para o futuro.",
-  "bloco_tematico": "A Visão das Quatro Bestas e o Reino do Filho do Homem",
+  "contexto_historico": "O livro de Daniel, escrito provavelmente durante o exílio babilônico (século VI a.C.) ou no período persa, serve como um testemunho da fidelidade de Deus e da soberania de Seu povo, mesmo sob domínio de impérios pagãos. O capítulo 7 é uma visão profética de Daniel, ocorrida no primeiro ano do reinado de Belsazar, rei da Babilônia. Esta visão não se refere aos eventos imediatos da corte, mas sim ao futuro distante, abrangendo a sucessão de grandes impérios mundiais que dominariam Israel e o mundo antes do estabelecimento final do Reino de Deus. O ambiente é de ansiedade política e religiosa, onde a esperança judaica dependia da intervenção divina.",
+  "bloco_tematico": "As Quatro Bestas 🦁🐻🐆 e o Juízo do Ancião dos Dias 👑",
   "versiculos": {
     "1": {
-      "parafrase": "No primeiro ano de Belsazar, rei da Babilônia, Daniel teve um sonho e visões de sua cabeça em sua cama; então ele escreveu o sonho e relatou o resumo do assunto.",
-      "referencias": [],
-      "comentario": "Daniel recebe uma visão e um sonho no primeiro ano do reinado de Belsazar, antes da queda da Babilônia. Ele registra a visão, mostrando sua importância profética.",
-      "temas": ["sonho", "visão", "Belsazar", "registro", "profecia"],
-      "personagens": ["Daniel", "Belsazar"]
+      "parafrase": "No primeiro ano do reinado de Belsazar, rei da Babilônia, Daniel teve um sonho noturno, uma visão intensa que tomou conta de sua mente enquanto dormia. Em sua mente, ele viu a realidade se desdobrar em símbolos profundos, e ele anotou tudo o que viu, começando pelo registro daquela noite transformadora.",
+      "referencias": [
+        "Jeremias 25:11",
+        "Isaías 21:2"
+      ],
+      "comentario": "O 'primeiro ano de Belsazar' (c. 553 a.C.) estabelece o contexto histórico, colocando Daniel como um idoso, mas ainda ativo, conselheiro na corte babilônica, pouco antes da queda de Nabonido/Belsazar. A visão noturna (חֲזוֹן - 'chazon') indica que a revelação vem de Deus durante o repouso, um método comum para profetas.",
+      "temas": [
+        "Revelação Divina",
+        "Início de Profecia",
+        "Babilônia"
+      ],
+      "personagens": [
+        "Daniel",
+        "Belsazar"
+      ]
     },
     "2": {
-      "parafrase": "Daniel falou e disse: 'Eu vi em minha visão noturna, e, vejam, os quatro ventos do céu agitavam o grande mar.'",
-      "referencias": [],
-      "comentario": "Daniel vê os quatro ventos do céu agitando o grande mar, simbolizando o tumulto e a agitação das nações e dos eventos mundiais que darão origem aos impérios.",
-      "temas": ["visão noturna", "ventos do céu", "grande mar", "tumulto", "nações"],
-      "personagens": ["Daniel"]
+      "parafrase": "Daniel começou a narrar o conteúdo da visão: Ele viu quatro ventos poderosos, vindos de todas as quatro direções do céu, agitarem e revolvarem furiosamente o vasto oceano primordial. Era uma cena de caos e energia indomável em movimento.",
+      "referencias": [
+        "Gênesis 1:2",
+        "Ezequiel 1:4"
+      ],
+      "comentario": "Os 'quatro ventos' (רוּחַ - 'ruach', que também significa espírito) simbolizam forças de julgamento ou influência que vêm de todas as direções do mundo ('os quatro céus'). O 'grande mar' (יַמָּא - 'yamma') representa a massa da humanidade ou as nações gentílicas, agitadas pela intervenção divina.",
+      "temas": [
+        "Caos Mundial",
+        "Soberania Divina",
+        "Julgamento"
+      ],
+      "personagens": [
+        "Daniel"
+      ]
     },
     "3": {
-      "parafrase": "'E quatro grandes bestas subiram do mar, diferentes umas das outras.'",
-      "referencias": [],
-      "comentario": "Quatro grandes bestas emergem do mar, representando quatro reinos mundiais sucessivos. A diferença entre elas simboliza as características distintas de cada império.",
-      "temas": ["bestas", "reinos mundiais", "diferença", "simbolismo"],
-      "personagens": []
+      "parafrase": "E daquele mar revolto, emergiram quatro feras gigantescas, cada uma diferente e aterrorizante, subindo sucessivamente da água turbulenta.",
+      "referencias": [
+        "Jó 41:1",
+        "Apocalipse 13:1"
+      ],
+      "comentario": "As feras representam reinos sucessivos que dominarão a terra. A emergência do mar (a massa caótica das nações) confirma que elas nascem do meio dos povos, não do céu.",
+      "temas": [
+        "Impérios Mundiais",
+        "Símbolos de Poder",
+        "Ascensão de Nações"
+      ],
+      "personagens": [
+        "Daniel"
+      ]
     },
     "4": {
-      "parafrase": "'A primeira era como um leão e tinha asas de águia; eu olhei até que suas asas foram arrancadas, e ela foi levantada da terra e posta sobre os pés como um homem, e um coração de homem lhe foi dado.'",
-      "referencias": [],
-      "comentario": "A primeira besta, um leão com asas de águia, representa o Império Babilônico. A remoção das asas e a transformação em homem simbolizam a humilhação de Nabucodonosor e sua posterior restauração da razão.",
-      "temas": ["leão", "asas de águia", "Império Babilônico", "humilhação", "restauração", "simbolismo"],
-      "personagens": []
+      "parafrase": "A primeira criatura que ele viu era semelhante a um leão 🦁, mas possuía imensas asas de águia. Enquanto Daniel observava, viu que essas asas foram arrancadas, e então ela foi levantada da terra, forçada a ficar ereta sobre duas patas, como um homem. Seu coração, outrora feroz, foi substituído por uma mentalidade humana.",
+      "referencias": [
+        "Jeremias 49:19",
+        "OsEias 8:1"
+      ],
+      "comentario": "O leão com asas de águia simboliza o Império Babilônico (comparado a um leão em Jeremias 49:19, e a força alada em Habacuque 1:8). A remoção das asas e o ato de ficar em pé sobre as patas representam a perda da mobilidade rápida e, metaforicamente, a perda da soberania total ou a humanização do poder, talvez referindo-se ao reinado de Nabucodonosor e seus sucessores imediatos.",
+      "temas": [
+        "Babilônia",
+        "Poder Despojado",
+        "Transformação de Governo"
+      ],
+      "personagens": [
+        "Daniel"
+      ]
     },
     "5": {
-      "parafrase": "'E, vejam, outra besta, uma segunda, semelhante a um urso, e ela se levantou de um lado, e tinha três costelas na boca entre os seus dentes; e assim lhe disseram: 'Levante-se, devore muita carne.'"",
-      "referencias": [],
-      "comentario": "A segunda besta, um urso com três costelas na boca, representa o Império Medo-Persa. As três costelas simbolizam as três principais conquistas ou divisões do império. A ordem para devorar carne indica sua ferocidade e expansão.",
-      "temas": ["urso", "Império Medo-Persa", "conquistas", "ferocidade", "expansão", "simbolismo"],
-      "personagens": []
+      "parafrase": "Imediatamente após isso, uma segunda fera surgiu. Esta parecia um urso 🐻, robusta e forte. Ela estava firmemente apoiada sobre um lado de seu corpo, e em sua boca, entre seus dentes, ela segurava três costelas. Isso indicava que ela havia dominado e estava devorando três entidades ou reinos que submeteram.",
+      "referencias": [
+        "Isaías 13:17",
+        "Lamentações 2:2"
+      ],
+      "comentario": "O urso geralmente representa o Império Medo-Persa. A postura apoiada em um lado sugere a proeminência da Média, mas o fato de estar esmagando o outro lado aponta para a união e domínio persa. As 'três costelas' (שָׁלֹשׁ צְלָעֹת - 'shalosh tsela'ot') são tradicionalmente interpretadas como os três principais reinos conquistados e destruídos pelos medos e persas: Lídia, Babilônia e Egito (ou Elão/Babilônia/Síria).",
+      "temas": [
+        "Medo-Pérsia",
+        "Conquista Tripla",
+        "Força Bruta"
+      ],
+      "personagens": [
+        "Daniel"
+      ]
     },
     "6": {
-      "parafrase": "'Depois disso, eu olhei, e, vejam, outra, semelhante a um leopardo, que tinha sobre as suas costas quatro asas de pássaro; a besta também tinha quatro cabeças; e domínio lhe foi dado.'",
-      "references": [],
-      "comentario": "A terceira besta, um leopardo com quatro asas e quatro cabeças, representa o Império Grego de Alexandre, o Grande. A velocidade do leopardo e as asas simbolizam a rapidez de suas conquistas. As quatro cabeças representam a divisão do império após a morte de Alexandre.",
-      "temas": ["leopardo", "Império Grego", "velocidade", "conquistas", "divisão", "simbolismo"],
-      "personagens": []
+      "parafrase": "Após essa visão, apareceu uma terceira besta. Era como um leopardo 🐆, mas com quatro asas de ave nas costas. Esta criatura tinha quatro cabeças e lhe foi dado o poder de governar e dominar sobre a terra.",
+      "referencias": [
+        "Habacuque 1:8",
+        "1 Macabeus 1:1"
+      ],
+      "comentario": "O leopardo (נָמֵר - 'namer'), rápido e com quatro asas, simboliza o Império Grego sob Alexandre, o Grande. A velocidade representa suas conquistas rápidas. As 'quatro cabeças' (אַרְבַּע רָאשִׁין - 'arba rashin') são interpretadas como os quatro reinos helenísticos que se dividiram após a morte de Alexandre: as dinastias dos Diádocos (Cassandro, Lisímaco, Seleuco e Ptolomeu).",
+      "temas": [
+        "Grécia",
+        "Velocidade de Conquista",
+        "Fragmentação do Poder"
+      ],
+      "personagens": [
+        "Daniel"
+      ]
     },
     "7": {
-      "parafrase": "'Depois disso, eu olhei nas visões noturnas, e, vejam, uma quarta besta, terrível e espantosa, e extremamente forte; e tinha grandes dentes de ferro; ela devorava e quebrava em pedaços, e pisoteava o restante com os seus pés; e era diferente de todas as bestas que a precederam; e tinha dez chifres.'",
-      "references": [],
-      "comentario": "A quarta besta, terrível e forte, com dentes de ferro, representa o Império Romano. Sua força e sua capacidade de devorar e pisotear simbolizam seu poder destrutivo. Os dez chifres representam os reinos que surgirão do Império Romano.",
-      "temas": ["quarta besta", "Império Romano", "força", "destruição", "dez chifres", "simbolismo"],
-      "personagens": []
+      "parafrase": "Continuando o sonho aterrorizante, Daniel olhou e viu a quarta besta. Esta era assustadora, terrível e incrivelmente forte. Ela tinha dentes de ferro gigantescos, diferentes de todas as anteriores, e esmagava tudo o que encontrava. Ela pisoteava e destruía o que sobrava, deixando um rastro de destruição por onde passava. Este animal tinha dez chifres proeminentes.",
+      "referencias": [
+        "Miquéias 4:13",
+        "Apocalipse 12:3"
+      ],
+      "comentario": "A quarta besta, sem comparação com as anteriores, representa o Império Romano. Sua característica destrutiva, 'dentes de ferro' (שִׁנַּיִם מִבַּרְזֶל - 'shinayim mibarzel'), denota poder esmagador e duradouro, como o ferro que tudo quebra. Os dez chifres simbolizam reis ou divisões do império em seu auge ou fase final.",
+      "temas": [
+        "Roma",
+        "Força Esmagadora",
+        "Domínio Final"
+      ],
+      "personagens": [
+        "Daniel"
+      ]
     },
     "8": {
-      "parafrase": "'Eu considerei os chifres, e, vejam, outro chifre pequeno subiu entre eles, e diante dele três dos primeiros chifres foram arrancados pelas raízes; e, vejam, neste chifre havia olhos como os olhos de um homem, e uma boca que falava grandes coisas.'",
-      "references": [],
-      "comentario": "Um chifre pequeno surge entre os dez chifres, derrubando três deles. Este chifre pequeno representa uma figura futura que se levantará com grande poder e arrogância, falando grandes coisas contra Deus.",
-      "temas": ["chifre pequeno", "arrogância", "poder", "blasfêmia", "simbolismo"],
-      "personagens": []
+      "parafrase": "Enquanto Daniel observava atentamente esses dez chifres, um pequeno chifre, diferente e novo, começou a brotar entre eles. Este novo chifre derrubou três dos dez originais. Ao olhar de perto para este pequeno chifre, Daniel notou que ele tinha olhos que pareciam olhos humanos e uma boca que falava com extrema arrogância e soberba.",
+      "referencias": [
+        "Zacarias 4:10",
+        "2 Tessalonicenses 2:4"
+      ],
+      "comentario": "Este 'chifre pequeno' (קֶרֶן זְעִירָה - 'keren ze'irah') é crucial. Ele surge do quarto império (Roma) e submete três dos dez poderes existentes. Caracterizado por olhos humanos (símbolo de inteligência ou astúcia) e uma boca arrogante, é a representação clássica do Anticristo ou de um poder opressor final que desafia a Deus.",
+      "temas": [
+        "Anticristo",
+        "Soberba",
+        "Poder Subversivo"
+      ],
+      "personagens": [
+        "Daniel"
+      ]
     },
     "9": {
-      "parafrase": "'Eu olhei até que os tronos foram postos, e o Ancião de Dias se assentou, cuja veste era branca como a neve, e o cabelo de sua cabeça como a lã pura; o seu trono era de chamas de fogo, e as suas rodas eram fogo ardente.'",
-      "references": [],
-      "comentario": "Daniel vê uma cena de julgamento celestial, onde o Ancião de Dias (Deus) se assenta em Seu trono de fogo. Sua aparência é de pureza e majestade, e Seu trono é de poder e juízo.",
-      "temas": ["Ancião de Dias", "trono", "fogo", "pureza", "majestade", "juízo divino"],
-      "personagens": []
+      "parafrase": "Enquanto Daniel continuava a contemplar essa cena, os tronos foram dispostos, preparando o palco para um julgamento celestial ⚖️. Então, o Ancião de Dias — Aquele cuja vestimenta era branca como a neve mais pura e cujo cabelo era como lã imaculada — tomou seu assento majestoso.",
+      "referencias": [
+        "Êxodo 24:10",
+        "Apocalipse 1:14"
+      ],
+      "comentario": "A introdução do 'Ancião de Dias' (עַתִּיק יֹמַיָּא - 'Attiq Yowmayya') é uma das mais sublimes representações da majestade de Deus Pai no Antigo Testamento, focando em Sua eternidade (Dias) e pureza (vestes brancas/lã). É a corte celestial convocada para o julgamento dos reinos terrenos.",
+      "temas": [
+        "Julgamento Divino",
+        "Eternidade de Deus",
+        "Majestade Celestial"
+      ],
+      "personagens": [
+        "Daniel",
+        "Ancião de Dias"
+      ]
     },
     "10": {
-      "parafrase": "'Um rio de fogo fluía e saía de diante Dele; milhares de milhares o serviam, e dez mil vezes dez mil estavam em pé diante Dele; o juízo foi posto, e os livros foram abertos.'",
-      "references": [],
-      "comentario": "Um rio de fogo flui de Deus, e uma multidão de seres celestiais O servem. O juízo é estabelecido, e os livros são abertos, indicando que as ações de todos serão julgadas. A cena é de grande solenidade.",
-      "temas": ["rio de fogo", "seres celestiais", "juízo divino", "livros", "solenidade"],
-      "personagens": []
+      "parafrase": "Um rio de fogo jorrava e fluía de Sua presença, uma torrente ardente que se espalhava diante d'Ele. Milhares e milhares serviam a Ele em perfeita ordem, e milhões e milhões assistiam em reverência. O tribunal estava montado, e os livros sagrados foram abertos para o julgamento das nações.",
+      "referencias": [
+        "Salmos 50:3",
+        "Hebreus 12:29"
+      ],
+      "comentario": "O 'rio de fogo' (נְהַר נְחָשָׁא - 'nahar nekhashah', rio de bronze fundido/fogo) simboliza o poder purificador e destrutivo do juízo divino. A multidão celestial ('milhares de milhares') enfatiza a vastidão e a autoridade da corte divina, e a abertura dos livros é o registro da vida e das ações humanas sendo examinadas.",
+      "temas": [
+        "Julgamento Final",
+        "Poder Purificador",
+        "Registros Celestiais"
+      ],
+      "personagens": [
+        "Daniel"
+      ]
     },
     "11": {
-      "parafrase": "'Eu olhei então por causa da voz das grandes palavras que o chifre falava; eu olhei até que a besta foi morta, e o seu corpo destruído, e entregue para ser queimado com fogo.'",
-      "references": [],
-      "comentario": "A besta (o quarto reino) é morta e seu corpo é destruído pelo fogo, por causa das blasfêmias do chifre pequeno. Isso simboliza a destruição final dos reinos terrenos que se opõem a Deus.",
-      "temas": ["chifre pequeno", "blasfêmia", "besta", "morte", "destruição", "fogo", "juízo divino"],
-      "personagens": []
+      "parafrase": "Daniel observou o pequeno chifre, ainda falando suas palavras cheias de presunção, até que, por causa de sua insolência, ele foi ouvido e julgado. E enquanto olhava, viu que a quarta besta foi morta, seu corpo destruído e entregue às chamas consumidoras.",
+      "referencias": [
+        "2 Tessalonicenses 2:8",
+        "Apocalipse 19:20"
+      ],
+      "comentario": "O julgamento imediato do pequeno chifre, mesmo enquanto os outros animais aguardam, mostra que sua blasfêmia é o ponto focal da ira divina. A 'morte' da quarta besta (Roma/seu sucessor) pela destruição de seu corpo no fogo marca o fim de seu domínio político e militar.",
+      "temas": [
+        "Fim dos Impérios",
+        "Julgamento da Arrogância",
+        "Destruição Violenta"
+      ],
+      "personagens": [
+        "Daniel"
+      ]
     },
     "12": {
-      "parafrase": "'Quanto ao restante das bestas, o seu domínio lhes foi tirado; no entanto, uma prolongação de vida lhes foi dada por um tempo e uma estação.'",
-      "references": [],
-      "comentario": "O domínio das outras bestas (reinos anteriores) é tirado, mas uma prolongação de vida lhes é dada por um tempo. Isso indica que, embora seus impérios caiam, sua influência pode persistir por um período.",
-      "temas": ["bestas", "domínio", "prolongação de vida", "influência", "transitoriedade"],
-      "personagens": []
+      "parafrase": "As outras três feras, embora tivessem seu poder diminuído e seus corpos destruídos, receberam um prazo de vida temporário. Elas continuaram a existir por um tempo determinado, aguardando seu próprio destino final, mas seu poder de dominação já havia sido retirado.",
+      "referencias": [
+        "Apocalipse 13:5",
+        "Apocalipse 20:3"
+      ],
+      "comentario": "Os três primeiros reinos (Babilônia, Medo-Pérsia, Grécia) são removidos como grandes potências mundiais, mas seus legados ou formas políticas subsequentes (que Daniel viu como desdobramentos do quarto) são autorizados a persistir por um 'tempo determinado' (מוֹעַד - 'mo'ed'), indicando um período específico antes do estabelecimento final do Reino de Deus.",
+      "temas": [
+        "Sobrevivência de Poderes",
+        "Tempo Determinado",
+        "Declínio de Reinos"
+      ],
+      "personagens": [
+        "Daniel"
+      ]
     },
     "13": {
-      "parafrase": "'Eu vi nas visões noturnas, e, vejam, com as nuvens do céu vinha um como Filho do Homem, e Ele veio ao Ancião de Dias, e eles o trouxeram diante Dele.'",
-      "references": [],
-      "comentario": "Daniel vê um como Filho do Homem vindo com as nuvens do céu, e Ele é trazido diante do Ancião de Dias. Esta é uma figura messiânica, que receberá o reino eterno de Deus.",
-      "temas": ["Filho do Homem", "nuvens do céu", "Ancião de Dias", "figura messiânica", "reino eterno"],
-      "personagens": []
+      "parafrase": "Em meio a essa visão impressionante, Daniel viu algo ainda mais glorioso: alguém que parecia um ser humano, o Filho do Homem (בַּר אֱנָשׁ - 'bar enash'), aproximando-se das nuvens do céu. Ele foi trazido na presença do Ancião de Dias, recebendo toda a autoridade e glória.",
+      "referencias": [
+        "Salmos 110:1",
+        "Mateus 26:64"
+      ],
+      "comentario": "A aparição do 'Filho do Homem' (um título messiânico claro) é o ponto de virada da profecia. Ele não é uma besta terrestre, mas um ser celestial trazido à corte divina. Receber 'soberania, glória e um reino' do Ancião de Dias aponta para a investidura do Messias, que herdará o domínio sobre todas as nações.",
+      "temas": [
+        "O Messias",
+        "Autoridade Celestial",
+        "Sucessão Real"
+      ],
+      "personagens": [
+        "Daniel",
+        "Filho do Homem",
+        "Ancião de Dias"
+      ]
     },
     "14": {
-      "parafrase": "'E a Ele foi dado domínio, e glória, e um reino, para que todos os povos, nações e línguas o servissem; o seu domínio é um domínio eterno, que não passará, e o seu reino é o que não será destruído.'",
-      "references": [],
-      "comentario": "Ao Filho do Homem é dado um domínio eterno e universal, que não passará nem será destruído. Seu reino prevalecerá sobre todos os reinos terrenos. A soberania de Deus é final.",
-      "temas": ["domínio eterno", "glória", "reino", "serviço", "soberania divina"],
-      "personagens": []
+      "parafrase": "A Ele foi entregue o governo sobre todos os povos, grupos étnicos e línguas da Terra. Seu domínio será eterno e inabalável, um reino que nunca será destruído ou entregue a outra potência.",
+      "referencias": [
+        "Isaías 9:7",
+        "Lucas 1:33"
+      ],
+      "comentario": "O reino do Filho do Homem é universal ('todos os povos') e perpétuo ('nunca será destruído'). Isso contrasta diretamente com a natureza transitória e destrutível dos quatro impérios vistos anteriormente.",
+      "temas": [
+        "Reino Eterno",
+        "Universalidade",
+        "Domínio Messiânico"
+      ],
+      "personagens": [
+        "Daniel",
+        "Filho do Homem"
+      ]
     },
     "15": {
-      "parafrase": "'Quanto a mim, Daniel, o meu espírito ficou perturbado dentro do meu corpo, e as visões da minha cabeça me perturbaram.'",
-      "references": [],
-      "comentario": "Daniel fica perturbado com as visões, mostrando o impacto emocional e espiritual da revelação profética. A visão é avassaladora.",
-      "temas": ["perturbação", "visões", "impacto emocional", "revelação"],
-      "personagens": ["Daniel"]
+      "parafrase": "Daniel sentiu seu espírito perturbado por dentro devido à magnitude dessas visões, e a angústia o tomou de tal maneira que ele se aproximou de um dos seres celestiais que estavam presentes para pedir uma explicação clara sobre o que tudo aquilo significava.",
+      "referencias": [
+        "Daniel 8:27",
+        "Gênesis 41:8"
+      ],
+      "comentario": "A reação física e emocional de Daniel ('meu espírito ficou angustiado em mim') demonstra a pressão que o peso da revelação profética impunha. Ele busca a interpretação através de um dos 'seres' (כְּהַלֵּם - 'kehalem', um termo talvez para anjos assistentes ou intérpretes) presentes na corte celestial, assim como fez em visões anteriores.",
+      "temas": [
+        "Busca por Compreensão",
+        "Perturbação Profética",
+        "Interpretação Angelical"
+      ],
+      "personagens": [
+        "Daniel"
+      ]
     },
     "16": {
-      "parafrase": "'Eu me aproximei de um dos que estavam em pé e lhe perguntei a verdade a respeito de tudo isso. Então ele me falou e me fez saber a interpretação das coisas.'",
-      "references": [],
-      "comentario": "Daniel busca a interpretação da visão de um dos seres celestiais, mostrando sua busca por compreensão e sua dependência da revelação divina. A interpretação é essencial.",
-      "temas": ["interpretação", "busca por compreensão", "revelação divina", "ser celestial"],
-      "personagens": ["Daniel"]
+      "parafrase": "Um dos seres que estavam ali se aproximou e lhe pediu que se acalmasse, mas também lhe pediu para que ele escrevesse com clareza e precisão a interpretação de tudo o que havia testemunhado.",
+      "referencias": [
+        "Isaías 8:1",
+        "Apocalipse 1:19"
+      ],
+      "comentario": "O comando para escrever (כְּתֹב - 'ktov') sublinha a importância histórica e futura dessas revelações. Daniel não é apenas um receptor passivo, mas um cronista divinamente ordenado.",
+      "temas": [
+        "Registro Escrito",
+        "Clareza Profética",
+        "Intervenção Angelical"
+      ],
+      "personagens": [
+        "Daniel"
+      ]
     },
     "17": {
-      "parafrase": "'Estas grandes bestas, que são quatro, são quatro reis que se levantarão da terra.'",
-      "references": [],
-      "comentario": "As quatro bestas são interpretadas como quatro reis (reinos) que se levantarão da terra. A interpretação é clara e direta.",
-      "temas": ["bestas", "reis", "reinos", "interpretação"],
-      "personagens": []
+      "parafrase": "O ser explicou a Daniel que as quatro feras colossais que ele viu são, na verdade, quatro reis ou quatro reinos sucessivos que se levantarão da terra, destinados a dominar o mundo.",
+      "referencias": [
+        "Jeremias 51:7",
+        "Apocalipse 17:9"
+      ],
+      "comentario": "Esta é a primeira chave hermenêutica: as feras equivalem a reinos. O foco está na sucessão e na geopolítica mundial, mostrando que a história humana é guiada por um plano divino, mesmo que pareça caótica.",
+      "temas": [
+        "Simbolismo de Reinos",
+        "Sucessão Histórica",
+        "Governo Terreno"
+      ],
+      "personagens": [
+        "Daniel"
+      ]
     },
     "18": {
-      "parafrase": "'Mas os santos do Altíssimo receberão o reino e o possuirão para todo o sempre, sim, para todo o sempre.'",
-      "references": [],
-      "comentario": "Os santos do Altíssimo (o povo de Deus) receberão o reino e o possuirão para sempre. O reino de Deus é para Seu povo fiel.",
-      "temas": ["santos", "Altíssimo", "reino", "possessão", "eternidade"],
-      "personagens": []
+      "parafrase": "Contudo, após esses grandes impérios, o Reino verdadeiro será estabelecido. Será o Reino dos Santos do Altíssimo, e eles o possuirão, mantendo a posse soberana para sempre, por toda a eternidade.",
+      "referencias": [
+        "Apocalipse 11:15",
+        "1 Coríntios 15:24"
+      ],
+      "comentario": "O contraste final: os reinos terrenos são temporários (vers. 12), mas o Reino dos 'Santos do Altíssimo' (חֲסִידַיָּא - 'hasidayya') é perpétuo. Isto aponta para a consumação escatológica, onde o povo redimido de Deus herdará o domínio.",
+      "temas": [
+        "Reino dos Santos",
+        "Eternidade",
+        "Consumação Escatológica"
+      ],
+      "personagens": [
+        "Daniel",
+        "Santos"
+      ]
     },
     "19": {
-      "parafrase": "'Então eu quis saber a verdade a respeito da quarta besta, que era diferente de todas as outras, extremamente terrível, cujos dentes eram de ferro e suas unhas de bronze; que devorava, quebrava em pedaços e pisoteava o restante com os seus pés;\n    "20": {
-      "parafrase": "e a respeito dos dez chifres que estavam em sua cabeça, e do outro chifre que subiu, e diante do qual três caíram; sim, daquele chifre que tinha olhos, e uma boca que falava grandes coisas, e cuja aparência era mais forte do que a de seus companheiros.'",
-      "references": [],
-      "comentario": "Daniel busca uma interpretação mais detalhada da quarta besta e do chifre pequeno, que são os mais enigmáticos e ameaçadores. Sua curiosidade é sobre o futuro.",
-      "temas": ["quarta besta", "dez chifres", "chifre pequeno", "interpretação", "futuro"],
-      "personagens": ["Daniel"]
+      "parafrase": "Então, Daniel sentiu uma necessidade urgente de compreender a quarta besta em particular, pois ela era incomparavelmente mais assustadora do que as três anteriores, com seus dentes de ferro e suas garras que esmagavam tudo, e os dez chifres que ele havia contado.",
+      "referencias": [
+        "Daniel 7:7",
+        "Apocalipse 17:3"
+      ],
+      "comentario": "Daniel foca no quarto império porque ele é o mais recente no tempo da visão e o que precede imediatamente a consumação final. Sua natureza brutal (ferro e esmagamento) exige uma explicação mais detalhada sobre seu fim.",
+      "temas": [
+        "Foco no Último Império",
+        "Crueldade Política",
+        "Sede de Entendimento"
+      ],
+      "personagens": [
+        "Daniel"
+      ]
+    },
+    "20": {
+      "parafrase": "Ele pediu esclarecimento especificamente sobre os dez chifres daquela fera aterrorizante e sobre o chifre pequeno, aquele que surgiu por último, derrubando três dos outros, e que tinha olhos e uma boca que falava com tanta altivez.",
+      "referencias": [
+        "Daniel 7:8",
+        "2 Pedro 2:18"
+      ],
+      "comentario": "A pergunta de Daniel se concentra nos elementos centrais da opressão final: a estrutura de dez potências (dez chifres) e o agente de blasfêmia (o chifre pequeno). Os olhos e a boca soberba são marcas de seu caráter opressor.",
+      "temas": [
+        "Identificação de Poderes",
+        "Blasfêmia",
+        "Estrutura Política Final"
+      ],
+      "personagens": [
+        "Daniel"
+      ]
     },
     "21": {
-      "parafrase": "'Eu olhei, e o mesmo chifre fazia guerra contra os santos e prevalecia contra eles,\n    "22": {
-      "parafrase": "até que o Ancião de Dias veio, e o juízo foi dado aos santos do Altíssimo; e o tempo chegou para os santos possuírem o reino.'",
-      "references": [],
-      "comentario": "O chifre pequeno fará guerra contra os santos, mas o Ancião de Dias virá e dará o juízo aos santos, e eles possuirão o reino. A vitória final é de Deus e de Seu povo.",
-      "temas": ["chifre pequeno", "guerra", "santos", "Ancião de Dias", "juízo divino", "reino", "vitória"],
-      "personagens": []
+      "parafrase": "Enquanto Daniel observava, viu que aquele chifre pequeno estava travando uma guerra violenta contra os santos, os fiéis de Deus, e conseguia derrotá-los e subjugá-los com força.",
+      "referencias": [
+        "Apocalipse 13:7",
+        "1 João 2:18"
+      ],
+      "comentario": "Esta é a prova da natureza maligna do chifre pequeno: ele persegue ativamente e tem sucesso contra 'os santos' (קַדִּישַׁיָא - 'qaddishayya'). A perseguição aos crentes é uma característica definidora do poder anticristão.",
+      "temas": [
+        "Perseguição Religiosa",
+        "Guerra Contra os Santos",
+        "Triunfo Temporário do Mal"
+      ],
+      "personagens": [
+        "Daniel",
+        "Santos"
+      ]
+    },
+    "22": {
+      "parafrase": "No entanto, a vitória deste opressor seria curta, pois o Ancião de Dias chegou ao Seu tribunal antes que o chifre pequeno pudesse consolidar seu poder. Foi decretado então que o julgamento final seria feito a favor dos santos do Altíssimo.",
+      "referencias": [
+        "Judas 1:14",
+        "Apocalipse 6:10"
+      ],
+      "comentario": "O clímax da justiça: o julgamento celestial intervém antes que a opressão se complete ('até que o Ancião de Dias veio'). Isto garante aos crentes que Deus age em seu favor no tempo certo.",
+      "temas": [
+        "Intervenção Divina",
+        "Justiça Restituidora",
+        "Triunfo da Fé"
+      ],
+      "personagens": [
+        "Daniel",
+        "Ancião de Dias",
+        "Santos"
+      ]
     },
     "23": {
-      "parafrase": "'Assim ele disse: A quarta besta será o quarto reino na terra, que será diferente de todos os reinos, e devorará toda a terra, e a pisoteará, e a quebrará em pedaços.'",
-      "references": [],
-      "comentario": "A quarta besta é interpretada como o quarto reino na terra, que será diferente e destruirá toda a terra. Sua força é implacável.",
-      "temas": ["quarta besta", "reino", "destruição", "força"],
-      "personagens": []
+      "parafrase": "O ser explicativo então esclareceu: a quarta besta, aquele quarto reino aterrorizante, dominará toda a terra, pisoteando-a e subjugando todos os outros povos sob seu domínio colossal.",
+      "referencias": [
+        "Apocalipse 13:15",
+        "1 Tessalonicenses 5:3"
+      ],
+      "comentario": "Confirmação da extensão universal do quarto império (Roma e seus desdobramentos). A frase 'comerá toda a terra' enfatiza a dominação total, econômica e política, algo que nem Babilônia nem Grécia alcançaram completamente.",
+      "temas": [
+        "Domínio Global",
+        "Universalidade do Quarto Império",
+        "Destino das Nações"
+      ],
+      "personagens": [
+        "Daniel"
+      ]
     },
     "24": {
-      "parafrase": "'E os dez chifres daquele reino são dez reis que se levantarão; e outro se levantará depois deles; e ele será diferente dos primeiros, e humilhará três reis.'",
-      "references": [],
-      "comentario": "Os dez chifres são interpretados como dez reis, e o chifre pequeno como outro rei que se levantará e humilhará três reis. A interpretação é específica e profética.",
-      "temas": ["dez chifres", "reis", "chifre pequeno", "humilhação", "profecia"],
-      "personagens": []
+      "parafrase": "Quanto aos dez chifres, eles representam dez reis que se levantarão daquele mesmo reino. E depois deles, surgirá um décimo primeiro rei, diferente de todos os outros, que derrubará três dos dez originais e exibirá uma atitude de extrema rebeldia contra o Deus Altíssimo.",
+      "referencias": [
+        "Apocalipse 17:12",
+        "Daniel 11:36"
+      ],
+      "comentario": "Aqui, a interpretação dos dez chifres (dez reis/poderes) e o subsequente chifre pequeno (o décimo primeiro, que anula três) é explicitada. O chifre pequeno é caracterizado por sua oposição direta a Deus ('falará contra o Altíssimo').",
+      "temas": [
+        "Dez Reis",
+        "Anticristo",
+        "Rebelião Teológica"
+      ],
+      "personagens": [
+        "Daniel"
+      ]
     },
     "25": {
-      "parafrase": "'E ele falará palavras contra o Altíssimo, e oprimirá os santos do Altíssimo, e pensará em mudar os tempos e a lei; e eles serão entregues em sua mão por um tempo, e tempos, e a divisão de um tempo.'",
-      "references": [],
-      "comentario": "O chifre pequeno falará contra Deus, oprimirá os santos e tentará mudar os tempos e a lei. Ele terá poder por um período limitado, mas determinado por Deus. A blasfêmia e a perseguição são características.",
-      "temas": ["chifre pequeno", "blasfêmia", "opressão", "santos", "tempos e lei", "perseguição"],
-      "personagens": []
+      "parafrase": "Este rei ímpio tentará alterar os tempos e as leis estabelecidas por Deus. Ele perseguirá os santos por um longo período, mas não prevalecerá, pois o seu poder será limitado por um tempo, um período e meio tempo. Ele será silenciado até que o julgamento celestial chegue.",
+      "referencias": [
+        "Apocalipse 13:5",
+        "Gálatas 3:24"
+      ],
+      "comentario": "O clímax da tirania: não apenas política, mas uma tentativa de reescrever a ordem moral e temporal divina. A duração de sua perseguição é dada na famosa unidade de tempo profético: 'um tempo, tempos e meio tempo' (מוֹעֵד, מוֹעֲדַיָּא וַחֲצִי - 'mo'ed, mo'adayya ve'chatzi'), frequentemente interpretada como 3 anos e meio literais ou 1260 dias proféticos, marcando o limite temporal imposto por Deus à sua impiedade.",
+      "temas": [
+        "Alteração da Lei",
+        "Período de Tribulação",
+        "Limites de Deus"
+      ],
+      "personagens": [
+        "Daniel"
+      ]
     },
     "26": {
-      "parafrase": "'Mas o juízo se assentará, e eles tirarão o seu domínio, para consumi-lo e destruí-lo até o fim.'",
-      "references": [],
-      "comentario": "O juízo divino será estabelecido, e o domínio do chifre pequeno será tirado e destruído até o fim. A vitória final é de Deus.",
-      "temas": ["juízo divino", "domínio", "destruição", "fim", "vitória"],
-      "personagens": []
+      "parafrase": "E o quarto reino, aquele que devoraria toda a terra com sua força bruta, seria um império de um poder avassalador, diferente de todos os anteriores. Ele não se contentaria em dominar apenas uma região; sua ambição seria subjugar o mundo inteiro. Mas, ao atingir o auge de sua soberba e domínio, ele seria repentinamente quebrado, não por um esforço humano direto, mas como um castigo divino, sendo desmantelado em pedaços menores e fragmentados. 🔥",
+      "referencias": [
+        "Apocalipse 13:2",
+        "Apocalipse 17:12"
+      ],
+      "comentario": "O 'quarto animal' (o império futuro) é descrito como 'terrível e espantoso' (verso 7) e aqui sua principal característica é a destruição total ('devorará toda a terra'). O hebraico para 'esmagar' ou 'triturar' (dâkâ) sugere uma aniquilação completa. A quebra repentina ('será quebrado') no fim, sem a intervenção de outro poder gigantesco, aponta para um julgamento direto de Deus (ver Daniel 2:44), contrastando com a forma como os impérios anteriores foram sucedidos por outros.",
+      "temas": [
+        "Julgamento Divino",
+        "Soberania de Deus",
+        "Destruição do Mal"
+      ],
+      "personagens": [
+        "O Quarto Império"
+      ]
     },
     "27": {
-      "parafrase": "'E o reino, e o domínio, e a grandeza dos reinos debaixo de todo o céu serão dados ao povo dos santos do Altíssimo; o seu reino é um reino eterno, e todos os domínios o servirão e obedecerão.'",
-      "references": [],
-      "comentario": "O reino eterno e universal será dado aos santos do Altíssimo, e todos os domínios os servirão e obedecerão. O reino de Deus prevalecerá sobre todos os reinos terrenos.",
-      "temas": ["reino eterno", "domínio", "santos", "Altíssimo", "serviço", "obediência"],
-      "personagens": []
+      "parafrase": "Então, o reino e o poder, e a grandeza de todos os impérios debaixo do céu — todo o domínio sobre os povos — serão entregues definitivamente ao Santo Povo, ao grupo escolhido do Altíssimo. O reinado deste povo será eterno, e todos os governantes da Terra se curvarão em adoração e obediência a Ele. Este será um Reino que jamais cairá ou será substituído por outro. 👑",
+      "referencias": [
+        "Lucas 1:32-33",
+        "Apocalipse 11:15",
+        "Isaías 9:7"
+      ],
+      "comentario": "Este é o clímax da profecia de Daniel: a transição final do poder humano para o Reino de Deus. O termo 'povo santo do Altíssimo' (qaddishon 'elyon) refere-se ao Israel redimido ou, no contexto messiânico, à Igreja, o corpo de Cristo. A posse do reino é 'dada' (naphlah), indicando um ato soberano e imutável de transferência de autoridade, que se realiza plenamente com a Segunda Vinda de Cristo. A promessa de um reino eterno é a resposta definitiva ao ciclo de ascensão e queda dos impérios bestiais.",
+      "temas": [
+        "Reino Eterno",
+        "Sucessão do Poder",
+        "A Santidade do Povo de Deus"
+      ],
+      "personagens": [
+        "O Santo Povo",
+        "Altíssimo"
+      ]
     },
     "28": {
-      "parafrase": "Até aqui é o fim do assunto. Quanto a mim, Daniel, meus pensamentos me perturbaram muito, e meu semblante mudou em mim; mas guardei o assunto em meu coração.",
-      "references": [],
-      "comentario": "Daniel fica perturbado com a visão, mas guarda o assunto em seu coração. A revelação é profunda e impactante, mas ele a retém para meditação.",
-      "temas": ["perturbação", "visão", "guarda no coração", "meditação", "impacto"],
-      "personagens": ["Daniel"]
+      "parafrase": "A partir deste ponto, a narrativa chega ao seu final, e o relato se encerra. Quanto a mim, Daniel, fiquei profundamente abalado e aterrorizado por essas visões monumentais, e meu rosto empalideceu com o medo. Fiquei em silêncio por um longo tempo, absorvendo o peso dessas revelações terríveis e maravilhosas, guardando-as para mim até o momento certo de compartilhá-las. 😨",
+      "referencias": [
+        "Daniel 8:27",
+        "Apocalipse 10:4"
+      ],
+      "comentario": "Este versículo serve como um epílogo pessoal do profeta. A reação de Daniel ('meu semblante se mudou', 'me perturbou') mostra o peso da revelação. A visão de impérios mundiais sendo esmagados e o Reino eterno sendo estabelecido não era apenas informação acadêmica, mas um evento esmagador. O silêncio subsequente era necessário para processar o terror e a glória vistos, um reflexo comum em profetas ao receberem revelações apocalípticas (como Isaías ou João).",
+      "temas": [
+        "A Reação Humana à Revelação",
+        "Apocalipse",
+        "O Peso da Profecia"
+      ],
+      "personagens": [
+        "Daniel"
+      ]
     }
   }
 }

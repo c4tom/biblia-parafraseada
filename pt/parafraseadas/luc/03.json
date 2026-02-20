@@ -1,274 +1,617 @@
 {
   "livro": "Lucas",
   "capitulo": 3,
-  "contexto_historico": "Este capítulo situa o ministério de João Batista no contexto histórico e político de sua época, descrevendo sua pregação do arrependimento e seu batismo no rio Jordão. Ele também narra o batismo de Jesus por João e a genealogia de Jesus, traçando Sua linhagem até Adão, enfatizando Sua humanidade e Sua conexão com toda a humanidade.",
-  "bloco_tematico": "O Ministério de João Batista, o Batismo de Jesus e Sua Genealogia",
+  "contexto_historico": "O capítulo 3 de Lucas se situa no início do ministério de João Batista, que preparava o caminho para Jesus. Este período (por volta de 26-36 d.C.) é marcado pela administração romana na Judeia (Pôncio Pilatos) e pela liderança dos sumos sacerdotes (Anas e Caifás). A pregação de João, focada no arrependimento e no batismo para o perdão dos pecados, cria um fervor messiânico e gera questionamentos sobre a autoridade, tanto religiosa quanto política, o que culminará com o batismo de Jesus e o início público do seu ministério. O capítulo termina com a genealogia de Jesus, ligando-o a Adão, o primeiro homem, e, por fim, a Deus, enfatizando sua humanidade universal e sua origem divina. 📜👑",
+  "bloco_tematico": "O Chamado ao Arrependimento e a Linhagem Divina de Cristo 📢🌳",
   "versiculos": {
     "1": {
-      "parafrase": "No décimo quinto ano do reinado de Tibério César, sendo Pôncio Pilatos governador da Judeia, Herodes tetrarca da Galileia, seu irmão Filipe tetrarca da Itureia e da região de Traconites, e Lisânias tetrarca de Abilene,",
-      "referencias": [],
-      "comentario": "Lucas situa o ministério de João Batista em um contexto histórico e político preciso, usando várias autoridades romanas e locais. Isso demonstra a precisão histórica de Lucas e a importância dos eventos que ele narra.",
-      "temas": ["contexto histórico", "governo romano", "datação"],
-      "personagens": ["Tibério César", "Pôncio Pilatos", "Herodes", "Filipe", "Lisânias"]
+      "parafrase": "No décimo quinto ano do reinado do imperador Tibério, quando Pôncio Pilatos governava a Judeia, e Herodes era o tetraca (governante local) da Galileia, seu irmão Filipe governava a Itureia e a província vizinha de Traconítide, e Lisânias administrava Abilino; tudo isso enquanto Anás e Caifás eram os Sumos Sacerdotes em Jerusalém, a Palavra de Deus desceu sobre João, filho de Zacarias, que estava no deserto.",
+      "referencias": [
+        "Lucas 1:5",
+        "Atos 4:6"
+      ],
+      "comentario": "Lucas é meticuloso ao datar o início do ministério de João Batista, ancorando-o em eventos políticos e históricos precisos. Isso confere autoridade e historicidade ao relato. A menção de Anás e Caifás como Sumos Sacerdotes, apesar de Caifás ser o oficial na época, aponta para a contínua influência de Anás (sogro de Caifás), indicando a complexa estrutura de poder religioso judaico.",
+      "temas": [
+        "Contexto Histórico",
+        "Autoridade de João Batista",
+        "Estrutura de Poder"
+      ],
+      "personagens": [
+        "Tibério",
+        "Pôncio Pilatos",
+        "Herodes",
+        "Filipe",
+        "Lisânias",
+        "Anás",
+        "Caifás",
+        "João Batista"
+      ]
     },
     "2": {
-      "parafrase": "sendo Anás e Caifás sumos sacerdotes, a palavra de Deus veio a João, filho de Zacarias, no deserto.",
-      "referencias": ["Mateus 3:1", "Marcos 1:4"],
-      "comentario": "A palavra de Deus vem a João Batista no deserto, um lugar de isolamento e preparação. A menção de Anás e Caifás como sumos sacerdotes destaca a corrupção religiosa da época, em contraste com a autenticidade de João.",
-      "temas": ["palavra de Deus", "João Batista", "deserto", "sacerdócio"],
-      "personagens": ["João Batista", "Anás", "Caifás"]
+      "parafrase": "Sob a autoridade direta de Deus, a mensagem foi entregue a João, que recebeu a missão divina enquanto se encontrava isolado no deserto.",
+      "referencias": [
+        "Isaías 40:3",
+        "Ezequiel 1:3"
+      ],
+      "comentario": "O termo grego para 'a Palavra de Deus veio' (ἐγένετο ῥῆμα Θεοῦ) enfatiza uma intervenção direta e sobrenatural, uma 'chamada' ou 'revelação'. O deserto não era apenas um local físico, mas um espaço de pureza e preparação espiritual, seguindo o modelo profético.",
+      "temas": [
+        "Revelação Divina",
+        "Vocação Profética",
+        "Isolamento Espiritual"
+      ],
+      "personagens": [
+        "João Batista"
+      ]
     },
     "3": {
-      "parafrase": "E ele foi por toda a região do Jordão, pregando o batismo de arrependimento para o perdão dos pecados,",
-      "referencias": ["Marcos 1:4"],
-      "comentario": "João Batista inicia seu ministério, pregando um batismo que simboliza o arrependimento e a purificação dos pecados, preparando o povo para o Messias.",
-      "temas": ["batismo de arrependimento", "perdão de pecados", "pregação"],
-      "personagens": ["João Batista"]
+      "parafrase": "Então, João percorreu toda a região ao redor do Rio Jordão, pregando uma mensagem urgente de arrependimento, convidando todos a mudarem radicalmente o seu modo de viver para que pudessem receber o perdão dos pecados.",
+      "referencias": [
+        "Mateus 3:1",
+        "Marcos 1:4"
+      ],
+      "comentario": "O batismo que ele oferecia era um 'batismo de arrependimento' (βαπτισμα μετανοιας). O verbo grego para arrependimento, 'metanoia', significa uma mudança completa de mente e direção, não apenas um sentimento superficial.",
+      "temas": [
+        "Arrependimento",
+        "Batismo",
+        "Pregação"
+      ],
+      "personagens": [
+        "João Batista"
+      ]
     },
     "4": {
-      "parafrase": "como está escrito no livro das palavras do profeta Isaías: 'Voz do que clama no deserto: Preparem o caminho do Senhor, endireitem as suas veredas.'",
-      "referencias": ["Isaías 40:3"],
-      "comentario": "Lucas identifica João Batista como o cumprimento da profecia de Isaías, o mensageiro que prepararia o caminho para a vinda do Senhor. A preparação envolve uma mudança de vida e de coração.",
-      "temas": ["cumprimento da profecia", "preparação", "caminho do Senhor"],
-      "personagens": ["João Batista"]
+      "parafrase": "Seguindo a antiga profecia registrada pelo profeta Isaías, João declarava: 'Preparem o caminho para o Senhor! Abram estradas retas no deserto para que Ele possa vir!'",
+      "referencias": [
+        "Isaías 40:3",
+        "Marcos 1:3"
+      ],
+      "comentario": "Esta é a fundamentação teológica da missão de João. Ele se posiciona como o precursor, aquele que prepara o cenário terreno para a chegada iminente do Messias, o 'Senhor' (Kyrios).",
+      "temas": [
+        "Profecia Cumprida",
+        "Preparação Messianica",
+        "O Caminho do Senhor"
+      ],
+      "personagens": [
+        "Isaías",
+        "João Batista"
+      ]
     },
     "5": {
-      "parafrase": "'Todo vale será aterrado, e todo monte e colina serão nivelados. Os caminhos tortuosos se tornarão retos, e os lugares ásperos, planos.'",
-      "referencias": [],
-      "comentario": "A preparação do caminho para o Senhor envolve a remoção de obstáculos, tanto físicos quanto espirituais. Isso simboliza a necessidade de arrependimento e de uma vida reta.",
-      "temas": ["preparação", "arrependimento", "retidão"],
-      "personagens": []
+      "parafrase": "Cada vale que agora é depressão deve ser elevado à altura; toda montanha e colina que agora se destaca devem ser rebaixadas. Os caminhos sinuosos e tortuosos devem ser endireitados, e as superfícies ásperas devem ser transformadas em caminhos lisos.",
+      "referencias": [
+        "Isaías 40:4"
+      ],
+      "comentario": "Esta metáfora topográfica descreve a transformação social e espiritual necessária. Os vales representam as pessoas humildes e esquecidas que serão exaltadas; as montanhas representam os orgulhosos e poderosos que devem ser humilhados pelo julgamento e pela nova ordem.",
+      "temas": [
+        "Transformação Espiritual",
+        "Juízo",
+        "Humildade e Exaltação"
+      ],
+      "personagens": [
+        "João Batista"
+      ]
     },
     "6": {
-      "parafrase": "'E toda a humanidade verá a salvação de Deus.'",
-      "referencias": ["Isaías 52:10"],
-      "comentario": "A salvação de Deus será universal, visível para toda a humanidade, não apenas para Israel. Isso enfatiza a natureza inclusiva do evangelho.",
-      "temas": ["salvação universal", "evangelho", "inclusão"],
-      "personagens": []
+      "parafrase": "E o resultado dessa preparação será que toda a humanidade verá a glória salvadora de Deus se manifestar plenamente.",
+      "referencias": [
+        "Isaías 40:5",
+        "Salmos 98:2"
+      ],
+      "comentario": "O objetivo final não é apenas a mudança interna, mas a revelação visível da salvação de Deus a todos os povos, indicando um alcance universal da obra vindoura.",
+      "temas": [
+        "Glória de Deus",
+        "Salvação Universal"
+      ],
+      "personagens": [
+        "João Batista"
+      ]
     },
     "7": {
-      "parafrase": "João dizia às multidões que vinham para ser batizadas por ele: 'Raça de víboras! Quem lhes ensinou a fugir da ira que está para vir?'",
-      "referencias": ["Mateus 3:7"],
-      "comentario": "João confronta as multidões por sua hipocrisia, questionando sua motivação para o batismo. Ele os chama de \"raça de víboras\", indicando sua natureza pecaminosa e a iminência do juízo.",
-      "temas": ["confronto", "hipocrisia", "ira vindoura", "arrependimento"],
-      "personagens": ["João Batista"]
+      "parafrase": "João se dirigiu com vigor à multidão que vinha ao seu encontro para ser batizada, e disse: 'Descendentes de serpentes venenosas! Quem os avisou para fugirem da ira que está para vir sobre vocês?'",
+      "referencias": [
+        "Mateus 3:7",
+        "Gênesis 3:15"
+      ],
+      "comentario": "Esta é uma repreensão dura dirigida primariamente aos fariseus e saduceus que vinham buscando o batismo sem frutos visíveis de arrependimento. A metáfora da 'prole de víboras' (ἔχιδναι) era um insulto severo, sugerindo descendência espiritual do mal.",
+      "temas": [
+        "Julgamento Iminente",
+        "Falsa Piedade",
+        "Confrontação"
+      ],
+      "personagens": [
+        "João Batista",
+        "Multidão"
+      ]
     },
     "8": {
-      "parafrase": "'Produzam, pois, frutos dignos de arrependimento. E não pensem que podem dizer a si mesmos: \'Temos Abraão por pai.\' Pois eu lhes digo que, destas pedras, Deus pode levantar filhos a Abraão.'",
-      "referencias": ["Mateus 3:8-9"],
-      "comentario": "João exige que o arrependimento seja demonstrado por ações concretas e visíveis, não apenas por rituais externos. A verdadeira filiação a Abraão é espiritual, baseada na fé e no arrependimento, e Deus pode criar filhos para Abraão de qualquer lugar.",
-      "temas": ["frutos do arrependimento", "descendência espiritual", "poder de Deus"],
-      "personagens": ["João Batista"]
+      "parafrase": "Portanto, provem com suas ações que vocês estão realmente arrependidos, e não confiem apenas no fato de serem descendentes de Abraão. Eu lhes digo, Deus pode levantar filhos para Abraão a partir destas pedras, se assim desejar!",
+      "referencias": [
+        "Mateus 3:9",
+        "Romanos 9:7"
+      ],
+      "comentario": "João ataca o legalismo e o nacionalismo religioso. A descendência física de Abraão não era garantia automática de bênção divina. O foco deve estar na evidência prática do arrependimento (fruto), e não na herança genética ou religiosa.",
+      "temas": [
+        "Fé Versus Linagem",
+        "Frutos do Arrependimento",
+        "Soberania de Deus"
+      ],
+      "personagens": [
+        "João Batista",
+        "Abraão"
+      ]
     },
     "9": {
-      "parafrase": "'O machado já está posto à raiz das árvores, e toda árvore que não produz bom fruto será cortada e lançada ao fogo.'",
-      "referencias": ["Mateus 3:10"],
-      "comentario": "O juízo é iminente e severo. A metáfora do machado na raiz indica que a destruição está próxima para aqueles que não produzem frutos de arrependimento. O fogo simboliza a condenação.",
-      "temas": ["juízo iminente", "frutos", "condenação"],
-      "personagens": ["João Batista"]
+      "parafrase": "O machado já está pronto, encostado na raiz das árvores. Qualquer árvore que não produz bom fruto será cortada e lançada no fogo.",
+      "referencias": [
+        "Mateus 3:10",
+        "João 15:6"
+      ],
+      "comentario": "A metáfora do machado (σκίπων) indica que o julgamento é iminente e decisivo. A árvore que não frutifica é aquela cuja profissão de fé não se manifesta em vida transformada.",
+      "temas": [
+        "Julgamento Imediato",
+        "Produtividade Espiritual"
+      ],
+      "personagens": [
+        "João Batista"
+      ]
     },
     "10": {
-      "parafrase": "As multidões lhe perguntavam: 'Que devemos fazer, então?'",
-      "referencias": [],
-      "comentario": "A pergunta da multidão revela seu desejo de saber como agir em resposta à pregação de João. Eles buscam orientação prática.",
-      "temas": ["orientação", "ação", "arrependimento"],
-      "personagens": []
+      "parafrase": "A multidão, confusa e interrogando, perguntou: 'Então, o que devemos fazer? Qual a nossa obrigação agora?'",
+      "referencias": [
+        "Atos 2:37"
+      ],
+      "comentario": "Esta pergunta demonstra que a pregação de João foi eficaz, gerando um genuíno desejo de mudança prática.",
+      "temas": [
+        "Busca por Direção",
+        "Arrependimento Prático"
+      ],
+      "personagens": [
+        "Multidão",
+        "João Batista"
+      ]
     },
     "11": {
-      "parafrase": "Ele lhes respondia: 'Quem tem duas túnicas, divida com quem não tem; e quem tem comida, faça o mesmo.'",
-      "referencias": ["Lucas 19:8"],
-      "comentario": "João ensina a prática da justiça social e da generosidade, que são frutos do arrependimento. A partilha de bens é uma demonstração de amor ao próximo.",
-      "temas": ["justiça social", "generosidade", "partilha"],
-      "personagens": ["João Batista"]
+      "parafrase": "João respondeu a todos: 'Aquele que tiver duas túnicas, dê uma para quem não tem nenhuma. Quem tiver comida, compartilhe com o faminto.'",
+      "referencias": [
+        "Tiago 2:15-16"
+      ],
+      "comentario": "A resposta de João foca na justiça social e na caridade prática como manifestações do verdadeiro arrependimento. Não era um apelo para doar o supérfluo, mas para dividir o necessário.",
+      "temas": [
+        "Caridade",
+        "Justiça Social",
+        "Evidência de Fé"
+      ],
+      "personagens": [
+        "João Batista"
+      ]
     },
     "12": {
-      "parafrase": "Também vieram cobradores de impostos para serem batizados e lhe perguntaram: 'Mestre, que devemos fazer?'",
-      "referencias": [],
-      "comentario": "Cobradores de impostos, que eram desprezados e conhecidos por sua corrupção, também buscam o batismo e a orientação de João, mostrando a abrangência de sua mensagem.",
-      "temas": ["cobradores de impostos", "corrupção", "orientação"],
-      "personagens": ["Cobradores de impostos"]
+      "parafrase": "Até mesmo os coletores de impostos, conhecidos como publicanos, vieram para serem batizados e perguntaram, cautelosos: 'Mestre, e nós, o que devemos praticar?'",
+      "referencias": [
+        "Lucas 19:2"
+      ],
+      "comentario": "Os publicanos eram odiados por serem vistos como traidores e ladrões, cobrando além do devido para enriquecerem. A vinda deles mostra que a mensagem de João alcançava até os párias sociais.",
+      "temas": [
+        "Conversão de Pecadores",
+        "Integridade Profissional"
+      ],
+      "personagens": [
+        "Publicanos",
+        "João Batista"
+      ]
     },
     "13": {
-      "parafrase": "Ele lhes disse: 'Não cobrem mais do que lhes foi ordenado.'",
-      "referencias": [],
-      "comentario": "João instrui os cobradores de impostos a serem justos e honestos em sua profissão, não extorquindo o povo. A justiça é essencial para o arrependimento.",
-      "temas": ["justiça", "honestidade", "extorsão"],
-      "personagens": ["João Batista"]
+      "parafrase": "Ele lhes instruiu: 'Não exijam mais do que o valor estabelecido; não enganem ninguém, cobrando a mais por meio de chantagem ou fraude.'",
+      "referencias": [
+        "Deuteronômio 24:14"
+      ],
+      "comentario": "O foco para os publicanos é a restituição e a honestidade no exercício de seu ofício opressor. A ética do Reino exigia a cessação imediata da exploração.",
+      "temas": [
+        "Restituição",
+        "Ética Profissional",
+        "Honestidade"
+      ],
+      "personagens": [
+        "João Batista",
+        "Publicanos"
+      ]
     },
     "14": {
-      "parafrase": "E os soldados também lhe perguntaram: 'E nós, que devemos fazer?' Ele lhes disse: 'Não extorquam dinheiro de ninguém com ameaças ou falsas acusações, e contentem-se com o seu salário.'",
-      "referencias": [],
-      "comentario": "João instrui os soldados a não abusarem de seu poder para extorquir dinheiro ou fazer falsas acusações. Eles devem ser justos e contentes com o que têm.",
-      "temas": ["justiça", "não extorquir", "contentamento"],
-      "personagens": ["João Batista"]
+      "parafrase": "Soldados do exército romano também se aproximaram, questionando-o: 'E nós, o que faremos para demonstrar nossa mudança de vida?' João lhes deu uma ordem direta: 'Não intimidem ninguém com violência, nem denunciem falsamente as pessoas por dinheiro; contentem-se com o seu soldo.'",
+      "referencias": [
+        "1 Timóteo 3:8"
+      ],
+      "comentario": "Os soldados (provavelmente soldados do exército de Herodes, não legionários romanos, embora o termo seja amplo) eram conhecidos por seu uso de força e extorsão. João exige que abandonem a mentalidade militar abusiva e sejam satisfeitos com o que é justamente devido (o salário).",
+      "temas": [
+        "Uso de Poder",
+        "Contentamento",
+        "Disciplina Militar Ética"
+      ],
+      "personagens": [
+        "Soldados",
+        "João Batista"
+      ]
     },
     "15": {
-      "parafrase": "Ora, o povo estava em expectativa, e todos se perguntavam em seus corações se João não seria o Messias.",
-      "referencias": ["João 1:19-20"],
-      "comentario": "A pregação e o ministério de João Batista geram grande expectativa entre o povo, que se pergunta se ele seria o Messias prometido.",
-      "temas": ["expectativa", "Messias", "identidade"],
-      "personagens": []
+      "parafrase": "Enquanto o povo estava imerso na expectativa e todos se perguntavam interiormente se João seria, de fato, o Cristo (o Ungido prometido), João interveio para esclarecer a todos.",
+      "referencias": [
+        "Mateus 3:11",
+        "João 1:19-28"
+      ],
+      "comentario": "A popularidade de João gerou especulações messiânicas. Lucas enfatiza que a multidão estava em um estado de antecipação espiritual, o que torna a negação subsequente de João ainda mais impactante.",
+      "temas": [
+        "Expectativa Messiânica",
+        "Identidade de João"
+      ],
+      "personagens": [
+        "João Batista",
+        "Povo"
+      ]
     },
     "16": {
-      "parafrase": "João respondeu a todos, dizendo: 'Eu os batizo com água, mas aquele que é mais poderoso do que eu vem, cujas correias das sandálias não sou digno de desatar. Ele os batizará com o Espírito Santo e com fogo.'",
-      "referencias": ["Mateus 3:11", "Marcos 1:7-8"],
-      "comentario": "João contrasta seu próprio batismo com água (para arrependimento) com o batismo do Messias, que será com o Espírito Santo (capacitação e vida nova) e com fogo (purificação e juízo). Ele reafirma a superioridade de Jesus.",
-      "temas": ["batismo de Jesus", "Espírito Santo", "fogo", "superioridade de Jesus"],
-      "personagens": ["João Batista"]
+      "parafrase": "João declarou firmemente: 'Eu batizo vocês com água, sinalizando a mudança de coração que fizeram. Mas Aquele que vem depois de mim é muito superior a mim. Eu não sou digno nem sequer de desamarrar as correias de suas sandálias.'",
+      "referencias": [
+        "João 1:27",
+        "Atos 1:5"
+      ],
+      "comentario": "O contraste é claro: o batismo de João era limitado (água/arrependimento humano), enquanto o do vindouro seria com o Espírito Santo e fogo (capacitação divina). A expressão sobre as sandálias é o ápice da humildade, indicando que o trabalho servil de um escravo era indigno para ele em relação ao Messias.",
+      "temas": [
+        "Diferença entre Batismos",
+        "Humildade Extrema",
+        "Identidade do Messias"
+      ],
+      "personagens": [
+        "João Batista"
+      ]
     },
     "17": {
-      "parafrase": "'Ele tem a pá em sua mão, e limpará completamente a sua eira, e ajuntará o seu trigo no celeiro, mas queimará a palha com fogo inextinguível.'",
-      "referencias": ["Mateus 3:12"],
-      "comentario": "O Messias virá como um juiz que separará o trigo (os justos) da palha (os ímpios). O trigo será guardado, mas a palha será queimada com um fogo que não pode ser apagado, simbolizando o juízo final.",
-      "temas": ["juízo final", "separação", "trigo e palha", "fogo inextinguível"],
-      "personagens": ["João Batista"]
+      "parafrase": "Além disso, João acrescentou que Ele, o Vindouro, segura o leque do ceifador na mão, pronto para separar o trigo da palha. Ele limpará completamente seu local de adoração, ajuntando o trigo—o bom—em seu celeiro, e queimando a palha seca, que não serve para nada, em um fogo que jamais se apaga.",
+      "referencias": [
+        "Mateus 3:12",
+        "Malaquias 3:2-3"
+      ],
+      "comentario": "Esta é uma referência clara à imagem da ceifa e do tribunal final, onde o elemento purificador (o fogo do Espírito) será usado para separar os verdadeiros crentes (trigo) dos hipócritas (palha).",
+      "temas": [
+        "Juízo Final",
+        "Purificação",
+        "Separação"
+      ],
+      "personagens": [
+        "João Batista"
+      ]
     },
     "18": {
-      "parafrase": "E com muitas outras exortações, ele pregava o evangelho ao povo.",
-      "referencias": [],
-      "comentario": "João Batista continua a pregar o evangelho, preparando o povo para a vinda do Messias.",
-      "temas": ["pregação", "evangelho", "exortação"],
-      "personagens": ["João Batista"]
+      "parafrase": "Com muitas outras palavras de encorajamento e exortação, João anunciava as boas novas do Reino de Deus ao povo.",
+      "referencias": [
+        "Marcos 1:15"
+      ],
+      "comentario": "Enquanto o versículo anterior focava no julgamento, este retoma a ênfase na 'boa notícia' (Euangelion) do Reino que estava se estabelecendo através da figura do Messias que se aproximava.",
+      "temas": [
+        "Boas Novas",
+        "Reino de Deus"
+      ],
+      "personagens": [
+        "João Batista"
+      ]
     },
     "19": {
-      "parafrase": "Mas Herodes, o tetrarca, sendo repreendido por ele por causa de Herodias, esposa de seu irmão, e por todas as maldades que Herodes havia feito,",
-      "referencias": ["Mateus 14:3", "Marcos 6:17"],
-      "comentario": "João Batista confronta Herodes por seu pecado, demonstrando sua coragem profética. A repreensão de João é a causa de sua prisão.",
-      "temas": ["repreensão", "Herodes", "pecado", "coragem profética"],
-      "personagens": ["João Batista", "Herodes"]
+      "parafrase": "Contudo, o príncipe Herodes, o tetrarca, prendeu João e o manteve encarcerado, pois João havia repreendido Herodes por se casar com Herodias, a esposa de seu irmão, um ato que era ilegal e imoral.",
+      "referencias": [
+        "Mateus 14:3-5",
+        "Levítico 18:16"
+      ],
+      "comentario": "Este versículo introduz o drama pessoal que levou à prisão e posterior martírio de João. O casamento de Herodes com Herodias (sua cunhada) violava a Lei Judaica (Levítico). A prisão demonstra o conflito inevitável entre a autoridade moral e o poder político corrupto.",
+      "temas": [
+        "Conflito Moral e Político",
+        "Prisão do Profeta",
+        "Imoralidade Real"
+      ],
+      "personagens": [
+        "João Batista",
+        "Herodes",
+        "Herodias"
+      ]
     },
     "20": {
-      "parafrase": "acrescentou a todas elas esta: encerrou João na prisão.",
-      "referencias": ["Mateus 14:3"],
-      "comentario": "A prisão de João Batista é o resultado de sua fidelidade à verdade e da ira de Herodes.",
-      "temas": ["prisão", "fidelidade", "ira"],
-      "personagens": ["Herodes"]
+      "parafrase": "Embora Herodes tivesse muitas razões para se incomodar com João, ele sentia uma atração peculiar por ele e o mantinha vivo, pois sabia que João era um homem justo e santo, e, por isso, o ouvia com atenção, mesmo ficando perturbado.",
+      "referencias": [
+        "Marcos 6:20"
+      ],
+      "comentario": "Herodes é retratado como um homem dividido: ele aprecia a integridade e a verdade de João, mas seu medo do poder público e seu envolvimento pessoal com Herodias o impedem de libertá-lo ou matá-lo imediatamente.",
+      "temas": [
+        "Conflito Interior",
+        "Santidade Reconhecida",
+        "Cativeiro da Injustiça"
+      ],
+      "personagens": [
+        "Herodes",
+        "João Batista"
+      ]
     },
     "21": {
-      "parafrase": "Aconteceu que, sendo todo o povo batizado, Jesus também foi batizado. E, enquanto ele orava, o céu se abriu,",
-      "referencias": ["Mateus 3:13-17", "Marcos 1:9-11"],
-      "comentario": "Jesus é batizado por João, marcando o início de Seu ministério público. O batismo de Jesus é acompanhado por uma teofania, uma manifestação divina.",
-      "temas": ["batismo de Jesus", "início do ministério", "oração", "teofania"],
-      "personagens": ["Jesus"]
+      "parafrase": "No entanto, quando Herodes praticou atos ilegais de governo, João falava contra ele; e como resultado de todas as outras atrocidades que Herodes havia cometido, ele mantinha João preso.",
+      "referencias": [
+        "Atos 7:2"
+      ],
+      "comentario": "Lucas reforça que a prisão de João foi uma consequência direta de sua condenação pública dos pecados de Herodes, tornando-o um mártir precoce do ministério.",
+      "temas": [
+        "Martírio Profético",
+        "Consequências da Verdade"
+      ],
+      "personagens": [
+        "João Batista",
+        "Herodes"
+      ]
     },
     "22": {
-      "parafrase": "e o Espírito Santo desceu sobre ele em forma corpórea, como pomba; e veio uma voz do céu, dizendo: 'Tu és o meu Filho amado; em ti me agrado muito.'",
-      "referencias": [],
-      "comentario": "O Espírito Santo desce sobre Jesus em forma visível, e a voz do Pai celestial confirma a identidade de Jesus como Seu Filho amado e expressa Sua aprovação. Esta é a confirmação divina de Sua identidade messiânica.",
-      "temas": ["Espírito Santo", "voz do Pai", "Filho amado", "aprovação divina"],
-      "personagens": ["Espírito Santo", "Deus Pai"]
+      "parafrase": "Quando o povo foi batizado, e Jesus também veio para ser batizado, João rezou antes de realizar o rito. Após a oração, o próprio céu se abriu e o Espírito Santo desceu sobre Jesus em forma visível, semelhante a uma pomba, pousando sobre Ele.",
+      "referencias": [
+        "Mateus 3:16",
+        "Marcos 1:9-10"
+      ],
+      "comentario": "Este é o clímax do ministério de João Batista. Sua função de precursor é cumprida quando ele batiza Jesus. A oração de Jesus (embora não detalhada aqui) e a subsequente manifestação do Espírito são o selo divino da missão de Cristo. O termo grego para pomba é 'peristera'.",
+      "temas": [
+        "Batismo de Jesus",
+        "Manifestação do Espírito Santo",
+        "Trindade"
+      ],
+      "personagens": [
+        "João Batista",
+        "Jesus"
+      ]
     },
     "23": {
-      "parafrase": "Jesus, ao começar o seu ministério, tinha cerca de trinta anos, sendo, como se supunha, filho de José, filho de Eli,",
-      "referencias": [],
-      "comentario": "Lucas situa o início do ministério de Jesus aos trinta anos, a idade em que os sacerdotes e levitas começavam seu serviço. A genealogia de Jesus é apresentada, traçando Sua linhagem através de José, mas enfatizando Sua filiação divina.",
-      "temas": ["início do ministério", "idade", "genealogia", "filiação divina"],
-      "personagens": ["Jesus"]
+      "parafrase": "Neste exato momento, uma voz do alto, que vinha do próprio céu, ressoou e proclamou: 'Tu és o meu Filho amado, em quem encontrei a mais perfeita satisfação e prazer!'",
+      "referencias": [
+        "Salmos 2:7",
+        "Hebreus 5:5"
+      ],
+      "comentario": "Esta declaração do Pai é a confirmação tripartida da identidade de Jesus: Filho ('ho Theou'), amado ('agapētos') e o objeto do favor divino ('eudokēsa').",
+      "temas": [
+        "Filiação Divina",
+        "Aprovação Celestial",
+        "Chamado Messianico"
+      ],
+      "personagens": [
+        "Voz de Deus",
+        "Jesus"
+      ]
     },
     "24": {
-      "parafrase": "filho de Matate, filho de Levi, filho de Melqui, filho de Janai, filho de José,",
-      "referencias": [],
-      "comentario": "A genealogia continua, traçando a linhagem de Jesus.",
-      "temas": ["genealogia"],
-      "personagens": []
+      "parafrase": "Jesus, quando começou seu ministério público, tinha aproximadamente trinta anos de idade.",
+      "referencias": [
+        "Números 4:3"
+      ],
+      "comentario": "Lucas fornece uma idade específica, o que era relevante no contexto judaico, pois a idade de trinta anos era tradicionalmente a idade mínima para iniciar um ministério rabínico ou sacerdotal completo.",
+      "temas": [
+        "Início do Ministério",
+        "Maturação"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "25": {
-      "parafrase": "filho de Matatias, filho de Amós, filho de Naum, filho de Esli, filho de Nagai,",
-      "referencias": [],
-      "comentario": "A genealogia continua, mostrando a continuidade da linhagem.",
-      "temas": ["genealogia"],
-      "personagens": []
+      "parafrase": "Ele era filho de José, que, por sua vez, era filho de Eli, descendendo daí até Adão, o primeiro homem, passando por uma longa e ininterrupta cadeia de gerações.",
+      "referencias": [
+        "Mateus 1:1-16"
+      ],
+      "comentario": "Este versículo inicia a genealogia de Jesus, mas através da linha de sua mãe, Maria (embora genealogias judaicas geralmente traçassem a linha paterna, a tradição vê em Lucas a linha de Maria, ou a linhagem legal via José). Lucas traça a linhagem para trás, até Adão, enfatizando a humanidade universal de Cristo, em contraste com a genealogia de Mateus, que foca na linhagem real para cumprir as promessas feitas a Davi.",
+      "temas": [
+        "Genealogia",
+        "Humanidade de Cristo",
+        "Conexão com Adão"
+      ],
+      "personagens": [
+        "Jesus",
+        "José",
+        "Eli",
+        "Adão"
+      ]
     },
     "26": {
-      "parafrase": "filho de Maate, filho de Matatias, filho de Semei, filho de José, filho de Judá,",
-      "referencias": [],
-      "comentario": "A genealogia continua, mostrando a continuidade da linhagem.",
-      "temas": ["genealogia"],
-      "personagens": []
+      "parafrase": "Então, um espanto profundo tomou conta de todos os presentes, e eles começaram a murmurar entre si, questionando: 'Mas como pode ser isso? Este homem, que conhecemos como filho de José, o carpinteiro, não deveria ter vindo de uma linhagem tão humilde? De onde lhe vêm tamanha sabedoria e tais milagres?' 😲",
+      "referencias": [
+        "Marcos 6:3",
+        "João 6:42",
+        "Isaías 53:2"
+      ],
+      "comentario": "A reação de espanto ('estranheza', 'assombro') da comunidade de Nazaré é um espelho da incredulidade diante do profeta que surge em sua própria terra. O povo conhece a genealogia terrena de Jesus (filho de José, ou seja, reconhecido como tal), mas não consegue conciliar essa origem simples com o poder divino manifestado. O texto grego usa 'thaumazontas' (maravilhar-se).",
+      "temas": [
+        "Incredulidade Local",
+        "Origem Humana de Jesus",
+        "Assombro"
+      ],
+      "personagens": [
+        "Moradores de Nazaré"
+      ]
     },
     "27": {
-      "parafrase": "filho de Joanã, filho de Resa, filho de Zorobabel, filho de Salatiel, filho de Neri,",
-      "referencias": [],
-      "comentario": "A genealogia continua, incluindo Zorobabel, que foi um líder importante no retorno do exílio.",
-      "temas": ["genealogia", "Zorobabel"],
+      "parafrase": "Eles continuaram a se questionar, lembrando que, de fato, não eram os únicos a duvidar de um mensageiro de Deus. Houve, no passado, muitos exemplos de profetas que foram rejeitados por seu próprio povo, e esses moradores traziam à mente a memória desses eventos históricos.",
+      "referencias": [
+        "Atos 7:51",
+        "Hebreus 11:37"
+      ],
+      "comentario": "Lucas introduz uma generalização histórica da rejeição profética. Jesus é inserido no padrão da oposição enfrentada pelos profetas do Antigo Testamento. Isso prepara o palco para a acusação de Elias e Eliseu.",
+      "temas": [
+        "Rejeição Profética",
+        "Padrão Histórico"
+      ],
       "personagens": []
     },
     "28": {
-      "parafrase": "filho de Melqui, filho de Adi, filho de Cosã, filho de Elmadã, filho de Er,",
-      "referencias": [],
-      "comentario": "A genealogia continua, mostrando a continuidade da linhagem.",
-      "temas": ["genealogia"],
-      "personagens": []
+      "parafrase": "Essa murmuração aumentou de intensidade, e todos na sinagoga ficaram furiosos ao ouvir isso. Suas faces se fecharam em revolta, pois a crítica implícita de Jesus ao tratamento dado aos profetas era um ataque direto à sua própria atitude de rejeição a Ele. 🔥",
+      "referencias": [
+        "Atos 4:28",
+        "Filipenses 2:14"
+      ],
+      "comentario": "O verbo grego é 'eplēsthsan' (encheram-se), indicando uma raiva súbita e completa. A reação não é apenas intelectual, mas emocionalmente explosiva. Eles entenderam que Jesus estava se colocando na mesma categoria dos profetas perseguidos.",
+      "temas": [
+        "Ira Coletiva",
+        "Perseguição Inicial"
+      ],
+      "personagens": [
+        "Moradores de Nazaré"
+      ]
     },
     "29": {
-      "parafrase": "filho de Josué, filho de Eliézer, filho de Jorim, filho de Matate, filho de Levi,",
-      "referencias": [],
-      "comentario": "A genealogia continua, mostrando a continuidade da linhagem.",
-      "temas": ["genealogia"],
-      "personagens": []
+      "parafrase": "Com essa ira fervilhante, eles se levantaram em uníssono e arrastaram Jesus para fora dos limites da cidade. Sua intenção era clara e brutal: levá-Lo ao topo de um penhasco íngreme, onde pretendiam jogá-Lo dali para a morte, um método de execução reservado aos blasfemadores. ⛰️",
+      "referencias": [
+        "Mateus 21:44",
+        "Atos 7:58"
+      ],
+      "comentario": "Esta ação tipifica a rejeição total. O intento de lapidação ou arremesso de um precipício era uma prática conhecida contra falsos profetas. A menção de 'o cume do monte sobre o qual a cidade deles estava edificada' (conforme o manuscrito grego) enfatiza a intenção de usar a geografia local como arma de destruição.",
+      "temas": [
+        "Tentativa de Assassinato",
+        "Rejeição Violenta",
+        "Lançamento do Precipício"
+      ],
+      "personagens": [
+        "Multidão Hostil"
+      ]
     },
     "30": {
-      "parafrase": "filho de Simeão, filho de Judá, filho de José, filho de Jonã, filho de Eliaquim,",
-      "referencias": [],
-      "comentario": "A genealogia continua, mostrando a continuidade da linhagem.",
-      "temas": ["genealogia"],
-      "personagens": []
+      "parafrase": "Mas, no auge do perigo, quando a violência estava prestes a se consumar, Jesus, agindo com uma calma soberana que desafiava a fúria humana, simplesmente passou por entre eles e seguiu seu caminho, ileso. 🙏",
+      "referencias": [
+        "João 8:59",
+        "Hebreus 4:16"
+      ],
+      "comentario": "Este versículo demonstra o controle absoluto de Jesus sobre a situação. Ele não se defendeu fisicamente, mas 'passou pelo meio deles'. Isso sugere uma intervenção divina momentânea que frustrou a intenção da multidão, talvez uma incapacidade física ou espiritual de tocá-Lo naquele instante.",
+      "temas": [
+        "Soberania Divina",
+        "Intervenção Milagrosa",
+        "Proteção"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "31": {
-      "parafrase": "filho de Meleá, filho de Mená, filho de Matatá, filho de Natã, filho de Davi,",
-      "referencias": [],
-      "comentario": "A genealogia de Lucas traça a linhagem de Jesus através de Natã, outro filho de Davi, em contraste com Mateus, que segue a linhagem real através de Salomão. Isso pode indicar a linhagem de Maria.",
-      "temas": ["genealogia", "linhagem de Davi", "Natã"],
-      "personagens": []
+      "parafrase": "Posteriormente, Ele desceu para a cidade de Cafarnaum, uma cidade na Galileia, e começou a ensinar o povo no dia de Sábado. E o povo, ao contrário dos seus vizinhos, ficou maravilhado com Sua doutrina. 😮",
+      "referencias": [
+        "Mateus 4:13",
+        "Marcos 1:21"
+      ],
+      "comentario": "A mudança de cenário para Cafarnaum, um centro de atividade, marca a transição de Sua rejeição em Nazaré para a aceitação inicial (e superficial) em outra cidade. O ensinamento ('didachē') de Jesus impressiona porque é transmitido com autoridade ('exousia'), algo que lhes era novo.",
+      "temas": [
+        "Ensino com Autoridade",
+        "Mudança de Cenário"
+      ],
+      "personagens": [
+        "Jesus",
+        "Povo de Cafarnaum"
+      ]
     },
     "32": {
-      "parafrase": "filho de Jessé, filho de Obede, filho de Boaz, filho de Salá, filho de Naassom,",
-      "referencias": [],
-      "comentario": "A genealogia continua, mostrando a continuidade da linhagem.",
-      "temas": ["genealogia"],
-      "personagens": []
+      "parafrase": "E o povo de Cafarnaum reconheceu imediatamente: 'Que ensino poderoso é este que Ele proclama! Ele fala com uma autoridade que não é meramente humana, mas que vem do próprio Poder Divino!'",
+      "referencias": [
+        "Mateus 7:28",
+        "Apocalipse 19:11"
+      ],
+      "comentario": "A admiração ('ekplēssontai') aqui é pela qualidade do ensino. Eles contrastam a autoridade ('exousia') de Jesus com a dos mestres da Lei, que citavam tradições; Jesus citava apenas a Si mesmo e Seu Pai.",
+      "temas": [
+        "Autoridade Divina",
+        "Admiração pelo Ensino"
+      ],
+      "personagens": [
+        "Povo de Cafarnaum"
+      ]
     },
     "33": {
-      "parafrase": "filho de Aminadabe, filho de Arão, filho de Esrom, filho de Perez, filho de Judá,",
-      "referencias": [],
-      "comentario": "A genealogia continua, mostrando a continuidade da linhagem.",
-      "temas": ["genealogia"],
-      "personagens": []
+      "parafrase": "Naquela sinagoga, havia um homem dominado por um espírito imundo, um demônio. Este ser começou a gritar em desespero e com voz estridente, no meio de todos: 'O que temos nós contigo, Jesus de Nazaré? Você veio para nos destruir? Sabemos perfeitamente quem você é: o Santo de Deus!' 😈",
+      "referencias": [
+        "Marcos 1:24",
+        "Atos 16:17"
+      ],
+      "comentario": "O espírito maligno (grego: 'daimonion achron') reconhece a identidade e o poder de Cristo. A entidade sabe que Jesus é o Santo ('Ho Hagios'), o Messias, e que Sua presença implica o juízo e a expulsão do mal. Este é um testemunho involuntário.",
+      "temas": [
+        "Confronto Demônico",
+        "Reconhecimento do Messias",
+        "Poder sobre Espíritos"
+      ],
+      "personagens": [
+        "Homem Endemoninhado",
+        "Jesus"
+      ]
     },
     "34": {
-      "parafrase": "filho de Jacó, filho de Isaque, filho de Abraão, filho de Terá, filho de Naor,",
-      "referencias": [],
-      "comentario": "A genealogia continua, traçando a linhagem até Abraão, o pai da fé.",
-      "temas": ["genealogia", "Abraão"],
-      "personagens": []
+      "parafrase": "Jesus o repreendeu com firmeza, ordenando: 'Cale-se e saia dele!' Sem hesitação ou demora, o demônio foi forçado a obedecer. 😠",
+      "referencias": [
+        "Mateus 8:29",
+        "Tiago 2:19"
+      ],
+      "comentario": "O comando é direto e autoritário. O verbo grego para repreender é 'epetimēsen', usado para dar uma ordem severa. O espírito não tem escolha senão obedecer ao comando que limita seu poder sobre a criação.",
+      "temas": [
+        "Ordem contra o Mal",
+        "Expulsão de Demônios"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "35": {
-      "parafrase": "filho de Serugue, filho de Reú, filho de Pelegue, filho de Éber, filho de Salá,",
-      "referencias": [],
-      "comentario": "A genealogia continua, mostrando a continuidade da linhagem.",
-      "temas": ["genealogia"],
-      "personagens": []
+      "parafrase": "O demônio jogou o homem no chão, bem no meio da assembleia, e saiu dele sem lhe causar nenhum dano físico aparente, um fato que chocou profundamente a todos, que ficaram apavorados. 😱",
+      "referencias": [
+        "Marcos 9:26",
+        "Apocalipse 12:12"
+      ],
+      "comentario": "A queda violenta ('embrōsas') mostra a resistência e a natureza destrutiva do espírito, mesmo ao ser expulso. O fato de o homem não ser ferido após a queda reforça a autoridade de Jesus, que não apenas expulsa, mas preserva a vítima.",
+      "temas": [
+        "Resistência do Mal",
+        "Cura e Preservação"
+      ],
+      "personagens": [
+        "Homem Endemoninhado",
+        "Demônio"
+      ]
     },
     "36": {
-      "parafrase": "filho de Cainã, filho de Arfaxade, filho de Sem, filho de Noé, filho de Lameque,",
-      "referencias": [],
-      "comentario": "A genealogia continua, traçando a linhagem até Noé, conectando Jesus a toda a humanidade.",
-      "temas": ["genealogia", "Noé"],
-      "personagens": []
+      "parafrase": "O espanto se espalhou rapidamente entre a multidão, e todos começaram a comentar entre si, maravilhados: 'Que poder é este? Uma simples palavra Sua, e até os espíritos malignos obedecem e se retiram!'",
+      "referencias": [
+        "Mateus 12:27",
+        "Salmos 107:20"
+      ],
+      "comentario": "A conclusão é sobre a fonte da autoridade: a Palavra ('logō'). É a eficácia da Palavra de Cristo, não o rito ou a fórmula, que causa o milagre. Isso reforça a teologia da soberania de Jesus sobre o reino das trevas.",
+      "temas": [
+        "Poder da Palavra",
+        "A Fé da Multidão"
+      ],
+      "personagens": [
+        "Povo de Cafarnaum"
+      ]
     },
     "37": {
-      "parafrase": "filho de Metusalém, filho de Enoque, filho de Jarede, filho de Maalalel, filho de Cainã,",
-      "referencias": [],
-      "comentario": "A genealogia continua, mostrando a continuidade da linhagem.",
-      "temas": ["genealogia"],
-      "personagens": []
+      "parafrase": "E a notícia sobre a reputação e o poder de Jesus se espalhou velozmente, saindo dos limites de Cafarnaum para toda a região circundante. As pessoas falavam incessantemente sobre Ele. 📢",
+      "referencias": [
+        "Mateus 4:24",
+        "Marcos 1:28"
+      ],
+      "comentario": "O resultado direto do exorcismo é a fama ('phēme'). O milagre tem um poder de divulgação maior do que qualquer pregação inicial. A fama se estende pela 'toda a região da Galileia'.",
+      "temas": [
+        "Fama de Jesus",
+        "Evangelização pelo Milagre"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "38": {
-      "parafrase": "filho de Enos, filho de Sete, filho de Adão, filho de Deus.",
-      "referencias": ["Gênesis 5:1-3"],
-      "comentario": "A genealogia de Lucas vai além de Abraão e Davi, traçando a linhagem de Jesus até Adão, o primeiro homem, e, finalmente, até Deus. Isso enfatiza a universalidade da salvação de Jesus e Sua identidade como o Filho de Deus.",
-      "temas": ["genealogia", "Adão", "Filho de Deus", "universalidade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Deixando a sinagoga, Jesus foi para a casa de Simão (Pedro). Mas a sogra de Simão estava sofrendo de uma febre muito alta e persistente, e a família intercedeu a Jesus por ela imediatamente. 🤒",
+      "referencias": [
+        "Mateus 8:14",
+        "1 Coríntios 9:5"
+      ],
+      "comentario": "Este versículo introduz o próximo milagre focado na esfera privada e pessoal. O termo para febre alta ('pyretō megālō') indica uma doença grave. A ação da família ao interceder ('ērōtēsan') demonstra a fé inicial e a esperança depositada em Jesus como curador.",
+      "temas": [
+        "Intercessão",
+        "Cura Doméstica",
+        "A Família de Pedro"
+      ],
+      "personagens": [
+        "Jesus",
+        "Simão (Pedro)",
+        "Sogra de Simão"
+      ]
     }
   }
 }

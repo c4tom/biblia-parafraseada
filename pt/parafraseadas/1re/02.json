@@ -1,330 +1,804 @@
 {
   "livro": "1 Reis",
   "capitulo": 2,
-  "contexto_historico": "Este capítulo narra as últimas instruções de Davi a Salomão antes de sua morte, consolidando a transição de poder. Davi aconselha Salomão a andar nos caminhos do Senhor e a lidar com certas figuras-chave em seu reino. Em seguida, Salomão, já no trono, executa a justiça contra aqueles que representavam uma ameaça ao seu reinado, consolidando seu poder e estabelecendo a paz.",
-  "bloco_tematico": "As Últimas Palavras de Davi e a Consolidação do Reinado de Salomão",
+  "contexto_historico": "Após a morte do Rei Davi, seu filho Salomão assume o trono de Israel. Este período marca a consolidação do reino unido e a transição de uma liderança carismática e militar (Davi) para uma administração mais formal e, idealmente, sábia (Salomão). O capítulo 2 inicia com as últimas instruções de Davi a Salomão, focando na manutenção da ordem e justiça, e culmina com a execução de inimigos de Davi, assegurando a estabilidade inicial do reinado de Salomão.",
+  "bloco_tematico": "A Transição de Poder: Últimos Conselhos e Consolidação do Trono 👑⚖️",
   "versiculos": {
     "1": {
-      "parafrase": "Quando os dias de Davi se aproximaram da morte, ele deu instruções a seu filho Salomão, dizendo:",
-      "referencias": [],
-      "comentario": "Davi, em seu leito de morte, passa o bastão da liderança para Salomão, transmitindo sabedoria e conselhos finais para o governo do reino.",
-      "temas": ["transição de poder", "instruções finais", "legado"],
-      "personagens": ["Davi", "Salomão"]
+      "parafrase": "Quando o tempo de Davi se aproximava do fim, e ele sentia o fôlego esmorecer, chamou seu filho, Salomão, para uma conversa crucial. Davi, com a autoridade de um rei que já trilhou muitos caminhos, ordenou-lhe: 'Meu filho, estou prestes a partir para o lugar de onde ninguém retorna. Seja forte como um homem, com a coragem de um leão, e siga fielmente todos os mandamentos que Deus lhe deu sobre como governar e viver.'",
+      "referencias": [
+        "Deuteronômio 31:23",
+        "Josué 1:6"
+      ],
+      "comentario": "O texto estabelece o tom de sucessão. A exortação de Davi ('Sê homem' ou 'Fortalece-te') não é meramente sobre bravura física, mas sobre firmeza moral e espiritual (Hebraico: 'chazaq' - ser forte, corajoso, resoluto) para cumprir a Aliança Divina, um tema recorrente na transferência de liderança.",
+      "temas": [
+        "Sucessão Real",
+        "Mandamentos Divinos",
+        "Coragem"
+      ],
+      "personagens": [
+        "Davi",
+        "Salomão"
+      ]
     },
     "2": {
-      "parafrase": "'Eu sigo o caminho de toda a terra. Seja forte e mostre-se homem.'",
-      "referencias": ["Josué 1:6-7"],
-      "comentario": "Davi usa uma expressão comum para a morte e exorta Salomão a ser corajoso e a agir com maturidade e força, qualidades essenciais para um rei.",
-      "temas": ["morte", "coragem", "liderança"],
-      "personagens": ["Davi", "Salomão"]
+      "parafrase": "Davi continuou, lembrando Salomão de um ponto vital: 'Lembre-se do que o Senhor, o seu Deus, lhe ordenou. Siga os caminhos Dele, guardando Seus estatutos, Seus decretos, Seus mandamentos e Suas instruções, conforme está escrito na Lei de Moisés. Faça isso para que você tenha sucesso em tudo o que empreender e em todos os lugares que for.'",
+      "referencias": [
+        "Josué 1:7",
+        "Salmos 119:105"
+      ],
+      "comentario": "Este versículo conecta diretamente o sucesso terreno de Salomão (prosperidade e estabilidade) à sua obediência à Torá (a Lei de Moisés). O sucesso não é acidental, mas condicional à fidelidade à instrução revelada.",
+      "temas": [
+        "Obediência à Lei",
+        "Prosperidade Condicional",
+        "Aliança"
+      ],
+      "personagens": [
+        "Davi",
+        "Salomão",
+        "Moisés"
+      ]
     },
     "3": {
-      "parafrase": "'Guarde os mandamentos do Senhor, seu Deus, andando em seus caminhos e guardando seus estatutos, seus mandamentos, seus juízos e seus testemunhos, como está escrito na Lei de Moisés, para que você prospere em tudo o que fizer e para onde quer que se virar.'",
-      "referencias": ["Deuteronômio 29:9"],
-      "comentario": "O conselho mais importante de Davi é a obediência à Lei de Deus. A prosperidade e o sucesso do reinado de Salomão dependem diretamente de sua fidelidade aos mandamentos divinos.",
-      "temas": ["obediência", "lei de Deus", "prosperidade", "fidelidade"],
-      "personagens": ["Davi", "Salomão", "Deus"]
+      "parafrase": "Então, Davi compartilhou seu desejo final: 'Para que você possa ter sabedoria e sucesso em seu reinado, cumpra o que está escrito. Você precisa honrar a Deus diariamente e manter o caminho que eu trilhei, seguindo Seus preceitos.'",
+      "referencias": [
+        "Provérbios 3:5-6",
+        "Mateus 6:33"
+      ],
+      "comentario": "A sabedoria ('bîna' - entendimento profundo) é apresentada aqui como o resultado prático da fidelidade. Não é um dom mágico, mas fruto de uma vida disciplinada sob a Lei.",
+      "temas": [
+        "Sabedoria",
+        "Preceito",
+        "Legado"
+      ],
+      "personagens": [
+        "Davi",
+        "Salomão"
+      ]
     },
     "4": {
-      "parafrase": "'Para que o Senhor confirme a sua palavra que falou a meu respeito, dizendo: 'Se seus filhos guardarem o seu caminho, andando diante de mim em verdade, com todo o seu coração e com toda a sua alma, nunca lhe faltará um homem no trono de Israel.''",
-      "referencias": ["2 Samuel 7:12-16"],
-      "comentario": "Davi lembra Salomão da promessa da Aliança Davídica, que garante uma dinastia eterna, mas que está condicionada à obediência e fidelidade da linhagem real a Deus.",
-      "temas": ["Aliança Davídica", "promessa divina", "obediência condicional"],
-      "personagens": ["Davi", "Salomão", "Deus"]
+      "parafrase": "O rei acrescentou uma promessa divina para incentivar seu filho: 'Assim, o Senhor poderá cumprir a promessa que me fez, dizendo: 'Se seus descendentes vigiarem atentamente o seu modo de vida, andando diante de Mim com verdade, com todo o coração e com toda a alma, nunca lhe faltará um sucessor no trono de Israel.'",
+      "referencias": [
+        "2 Samuel 7:12",
+        "Salmos 89:30-37"
+      ],
+      "comentario": "Davi cita a promessa feita a ele (a Aliança Davídica), condicionando a perpetuidade da dinastia à conduta correta de Salomão. A fidelidade da linhagem é a chave para manter o trono.",
+      "temas": [
+        "Aliança Davídica",
+        "Fidelidade da Linhagem",
+        "Promessa de Deus"
+      ],
+      "personagens": [
+        "Davi",
+        "O Senhor"
+      ]
     },
     "5": {
-      "parafrase": "'Você também sabe o que Joabe, filho de Zeruia, me fez, o que ele fez aos dois comandantes dos exércitos de Israel, Abner, filho de Ner, e Amasa, filho de Jéter, a quem ele matou, derramando sangue de guerra em tempo de paz, e pondo sangue de guerra no cinto que estava em sua cintura e nas sandálias que estavam em seus pés.'",
-      "referencias": ["2 Samuel 3:27", "2 Samuel 20:10"],
-      "comentario": "Davi instrui Salomão a lidar com Joabe, que havia cometido assassinatos traiçoeiros em tempo de paz. Davi, em seu reinado, não pôde punir Joabe devido à sua influência, mas agora passa essa responsabilidade para Salomão.",
-      "temas": ["justiça", "assassinato", "vingança"],
-      "personagens": ["Davi", "Joabe", "Abner", "Amasa"]
+      "parafrase": "Em seguida, Davi tocou em um assunto mais pessoal e delicado, que envolvia a memória de Joabe, o comandante do seu exército: 'Você sabe muito bem o que Joabe, filho de Zeruia, fez comigo e com aqueles dois líderes militares, Abner, filho de Ner, e Jamael, filho de Jeta. Ele derramou o sangue deles em tempos de paz, como se estivesse vingando velhas inimizades, manchando a coroa com sangue inocente.'",
+      "referencias": [
+        "2 Samuel 3:30",
+        "2 Samuel 20:9-10"
+      ],
+      "comentario": "Davi está limpando o tabuleiro político antes de sua morte. Joabe agiu por conta própria, executando Abner e Amasa, o que era visto como quebra de confiança e violação do código de honra militar, manchando o reinado de Davi com assassinatos traiçoeiros.",
+      "temas": [
+        "Justiça Póstuma",
+        "Ação Militar",
+        "Lealdade"
+      ],
+      "personagens": [
+        "Davi",
+        "Joabe",
+        "Abner",
+        "Jeta (referindo-se a Jamael/Isca)"
+      ]
     },
     "6": {
-      "parafrase": "'Portanto, aja de acordo com a sua sabedoria, e não permita que seus cabelos brancos desçam em paz ao Sheol.'",
-      "referencias": [],
-      "comentario": "Davi instrui Salomão a usar sua sabedoria para garantir que Joabe receba a justiça que merece, mesmo que isso signifique uma morte violenta.",
-      "temas": ["sabedoria", "justiça", "punição"],
-      "personagens": ["Davi", "Salomão", "Joabe"]
+      "parafrase": "Davi advertiu Salomão de forma enfática: 'Portanto, aja com sabedoria e não deixe que ele chegue à velhice em paz. Você precisa lidar com ele, para que seu sangue não permaneça em sua consciência ou sobre a memória de sua casa.'",
+      "referencias": [
+        "Provérbios 29:2",
+        "Romanos 13:4"
+      ],
+      "comentario": "Esta é uma ordem dura para eliminar Joabe, que era poderoso e potencialmente perigoso para o jovem rei. O sangue derramado deve ser 'lavado' para garantir a estabilidade e a paz do novo reinado. É um ato de 'limpeza' política e ética.",
+      "temas": [
+        "Consequências da Traição",
+        "Estabilidade Política",
+        "Justiça Pessoal"
+      ],
+      "personagens": [
+        "Davi",
+        "Salomão",
+        "Joabe"
+      ]
     },
     "7": {
-      "parafrase": "'Mas mostre bondade aos filhos de Barzilai, o gileadita, e que eles comam à sua mesa, pois eles vieram ao meu encontro quando eu fugia de seu irmão Absalão.'",
-      "referencias": ["2 Samuel 17:27-29", "2 Samuel 19:31-39"],
-      "comentario": "Davi instrui Salomão a mostrar bondade à família de Barzilai, que o apoiou em sua fuga de Absalão. Isso demonstra a gratidão de Davi e a importância da lealdade.",
-      "temas": ["bondade", "gratidão", "lealdade"],
-      "personagens": ["Davi", "Salomão", "Barzilai"]
+      "parafrase": "Por outro lado, Davi instruiu seu filho a ter bondade e gentileza com os descendentes de Barzilai, o gileadita, aquele nobre homem que lhe prestou um grande favor quando Davi precisou fugir de seu filho Absalom. 'Trate-os com honra, pois eles foram meus protetores quando eu mais precisei de refúgio.'",
+      "referencias": [
+        "2 Samuel 17:27-29",
+        "Hebreus 13:2"
+      ],
+      "comentario": "Contraste gritante com Joabe. Davi exige que Salomão recompense a lealdade e a bondade (Hebraico: 'chesed' - misericórdia leal) demonstrada por Barzilai, honrando seus descendentes como parte do seu legado de gratidão.",
+      "temas": [
+        "Gratidão",
+        "Bondade",
+        "Lealdade Recompensada"
+      ],
+      "personagens": [
+        "Davi",
+        "Salomão",
+        "Barzilai"
+      ]
     },
     "8": {
-      "parafrase": "'E eis que você tem consigo Simei, filho de Gera, o benjamita de Baurim, que me amaldiçoou com uma maldição cruel no dia em que eu fui a Maanaim. Mas ele desceu ao meu encontro no Jordão, e eu lhe jurei pelo Senhor, dizendo: 'Não o matarei à espada.''",
-      "referencias": ["2 Samuel 16:5-13", "2 Samuel 19:16-23"],
-      "comentario": "Davi instrui Salomão a lidar com Simei, que o amaldiçoou. Davi havia jurado não matá-lo, mas agora passa a responsabilidade para Salomão, que não está vinculado por esse juramento.",
-      "temas": ["justiça", "maldição", "juramento"],
-      "personagens": ["Davi", "Salomão", "Simei"]
+      "parafrase": "E, finalmente, Davi lembrou a Salomão do caso de Simei, o benjamita, filho de Gera, que o amaldiçoou duramente quando Davi fugia de Absalom, lá em Maanaim. 'Lembre-se que ele veio ao meu encontro no Jordão e me jurou lealdade, dizendo que nunca mais o faria. Mas eu o poupei, fazendo um juramento diante do Senhor, dizendo que não o mataria pela sua língua afiada.'",
+      "referencias": [
+        "2 Samuel 16:5-14",
+        "2 Samuel 19:18-23"
+      ],
+      "comentario": "Davi reafirma seu juramento anterior de poupar Simei (2 Samuel 19:23). A integridade de Davi exigia que ele mantivesse seu juramento, mesmo que Simei representasse uma ameaça política residual. O foco é a honra da palavra dada a Deus.",
+      "temas": [
+        "Juramento",
+        "Integridade da Palavra",
+        "Perdão"
+      ],
+      "personagens": [
+        "Davi",
+        "Salomão",
+        "Simei",
+        "Absalom"
+      ]
     },
     "9": {
-      "parafrase": "'Agora, pois, não o considere inocente, pois você é um homem sábio e sabe o que deve fazer com ele. Faça com que seus cabelos brancos desçam ao Sheol com sangue.'",
-      "referencias": [],
-      "comentario": "Davi instrui Salomão a usar sua sabedoria para punir Simei, garantindo que ele não morra de velhice em paz, mas que pague por sua maldade. Isso demonstra a justiça de Davi, mesmo em seu leito de morte.",
-      "temas": ["sabedoria", "justiça", "punição"],
-      "personagens": ["Davi", "Salomão", "Simei"]
+      "parafrase": "Davi concluiu com uma advertência sombria: 'Contudo, não deixe que a inocência dele o engane. Você é um homem astuto e sabe como resolver questões difíceis. Você deve decidir o que fazer com ele, mas não o deixe morrer de velhice pacificamente, pois ele me amaldiçoou com a autoridade do Senhor.'",
+      "referencias": [
+        "Provérbios 28:22",
+        "Jeremias 4:22"
+      ],
+      "comentario": "Esta é talvez a instrução mais complexa. Davi equilibra a obrigação do seu juramento (não matá-lo imediatamente) com a necessidade política de Salomão de neutralizar um inimigo aberto. Salomão deve encontrar um meio termo legal, mas final, para remover a ameaça.",
+      "temas": [
+        "Astúcia Política",
+        "Dever Real",
+        "Equilíbrio de Justiça"
+      ],
+      "personagens": [
+        "Davi",
+        "Salomão",
+        "Simei"
+      ]
     },
     "10": {
-      "parafrase": "Davi dormiu com seus pais e foi sepultado na Cidade de Davi.",
-      "referencias": ["Atos 2:29"],
-      "comentario": "A morte de Davi é registrada, e ele é sepultado em Jerusalém, a cidade que ele conquistou e tornou sua capital. Isso marca o fim de seu reinado e o início do de Salomão.",
-      "temas": ["morte", "sepultamento", "fim de um reinado"],
-      "personagens": ["Davi"]
+      "parafrase": "Depois de dar todas essas instruções finais, Davi, o grande rei, cumpriu seu destino e foi sepultado em Jerusalém, na Cidade de Davi, juntamente com seus antepassados, encerrando seu longo reinado.",
+      "referencias": [
+        "Atos 2:29",
+        "1 Reis 11:43"
+      ],
+      "comentario": "O capítulo muda o foco da vida para a morte. A menção da 'Cidade de Davi' ressalta a continuidade dinástica em Jerusalém, estabelecida por ele, diferentemente do sepultamento tribal de seus antecessores.",
+      "temas": [
+        "Morte do Rei",
+        "Sepultamento",
+        "Continuidade Dinástica"
+      ],
+      "personagens": [
+        "Davi"
+      ]
     },
     "11": {
-      "parafrase": "O tempo que Davi reinou sobre Israel foi de quarenta anos: sete anos em Hebrom e trinta e três anos em Jerusalém.",
-      "referencias": ["2 Samuel 5:4-5"],
-      "comentario": "A duração do reinado de Davi é resumida, destacando seu longo e bem-sucedido governo.",
-      "temas": ["reinado", "duração"],
-      "personagens": ["Davi"]
+      "parafrase": "O tempo em que Davi reinou sobre Israel durou quarenta anos no total: sete anos ele governou a partir de Hebrom, mas depois mudou sua capital e reinou trinta e três anos em Jerusalém.",
+      "referencias": [
+        "2 Samuel 5:4-5",
+        "Atos 13:21"
+      ],
+      "comentario": "É o resumo cronológico do reinado de Davi, um marco histórico fundamental que consolida seu legado, contrastando os anos iniciais de luta em Hebrom com a estabilidade em Jerusalém.",
+      "temas": [
+        "Cronologia Real",
+        "Duração do Reinado",
+        "Estabelecimento de Jerusalém"
+      ],
+      "personagens": [
+        "Davi"
+      ]
     },
     "12": {
-      "parafrase": "Salomão se sentou no trono de Davi, seu pai, e seu reino foi firmemente estabelecido.",
-      "referencias": [],
-      "comentario": "Salomão assume o trono, e seu reinado é imediatamente estabelecido, demonstrando a transição pacífica de poder e a bênção de Deus.",
-      "temas": ["sucessão", "reinado", "estabilidade"],
-      "personagens": ["Salomão", "Davi"]
+      "parafrase": "Finalmente, Salomão, o filho de Davi, assumiu o trono, e seu reinado foi firmemente estabelecido e consolidado pelo Senhor, seu Deus, elevando sua glória a um patamar nunca antes visto entre os reis de Israel.",
+      "referencias": [
+        "1 Crônicas 29:25",
+        "2 Crônicas 1:1"
+      ],
+      "comentario": "A ascensão de Salomão é apresentada como divinamente sancionada. O termo 'firmemente estabelecido' (Hebraico: 'hizzeq et-malkutho') indica que Deus garantiu sua soberania contra qualquer desafio imediato.",
+      "temas": [
+        "Consolidação do Reinado",
+        "Glória Real",
+        "Soberania Divina"
+      ],
+      "personagens": [
+        "Salomão",
+        "Davi"
+      ]
     },
     "13": {
-      "parafrase": "Adonias, filho de Hagite, foi a Bate-Seba, mãe de Salomão. Ela perguntou: 'Você vem em paz?' Ele respondeu: 'Sim, em paz.'",
-      "referencias": [],
-      "comentario": "Adonias, que havia tentado usurpar o trono, busca Bate-Seba, a mãe do rei, para fazer um pedido. Sua afirmação de paz é questionável, dadas suas ambições anteriores.",
-      "temas": ["ambição", "paz aparente", "pedido"],
-      "personagens": ["Adonias", "Bate-Seba"]
+      "parafrase": "Nesse meio tempo, Adonias, o filho mais velho de Davi, que já havia tentado tomar o trono antes, foi até Bate-Seba, a mãe de Salomão, e perguntou com uma voz que tentava parecer inocente: 'Você me trará um grande favor? Gostaria que você intercedesse por mim junto ao rei Salomão, pois ele não pode me negar nada.'",
+      "referencias": [
+        "1 Reis 1:11-31",
+        "Provérbios 14:29"
+      ],
+      "comentario": "Adonias, o herdeiro preterido, tenta usar a influência de Bate-Seba para reverter sua situação. Sua abordagem dissimulada ('fingindo inocência') revela que ele não aprendeu com a tentativa anterior de golpe.",
+      "temas": [
+        "Intrigas de Sucessão",
+        "Manipulação",
+        "Rivalidade Fraterna"
+      ],
+      "personagens": [
+        "Adonias",
+        "Bate-Seba",
+        "Salomão"
+      ]
     },
     "14": {
-      "parafrase": "Ele disse: 'Tenho algo a dizer a você.' Ela respondeu: 'Fale.'",
-      "referencias": [],
-      "comentario": "Adonias se prepara para fazer seu pedido, que se revelará uma armadilha.",
-      "temas": ["pedido", "armadilha"],
-      "personagens": ["Adonias", "Bate-Seba"]
+      "parafrase": "Bate-Seba concordou em falar com o filho. Ela foi até o trono de Salomão, que estava sentado com toda a pompa real, e se curvou em respeito. O rei, com uma expressão séria, mas atenta, perguntou: 'Mãe, o que você deseja que eu peça? Direi que sim a tudo, sem hesitar.'",
+      "referencias": [
+        "Provérbios 31:25",
+        "Lucas 11:13"
+      ],
+      "comentario": "Salomão demonstra honra formal à sua mãe, mas sua postura indica que ele está preparado para decisões de estado, não apenas favores pessoais. Ele ainda está sob a égide de Davi, mas agora com autoridade própria.",
+      "temas": [
+        "Honra Materna",
+        "Autoridade Real",
+        "Etiqueta da Corte"
+      ],
+      "personagens": [
+        "Bate-Seba",
+        "Salomão"
+      ]
     },
     "15": {
-      "parafrase": "Ele disse: 'Você sabe que o reino era meu, e todo o Israel esperava que eu reinasse. Mas o reino se desviou de mim e se tornou de meu irmão, pois foi do Senhor.'",
-      "referencias": [],
-      "comentario": "Adonias expressa seu ressentimento pela perda do trono, reconhecendo que a decisão veio de Deus, mas ainda assim lamentando sua sorte.",
-      "temas": ["ressentimento", "perda", "vontade divina"],
-      "personagens": ["Adonias"]
+      "parafrase": "Ela então expôs o pedido, com a intenção de restaurar seu filho mais velho: 'Meu senhor, peço que me conceda o desejo de dar Abisague, a bela jovem sunamita que servia ao seu pai Davi, como esposa para Adonias.'",
+      "referencias": [
+        "1 Reis 1:3",
+        "Gênesis 34:3"
+      ],
+      "comentario": "Este é um pedido politicamente explosivo. Na cultura antiga, pedir a esposa ou concubina de um rei falecido era um ato que simbolizava a reivindicação da sucessão ou do poder real. Adonias não estava pedindo uma esposa, mas sim o símbolo da realeza de Davi.",
+      "temas": [
+        "Símbolos de Poder",
+        "Ambição Política",
+        "Relações Familiares"
+      ],
+      "personagens": [
+        "Bate-Seba",
+        "Adonias",
+        "Abisague",
+        "Davi"
+      ]
     },
     "16": {
-      "parafrase": "'Agora, pois, faço-lhe um pedido: não me negue.' Ela respondeu: 'Fale.'",
-      "referencias": [],
-      "comentario": "Adonias faz seu pedido, que parece inocente, mas tem implicações políticas.",
-      "temas": ["pedido", "implicações políticas"],
-      "personagens": ["Adonias", "Bate-Seba"]
+      "parafrase": "Salomão, ao ouvir a solicitação, hesitou por um instante, mas sua resposta foi imediata e fria. Ele disse: 'Por que você está pedindo Abisague para Adonias? Na verdade, você está pedindo o próprio reino para ele! Pois ele é meu irmão mais velho, e tudo o que pertence a ele agora pertence a mim, inclusive o trono.'",
+      "referencias": [
+        "2 Samuel 3:13",
+        "Ester 5:3"
+      ],
+      "comentario": "Salomão interpreta o pedido não como um desejo conjugal, mas como uma manobra política para recuperar a coroa. Ele usa o precedente cultural onde a posse da esposa ou concubina real significava a posse do trono.",
+      "temas": [
+        "Interpretação Política",
+        "Reivindicação do Trono",
+        "Ameaça de Golpe"
+      ],
+      "personagens": [
+        "Salomão",
+        "Adonias",
+        "Bate-Seba"
+      ]
     },
     "17": {
-      "parafrase": "'Por favor, diga ao rei Salomão (pois ele não lhe negará) que me dê Abisague, a sunamita, por esposa.'",
-      "referencias": ["1 Reis 1:3-4"],
-      "comentario": "Adonias pede Abisague, a concubina de Davi. Na cultura da época, tomar as concubinas do rei era um ato de reivindicação ao trono. Adonias, ao fazer este pedido, está, na verdade, tentando usurpar o trono de Salomão.",
-      "temas": ["usurpação", "reivindicação ao trono", "casamento"],
-      "personagens": ["Adonias", "Salomão", "Abisague"]
+      "parafrase": "Salomão continuou, dirigindo-se à sua mãe com respeito, mas com determinação férrea: 'Não peça isto por ele, pois isso não acontecerá. Peça algo menor para ele, ou talvez você esteja pedindo algo por mim também?'",
+      "referencias": [
+        "Provérbios 29:11",
+        "Mateus 12:25"
+      ],
+      "comentario": "Salomão demonstra maturidade política. Ele não permite que a emoção materna dite a segurança do Estado. Ele coloca um limite claro, sugerindo que o pedido de Adonias é uma afronta à sua própria soberania.",
+      "temas": [
+        "Liderança Firme",
+        "Segurança do Estado",
+        "Limites"
+      ],
+      "personagens": [
+        "Salomão",
+        "Bate-Seba",
+        "Adonias"
+      ]
     },
     "18": {
-      "parafrase": "Bate-Seba respondeu: 'Muito bem, falarei com o rei por você.'",
-      "referencias": [],
-      "comentario": "Bate-Seba, sem perceber a armadilha, concorda em interceder por Adonias.",
-      "temas": ["intercessão", "ignorância"],
-      "personagens": ["Bate-Seba"]
+      "parafrase": "Bate-Seba entendeu o perigo e o erro da sua intervenção. Ela se curvou novamente diante do filho, com o coração pesado, mas Salomão não precisou de mais palavras. Ele já havia compreendido a conspiração oculta por trás do pedido.",
+      "referencias": [
+        "Provérbios 13:20",
+        "Lamentações 3:30"
+      ],
+      "comentario": "A compreensão mútua da gravidade da situação sela o destino de Adonias. Bate-Seba percebe que tentou manipular um poder que já estava firmemente estabelecido e abençoado.",
+      "temas": [
+        "Consequência da Manipulação",
+        "Reconhecimento do Poder",
+        "Conspiração Desmascarada"
+      ],
+      "personagens": [
+        "Bate-Seba",
+        "Salomão",
+        "Adonias"
+      ]
     },
     "19": {
-      "parafrase": "Então Bate-Seba foi ao rei Salomão para falar com ele por Adonias. O rei se levantou para encontrá-la, curvou-se diante dela e sentou-se em seu trono. Ele mandou trazer um trono para a mãe do rei, e ela se sentou à sua direita.",
-      "referencias": [],
-      "comentario": "Salomão demonstra grande respeito por sua mãe, honrando-a publicamente. Isso mostra sua sabedoria e sua deferência à sua mãe.",
-      "temas": ["respeito", "honra", "sabedoria"],
-      "personagens": ["Bate-Seba", "Salomão"]
+      "parafrase": "Naquele momento, o comandante Benaia, o homem de confiança de Salomão, foi enviado por ordem do rei para executar a sentença contra Adonias. Ele foi até Adonias e o matou rapidamente.",
+      "referencias": [
+        "2 Samuel 23:20",
+        "2 Crônicas 11:13"
+      ],
+      "comentario": "A execução é imediata e direta, um sinal da determinação de Salomão em eliminar qualquer ameaça à sua coroa, seguindo o padrão de Davi de consolidar o poder pela força, se necessário.",
+      "temas": [
+        "Execução Política",
+        "Fidelidade Militar",
+        "Consolidação do Poder"
+      ],
+      "personagens": [
+        "Benaia",
+        "Salomão",
+        "Adonias"
+      ]
     },
     "20": {
-      "parafrase": "Ela disse: 'Tenho um pequeno pedido a fazer a você; não me negue.' O rei lhe disse: 'Peça, minha mãe, pois não a negarei.'",
-      "referencias": [],
-      "comentario": "Salomão, em sua deferência, promete atender ao pedido de sua mãe, sem saber a natureza do pedido.",
-      "temas": ["deferência", "promessa"],
-      "personagens": ["Bate-Seba", "Salomão"]
+      "parafrase": "Então, Bate-Seba foi reconduzida ao seu lugar, e Salomão a garantiu que seu trono permaneceria seguro. O reino de Israel foi agora completamente pacificado sob a mão firme do novo monarca.",
+      "referencias": [
+        "Provérbios 14:34",
+        "Lucas 1:52"
+      ],
+      "comentario": "Salomão restabelece a ordem e assegura sua mãe, demonstrando que, embora severo, ele não agiria contra ela. A morte de Adonias remove o último grande rival interno.",
+      "temas": [
+        "Ordem Restaurada",
+        "Segurança do Reinado",
+        "Paz Interna"
+      ],
+      "personagens": [
+        "Salomão",
+        "Bate-Seba"
+      ]
     },
     "21": {
-      "parafrase": "Ela disse: 'Que Abisague, a sunamita, seja dada a seu irmão Adonias por esposa.'",
-      "referencias": [],
-      "comentario": "Bate-Seba faz o pedido de Adonias, sem perceber suas implicações políticas.",
-      "temas": ["pedido", "implicações políticas"],
-      "personagens": ["Bate-Seba", "Abisague", "Adonias"]
+      "parafrase": "Mais tarde, quando o espírito de Salomão já estava totalmente estabelecido no trono, ele finalmente cumpriu a última ordem de seu pai, Davi, em relação a Simei. O rei convocou Simei e lhe disse: 'Construa uma casa aqui em Jerusalém, uma morada para você, e permaneça nela. Em hipótese alguma você deve sair dos limites da cidade.'",
+      "referencias": [
+        "2 Samuel 19:22-23",
+        "Neemias 13:1"
+      ],
+      "comentario": "Salomão cumpre a promessa de Davi de não matar Simei ('não o matarei'). No entanto, ele o coloca sob vigilância estrita, restringindo sua liberdade de movimento, o que é uma forma de neutralização política.",
+      "temas": [
+        "Cumprimento da Palavra",
+        "Restrição Política",
+        "Vigilância"
+      ],
+      "personagens": [
+        "Salomão",
+        "Simei",
+        "Davi"
+      ]
     },
     "22": {
-      "parafrase": "O rei Salomão respondeu e disse a sua mãe: 'Por que você pede Abisague, a sunamita, para Adonias? Peça também o reino para ele, pois ele é meu irmão mais velho, e ele tem Abiatar, o sacerdote, e Joabe, filho de Zeruia, com ele!'",
-      "referencias": [],
-      "comentario": "Salomão, em sua sabedoria, percebe imediatamente a verdadeira intenção por trás do pedido de Adonias: uma tentativa de usurpar o trono. Ele reconhece que o pedido de Abisague é um passo para reivindicar a realeza, especialmente porque Adonias tem o apoio de Joabe e Abiatar.",
-      "temas": ["sabedoria", "percepção", "usurpação", "implicações políticas"],
-      "personagens": ["Salomão", "Bate-Seba", "Adonias", "Abisague", "Joabe", "Abiatar"]
+      "parafrase": "Salomão avisou severamente: 'Saiba muito bem que, no dia em que você cruzar o ribeiro Cedrom e sair dos muros da cidade, será sua última hora. Seu sangue recairá sobre sua própria cabeça, pois você será responsável pela sua morte.' Simei concordou com o rei, aceitando as restrições.",
+      "referencias": [
+        "Êxodo 20:7",
+        "Jó 15:32"
+      ],
+      "comentario": "O ribeiro Cedrom era uma fronteira natural e simbólica em Jerusalém. Ao limitar Simei a este espaço, Salomão o mantém sob controle, mas com a responsabilidade total sobre o cumprimento da regra, conforme o juramento de Davi.",
+      "temas": [
+        "Limites Territoriais",
+        "Responsabilidade Pessoal",
+        "Julgamento"
+      ],
+      "personagens": [
+        "Salomão",
+        "Simei"
+      ]
     },
     "23": {
-      "parafrase": "Então o rei Salomão jurou pelo Senhor, dizendo: 'Que Deus me castigue com o que quiser, se Adonias não pagou com a própria vida por esta palavra!'",
-      "referencias": [],
-      "comentario": "Salomão, em sua determinação, jura que Adonias morrerá por sua tentativa de usurpação. Ele reconhece a gravidade do ato e a necessidade de eliminar a ameaça ao seu reinado.",
-      "temas": ["juramento", "determinação", "punição", "ameaça"],
-      "personagens": ["Salomão", "Deus", "Adonias"]
+      "parafrase": "Simei obedeceu e morou em Jerusalém por um longo tempo, vivendo sob a sombra dessa sentença, pois ele sabia que qualquer passo em falso resultaria em sua morte imediata.",
+      "referencias": [
+        "Salmos 119:9",
+        "Gênesis 42:2"
+      ],
+      "comentario": "O texto sublinha que Simei viveu sob tensão constante, um prisioneiro em sua própria cidade, esperando o momento em que Salomão ou ele próprio faria o movimento decisivo.",
+      "temas": [
+        "Vida sob Restrição",
+        "Tensão Política",
+        "Obediência Forçada"
+      ],
+      "personagens": [
+        "Simei",
+        "Salomão"
+      ]
     },
     "24": {
-      "parafrase": "'Agora, pois, tão certo como vive o Senhor, que me estabeleceu e me fez sentar no trono de Davi, meu pai, e que me edificou uma casa, como prometeu,'",
-      "referencias": ["2 Samuel 7:12-16"],
-      "comentario": "Salomão reafirma a soberania de Deus em estabelecê-lo no trono, baseando sua decisão na vontade divina e na promessa feita a Davi.",
-      "temas": ["soberania de Deus", "promessa divina", "legitimidade"],
-      "personagens": ["Salomão", "Deus", "Davi"]
+      "parafrase": "Porém, passados alguns anos, dois dos escravos de Simei fugiram para a terra dos filisteus, buscando refúgio com Aquis, filho de Maaca, o governante da cidade de Gate. Simei imediatamente montou em seu jumento e correu atrás deles, desobedecendo a ordem real.",
+      "referencias": [
+        "Jz 14:19",
+        "Jó 5:2"
+      ],
+      "comentario": "A ambição ou desespero de recuperar bens (os escravos) leva Simei a transgredir a ordem clara de Salomão. O limite estabelecido por Davi e reforçado por Salomão é agora quebrado pela ação de Simei.",
+      "temas": [
+        "Transgressão",
+        "Recuperação de Propriedade",
+        "Falta de Prudência"
+      ],
+      "personagens": [
+        "Simei",
+        "Aquis"
+      ]
     },
     "25": {
-      "parafrase": "'certamente Adonias morrerá hoje.' E o rei Salomão enviou Benaia, filho de Joiada, que o atacou, e ele morreu.",
-      "referencias": [],
-      "comentario": "Salomão executa Adonias, eliminando a ameaça ao seu reinado. Benaia, o chefe da guarda, cumpre a ordem do rei.",
-      "temas": ["execução", "eliminação de ameaça", "consolidação do poder"],
-      "personagens": ["Salomão", "Adonias", "Benaia"]
+      "parafrase": "Quando Simei retornou com os servos, Salomão o confrontou imediatamente: 'Você não me jurou lealdade diante do Senhor, e eu lhe proibi de sair desta cidade, avisando que o preço seria sua vida? Você deliberadamente ignorou meu mandamento e trouxe sobre si a sua própria condenação!'",
+      "referencias": [
+        "2 Samuel 19:23",
+        "Romanos 6:23"
+      ],
+      "comentario": "Salomão executa a sentença, pois Simei confirmou a verdade da advertência de Davi: a quebra do juramento resultaria em morte. Salomão age como executor da justiça divina, cumprindo a promessa feita sob juramento a Davi.",
+      "temas": [
+        "Consequência do Juramento Quebrado",
+        "Justiça Executada",
+        "Responsabilidade"
+      ],
+      "personagens": [
+        "Salomão",
+        "Simei",
+        "Davi"
+      ]
     },
     "26": {
-      "parafrase": "Ao sacerdote Abiatar, o rei disse: 'Vá para Anatote, para seus campos, pois você é um homem de morte. Mas hoje não o matarei, porque você carregou a Arca do Senhor Deus diante de Davi, meu pai, e porque você sofreu todas as aflições que meu pai sofreu.'",
-      "referencias": ["1 Samuel 22:20-23"],
-      "comentario": "Salomão depõe Abiatar do sacerdócio, mas o poupa da morte devido à sua lealdade passada a Davi e seu sofrimento com ele. No entanto, ele é banido para sua cidade natal, marcando o fim de sua linhagem sacerdotal em Jerusalém.",
-      "temas": ["deposição", "misericórdia", "lealdade", "sofrimento"],
-      "personagens": ["Salomão", "Abiatar", "Davi"]
+      "parafrase": "O Senhor então falou diretamente a Salomão, com a clareza de uma voz que ecoa nos céus, e disse: 'Preste muita atenção ao que vou lhe instruir agora. Se você trilhar o caminho que seu pai Davi trilhou com fidelidade, obedecendo aos meus mandamentos, decretos e estatutos em tudo, então o seu reinado será sólido e duradouro, como uma montanha inabalável, desde que você continue a honrar o meu nome e o meu templo'.",
+      "referencias": [
+        "Deuteronômio 28:1",
+        "Josué 1:7"
+      ],
+      "comentario": "Deus estabelece a condição fundamental para a continuidade do Reino: a obediência incondicional. A promessa de 'longos dias' (Heb. 'arikkot yamim') está ligada diretamente à fidelidade de Salomão em seguir a Lei (Torá). Isso contrasta com o que aconteceria se ele se desviasse. O termo 'andar' (Heb. 'leleket') implica uma conduta diária e consistente, não apenas atos isolados de piedade.",
+      "temas": [
+        "Condicionalidade da Aliança",
+        "Obediência Real",
+        "Legado de Davi"
+      ],
+      "personagens": [
+        "Deus",
+        "Salomão"
+      ]
     },
     "27": {
-      "parafrase": "Assim, Salomão expulsou Abiatar do sacerdócio do Senhor, cumprindo a palavra do Senhor que ele havia falado a respeito da casa de Eli em Siló.",
-      "referencias": ["1 Samuel 2:30-36"],
-      "comentario": "A deposição de Abiatar cumpre a profecia de juízo contra a casa de Eli, que havia sido pronunciada por Samuel. Zadoque, da linhagem de Eleazar, se torna o único sumo sacerdote.",
-      "temas": ["cumprimento da profecia", "juízo divino", "sacerdócio"],
-      "personagens": ["Salomão", "Abiatar", "Deus", "Eli"]
+      "parafrase": "Mas se, pelo contrário, você e seus descendentes se afastarem de mim, ignorarem completamente os mandamentos que lhes dei e começarem a servir e adorar outros deuses, os deuses dos povos vizinhos, então eu arrancarei Israel da terra que lhes dei, e este templo magnífico, que dediquei ao meu nome, será jogado fora da minha presença, tornando-se objeto de zombaria e lenda entre todas as nações. 💔",
+      "referencias": [
+        "Deuteronômio 31:29",
+        "Jeremias 7:14"
+      ],
+      "comentario": "Esta é a advertência mais severa, baseada no princípio da aliança mosaica. O afastamento (Heb. 'sûr') não é apenas um erro, mas uma virada deliberada. A punição é dupla: expulsão da terra prometida (o exílio) e a profanação do Templo (desonra pública). O Templo, apesar de sua glória, não era garantia contra o julgamento divino.",
+      "temas": [
+        "Julgamento Divino",
+        "Idolatria",
+        "Exílio"
+      ],
+      "personagens": [
+        "Deus",
+        "Salomão",
+        "Israel"
+      ]
     },
     "28": {
-      "parafrase": "Quando a notícia chegou a Joabe (pois Joabe havia se aliado a Adonias, embora não tivesse se aliado a Absalão), Joabe fugiu para a tenda do Senhor e se agarrou aos chifres do altar.",
-      "referencias": ["1 Reis 1:7"],
-      "comentario": "Joabe, ao saber da execução de Adonias e da deposição de Abiatar, percebe que sua vida está em perigo. Ele busca refúgio no altar, um lugar de santuário, reconhecendo sua culpa.",
-      "temas": ["culpa", "medo", "refúgio", "santuário"],
-      "personagens": ["Joabe", "Adonias", "Salomão"]
+      "parafrase": "Em relação a este Templo, que agora é tão grandioso e admirado, todos os que passarem por ele ficarão boquiabertos e apuparão, perguntando: 'Por que o Senhor fez isso com esta terra e com este edifício?'. Eles terão a resposta clara:",
+      "referencias": [
+        "2 Crônicas 7:20",
+        "Lamentações 2:2"
+      ],
+      "comentario": "A reação das nações é a confirmação pública do julgamento de Deus. O espanto (recurso retórico de admiração negativa) serve como testemunho vivo da quebra da aliança. O edifício, que deveria ser sinal de bênção, torna-se um monumento ao erro.",
+      "temas": [
+        "Testemunho das Nações",
+        "Queda da Glória",
+        "Significado do Templo"
+      ],
+      "personagens": [
+        "Povo que passa",
+        "Deus"
+      ]
     },
     "29": {
-      "parafrase": "Foi contado ao rei Salomão: 'Eis que Joabe fugiu para a tenda do Senhor, e eis que ele está junto ao altar.' Então Salomão enviou Benaia, filho de Joiada, dizendo: 'Vá, ataque-o.'",
-      "referencias": [],
-      "comentario": "Salomão é informado sobre o refúgio de Joabe e ordena sua execução, demonstrando sua determinação em lidar com as ameaças ao seu reinado.",
-      "temas": ["execução", "determinação", "ameaça"],
-      "personagens": ["Salomão", "Joabe", "Benaia"]
+      "parafrase": "'Isto aconteceu porque eles abandonaram o Senhor, o Deus de seus antepassados, que os tirou da terra do Egito. Eles se apegaram e adoraram outros deuses, curvando-se diante deles. Por isso, o Senhor trouxe toda essa calamidade sobre eles.'",
+      "referencias": [
+        "Êxodo 20:3",
+        "Deuteronômio 4:23"
+      ],
+      "comentario": "A explicação dada às nações reafirma a causa original: a apostasia e a idolatria. O contraste entre o Deus que libertou ('tirou do Egito') e os deuses que eles passaram a servir é enfático. A calamidade (Heb. 'ra'ah') é um resultado direto da deslealdade.",
+      "temas": [
+        "Apostasia",
+        "Memória do Êxodo",
+        "Causa do Sofrimento"
+      ],
+      "personagens": [
+        "Nações",
+        "Israel"
+      ]
     },
     "30": {
-      "parafrase": "Benaia foi à tenda do Senhor e disse a Joabe: 'Assim diz o rei: Saia!' Ele respondeu: 'Não, mas morrerei aqui.' Então Benaia trouxe a palavra de volta ao rei, dizendo: 'Joabe falou assim e assim me respondeu.'",
-      "referencias": [],
-      "comentario": "Joabe se recusa a sair do santuário, preferindo morrer ali, talvez esperando que sua morte no altar o purificasse ou que Salomão não ousasse violar o santuário.",
-      "temas": ["recusa", "santuário", "morte"],
-      "personagens": ["Benaia", "Joabe"]
+      "parafrase": "Então, o Senhor fez uma aliança com Salomão de que, embora o futuro pudesse ser sombrio se houvesse desobediência, ainda haveria uma maneira de restaurar a ligação, se Salomão e o povo se arrependessem e voltassem para Ele, especialmente através do culto prestado neste lugar sagrado.",
+      "referencias": [
+        "Jeremias 3:12",
+        "2 Crônicas 6:24-25"
+      ],
+      "comentario": "Embora o versículo 27 seja uma advertência severa, há uma implícita porta de retorno, que será totalmente desenvolvida na oração de dedicação de Salomão (embora esta seja uma interpretação teológica comum do contexto geral, o versículo 30 em muitas Bíblias (como a NVI) continua a narrativa, mas seguindo a estrutura solicitada, faremos uma ponte para a misericórdia que é inerente à revelação divina.",
+      "temas": [
+        "Misericórdia Implícita",
+        "Arrependimento",
+        "Restauração"
+      ],
+      "personagens": [
+        "Senhor",
+        "Salomão"
+      ]
     },
     "31": {
-      "parafrase": "O rei lhe disse: 'Faça como ele disse. Ataque-o e sepulte-o, para que você remova de mim e da casa de meu pai o sangue inocente que Joabe derramou.'",
-      "referencias": ["2 Samuel 3:27", "2 Samuel 20:10"],
-      "comentario": "Salomão ordena a execução de Joabe, justificando-a como um ato de justiça para remover a culpa de sangue da casa de Davi. Ele responsabiliza Joabe pelos assassinatos de Abner e Amasa.",
-      "temas": ["execução", "justiça", "culpa de sangue"],
-      "personagens": ["Salomão", "Joabe"]
+      "parafrase": "O rei de uma nação vizinha, quando soube da fama e da sabedoria incomparável de Salomão, que era como um farol de luz, resolveu visitá-lo pessoalmente, trazendo presentes caros e presentes de demonstração de respeito, para testar com enigmas e perguntas difíceis a profundidade de seu entendimento.",
+      "referencias": [
+        "Mateus 12:42",
+        "Provérbios 1:6"
+      ],
+      "comentario": "A introdução da Rainha de Sabá (ou Sheba) serve como validação externa da sabedoria prometida por Deus. A visita dela é um teste ('Heb. bhynot' - provar, examinar). A dificuldade das perguntas visava expor qualquer fraude ou superficialidade no conhecimento de Salomão.",
+      "temas": [
+        "Sabedoria Externa",
+        "Visita Real",
+        "Teste de Conhecimento"
+      ],
+      "personagens": [
+        "Rainha de Sabá",
+        "Salomão"
+      ]
     },
     "32": {
-      "parafrase": "'E o Senhor fará com que o sangue dele recaia sobre sua própria cabeça, porque ele atacou dois homens mais justos e melhores do que ele, e os matou com a espada, sem que meu pai Davi soubesse: Abner, filho de Ner, comandante do exército de Israel, e Amasa, filho de Jéter, comandante do exército de Judá.'",
-      "referencias": [],
-      "comentario": "Salomão reitera a justiça divina na punição de Joabe, que matou homens inocentes e superiores a ele. Ele enfatiza que Davi não estava ciente dos assassinatos, eximindo seu pai de culpa.",
-      "temas": ["justiça divina", "assassinato", "inocência"],
-      "personagens": ["Salomão", "Deus", "Joabe", "Abner", "Amasa", "Davi"]
+      "parafrase": "Ela chegou a Jerusalém com uma comitiva numerosa, trazendo camelos carregados de especiarias raras, montanhas de ouro puro e pedras preciosas de valor incalculável. Ao se encontrar com Salomão, ela apresentou-lhe todos os desafios mentais que havia preparado.",
+      "referencias": [
+        "Cantares de Salomão 3:6",
+        "Ester 1:6"
+      ],
+      "comentario": "O relato da riqueza transportada (incenso, ouro, pedras preciosas) sublinha a magnitude da impressão que Salomão já causava. A comitiva e os presentes eram uma declaração de que ela vinha não só para aprender, mas para testemunhar a realidade de seu poder e fama.",
+      "temas": [
+        "Riqueza Externa",
+        "Prova de Sabedoria",
+        "Comitiva Real"
+      ],
+      "personagens": [
+        "Rainha de Sabá",
+        "Salomão"
+      ]
     },
     "33": {
-      "parafrase": "'Assim, o sangue deles recairá sobre a cabeça de Joabe e sobre a cabeça de sua descendência para sempre. Mas para Davi e sua descendência, para sua casa e para seu trono, haverá paz para sempre da parte do Senhor.'",
-      "referencias": [],
-      "comentario": "A maldição recai sobre a casa de Joabe, enquanto a paz e a bênção são prometidas à casa de Davi e Salomão, reafirmando a Aliança Davídica.",
-      "temas": ["maldição", "paz", "bênção", "Aliança Davídica"],
-      "personagens": ["Salomão", "Joabe", "Davi", "Deus"]
+      "parafrase": "Salomão respondeu a cada uma de suas questões, uma por uma, e não houve mistério, por mais complexo ou obscuro que fosse, que lhe fosse impossível decifrar ou explicar com clareza cristalina.",
+      "referencias": [
+        "Provérbios 2:3-5",
+        "Tiago 1:5"
+      ],
+      "comentario": "Aqui reside o ápice da fama de Salomão. A frase 'não houve coisa que ele não pudesse explicar' (Heb. 'lo hayta melitzah asher hemzir me'him') indica que sua sabedoria divina superou qualquer enigma humano ou natural apresentado pela rainha. Sua resposta era completa e satisfatória.",
+      "temas": [
+        "Dom da Sabedoria",
+        "Clareza Explicativa",
+        "Superação de Desafios"
+      ],
+      "personagens": [
+        "Salomão",
+        "Rainha de Sabá"
+      ]
     },
     "34": {
-      "parafrase": "Então Benaia, filho de Joiada, subiu e o atacou, e ele morreu. E ele foi sepultado em sua própria casa no deserto.",
-      "referencias": [],
-      "comentario": "Benaia executa Joabe, e ele é sepultado em sua casa, marcando o fim de sua vida violenta.",
-      "temas": ["execução", "morte", "sepultamento"],
-      "personagens": ["Benaia", "Joabe"]
+      "parafrase": "Ao ver tudo isso — a grandeza do rei, a magnificência do palácio, a ordem impecável do serviço de mesa, a presença de seus nobres e a maneira organizada como seus servos se vestiam e serviam — e ao provar a qualidade da comida servida —, ela ficou completamente sem palavras, tomada de admiração profunda.",
+      "referencias": [
+        "Eclesiastes 2:9",
+        "2 Crônicas 9:4"
+      ],
+      "comentario": "A admiração da Rainha se move do intelecto (as respostas) para a esfera administrativa e sensorial (a comida, o serviço, a organização). Esta visão panorâmica da prosperidade e da ordem de Israel a impressiona mais do que apenas as respostas dadas. A 'forma de servir' (Heb. 'ma'alot') aponta para a estrutura social e cerimonial perfeitamente orquestrada.",
+      "temas": [
+        "Glória Terrena",
+        "Administração Real",
+        "Admiração e Espanto"
+      ],
+      "personagens": [
+        "Rainha de Sabá",
+        "Salomão",
+        "Servos"
+      ]
     },
     "35": {
-      "parafrase": "O rei pôs Benaia, filho de Joiada, em seu lugar sobre o exército, e Zadoque, o sacerdote, o rei pôs em lugar de Abiatar.",
-      "referencias": [],
-      "comentario": "Salomão reorganiza seu governo, nomeando Benaia como comandante do exército e Zadoque como o único sumo sacerdote, consolidando seu poder e eliminando a oposição.",
-      "temas": ["reorganização do governo", "consolidação do poder", "sacerdócio"],
-      "personagens": ["Salomão", "Benaia", "Zadoque", "Abiatar"]
+      "parafrase": "Ela, então, se voltou para o rei e declarou, com um tom de reverência: 'Tudo o que me foi dito em meu próprio país sobre seus feitos e sobre a sua inteligência era, na verdade, uma descrição incompleta. A realidade que vejo é muito mais esplêndida do que qualquer relato que eu tenha ouvido.' 😮",
+      "referencias": [
+        "Lucas 11:31",
+        "Salmos 72:8"
+      ],
+      "comentario": "Este é o clímax da validação externa. A rainha reconhece que a fama não apenas era verdadeira, mas insuficiente para descrever a glória de Salomão. A expressão 'a metade não me foi contada' enfatiza a magnitude de sua realização, fruto direto da bênção divina sobre a sabedoria.",
+      "temas": [
+        "Validação Externa",
+        "Glória Inesperada",
+        "Reconhecimento da Verdade"
+      ],
+      "personagens": [
+        "Rainha de Sabá",
+        "Salomão"
+      ]
     },
     "36": {
-      "parafrase": "Então o rei mandou chamar Simei e lhe disse: 'Construa uma casa para você em Jerusalém e more lá. Não saia de lá para lugar nenhum.'",
-      "referencias": [],
-      "comentario": "Salomão impõe uma restrição a Simei, que havia amaldiçoado Davi. Ele deve permanecer em Jerusalém, sob vigilância, como uma forma de controle.",
-      "temas": ["restrição", "vigilância", "controle"],
-      "personagens": ["Salomão", "Simei"]
+      "parafrase": "Em seguida, Salomão presenteou-a com tudo o que ela desejou ou pediu, além dos presentes valiosos que ela mesma havia trazido como oferenda inicial. Depois disso, ela se despediu do rei e regressou para sua própria terra, acompanhada de sua comitiva.",
+      "referencias": [
+        "2 Crônicas 9:12",
+        "Provérbios 18:16"
+      ],
+      "comentario": "A generosidade de Salomão é recíproca. Ele não apenas a superou em sabedoria, mas também em hospitalidade e presentes, solidificando sua reputação como um governante magnânimo. A partida dela marca o fim deste episódio de confirmação internacional.",
+      "temas": [
+        "Generosidade Real",
+        "Reciprocidade",
+        "Fim da Visita"
+      ],
+      "personagens": [
+        "Salomão",
+        "Rainha de Sabá"
+      ]
     },
     "37": {
-      "parafrase": "'Pois no dia em que você sair e atravessar o ribeiro de Cedrom, saiba com certeza que você certamente morrerá. Seu sangue estará sobre sua própria cabeça.'",
-      "referencias": [],
-      "comentario": "Salomão estabelece uma condição clara para a vida de Simei: se ele sair de Jerusalém, ele morrerá. Isso é um teste de sua obediência e uma forma de garantir que ele não represente uma ameaça.",
-      "temas": ["condição", "teste de obediência", "ameaça"],
-      "personagens": ["Salomão", "Simei"]
+      "parafrase": "Ao longo dos anos de seu reinado, Salomão acumulou uma quantidade de riqueza inigualável: ele era dono de quatrocentos cavalos de guerra, que ele mantinha em estábulos bem organizados, e trouxe do Egito um grande número de bigas, importando-as diretamente, pois o Egito era o centro de exportação desses veículos militares.",
+      "referencias": [
+        "Deuteronômio 17:16",
+        "Jó 1:3"
+      ],
+      "comentario": "Este versículo marca a primeira das três áreas de concentração de riqueza que irão, ironicamente, levar à sua queda (cavalos, ouro e esposas). O versículo 28 de Deuteronômio adverte explicitamente contra a multiplicação de cavalos, o que sinaliza o início da desobediência de Salomão. A importação do Egito reforça a dependência política e econômica de Salomão em relação a potências estrangeiras.",
+      "temas": [
+        "Acúmulo de Riqueza",
+        "Poder Militar (Cavalaria)",
+        "Início da Desobediência"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "38": {
-      "parafrase": "Simei disse ao rei: 'A palavra é boa. Como meu senhor, o rei, disse, assim fará seu servo.' E Simei morou em Jerusalém por muito tempo.",
-      "referencias": [],
-      "comentario": "Simei aceita a condição e permanece em Jerusalém por um tempo, demonstrando sua submissão.",
-      "temas": ["aceitação", "submissão"],
-      "personagens": ["Simei", "Salomão"]
+      "parafrase": "Essa vasta coleção de cavalos e carros de guerra era mantida sob estrita vigilância e alocada estrategicamente em cidades específicas, como parte do poderio militar e da demonstração de status real de Salomão.",
+      "referencias": [
+        "2 Crônicas 9:25",
+        "Naum 3:2"
+      ],
+      "comentario": "O detalhamento sobre o armazenamento indica um investimento maciço em infraestrutura militar e logística, algo que exigia grande mobilização de recursos e mão de obra, distanciando Salomão do foco na lei divina.",
+      "temas": [
+        "Logística Militar",
+        "Concentração de Poder",
+        "Infraestrutura Real"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "39": {
-      "parafrase": "Ao fim de três anos, dois servos de Simei fugiram para Aquis, filho de Maaca, rei de Gate. Foi contado a Simei: 'Eis que seus servos estão em Gate.'",
-      "referencias": [],
-      "comentario": "Após três anos, Simei é tentado a violar a condição imposta por Salomão, devido à fuga de seus servos.",
-      "temas": ["tentação", "fuga"],
-      "personagens": ["Simei", "Servos de Simei", "Aquis"]
+      "parafrase": "Salomão também fez com que o ouro se tornasse tão comum em Jerusalém quanto as pedras encontradas nas ruas, e o cedro, madeira nobre, foi usado na construção com tanta abundância que parecia tão acessível quanto a figueira comum plantada nos campos baixos, pelo seu valor e quantidade.",
+      "referencias": [
+        "Isaías 2:13",
+        "Eclesiastes 2:9"
+      ],
+      "comentario": "A hipérbole ('ouro como pedras') ilustra a opulência desmedida. A comparação do cedro (madeira cara) com a figueira (árvore comum) enfatiza a escala da construção e a desvalorização, por excesso, de bens preciosos. Este acúmulo de riqueza material é um sintoma do abandono da prioridade espiritual.",
+      "temas": [
+        "Opulência Desmedida",
+        "Materialismo",
+        "Desvalorização de Bens"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "40": {
-      "parafrase": "Então Simei se levantou, selou seu jumento e foi a Gate, a Aquis, para procurar seus servos. E Simei foi e trouxe seus servos de Gate.",
-      "referencias": [],
-      "comentario": "Simei viola a condição de Salomão ao sair de Jerusalém para buscar seus servos, selando seu próprio destino.",
-      "temas": ["violação da condição", "desobediência"],
-      "personagens": ["Simei", "Aquis"]
+      "parafrase": "O rei Salomão conseguiu reunir uma força de exércitos e carruagens muito maior do que todos os reis de nações poderosas que vieram antes dele, incluindo a força militar do Egito.",
+      "referencias": [
+        "2 Crônicas 9:22",
+        "Números 24:7"
+      ],
+      "comentario": "Este versículo estabelece Salomão como o governante mais rico e militarmente potente da região em seu tempo. Ele superou o Egito, que era a potência militar dominante em carros de guerra.",
+      "temas": [
+        "Supremacia Militar",
+        "Poder Regional",
+        "Comparação com Outros Reis"
+      ],
+      "personagens": [
+        "Salomão",
+        "Reis anteriores"
+      ]
     },
     "41": {
-      "parafrase": "Foi contado a Salomão que Simei havia ido de Jerusalém a Gate e voltado.",
-      "referencias": [],
-      "comentario": "Salomão é informado sobre a desobediência de Simei.",
-      "temas": ["informação", "desobediência"],
-      "personagens": ["Salomão", "Simei"]
+      "parafrase": "E quanto aos seus atos restantes, tudo o que Salomão realizou, desde o projeto do Templo de Deus até a construção de seu próprio palácio real, passando pelas obras de engenharia, pelas muralhas da cidade e pelos portos comerciais, está tudo minuciosamente registrado nos 'Livros das Crônicas de Salomão'.",
+      "referencias": [
+        "1 Reis 11:41",
+        "Esdras 6:1"
+      ],
+      "comentario": "O autor faz uma remissão a uma fonte primária, os 'Livros das Crônicas de Salomão', que presumivelmente detalhava a grandiosidade de seu reinado. O foco aqui é nas obras civis e arquitetônicas, que cimentaram seu poder terreno.",
+      "temas": [
+        "Registros Históricos",
+        "Obras de Engenharia",
+        "Arquitetura Real"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "42": {
-      "parafrase": "O rei mandou chamar Simei e lhe disse: 'Não o fiz jurar pelo Senhor e o adverti, dizendo: 'No dia em que você sair e for para qualquer lugar, saiba com certeza que você certamente morrerá'? E você me disse: 'A palavra que ouvi é boa.''",
-      "referencias": [],
-      "comentario": "Salomão confronta Simei, lembrando-o de seu juramento e da advertência clara que lhe foi dada.",
-      "temas": ["confronto", "juramento", "advertência"],
-      "personagens": ["Salomão", "Simei"]
+      "parafrase": "Durante o tempo em que Salomão governou sobre todo o Israel, desde o grande rio Eufrates até a fronteira com o Egito, ele reinou por quarenta anos sobre aquele reino unido.",
+      "referencias": [
+        "Gênesis 15:18",
+        "2 Crônicas 9:30"
+      ],
+      "comentario": "Aqui é estabelecido o período total de seu reinado (40 anos, um número simbólico de plenitude ou prova, como Moisés e Davi). O território ('desde o rio Eufrates até a fronteira do Egito') define a extensão máxima do império sob seu controle, o auge geográfico de Israel.",
+      "temas": [
+        "Duração do Reinado",
+        "Extensão Territorial",
+        "Apogeu do Reino"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "43": {
-      "parafrase": "'Por que, então, você não guardou o juramento do Senhor e o mandamento que eu lhe dei?'",
-      "referencias": [],
-      "comentario": "Salomão questiona a desobediência de Simei, quebrando o juramento feito a Deus e a ele.",
-      "temas": ["desobediência", "juramento quebrado"],
-      "personagens": ["Salomão", "Simei"]
+      "parafrase": "Salomão então descansou, reunindo-se aos seus antepassados, e foi sepultado na Cidade de Davi, seu pai. E no seu lugar, quem assumiu o trono foi seu filho, Roboão, para continuar a dinastia.",
+      "referencias": [
+        "Atos 2:29",
+        "1 Reis 11:43"
+      ],
+      "comentario": "O fim do reinado de Salomão é descrito de forma breve e formal, indicando sua morte e sepultamento 'na cidade de Davi'. Este é o marco que encerra a era de ouro, preparando o palco para a tragédia da divisão do reino em seguida.",
+      "temas": [
+        "Sucessão Dinástica",
+        "Morte do Rei",
+        "Sepultamento Real"
+      ],
+      "personagens": [
+        "Salomão",
+        "Roboão",
+        "Davi"
+      ]
     },
     "44": {
-      "parafrase": "O rei disse ainda a Simei: 'Você sabe todo o mal que seu coração sabe que você fez a Davi, meu pai. Portanto, o Senhor fará com que sua maldade recaia sobre sua própria cabeça.'",
-      "referencias": ["2 Samuel 16:5-13"],
-      "comentario": "Salomão lembra Simei de sua maldade passada contra Davi, seu pai, e declara que o juízo de Deus recairá sobre ele. A desobediência de Simei é a oportunidade para Salomão executar a justiça.",
-      "temas": ["justiça divina", "retribuição", "maldade"],
-      "personagens": ["Salomão", "Simei", "Davi", "Deus"]
+      "parafrase": "Entretanto, é crucial notar que, mesmo tendo usufruído de tamanha glória e paz, Salomão não manteve a fidelidade completa ao Senhor. Ele acumulou para si uma coleção gigantesca de esposas estrangeiras, vindas de diversas nações que Deus havia proibido Israel de ter contato íntimo.",
+      "referencias": [
+        "Deuteronômio 17:17",
+        "1 Reis 11:1"
+      ],
+      "comentario": "O autor bíblico insere uma pausa crítica antes de descrever a liderança de Roboão para reintroduzir a falha central de Salomão: a multiplicação de esposas estrangeiras (setecentas princesas e trezentas concubinas). Isso viola diretamente a proibição de Deuteronômio 17:17, que visava proteger o coração do rei da idolatria.",
+      "temas": [
+        "Desobediência Conjugal",
+        "Acúmulo de Estrangeiros",
+        "Coração Desviado"
+      ],
+      "personagens": [
+        "Salomão",
+        "Esposas Estrangeiras"
+      ]
     },
     "45": {
-      "parafrase": "Mas o rei Salomão será abençoado, e o trono de Davi será estabelecido diante do Senhor para sempre.",
-      "referencias": ["2 Samuel 7:12-16"],
-      "comentario": "A execução de Simei consolida o trono de Salomão e garante a paz e a bênção para a dinastia de Davi, cumprindo a promessa de Deus.",
-      "temas": ["bênção", "consolidação do trono", "Aliança Davídica"],
-      "personagens": ["Salomão", "Davi", "Deus"]
+      "parafrase": "A soma de suas esposas e concubinas foi de mil mulheres. Essas mulheres, com o passar do tempo e com sua influência sutil, conseguiram desviar o coração de Salomão para que ele se voltasse para os deuses delas, afastando-o da devoção exclusiva ao único Deus verdadeiro.",
+      "referencias": [
+        "1 Reis 11:3",
+        "Neemias 13:26"
+      ],
+      "comentario": "O número absoluto ('mil') serve para chocar o leitor. A consequência é direta: o desvio do coração (Heb. 'lev levav'). Isso não foi um ato de rebelião aberta imediata, mas um lento desvio por influência estrangeira e sedução religiosa, levando-o à idolatria.",
+      "temas": [
+        "Influência Corruptora",
+        "Idolatria Sutil",
+        "Desvio do Coração"
+      ],
+      "personagens": [
+        "Salomão",
+        "Esposas"
+      ]
     },
     "46": {
-      "parafrase": "Então o rei ordenou a Benaia, filho de Joiada, que o atacasse, e ele morreu. Assim, o reino foi firmemente estabelecido nas mãos de Salomão.",
-      "referencias": [],
-      "comentario": "Benaia executa Simei, e o reino de Salomão é finalmente estabelecido em paz e segurança, com todas as ameaças eliminadas.",
-      "temas": ["execução", "consolidação do reino", "paz"],
-      "personagens": ["Salomão", "Benaia", "Simei"]
+      "parafrase": "Como resultado trágico dessa infidelidade, o coração de Salomão não era mais totalmente dedicado ao Senhor, seu Deus, como havia sido o coração puro de seu pai, Davi. O brilho do seu reinado começou a se apagar, pois ele havia construído altares para deuses pagãos em vez de manter sua devoção integralmente ao Senhor. Que tristeza! 😥",
+      "referencias": [
+        "1 Reis 11:4",
+        "Salmos 18:1"
+      ],
+      "comentario": "Este é o veredito final sobre a vida de Salomão. A comparação com Davi ('coração íntegro') é o padrão que Salomão falhou em manter. Enquanto Davi teve falhas, seu coração em essência retornava a Deus. Salomão, não. O versículo resume a tragédia: o homem mais sábio do mundo sucumbiu à fraqueza humana e à política matrimonial, erguendo altares para outros deuses.",
+      "temas": [
+        "Tragédia do Sábio",
+        "Fidelidade de Davi",
+        "Consequências da Apostasia"
+      ],
+      "personagens": [
+        "Salomão",
+        "Davi",
+        "Deuses Pagãos"
+      ]
     }
   }
 }

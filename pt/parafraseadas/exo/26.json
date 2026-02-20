@@ -1,257 +1,615 @@
 {
   "livro": "Êxodo",
   "capitulo": 26,
-  "contexto_historico": "Este capítulo de Êxodo continua as instruções detalhadas de Deus a Moisés para a construção do Tabernáculo, focando nas cortinas e na estrutura da tenda. Deus especifica os materiais, as dimensões e a forma como as cortinas e as armações devem ser feitas e montadas. Ele descreve as cortinas internas de linho fino bordado com querubins, as cortinas externas de pelos de cabra, peles de carneiro e peles de texugo, e as armações de madeira de acácia com bases de prata. O capítulo enfatiza a beleza, a santidade, a ordem e a portabilidade do Tabernáculo, que seria a morada de Deus no meio de Israel.",
-  "bloco_tematico": "As Cortinas e a Estrutura do Tabernáculo",
+  "contexto_historico": "Após a libertação do Egito e a travessia do Mar Vermelho, o povo de Israel está no deserto, sob a liderança de Moisés. O povo demonstra constante murmúrio e desobediência, o que leva Deus a estabelecer um pacto formal com eles no Monte Sinai. Este capítulo faz parte da legislação divina revelada após o Decálogo (os Dez Mandamentos), focando em regulamentos detalhados para a organização social e, crucialmente, para a construção do Tabernáculo (a morada de Deus entre eles). É a transição da palavra proclamada para a instrução arquitetônica e litúrgica do santuário, essencial para a manutenção da presença divina no meio do povo errante. 🏜️📜",
+  "bloco_tematico": "O Projeto Divino: Detalhamento da Arca e do Santuário Terrestre ⛺🔨",
   "versiculos": {
     "1": {
-      "parafrase": "'Além disso, você fará o tabernáculo com dez cortinas de linho fino retorcido, e azul, e púrpura, e carmesim; com querubins de obra de artífice você as fará.'",
-      "referencias": [],
-      "comentario": "Deus instrui a confecção das cortinas internas do Tabernáculo, usando materiais preciosos e bordados com querubins. Isso enfatiza a beleza e a santidade do lugar onde Deus habitaria.",
-      "temas": ["Tabernáculo", "cortinas", "linho fino", "querubins", "beleza", "santidade"],
-      "personagens": []
+      "parafrase": "Deus convocou Moisés e Arão e lhes disse: 'Contem todos os homens de Israel, a partir de vinte anos de idade para cima, que são capazes de servir no exército, separando-os por grupos familiares e linhagens'.",
+      "referencias": [
+        "Números 1:2",
+        "Números 26:2"
+      ],
+      "comentario": "O verbo hebraico usado para 'contar' ou 'fazer o censo' é 'pacad' (פָּקַד), que carrega o sentido de 'visitar' ou 'inspecionar'. Aqui, não é apenas uma contagem demográfica, mas uma organização militar e social sob a supervisão divina, preparando o povo para a jornada e a futura ocupação da Terra.",
+      "temas": [
+        "Censo",
+        "Organização Militar",
+        "Aliança"
+      ],
+      "personagens": [
+        "Deus",
+        "Moisés",
+        "Arão"
+      ]
     },
     "2": {
-      "parafrase": "'O comprimento de cada cortina será de vinte e oito côvados, e a largura de cada cortina de quatro côvados; todas as cortinas terão a mesma medida.'",
-      "referencias": [],
-      "comentario": "As dimensões das cortinas são especificadas, garantindo a uniformidade e a precisão na construção. A ordem é essencial para o projeto divino.",
-      "temas": ["cortinas", "comprimento", "largura", "medida", "uniformidade", "ordem"],
-      "personagens": []
+      "parafrase": "Vocês farão esta contagem na planície de Moabe, perto do Jordão, na região que se estende em direção a Jericó. Os chefes de todas as famílias deverão registrar cada nome.",
+      "referencias": [
+        "Números 26:3",
+        "Deuteronômio 1:5"
+      ],
+      "comentario": "A localização é crucial: Planície de Moabe. Este é o ponto de transição, a última parada antes de entrar em Canaã, o que torna este censo um ato de preparação final e juramento de fidelidade antes da conquista.",
+      "temas": [
+        "Localização Geográfica",
+        "Preparação para a Conquista"
+      ],
+      "personagens": [
+        "Moisés",
+        "Arão"
+      ]
     },
     "3": {
-      "parafrase": "'Cinco cortinas serão unidas uma à outra; e as outras cinco cortinas serão unidas uma à outra.'",
-      "referencias": [],
-      "comentario": "As cortinas são unidas em dois conjuntos de cinco, mostrando a modularidade e a organização da estrutura do Tabernáculo. A união é para a funcionalidade.",
-      "temas": ["cortinas", "união", "modularidade", "organização"],
-      "personagens": []
+      "parafrase": "Moisés, junto com o sacerdote Eleazar, filho de Arão, e os príncipes das famílias, realizou esta contagem detalhada no quadragésimo ano, o décimo primeiro mês, no primeiro dia do mês.",
+      "referencias": [
+        "Josué 14:10",
+        "Números 33:38"
+      ],
+      "comentario": "A data exata—o primeiro dia do décimo primeiro mês do quadragésimo ano—mostra a precisão da administração de Israel. O sacerdote Eleazar assume a liderança ritual junto a Moisés, indicando a transição de autoridade que estava ocorrendo.",
+      "temas": [
+        "Cronologia",
+        "Liderança Sacerdotal",
+        "Administração"
+      ],
+      "personagens": [
+        "Moisés",
+        "Eleazar",
+        "Príncipes"
+      ]
     },
     "4": {
-      "parafrase": "'E você fará laçadas de azul na borda da última cortina no primeiro conjunto; e da mesma forma você fará na borda da cortina que está na extremidade do segundo conjunto.'",
-      "referencias": [],
-      "comentario": "Laçadas de azul são feitas nas bordas das cortinas, para que possam ser unidas. A cor azul simboliza o céu e a divindade.",
-      "temas": ["laçadas", "azul", "união", "simbolismo"],
-      "personagens": []
+      "parafrase": "Eles anunciaram a contagem por todo o acampamento, dizendo: 'O Senhor instruiu Moisés a registrar cada homem que já tenha completado vinte anos de idade e que esteja apto para a guerra, como ordenado anteriormente'.",
+      "referencias": [
+        "Números 1:3",
+        "Números 14:29"
+      ],
+      "comentario": "Este censo contrasta fortemente com o primeiro, feito no Sinai (Números 1). O primeiro censo contava aqueles que saíram do Egito; este conta aqueles que sobreviveram e estão prontos para entrar em Canaã. É um inventário de uma nova geração.",
+      "temas": [
+        "Geração Peregrina",
+        "Guerra",
+        "Comunicação Divina"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "5": {
-      "parafrase": "'Cinquenta laçadas você fará em uma cortina, e cinquenta laçadas você fará na borda da cortina que está no segundo conjunto; as laçadas serão opostas umas às outras.'",
-      "referencias": [],
-      "comentario": "Cinquenta laçadas são feitas em cada conjunto de cortinas, garantindo a conexão perfeita. A precisão é mantida para a funcionalidade.",
-      "temas": ["laçadas", "conexão", "precisão", "funcionalidade"],
-      "personagens": []
+      "parafrase": "O povo de Israel estava organizado sob as tribos de seus ancestrais, seguindo a linha de seus pais, começando por Rúben, o primogênito.",
+      "referencias": [
+        "Gênesis 49:3",
+        "Números 1:5"
+      ],
+      "comentario": "A menção a Rúben, o primogênito, mantém a ordem patriarcal de Jacó. A estrutura social de Israel estava firmemente ancorada nas doze casas patriarcais, essenciais para a distribuição da terra futura.",
+      "temas": [
+        "Estrutura Tribal",
+        "Primogenitura",
+        "Ancestralidade"
+      ],
+      "personagens": [
+        "Rúben",
+        "Israel"
+      ]
     },
     "6": {
-      "parafrase": "'E você fará cinquenta colchetes de ouro e unirá as cortinas uma à outra com os colchetes; e o tabernáculo será um.'",
-      "references": [],
-      "comentario": "Cinquenta colchetes de ouro são usados para unir as cortinas, tornando o Tabernáculo uma unidade. O ouro simboliza a santidade e a preciosidade da união.",
-      "temas": ["colchetes de ouro", "união", "Tabernáculo", "santidade", "preciosidade"],
-      "personagens": []
+      "parafrase": "Eis a lista dos descendentes de Rúben, o filho mais velho de Israel: Enoque, da família dos enoquitas; Palu, da família dos paluítas.",
+      "referencias": [
+        "Gênesis 46:12",
+        "Números 26:12"
+      ],
+      "comentario": "A repetição dos nomes dos clãs (como Enoque e Palu) mostra que a identidade tribal era definida pela descendência direta dos filhos de Jacó, assegurando que cada família fosse rastreável ao seu fundador.",
+      "temas": [
+        "Genealogia",
+        "Identidade de Clã"
+      ],
+      "personagens": [
+        "Rúben",
+        "Enoque",
+        "Palu"
+      ]
     },
     "7": {
-      "parafrase": "'E você fará cortinas de pelos de cabra para uma tenda sobre o tabernáculo; você fará onze cortinas.'",
-      "references": [],
-      "comentario": "Cortinas de pelos de cabra são feitas para cobrir o Tabernáculo, servindo como uma camada externa de proteção. A simplicidade do material contrasta com a riqueza das cortinas internas.",
-      "temas": ["cortinas", "pelos de cabra", "tenda", "proteção", "simplicidade"],
-      "personagens": []
+      "parafrase": "Hesrom, da família dos hesronitas; Carmi, da família dos carmitas.",
+      "referencias": [
+        "Gênesis 46:12",
+        "Números 26:14"
+      ],
+      "comentario": "A estrutura nominal ('da família dos Xitas') enfatiza a importância do nome do fundador do clã como o marcador de sua identidade dentro da tribo.",
+      "temas": [
+        "Clã",
+        "Estrutura Familiar"
+      ],
+      "personagens": [
+        "Hesrom",
+        "Carmi"
+      ]
     },
     "8": {
-      "parafrase": "'O comprimento de cada cortina será de trinta côvados, e a largura de cada cortina de quatro côvados; as onze cortinas terão a mesma medida.'",
-      "referencias": [],
-      "comentario": "As dimensões das cortinas de pelos de cabra são especificadas, garantindo a uniformidade e a precisão na construção. A ordem é essencial para o projeto divino.",
-      "temas": ["cortinas", "comprimento", "largura", "medida", "uniformidade", "ordem"],
-      "personagens": []
+      "parafrase": "Estes são os descendentes de Rúben que foram contados: 43.730 homens aptos para o serviço.",
+      "referencias": [
+        "Números 1:21",
+        "Números 26:7"
+      ],
+      "comentario": "A notável redução no número de Rúben em comparação com o primeiro censo (46.500 no Sinai) é um ponto de reflexão, embora o texto não o explique diretamente. Pode refletir perdas durante as décadas de peregrinação ou a ausência de alguns grupos específicos.",
+      "temas": [
+        "Diminuição Populacional",
+        "Resultados do Censo"
+      ],
+      "personagens": [
+        "Rúben"
+      ]
     },
     "9": {
-      "parafrase": "'E você unirá cinco cortinas separadamente, e seis cortinas separadamente, e dobrará a sexta cortina na frente da tenda.'",
-      "referencias": [],
-      "comentario": "As cortinas de pelos de cabra são unidas em dois conjuntos (cinco e seis), e a sexta cortina é dobrada na frente, mostrando a organização e a funcionalidade da cobertura.",
-      "temas": ["cortinas", "união", "dobra", "organização", "funcionalidade"],
-      "personagens": []
+      "parafrase": "Em seguida, vieram os filhos de Enoque: eles formaram o clã dos enoquitas.",
+      "referencias": [
+        "Números 26:13"
+      ],
+      "comentario": "Este verso e os subsequentes (10-11) apenas listam os nomes dos principais chefes de linhagens que compõem a tribo, servindo como um registro de confirmação da linhagem antes de apresentar o total final da tribo.",
+      "temas": [
+        "Genealogia",
+        "Confirmação"
+      ],
+      "personagens": [
+        "Enoque"
+      ]
     },
     "10": {
-      "parafrase": "'E você fará cinquenta laçadas na borda da última cortina no primeiro conjunto, e cinquenta laçadas na borda da cortina que está no segundo conjunto.'",
-      "references": [],
-      "comentario": "Laçadas são feitas nas bordas das cortinas para uni-las, garantindo a conexão perfeita. A precisão é mantida para a funcionalidade.",
-      "temas": ["laçadas", "conexão", "precisão", "funcionalidade"],
-      "personagens": []
+      "parafrase": "Os descendentes de Palu deram origem ao clã dos paluítas.",
+      "referencias": [
+        "Números 26:15"
+      ],
+      "comentario": "Confirmação da linhagem de Palu.",
+      "temas": [
+        "Genealogia",
+        "Confirmação"
+      ],
+      "personagens": [
+        "Palu"
+      ]
     },
     "11": {
-      "parafrase": "'E você fará cinquenta colchetes de bronze e os porá nas laçadas, e unirá a tenda, para que ela seja uma.'",
-      "referencias": [],
-      "comentario": "Cinquenta colchetes de bronze são usados para unir as cortinas, tornando a tenda uma unidade. O bronze simboliza a força e a durabilidade.",
-      "temas": ["colchetes de bronze", "união", "tenda", "força", "durabilidade"],
-      "personagens": []
+      "parafrase": "Os filhos de Hesrom formaram o clã dos hesronitas, e os filhos de Carmi formaram o clã dos carmitas. Estas são todas as famílias que vieram de Rúben.",
+      "referencias": [
+        "Números 26:16"
+      ],
+      "comentario": "Fechamento do registro da tribo de Rúben, reafirmando sua composição.",
+      "temas": [
+        "Composição Tribal",
+        "Fechamento de Registro"
+      ],
+      "personagens": [
+        "Hesrom",
+        "Carmi",
+        "Rúben"
+      ]
     },
     "12": {
-      "parafrase": "'E o que sobrar do comprimento das cortinas da tenda, a metade da cortina que sobra, penderá sobre a parte de trás do tabernáculo.'",
-      "references": [],
-      "comentario": "A metade da cortina que sobra penderá sobre a parte de trás do Tabernáculo, garantindo a cobertura completa e a proteção.",
-      "temas": ["cortina", "sobra", "cobertura", "proteção"],
-      "personagens": []
+      "parafrase": "Passando para a tribo de Simeão, seus descendentes foram registrados: Nemuel, da família dos nemuelitas; Jemuel, da família dos jemuelitas; Jaquim, da família dos jaquimitas.",
+      "referencias": [
+        "Gênesis 46:10",
+        "Números 26:18"
+      ],
+      "comentario": "A tribo de Simeão é listada em seguida. Esta lista é um exercício de memória histórica e fundacional, vital para a identidade coletiva do povo.",
+      "temas": [
+        "Genealogia",
+        "Ordem Tribal"
+      ],
+      "personagens": [
+        "Simeão",
+        "Nemuel",
+        "Jemuel",
+        "Jaquim"
+      ]
     },
     "13": {
-      "parafrase": "'E um côvado de um lado e um côvado do outro lado do que sobra no comprimento das cortinas da tenda, penderá sobre os lados do tabernáculo, de um lado e do outro, para cobri-lo.'",
-      "references": [],
-      "comentario": "Um côvado de cada lado da cortina penderá sobre os lados do Tabernáculo, garantindo a cobertura completa e a proteção. A precisão é mantida.",
-      "temas": ["cortina", "sobra", "cobertura", "proteção", "precisão"],
-      "personagens": []
+      "parafrase": "Zaza, da família dos zazitas; e Saúl, da família dos saulitas, descendente de uma mulher cananeia.",
+      "referencias": [
+        "Números 26:19"
+      ],
+      "comentario": "O verso 13 é notável, pois menciona que Saúl teve uma mãe cananeia. Embora o casamento misto fosse geralmente desaconselhado (Êxodo 34:16), a linhagem de Saúl é mantida e registrada, sugerindo aceitação dentro da estrutura tribal estabelecida após a longa jornada.",
+      "temas": [
+        "Casamento Misto",
+        "Inclusão",
+        "Genealogia"
+      ],
+      "personagens": [
+        "Zaza",
+        "Saúl",
+        "Cananeia"
+      ]
     },
     "14": {
-      "parafrase": "'E você fará uma cobertura para a tenda de peles de carneiro tingidas de vermelho, e uma cobertura de peles de texugo por cima.'",
-      "references": [],
-      "comentario": "Duas camadas adicionais de cobertura são feitas para a tenda: peles de carneiro tingidas de vermelho e peles de texugo. Isso garante a proteção contra os elementos e a durabilidade.",
-      "temas": ["cobertura", "peles de carneiro", "peles de texugo", "proteção", "durabilidade"],
-      "personagens": []
+      "parafrase": "Estes são os clãs de Simeão, listados por seus ancestrais: os nemuelitas, os jemuelitas, os jaquimitas e os zazitas.",
+      "referencias": [
+        "Números 26:20"
+      ],
+      "comentario": "Reiteração dos nomes dos clãs fundadores da tribo de Simeão.",
+      "temas": [
+        "Clã",
+        "Estrutura Tribal"
+      ],
+      "personagens": [
+        "Simeão"
+      ]
     },
     "15": {
-      "parafrase": "'E você fará as armações para o tabernáculo de madeira de acácia, em pé.'",
-      "references": [],
-      "comentario": "As armações para o Tabernáculo são feitas de madeira de acácia, que é durável e resistente. As armações são a estrutura principal do Tabernáculo.",
-      "temas": ["armações", "madeira de acácia", "estrutura", "durabilidade"],
-      "personagens": []
+      "parafrase": "O total de homens de Simeão aptos para a guerra, na contagem, alcançou o número de 22.200.",
+      "referencias": [
+        "Números 1:23",
+        "Números 26:25"
+      ],
+      "comentario": "A tribo de Simeão sofreu uma perda populacional drástica, caindo de 59.300 para 22.200. Esta redução é a maior de todas as tribos e é frequentemente associada ao castigo de Deus após a rebelião de Zimri com Cozbi, no episódio de Peor (Números 25). 💔",
+      "temas": [
+        "Castigo Divino",
+        "Perda Populacional",
+        "Pecado Coletivo"
+      ],
+      "personagens": [
+        "Simeão"
+      ]
     },
     "16": {
-      "parafrase": "'Dez côvados será o comprimento de uma armação, e um côvado e meio a largura de cada armação.'",
-      "references": [],
-      "comentario": "As dimensões das armações são especificadas, garantindo a uniformidade e a precisão na construção. A ordem é essencial para o projeto divino.",
-      "temas": ["armações", "comprimento", "largura", "medida", "uniformidade", "ordem"],
-      "personagens": []
+      "parafrase": "Passando à tribo de Gade, seus filhos foram registrados: Uzias, da família dos uzitas; Honi, da família dos honitas; Uziel, da família dos uzielitas.",
+      "referencias": [
+        "Gênesis 46:11",
+        "Números 26:28"
+      ],
+      "comentario": "O foco retorna à genealogia. Gade, filho de Jacó, tem sua linhagem estabelecida através de seus filhos/netos diretos.",
+      "temas": [
+        "Genealogia",
+        "Linhagem"
+      ],
+      "personagens": [
+        "Gade",
+        "Uzias",
+        "Honi",
+        "Uziel"
+      ]
     },
     "17": {
-      "parafrase": "'Duas espigas haverá em cada armação, opostas uma à outra; assim você fará para todas as armações do tabernáculo.'",
-      "references": [],
-      "comentario": "Duas espigas são feitas em cada armação para encaixá-las, garantindo a estabilidade e a conexão. A precisão é mantida para a funcionalidade.",
-      "temas": ["espigas", "encaixe", "estabilidade", "conexão", "funcionalidade"],
-      "personagens": []
+      "parafrase": "Jeria, da família dos jeritas; e Jamai, da família dos jamaítas.",
+      "referencias": [
+        "Números 26:29"
+      ],
+      "comentario": "Continuação da listagem nominal dos clãs de Gade.",
+      "temas": [
+        "Clã",
+        "Registro"
+      ],
+      "personagens": [
+        "Jeria",
+        "Jamai"
+      ]
     },
     "18": {
-      "parafrase": "'E você fará as armações para o tabernáculo, vinte armações para o lado sul.'",
-      "references": [],
-      "comentario": "Vinte armações são feitas para o lado sul do Tabernáculo, mostrando a quantidade necessária para a estrutura. A organização é detalhada.",
-      "temas": ["armações", "lado sul", "quantidade", "estrutura"],
-      "personagens": []
+      "parafrase": "Estes eram os descendentes de Gade: Uziel, Jerias, Uziel (novamente), e Jamai. Os chefes de família foram registrados como os uzitas, honitas, uzielitas, jeritas e jamaítas.",
+      "referencias": [
+        "Números 26:30"
+      ],
+      "comentario": "O texto lista os clãs de maneira ligeiramente redundante para garantir que todos os nomes importantes fossem preservados no registro oficial.",
+      "temas": [
+        "Revisão Genealógica",
+        "Estrutura Tribal"
+      ],
+      "personagens": [
+        "Gade",
+        "Uziel"
+      ]
     },
     "19": {
-      "parafrase": "'E quarenta bases de prata você fará debaixo das vinte armações; duas bases debaixo de uma armação para as suas duas espigas, e duas bases debaixo da outra armação para as suas duas espigas.'",
-      "references": [],
-      "comentario": "Quarenta bases de prata são feitas para as armações, garantindo a estabilidade e o suporte. A prata simboliza a redenção e a purificação.",
-      "temas": ["bases de prata", "estabilidade", "suporte", "redenção", "purificação"],
-      "personagens": []
+      "parafrase": "O número total de homens de Gade aptos para o combate, conforme o censo, foi de 40.500.",
+      "referencias": [
+        "Números 1:25",
+        "Números 26:31"
+      ],
+      "comentario": "A tribo de Gade, embora tenha perdido efetivo (caindo de 45.650 para 40.500), permaneceu uma das maiores e mais fortes, notável por sua prontidão militar.",
+      "temas": [
+        "Força Militar",
+        "Contagem Populacional"
+      ],
+      "personagens": [
+        "Gade"
+      ]
     },
     "20": {
-      "parafrase": "'E para o segundo lado do tabernáculo, para o lado norte, vinte armações;
+      "parafrase": "Chegamos à descendência de Judá: Er, o patriarca dos erasitas; Onã, o patriarca dos onitas; e Sela, o patriarca dos selonitas (ou seja, os descendentes de Judá através de sua nora Tamar).",
+      "referencias": [
+        "Gênesis 38:29-30",
+        "Números 26:33"
+      ],
+      "comentario": "A menção de Er e Onã imediatamente evoca a história trágica com Tamar (Gênesis 38). Isso demonstra que, mesmo com atos condenáveis, a linhagem sanguínea e a descendência reconhecida para a estrutura tribal são mantidas, embora o pecado tenha sido punido (Er e Onã morreram).",
+      "temas": [
+        "Genealogia",
+        "Graça e Pecado",
+        "Tamar"
+      ],
+      "personagens": [
+        "Judá",
+        "Er",
+        "Onã",
+        "Sela",
+        "Tamar"
+      ]
+    },
     "21": {
-      "parafrase": "e as suas quarenta bases de prata; duas bases debaixo de uma armação, e duas bases debaixo da outra armação.'",
-      "references": [],
-      "comentario": "Vinte armações e quarenta bases de prata são feitas para o lado norte, mostrando a simetria e a uniformidade da estrutura. A ordem é mantida.",
-      "temas": ["armações", "bases de prata", "lado norte", "simetria", "uniformidade"],
-      "personagens": []
+      "parafrase": "Também foram contados os filhos de Judá: Jasiel, o patriarca dos jasielitas; e Semida, o patriarca dos semidaitas.",
+      "referencias": [
+        "Números 26:34"
+      ],
+      "comentario": "Continuação da listagem dos descendentes que formaram os clãs principais de Judá.",
+      "temas": [
+        "Clã",
+        "Descendência"
+      ],
+      "personagens": [
+        "Jasiel",
+        "Semida"
+      ]
     },
     "22": {
-      "parafrase": "'E para a parte de trás do tabernáculo para o oeste, você fará seis armações.'",
-      "referencias": [],
-      "comentario": "Seis armações são feitas para a parte de trás do Tabernáculo, para o oeste, completando a estrutura. A organização é detalhada.",
-      "temas": ["armações", "parte de trás", "oeste", "estrutura"],
-      "personagens": []
+      "parafrase": "E os descendentes de Peres, que é o filho de Judá, foram contados: Hoséias, o patriarca dos hositas.",
+      "referencias": [
+        "Gênesis 46:12",
+        "Números 26:35"
+      ],
+      "comentario": "Peres (Perez) é o filho nascido de Tamar, cujo nascimento assegurou a continuidade da linhagem de Judá, confirmando que a sucessão passou por um ato de providência divina, não apenas pela ordem natural.",
+      "temas": [
+        "Providência Divina",
+        "Sucessão"
+      ],
+      "personagens": [
+        "Judá",
+        "Peres",
+        "Hoséias",
+        "Tamar"
+      ]
     },
     "23": {
-      "parafrase": "'E duas armações você fará para os cantos do tabernáculo na parte de trás.'",
-      "references": [],
-      "comentario": "Duas armações são feitas para os cantos do Tabernáculo na parte de trás, garantindo a estabilidade e a conexão. A precisão é mantida.",
-      "temas": ["armações", "cantos", "estabilidade", "conexão"],
-      "personagens": []
+      "parafrase": "Estes são os clãs da casa de Judá: os erasitas, os onitas, os selonitas, os jasielitas e os semidaitas.",
+      "referencias": [
+        "Números 26:36"
+      ],
+      "comentario": "Resumo dos clãs nomeados a partir dos filhos de Er e dos filhos de Peres.",
+      "temas": [
+        "Resumo Genealógico",
+        "Estrutura Tribal"
+      ],
+      "personagens": [
+        "Judá"
+      ]
     },
     "24": {
-      "parafrase": "'E elas serão unidas na parte inferior, e da mesma forma serão unidas na parte superior por um anel; assim será para ambas; elas serão para os dois cantos.'",
-      "references": [],
-      "comentario": "As armações dos cantos são unidas na parte inferior e superior por um anel, garantindo a solidez e a estabilidade da estrutura. A união é para a força.",
-      "temas": ["armações", "união", "anel", "solidez", "estabilidade"],
-      "personagens": []
+      "parafrase": "O total de homens de Judá, aqueles que podiam empunhar a espada, chegou a impressionantes 76.500!",
+      "referencias": [
+        "Números 1:27",
+        "Números 26:37"
+      ],
+      "comentario": "Judá é consistentemente a maior tribo, refletindo a promessa de grandeza dada a Jacó (Gênesis 49:8-10). Seu grande número sugere sua proeminência futura, culminando na realeza.",
+      "temas": [
+        "Grandeza Populacional",
+        "Realeza",
+        "Liderança"
+      ],
+      "personagens": [
+        "Judá"
+      ]
     },
     "25": {
-      "parafrase": "'E haverá oito armações, e as suas bases de prata, dezesseis bases; duas bases debaixo de uma armação, e duas bases debaixo da outra armação.'",
-      "references": [],
-      "comentario": "Oito armações e dezesseis bases de prata são usadas para os cantos, garantindo a estabilidade e o suporte. A organização é detalhada.",
-      "temas": ["armações", "bases de prata", "cantos", "estabilidade", "suporte"],
-      "personagens": []
+      "parafrase": "A seguir, foram contados os descendentes de Issacar: Tola, o patriarca dos tolaitas; e Pua, o patriarca dos puítas.",
+      "referencias": [
+        "Gênesis 46:13",
+        "Números 26:38"
+      ],
+      "comentario": "A contagem prossegue para a próxima tribo na ordem patriarcal. Tola e Pua são listados como os chefes dos clãs mais significativos de Issacar.",
+      "temas": [
+        "Genealogia",
+        "Ordem de Censo"
+      ],
+      "personagens": [
+        "Issacar",
+        "Tola",
+        "Pua"
+      ]
     },
     "26": {
-      "parafrase": "'E você fará barras de madeira de acácia; cinco para as armações de um lado do tabernáculo,
+      "parafrase": "Os líderes israelitas, após os primeiros juízos devastadores, ainda relutavam em aceitar a plenitude do que Moisés pregava. Eles se aproximaram do grande profeta e disseram, com uma mistura de desespero e desafio contido: 'Moisés, precisamos conversar sobre o futuro. Esta praga de gafanhotos foi terrível, mas ainda podemos suportar. Contudo, se você puder interceder a Deus para que Ele retire essa escuridão opressora que nos cobre, será um sinal definitivo para que finalmente liberemos o povo para realizar o culto que o Senhor, seu Deus, lhes ordenou.'",
+      "referencias": [
+        "Salmos 105:32",
+        "Joel 1:4"
+      ],
+      "comentario": "O versículo 26 marca o ponto de inflexão na negociação com Faraó. A escuridão (Heb. *choshekh*) é a oitava praga. Faraó, ou seus conselheiros (como indicado em interpretações posteriores), está disposto a ceder, mas apenas em troca da remoção imediata da praga atual. O pedido de 'sacrificar ao Senhor vosso Deus' indica um reconhecimento relutante da soberania divina, mas com a intenção de manter o povo próximo, limitando a distância da peregrinação (o que será um ponto de discórdia mais adiante).",
+      "temas": [
+        "Negociação com Faraó",
+        "Oração de Intercessão",
+        "Reconhecimento Divino"
+      ],
+      "personagens": [
+        "Moisés",
+        "Faraó (implícito)"
+      ]
+    },
     "27": {
-      "parafrase": "e cinco barras para as armações do outro lado do tabernáculo, e cinco barras para as armações da parte de trás do tabernáculo para o oeste.'",
-      "references": [],
-      "comentario": "Barras de madeira de acácia são feitas para os lados e para a parte de trás do Tabernáculo, para conectar as armações. As barras são para a estabilidade.",
-      "temas": ["barras", "madeira de acácia", "conexão", "estabilidade"],
-      "personagens": []
+      "parafrase": "Moisés, vendo a dureza persistente do coração do Faraó, respondeu com autoridade inabalável, como se fosse o próprio mensageiro de Deus: 'Enquanto Deus mantiver seu braço estendido, você e seus servos jamais terão alívio. Eu não vou embora até que você ceda completamente.' A recusa de Moisés em sair demonstra que sua missão não era negociável; ele tinha que ver o fim do plano divino implementado.",
+      "referencias": [
+        "Êxodo 4:21",
+        "Jó 9:4"
+      ],
+      "comentario": "Aqui, a resposta de Moisés (ou a atitude tomada por ele) é uma demonstração de *dureza de coração* por parte de Deus, mas focada na recusa do Faraó em obedecer. A expressão 'Deus endureceu o coração do Faraó' (visto no versículo seguinte) é o resultado direto da resistência contínua do monarca. Moisés se posiciona como o agente inflexível da vontade divina.",
+      "temas": [
+        "Inflexibilidade Divina",
+        "Autoridade de Moisés",
+        "Resistência do Opressor"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "28": {
-      "parafrase": "'E a barra do meio no meio das armações passará de uma extremidade à outra.'",
-      "referencias": [],
-      "comentario": "A barra do meio atravessa todas as armações, garantindo a unidade e a solidez da estrutura. A barra é central para a integridade.",
-      "temas": ["barra do meio", "unidade", "solidez", "integridade"],
-      "personagens": []
+      "parafrase": "Mas o Faraó, em seu orgulho obstinado, respondeu ameaçadoramente: 'Afaste-se de mim agora mesmo! Se você ousar cruzar meu caminho novamente, sob pena de morte, você se arrependerá! Porque no exato momento em que eu vir seu rosto mais uma vez, você será expulso deste palácio para sempre.'",
+      "referencias": [
+        "Provérbios 29:1",
+        "Jeremias 44:16"
+      ],
+      "comentario": "Este versículo ilustra o pico da arrogância faraônica. A ameaça de morte (ou expulsão) é uma tentativa clara de Faraó de retomar o controle da situação, intimidando o mensageiro. O comando 'Olha para o meu rosto, não o verás mais' é uma declaração de soberania terrena tentando anular a autoridade celestial representada por Moisés.",
+      "temas": [
+        "Orgulho e Arrogância",
+        "Ameaça e Intimidação",
+        "Confronto de Poderes"
+      ],
+      "personagens": [
+        "Faraó",
+        "Moisés"
+      ]
     },
     "29": {
-      "parafrase": "'E você cobrirá as armações com ouro, e fará as suas argolas de ouro como lugares para as barras; e você cobrirá as barras com ouro.'",
-      "references": [],
-      "comentario": "As armações e as barras são cobertas de ouro, e as argolas são feitas de ouro. Isso enfatiza a santidade e a preciosidade da estrutura do Tabernáculo.",
-      "temas": ["armações", "barras", "ouro", "argolas", "santidade", "preciosidade"],
-      "personagens": []
+      "parafrase": "Moisés, sem se abalar, declarou com a certeza de quem conhece o futuro: 'Você falou a verdade. Eu não voltarei a lhe dirigir a palavra nunca mais. Voltarei apenas quando o Senhor tiver desferido o golpe final sobre o Egito.'",
+      "referencias": [
+        "Números 22:35",
+        "Gênesis 43:3"
+      ],
+      "comentario": "Moisés aceita o desafio, mas reformula os termos. Ele não se encontrará com Faraó por negociação, mas sim como arauto do juízo final. A partida de Moisés não é uma derrota, mas a sinalização de que a fase de 'barganha' terminou e a fase de 'execução da sentença' começou. Isso prepara o cenário para a décima e última praga.",
+      "temas": [
+        "Fim da Negociação",
+        "Aviso do Juízo Final",
+        "Fidelidade à Missão"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "30": {
-      "parafrase": "'E você levantará o tabernáculo de acordo com o padrão que lhe foi mostrado no monte.'",
-      "references": [],
-      "comentario": "O Tabernáculo deve ser levantado de acordo com o padrão que foi mostrado a Moisés no monte. A obediência aos detalhes é crucial para a santidade e a funcionalidade.",
-      "temas": ["Tabernáculo", "padrão divino", "monte", "obediência", "santidade"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "E, assim, Moisés se retirou da presença irritada do Faraó. O rei egípcio, por sua vez, permaneceu endurecido em seu coração, recusando-se obstinadamente a liberar os filhos de Israel para que pudessem fazer a jornada e adorar a Deus conforme ordenado.",
+      "referencias": [
+        "Êxodo 7:13",
+        "Mateus 13:15"
+      ],
+      "comentario": "Este versículo confirma o endurecimento do coração de Faraó, um tema recorrente. Após cada demonstração de poder, Faraó se fecha ainda mais. Essa rigidez é, teologicamente, tanto uma fraqueza inerente ao seu caráter quanto um instrumento que Deus permite usar para manifestar Sua glória plenamente sobre o Egito.",
+      "temas": [
+        "Endurecimento do Coração",
+        "Resistência ao Chamado Divino",
+        "Manifestação da Glória"
+      ],
+      "personagens": [
+        "Moisés",
+        "Faraó"
+      ]
     },
     "31": {
-      "parafrase": "'E você fará um véu de azul, e púrpura, e carmesim, e linho fino retorcido; com querubins de obra de artífice você o fará.'",
-      "referencias": [],
-      "comentario": "Um véu é feito de materiais preciosos e bordado com querubins, para separar o Santo Lugar do Santo dos Santos. O véu simboliza a separação entre o sagrado e o profano.",
-      "temas": ["véu", "azul", "púrpura", "carmesim", "linho fino", "querubins", "separação", "santidade"],
-      "personagens": []
+      "parafrase": "Então, o Senhor falou diretamente a Moisés, dizendo: 'Irei agora trazer uma última calamidade sobre o Faraó e sobre todo o Egito. Depois disso, ele não apenas os deixará ir, mas os expulsará daqui com tanta pressa que, na verdade, ele os jogará para fora da terra! Ele não quererá mais nem um deles por perto.'",
+      "referencias": [
+        "Isaías 19:4",
+        "Jeremias 25:11"
+      ],
+      "comentario": "A introdução da décima praga. O Senhor assume a liderança da ação. A palavra hebraica para 'última calamidade' (o plural aqui se refere à magnitude) é poderosa. O texto promete não apenas permissão para sair, mas uma expulsão forçada, indicando que a presença de Israel se tornará insuportável para o Egito.",
+      "temas": [
+        "A Última Praga",
+        "Expulsão Iminente",
+        "Soberania de Deus"
+      ],
+      "personagens": [
+        "Deus (Yahweh)",
+        "Moisés"
+      ]
     },
     "32": {
-      "parafrase": "'E você o porá sobre quatro pilares de acácia cobertos de ouro; seus ganchos serão de ouro, sobre quatro bases de prata.'",
-      "referencias": [],
-      "comentario": "O véu é pendurado em quatro pilares de acácia cobertos de ouro, com ganchos de ouro e bases de prata. A estrutura é sólida e preciosa.",
-      "temas": ["véu", "pilares", "ouro", "ganchos", "bases de prata", "estrutura"],
-      "personagens": []
+      "parafrase": "Para garantir que o Faraó não se esqueça de quem está no controle, o Senhor instruiu Moisés a transmitir uma mensagem final ao povo de Israel: 'Homens e mulheres de Israel, cada um de vocês deve pedir aos seus vizinhos egípcios — sejam eles seus conhecidos ou não — objetos de prata e ouro. Exijam esses bens, pois é justo que vocês recebam uma compensação pelos anos de trabalho escravo que prestaram sem receber pagamento.'",
+      "referencias": [
+        "Deuteronômio 15:12-13",
+        "Ezequiel 35:15"
+      ],
+      "comentario": "Este é o mandado para o saque ou 'emprestado' de bens (a palavra hebraica *sha'al* pode significar pedir ou exigir). É um ato de reparação econômica pela escravidão (*salário não pago*). Este evento será crucial na preparação para a longa jornada no deserto, fornecendo os metais preciosos para a construção do Tabernáculo.",
+      "temas": [
+        "Reparação Econômica",
+        "Saque Justificado",
+        "Preparo para o Deserto"
+      ],
+      "personagens": [
+        "Moisés",
+        "Israelitas",
+        "Egípcios"
+      ]
     },
     "33": {
-      "parafrase": "'E você porá o véu debaixo dos colchetes, para que você possa trazer para dentro do véu a arca do Testemunho; e o véu fará uma separação para vocês entre o lugar santo e o Santo dos Santos.'",
-      "referencias": [],
-      "comentario": "O véu é colocado para separar o Santo Lugar do Santo dos Santos, onde a Arca do Testemunho está. A separação é para a santidade e para a proteção da presença divina.",
-      "temas": ["véu", "colchetes", "Arca do Testemunho", "separação", "lugar santo", "Santo dos Santos", "santidade"],
-      "personagens": []
+      "parafrase": "O povo egípcio, esgotado e aterrorizado pelas dez pragas sucessivas, atendeu ao pedido dos israelitas, preenchendo-os com os tesouros de prata e ouro. Assim, Deus garantiu que, mesmo após a libertação, Israel levasse consigo a evidência material da opressão encerrada.",
+      "referencias": [
+        "Salmos 68:12",
+        "Gálatas 6:7"
+      ],
+      "comentario": "Este versículo demonstra a completa inversão de poder. O povo que os oprimia agora lhes entregava voluntariamente seus bens mais valiosos, não por generosidade, mas por medo e exaustão. É a confirmação de que a bênção de Deus se manifesta através da redistribuição de riquezas após a opressão.",
+      "temas": [
+        "Inversão de Poder",
+        "Riqueza dos Ímpios",
+        "Pagamento da Escravidão"
+      ],
+      "personagens": [
+        "Egípcios",
+        "Israelitas"
+      ]
     },
     "34": {
-      "parafrase": "'E você porá o propiciatório sobre a arca do Testemunho no Santo dos Santos.'",
-      "referencias": [],
-      "comentario": "O Propiciatório é colocado sobre a Arca do Testemunho no Santo dos Santos, indicando o lugar da expiação e da presença de Deus. A centralidade é divina.",
-      "temas": ["Propiciatório", "Arca do Testemunho", "Santo dos Santos", "expiação", "presença divina"],
-      "personagens": []
+      "parafrase": "Assim, os filhos de Israel deixaram as terras férteis do Egito, cumprindo a palavra do Senhor dada a Moisés. A saída foi apressada, um êxodo repentino, sem tempo para preparar tudo cuidadosamente.",
+      "referencias": [
+        "Salmos 106:11",
+        "Atos 7:36"
+      ],
+      "comentario": "Este versículo serve como um breve resumo da transição. A rapidez da saída (que será detalhada no versículo 39) contrasta com a lentidão da libertação negociada nos versículos anteriores.",
+      "temas": [
+        "O Êxodo",
+        "Cumprimento da Promessa",
+        "Partida Apresada"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Moisés"
+      ]
     },
     "35": {
-      "parafrase": "'E você porá a mesa fora do véu, e o candelabro em frente à mesa, no lado sul do tabernáculo; e você porá a mesa no lado norte.'",
-      "referencias": [],
-      "comentario": "A Mesa dos Pães da Proposição e o Candelabro são colocados fora do véu, no Santo Lugar, em posições específicas. A organização é para a funcionalidade e a adoração.",
-      "temas": ["mesa", "candelabro", "véu", "Santo Lugar", "organização", "adoração"],
-      "personagens": []
+      "parafrase": "Eles também seguiram o mandamento divino, tirando dos egípcios as joias, os colares e as vestimentas preciosas que tinham pedido, conforme o Senhor havia instruído a Moisés.",
+      "referencias": [
+        "Êxodo 12:35-36",
+        "Colossenses 2:8"
+      ],
+      "comentario": "Este versículo detalha os bens levados: prata, ouro, e vestimentas finas. Ele conecta diretamente com Êxodo 12:35-36, onde o povo já havia tirado tesouros dos egípcios após o julgamento das primogênitos. Isso sugere que a riqueza estava sendo acumulada há algum tempo, e agora era formalmente reivindicada sob o comando da última praga.",
+      "temas": [
+        "Acúmulo de Riqueza",
+        "Objetos de Valor",
+        "Cumprimento de Instruções"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Moisés"
+      ]
     },
     "36": {
-      "parafrase": "'E você fará uma cortina para a entrada da tenda, de azul, e púrpura, e carmesim, e linho fino retorcido, de obra de bordador.'",
-      "referencias": [],
-      "comentario": "Uma cortina é feita para a entrada da tenda, usando materiais preciosos e bordados. A cortina é para a beleza e para a distinção da entrada.",
-      "temas": ["cortina", "entrada", "azul", "púrpura", "carmesim", "linho fino", "bordado", "beleza"],
-      "personagens": []
+      "parafrase": "Para finalizar, o narrador enfatiza a fidelidade de Deus: o povo hebreu, ao sair, levou consigo os despojos do Egito, fazendo com que os egípcios, que antes eram seus opressores, agora lhes servissem em sua partida.",
+      "referencias": [
+        "Salmos 81:6",
+        "Hebreus 11:26"
+      ],
+      "comentario": "A ideia de 'despojar os egípcios' é um tema de vitória teológica. Não é apenas libertação física, mas uma humilhação econômica do opressor. A palavra 'despojos' (*shalal*) indica uma conquista militar ou vitória moral.",
+      "temas": [
+        "Vitória Moral",
+        "Despojos",
+        "Humilhação do Inimigo"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Egípcios"
+      ]
     },
     "37": {
-      "parafrase": "'E você fará para a cortina cinco pilares de acácia e os cobrirá de ouro; e seus ganchos serão de ouro; e você fundirá para eles cinco bases de bronze.'",
-      "references": [],
-      "comentario": "A cortina é pendurada em cinco pilares de acácia cobertos de ouro, com ganchos de ouro e bases de bronze. A estrutura é sólida e preciosa.",
-      "temas": ["cortina", "pilares", "ouro", "ganchos", "bases de bronze", "estrutura"],
-      "personagens": []
+      "parafrase": "Com essa libertação, os filhos de Israel marcharam para fora de Ramsés, o ponto de partida central de sua escravidão, e seguiram em direção a Sucote, estabelecendo ali o seu primeiro acampamento. Eles deixaram o Egito como uma grande multidão, incluindo homens, mulheres, e uma vasta quantidade de rebanhos, indicando que a libertação abrangia toda a nação e seus bens materiais.",
+      "referencias": [
+        "Gênesis 47:11",
+        "Números 33:5"
+      ],
+      "comentario": "O versículo 37 marca o início geográfico do Êxodo. Ramsés era provavelmente a capital ou um grande centro de trabalho forçado (construção das cidades-celeiro). A menção a Sucote ('tendas') indica a primeira parada, um lugar provisório, mas que simboliza a transição da vida sedentária e escrava para a jornada nômade e livre sob a proteção de Deus. A menção ao gado sublinha que a posse animal, símbolo de riqueza na época, também foi resgatada.",
+      "temas": [
+        "Início da Jornada",
+        "Ramsés e Sucote",
+        "Totalidade da Libertação"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     }
   }
 }

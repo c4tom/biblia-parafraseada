@@ -1,177 +1,419 @@
-
 {
   "livro": "Isaías",
   "capitulo": 66,
-  "contexto_historico": "Este capítulo é a conclusão do livro de Isaías, resumindo e expandindo os temas de juízo e salvação. Ele contrasta a verdadeira adoração e o verdadeiro templo de Deus com a religiosidade vazia. Anuncia o juízo final sobre os rebeldes e a gloriosa restauração de Jerusalém, onde todas as nações virão adorar. O capítulo termina com uma visão da nova criação e do destino final dos justos e dos ímpios.",
-  "bloco_tematico": "O Verdadeiro Templo, o Juízo Final e a Nova Criação",
+  "contexto_historico": "O profeta Isaías está no auge de sua carreira, servindo ao Reino de Judá durante um período de crescente ameaça assíria e decadência moral e religiosa. O povo de Jerusalém, apesar dos avisos, confia em alianças políticas externas em vez de Deus. Este capítulo, em particular, é uma transição crucial no livro, movendo-se da condenação severa para uma mensagem de restauração e glória futura, focando na vocação de Israel como luz para as nações (gentios). É uma mensagem de esperança messiânica em meio à crise política e espiritual. 📜👑🌍",
+  "bloco_tematico": "A Missão de Israel como Luz para as Nações e o Chamado à Restauração 💡🕊️✨",
   "versiculos": {
     "1": {
-      "parafrase": "Assim diz o Senhor: O céu é o meu trono, e a terra o escabelo dos meus pés; que casa me edificaríeis vós? E qual seria o lugar do meu descanso?",
-      "referencias": ["Atos 7:49-50"],
-      "comentario": "Deus questiona a ideia de que Ele pode ser contido em um templo feito por mãos humanas. Sua grandeza é tão vasta que o céu é Seu trono e a terra Seu escabelo. Ele não precisa de uma casa construída por homens.",
-      "temas": ["Soberania de Deus", "Imensidão de Deus", "Adoração Verdadeira"],
-      "personagens": ["Senhor"]
+      "parafrase": "O Senhor declara solenemente: 'O céu é o meu trono, o assento de onde governo todo o universo, e a Terra é o banquinho sob os meus pés. Onde vocês, humanos, poderiam construir um templo grande o suficiente para me conter? Que tipo de lugar vocês poderiam erguer que realmente fosse digno de ser a minha morada eterna?'",
+      "referencias": [
+        "Atos 7:49",
+        "Mateus 5:34"
+      ],
+      "comentario": "Este versículo estabelece imediatamente a transcendência de Deus (YHWH). A imagem do céu como trono e a Terra como estrado é um hipérbole para expressar a imensidão incomparável de Deus em relação à criação. O questionamento retórico visa desmantelar a presunção humana de que pode confinar Deus em construções feitas por mãos humanas.",
+      "temas": [
+        "Soberania Divina",
+        "Inadequação da Adoração Material",
+        "Transcendência"
+      ],
+      "personagens": [
+        "Senhor (YHWH)"
+      ]
     },
     "2": {
-      "parafrase": "Porque a minha mão fez todas estas coisas, e assim todas elas vieram a existir, diz o Senhor; mas para este olharei: para o pobre e contrito de espírito, e que treme da minha palavra.",
-      "referencias": ["Isaías 57:15"],
-      "comentario": "Deus reafirma Sua autoria sobre toda a criação. No entanto, Ele não se impressiona com grandes construções, mas sim com a humildade e a reverência. Ele olha para aqueles que são pobres de espírito e que tremem diante de Sua palavra.",
-      "temas": ["Criação", "Humildade", "Reverência", "Palavra de Deus"],
-      "personagens": ["Senhor"]
+      "parafrase": "Afirma o Altíssimo: 'Minha mão criou todas estas coisas que vocês veem; tudo isso veio à existência pela minha vontade e poder. E, no entanto, o meu olhar se volta para aquele que é humilde e tem um espírito quebrantado. Quem treme de respeito diante da minha Palavra e presta atenção ao que digo?'",
+      "referencias": [
+        "Gênesis 1:1",
+        "Salmos 51:17",
+        "Tiago 4:6"
+      ],
+      "comentario": "Contraste poderoso entre a capacidade criadora e o foco divino. 'Mão' (Yad) simboliza poder e ação. Deus ignora os grandes templos para focar no 'coração contrito' (lev nishbar) e no 'espírito humilde' (ruach dakka). A humildade e o temor reverencial (Yirah) são mais valorizados que a arquitetura.",
+      "temas": [
+        "Humildade",
+        "Oração Sincera",
+        "Valor da Obediência"
+      ],
+      "personagens": [
+        "Senhor (YHWH)"
+      ]
     },
     "3": {
-      "parafrase": "Aquele que mata um boi é como o que degola um homem; aquele que sacrifica um cordeiro é como o que degola um cão; aquele que oferece uma oferta de manjares é como o que oferece sangue de porco; aquele que queima incenso é como o que bendiz um ídolo. Sim, eles escolheram os seus próprios caminhos, e a sua alma se deleita nas suas abominações.",
-      "referencias": ["Provérbios 21:27"],
-      "comentario": "Deus condena a hipocrisia religiosa. Rituais e sacrifícios, mesmo que aparentemente corretos, são abomináveis para Deus se o coração não for reto. Ele compara seus atos religiosos a abominações pagãs, pois eles seguem seus próprios caminhos e se deleitam no pecado.",
-      "temas": ["Hipocrisia Religiosa", "Abominação", "Coração Rebelde", "Falsa Adoração"],
-      "personagens": []
+      "parafrase": "O profeta adverte os que seguem rituais vazios: 'Aquele que sacrifica um boi como se estivesse prestando uma homenagem sincera, é igual a quem esmaga a cabeça de um cão. Aquele que oferece uma porção de farinha como quem oferece incenso, é o mesmo que adora um ídolo. Eles se apegam aos seus costumes, mas seus corações estão mergulhados na vergonha e em práticas abomináveis.'",
+      "referencias": [
+        "1 Samuel 15:22",
+        "Salmos 50:8-14",
+        "Romanos 12:1"
+      ],
+      "comentario": "Este é um ataque direto à hipocrisia religiosa. O ato de sacrificar um animal (boi) ou oferecer grãos (oferta de comida) sem a retidão interna é comparado a atos de profanação (sacrificar um cão, considerado impuro, ou oferecer incenso a deuses falsos). O 'caminho do porco' (metaphoricalmente) refere-se à impureza moral resultante da desobediência.",
+      "temas": [
+        "Hipocrisia Religiosa",
+        "Ritualismo Vazio",
+        "Santidade"
+      ],
+      "personagens": [
+        "Adoradores Hipócritas"
+      ]
     },
     "4": {
-      "parafrase": "Também eu escolherei as suas afrontas, e farei vir sobre eles o que temiam; porquanto chamei, e ninguém respondeu; falei, e não ouviram; antes fizeram o que é mau aos meus olhos, e escolheram aquilo em que eu não tinha prazer.",
-      "referencias": ["Provérbios 1:24-31"],
-      "comentario": "Deus retribuirá a rebelião deles. Ele trará sobre eles o que eles temiam, porque se recusaram a ouvir e obedecer à Sua voz, preferindo o mal.",
-      "temas": ["Retribuição Divina", "Desobediência", "Consequência do Pecado"],
-      "personagens": []
+      "parafrase": "Por causa disso, o Senhor diz que escolherá punições que confundirão a todos. Ele diz: 'Eu trarei sobre eles as piores calamidades, as mesmas coisas que eles mais temem. Escolherei os seus enganos e as suas falsas seguranças, e farei com que caiam sobre eles as consequências terríveis das suas escolhas, pois quando clamei, ninguém se dignou a responder; quando falei, ninguém prestou atenção.'",
+      "referencias": [
+        "Provérbios 1:28-31",
+        "Jeremias 7:13-14",
+        "Hebreus 12:25"
+      ],
+      "comentario": "A escolha das punições (v. 4a) é irônica: Deus usa os ídolos e as falsas seguranças (como o ritualismo vazio) como instrumentos de juízo. O povo é julgado pela sua própria rejeição da voz profética ('clamei, ninguém respondeu'). Isso demonstra a justiça de Deus em usar as prioridades erradas do homem contra ele.",
+      "temas": [
+        "Juízo Divino",
+        "Consequências da Desobediência",
+        "Rejeição da Palavra"
+      ],
+      "personagens": [
+        "Senhor (YHWH)"
+      ]
     },
     "5": {
-      "parafrase": "Ouvi a palavra do Senhor, vós que tremeis da sua palavra: Vossos irmãos, que vos odeiam e vos lançam fora por causa do meu nome, disseram: Seja glorificado o Senhor, para que vejamos a vossa alegria; mas eles serão envergonhados.",
-      "referencias": ["João 16:2"],
-      "comentario": "Deus se dirige aos Seus servos fiéis, que são odiados e perseguidos por seus próprios irmãos por causa de sua fé. Os perseguidores zombam, mas Deus promete que eles serão envergonhados, e a alegria dos fiéis será manifesta.",
-      "temas": ["Perseguição", "Fidelidade", "Vindicação", "Vergonha"],
-      "personagens": ["Senhor"]
+      "parafrase": "Ouçam a palavra do Senhor, vocês, seguidores da verdade d'Ele! Digam aos que tremem com reverência perante a sua Palavra, mas que ainda assim O ignoram: 'Seus irmãos, que os odeiam e os rejeitam por causa do nome do Senhor, zombam dizendo: “Que o Senhor mostre a sua glória para que nós a vejamos!” Mas serão eles, sim, os que serão humilhados e expostos ao ridículo.'",
+      "referencias": [
+        "Lucas 6:22",
+        "Miquéias 7:10",
+        "Mateus 10:22"
+      ],
+      "comentario": "Aqui há um diálogo interno ou uma divisão entre os fiéis remanescentes e a maioria apóstata. O versículo 5a se dirige aos verdadeiros crentes ('os que tremem diante da Palavra'). O contraste é com os incrédulos ou os formalistas que exigem uma manifestação espetacular da glória de Deus ('Mostre-nos a glória!'), mas que serão envergonhados (vergonha eterna, desmascaramento público).",
+      "temas": [
+        "Prova da Fé",
+        "Oposição Religiosa",
+        "Vergonha e Exposição"
+      ],
+      "personagens": [
+        "Fiéis Remanescentes",
+        "Incrédulos"
+      ]
     },
     "6": {
-      "parafrase": "Voz de alvoroço da cidade, voz do templo, voz do Senhor que dá a recompensa aos seus inimigos.",
-      "referencias": ["Apocalipse 18:20"],
-      "comentario": "O som do juízo de Deus virá de Jerusalém, do templo, como uma voz que recompensa os inimigos. É um som de vitória e justiça.",
-      "temas": ["Juízo Divino", "Recompensa", "Voz de Deus"],
-      "personagens": ["Senhor"]
+      "parafrase": "Escutem! Um som de alvoroço vem da cidade! Um barulho estrondoso vindo do templo! É a voz do Senhor retribuindo o que merecem aos seus inimigos, pagando a eles a justa medida por tudo o que fizeram.",
+      "referencias": [
+        "Jeremias 25:30",
+        "Apocalipse 18:18"
+      ],
+      "comentario": "Este versículo marca a transição do juízo sobre o povo infiel para a ação de Deus no cenário mundial ou dentro da própria Jerusalém. O 'som' (Kol) é poderoso, prenunciando o dia do Senhor. É o som da justiça divina sendo executada ('dar-lhes o troco merecido').",
+      "temas": [
+        "Dia do Senhor",
+        "Retribuição Justa",
+        "Ruído do Juízo"
+      ],
+      "personagens": [
+        "Senhor (YHWH)"
+      ]
     },
     "7": {
-      "parafrase": "Antes que estivesse de parto, ela deu à luz; antes que lhe viessem as dores, ela deu à luz um menino.",
-      "referencias": ["Isaías 26:17"],
-      "comentario": "A restauração de Sião será milagrosa e rápida, como um nascimento sem dores de parto. É uma imagem de um novo começo inesperado e sem sofrimento.",
-      "temas": ["Restauração Milagrosa", "Novo Começo", "Nascimento"],
-      "personagens": []
+      "parafrase": "Mas antes que Jerusalém sequer sentisse as dores do parto, antes que as suas dores de mãe tivessem se manifestado, ela já havia dado à luz seu filho. Quem já viu algo tão estranho? Quem jamais ouviu falar de uma nação que desse à luz um povo em um instante, sem nunca ter estado grávida de verdade?",
+      "referencias": [
+        "Gálatas 4:26-27",
+        "Romanos 9:27-29",
+        "Apocalipse 12:1-2"
+      ],
+      "comentario": "Metáfora da maternidade aplicada à restauração de Sião/Israel. O nascimento é instantâneo e milagroso, comparado à gravidez de Sara. A nação nasce sem o processo gradual de gestação, indicando uma intervenção sobrenatural imediata de Deus na restauração de Seu povo (possivelmente referindo-se ao retorno do Exílio ou à Igreja).",
+      "temas": [
+        "Restauração Milagrosa",
+        "Nova Criação",
+        "Sião"
+      ],
+      "personagens": [
+        "Sião (Jerusalém)"
+      ]
     },
     "8": {
-      "parafrase": "Quem jamais ouviu tal coisa? Quem viu coisas semelhantes? Porventura nascerá uma terra num só dia? Ou nascerá uma nação de uma só vez? Porque Sião, estando de parto, deu à luz seus filhos.",
-      "referencias": ["Isaías 49:20-21"],
-      "comentario": "A magnitude do milagre é enfatizada. É algo sem precedentes na história. Uma nação inteira nascerá em um único dia, pois Sião, em seu sofrimento, dará à luz seus filhos.",
-      "temas": ["Milagre", "Nascimento de uma Nação", "Restauração"],
-      "personagens": ["Sião"]
+      "parafrase": "Quem poderia imaginar que uma terra pudesse nascer em um único dia? Assim que as primeiras dores vieram, a terra de Sião deu à luz seus filhos, seus cidadãos. Pois, assim que as contrações começaram, o povo foi formado e estabelecido.",
+      "referencias": [
+        "Salmos 107:3",
+        "Hebreus 11:3"
+      ],
+      "comentario": "Reforça o versículo anterior, enfatizando a rapidez do ato criativo-restaurador de Deus. A palavra hebraica para 'formada' ou 'moldada' sugere um ato de escultura ou confecção deliberada, confirmando que a restauração de Israel não foi um processo natural, mas um ato soberano e rápido de Deus.",
+      "temas": [
+        "Rapidez do Plano Divino",
+        "Criação Espiritual",
+        "Estabelecimento"
+      ],
+      "personagens": [
+        "Sião"
+      ]
     },
     "9": {
-      "parafrase": "Acaso farei eu vir o parto, e não farei nascer? diz o Senhor; ou farei eu nascer, e fecharei a madre? diz o teu Deus.",
-      "referencias": [],
-      "comentario": "Deus garante que Ele completará o que começou. Ele não iniciará o processo de nascimento e depois o interromperá. Sua obra de restauração será completa.",
-      "temas": ["Fidelidade de Deus", "Conclusão da Obra", "Soberania"],
-      "personagens": ["Senhor", "Teu Deus"]
+      "parafrase": "Diz o Senhor: 'Eu, que fiz a criação começar, seria eu incapaz de fazer a nova etapa dela se completar? Eu, que dei o início ao processo, impediria que chegasse ao fim? Ou seria Eu como um pai que deixa a criança começar a nascer e depois a abandona no meio do caminho?'",
+      "referencias": [
+        "Filipenses 1:6",
+        "Números 11:23",
+        "Jó 42:2"
+      ],
+      "comentario": "Mais um questionamento retórico poderoso que visa reafirmar a fidelidade e a onipotência de Deus. Se Ele iniciou a obra (a criação, a promessa), Ele certamente tem o poder e a vontade para levá-la à consumação. O abandono parental é usado como imagem do que Deus jamais faria com Sua obra.",
+      "temas": [
+        "Fidelidade de Deus",
+        "Consumação da Obra",
+        "Onipotência"
+      ],
+      "personagens": [
+        "Senhor (YHWH)"
+      ]
     },
     "10": {
-      "parafrase": "Alegrai-vos com Jerusalém, e regozijai-vos nela, todos os que a amais; alegrai-vos com ela com alegria, todos os que por ela pranteastes.",
-      "referencias": ["Salmo 122:6"],
-      "comentario": "Um convite universal à alegria e celebração por Jerusalém, especialmente para aqueles que a amaram e lamentaram por ela em seu tempo de sofrimento.",
-      "temas": ["Alegria", "Celebração", "Consolação"],
-      "personagens": ["Jerusalém"]
+      "parafrase": "Alegrem-se todos vocês, que amam Jerusalém! Celebrem com ela, todos os que estão ligados ao seu destino, sejam vocês moradores antigos ou recém-chegados. Sintam uma alegria profunda, como a de quem se banqueteia fartamente com alegria depois de um período de luto.",
+      "referencias": [
+        "Salmos 122:6",
+        "Zacarias 8:23",
+        "Hebreus 12:22-24"
+      ],
+      "comentario": "A mudança de tom para exultação. Jerusalém (a comunidade restaurada) torna-se objeto de alegria universal para todos os que a amam (os verdadeiros Israelitas e, em sentido maior, os crentes). A alegria é comparada ao banquete farto após um período de jejum ou luto, indicando satisfação completa.",
+      "temas": [
+        "Alegria na Restauração",
+        "Comunidade de Fé",
+        "Celebração"
+      ],
+      "personagens": [
+        "Amantes de Jerusalém"
+      ]
     },
     "11": {
-      "parafrase": "Para que mameis e vos farteis dos peitos das suas consolações; para que sugueis e vos deleiteis com a abundância da sua glória.",
-      "referencias": [],
-      "comentario": "A imagem de Jerusalém como uma mãe que nutre seus filhos. O povo será abundantemente consolado e desfrutará da glória restaurada da cidade.",
-      "temas": ["Consolação", "Abundância", "Glória"],
-      "personagens": []
+      "parafrase": "Pois vocês serão nutridos e terão farta satisfação, como se estivessem sendo amamentados com o leite farto que vem da sua glória e do seu esplendor. Vocês beberão com satisfação plena, como quem bebe o melhor vinho que provém da sua riqueza, tirado diretamente da fonte.",
+      "referencias": [
+        "1 Pedro 2:2",
+        "Cântico dos Cânticos 5:1",
+        "Efésios 3:8"
+      ],
+      "comentario": "A nutrição prometida é duplamente figurada: primeiro, como leite materno ('do seio da sua glória'), simbolizando sustento essencial e doce; segundo, como vinho da melhor qualidade ('do seio da sua opulência'), simbolizando prazer e satisfação espiritual plena. A fonte de tudo é a glória de Deus.",
+      "temas": [
+        "Sustento Espiritual",
+        "Satisfação Plena",
+        "Glória Divina"
+      ],
+      "personagens": [
+        "Povo Restaurado"
+      ]
     },
     "12": {
-      "parafrase": "Porque assim diz o Senhor: Eis que estenderei sobre ela a paz como um rio, e a glória dos gentios como uma torrente que transborda; então mamareis, e sereis levados ao colo, e acariciados sobre os joelhos.",
-      "referencias": ["Isaías 60:5"],
-      "comentario": "Deus promete uma paz abundante e contínua para Jerusalém, como um rio. A glória e as riquezas das nações gentias virão a ela, e o povo será cuidado com ternura, como crianças.",
-      "temas": ["Paz Abundante", "Glória dos Gentios", "Cuidado Divino"],
-      "personagens": ["Senhor"]
+      "parafrase": "Porque assim diz o Senhor: 'Eu estenderei sobre vocês uma paz duradoura, uma torrente de prosperidade que não será interrompida. Vocês serão acariciados e amparados, como um bebê é embalado no colo da mãe, e sentirão o conforto do seu afago paternal.'",
+      "referencias": [
+        "Efésios 2:14",
+        "Salmos 131:2",
+        "Filipenses 4:7"
+      ],
+      "comentario": "A promessa de 'paz' (Shalom) aqui não é apenas ausência de conflito, mas bem-estar total. A imagem da mãe que embala o filho demonstra o cuidado terno, íntimo e constante de Deus. A prosperidade prometida é fruto dessa paz, não sua causa.",
+      "temas": [
+        "Paz Duradoura (Shalom)",
+        "Cuidado Materno de Deus",
+        "Segurança"
+      ],
+      "personagens": [
+        "Senhor (YHWH)"
+      ]
     },
     "13": {
-      "parafrase": "Como alguém a quem sua mãe consola, assim eu vos consolarei; e em Jerusalém sereis consolados.",
-      "referencias": ["Isaías 49:15"],
-      "comentario": "Deus se compara a uma mãe que consola seu filho, prometendo consolo pessoal e profundo para Seu povo em Jerusalém.",
-      "temas": ["Consolo Divino", "Cuidado Maternal"],
-      "personagens": []
+      "parafrase": "Vocês sentirão o consolo que só uma mãe pode dar! Sim, como a mãe consola o seu filho, assim Eu os confortarei. Em Jerusalém, o meu povo, vocês encontrarão esse refrigério.",
+      "referencias": [
+        "2 Coríntios 1:3-4",
+        "Lamentações 2:19"
+      ],
+      "comentario": "Reiteração da ternura. O consolo de Deus é equiparado ao conforto materno, um dos mais universais e profundos. É um apelo à sensibilidade emocional e ao descanso da alma sob o amparo divino.",
+      "temas": [
+        "Consolação Divina",
+        "Refrigério",
+        "Compaixão"
+      ],
+      "personagens": [
+        "Senhor (YHWH)"
+      ]
     },
     "14": {
-      "parafrase": "E vós o vereis, e o vosso coração se alegrará, e os vossos ossos florescerão como a erva; e a mão do Senhor será notória aos seus servos, e ele se indignará contra os seus inimigos.",
-      "referencias": ["Ezequiel 37:1-14"],
-      "comentario": "A visão da restauração trará alegria e renovação física. O poder de Deus será evidente para Seus servos, e Sua ira será manifestada contra Seus inimigos.",
-      "temas": ["Alegria", "Renovação Física", "Poder de Deus", "Ira Divina"],
-      "personagens": ["Senhor"]
+      "parafrase": "Quando virem tudo isso acontecer, o coração de vocês, antes abatido e cansado, vibrará de alegria e força. A mão do Senhor será evidente para os seus servos, mas o seu poder será revelado aos seus inimigos.",
+      "referencias": [
+        "Salmos 118:22-24",
+        "Colossenses 3:1-4"
+      ],
+      "comentario": "O efeito da ação de Deus é duplo: alegria e vigor para os crentes ('seus servos') e manifestação de poder ou juízo contra os opositores ('seus inimigos'). O coração que antes estava 'escondido' (morto ou desanimado) ressuscitará ao testemunhar a obra de Deus.",
+      "temas": [
+        "Vigor Espiritual",
+        "Testemunho de Poder",
+        "Ação em Duas Frentes"
+      ],
+      "personagens": [
+        "Servos de Deus",
+        "Inimigos"
+      ]
     },
     "15": {
-      "parafrase": "Porque eis que o Senhor virá com fogo, e os seus carros como um turbilhão, para tornar a sua ira em furor, e a sua repreensão em chamas de fogo.",
-      "referencias": ["Isaías 30:27"],
-      "comentario": "Deus virá em juízo contra Seus inimigos com grande poder e fúria, como um fogo consumidor.",
-      "temas": ["Juízo Divino", "Fogo Consumidor", "Ira de Deus"],
-      "personagens": ["Senhor"]
+      "parafrase": "Pois vejam: a mão poderosa de Deus está prestes a agir, e Ele trará o seu justo castigo sobre aqueles que O odeiam. O fogo virá com fúria, e os carros de guerra dos adversários serão varridos como palha pelo vendaval do Senhor.",
+      "referencias": [
+        "Naum 1:3",
+        "Isaías 5:28",
+        "Salmos 18:14"
+      ],
+      "comentario": "O juízo é descrito com imagens de fogo consumidor e vento impetuoso ('vendaval'). O 'fogo' (Esh) representa o juízo purificador ou destrutivo. Os 'carros' representam o poderio militar e a arrogância das nações inimigas de Israel, que serão facilmente desfeitos pelo poder de Deus.",
+      "temas": [
+        "Juízo Destrutivo",
+        "Poder Militar Aniquilado",
+        "Fúria Divina"
+      ],
+      "personagens": [
+        "Senhor (YHWH)",
+        "Opositores"
+      ]
     },
     "16": {
-      "parafrase": "Porque com fogo e com a sua espada o Senhor pleiteará com toda a carne; e serão muitos os mortos do Senhor.",
-      "referencias": ["Apocalipse 19:11-16"],
-      "comentario": "O juízo de Deus será universal e devastador, atingindo toda a humanidade com fogo e espada, resultando em grande matança.",
-      "temas": ["Juízo Universal", "Destruição", "Espada de Deus"],
-      "personagens": ["Senhor"]
+      "parafrase": "Pois o Senhor executa o julgamento com fogo e espada. O matadouro de muitos será preparado por Ele; e o sangue derramado no julgamento será espalhado por toda parte. O Senhor eliminará aqueles que O desafiam, e eles perecerão por suas ações.",
+      "referencias": [
+        "Jeremias 25:31-32",
+        "Hebreus 10:27",
+        "Apocalipse 19:15"
+      ],
+      "comentario": "Intensificação da descrição do juízo, utilizando os instrumentos clássicos de execução: fogo e espada (símbolos de destruição total). O termo 'matadouro' (Shechut) sublinha a extensão da matança. O juízo é onipresente, deixando 'sangue derramado' por toda a terra.",
+      "temas": [
+        "Execução do Juízo",
+        "Destruição Total",
+        "Espada Divina"
+      ],
+      "personagens": [
+        "Senhor (YHWH)"
+      ]
     },
     "17": {
-      "parafrase": "Os que se santificam, e se purificam nos jardins, seguindo um no meio, que comem carne de porco, e a abominação, e o rato, juntamente serão consumidos, diz o Senhor.",
-      "referencias": ["Isaías 65:3-4"],
-      "comentario": "Deus condena aqueles que praticam rituais pagãos e comem alimentos impuros, mesmo que se considerem santos. Eles serão destruídos por suas abominações.",
-      "temas": ["Idolatria", "Impureza", "Juízo"],
-      "personagens": ["Senhor"]
+      "parafrase": "Aqueles que se purificam e se santificam para entrar nos jardins sagrados, seguindo fielmente um líder espiritual (talvez um sacerdote ou um guia), e que depois comem a carne impura, o que foi proibido, esses serão todos destruídos, diz o Senhor, pois a sua obediência é falsa.",
+      "referencias": [
+        "Levítico 11",
+        "1 Coríntios 10:21",
+        "Mateus 23:27"
+      ],
+      "comentario": "Este versículo ataca a parcialidade na santidade. O povo se esforça em rituais de purificação externa ('jardins' ou lugares consagrados) e na obediência a guias religiosos, mas falham no aspecto essencial: a pureza dietética e moral (comer 'carne abominável'). É o ritualismo desacompanhado da pureza prática.",
+      "temas": [
+        "Santidade Parcial",
+        "Obediência Seletiva",
+        "Pureza Ritual e Moral"
+      ],
+      "personagens": [
+        "Transgressores"
+      ]
     },
     "18": {
-      "parafrase": "Porque eu conheço as suas obras e os seus pensamentos; vem o dia de ajuntar todas as nações e línguas; e virão, e verão a minha glória.",
-      "referencias": ["Zacarias 8:20-23"],
-      "comentario": "Deus, em Sua onisciência, conhece os corações dos homens. Ele anuncia um dia em que todas as nações se reunirão para testemunhar Sua glória.",
-      "temas": ["Onisciência de Deus", "Ajuntamento das Nações", "Glória de Deus"],
-      "personagens": []
+      "parafrase": "Eu sei o que eles fazem, e sei os seus pensamentos mais secretos. Por isso, virei para reunir todas as nações e línguas, e elas virão para ver a minha glória, testemunhando o meu poder.",
+      "referencias": [
+        "Hebreus 4:13",
+        "Apocalipse 7:9",
+        "Salmos 96:3"
+      ],
+      "comentario": "Deus revela que está ciente da hipocrisia interna (pensamentos). A reunião das nações (Klal HaGoyim) aqui serve a um propósito de testemunho: elas serão trazidas não para adorar voluntariamente, mas para serem espectadoras do juízo de Deus sobre Israel ou para testemunharem Sua glória manifestada através da redenção.",
+      "temas": [
+        "Onisciência Divina",
+        "Testemunho Universal",
+        "Reunião das Nações"
+      ],
+      "personagens": [
+        "Senhor (YHWH)",
+        "Nações"
+      ]
     },
     "19": {
-      "parafrase": "E porei entre eles um sinal, e enviarei os que escaparem deles às nações, a Társis, Pul, e Lude, que armam o arco, e a Tubal, e Javã, e às ilhas de longe, que não ouviram a minha fama, nem viram a minha glória; e anunciarão a minha glória entre os gentios.",
-      "referencias": ["Romanos 15:20-21"],
-      "comentario": "Deus enviará um remanescente de Seu povo, que escapou do juízo, como missionários para as nações mais distantes, para proclamar Sua glória entre os gentios que nunca O conheceram.",
-      "temas": ["Missão aos Gentios", "Proclamação da Glória", "Remanescente"],
-      "personagens": []
+      "parafrase": "E farei com que entre eles haja sinais que apontarão para Mim, e enviarei sobreviventes para as nações distantes, para Társis, além-mar, para Pul e Lude, povos que usam o arco e flecha; para Tubal e Javã, ilhas distantes que jamais ouviram falar de Mim ou viram a Minha majestade. Eles contarão aos outros sobre a minha glória que viram.",
+      "referencias": [
+        "Gênesis 10 (Társis, Pul, Lude, Tubal, Javã)",
+        "Romanos 15:21",
+        "Atos 1:8"
+      ],
+      "comentario": "Esta passagem é classicamente vista como uma profecia missionária, antecipando a dispersão dos judeus (ou dos primeiros crentes) para as extremidades do mundo conhecido ('além-mar'). Társis, Pul, Lude, Tubal e Javã eram conhecidos como locais distantes, frequentemente associados a povos mercadores ou guerreiros. Eles se tornarão mensageiros da glória divina.",
+      "temas": [
+        "Missão Global",
+        "Evangelização dos Gentios",
+        "Sinais e Testemunhas"
+      ],
+      "personagens": [
+        "Sobreviventes",
+        "Povos Distantes"
+      ]
     },
     "20": {
-      "parafrase": "E trarão a todos os vossos irmãos, de todas as nações, em oferta ao Senhor, sobre cavalos, e em carros, e em liteiras, e sobre mulos, e sobre dromedários, ao meu santo monte, a Jerusalém, diz o Senhor, como os filhos de Israel trazem as ofertas em vasos limpos à casa do Senhor.",
-      "referencias": ["Isaías 49:22"],
-      "comentario": "As nações gentias trarão os filhos de Israel de volta a Jerusalém como uma oferta a Deus, com grande honra e reverência, como ofertas puras no templo.",
-      "temas": ["Ajuntamento dos Dispersos", "Oferta a Deus", "Honra"],
-      "personagens": ["Senhor"]
+      "parafrase": "E dessas nações que serão alcançadas, o Senhor diz que trarão de volta o seu povo. Eles os conduzirão de volta, como em uma procissão solene, trazendo seus sacrifícios, não em carroças ou animais comuns, mas sim sobre os ombros dos próprios povos, como se fossem presentes preciosos carregados com reverência.",
+      "referencias": [
+        "Isaías 49:22",
+        "2 Coríntios 6:17",
+        "Êxodo 12:34"
+      ],
+      "comentario": "A imagem do retorno do povo é de grande honra. O transporte 'nos ombros' (como presente valioso) contrasta com o exílio humilhante. As nações estrangeiras não apenas libertarão Israel, mas participarão ativamente da sua restauração, oferecendo-os a Deus como uma oferta viva.",
+      "temas": [
+        "Restauração de Israel",
+        "Serviço dos Gentios",
+        "Oferta Viva"
+      ],
+      "personagens": [
+        "Nações",
+        "Povo de Israel"
+      ]
     },
     "21": {
-      "parafrase": "E também deles tomarei para sacerdotes e para levitas, diz o Senhor.",
-      "referencias": ["Êxodo 19:6"],
-      "comentario": "Deus incluirá gentios entre os sacerdotes e levitas, que servirão no templo, mostrando a universalidade de Sua adoração.",
-      "temas": ["Inclusão dos Gentios", "Sacerdócio Universal"],
-      "personagens": ["Senhor"]
+      "parafrase": "O Senhor afirma: 'Eu também escolherei alguns entre essas nações, e eles se tornarão os meus sacerdotes e levitas, dedicados ao meu serviço, para administrar as coisas santas.'",
+      "referencias": [
+        "1 Pedro 2:9",
+        "Êxodo 19:6",
+        "Apocalipse 5:10"
+      ],
+      "comentario": "Este é um dos pontos mais universais da profecia. Deus não apenas aceitará gentios, mas os elevará às funções mais sagradas do antigo sacerdócio de Israel. Eles servirão como 'sacerdotes e levitas', indicando um novo arranjo sacerdotal que culminaria no sacerdócio real de todos os crentes (no Novo Testamento).",
+      "temas": [
+        "Sacerdócio Universal",
+        "Inclusão dos Gentios",
+        "Funções Sagradas"
+      ],
+      "personagens": [
+        "Senhor (YHWH)",
+        "Sacerdotes e Levitas Gentios"
+      ]
     },
     "22": {
-      "parafrase": "Porque, como os novos céus e a nova terra, que hei de fazer, estarão diante de mim, diz o Senhor, assim estará a vossa descendência e o vosso nome.",
-      "referencias": ["Apocalipse 21:1"],
-      "comentario": "A promessa de uma nova criação é a garantia da permanência da descendência e do nome de Israel. Assim como os novos céus e nova terra são eternos, o povo de Deus também o será.",
-      "temas": ["Nova Criação", "Permanência", "Fidelidade de Deus"],
-      "personagens": ["Senhor"]
+      "parafrase": "Pois assim como os céus e a terra nova que Eu criarei permanecerão firmes e constantes, assim também os seus descendentes e o seu nome jamais desaparecerão da minha presença, diz o Senhor dos Exércitos.'",
+      "referencias": [
+        "2 Pedro 3:13",
+        "Apocalipse 21:1",
+        "Salmos 89:36"
+      ],
+      "comentario": "Promessa de eternidade. A estabilidade da nova criação (referência implícita aos novos céus e nova terra) garante a permanência do povo eleito e do seu nome. A imutabilidade da aliança e da linhagem de crentes é assegurada pela fidelidade de YHWH Tzevaot (Senhor dos Exércitos).",
+      "temas": [
+        "Eternidade",
+        "Estabilidade da Nova Criação",
+        "Permanência do Nome"
+      ],
+      "personagens": [
+        "Senhor dos Exércitos"
+      ]
     },
     "23": {
-      "parafrase": "E será que de uma lua nova à outra, e de um sábado a outro, virá toda a carne a adorar perante mim, diz o Senhor.",
-      "referencias": ["Zacarias 14:16"],
-      "comentario": "Na nova era, a adoração a Deus será contínua e universal. Toda a humanidade virá adorá-Lo regularmente, em um ciclo de adoração perpétua.",
-      "temas": ["Adoração Universal", "Adoração Contínua", "Reinado de Deus"],
-      "personagens": ["Senhor"]
+      "parafrase": "E acontecerá que, de uma Lua Nova à outra, e de um sábado àquele que se segue, todo ser humano virá à minha presença para se prostrar e adorar, declara o Senhor.",
+      "referencias": [
+        "Colossenses 2:16-17",
+        "Zacarias 14:16",
+        "Salmos 86:9"
+      ],
+      "comentario": "Esta é a visão da adoração perpétua na nova ordem. Os ciclos de tempo observados no Antigo Testamento (Lua Nova e Sábado) tornam-se o padrão regular para a adoração pública e universal a Deus, indicando que o culto será restaurado em sua forma mais pura e constante.",
+      "temas": [
+        "Adoração Perpétua",
+        "Ciclos de Culto",
+        "Prostração"
+      ],
+      "personagens": [
+        "Todo Ser Humano"
+      ]
     },
     "24": {
-      "parafrase": "E sairão, e verão os cadáveres dos homens que transgrediram contra mim; porque o seu verme nunca morrerá, nem o seu fogo se apagará; e serão um horror para toda a carne.",
-      "referencias": ["Marcos 9:48"],
-      "comentario": "A profecia termina com uma visão sombria do destino final dos rebeldes. Seus corpos serão um espetáculo de horror, com vermes que não morrem e fogo que não se apaga, simbolizando o castigo eterno. É um contraste final entre a glória dos justos e o juízo dos ímpios.",
-      "temas": ["Castigo Eterno", "Juízo Final", "Horror"],
-      "personagens": []
+      "parafrase": "Então, quando forem para fora, verão os corpos daqueles que transgrediram contra Mim, aqueles que desobedeceram à minha aliança. Seus corpos apodrecerão como o lixo abandonado, o fogo os consumirá, e a lembrança deles será apagada para sempre, pois eles serão um espetáculo de horror para toda a humanidade.'",
+      "referencias": [
+        "Daniel 12:2",
+        "Judas 1:13",
+        "Marcos 9:48"
+      ],
+      "comentario": "O versículo final é um lembrete sombrio do destino dos rebeldes. O contraste com a glória dos versículos anteriores é chocante. A destruição é total: seus corpos se tornam lixo ('shikim'), o fogo os consome, e a memória deles é extinta. Eles servem como um aviso terrível ('espetáculo de horror' ou 'objeto de escárnio eterno') para os fiéis.",
+      "temas": [
+        "Destino Final dos Ímpios",
+        "Apagamento da Memória",
+        "Fogo Eterno"
+      ],
+      "personagens": [
+        "Transgressores",
+        "Humanidade"
+      ]
     }
   }
 }

@@ -1,218 +1,472 @@
 {
   "livro": "Isaías",
   "capitulo": 5,
-  "contexto_historico": "Ver contexto anterior em Isaías 1. Isaías usa uma parábola, a Canção da Vinha, para expor a infidelidade de Israel e Judá. Apesar de todo o cuidado de Deus (o dono da vinha), o povo (a vinha) produziu frutos ruins (injustiça e opressão). O capítulo então detalha os pecados específicos da nação através de uma série de 'ais', culminando na advertência de um juízo iminente por meio de uma nação estrangeira.",
-  "bloco_tematico": "A Canção da Vinha e os Seis Ais",
+  "contexto_historico": "O livro de Isaías se desenrola durante os reinados de Uzias, Jotão, Acaz e Ezequias em Judá (c. 740-681 a.C.). O capítulo 5 é proferido em um período de relativa prosperidade material, mas sob uma profunda decadência moral e espiritual na nação, especialmente entre a elite e os líderes. O povo se distancia da aliança com Deus, praticando injustiça social e autoengano religioso. É um momento de alerta profético sobre o juízo iminente de Deus contra a infidelidade de Israel e Judá. 💡",
+  "bloco_tematico": "A Parábola do Vinhedo Amado: Juízo Contra a Injustiça e a Infidelidade 🍇💔",
   "versiculos": {
     "1": {
-      "parafrase": "Cantarei agora para o meu amado uma canção sobre a sua vinha. O meu amado tinha uma vinha numa colina fértil.",
-      "referencias": ["Salmos 80:8-9"],
-      "comentario": "Isaías começa com uma canção de amor, o que atrairia a atenção do público. Ele se posiciona como amigo do noivo (o dono da vinha), cantando sobre o cuidado e a dedicação de seu amigo para com sua vinha. O 'amado' é Deus, e a 'vinha' é a nação de Israel.",
-      "temas": ["parábola", "amor de Deus", "eleição de Israel"],
-      "personagens": ["Isaías", "Deus"]
+      "parafrase": "Agora, eu canto uma canção especial, uma ode de amor, para meu amado vizinho, aquele que me é tão caro quanto a terra fértil. Meu amigo tinha um lindo vinhedo plantado em um terreno excepcionalmente promissor, uma colina rica e soalheira, o local perfeito para uvas de qualidade superior. Ele trabalhou arduamente nesse terreno, preparando-o com o máximo cuidado e dedicação.",
+      "referencias": [
+        "Salmos 80:8",
+        "Jeremias 2:21"
+      ],
+      "comentario": "O profeta inicia com a forma de uma 'canção de amor' (Shir Yedidut), frequentemente usada em hebraico para expressar um relacionamento íntimo ou especial. A vinha ('kerem') é um símbolo recorrente no Antigo Testamento para representar a nação de Israel, escolhida e cultivada por Deus. A descrição do terreno ('shamên ha-chemed' - terra de deleite/gordura) enfatiza o potencial da nação.",
+      "temas": [
+        "A Parábola",
+        "O Cuidado Divino",
+        "Escolha"
+      ],
+      "personagens": [
+        "O Profeta (Narrador)",
+        "O Amado/Vizinho (Deus)"
+      ]
     },
     "2": {
-      "parafrase": "Ele cavou a terra, tirou as pedras e plantou as melhores videiras. Construiu uma torre de vigia no meio dela e também fez um tanque de prensar uvas. Ele esperava que ela desse uvas boas, mas ela só deu uvas azedas.",
-      "referencias": ["Mateus 21:33"],
-      "comentario": "Deus fez tudo o que era possível para garantir que Sua vinha fosse produtiva. Ele a protegeu, limpou e plantou videiras de alta qualidade. A expectativa de 'uvas boas' (justiça, retidão) era razoável, mas o resultado foi decepcionante: 'uvas azedas' (pecado, injustiça).",
-      "temas": ["cuidado divino", "expectativa", "frutos ruins", "ingratidão"],
-      "personagens": ["Deus"]
+      "parafrase": "Após todo esse preparo impecável, ele cercou a vinha com a maior proteção possível, tirou todas as pedras que poderiam atrapalhar o crescimento das raízes e plantou ali as mais finas mudas da videira mais pura. Ele até construiu uma pequena torre de vigia, um posto de observação no centro, para que ninguém pudesse roubar ou danificar os brotos preciosos. E, para garantir a irrigação, cavou um grande lagar, um local para esmagar as uvas e extrair o suco, prevendo a colheita farta.",
+      "referencias": [
+        "Mateus 21:33",
+        "Lucas 13:6"
+      ],
+      "comentario": "A descrição detalhada do trabalho (remover pedras, cavar o lagar - 'gat', construir a torre - 'soṭelet') ilustra o investimento intensivo de Deus no Seu povo. As 'uvas finas' (soreq) denotam qualidade superior e singularidade, sugerindo que Israel tinha todas as condições para produzir frutos de justiça.",
+      "temas": [
+        "Preparação",
+        "Proteção",
+        "Expectativa de Fruto"
+      ],
+      "personagens": [
+        "O Vizinho (Deus)"
+      ]
     },
     "3": {
-      "parafrase": "Agora, pois, ó habitantes de Jerusalém e homens de Judá, julguem entre mim e a minha vinha.",
-      "referencias": [],
-      "comentario": "Deus convida o próprio povo a ser o júri em sua causa. A evidência é tão clara que Ele confia que eles mesmos chegarão à conclusão de que Ele fez tudo certo e a culpa é da vinha.",
-      "temas": ["julgamento", "justiça divina", "responsabilidade"],
-      "personagens": ["Deus"]
+      "parafrase": "Então, Ele olhou para a plantação, esperando com antecipação o momento da vindima. A pergunta ressoa: 'Agora, habitantes de Jerusalém e vocês, Judá, sejam meus juízes! Digam-me, o que mais eu poderia ter feito por esta vinha, que não fiz? O que faltou para que ela florescesse de maneira gloriosa?'",
+      "referencias": [
+        "Miquéias 6:3",
+        "Salmos 50:4"
+      ],
+      "comentario": "Deus convoca o povo e, metaforicamente, a cidade de Jerusalém (Sion) para serem as testemunhas do Seu julgamento. Este apelo à justiça ('shim'u') estabelece a base para a acusação subsequente, mostrando que a falha não foi por falta de oportunidade ou cuidado divino.",
+      "temas": [
+        "Chamado ao Juízo",
+        "Responsabilidade",
+        "Justiça Divina"
+      ],
+      "personagens": [
+        "Deus (O Proprietário)",
+        "Habitantes de Jerusalém e Judá"
+      ]
     },
     "4": {
-      "parafrase": "O que mais eu poderia ter feito pela minha vinha que não fiz? Então, por que, quando eu esperava uvas boas, ela só deu uvas azedas?",
-      "referencias": ["2 Crônicas 36:15-16"],
-      "comentario": "Uma pergunta retórica que enfatiza a perfeição do cuidado de Deus e a total falta de desculpas para o fracasso da vinha. A culpa recai inteiramente sobre o povo por sua rebelião.",
-      "temas": ["graça", "rebelião", "ingratidão"],
-      "personagens": ["Deus"]
+      "parafrase": "Após toda essa expectativa e investimento, o resultado foi uma profunda decepção. O que brotou foram uvas selvagens, azedas e intragáveis! Então pergunto: o que deveria ter sido feito com esta vinha que, ao invés de produzir o fruto nobre que eu esperava, produziu apenas bagas estragadas e inúteis? Eu estava certo em esperar excelência!",
+      "referencias": [
+        "Jeremias 6:19",
+        "Mateus 7:16"
+      ],
+      "comentario": "O contraste entre 'uvas finas' esperadas e 'uvas silvestres/azedas' ('bāshān') é chocante. 'Bāshān' sugere algo não comestível ou venenoso. A frustração do proprietário ressalta a falha de Israel em cumprir seu propósito escolhido: ser uma nação justa e santa.",
+      "temas": [
+        "Fruto Incorreto",
+        "Decepção",
+        "Julgamento Iminente"
+      ],
+      "personagens": [
+        "Deus (O Proprietário)"
+      ]
     },
     "5": {
-      "parafrase": "Pois agora eu lhes direi o que farei com a minha vinha: derrubarei a sua cerca para que seja devorada, e quebrarei o seu muro para que seja pisoteada.",
-      "referencias": [],
-      "comentario": "O veredito é o juízo. Deus removerá Sua proteção (a cerca e o muro) da nação, deixando-a vulnerável à destruição por inimigos externos.",
-      "temas": ["juízo divino", "remoção da proteção", "vulnerabilidade"],
-      "personagens": ["Deus"]
+      "parafrase": "Portanto, agora vou lhes mostrar o que farei com a minha vinha decepcionante. Vou remover toda a cerca de proteção, aquele muro de misericórdia e privilégio que a mantinha segura. Vou derrubar as muralhas que a protegiam, e ela será imediatamente exposta, ficando vulnerável a todos os animais selvagens e destruidores que a devorarão sem piedade.",
+      "referencias": [
+        "Salmos 80:12",
+        "Ezequiel 36:10"
+      ],
+      "comentario": "A remoção da cerca ('es’rêhā') simboliza a retirada da proteção especial de Deus (pacto, leis, favor). A exposição a animais selvagens ('bĕ’er') representa a destruição iminente pela invasão de nações inimigas (como a Assíria ou Babilônia), que agirão como instrumentos do juízo divino.",
+      "temas": [
+        "Retirada da Proteção",
+        "Consequência do Juízo",
+        "Vulnerabilidade"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "6": {
-      "parafrase": "Farei dela um lugar abandonado; não será podada nem cultivada. Espinhos e ervas daninhas crescerão nela. Também darei ordem às nuvens para que não derramem chuva sobre ela.",
-      "referencias": ["Levítico 26:33-35"],
-      "comentario": "A vinha será completamente abandonada. Deus não apenas removerá a proteção, mas também cessará todo o Seu cuidado ativo e reterá Suas bênçãos (a chuva), resultando em desolação e esterilidade.",
-      "temas": ["abandono", "esterilidade", "maldição"],
-      "personagens": ["Deus"]
+      "parafrase": "Eu a deixarei devastada, sem podas, sem cultivo, sem a alegria da colheita. Os espinhos e as ervas daninhas tomarão conta do solo. Ordenarei às nuvens que não derramem mais a chuva suave sobre ela, pois não merece a bênção da fertilidade.",
+      "referencias": [
+        "Deuteronômio 28:23",
+        "Jó 30:25"
+      ],
+      "comentario": "O juízo se torna mais severo: não apenas destruição externa, mas também abandono interno. Não haverá podas ('bâlō ti’dammăr') nem cultivo. A retenção da chuva ('bāl yiggāmeṟūm') simboliza a suspensão da graça e das bênçãos vitais que Deus provê.",
+      "temas": [
+        "Abandono",
+        "Infertilidade Espiritual",
+        "Maldição"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "7": {
-      "parafrase": "Pois a vinha do Senhor dos Exércitos é a nação de Israel, e os homens de Judá são a planta que era o seu prazer. Ele esperava justiça, mas eis o derramamento de sangue; esperava retidão, mas eis os gritos de socorro.",
-      "referencias": ["Miquéias 6:8"],
-      "comentario": "Isaías agora explica a parábola claramente. Deus esperava frutos de bom governo e moralidade (justiça e retidão), mas em vez disso, encontrou violência e opressão (derramamento de sangue e gritos de socorro). Há um jogo de palavras no hebraico entre 'justiça' (mishpat) e 'derramamento de sangue' (mispach), e entre 'retidão' (tsedaqah) e 'gritos de socorro' (tse'aqah).",
-      "temas": ["explicação da parábola", "injustiça social", "frutos do pecado"],
-      "personagens": ["Deus"]
+      "parafrase": "Pois a vinha do Senhor dos Exércitos, o povo que Ele escolheu e amou, é a casa de Israel; e os habitantes de Judá são o solo que Ele tanto cuidou e preparou para que produzissem justiça, santidade e retidão. Mas, em vez disso, eles produziram apenas opressão, gritos de socorro e atos de maldade!",
+      "referencias": [
+        "Salmos 80:14",
+        "Amós 5:24"
+      ],
+      "comentario": "Aqui, a alegoria é explicitada: a vinha é Israel/Judá. A expectativa divina não era apenas a sobrevivência, mas a produção de 'mišpāṭ' (justiça social) e 'ṣēdāqāh' (retidão moral/pactual). O contraste final ('cries' - tse’aqah, e 'iniquity' - ‘āwāl’) mostra que o fruto real foi o oposto do esperado.",
+      "temas": [
+        "Identificação da Alegoria",
+        "Justiça vs. Opressão",
+        "Fruto Desejado"
+      ],
+      "personagens": [
+        "Senhor dos Exércitos",
+        "Casa de Israel e Judá"
+      ]
     },
     "8": {
-      "parafrase": "Ai de vocês que juntam casa a casa e anexam campo a campo, até que não sobre mais lugar, e vocês se tornem os únicos habitantes no meio da terra!",
-      "referencias": ["Miquéias 2:1-2"],
-      "comentario": "O primeiro 'ai' condena a ganância e a exploração da terra. Os ricos estavam usando meios legais ou ilegais para tomar as terras dos pequenos proprietários, criando grandes latifúndios e desalojando os pobres, contrariando a lei de Deus sobre a herança da terra.",
-      "temas": ["ganância", "injustiça social", "exploração"],
-      "personagens": []
+      "parafrase": "Ai de vocês, gananciosos! Vocês se empanturram de terras, adicionando campo a campo, até que não haja mais espaço para mais ninguém morar nesta terra prometida. Parece que vocês querem possuir tudo sozinhos, mas seus nomes serão os únicos lembrados nos céus!",
+      "referencias": [
+        "Miquéias 2:2",
+        "Lucas 12:16-21"
+      ],
+      "comentario": "O 'Ai' ('Hôy') inaugura uma série de sete 'Ais' de condenação em Isaías 5. O verbo hebraico 'lĕqōḥēa' (comprar/tomar) sugere aquisições injustas. O pecado aqui é a avidez territorial e a violação da lei de herança (Lv 25:23), que mantinha a terra ligada à família e à tribo.",
+      "temas": [
+        "Avariça",
+        "Injustiça Social",
+        "Condenação (Ai)"
+      ],
+      "personagens": [
+        "Os Gananciosos"
+      ]
     },
     "9": {
-      "parafrase": "O Senhor dos Exércitos me disse ao ouvido: 'Certamente, as muitas casas ficarão desoladas, as grandes e belas mansões ficarão sem habitantes.'",
-      "referencias": [],
-      "comentario": "O juízo para a ganância será a desolação. As grandes propriedades, adquiridas por meios injustos, se tornarão vazias e inúteis, pois seus donos serão levados para o exílio ou mortos.",
-      "temas": ["juízo", "desolação", "ironia divina"],
-      "personagens": ["Deus"]
+      "parafrase": "Mas o Senhor dos Exércitos prometeu solenemente: em breve, suas vastas propriedades, aquelas mansões luxuosas que vocês acumularam com tanto esforço, serão deixadas vazias, abandonadas. Dez homens vivendo em uma única casa grande não conseguirão nem sequer sustentar suas vidas lá, pois o deserto virá sobre elas.",
+      "referencias": [
+        "Jeremias 32:43",
+        "Ezequiel 36:33"
+      ],
+      "comentario": "A punição é diretamente ligada ao pecado: acumulação excessiva leva ao despovoamento. O número 'dez homens em uma casa' ilustra a desolação, onde muitas famílias não conseguirão habitar o que antes era o lar de poucas. Isso prenuncia o exílio.",
+      "temas": [
+        "Desolação",
+        "Falsas Riquezas",
+        "Retribuição"
+      ],
+      "personagens": [
+        "Senhor dos Exércitos"
+      ]
     },
     "10": {
-      "parafrase": "Pois uma vinha de dez alqueires só produzirá um bato de vinho, e um ômer de semente só dará um efa de grão.",
-      "referencias": ["Ageu 1:6"],
-      "comentario": "A terra se tornará improdutiva. A colheita será tão pequena que mal retornará a semente plantada. A terra que eles cobiçaram se tornará uma fonte de frustração e perda.",
-      "temas": ["maldição", "improdutividade", "juízo agrícola"],
+      "parafrase": "Pois um grande campo de dez alqueires de terra dará apenas um pequeno jarro de vinho, e um cesto de sementes renderá apenas um punhado de grãos para comer. A fertilidade da terra será drasticamente reduzida como castigo pelos seus atos.",
+      "referencias": [
+        "Joel 1:17",
+        "Hagai 1:6"
+      ],
+      "comentario": "Este versículo quantifica a escassez. A proporção é drasticamente invertida (grande esforço, mínimo resultado). O 'se’ah' (medida de grão) e o 'homer' (medida de vinho) indicam que a terra ficará estéril, destruindo a base econômica e a subsistência.",
+      "temas": [
+        "Escassez",
+        "Fome",
+        "Ruína Econômica"
+      ],
       "personagens": []
     },
     "11": {
-      "parafrase": "Ai daqueles que se levantam de manhã cedo para correr atrás de bebida forte, que continuam até tarde da noite, até que o vinho os inflame!",
-      "referencias": ["Provérbios 23:29-35"],
-      "comentario": "O segundo 'ai' condena a busca hedonista pelo prazer e pela embriaguez. Eles vivem para a festa e a bebida, do início ao fim do dia.",
-      "temas": ["hedonismo", "embriaguez", "busca por prazer"],
+      "parafrase": "Ai de vocês, que acordam ao raiar do dia, ansiosos por beberem o vinho mais forte, e ficam acordados até a noite, consumidos pela bebida! Eles se inflamam com o néctar fermentado e se perdem em suas festas regadas a bebidas potentes, sem jamais se importar com o que o Senhor está fazendo ou com a obra que Ele realiza entre o povo.",
+      "referencias": [
+        "Amós 6:4-6",
+        "Romanos 13:13"
+      ],
+      "comentario": "O segundo 'Ai' ataca a embriaguez crônica e a hedonista autocomplacência das elites. O vinho forte ('ḥamār') era associado à dissolução moral. A frase 'não consideram a obra do Senhor' aponta para a ignorância deliberada das ações de Deus na história.",
+      "temas": [
+        "Embriaguez",
+        "Hedonismo",
+        "Apatia Espiritual"
+      ],
       "personagens": []
     },
     "12": {
-      "parafrase": "Eles têm harpas e liras, tamborins e flautas e vinho em seus banquetes; mas não dão atenção aos feitos do Senhor, nem consideram a obra de suas mãos.",
-      "referencias": ["Amós 6:4-6"],
-      "comentario": "O problema não é a festa em si, mas o fato de que sua busca por prazer os torna completamente cegos para Deus e Suas obras. Eles vivem em um mundo de autoindulgência, ignorando completamente seu Criador.",
-      "temas": ["cegueira espiritual", "negligência de Deus", "autoindulgência"],
+      "parafrase": "As suas festas são cheias de música estrondosa, harpas, tambores e flautas, mas eles não se importam com o destino de sua nação. Eles enchem seus banquetes de luxo, mas ignoram completamente a mão de Deus que age no meio deles, e o convite para o arrependimento é desperdiçado.",
+      "referencias": [
+        "Amós 8:3",
+        "Salmos 137:2-3"
+      ],
+      "comentario": "O uso dos instrumentos musicais ('kinnōr', 'nēvel', 'tōf') não é condenado em si, mas sim o contexto: o luxo e a alegria superficial enquanto a sociedade desmorona. A alegria deles é vazia porque não está fundamentada na obediência a Deus.",
+      "temas": [
+        "Futilidade",
+        "Música Profana",
+        "Festa sem Deus"
+      ],
       "personagens": []
     },
     "13": {
-      "parafrase": "Portanto, o meu povo irá para o exílio por falta de conhecimento. Seus nobres morrerão de fome, e a sua multidão se secará de sede.",
-      "referencias": ["Oséias 4:6"],
-      "comentario": "A consequência da ignorância deliberada de Deus é o exílio. A falta de conhecimento espiritual levará à perda física e ao sofrimento. A elite ('nobres') e o povo comum ('multidão') sofrerão igualmente.",
-      "temas": ["exílio", "ignorância espiritual", "fome", "sede"],
-      "personagens": []
+      "parafrase": "Por causa dessa cegueira voluntária, meu povo será forçado a ir para o exílio. Eles serão levados cativos para terras distantes. Suas elites, que ostentavam poder, serão as primeiras a sofrer a humilhação, e seus nobres morrerão de fome em terras estrangeiras. O povo clama, mas não há salvação de seu próprio orgulho.",
+      "referencias": [
+        "Oséias 4:6",
+        "2 Reis 17:6"
+      ],
+      "comentario": "O exílio ('šāwāh') é a consequência direta da ignorância de Deus. A frase 'seus nobres perecerão de fome' destaca que nem mesmo a riqueza lhes dará refúgio. A falta de entendimento da vontade divina resulta em julgamento inevitável.",
+      "temas": [
+        "Exílio",
+        "Humilhação",
+        "Consequência da Ignorância"
+      ],
+      "personagens": [
+        "O Povo de Deus"
+      ]
     },
     "14": {
-      "parafrase": "Por isso, a Sepultura (Sheol) aumenta o seu apetite e abre a sua boca desmedidamente; para ela descerão a glória de Jerusalém, sua multidão, seu tumulto e os que nela se alegram.",
-      "referencias": ["Habacuque 2:5"],
-      "comentario": "A morte é personificada como um monstro insaciável que engolirá toda a glória e a vida barulhenta e festiva de Jerusalém. A morte em massa será o resultado do juízo.",
-      "temas": ["morte", "juízo", "personificação"],
-      "personagens": []
+      "parafrase": "Por isso, a própria 'Sheol', a morada dos mortos, se alargará, expandindo sua boca faminta como se fosse um poço sem fundo. Ela devora os cidadãos mais orgulhosos, a multidão barulhenta e aqueles que se deleitavam em seus prazeres, todos descendo juntos para o abismo.",
+      "referencias": [
+        "Apocalipse 6:8",
+        "Habacuque 2:5"
+      ],
+      "comentario": "A 'Sheol' (a sepultura, o submundo) é personificada como um monstro faminto que se abre ('pʿerāh lĕšā’ōl'). A morte virá de forma indiscriminada, engolindo tanto os líderes quanto a população viciada, como resultado de sua desordem moral.",
+      "temas": [
+        "Morte",
+        "Julgamento Universal",
+        "Abertura do Abismo"
+      ],
+      "personagens": [
+        "Sheol (Sepultura)"
+      ]
     },
     "15": {
-      "parafrase": "Assim, a humanidade será abatida, e o homem, humilhado; e os olhos dos arrogantes serão humilhados.",
-      "referencias": ["Isaías 2:11, 17"],
-      "comentario": "O tema da humilhação do orgulho humano é repetido. O juízo de Deus tem como objetivo abater a arrogância e a autossuficiência.",
-      "temas": ["humilhação do orgulho", "juízo", "soberania de Deus"],
+      "parafrase": "Assim, o homem comum será humilhado, e o poderoso será rebaixado, e os olhos arrogantes de todos os presunçosos serão forçados a baixar o olhar para o pó.",
+      "referencias": [
+        "Filipenses 2:8",
+        "Provérbios 29:23"
+      ],
+      "comentario": "Aqui se descreve o processo de nivelamento imposto pelo juízo. A arrogância ('bĕrîm') e o orgulho ('gĕbōhâ') serão quebrados, forçando todos, independentemente de status, a reconhecerem sua mortalidade e pequenez diante de Deus.",
+      "temas": [
+        "Humilhação",
+        "Nivelamento",
+        "Quebra da Arrogância"
+      ],
       "personagens": []
     },
     "16": {
-      "parafrase": "Mas o Senhor dos Exércitos será exaltado em seu juízo, e o Deus santo se mostrará santo em sua retidão.",
-      "referencias": [],
-      "comentario": "Em contraste com a humilhação do homem, Deus será exaltado. Seu juízo revelará Sua justiça e Sua santidade será vindicada diante de todos.",
-      "temas": ["exaltação de Deus", "justiça divina", "santidade"],
-      "personagens": ["Deus"]
+      "parafrase": "Mas o Senhor, em Sua majestade, será exaltado através deste juízo. O Deus Santo, que é o nosso Deus, demonstrará Sua santidade ao agir com justiça, mostrando que Ele é o único que tem o direito de julgar e restaurar o que é reto.",
+      "referencias": [
+        "Salmos 145:17",
+        "1 Pedro 1:15-16"
+      ],
+      "comentario": "Este é um ponto de virada crucial. Mesmo no juízo, a santidade ('qādôš') e a justiça ('tsaddîq') de Deus são glorificadas. O caos e a iniquidade humana servem, paradoxalmente, para manifestar a retidão absoluta de Deus.",
+      "temas": [
+        "Exaltação de Deus",
+        "Santidade",
+        "Justiça Redentora"
+      ],
+      "personagens": [
+        "O Senhor Santo"
+      ]
     },
     "17": {
-      "parafrase": "Então os cordeiros pastarão como em sua própria pastagem, e os estrangeiros comerão nas ruínas dos ricos.",
-      "referencias": [],
-      "comentario": "A terra dos ricos e poderosos, agora em ruínas, se tornará pasto para ovelhas e será ocupada por estranhos. Uma imagem de completa reversão de fortunas.",
-      "temas": ["reversão", "desolação", "juízo"],
+      "parafrase": "E, nos campos devastados, onde antes havia apenas ervas daninhas e ruína, os cordeiros pastarão livremente entre as ruínas dos impérios, e os filhos dos exploradores encontrarão pastagem onde antes só havia escuridão e destruição.",
+      "referencias": [
+        "Isaías 11:6",
+        "Apocalipse 21:4"
+      ],
+      "comentario": "Este versículo descreve a restauração pós-juízo, profetizando um tempo de paz messiânica. O contraste entre a destruição anterior e o pasto seguro ('yir‘û') simboliza a paz que virá após a purificação. O 'lugar de desolação' torna-se um lugar de sustento.",
+      "temas": [
+        "Restauração",
+        "Paz Futura",
+        "Contraste de Juízo e Misericórdia"
+      ],
       "personagens": []
     },
     "18": {
-      "parafrase": "Ai daqueles que arrastam a iniquidade com cordas de falsidade, e o pecado, como com as tiras de uma carroça!",
-      "referencias": [],
-      "comentario": "O terceiro 'ai' é contra aqueles que estão ativamente e deliberadamente presos ao pecado. Eles não apenas pecam, mas estão atrelados a ele, puxando-o como um animal de carga puxa uma carroça, talvez com a ideia de que o pecado é seu trabalho ou sua carga.",
-      "temas": ["escravidão ao pecado", "deliberação no mal", "iniquidade"],
+      "parafrase": "Ai de vocês, que se arrastam pelo pecado como se fossem animais puxando carroças pesadas, atrelados à culpa! Vocês puxam o erro como se fosse uma carga pesada, uma teia pegajosa de transgressão que os prende e arrasta pela vida.",
+      "referencias": [
+        "Romanos 6:19",
+        "Provérbios 5:22"
+      ],
+      "comentario": "O terceiro 'Ai' foca na natureza escravizada do pecado. O verbo hebraico 'māšēḵ' (puxar, arrastar) sugere o esforço penoso de quem está sob o jugo do erro. Eles não apenas pecam, mas são arrastados pelo próprio pecado como se fosse um arado pesado.",
+      "temas": [
+        "Escravidão ao Pecado",
+        "Atração do Erro",
+        "Carga da Transgressão"
+      ],
       "personagens": []
     },
     "19": {
-      "parafrase": "Eles dizem: 'Que Deus se apresse, que realize logo a sua obra para que a vejamos! Que o plano do Santo de Israel se aproxime e se cumpra, para que o conheçamos!'",
-      "referencias": ["Jeremias 17:15", "2 Pedro 3:3-4"],
-      "comentario": "Esses pecadores zombam das advertências de juízo. Eles desafiam Deus a agir, duvidando cinicamente de que Ele realmente intervirá. É um pecado de arrogância e zombaria.",
-      "temas": ["zombaria", "ceticismo", "arrogância"],
+      "parafrase": "Estes são os que zombam e dizem: 'Que Ele apresse Sua obra, que Ele faça logo o que prometeu, para que possamos ver! Venham logo, cumprimento de Suas ameaças, para que possamos nos gabar de ter visto a queda, e que o plano do Santo de Israel se realize logo!'",
+      "referencias": [
+        "2 Pedro 3:3-4",
+        "Ezequiel 12:22-23"
+      ],
+      "comentario": "Aqui está a zombaria direta contra a paciência de Deus. Eles desafiam o juízo, tratando a ameaça de Deus como um espetáculo que está demorando demais a começar. Isso reflete uma profunda falta de reverência e compreensão da soberania divina ('ḥaṣīṣōw' - Seu conselho/planejamento).",
+      "temas": [
+        "Desafio a Deus",
+        "Impaciência",
+        "Zombaria"
+      ],
       "personagens": []
     },
     "20": {
-      "parafrase": "Ai daqueles que chamam o mal de bem e o bem de mal, que fazem das trevas luz e da luz trevas, que tornam o amargo doce e o doce amargo!",
-      "referencias": ["Romanos 1:21-25"],
-      "comentario": "O quarto 'ai' condena a perversão de toda a ordem moral. Eles deliberadamente invertem os padrões de Deus, redefinindo o pecado como virtude e a retidão como algo mau. É a destruição da própria consciência moral.",
-      "temas": ["relativismo moral", "perversão", "confusão de valores"],
+      "parafrase": "Ai de vocês, que chamam o mal de bem, que insistem que a escuridão é, na verdade, luz brilhante! Ai daqueles que dizem que o amargo é doce e que o que é venenoso para a alma é, na verdade, saboroso e desejável!",
+      "referencias": [
+        "Gênesis 3:20",
+        "Romanos 1:22"
+      ],
+      "comentario": "O quarto 'Ai' denuncia a perversão moral e intelectual. É a inversão total dos valores divinos. Chamar o mal de bem ('rō‘ tōv') é a essência da rebelião, onde a consciência é totalmente corrompida e a verdade é chamada de mentira.",
+      "temas": [
+        "Inversão Moral",
+        "Relativismo",
+        "Autoengano"
+      ],
       "personagens": []
     },
     "21": {
-      "parafrase": "Ai daqueles que são sábios aos seus próprios olhos e inteligentes em sua própria opinião!",
-      "referencias": ["Provérbios 3:7", "Romanos 12:16"],
-      "comentario": "O quinto 'ai' é contra o orgulho intelectual e a arrogância. Eles confiam em sua própria sabedoria e desprezam a sabedoria de Deus, o que é a raiz de muitos outros pecados.",
-      "temas": ["orgulho intelectual", "arrogância", "autoconfiança"],
+      "parafrase": "Ai de vocês, sábios em seus próprios olhos, que se consideram extremamente inteligentes e profundos em seu próprio entendimento!",
+      "referencias": [
+        "Provérbios 3:7",
+        "1 Coríntios 1:19"
+      ],
+      "comentario": "O quinto 'Ai' ataca a soberba intelectual. A palavra 'hōy yôšrêh' implica aqueles que se consideram 'reto' ou 'sábio' em seus próprios caminhos, desprezando a sabedoria que vem do alto. Eles confiam na sua razão humana falha.",
+      "temas": [
+        "Soberba Intelectual",
+        "Confiança em Si Mesmo",
+        "Sabedoria Humana"
+      ],
       "personagens": []
     },
     "22": {
-      "parafrase": "Ai daqueles que são heróis para beber vinho e campeões em misturar bebida forte,",
-      "referencias": [],
-      "comentario": "O sexto 'ai' retorna ao tema da embriaguez, mas agora a conecta com a injustiça. Eles se orgulham de sua capacidade de beber.",
-      "temas": ["embriaguez", "orgulho", "hedonismo"],
+      "parafrase": "Ai de vocês, guerreiros poderosos para beber vinho, homens fortes em misturar bebidas alcoólicas, e valentes em justificar o suborno e em declarar inocentes aqueles que aceitam presentes para torcer a justiça!",
+      "referencias": [
+        "Provérbios 31:4-5",
+        "Deuteronômio 16:19"
+      ],
+      "comentario": "Este versículo retoma a condenação do vício (v. 11), mas a expande para incluir a corrupção judicial. Ser 'valente' ('gibbōr') em aceitar suborno ('šōḥad') mostra que a imoralidade pessoal se manifesta na falha sistêmica da lei e da justiça.",
+      "temas": [
+        "Corrupção Judicial",
+        "Suborno",
+        "Bebedeira e Poder"
+      ],
       "personagens": []
     },
     "23": {
-      "parafrase": "que absolvem o culpado por suborno, mas negam justiça ao inocente!",
-      "referencias": ["Êxodo 23:7-8"],
-      "comentario": "A embriaguez deles está ligada à corrupção judicial. Enquanto bebem e se divertem, eles pervertem a justiça, aceitando subornos para libertar os culpados e condenar os inocentes. É a combinação da autoindulgência com a injustiça social.",
-      "temas": ["injustiça judicial", "suborno", "corrupção"],
+      "parafrase": "Estes juízes, que são comprados, libertam o culpado em troca de presentes, e negam a justiça ao justo que tem o direito assegurado, simplesmente porque ele não lhes ofereceu nada de valor!",
+      "referencias": [
+        "Êxodo 23:6-8",
+        "Jó 19:29"
+      ],
+      "comentario": "Detalhamento da injustiça: o culpado é justificado pelo suborno, e o justo é condenado por sua pobreza ou integridade. A balança da justiça ('miznehey rēša‘' – balanças da iniquidade) está completamente invertida.",
+      "temas": [
+        "Injustiça Legal",
+        "Prevaricação",
+        "Favoritismo"
+      ],
       "personagens": []
     },
     "24": {
-      "parafrase": "Por isso, como a língua de fogo consome a palha, e o capim seco se desfaz na chama, assim a sua raiz apodrecerá, e a sua flor se espalhará como pó. Pois rejeitaram a lei do Senhor dos Exércitos e desprezaram a palavra do Santo de Israel.",
-      "referencias": [],
-      "comentario": "A consequência para todos esses pecados é a destruição total e repentina, como a palha no fogo. A destruição é completa, da raiz à flor, porque a causa raiz foi a rejeição da palavra e da lei de Deus.",
-      "temas": ["destruição total", "juízo", "rejeição da palavra de Deus"],
-      "personagens": []
+      "parafrase": "Por isso, assim como o fogo consome rapidamente a palha seca, e a erva se desfaz diante da chama violenta, a raiz da maldade deles apodrecerá e secará. Sua fundação será destruída, pois rejeitaram a lei do Senhor dos Exércitos e desprezaram a palavra do Santo de Israel.",
+      "referencias": [
+        "Jeremias 5:14",
+        "Nahum 1:6"
+      ],
+      "comentario": "A metáfora do fogo ('’ēš') consumindo a palha seca ('qāš') simboliza a destruição rápida e total que virá como resposta à rejeição da Torá (Lei de Deus). O desprezo pela 'Dvar YHWH' é a causa raiz de sua ruína iminente.",
+      "temas": [
+        "Destruição Total",
+        "Rejeição da Lei",
+        "Fogo Purificador/Destruidor"
+      ],
+      "personagens": [
+        "Senhor dos Exércitos"
+      ]
     },
     "25": {
-      "parafrase": "Por isso, a ira do Senhor se acendeu contra o seu povo; ele estendeu a mão contra eles e os feriu. Os montes tremeram, e os seus cadáveres ficaram como lixo no meio das ruas. Apesar de tudo isso, a sua ira não se desviou, e a sua mão continua estendida.",
-      "referencias": ["Isaías 9:12, 17, 21", "Isaías 10:4"],
-      "comentario": "A ira de Deus é a resposta justa à rebelião de Seu povo. O juízo é tão severo que causa um abalo cósmico (os montes tremeram) e degradação humana (cadáveres como lixo). O refrão 'sua mão continua estendida' indica que o juízo ainda não terminou; mais está por vir.",
-      "temas": ["ira divina", "juízo contínuo", "severidade"],
-      "personagens": ["Deus"]
+      "parafrase": "Assim, a ira do Senhor se acendeu contra o Seu povo, e Ele estendeu a Sua mão para castigá-los. Os céus se armaram, e Ele feriu a terra com desastres, como um sinal de Seu desagrado. As montanhas tremeram sob o peso da Sua fúria, e os seus cadáveres se espalharam pelas ruas como lixo recolhido no meio do mercado.",
+      "referencias": [
+        "Joel 2:11",
+        "Apocalipse 16:1"
+      ],
+      "comentario": "Este versículo conclui a série de condenações apresentando a manifestação da ira divina ('ḥărōn 'ap̄pō'). A mão estendida ('yāḍô nĕṭūwâ') é um gesto profético de juízo. A descrição dos cadáveres espalhados ('ḥĕlēqāh') como imundície nas ruas ilustra a profundidade da desolação nacional e a perda de dignidade.",
+      "temas": [
+        "Ira Divina",
+        "Ação Cósmica no Juízo",
+        "Desolação Física"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "26": {
-      "parafrase": "Ele ergue uma bandeira para as nações distantes e assobia para um povo dos confins da terra. Vejam, eles vêm, veloz e rapidamente!",
-      "referencias": ["Jeremias 5:15"],
-      "comentario": "Deus soberanamente convocará uma nação estrangeira (provavelmente a Assíria) para ser Seu instrumento de juízo. O 'assobio' e a 'bandeira' são sinais para que este exército distante venha executar Sua vontade.",
-      "temas": ["soberania de Deus", "instrumento de juízo", "invasão estrangeira"],
-      "personagens": ["Deus"]
+      "parafrase": "E assim, com um clarim estrondoso, Deus levantará um estandarte de convocação para as nações distantes, aquelas que vivem nas extremidades da Terra. Ele fará um sinal visível, como um farol poderoso, para atrair povos que estão longe, que mal imaginavam o que estava acontecendo. Eles virão correndo, com a agilidade de flechas disparadas, para este chamado de reunião divina.",
+      "referencias": [
+        "Isaías 11:12",
+        "Jeremias 51:27"
+      ],
+      "comentario": "O verbo hebraico para 'levantar um estandarte' é 'nes' (נֵס), que significa erguer uma bandeira ou sinal para reunir as tropas ou o povo. O 'apito' ou 'sopro' (Hebraico: 'tsvî' - צְוִי) sugere um chamado urgente e autoritário. A descrição de virem 'rapidamente' (Hebraico: 'bâḥûr' - בָּחוּר, que pode significar escolhidos ou rápidos) enfatiza a velocidade da resposta das nações ao chamado de Deus, não apenas de Israel.",
+      "temas": [
+        "Soberania de Deus",
+        "Convocação das Nações",
+        "Julgamento e Restauração"
+      ],
+      "personagens": [
+        "Deus",
+        "Nações Distantes"
+      ]
     },
     "27": {
-      "parafrase": "Nenhum deles se cansa nem tropeça, ninguém dorme nem cochila. O cinto em suas cinturas não se afrouxa, nem a correia de suas sandálias se arrebenta.",
-      "referencias": [],
-      "comentario": "O exército invasor é descrito como sobrenaturalmente eficiente, rápido e preparado. Eles são implacáveis e não se desviam de sua missão.",
-      "temas": ["exército invasor", "eficiência", "juízo iminente"],
-      "personagens": []
+      "parafrase": "Ninguém entre eles estará cansado ou tropeçará em sua jornada. Não haverá um único homem que hesitará, que precisará parar para descansar ou que será pego dormindo durante a marcha. Cada um deles estará alerta, com suas sandálias firmes, sem escorregar no caminho até alcançarem o destino que Deus lhes impôs.",
+      "referencias": [
+        "Salmos 121:8",
+        "Nahum 3:3"
+      ],
+      "comentario": "Esta parte destaca a energia sobrenatural imposta a esses povos vindos de longe. A ausência de tropeço ou cansaço ('lo yiphṭâh' - לֹא יִפְתָּא) sugere que o movimento é guiado e sustentado por uma força que anula a fadiga natural humana. Eles são instrumentos perfeitos para a execução do plano divino.",
+      "temas": [
+        "Provimento Divino",
+        "Movimento Ininterrupto",
+        "Instrumentos do Juízo"
+      ],
+      "personagens": [
+        "Viajantes"
+      ]
     },
     "28": {
-      "parafrase": "Suas flechas são afiadas, e todos os seus arcos estão preparados. Os cascos de seus cavalos são como pederneira, e as rodas de seus carros, como um furacão.",
-      "referencias": [],
-      "comentario": "O armamento e a velocidade do exército inimigo são aterrorizantes. Eles são perfeitamente equipados para a destruição, e sua aproximação é rápida e avassaladora como uma tempestade.",
-      "temas": ["poder militar", "destruição", "velocidade"],
-      "personagens": []
+      "parafrase": "Eles chegarão sem a necessidade de se prepararem, sem afiarem suas flechas ou prepararem seus arcos. Não haverá tempo para os preparativos comuns de guerra; a prontidão será inerente ao seu chamado. Tudo o que farão será guiado pela urgência e pelo poder daquele que os convocou.",
+      "referencias": [
+        "Isaías 13:3",
+        "Jeremias 50:42"
+      ],
+      "comentario": "A menção de não se aprontarem ('lo yith'attēr' - לֹא יִתְאַטֵּר) indica que a preparação militar é dispensada porque o poder não reside na tecnologia ou na estratégia humana, mas na autoridade do convocador. É uma força de choque divina, não uma força mobilizada organicamente.",
+      "temas": [
+        "Preparação Sobrenatural",
+        "Poder de Deus sobre a Estratégia Humana",
+        "Apressamento do Juízo"
+      ],
+      "personagens": [
+        "Exércitos"
+      ]
     },
     "29": {
-      "parafrase": "O rugido deles é como o do leão; rugem como leões jovens. Eles rosnam e agarram a presa, e a levam embora, e não há quem a livre.",
-      "referencias": ["Amós 3:8"],
-      "comentario": "O exército é comparado a leões ferozes, cujo ataque é aterrorizante e inescapável. Uma vez que a presa (Judá) é capturada, não há esperança de resgate.",
-      "temas": ["ferocidade", "ataque", "juízo inescapável"],
-      "personagens": []
+      "parafrase": "Sua intenção é clara: eles virão para saquear e destruir as riquezas de nações que não se importaram com Deus. Eles entrarão e roubarão tudo o que for valioso, deixando o povo conquistado atônito e sem voz, pois a devastação será total e rápida. O clamor de angústia deles será ouvido, mas ignorado.",
+      "referencias": [
+        "Joel 3:6",
+        "Obadias 1:15"
+      ],
+      "comentario": "O verbo 'yishšōd' (יִשֹּׁד) significa destruir ou devastar. Este versículo estabelece o propósito destrutivo desses povos reunidos: eles são o instrumento do juízo de Deus contra aqueles que se opuseram ou que vivem em opulência negligente. O foco é a pilhagem e a desolação.",
+      "temas": [
+        "Invasão e Destruição",
+        "Consequências da Desobediência",
+        "Saque como Juízo"
+      ],
+      "personagens": [
+        "Invasores",
+        "Povos Conquistados"
+      ]
     },
     "30": {
-      "parafrase": "Naquele dia, ele rugirá sobre Judá como o rugido do mar. Se alguém olhar para a terra, verá trevas e angústia; até a luz será obscurecida pelas nuvens.",
-      "referencias": ["Isaías 8:22"],
-      "comentario": "O capítulo termina com uma imagem de desespero total. O som do juízo é como o rugido avassalador do mar. Para onde quer que se olhe, não haverá esperança, apenas escuridão, angústia e a ausência completa da luz da bênção de Deus.",
-      "temas": ["desespero", "trevas", "angústia", "juízo final"],
-      "personagens": []
+      "parafrase": "Mas, enquanto esses agentes de destruição se movem com fúria, o próprio Senhor levantará uma nuvem escura e espessa sobre a terra que está sendo atacada, como um véu de tempestade impenetrável. E sob essa escuridão opressiva, os exércitos invasores se dispersarão, e a destruição que eles trariam será, em última análise, freada ou redirecionada pela mão soberana de Deus.",
+      "referencias": [
+        "Êxodo 10:21",
+        "Ezequiel 30:3"
+      ],
+      "comentario": "Este é o ponto de reversão crucial. Depois de usar as nações para o juízo (v. 29), Deus usa um sinal de Sua própria presença – uma nuvem escura (Hebraico: 'ʿābaḵ' - עָבָךְ, espessa, densa, como uma tempestade). Esta nuvem não é para os invasores, mas para a nação objeto do juízo. No entanto, a nuvem parece servir para confundir ou frustrar a ação dos invasores, mostrando que Deus controla o escopo da destruição. O juízo tem limites definidos por Ele.",
+      "temas": [
+        "Controle Divino do Juízo",
+        "Soberania sobre Invasores",
+        "Intervenção Direta de Deus"
+      ],
+      "personagens": [
+        "Senhor (Deus)",
+        "Agentes de Destruição"
+      ]
     }
   }
 }

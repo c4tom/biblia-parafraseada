@@ -1,505 +1,1150 @@
 {
   "livro": "João",
   "capitulo": 6,
-  "contexto_historico": "Este capítulo narra a multiplicação dos pães e peixes, a caminhada de Jesus sobre as águas e o discurso de Jesus sobre o Pão da Vida. Ele destaca o poder de Jesus em prover para as necessidades físicas e espirituais, a incredulidade da multidão que busca apenas o pão material, e a importância de crer em Jesus como o verdadeiro pão que dá vida eterna.",
-  "bloco_tematico": "O Pão da Vida e a Multiplicação dos Pães",
+  "contexto_historico": "O Capítulo 6 de João é ambientado após os milagres da multiplicação dos pães e da alimentação de cinco mil pessoas (João 6:1-15), que geraram grande entusiasmo popular. A multidão segue Jesus em busca de mais milagres e pão terreno, mas Ele os repreende, direcionando a atenção para o sustento espiritual e a vida eterna. Este capítulo se desenrola durante a Páscoa judaica, um período de alta tensão religiosa em Jerusalém e arredores, intensificando o contraste entre as expectativas messiânicas terrenas e a verdadeira missão de Cristo. 🍇🍞",
+  "bloco_tematico": "O Pão da Vida: Entre a Satisfação Terrena e a Eternidade ⚖️✝️",
   "versiculos": {
     "1": {
-      "parafrase": "Depois disso, Jesus foi para o outro lado do mar da Galileia, que é o mar de Tiberíades.",
-      "referencias": ["Mateus 14:13", "Marcos 6:32", "Lucas 9:10"],
-      "comentario": "Jesus se retira para o outro lado do mar da Galileia, onde uma grande multidão o seguirá, buscando Seus milagres.",
-      "temas": ["viagem", "mar da Galileia", "multidão"],
-      "personagens": ["Jesus"]
+      "parafrase": "Logo depois desses acontecimentos maravilhosos, Jesus atravessou o Mar da Galileia, que também é chamado de Mar de Tiberíades. Uma multidão imensa o seguia, atraída pelos milagres que Ele havia feito, testemunhando o poder de Deus em ação. 🙌",
+      "referencias": [
+        "Mateus 14:13",
+        "Marcos 6:31"
+      ],
+      "comentario": "O verbo grego usado para 'atravessar' sugere uma viagem deliberada. A multidão segue Jesus, indicando a crescente popularidade e o impacto imediato de seus sinais (milagres).",
+      "temas": [
+        "Viagem",
+        "Seguimento de Jesus",
+        "Milagres"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "2": {
-      "parafrase": "E uma grande multidão o seguia, porque viam os sinais que ele fazia, curando os enfermos.",
-      "referencias": [],
-      "comentario": "A multidão segue Jesus por causa dos milagres de cura que Ele realiza, buscando benefícios físicos, mas nem sempre compreendendo o significado espiritual.",
-      "temas": ["multidão", "sinais", "cura", "milagres"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus notou a grande quantidade de gente que o seguia e, subindo a montanha, sentou-se, acompanhado por seus discípulos, aguardando o momento certo para ensiná-los. 🏞️",
+      "referencias": [
+        "Mateus 14:23",
+        "Lucas 6:12"
+      ],
+      "comentario": "O ato de Jesus subir a colina (uma localização comum para ensinamentos rabínicos) e sentar-se ('katheis') indica que Ele estava assumindo a posição de Mestre ('Rabi').",
+      "temas": [
+        "Ensino de Jesus",
+        "Posição de Autoridade"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "3": {
-      "parafrase": "Jesus subiu a um monte e ali se sentou com os seus discípulos.",
-      "referencias": [],
-      "comentario": "Jesus se retira para um monte, um lugar de ensino e de comunhão com Seus discípulos.",
-      "temas": ["monte", "ensino", "discípulos"],
-      "personagens": ["Jesus"]
+      "parafrase": "Então, Jesus levantou os olhos e viu aquela imensa congregação se aproximando. Ele perguntou a Filipe, um dos seus seguidores mais próximos, de onde comprariam pão suficiente para alimentar todas aquelas pessoas famintas.",
+      "referencias": [
+        "Mateus 14:15",
+        "Marcos 6:34"
+      ],
+      "comentario": "A pergunta a Filipe não é uma busca por informação, mas um teste de fé e uma introdução à demonstração do poder divino (um teste prático). Filipe representa a perspectiva humana e limitada.",
+      "temas": [
+        "Teste de Fé",
+        "Provisão Divina",
+        "Preocupação com as Necessidades Humanas"
+      ],
+      "personagens": [
+        "Jesus",
+        "Filipe"
+      ]
     },
     "4": {
-      "parafrase": "Ora, a Páscoa, a festa dos judeus, estava próxima.",
-      "referencias": [],
-      "comentario": "A proximidade da Páscoa, uma festa que celebra a libertação de Israel, é um contexto significativo para o milagre da multiplicação dos pães, que aponta para Jesus como o verdadeiro pão da vida.",
-      "temas": ["Páscoa", "festa judaica", "libertação"],
-      "personagens": []
+      "parafrase": "A Páscoa, a celebração da libertação de Israel, estava se aproximando, o que tornava ainda mais urgente a necessidade de prover alimento para aquela multidão reunida. 🐑",
+      "referencias": [
+        "Êxodo 12:14",
+        "Deuteronômio 16:1"
+      ],
+      "comentario": "A menção da Páscoa é crucial, pois prepara o cenário para Jesus se apresentar como o verdadeiro Pão da Vida, superando o sacrifício e a libertação da antiga aliança.",
+      "temas": [
+        "Páscoa",
+        "Simbolismo Alimentar",
+        "Libertação"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "5": {
-      "parafrase": "Então Jesus, levantando os olhos e vendo que uma grande multidão vinha em sua direção, perguntou a Filipe: 'Onde compraremos pão para que estes comam?'",
-      "referencias": ["Mateus 14:14", "Marcos 6:35", "Lucas 9:12"],
-      "comentario": "Jesus, em Sua onisciência, já sabe o que fará, mas pergunta a Filipe para testar sua fé e para que ele perceba a impossibilidade humana de alimentar a multidão.",
-      "temas": ["onisciência de Jesus", "teste de fé", "provisão"],
-      "personagens": ["Jesus", "Filipe"]
+      "parafrase": "Filipe respondeu, expondo a dura realidade financeira: 'Mestre, mesmo que tivéssemos uma fortuna enorme, não seria suficiente para dar um pedacinho de pão para cada um que está aqui. São milhares de pessoas!' 💸",
+      "referencias": [
+        "Mateus 14:17",
+        "Marcos 6:37"
+      ],
+      "comentario": "A resposta de Filipe usa o grego 'artos' (pão). A escala do problema é impossível para os recursos humanos, enfatizando a necessidade de intervenção sobrenatural.",
+      "temas": [
+        "Limitação Humana",
+        "Impossibilidade"
+      ],
+      "personagens": [
+        "Filipe"
+      ]
     },
     "6": {
-      "parafrase": "Mas ele disse isso para testá-lo, pois ele mesmo sabia o que ia fazer.",
-      "referencias": [],
-      "comentario": "A pergunta de Jesus é um teste para Filipe, que ainda não compreende plenamente o poder de Jesus.",
-      "temas": ["teste", "incompreensão"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus sabia muito bem o que iria fazer, mas continuou a testar Filipe, perguntando sobre a logística da alimentação. 🤔",
+      "referencias": [
+        "Mateus 14:14",
+        "Lucas 9:12"
+      ],
+      "comentario": "João destaca que Jesus já tinha o plano ('híde' - sabia). A pergunta serve para que os discípulos testemunhem o milagre e se preparem para o ensinamento posterior.",
+      "temas": [
+        "Onisciência de Jesus",
+        "Preparação para o Milagre"
+      ],
+      "personagens": [
+        "Jesus",
+        "Filipe"
+      ]
     },
     "7": {
-      "parafrase": "Filipe lhe respondeu: 'Duzentos denários de pão não seriam suficientes para que cada um recebesse um pedacinho.'",
-      "referencias": [],
-      "comentario": "Filipe calcula a impossibilidade humana de alimentar a multidão, mostrando sua falta de fé na capacidade de Jesus de prover.",
-      "temas": ["impossibilidade humana", "falta de fé", "cálculo"],
-      "personagens": ["Filipe"]
+      "parafrase": "André, outro discípulo, interveio, apontando para um menino pequeno que estava por ali. Ele disse: 'Vejam, há um garoto com cinco pães de cevada e dois peixinhos secos. Mas o que é isso diante de tanta gente?' 🧒🐟",
+      "referencias": [
+        "Mateus 14:17",
+        "Marcos 6:38"
+      ],
+      "comentario": "O pão de cevada ('krinai artous') era o alimento mais básico, associado à pobreza, contrastando com o pão fino dos ricos. A oferta do menino é humilde, mas completa.",
+      "temas": [
+        "Oferta Humilde",
+        "Pobreza",
+        "Multiplicação"
+      ],
+      "personagens": [
+        "André",
+        "Menino"
+      ]
     },
     "8": {
-      "parafrase": "Um dos seus discípulos, André, irmão de Simão Pedro, disse:",
-      "referencias": [],
-      "comentario": "André, em sua praticidade, tenta encontrar uma solução, mas seus recursos são limitados.",
-      "temas": ["praticidade", "recursos limitados"],
-      "personagens": ["André"]
+      "parafrase": "André expressou a impotência da provisão: 'Não há absolutamente nada que se possa fazer com tão pouca comida para tantas bocas famintas, Mestre.' 😔",
+      "referencias": [
+        "Mateus 14:18"
+      ],
+      "comentario": "A descrição de André reforça a natureza milagrosa do que estava prestes a acontecer. O contraste entre 'pouco' e 'multidão' é o cerne da lição.",
+      "temas": [
+        "Escassez",
+        "Inadequação da Oferta"
+      ],
+      "personagens": [
+        "André"
+      ]
     },
     "9": {
-      "parafrase": "'Há aqui um menino que tem cinco pães de cevada e dois peixinhos; mas o que é isso para tanta gente?'",
-      "referencias": [],
-      "comentario": "O pouco que se tem é insignificante diante da grande necessidade, mas Jesus o usará para realizar um milagre.",
-      "temas": ["pouco", "necessidade", "milagre"],
-      "personagens": ["André"]
+      "parafrase": "Jesus, então, ordenou que os discípulos mandassem a multidão se sentar na grama, que era verde e abundante naquele local aprazível. Havia cerca de cinco mil homens presentes, sem contar mulheres e crianças. 🌳",
+      "referencias": [
+        "Mateus 14:19",
+        "Marcos 6:39"
+      ],
+      "comentario": "O 'cinco mil homens' (excluindo mulheres e crianças) implica um total potencial de 15 a 20 mil pessoas. A ordem para sentar ('klinein') mostra organização e expectativa.",
+      "temas": [
+        "Organização",
+        "Multidão",
+        "Preparação para o Milagre"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "10": {
-      "parafrase": "Jesus disse: 'Façam o povo sentar-se.' Havia muita grama naquele lugar. Então os homens se sentaram, em número de cerca de cinco mil.",
-      "referencias": ["Mateus 14:19", "Marcos 6:39", "Lucas 9:14"],
-      "comentario": "Jesus organiza a multidão para a distribuição do alimento, demonstrando ordem e preparação. O número de homens é vasto.",
-      "temas": ["organização", "multidão", "preparação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Com a multidão acomodada, Jesus pegou os cinco pães e os dois peixinhos em suas mãos santas. Olhando para o céu, Ele deu graças a Deus, o Pai, pela provisão que estava prestes a conceder. 🙏",
+      "referencias": [
+        "Mateus 14:19",
+        "Lucas 9:16"
+      ],
+      "comentario": "O ato de 'dar graças' (eucharistein) é a raiz da palavra Eucaristia. Jesus realiza o milagre através da bênção e da gratidão a Deus.",
+      "temas": [
+        "Eucaristia",
+        "Ação de Graças",
+        "Bênção"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "11": {
-      "parafrase": "Jesus pegou os pães e, tendo dado graças, os distribuiu aos que estavam sentados; e fez o mesmo com os peixes, tanto quanto queriam.",
-      "referencias": ["Mateus 14:19", "Marcos 6:41", "Lucas 9:16"],
-      "comentario": "Jesus demonstra Sua autoridade e poder ao alimentar a multidão. Ele dá graças a Deus, parte o pão e o distribui, mostrando que a provisão vem de Deus e é abundante.",
-      "temas": ["milagre", "alimentação dos cinco mil", "provisão divina", "ação de graças"],
-      "personagens": ["Jesus"]
+      "parafrase": "Após abençoar, Ele começou a repartir o pão e o peixe aos discípulos, para que distribuíssem àquela vasta assembleia. E, surpreendentemente, o alimento continuou se multiplicando em suas mãos! 🥖🐟",
+      "referencias": [
+        "Mateus 14:19",
+        "Marcos 6:41"
+      ],
+      "comentario": "A distribuição começou pelos discípulos, reforçando que o milagre se manifesta através da obediência e serviço humano, mas a fonte é divina.",
+      "temas": [
+        "Multiplicação Milagrosa",
+        "Serviço"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "12": {
-      "parafrase": "Quando todos ficaram satisfeitos, ele disse aos seus discípulos: 'Recolham os pedaços que sobraram, para que nada se perca.'",
-      "referencias": [],
-      "comentario": "A abundância da provisão de Jesus é evidente. Não apenas todos foram alimentados, mas sobrou mais do que o que havia no início, simbolizando a superabundância de Deus. A ordem de recolher os pedaços mostra a importância de não desperdiçar.",
-      "temas": ["abundância", "satisfação", "superabundância", "não desperdiçar"],
-      "personagens": ["Jesus"]
+      "parafrase": "Quando todos ficaram fartos e satisfeitos, Jesus disse aos seus apóstolos: 'Vejam, recolham os pedaços que sobraram, para que nada se perca e desperdice.' 🗑️",
+      "referencias": [
+        "Mateus 14:20",
+        "Marcos 6:43"
+      ],
+      "comentario": "A ordem para recolher as sobras sublinha a abundância do milagre e ensina a lição de não desperdiçar os dons de Deus, mesmo em excesso.",
+      "temas": [
+        "Abundância",
+        "Não Desperdício"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "13": {
-      "parafrase": "Então eles os recolheram e encheram doze cestos com os pedaços dos cinco pães de cevada que sobraram para os que haviam comido.",
-      "referencias": ["Mateus 14:20", "Marcos 6:43", "Lucas 9:17"],
-      "comentario": "Os doze cestos cheios de sobras simbolizam a plenitude da provisão de Jesus e a suficiência de Sua graça para todos.",
-      "temas": ["superabundância", "provisão divina", "suficiência"],
-      "personagens": []
+      "parafrase": "Os discípulos obedeceram e juntaram as sobras. Impressionantemente, recolheram doze cestos cheios de fragmentos de pão e peixe, muito mais do que haviam começado a distribuir! 🧺",
+      "referencias": [
+        "Mateus 14:20",
+        "2 Reis 4:43"
+      ],
+      "comentario": "Os 'doze cestos' (kophinai) são simbólicos, representando as doze tribos de Israel ou os doze apóstolos, mostrando que a provisão era completa para o povo de Deus.",
+      "temas": [
+        "Plenitude",
+        "Símbolo Numérico"
+      ],
+      "personagens": [
+        "Discípulos"
+      ]
     },
     "14": {
-      "parafrase": "Ao verem o sinal que Jesus havia feito, os homens disseram: 'Este é verdadeiramente o Profeta que havia de vir ao mundo.'",
-      "referencias": ["Deuteronômio 18:15"],
-      "comentario": "A multidão reconhece Jesus como o Profeta prometido, que viria ao mundo. Sua fé é baseada nos sinais que Ele realiza.",
-      "temas": ["Profeta", "sinais", "fé"],
-      "personagens": []
+      "parafrase": "Ao verem o espetáculo de um homem capaz de alimentar milhares com tão pouco, aquela multidão começou a murmurar e afirmar: 'Este, sem dúvida, é o Profeta que havia de vir ao mundo!' ✨",
+      "referencias": [
+        "Deuteronômio 18:15",
+        "Mateus 16:14"
+      ],
+      "comentario": "A reação popular é o reconhecimento messiânico, mas baseado apenas em um sinal físico (alimento), o que aponta para a confusão deles sobre a verdadeira natureza do Messias (espiritual vs. político).",
+      "temas": [
+        "Reconhecimento Messianico",
+        "Fé Baseada em Sinais"
+      ],
+      "personagens": [
+        "Multidão"
+      ]
     },
     "15": {
-      "parafrase": "Jesus, sabendo que eles estavam prestes a vir e levá-lo à força para fazê-lo rei, retirou-se novamente para o monte, sozinho.",
-      "referencias": [],
-      "comentario": "Jesus se retira para evitar que a multidão o fizesse rei à força, pois Seu Reino não é deste mundo. Ele busca a solidão e a oração.",
-      "temas": ["rejeição do reinado terreno", "solidão", "oração"],
-      "personagens": ["Jesus"]
+      "parafrase": "Percebendo que as pessoas queriam pegá-lo à força e proclamá-lo Rei segundo os padrões terrenos, Jesus se retirou sozinho para a montanha, afastando-se da aclamação popular. 🏃‍♂️",
+      "referencias": [
+        "Mateus 14:23",
+        "Lucas 9:28"
+      ],
+      "comentario": "Jesus evita a coroação política ('basileu'). O termo grego para 'se retirar' indica um movimento intencional de fuga da pressão popular para manter o foco em Sua missão celestial.",
+      "temas": [
+        "Rejeição da Glória Terrena",
+        "Solidão de Jesus"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "16": {
-      "parafrase": "Ao entardecer, os seus discípulos desceram para o mar.",
-      "referencias": ["Mateus 14:23", "Marcos 6:45"],
-      "comentario": "Os discípulos partem de barco, enquanto Jesus permanece no monte.",
-      "temas": ["viagem", "discípulos"],
-      "personagens": []
+      "parafrase": "Quando a noite caiu, os discípulos desceram para a margem do mar, embarcando em um barco para atravessar para Cafarnaum, sem Jesus. 🌊",
+      "referencias": [
+        "Mateus 14:22",
+        "Marcos 6:45"
+      ],
+      "comentario": "A partida dos discípulos é ordenada por Jesus, mas Ele não vai com eles imediatamente, preparando a cena para o próximo milagre: caminhar sobre as águas.",
+      "temas": [
+        "Partida",
+        "Separação Temporária"
+      ],
+      "personagens": [
+        "Discípulos"
+      ]
     },
     "17": {
-      "parafrase": "E, entrando no barco, foram para o outro lado do mar, para Cafarnaum. Já estava escuro, e Jesus ainda não havia chegado até eles.",
-      "referencias": [],
-      "comentario": "Os discípulos enfrentam uma tempestade no mar, enquanto Jesus está ausente. A escuridão e a ausência de Jesus aumentam o medo.",
-      "temas": ["tempestade", "ausência de Jesus", "medo"],
-      "personagens": []
+      "parafrase": "A escuridão já estava densa e o mar agitado, e eles não viram Jesus embarcar. A preocupação começou a surgir, pois perceberam que estavam sozinhos na travessia. 🌑",
+      "referencias": [
+        "Marcos 6:47"
+      ],
+      "comentario": "O mar agitado simboliza as dificuldades e o medo que os discípulos enfrentavam, contrastando com a paz que Jesus provê.",
+      "temas": [
+        "Adversidade",
+        "Medo"
+      ],
+      "personagens": [
+        "Discípulos"
+      ]
     },
     "18": {
-      "parafrase": "E o mar se agitava por causa de um grande vento que soprava.",
-      "referencias": [],
-      "comentario": "A tempestade é violenta e perigosa, ameaçando o barco e a vida dos discípulos.",
-      "temas": ["tempestade", "perigo"],
-      "personagens": []
+      "parafrase": "Enquanto remavam contra um vento forte que soprava na direção contrária, o esforço físico aumentava o desespero. 🌬️",
+      "referencias": [
+        "Mateus 14:24"
+      ],
+      "comentario": "O vento contrário ('antementos') é uma luta literal, mas também metaforicamente representa a resistência que a mensagem de Cristo encontra no mundo.",
+      "temas": [
+        "Luta",
+        "Resistência"
+      ],
+      "personagens": [
+        "Discípulos"
+      ]
     },
     "19": {
-      "parafrase": "Tendo remado cerca de vinte e cinco ou trinta estádios, viram Jesus andando sobre o mar e aproximando-se do barco; e ficaram com medo.",
-      "referencias": ["Mateus 14:25", "Marcos 6:48"],
-      "comentario": "Jesus demonstra Seu poder sobrenatural sobre a natureza, andando sobre as águas. A reação dos discípulos é de medo e incompreensão.",
-      "temas": ["caminhada sobre as águas", "milagre", "poder de Jesus sobre a natureza", "medo"],
-      "personagens": ["Jesus"]
+      "parafrase": "Depois de terem percorrido uns bons cinco ou seis quilômetros, eles avistaram uma figura estranha caminhando sobre as águas, vindo em direção ao barco. O pavor tomou conta deles! 👻",
+      "referencias": [
+        "Mateus 14:26",
+        "Marcos 6:49"
+      ],
+      "comentario": "Caminhar sobre as águas é um poder reservado a Deus (como visto em Jó 9:8). A reação de medo mostra que eles não reconheceram Jesus imediatamente, vendo-o como um fantasma ('phantasma').",
+      "temas": [
+        "Poder Divino",
+        "Aparência Sobrenatural",
+        "Medo"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "20": {
-      "parafrase": "Mas ele lhes disse: 'Sou eu. Não temam!'",
-      "referencias": ["Mateus 14:27", "Marcos 6:50"],
-      "comentario": "Jesus os tranquiliza, revelando Sua identidade e encorajando-os a não temer. Sua presença traz paz em meio à tempestade.",
-      "temas": ["encorajamento", "identidade de Jesus", "não temer", "paz"],
-      "personagens": ["Jesus"]
+      "parafrase": "Mas Jesus, com a voz calma e autoritária, falou imediatamente: 'Tranquilos, sou Eu! Não tenham medo, parem de tremer.' 😌",
+      "referencias": [
+        "Mateus 14:27"
+      ],
+      "comentario": "A frase 'Sou Eu' ('Egō eimi') é a declaração de identidade divina de Jesus, ecoando o nome revelado de Deus a Moisés (Êxodo 3:14). É uma ordem para cessar o medo.",
+      "temas": [
+        "Revelação Divina",
+        "Paz",
+        "Autoridade"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "21": {
-      "parafrase": "Então eles o receberam de bom grado no barco; e imediatamente o barco chegou à terra para onde iam.",
-      "referencias": [],
-      "comentario": "A presença de Jesus no barco traz paz e acalma a tempestade, e o barco chega imediatamente ao seu destino, demonstrando Sua autoridade e Seu poder.",
-      "temas": ["paz", "autoridade de Jesus", "milagre", "chegada"],
-      "personagens": ["Jesus"]
+      "parafrase": "Com o coração mais tranquilo, os discípulos aceitaram a presença de Jesus e, misteriosamente, o barco chegou imediatamente ao destino desejado, apesar da distância que ainda tinham a percorrer. ⛵",
+      "referencias": [
+        "Mateus 14:32"
+      ],
+      "comentario": "A chegada instantânea enfatiza que o milagre não foi apenas Jesus andando na água, mas a anulação das leis naturais de distância e tempo, uma demonstração da soberania absoluta de Cristo.",
+      "temas": [
+        "Soberania",
+        "Milagre Espacial"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "22": {
-      "parafrase": "No dia seguinte, a multidão que estava do outro lado do mar, vendo que não havia ali outro barco, a não ser aquele em que os seus discípulos haviam entrado, e que Jesus não havia entrado no barco com os seus discípulos, mas que os seus discípulos haviam partido sozinhos,",
-      "referencias": [],
-      "comentario": "A multidão percebe que Jesus não estava no barco com Seus discípulos, o que os leva a procurá-lo.",
-      "temas": ["multidão", "busca", "ausência"],
-      "personagens": []
+      "parafrase": "No dia seguinte, a multidão que havia ficado na outra margem percebeu que Jesus não estava mais lá, e que apenas um pequeno barco havia partido, sem Ele. 🧐",
+      "referencias": [
+        "Mateus 14:25"
+      ],
+      "comentario": "O foco se volta para a multidão que busca o alimento físico, contrastando com a busca espiritual dos discípulos.",
+      "temas": [
+        "Busca Material"
+      ],
+      "personagens": [
+        "Multidão"
+      ]
     },
     "23": {
-      "parafrase": "(mas outros barcos de Tiberíades haviam chegado perto do lugar onde comeram o pão, depois que o Senhor deu graças),",
-      "referencias": [],
-      "comentario": "A chegada de outros barcos de Tiberíades permite que a multidão atravesse o mar para procurar Jesus.",
-      "temas": ["barcos", "travessia"],
-      "personagens": []
+      "parafrase": "Entretanto, alguns barcos de Tiberíades, que tinham chegado perto do lugar onde todos haviam comido depois que o Senhor deu graças, estavam disponíveis. 🛶",
+      "referencias": [
+        "Marcos 6:53"
+      ],
+      "comentario": "A menção aos barcos de Tiberíades mostra que o lugar do milagre era conhecido, e eles procuraram replicar a viagem, mas sem sucesso em encontrar Jesus.",
+      "temas": [
+        "Localização do Milagre"
+      ],
+      "personagens": [
+        "Multidão"
+      ]
     },
     "24": {
-      "parafrase": "vendo, pois, a multidão que Jesus não estava ali, nem os seus discípulos, entraram nos barcos e foram para Cafarnaum, procurando Jesus.",
-      "referencias": [],
-      "comentario": "A multidão, em sua busca por Jesus, vai para Cafarnaum, onde Ele estava.",
-      "temas": ["busca", "Cafarnaum"],
-      "personagens": []
+      "parafrase": "Vendo que Jesus não estava mais ali, nem seus discípulos, muitas pessoas decidiram entrar naqueles barcos e navegaram para Cafarnaum, a fim de encontrá-Lo. 🧭",
+      "referencias": [
+        "Mateus 14:33"
+      ],
+      "comentario": "A motivação é clara: eles querem o 'pão' que os saciou, não o Salvador.",
+      "temas": [
+        "Busca por Benefícios"
+      ],
+      "personagens": [
+        "Multidão"
+      ]
     },
     "25": {
-      "parafrase": "Ao encontrá-lo do outro lado do mar, perguntaram-lhe: 'Rabi, quando chegaste aqui?'",
-      "referencias": [],
-      "comentario": "A multidão, surpresa com a presença de Jesus, pergunta como Ele chegou ali, sem saber do milagre da caminhada sobre as águas.",
-      "temas": ["surpresa", "pergunta"],
-      "personagens": []
+      "parafrase": "Quando finalmente O encontraram do outro lado do mar, eles perguntaram, com um tom de impaciência: 'Mestre, quando foi que o Senhor chegou aqui?' A busca deles era puramente mundana. 😟",
+      "referencias": [
+        "Mateus 14:33"
+      ],
+      "comentario": "A pergunta deles é sobre logística e tempo ('quando'), não sobre teologia ou o significado do milagre. Eles estão presos à dimensão temporal e física.",
+      "temas": [
+        "Busca Superficial",
+        "Perguntas Erradas"
+      ],
+      "personagens": [
+        "Multidão",
+        "Jesus"
+      ]
     },
     "26": {
-      "parafrase": "Jesus lhes respondeu: 'Em verdade, em verdade lhes digo que vocês me procuram, não porque viram os sinais, mas porque comeram dos pães e se fartaram.'",
-      "referencias": [],
-      "comentario": "Jesus expõe a motivação superficial da multidão: eles o procuram por causa do pão material, não por causa dos sinais que revelam Sua identidade e Sua mensagem espiritual.",
-      "temas": ["motivação superficial", "pão material", "sinais"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus lhes respondeu, vendo que estavam buscando-O não pelos milagres grandiosos que Ele havia realizado, mas porque haviam comido pão e se saciado. Ele disse: 'Em verdade, em verdade vos digo, vocês estão Me procurando, mas não porque testemunharam os sinais verdadeiros do Reino de Deus. Vocês Me buscam pelo alimento que preencheu seus estômagos hoje, e não pelo pão que nutre a alma para a vida eterna. 🥩❌'",
+      "referencias": [
+        "Mateus 14:13",
+        "Marcos 6:34"
+      ],
+      "comentario": "Jesus critica a motivação da multidão: o interesse material e físico (o pão que saciou) em detrimento do interesse espiritual. O termo grego para 'sinal' é 'semeion', indicando que eles viram apenas um ato de provisão, não a revelação messiânica da glória de Deus. A satisfação imediata obscurece a verdade eterna.",
+      "temas": [
+        "Motivação da Fé",
+        "Busca Material vs. Espiritual",
+        "Sinais e Milagres"
+      ],
+      "personagens": [
+        "Jesus",
+        "A multidão"
+      ]
     },
     "27": {
-      "parafrase": "'Trabalhem, não pela comida que perece, mas pela comida que permanece para a vida eterna, a qual o Filho do homem lhes dará; pois nele o Pai, Deus, pôs o seu selo de aprovação.'",
-      "referencias": [],
-      "comentario": "Jesus os exorta a buscar o alimento espiritual que Ele oferece, que é a vida eterna. Ele se identifica como o Filho do homem, que tem a aprovação do Pai para dar essa vida.",
-      "temas": ["comida espiritual", "vida eterna", "Filho do homem", "aprovação do Pai"],
-      "personagens": ["Jesus"]
+      "parafrase": "Parem de trabalhar e se esforçar por aquilo que estraga e se perde com o tempo, como a comida que se decompõe na despensa. Em vez disso, dediquem sua energia e vida ao alimento que permanece firme, aquele que leva à vida que não tem fim. Pois este é o alimento que o Filho do Homem lhes dará, pois sobre Ele o Pai, o próprio Deus, selou Sua aprovação e autoridade.' 🌟✍️",
+      "referencias": [
+        "Colossenses 3:2",
+        "Tiago 1:24"
+      ],
+      "comentario": "Jesus introduz o contraste entre o alimento perecível ('phthirómenon') e o alimento duradouro ('aiónios', eterno). O selo ('esphragisen') do Pai indica a autenticação divina e a investidura messiânica de Jesus para cumprir essa missão de provisão eterna. É um chamado à prioridade de valores.",
+      "temas": [
+        "Vida Eterna",
+        "Trabalho e Esforço",
+        "Autenticação Divina"
+      ],
+      "personagens": [
+        "Jesus",
+        "O Pai (Deus)"
+      ]
     },
     "28": {
-      "parafrase": "Então lhe perguntaram: 'O que devemos fazer para realizar as obras de Deus?'",
-      "referencias": [],
-      "comentario": "A multidão, ainda com uma mentalidade de obras, pergunta como podem realizar as obras de Deus para obter a vida eterna.",
-      "temas": ["obras", "vida eterna", "questionamento"],
-      "personagens": []
+      "parafrase": "Então, perguntaram eles, com a ânsia de quem busca um novo mandamento ou uma nova obra: 'O que precisamos fazer, quais são as ações que Deus realmente espera de nós para que possamos realizar a obra que agrada a Ele?' 🤔",
+      "referencias": [
+        "Miquéias 6:8",
+        "Atos 2:37"
+      ],
+      "comentario": "A pergunta demonstra que a audiência ainda está presa ao paradigma da 'obra' ou 'ação' legalista, buscando uma lista de deveres para 'merecer' a provisão. Eles esperam uma nova série de rituais ou leis, não a mudança de foco para a fé no Messias.",
+      "temas": [
+        "Obras vs. Fé",
+        "Entendimento da Lei",
+        "Ação Esperada"
+      ],
+      "personagens": [
+        "A multidão"
+      ]
     },
     "29": {
-      "parafrase": "Jesus lhes respondeu: 'A obra de Deus é esta: que vocês creiam naquele que ele enviou.'",
-      "referencias": [],
-      "comentario": "Jesus revela que a única obra que Deus exige é a fé Nele, o enviado do Pai. A fé é a chave para a salvação e para realizar as obras de Deus.",
-      "temas": ["fé", "obra de Deus", "salvação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus respondeu diretamente, desfazendo a ilusão: 'A obra que Deus requer de vocês não é uma série de rituais ou esforços humanos intermináveis. A obra primordial é esta: Confiem em Mim! Creiam naquele que Ele enviou!' 🙏",
+      "referencias": [
+        "João 3:16",
+        "Atos 16:31"
+      ],
+      "comentario": "Esta é uma das declarações mais concisas de Jesus sobre o requisito fundamental da fé. O termo grego para 'crer'/'confiar' é 'pisteuō', que implica não apenas assentimento intelectual, mas confiança ativa e entrega pessoal. A obra de Deus é receber o dom de Deus.",
+      "temas": [
+        "Fé em Jesus",
+        "O Caminho da Salvação",
+        "A Obra de Deus"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "30": {
-      "parafrase": "Então lhe perguntaram: 'Que sinal, então, o senhor faz para que o vejamos e creiamos no senhor? Que obra o senhor realiza?'",
-      "referencias": [],
-      "comentario": "A multidão, apesar de ter visto a multiplicação dos pães, ainda exige um sinal espetacular para crer em Jesus. Sua fé é superficial e baseada em sinais.",
-      "temas": ["sinal", "incredulidade", "fé superficial"],
-      "personagens": []
+      "parafrase": "Eles, porém, insistiram, lembrando do milagre anterior: 'Que sinal, então, o Senhor fará para que possamos ver e, então, acreditar em Ti? O que o Senhor pode fazer que seja ainda mais impressionante do que o pão que apareceu do nada? Mostre-nos um prodígio agora mesmo!' 🙄",
+      "referencias": [
+        "Mateus 12:38",
+        "1 Coríntios 1:22"
+      ],
+      "comentario": "A multidão exige uma nova 'prova', uma demonstração sensorial imediata de poder para validar a autoridade de Jesus. Eles equiparam a autoridade divina a um show de mágica. Este é o desejo por sinais públicos (dynameis) em vez de aceitar a revelação presente.",
+      "temas": [
+        "Exigência de Sinais",
+        "Ceticismo",
+        "Provas Sensoriais"
+      ],
+      "personagens": [
+        "A multidão"
+      ]
     },
     "31": {
-      "parafrase": "'Nossos pais comeram o maná no deserto, como está escrito: Ele lhes deu pão do céu para comer.'",
-      "referencias": ["Êxodo 16:4", "Neemias 9:15", "Salmos 78:24"],
-      "comentario": "Eles comparam Jesus a Moisés e o maná, buscando um milagre semelhante para provar Sua autoridade. Eles se apegam ao passado e à provisão material.",
-      "temas": ["maná", "Moisés", "provisão material"],
-      "personagens": []
+      "parafrase": "Nossos antepassados comeram o maná, o pão caído do céu, quando estavam no deserto, conforme está escrito nas Escrituras Sagradas. Eles tiveram sua fome saciada fisicamente na jornada. 📜🍞",
+      "referencias": [
+        "Êxodo 16:4",
+        "Salmos 78:24"
+      ],
+      "comentario": "A multidão estabelece um paralelo direto com Moisés e o êxodo. Eles veem o milagre de Jesus (o pão fresco) como uma repetição do milagre de Moisés (o maná). Eles usam o passado glorioso para exigir um futuro espetacular, mas falham em ver o superior presente.",
+      "temas": [
+        "O Maná",
+        "Memória do Êxodo",
+        "Comparação com Moisés"
+      ],
+      "personagens": [
+        "Os antepassados"
+      ]
     },
     "32": {
-      "parafrase": "Jesus lhes disse: 'Em verdade, em verdade lhes digo que não foi Moisés quem lhes deu o pão do céu, mas meu Pai lhes dá o verdadeiro pão do céu.'",
-      "referencias": [],
-      "comentario": "Jesus corrige a compreensão deles, afirmando que o Pai é a fonte do verdadeiro pão do céu, que é Ele mesmo. Ele é superior a Moisés e ao maná.",
-      "temas": ["verdadeiro pão do céu", "superioridade de Jesus", "provisão divina"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus corrigiu a memória deles com seriedade: 'Vocês citam Moisés, mas é Meu Pai quem deu o verdadeiro pão do céu. Não foi Moisés quem deu o pão vindo do céu, mas é Meu Pai quem lhes dá agora o pão que verdadeiramente vem do céu.' ☝️",
+      "referencias": [
+        "Hebreus 3:2",
+        "Salmos 105:40"
+      ],
+      "comentario": "Jesus reivindica a fonte da provisão. O maná era provisão do Pai, mas era um tipo. Jesus aponta que o dom atual (Ele mesmo) é superior ao dom passado, pois vem diretamente do céu, não apenas da nuvem ou do deserto. A autoridade de Jesus é colocada acima da de Moisés, embora respeitando a tradição.",
+      "temas": [
+        "Autoridade de Jesus",
+        "O Pão do Céu",
+        "Provisão Divina"
+      ],
+      "personagens": [
+        "Jesus",
+        "Moisés"
+      ]
     },
     "33": {
-      "parafrase": "'Pois o pão de Deus é aquele que desce do céu e dá vida ao mundo.'",
-      "referencias": [],
-      "comentario": "Jesus se identifica como o pão de Deus, que desce do céu para dar vida ao mundo. Ele é a fonte da vida espiritual e da salvação universal.",
-      "temas": ["pão de Deus", "vida ao mundo", "salvação universal"],
-      "personagens": ["Jesus"]
+      "parafrase": "Porque o pão que Deus envia do céu, e que dá vida verdadeira e duradoura ao mundo inteiro, é Aquele que desceu e agora está diante de vocês.' 🌍",
+      "referencias": [
+        "João 1:14",
+        "Apocalipse 21:6"
+      ],
+      "comentario": "Aqui está a primeira alusão clara à Sua identidade como o pão da vida. O foco é a vida (zoe) universal ('kosmos'). O Pão não é apenas um alimento, mas o agente da vida eterna para toda a criação.",
+      "temas": [
+        "Vida Universal",
+        "A Descida do Céu",
+        "Jesus como o Pão"
+      ],
+      "personagens": [
+        "Jesus",
+        "Deus"
+      ]
     },
     "34": {
-      "parafrase": "Então lhe disseram: 'Senhor, dê-nos sempre desse pão!'",
-      "referencias": [],
-      "comentario": "A multidão, ainda com uma mentalidade material, pede o pão que Jesus oferece, mas sem compreender plenamente o significado espiritual.",
-      "temas": ["pão material", "desejo", "incompreensão"],
-      "personagens": []
+      "parafrase": "Eles se cansaram de discutir e imploraram: 'Senhor, por favor, dê-nos sempre desse pão! Não queremos mais ter fome, nem ter que voltar a pedir milagres; dê-nos essa substância eterna!' 🤲",
+      "referencias": [
+        "Salmos 145:15",
+        "Filipenses 4:19"
+      ],
+      "comentario": "A multidão ainda entende mal. Eles veem o 'pão' como um objeto tangível a ser recebido repetidamente, como se Jesus fosse um fornecedor de suprimentos infinitos. A compreensão da entrega pessoal e da união com Ele (o Pão) ainda não ocorreu.",
+      "temas": [
+        "Desejo Superficial",
+        "Fome Espiritual Mal Interpretada",
+        "A Busca pela Satisfação"
+      ],
+      "personagens": [
+        "A multidão",
+        "Jesus"
+      ]
     },
     "35": {
-      "parafrase": "Jesus lhes disse: 'Eu sou o pão da vida. Quem vem a mim nunca terá fome; e quem crê em mim nunca terá sede.'",
-      "referencias": [],
-      "comentario": "Jesus se declara o Pão da Vida, a fonte de satisfação espiritual. A fé Nele é a chave para a vida eterna e para a saciedade espiritual.",
-      "temas": ["Pão da Vida", "satisfação espiritual", "fé", "vida eterna"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus declarou firmemente: 'Eu sou o próprio Pão da Vida. Quem vier a Mim jamais sentirá fome outra vez; quem se achegar a Mim nunca mais terá sede de maneira alguma. Eu sou a satisfação completa.' 💡",
+      "referencias": [
+        "João 4:14",
+        "Isaías 55:1"
+      ],
+      "comentario": "Esta é a afirmação central da seção ('Eu Sou'). O grego para 'jamais sentirá fome' ('ou me peinásēti oudepóte') e 'jamais terá sede' ('ou dipsēsei oudepóte') usa advérbios de negação absoluta, prometendo saciedade final e inabalável. Não é apenas um suprimento, mas a própria Fonte.",
+      "temas": [
+        "Eu Sou (Identidade de Cristo)",
+        "Saciação Completa",
+        "Fome e Sede Espiritual"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "36": {
-      "parafrase": "'Mas eu lhes disse que vocês me viram e, contudo, não creem.'",
-      "referencias": [],
-      "comentario": "Jesus lamenta a incredulidade da multidão, que, apesar de ter visto Seus milagres, ainda se recusa a crer Nele.",
-      "temas": ["incredulidade", "rejeição"],
-      "personagens": ["Jesus"]
+      "parafrase": "No entanto, Eu já lhes disse que, embora Me tenham visto, ainda assim não creem em Mim, pois vocês não conseguem enxergar além da aparência física para reconhecer a verdade que lhes apresento. 💔",
+      "referencias": [
+        "João 5:40",
+        "Isaías 6:9"
+      ],
+      "comentario": "Jesus lamenta a cegueira deliberada da multidão. Eles viram os fatos físicos (o milagre) mas rejeitaram a verdade espiritual inerente neles. A incredulidade é apresentada como uma falha de visão interior, não de evidência.",
+      "temas": [
+        "Incredulidade",
+        "Cegueira Espiritual",
+        "A Necessidade da Visão Interior"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "37": {
-      "parafrase": "'Tudo o que o Pai me dá virá a mim; e o que vem a mim, de modo nenhum o lançarei fora.'",
-      "referencias": [],
-      "comentario": "Jesus afirma a soberania do Pai em trazer as pessoas a Ele e a segurança daqueles que vêm a Ele. Ninguém que vem a Jesus será rejeitado.",
-      "temas": ["soberania do Pai", "segurança", "aceitação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Todo aquele que o Pai, em Seu amor soberano, me entrega virá, sem falta, até Mim. E a pessoa que vier a Mim, de jeito nenhum a rejeitarei, pois ninguém pode Me arrancar das mãos do Pai. Eu não desperdiço ninguém que me é confiado.' 🤝",
+      "referencias": [
+        "João 10:28",
+        "Romanos 8:38-39"
+      ],
+      "comentario": "Aqui, Jesus aborda a soberania de Deus na salvação (a 'entrega' ou 'dar' do Pai, 'didómi'). A promessa de não rejeitar é uma garantia da segurança eterna. A imagem de ser mantido na mão do Pai e do Filho ('kratēsō' - segurar firmemente) enfatiza a inviolabilidade do relacionamento com os eleitos.",
+      "temas": [
+        "Soberania de Deus",
+        "Segurança da Salvação",
+        "A Mão Protetora de Deus"
+      ],
+      "personagens": [
+        "Jesus",
+        "O Pai"
+      ]
     },
     "38": {
-      "parafrase": "'Pois eu desci do céu, não para fazer a minha própria vontade, mas a vontade daquele que me enviou.'",
-      "referencias": [],
-      "comentario": "Jesus reafirma Sua missão de fazer a vontade do Pai, demonstrando Sua obediência e Sua unidade de propósito com Deus.",
-      "temas": ["vontade de Deus", "obediência", "missão"],
-      "personagens": ["Jesus"]
+      "parafrase": "Pois Eu desci do céu, não para fazer a Minha própria vontade, que é fácil e natural, mas para cumprir o propósito e o plano Daquele que Me enviou. Minha missão é executá-Lo perfeitamente.' 🎯",
+      "referencias": [
+        "Filipenses 2:8",
+        "Lucas 22:42"
+      ],
+      "comentario": "Jesus reforça Sua submissão à vontade do Pai. A frase 'não vim fazer a minha vontade' (oíkelēn thelēma) significa que Sua vontade humana estava em perfeita harmonia com a vontade divina. Ele é o mensageiro que executa a ordem do remetente.",
+      "temas": [
+        "Vontade de Deus",
+        "Obediência de Cristo",
+        "Missão Divina"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "39": {
-      "parafrase": "'E a vontade daquele que me enviou é esta: que eu não perca nada de tudo o que ele me deu, mas que o ressuscite no último dia.'",
-      "referencias": [],
-      "comentario": "A vontade do Pai é a salvação e a ressurreição de todos os que Ele deu a Jesus. A segurança da salvação é garantida pela fidelidade de Jesus.",
-      "temas": ["vontade de Deus", "salvação", "ressurreição", "segurança"],
-      "personagens": ["Jesus"]
+      "parafrase": "E a vontade Daquele que Me enviou é esta: que Eu não perca absolutamente nenhum daqueles que Ele Me deu. Pelo contrário, devo ressuscitá-los no último dia, dando-lhes a vida que nunca se acaba.' 🌄",
+      "referencias": [
+        "João 17:12",
+        "1 Tessalonicenses 4:16"
+      ],
+      "comentario": "A vontade salvífica do Pai culmina na ressurreição final (no 'último dia', 'eschátē hēmera'). 'Não perder' ('ou apolló-ó') não significa apenas evitar a destruição, mas garantir a plenitude da vida eterna para aqueles que já foram 'dados' a Ele.",
+      "temas": [
+        "Ressurreição Final",
+        "Preservação dos Crentes",
+        "O Último Dia"
+      ],
+      "personagens": [
+        "Jesus",
+        "O Pai"
+      ]
     },
     "40": {
-      "parafrase": "'Pois a vontade de meu Pai é que todo aquele que vê o Filho e nele crê tenha a vida eterna; e eu o ressuscitarei no último dia.'",
-      "referencias": [],
-      "comentario": "A vida eterna é prometida a todos que veem o Filho e creem Nele. A ressurreição no último dia é a consumação da salvação.",
-      "temas": ["vida eterna", "fé", "ressurreição", "salvação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Porque a vontade do Pai é que todo aquele que contempla o Filho com fé e Nele confia tenha a vida que perdura para sempre. Esta é a Minha satisfação e, para aqueles que creem, a garantia de sua ressurreição futura.' ✨",
+      "referencias": [
+        "João 3:36",
+        "1 João 5:11-12"
+      ],
+      "comentario": "Este versículo resume a primeira parte do ensinamento sobre o Pão da Vida. A condição para a vida eterna ('zoē aiónios') é olhar para o Filho ('theōrē |ntas ton Huión') e crer Nele ('pisteuō'). É a junção da visão espiritual com a fé ativa.",
+      "temas": [
+        "Vida Eterna",
+        "Visão e Fé",
+        "Condição para a Salvação"
+      ],
+      "personagens": [
+        "O Pai",
+        "O Filho"
+      ]
     },
     "41": {
-      "parafrase": "Então os judeus começaram a murmurar a respeito dele, porque ele havia dito: 'Eu sou o pão que desceu do céu.'",
-      "referencias": [],
-      "comentario": "Os judeus murmuram contra Jesus, pois eles o conhecem como filho de José e não conseguem aceitar Sua afirmação de ter descido do céu. Sua incredulidade é evidente.",
-      "temas": ["murmuração", "incredulidade", "origem de Jesus"],
-      "personagens": ["Judeus"]
+      "parafrase": "Os judeus começaram a murmurar e a reclamar entre si, porque Jesus havia dito que Ele era o Pão que desceu do céu. 'Isso é um absurdo!', pensavam eles. 'Como este homem, que conhecemos como filho de José, o carpinteiro, pode afirmar ter vindo do céu?' 😠",
+      "referencias": [
+        "João 7:15",
+        "Números 14:27"
+      ],
+      "comentario": "O 'murmúrio' ('goggýzei') aqui indica insatisfação e oposição baseada na ignorância da origem divina de Jesus. Eles reduzem Jesus ao seu contexto humano familiar em Nazaré (filho de José), tornando a alegação celestial logicamente impossível para eles.",
+      "temas": [
+        "Murmúrio e Oposição",
+        "A Humanidade de Jesus",
+        "Origem Celestial"
+      ],
+      "personagens": [
+        "Os judeus",
+        "Jesus",
+        "José"
+      ]
     },
     "42": {
-      "parafrase": "E diziam: 'Não é este Jesus, o filho de José, cujo pai e mãe nós conhecemos? Como, então, ele diz: Desci do céu?'",
-      "referencias": [],
-      "comentario": "A familiaridade com a origem humana de Jesus se torna um obstáculo à fé em Sua divindade. Eles se apegam ao que conhecem e rejeitam o que não compreendem.",
-      "temas": ["familiaridade", "incredulidade", "divindade de Jesus"],
-      "personagens": []
+      "parafrase": "Eles diziam: 'Não é este Jesus, o filho de José? Não conhecemos Seu pai e Sua mãe? Como é possível que Ele venha afirmar categoricamente que desceu diretamente do céu?' O escândalo da Encarnação os impedia de crer. 🤨",
+      "referencias": [
+        "Mateus 13:55",
+        "Marcos 6:3"
+      ],
+      "comentario": "Este versículo detalha a base da zombaria: o conhecimento local e terreno. O escândalo é a Encarnação—o divino vestido de humano conhecido. Para eles, o Messias deveria surgir de forma milagrosa e distinta, não como alguém familiar da vizinhança.",
+      "temas": [
+        "Escândalo da Encarnação",
+        "Conhecimento Superficial",
+        "Origem Terrena"
+      ],
+      "personagens": [
+        "Os judeus",
+        "Jesus",
+        "José",
+        "Mãe de Jesus"
+      ]
     },
     "43": {
-      "parafrase": "Jesus lhes respondeu: 'Não murmurem entre vocês.'",
-      "referencias": [],
-      "comentario": "Jesus os repreende por sua murmuração, que é um sinal de incredulidade e falta de respeito.",
-      "temas": ["murmuração", "repreensão", "incredulidade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus os confrontou novamente, dizendo: 'Parem de reclamar uns com os outros. Ninguém pode vir a Mim, a não ser que o Pai, que Me enviou, o atraia irresistivelmente para Mim. Ninguém vem por sua própria vontade absoluta.' 🧲",
+      "referencias": [
+        "Jeremias 31:3",
+        "Cântico dos Cânticos 1:4"
+      ],
+      "comentario": "Jesus silencia a crítica externa, voltando-se para a soberania interna da atração divina. O termo grego 'helkýō' significa puxar, arrastar, atrair com força (como um anzol ou rede). É um ato irresistível de graça que precede a fé.",
+      "temas": [
+        "Atração Divina",
+        "Irresistibilidade da Graça",
+        "Confronto com a Crítica"
+      ],
+      "personagens": [
+        "Jesus",
+        "O Pai"
+      ]
     },
     "44": {
-      "parafrase": "'Ninguém pode vir a mim, a não ser que o Pai, que me enviou, o atraia; e eu o ressuscitarei no último dia.'",
-      "referencias": [],
-      "comentario": "Jesus afirma que a vinda a Ele é uma obra do Pai, que atrai as pessoas. A salvação é uma obra divina, não humana. A ressurreição no último dia é a consumação da salvação.",
-      "temas": ["atração do Pai", "salvação", "ressurreição"],
-      "personagens": ["Jesus"]
+      "parafrase": "E aquele que é atraído pelo Pai será trazido até Mim, e Eu, sem falta, o levantarei e lhe darei a vida eterna, como prometido no dia da ressurreição.' ⬆️",
+      "referencias": [
+        "João 11:25",
+        "Romanos 8:30"
+      ],
+      "comentario": "Este versículo interliga a atração (v. 43) com a ressurreição (v. 39). A promessa de 'levantá-lo' ('egertō') está ligada à ressurreição final, garantindo que a atração inicial resulta na glorificação final. É a jornada completa do crente.",
+      "temas": [
+        "Jornada do Crente",
+        "Ressurreição e Vida",
+        "Graça e Glória"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "45": {
-      "parafrase": "'Está escrito nos profetas: E todos serão ensinados por Deus. Todo aquele que ouviu do Pai e aprendeu, vem a mim.'",
-      "referencias": ["Isaías 54:13"],
-      "comentario": "Jesus cita a profecia de Isaías, mostrando que o ensino de Deus é essencial para vir a Ele. Aqueles que são ensinados pelo Pai virão a Jesus.",
-      "temas": ["ensino de Deus", "profecia", "fé"],
-      "personagens": ["Jesus"]
+      "parafrase": "As Escrituras antigas profetizaram isso, pois está escrito: 'E todos serão ensinados por Deus.' Portanto, todo aquele que ouve o ensinamento do Pai e aprende com Ele, necessariamente vem a Mim. 🧑‍🏫",
+      "referencias": [
+        "Isaías 54:13",
+        "Hebreus 8:11"
+      ],
+      "comentario": "Jesus valida Sua alegação citando Isaías. A frase 'ensinado por Deus' ('didaktói tou Theou') indica que a revelação interior e a instrução do Espírito Santo são pré-requisitos para reconhecer o Filho. A verdadeira escola é Deus.",
+      "temas": [
+        "Ensino de Deus",
+        "Autoridade das Escrituras",
+        "Revelação Interior"
+      ],
+      "personagens": [
+        "Jesus",
+        "Deus"
+      ]
     },
     "46": {
-      "parafrase": "'Não que alguém tenha visto o Pai, a não ser aquele que é de Deus; este viu o Pai.'",
-      "referencias": [],
-      "comentario": "Jesus afirma que Ele é o único que viu o Pai, demonstrando Sua relação única com Deus e Sua autoridade para revelá-Lo.",
-      "temas": ["relação única com Deus", "revelação do Pai", "autoridade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Não estou dizendo que alguém tenha visto o Pai em Sua essência. Apenas Aquele que vem de Deus, Aquele que viu o Pai diretamente, é quem pode testemunhar sobre Ele com autoridade. 🧐",
+      "referencias": [
+        "João 1:18",
+        "Mateus 11:27"
+      ],
+      "comentario": "Jesus distingue entre o conhecimento conceitual de Deus e o conhecimento experiencial direto. Ninguém jamais viu Deus, mas Jesus, por ter origem Nele ('apo tou Theou'), tem a qualificação única para revelar a natureza do Pai.",
+      "temas": [
+        "Conhecimento de Deus",
+        "Visão do Pai",
+        "Revelação de Cristo"
+      ],
+      "personagens": [
+        "Jesus",
+        "O Pai"
+      ]
     },
     "47": {
-      "parafrase": "'Em verdade, em verdade lhes digo que quem crê em mim tem a vida eterna.'",
-      "referencias": [],
-      "comentario": "Jesus reafirma que a fé Nele é a chave para a vida eterna. A salvação é um presente presente e futuro.",
-      "temas": ["vida eterna", "fé", "salvação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Mais uma vez, Eu lhes digo a verdade mais fundamental: Aquele que aceita a Palavra através da fé, esse é o que tem a vida eterna. A crença em Mim é o portal para a eternidade. 🔑",
+      "referencias": [
+        "1 João 3:14",
+        "Romanos 10:9"
+      ],
+      "comentario": "Retorno ao tema central: a fé. Este versículo reitera a promessa do versículo 40 sob a perspectiva da vida eterna ('zoē aiónios'). A fé não é uma opção, mas a única forma de transição da morte para a vida.",
+      "temas": [
+        "Fé e Vida Eterna",
+        "A Verdade Fundamental",
+        "Transição Espiritual"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "48": {
-      "parafrase": "'Eu sou o pão da vida.'",
-      "referencias": [],
-      "comentario": "Jesus se declara o Pão da Vida, a fonte de satisfação espiritual e de vida eterna.",
-      "temas": ["Pão da Vida", "satisfação espiritual", "vida eterna"],
-      "personagens": ["Jesus"]
+      "parafrase": "Eu sou, Eu próprio, o Pão que dá a vida, e este sou Eu. Esqueçam o maná antigo que apenas sustentou o corpo; Eu sou o alimento que sustenta a alma para sempre. ♾️",
+      "referencias": [
+        "João 1:1",
+        "Apocalipse 22:13"
+      ],
+      "comentario": "Uma reafirmação enfática (o uso de 'egō eimi' seguido de 'autós' — Eu mesmo sou). Jesus se identifica como a concretização viva de tudo o que o maná prefigurava. Ele não é um tipo; Ele é a Realidade.",
+      "temas": [
+        "Eu Sou (Ênfase)",
+        "Jesus como Realidade",
+        "Superioridade sobre o Maná"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "49": {
-      "parafrase": "'Os seus pais comeram o maná no deserto e morreram.'",
-      "referencias": [],
-      "comentario": "Jesus contrasta o maná, que era um alimento temporário e não dava vida eterna, com Ele mesmo, o verdadeiro pão da vida.",
-      "temas": ["maná", "pão da vida", "contraste"],
-      "personagens": ["Jesus"]
+      "parafrase": "Seus antepassados comeram o pão no deserto e, ainda assim, morreram. Eles receberam o alívio temporário, mas não a eternidade. ⚰️",
+      "referencias": [
+        "Hebreus 3:17-19",
+        "Números 11:34"
+      ],
+      "comentario": "Este é um lembrete sombrio da falha de Israel. Embora tivessem o sinal físico (o maná), a falta de fé resultou em sua morte física e subsequente exclusão da Terra Prometida e da vida plena com Deus. O pão material não garantiu a salvação.",
+      "temas": [
+        "Morte e Julgamento",
+        "Falha da Desobediência",
+        "Maná e Morte"
+      ],
+      "personagens": [
+        "Os antepassados"
+      ]
     },
     "50": {
-      "parafrase": "'Este é o pão que desce do céu, para que o que dele comer não morra.'",
-      "referencias": [],
-      "comentario": "Jesus enfatiza que o pão que Ele oferece é superior ao maná, pois ele dá vida eterna e impede a morte espiritual.",
-      "temas": ["pão do céu", "vida eterna", "superioridade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Contudo, o pão que Eu dou é diferente: Quem se alimenta dele não morrerá; essa pessoa receberá a vida que não tem começo nem fim. Este é o verdadeiro antídoto contra a morte, garantido por Mim.' ✅",
+      "referencias": [
+        "Romanos 6:23",
+        "1 João 5:12"
+      ],
+      "comentario": "O contraste final é entre a morte que se seguiu ao maná e a vida eterna que segue o comer de Cristo. 'Quem comer' é sinônimo de quem crê (retomando o tema do versículo 35). A vida concedida por Jesus é a verdadeira imortalidade espiritual concedida pelo Filho de Deus.",
+      "temas": [
+        "Antídoto Contra a Morte",
+        "Vida Eterna Garantida",
+        "Poder de Jesus"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "51": {
-      "parafrase": "'Eu sou o pão vivo que desceu do céu. Se alguém comer deste pão, viverá para sempre. E o pão que eu darei é a minha carne, que darei pela vida do mundo.'",
-      "referencias": [],
-      "comentario": "Jesus se identifica como o pão vivo, e Sua carne é o pão que Ele dará para a vida do mundo. Isso aponta para Sua morte sacrificial na cruz, que é a fonte da vida eterna.",
-      "temas": ["pão vivo", "carne de Jesus", "sacrifício", "vida do mundo"],
-      "personagens": ["Jesus"]
+      "parafrase": "Eu sou o pão que desceu do céu, a verdadeira fonte de vida. Se alguém comer deste pão especial, viverá para sempre. E este pão que lhes dou é a minha própria carne, que entregarei como sustento vital para a vida do mundo inteiro.",
+      "referencias": [
+        "Êxodo 16:31",
+        "Salmos 78:24"
+      ],
+      "comentario": "João introduz a metáfora central da 'Comunhão' (Eucaristia, embora não na forma sacramental posterior). O termo grego para 'comer' aqui é 'esthiō', mas o contexto implica uma aceitação profunda. O 'pão' não é apenas alimento físico (como o maná), mas o próprio Jesus, cuja 'carne' (sarx) será sacrificada para dar vida eterna. Isso prefigura a Nova Aliança.",
+      "temas": [
+        "Eucaristia",
+        "Vida Eterna",
+        "Sacrifício de Cristo"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "52": {
-      "parafrase": "Então os judeus discutiam entre si, dizendo: 'Como pode este homem nos dar a sua carne para comer?'",
-      "referencias": [],
-      "comentario": "Os judeus interpretam as palavras de Jesus literalmente, sem compreender o significado espiritual de comer Sua carne e beber Seu sangue. Sua incompreensão é evidente.",
-      "temas": ["incompreensão", "literalismo", "carne e sangue"],
-      "personagens": ["Judeus"]
+      "parafrase": "Os judeus começaram a discutir acaloradamente entre si, dizendo: 'Como pode este homem nos dar a sua carne para comermos? Isso é terrível e inaceitável!'",
+      "referencias": [
+        "Marcos 14:22",
+        "Atos 2:37"
+      ],
+      "comentario": "A reação é de escândalo. O termo grego para 'discutir acaloradamente' ou 'contender' é 'syzētēo'. A antropofagia (comer carne humana) era o tabu máximo. Eles interpretam a declaração de Jesus de maneira literal e carnal, falhando em perceber a natureza espiritual e sacrificial de Suas palavras. 🤯",
+      "temas": [
+        "Incompreensão Humana",
+        "Escândalo da Cruz",
+        "Interpretação Literal"
+      ],
+      "personagens": [
+        "Judeus"
+      ]
     },
     "53": {
-      "parafrase": "Jesus lhes disse: 'Em verdade, em verdade lhes digo que, se vocês não comerem a carne do Filho do homem e não beberem o seu sangue, não terão vida em vocês.'",
-      "referencias": [],
-      "comentario": "Jesus reafirma a necessidade de participar Dele espiritualmente, através da fé em Seu sacrifício, para ter vida eterna. A linguagem é forte para enfatizar a importância da união com Ele.",
-      "temas": ["carne e sangue de Jesus", "vida eterna", "união com Cristo"],
-      "personagens": ["Jesus"]
+      "parafrase": "Então Jesus, sendo firme e direto, declarou: 'Em verdade, em verdade vos asseguro: se vocês não comerem a carne do Filho do Homem e não beberem o seu sangue, não terão a verdadeira vida dentro de vocês.'",
+      "referencias": [
+        "João 3:3",
+        "Levítico 17:11"
+      ],
+      "comentario": "Jesus intensifica a declaração com o juramento 'Amém, Amém' (em verdade, em verdade), reforçando a solenidade. A menção de 'beber o sangue' é ainda mais chocante para a audiência judaica, pois a Lei proibia estritamente o consumo de sangue (Levítico 17:11). Aqui, a vida é intrinsecamente ligada ao sangue derramado.",
+      "temas": [
+        "Necessidade da Fé",
+        "Vida através do Sangue",
+        "Exclusividade de Cristo"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "54": {
-      "parafrase": "'Quem come a minha carne e bebe o meu sangue tem a vida eterna, e eu o ressuscitarei no último dia.'",
-      "referencias": [],
-      "comentario": "A vida eterna e a ressurreição no último dia são prometidas àqueles que participam de Jesus pela fé, através de Seu sacrifício.",
-      "temas": ["vida eterna", "ressurreição", "sacrifício"],
-      "personagens": ["Jesus"]
+      "parafrase": "Mas aquele que aceita a minha carne e bebe o meu sangue possui a vida que dura para sempre, e eu o ressuscitarei no último dia, cheio de glória.",
+      "referencias": [
+        "Filipenses 3:21",
+        "Romanos 8:11"
+      ],
+      "comentario": "Jesus oferece a promessa da ressurreição futura. 'Comer' e 'beber' aqui significam a aceitação total da obra redentora de Cristo na cruz, a união espiritual com Ele. O grego sugere que a vida eterna já está presente no crente (presente contínuo). ✨",
+      "temas": [
+        "Ressurreição",
+        "União com Cristo",
+        "Vida Perene"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "55": {
-      "parafrase": "'Pois a minha carne é verdadeira comida, e o meu sangue é verdadeira bebida.'",
-      "referencias": [],
-      "comentario": "Jesus enfatiza que Ele é a verdadeira fonte de alimento espiritual, que satisfaz a alma e dá vida.",
-      "temas": ["comida verdadeira", "bebida verdadeira", "alimento espiritual"],
-      "personagens": ["Jesus"]
+      "parafrase": "Pois a minha carne é o alimento genuíno, e o meu sangue é a bebida que realmente satisfaz a sede da alma.",
+      "referencias": [
+        "Salmos 36:8",
+        "Apocalipse 22:17"
+      ],
+      "comentario": "O foco muda de 'pão' para 'alimento genuíno' (sarx mou estin brôsis alēthēs) e 'bebida verdadeira' (haima mou estin posis alēthēs). A palavra 'alēthēs' significa 'real', 'verdadeiro', em contraste com o que é apenas aparente ou temporário (como o maná). É uma satisfação espiritual profunda.",
+      "temas": [
+        "Satisfação Espiritual",
+        "Verdade e Realidade",
+        "Sustento Divino"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "56": {
-      "parafrase": "'Quem come a minha carne e bebe o meu sangue permanece em mim, e eu nele.'",
-      "referencias": [],
-      "comentario": "A participação em Jesus resulta em uma união íntima e permanente com Ele. A comunhão com Cristo é essencial para a vida espiritual.",
-      "temas": ["união com Cristo", "permanência", "comunhão"],
-      "personagens": ["Jesus"]
+      "parafrase": "Quem come a minha carne e bebe o meu sangue mora dentro de mim, e eu habito naquela pessoa. É assim que estabelecemos uma comunhão íntima e permanente.",
+      "referencias": [
+        "João 14:23",
+        "1 Coríntios 6:17"
+      ],
+      "comentario": "Esta é a linguagem da mutualidade e habitação (Meno em grego). O crente reside em Cristo, e Cristo reside no crente. É uma descrição vívida da 'koinonia' (comunhão/participação) espiritual que transcende a mera presença física. 💖",
+      "temas": [
+        "Habitação de Deus",
+        "Intimidade com Cristo",
+        "Comunhão"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "57": {
-      "parafrase": "'Assim como o Pai vivo me enviou, e eu vivo pelo Pai, assim também quem de mim se alimenta, também viverá por mim.'",
-      "referencias": [],
-      "comentario": "Jesus explica a relação entre Sua vida e a vida do Pai, e como essa vida é transmitida àqueles que se alimentam Dele. A vida espiritual vem de Jesus.",
-      "temas": ["vida espiritual", "relação com o Pai", "alimentação espiritual"],
-      "personagens": ["Jesus"]
+      "parafrase": "Assim como o Pai, que está vivo e me enviou, me mantém vivo, da mesma forma aquele que me recebe como seu alimento viverá por causa de mim.",
+      "referencias": [
+        "João 5:26",
+        "Gálatas 2:20"
+      ],
+      "comentario": "Jesus estabelece um paralelo trinitário. A vida que Ele tem do Pai (o Pai é a fonte original da vida) é transmitida àqueles que O aceitam. O verbo 'viver' aqui (zēsei) enfatiza a continuidade dessa nova vida recebida através da fé.",
+      "temas": [
+        "Dependência do Pai",
+        "Vida por meio de Cristo",
+        "Trindade"
+      ],
+      "personagens": [
+        "Jesus",
+        "Pai (Deus)"
+      ]
     },
     "58": {
-      "parafrase": "'Este é o pão que desceu do céu. Não é como o maná que os seus pais comeram e morreram; quem come deste pão viverá para sempre.'",
-      "referencias": [],
-      "comentario": "Jesus reafirma a superioridade do pão que Ele oferece sobre o maná, pois ele dá vida eterna e impede a morte espiritual.",
-      "temas": ["pão do céu", "vida eterna", "superioridade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Este é o verdadeiro pão que desceu dos céus. Não é como aquele pão que seus antepassados comeram e, mesmo assim, morreram. Quem se alimenta deste meu pão viverá eternamente!'",
+      "referencias": [
+        "1 Coríntios 10:3",
+        "Hebreus 3:18"
+      ],
+      "comentario": "Jesus contrasta explicitamente Sua oferta com o maná no deserto. O maná era um milagre temporário que não impedia a morte física; o pão que Ele oferece garante a vida eterna. A falha dos antepassados foi receber o dom físico sem a fé necessária para o benefício espiritual. ⏳",
+      "temas": [
+        "Maná vs. Cristo",
+        "Temporal vs. Eterno",
+        "Fé e Morte"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "59": {
-      "parafrase": "Ele disse estas coisas na sinagoga, enquanto ensinava em Cafarnaum.",
-      "referencias": [],
-      "comentario": "O discurso de Jesus sobre o Pão da Vida ocorre na sinagoga de Cafarnaum, onde Ele ensinava regularmente.",
-      "temas": ["sinagoga", "ensino", "Cafarnaum"],
-      "personagens": ["Jesus"]
+      "parafrase": "Ele proferiu estas palavras enquanto ensinava na sinagoga da cidade de Cafarnaum, diante de uma multidão perplexa.",
+      "referencias": [
+        "Marcos 1:21",
+        "Lucas 4:31"
+      ],
+      "comentario": "Este versículo estabelece o cenário: Cafarnaum. O ensinamento ocorreu em um ambiente formal de estudo e debate (a sinagoga). A multidão estava ouvindo uma doutrina radicalmente nova.",
+      "temas": [
+        "Ensino em Cafarnaum",
+        "Contexto Geográfico"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "60": {
-      "parafrase": "Muitos dos seus discípulos, ao ouvirem isso, disseram: 'Dura é esta palavra; quem pode ouvi-la?'",
-      "referencias": [],
-      "comentario": "A linguagem de Jesus é difícil de aceitar para muitos de Seus discípulos, que a interpretam literalmente e a consideram ofensiva. Sua palavra é um teste de fé.",
-      "temas": ["palavra dura", "incompreensão", "teste de fé"],
-      "personagens": ["Discípulos"]
+      "parafrase": "Ao ouvir estas coisas difíceis de aceitar, muitos dos seus seguidores começaram a murmurar entre si, dizendo: 'Que ensinamento duro! Quem consegue entender o que ele está dizendo? Parece absurdo!'",
+      "referencias": [
+        "Mateus 16:11",
+        "Atos 6:1"
+      ],
+      "comentario": "A reação não é apenas de dúvida, mas de rejeição ativa. O termo grego para o que eles diziam é 'gogguzmos' (murmúrio/resmungo), um som recorrente de descontentamento no Novo Testamento. Eles achavam a mensagem 'dura' (skleros), indicando que era difícil de suportar ou digerir intelectualmente.",
+      "temas": [
+        "Rejeição da Verdade",
+        "Dificuldade da Doutrina",
+        "Murmuração"
+      ],
+      "personagens": [
+        "Seguidores"
+      ]
     },
     "61": {
-      "parafrase": "Jesus, sabendo em si mesmo que os seus discípulos murmuravam a respeito disso, disse-lhes: 'Isso os escandaliza?'",
-      "referencias": [],
-      "comentario": "Jesus, em Sua onisciência, conhece a murmuração de Seus discípulos e os confronta com sua incredulidade. Ele sabe que Sua palavra é um escândalo para eles.",
-      "temas": ["onisciência de Jesus", "murmuração", "escândalo", "incredulidade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus, sabendo intimamente que os discípulos estavam resmungando sobre aquilo, perguntou-lhes: 'Isso vos faz tropeçar? O que aconteceria se vocês vissem o Filho do Homem subindo para onde estava antes?'",
+      "referencias": [
+        "João 2:25",
+        "Apocalipse 1:1"
+      ],
+      "comentario": "Jesus demonstra Sua onisciência (Ele 'sabia em si mesmo' ou intimamente). Ele usa o verbo 'skandalizō' (fazer tropeçar/escandalizar). Ele os confronta, lembrando-os de que Sua origem celestial e destino futuro deveriam ser a chave para entender Suas palavras atuais.",
+      "temas": [
+        "Onisciência de Jesus",
+        "Escândalo da Ascensão",
+        "Julgamento Interior"
+      ],
+      "personagens": [
+        "Jesus",
+        "Discípulos"
+      ]
     },
     "62": {
-      "parafrase": "'E se vocês virem o Filho do homem subir para onde estava antes?'",
-      "referencias": [],
-      "comentario": "Jesus aponta para Sua ascensão ao céu como uma prova de Sua origem divina e de Sua autoridade. Se eles se escandalizam com Suas palavras, o que dirão quando o virem ascender?",
-      "temas": ["ascensão de Jesus", "origem divina", "autoridade"],
-      "personagens": ["Jesus"]
+      "parafrase": "A verdade é que o Espírito é quem dá vida, e a carne, por si só, não serve para nada em termos de eternidade. As palavras que eu vos disse — a minha essência — são espírito e vida.",
+      "referencias": [
+        "Romanos 8:2",
+        "2 Coríntios 3:6"
+      ],
+      "comentario": "Este versículo é crucial para a hermenêutica do trecho. Jesus esclarece a metáfora: 'A carne' (sarx), referindo-se à sua natureza humana sem a união espiritual, é ineficaz. O que realmente vivifica é o Espírito (Pneuma) e a mensagem (as palavras) d'Ele, que são espirituais. 💡",
+      "temas": [
+        "Espírito vs. Carne",
+        "Poder das Palavras",
+        "Espiritualidade"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "63": {
-      "parafrase": "'O espírito é o que vivifica; a carne para nada aproveita. As palavras que eu lhes digo são espírito e vida.'",
-      "referencias": [],
-      "comentario": "Jesus explica que Suas palavras devem ser compreendidas espiritualmente, não literalmente. O Espírito é a fonte da vida, e Suas palavras são espírito e vida, trazendo vida espiritual.",
-      "temas": ["espírito e vida", "compreensão espiritual", "palavras de Jesus"],
-      "personagens": ["Jesus"]
+      "parafrase": "Entretanto, percebo que alguns de vocês não acreditam em mim. E eu sei disso porque, desde o princípio, eu conhecia quem era aquele que me trairia.'",
+      "referencias": [
+        "João 2:24",
+        "Mateus 26:21"
+      ],
+      "comentario": "Jesus expõe a incredulidade presente. Ele reafirma Sua onisciência sobre o futuro, especificamente sobre a traição iminente de Judas Iscariotes. Isso mostra que a incredulidade deles não era surpresa para Ele. 🧐",
+      "temas": [
+        "Incredulidade",
+        "Traição",
+        "Conhecimento Divino"
+      ],
+      "personagens": [
+        "Jesus",
+        "Traidor"
+      ]
     },
     "64": {
-      "parafrase": "'Mas há alguns de vocês que não creem.' Pois Jesus sabia desde o princípio quem eram os que não criam e quem o trairia.",
-      "referencias": [],
-      "comentario": "Jesus, em Sua onisciência, sabe quem crê e quem não crê, e quem o trairá. A incredulidade é uma escolha, e Jesus a conhece.",
-      "temas": ["incredulidade", "onisciência de Jesus", "traição"],
-      "personagens": ["Jesus"]
+      "parafrase": "Mas, apesar de saber disso, eu escolhi não os expulsar, pois eu sei quem são os meus, e sei que um deles se tornará meu inimigo fatal.'",
+      "referencias": [
+        "João 17:12",
+        "Salmos 41:9"
+      ],
+      "comentario": "Jesus revela a soberania de Deus sobre a escolha dos Seus. Ele não expulsa os incrédulos imediatamente porque Deus permite que o plano se desenrole (a redenção exige o sacrifício). O 'inimigo fatal' é uma referência direta àquele que o entregaria.",
+      "temas": [
+        "Soberania Divina",
+        "Escolha e Predestinação",
+        "Permissão da Queda"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "65": {
-      "parafrase": "E disse: 'Por isso eu lhes disse que ninguém pode vir a mim, a não ser que lhe seja concedido pelo Pai.'",
-      "referencias": [],
-      "comentario": "Jesus reafirma que a vinda a Ele é uma obra do Pai, que atrai as pessoas. A salvação é uma obra divina, não humana.",
-      "temas": ["atração do Pai", "salvação", "obra divina"],
-      "personagens": ["Jesus"]
+      "parafrase": "E foi por isso que eu lhes disse: 'Ninguém pode vir a mim, a menos que o Pai o tenha capacitado e atraído a mim.'",
+      "referencias": [
+        "João 3:27",
+        "Mateus 11:27"
+      ],
+      "comentario": "Jesus finaliza a explicação sobre a incredulidade: a fé não é primariamente um ato de vontade humana, mas uma resposta à capacitação divina. O verbo grego 'didōmi' (dar, conceder) aqui implica que o Pai concede a capacidade de vir a Cristo. É um ponto de tensão entre a responsabilidade humana e a graça soberana. 🙏",
+      "temas": [
+        "Graça Soberana",
+        "Atração Divina",
+        "Vontade Humana"
+      ],
+      "personagens": [
+        "Jesus",
+        "Pai (Deus)"
+      ]
     },
     "66": {
-      "parafrase": "Desde então, muitos dos seus discípulos voltaram atrás e não andavam mais com ele.",
-      "referencias": [],
-      "comentario": "A dificuldade da palavra de Jesus e a falta de fé levam muitos discípulos a abandoná-lo. A palavra de Jesus é um divisor de águas.",
-      "temas": ["abandono", "dificuldade da palavra", "divisor de águas"],
-      "personagens": []
+      "parafrase": "A partir desse momento, muitos dos que eram seus seguidores se afastaram, pararam de segui-Lo e não andaram mais com Ele por causa da dureza daquela doutrina.",
+      "referencias": [
+        "Mateus 13:21",
+        "Lucas 9:60"
+      ],
+      "comentario": "O resultado imediato da verdade radical. O termo 'voltaram atrás' ou 'retiraram-se' (hypestrepsan) mostra um movimento físico e espiritual de afastamento. A fé superficial e baseada apenas em milagres não resiste ao chamado ao compromisso profundo e sacrificial.",
+      "temas": [
+        "Abandono",
+        "Discernimento da Fé",
+        "Preço do Discipulado"
+      ],
+      "personagens": [
+        "Seguidores"
+      ]
     },
     "67": {
-      "parafrase": "Então Jesus perguntou aos doze: 'Vocês também não querem ir embora?'",
-      "referencias": [],
-      "comentario": "Jesus desafia Seus doze discípulos a se posicionarem. Ele lhes dá a liberdade de escolher, mas os convida a permanecerem fiéis.",
-      "temas": ["desafio", "liberdade de escolha", "fidelidade"],
-      "personagens": ["Jesus"]
+      "parafrase": "Então Jesus se virou para os Doze Apóstolos, aqueles que Ele havia escolhido com um propósito, e lhes perguntou com seriedade: 'Vocês também vão me abandonar e ir embora?'",
+      "referencias": [
+        "Lucas 22:31",
+        "Marcos 8:29"
+      ],
+      "comentario": "O foco se estreita dramaticamente dos seguidores vagos para o círculo íntimo, os Doze. Jesus os testa. O ato de virar-se para eles (estrepheis pros tous dōdeka) sinaliza um momento de definição crucial. Ele os confronta com a possibilidade de deserção, mesmo após todo o tempo juntos. 😨",
+      "temas": [
+        "Teste da Lealdade",
+        "Fidelidade dos Apóstolos",
+        "Confronto"
+      ],
+      "personagens": [
+        "Jesus",
+        "Doze Apóstolos"
+      ]
     },
     "68": {
-      "parafrase": "Simão Pedro lhe respondeu: 'Senhor, para quem iremos? Tu tens as palavras de vida eterna.'",
-      "referencias": [],
-      "comentario": "Pedro, em sua fé, reconhece que Jesus é a única fonte de vida eterna. Ele não tem para onde ir, pois só Jesus tem a verdade que satisfaz a alma.",
-      "temas": ["palavras de vida eterna", "fé de Pedro", "única fonte"],
-      "personagens": ["Simão Pedro"]
+      "parafrase": "Simão Pedro, falando por todos, respondeu prontamente: 'Senhor, a quem mais poderíamos ir? Tu és Aquele que tem as palavras que conduzem à vida eterna.'",
+      "referencias": [
+        "Mateus 16:16",
+        "Atos 4:12"
+      ],
+      "comentario": "A resposta de Pedro é uma declaração de exclusividade soteriológica. Ele reconhece que a verdade essencial (as palavras de vida eterna) reside apenas em Cristo. O grego para 'Palavras' aqui (rhēmata) são as declarações autoritativas de Jesus. É uma confissão de fé poderosa! 💪",
+      "temas": [
+        "Confissão de Pedro",
+        "Autoridade de Cristo",
+        "Exclusividade da Salvação"
+      ],
+      "personagens": [
+        "Simão Pedro",
+        "Jesus"
+      ]
     },
     "69": {
-      "parafrase": "'E nós cremos e sabemos que tu és o Santo de Deus.'",
-      "referencias": [],
-      "comentario": "Pedro confessa a identidade de Jesus como o Santo de Deus, o Messias. Sua fé é baseada no conhecimento e na experiência.",
-      "temas": ["confissão de fé", "Santo de Deus", "Messias"],
-      "personagens": ["Simão Pedro"]
+      "parafrase": "Nós cremos firmemente e sabemos com certeza absoluta que Tu és o Santo de Deus, Aquele que veio para nos salvar.",
+      "referencias": [
+        "Marcos 1:24",
+        "João 1:49"
+      ],
+      "comentario": "Pedro avança na confissão, reconhecendo a santidade única de Jesus ('o Santo de Deus' — ho Hagios tou Theou). Esta é uma das mais claras afirmações de messianismo e divindade feitas pelos discípulos antes da crucificação.",
+      "temas": [
+        "Santidade de Cristo",
+        "Reconhecimento de Messias",
+        "Fé Confessada"
+      ],
+      "personagens": [
+        "Simão Pedro"
+      ]
     },
     "70": {
-      "parafrase": "Jesus lhes respondeu: 'Não escolhi eu a vocês, os doze? Contudo, um de vocês é um diabo.'",
-      "referencias": [],
-      "comentario": "Jesus revela que, mesmo entre os doze escolhidos, há um traidor, Judas. Ele conhece o coração de Judas e a influência do diabo.",
-      "temas": ["escolha", "traidor", "diabo"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus lhes respondeu: 'Eu escolhi vocês, os Doze, mas sei que um de vocês está em aliança com o Diabo e será meu traidor.'",
+      "referencias": [
+        "João 13:2",
+        "Lucas 22:3"
+      ],
+      "comentario": "Jesus valida a escolha dos onze, mas traz de volta a sombra da traição. Ele usa o termo 'diabo' (diabolos) para descrever a aliança do traidor, indicando que sua motivação é satânica. O contraste entre os onze escolhidos e o um traidor é gritante.",
+      "temas": [
+        "Eleição",
+        "Aliança com o Mal",
+        "Ameaça da Traição"
+      ],
+      "personagens": [
+        "Jesus",
+        "Os Doze",
+        "Traitor (Judas)"
+      ]
     },
     "71": {
-      "parafrase": "Ele se referia a Judas, filho de Simão Iscariotes, pois este, sendo um dos doze, o trairia.",
-      "referencias": [],
-      "comentario": "João esclarece que Jesus se referia a Judas Iscariotes, que o trairia. A traição é predita e conhecida por Jesus.",
-      "temas": ["traição", "Judas Iscariotes", "predição"],
-      "personagens": []
+      "parafrase": "Ele estava falando de Judas, filho de Simão Iscariotes, pois, mesmo sendo um dos Doze escolhidos, aquele homem estava destinado a entregá-Lo nas mãos dos inimigos.",
+      "referencias": [
+        "Lucas 6:16",
+        "João 12:4"
+      ],
+      "comentario": "João conclui o bloco, identificando explicitamente o traidor: Judas Iscariotes. O paradoxo é central: ele pertencia ao círculo mais íntimo ('um dos Doze'), mas sua separação e traição estavam predestinadas. A descrição 'filho de Simão Iscariotes' ajuda a distingui-lo de outros apóstolos com nomes parecidos.",
+      "temas": [
+        "Identificação do Traidor",
+        "Paradoxo da Eleição",
+        "Destino da Traição"
+      ],
+      "personagens": [
+        "Judas Iscariotes",
+        "Simão Iscariotes",
+        "Jesus"
+      ]
     }
   }
 }

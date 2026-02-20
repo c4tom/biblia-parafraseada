@@ -1,379 +1,885 @@
 {
   "livro": "1 Reis",
   "capitulo": 1,
-  "contexto_historico": "Este capítulo marca o início do livro de 1 Reis, que narra a transição do reinado de Davi para o de seu filho Salomão. Davi, agora velho e fraco, enfrenta uma crise de sucessão, com Adonias, um de seus filhos, tentando usurpar o trono. A intervenção de Natã e Bate-Seba garante que Salomão, o filho escolhido por Deus e prometido a Davi, seja ungido rei.",
-  "bloco_tematico": "A Crise de Sucessão e a Unção de Salomão",
+  "contexto_historico": "O reinado de Davi está no seu ocaso. Ele é um homem idoso e fraco, acamado em Jerusalém. A estabilidade do reino de Israel, conquistada com esforço, está ameaçada pela ambição familiar. Adonias, um dos filhos de Davi, tenta usurpar o trono antes da morte do pai, reunindo apoiadores como Joabe e Abiatar. Ao mesmo tempo, Natã e Bate-Seba, movidos pela promessa anterior de Davi, trabalham para assegurar a sucessão de Salomão. A tensão é alta, marcando o fim de uma era e o início de uma nova dinastia, em meio a intrigas palacianas. 👑👴",
+  "bloco_tematico": "A Sucessão Turbulenta: A Transição de Poder de Davi para Salomão ⚔️📜",
   "versiculos": {
     "1": {
-      "parafrase": "O rei Davi era velho e de idade avançada. Embora o cobrissem com muitas roupas, ele não conseguia se aquecer.",
-      "referencias": [],
-      "comentario": "A velhice e a fragilidade de Davi são enfatizadas, indicando o fim de seu reinado e a necessidade de um sucessor. Sua incapacidade de se aquecer simboliza sua perda de vitalidade e controle.",
-      "temas": ["velhice", "fragilidade", "transição de poder"],
-      "personagens": ["Davi"]
+      "parafrase": "Naqueles dias, quando o velho Rei Davi já estava muito avançado em idade e o frio do inverno se agarrava ao seu corpo, era impossível aquecê-lo com cobertores. Seu reinado estava no fim, e a corte buscava desesperadamente uma solução para aquecer o monarca moribundo.",
+      "referencias": [
+        "Salmos 71:9",
+        "Jó 19:17"
+      ],
+      "comentario": "O hebraico para 'velho e cheio de dias' (זָקֵן וְבָא בַיָּמִים) enfatiza não apenas a idade, mas a plenitude dos anos vividos por Davi. A menção do frio intenso serve como um prenúncio da crise de sucessão, pois a fragilidade física do rei o torna vulnerável, simbolizando a fragilidade do poder em face da mortalidade.",
+      "temas": [
+        "Mortalidade do Rei",
+        "Busca de Conforto"
+      ],
+      "personagens": [
+        "Davi"
+      ]
     },
     "2": {
-      "parafrase": "Então seus servos lhe disseram: 'Que se procure para meu senhor, o rei, uma jovem virgem, para que ela possa servir ao rei, cuidar dele e deitar-se em seu colo, para que meu senhor, o rei, possa se aquecer.'",
-      "referencias": [],
-      "comentario": "Os servos de Davi propõem uma solução prática para sua condição física, buscando uma jovem para cuidar dele. Isso também pode ser uma tentativa de estabelecer uma nova concubina para o rei, o que era comum na época.",
-      "temas": ["cuidado", "conforto", "costume real"],
-      "personagens": ["Servos de Davi", "Davi"]
+      "parafrase": "Seus servos, então, aconselharam-no: 'Meu senhor e rei, precisamos encontrar uma jovem virgem de aparência formosa, que possa ficar ao seu lado dia e noite, servindo-lhe com carinho e aconchego, para que o calor do corpo dela devolva a vida ao seu corpo real.'",
+      "referencias": [
+        "Deuteronômio 22:14",
+        "Eclesiastes 4:11"
+      ],
+      "comentario": "Esta solução, embora pareça estranha hoje, era vista na antiguidade como um paliativo médico e social. A ênfase na 'virgindade' (בְתוּלָה) e 'beleza' (טֹֽבַת מַרְאֶה) sublinha a necessidade de pureza e apelo visual para cumprir a função de aquecer o rei. Era uma prática protocolar para reis orientais.",
+      "temas": [
+        "Sucessão de Cuidados",
+        "Protocolo Real"
+      ],
+      "personagens": [
+        "Servos do Rei"
+      ]
     },
     "3": {
-      "parafrase": "Eles procuraram uma jovem bonita em todo o território de Israel e encontraram Abisague, a sunamita, e a trouxeram ao rei.",
-      "referencias": [],
-      "comentario": "Abisague é escolhida por sua beleza e é trazida para servir ao rei. Sua presença na corte será um ponto de discórdia mais tarde.",
-      "temas": ["beleza", "serviço", "conflito"],
-      "personagens": ["Abisague", "Davi"]
+      "parafrase": "E assim, começaram a buscar por toda a terra de Israel uma moça que correspondesse a essas especificações, e encontraram uma jovem extraordinariamente bela chamada Abisague, que vivia na cidade de Suném, na região de Manassés.",
+      "referencias": [
+        "Cântico dos Cânticos 1:5",
+        "Rute 2:1"
+      ],
+      "comentario": "A descrição de Abisague como 'muito formosa' (טֹֽבָה מְאֹד) a destaca. Suném era uma cidade na planície fértil, mas o foco aqui é a qualidade pessoal da moça, não sua origem social, embora ela seja apresentada como uma estrangeira no contexto da corte em Jerusalém.",
+      "temas": [
+        "Beleza",
+        "Busca por Soluções"
+      ],
+      "personagens": [
+        "Abisague"
+      ]
     },
     "4": {
-      "parafrase": "A jovem era muito bonita. Ela cuidava do rei e o servia, mas o rei não se deitou com ela.",
-      "referencias": [],
-      "comentario": "Abisague cumpre sua função de cuidar de Davi, mas a ausência de intimidade sexual confirma a fragilidade do rei e a natureza platônica de seu relacionamento.",
-      "temas": ["cuidado", "serviço", "fragilidade"],
-      "personagens": ["Abisague", "Davi"]
+      "parafrase": "Trouxeram, então, a jovem Abisague à presença do rei, e ela se tornou sua serva pessoal. Ela permaneceu ao lado dele, cuidando dele com dedicação, mas o rei, devido à sua idade avançada, jamais se deitou com ela, ou seja, não consumou o relacionamento.",
+      "referencias": [
+        "Levítico 18:16",
+        "Gênesis 29:21"
+      ],
+      "comentario": "Esta negação de intimidade física é crucial. A função de Abisague era estritamente terapêutica (calor corporal), não conjugal. Isso se torna um ponto de tensão política mais tarde, quando Adonias usa a presença dela para reivindicar o trono.",
+      "temas": [
+        "Serviço Dedicado",
+        "Limites do Relacionamento"
+      ],
+      "personagens": [
+        "Abisague",
+        "Davi"
+      ]
     },
     "5": {
-      "parafrase": "Ora, Adonias, filho de Hagite, se exaltou, dizendo: 'Eu reinarei!' E providenciou para si carros e cavaleiros, e cinquenta homens que corriam à sua frente.",
-      "referencias": ["2 Samuel 15:1"],
-      "comentario": "Adonias, o filho mais velho de Davi após a morte de Absalão, tenta usurpar o trono, agindo de forma semelhante a Absalão. Ele se auto-proclama rei e adota os símbolos de realeza, aproveitando a fraqueza de Davi.",
-      "temas": ["usurpação", "ambição", "símbolos de realeza"],
-      "personagens": ["Adonias", "Davi"]
+      "parafrase": "Enquanto isso, Adonias, filho que Davi teve com Hagite, vendo que seu pai estava fraco, começou a inflar-se de orgulho e a planejar tomar o trono para si, preparando carros de guerra e cavaleiros para acompanhar sua comitiva.",
+      "referencias": [
+        "Provérbios 16:18",
+        "2 Samuel 3:4"
+      ],
+      "comentario": "Adonias, o quarto filho de Davi (provavelmente o mais velho sobrevivente na época), tenta um golpe de estado aproveitando a fraqueza paterna. O 'erguer-se' (וַיִּנָּשֵׂא) indica arrogância e autoexaltação. A preparação militar é um ato claro de traição.",
+      "temas": [
+        "Ambição Desmedida",
+        "Golpe de Estado"
+      ],
+      "personagens": [
+        "Adonias"
+      ]
     },
     "6": {
-      "parafrase": "Seu pai nunca o repreendeu em toda a sua vida, dizendo: 'Por que você faz isso?' Ele também era muito bonito e havia nascido depois de Absalão.",
-      "referencias": [],
-      "comentario": "A falta de disciplina de Davi para com seus filhos é novamente evidente, o que contribui para a rebelião de Adonias. A beleza de Adonias, como a de Absalão, é um fator em sua popularidade.",
-      "temas": ["falta de disciplina", "beleza", "popularidade"],
-      "personagens": ["Davi", "Adonias"]
+      "parafrase": "Seu pai, o Rei Davi, jamais o havia repreendido ou corrigido em momento algum de sua vida, nem mesmo quando ele tentou se impor. Adonias era, portanto, um homem de excelente aparência física e muito carismático.",
+      "referencias": [
+        "Provérbios 29:15",
+        "Juízes 8:18"
+      ],
+      "comentario": "A falha de Davi em disciplinar Adonias (compare com a disciplina imposta a Absalão) é apontada como a raiz do problema. O texto ressalta que Adonias era 'belo de aparência' (טוב מַרְאֶה), o mesmo elogio dado a Absalão, sugerindo que a beleza física sem a devida formação moral leva à soberba.",
+      "temas": [
+        "Consequências da Má Criação",
+        "Aparência vs. Caráter"
+      ],
+      "personagens": [
+        "Adonias",
+        "Davi"
+      ]
     },
     "7": {
-      "parafrase": "Ele se aliou a Joabe, filho de Zeruia, e a Abiatar, o sacerdote, e eles o apoiaram.",
-      "referencias": [],
-      "comentario": "Adonias ganha o apoio de figuras poderosas: Joabe, o comandante do exército, e Abiatar, um dos sacerdotes. Este apoio confere legitimidade e força à sua reivindicação ao trono.",
-      "temas": ["aliança", "apoio", "legitimidade"],
-      "personagens": ["Adonias", "Joabe", "Abiatar"]
+      "parafrase": "Adonias teve conversas secretas e alianças com Joabe, o comandante do exército, e com Abiatar, o sacerdote. Essas figuras poderosas, vendo o rei enfraquecido, decidiram apoiá-lo em sua ascensão não sancionada.",
+      "referencias": [
+        "2 Samuel 20:9",
+        "2 Samuel 15:12"
+      ],
+      "comentario": "O apoio de Joabe (chefe militar) e Abiatar (chefe religioso) confere a Adonias uma legitimidade perigosa, desafiando abertamente a vontade (implícita) de Davi sobre Salomão. Joabe, em particular, já tinha um histórico de alianças políticas questionáveis.",
+      "temas": [
+        "Intrigas Políticas",
+        "Alianças Questionáveis"
+      ],
+      "personagens": [
+        "Adonias",
+        "Joabe",
+        "Abiatar"
+      ]
     },
     "8": {
-      "parafrase": "Mas Zadoque, o sacerdote, Benaia, filho de Joiada, o profeta Natã, Simei, Rei e os valentes de Davi não estavam com Adonias.",
-      "referencias": [],
-      "comentario": "O lado leal a Davi e a Salomão é composto por figuras-chave: Zadoque (o outro sacerdote), Benaia (chefe da guarda), Natã (o profeta) e os valentes de Davi. Isso mostra uma divisão clara na corte.",
-      "temas": ["lealdade", "divisão na corte"],
-      "personagens": ["Zadoque", "Benaia", "Natã", "Simei", "Rei", "Valentes de Davi"]
+      "parafrase": "Entretanto, o sacerdote Zadoque, o oficial Benaia, fiel a Davi, e o profeta Natã, não se juntaram à celebração de Adonias, pois estavam aguardando as ordens finais do rei.",
+      "referencias": [
+        "2 Samuel 15:24",
+        "1 Crônicas 29:22"
+      ],
+      "comentario": "Aqui se estabelece o racha na liderança de Israel. Zadoque e Natã representam a lealdade à linha de sucessão estabelecida (Salomão) e à autoridade profética, contrastando com a facção militar e sacerdotal de Adonias.",
+      "temas": [
+        "Lealdade Divina",
+        "Facções Políticas"
+      ],
+      "personagens": [
+        "Zadoque",
+        "Benaia",
+        "Natã",
+        "Adonias"
+      ]
     },
     "9": {
-      "parafrase": "Adonias sacrificou ovelhas, bois e animais gordos junto à pedra de Zoelete, que está perto de En-Rogel. E convidou todos os seus irmãos, os filhos do rei, e todos os homens de Judá, os servos do rei.",
-      "referencias": [],
-      "comentario": "Adonias realiza uma cerimônia de coroação e sacrifício, convidando seus irmãos e os homens de Judá, buscando consolidar seu apoio e legitimar sua ascensão ao trono.",
-      "temas": ["coroação", "sacrifício", "legitimação"],
-      "personagens": ["Adonias"]
+      "parafrase": "Adonias, então, organizou um banquete suntuoso, convidando todos os seus apoiadores, incluindo seus irmãos (exceto Salomão) e todos os príncipes de Judá, que eram amigos próximos de seu pai, Davi.",
+      "referencias": [
+        "Gênesis 26:30",
+        "Ester 2:18"
+      ],
+      "comentario": "O banquete em En-Rogel era uma celebração pública de sua auto-proclamação como rei. O ato deliberado de excluir Salomão e os lealistas era um desafio direto à futura ordem, buscando consolidar o poder antes que Davi pudesse agir.",
+      "temas": [
+        "Proclamação Ilegítima",
+        "Exclusão Política"
+      ],
+      "personagens": [
+        "Adonias",
+        "Salomão"
+      ]
     },
     "10": {
-      "parafrase": "Mas ele não convidou o profeta Natã, nem Benaia, nem os valentes, nem Salomão, seu irmão.",
-      "referencias": [],
-      "comentario": "Adonias exclui intencionalmente aqueles que eram leais a Davi e a Salomão, revelando sua consciência de que eles se oporiam à sua usurpação.",
-      "temas": ["exclusão", "oposição"],
-      "personagens": ["Adonias", "Natã", "Benaia", "Valentes", "Salomão"]
+      "parafrase": "Contudo, Natã e Abiatar não foram convidados para essa festa, pois estavam fora do círculo de confiança de Adonias, que não queria que eles interferissem em seu plano de coroação.",
+      "referencias": [
+        "Ester 3:5",
+        "Atos 1:25"
+      ],
+      "comentario": "A omissão dos dois líderes mais influentes, um religioso (Abiatar, inicialmente aliado de Adonias) e um profético (Natã), mostra que Adonias estava contando apenas com o apoio militar e a inação de Davi, subestimando a influência espiritual.",
+      "temas": [
+        "Exclusão Estratégica",
+        "Omissão Deliberada"
+      ],
+      "personagens": [
+        "Natã",
+        "Abiatar",
+        "Adonias"
+      ]
     },
     "11": {
-      "parafrase": "Então Natã disse a Bate-Seba, mãe de Salomão: 'Você não ouviu que Adonias, filho de Hagite, se tornou rei, e nosso senhor Davi não sabe disso?'",
-      "referencias": [],
-      "comentario": "Natã, percebendo a urgência da situação, alerta Bate-Seba, a mãe de Salomão, sobre a usurpação de Adonias e a necessidade de agir rapidamente para proteger o trono de Salomão.",
-      "temas": ["alerta", "urgência", "usurpação"],
-      "personagens": ["Natã", "Bate-Seba", "Adonias", "Davi"]
+      "parafrase": "Neste momento crítico, Natã, o profeta, veio até Bate-Seba, a mãe de Salomão, e perguntou-lhe em voz baixa e urgente: 'Você soube que Adonias, filho de Hagite, se proclamou rei, e nosso senhor Davi não soube de nada disso?'",
+      "referencias": [
+        "2 Samuel 12:1",
+        "Provérbios 29:11"
+      ],
+      "comentario": "Natã atua como o catalisador da ação. Ele reconhece que o silêncio de Davi (v. 6) criou o vácuo de poder. Ele se dirige a Bate-Seba, a mãe do herdeiro legítimo segundo a promessa divina e a vontade de Davi, acionando a estratégia final.",
+      "temas": [
+        "Ação Profética",
+        "Urgentíssima Notícia"
+      ],
+      "personagens": [
+        "Natã",
+        "Bate-Seba",
+        "Adonias",
+        "Davi"
+      ]
     },
     "12": {
-      "parafrase": "'Agora, pois, venha, por favor, e eu lhe darei um conselho para que você possa salvar sua vida e a vida de seu filho Salomão.'",
-      "referencias": [],
-      "comentario": "Natã oferece um plano a Bate-Seba, enfatizando a gravidade da situação e o perigo que ela e Salomão correm se Adonias se tornar rei.",
-      "temas": ["conselho", "perigo", "salvação"],
-      "personagens": ["Natã", "Bate-Seba", "Salomão"]
+      "parafrase": "Então, Natã aconselhou-a diretamente: 'Vá imediatamente ao rei, entre em seu aposento, e quando ele perguntar o motivo da sua visita, diga-lhe imediatamente: 'Meu senhor, meu rei, o senhor jurou à sua serva que meu filho Salomão seria quem reinaria depois do senhor. Por que, então, Adonias está assumindo o trono?'",
+      "referencias": [
+        "Gênesis 43:13",
+        "1 Samuel 1:17"
+      ],
+      "comentario": "Natã constrói um roteiro preciso para Bate-Seba, explorando a memória de Davi sobre seu juramento prévio a ela (implícito na ascensão de Salomão após Natã ter revelado a desobediência de Davi com Urias). A chave é forçar Davi a reafirmar publicamente sua escolha.",
+      "temas": [
+        "Recordação de Juramentos",
+        "Estratégia de Intercessão"
+      ],
+      "personagens": [
+        "Natã",
+        "Bate-Seba",
+        "Davi",
+        "Salomão",
+        "Adonias"
+      ]
     },
     "13": {
-      "parafrase": "'Vá imediatamente ao rei Davi e diga-lhe: 'Meu senhor, ó rei, você não jurou a sua serva, dizendo: 'Certamente seu filho Salomão reinará depois de mim, e ele se sentará no meu trono'? Por que, então, Adonias se tornou rei?''",
-      "referencias": [],
-      "comentario": "Natã instrui Bate-Seba a lembrar Davi de sua promessa e de seu juramento de que Salomão seria seu sucessor, apelando para a memória e a consciência do rei.",
-      "temas": ["instrução", "promessa", "juramento", "consciência"],
-      "personagens": ["Natã", "Bate-Seba", "Davi", "Salomão", "Adonias"]
+      "parafrase": "Enquanto ela ainda estava falando com o rei, Natã, o profeta, entrou também no quarto, como se tivessem combinado.",
+      "referencias": [
+        "Gênesis 17:17",
+        "Atos 10:4"
+      ],
+      "comentario": "A entrada sincronizada de Natã valida a reivindicação de Bate-Seba e assegura que a mensagem não será desconsiderada como mera queixa pessoal de uma rainha despojada.",
+      "temas": [
+        "Sincronia de Ação",
+        "Confirmação de Testemunho"
+      ],
+      "personagens": [
+        "Natã",
+        "Bate-Seba",
+        "Davi"
+      ]
     },
     "14": {
-      "parafrase": "'E eis que, enquanto você ainda estiver falando com o rei, eu entrarei depois de você e confirmarei suas palavras.'",
-      "referencias": [],
-      "comentario": "Natã planeja uma intervenção coordenada para garantir que a mensagem chegue a Davi e que ele seja persuadido a agir.",
-      "temas": ["intervenção coordenada", "persuasão"],
-      "personagens": ["Natã", "Bate-Seba", "Davi"]
+      "parafrase": "E Natã, falando diante do rei, perguntou: 'Ó meu senhor e rei, o senhor deu sua palavra de que Salomão seria seu sucessor, mas Adonias já se apossou do trono e está sendo aclamado rei, sem que o senhor tenha dado sua bênção!'",
+      "referencias": [
+        "2 Samuel 7:12",
+        "Isaías 40:3"
+      ],
+      "comentario": "Natã reforça a traição à ordem divina e real. O uso do termo 'assumir' (הִמְלִיךְ) indica que a coroação já está em curso, elevando a urgência da resposta de Davi.",
+      "temas": [
+        "Desafio à Ordem Divina",
+        "Tomada de Poder"
+      ],
+      "personagens": [
+        "Natã",
+        "Davi",
+        "Salomão",
+        "Adonias"
+      ]
     },
     "15": {
-      "parafrase": "Então Bate-Seba foi ao rei no quarto. O rei estava muito velho, e Abisague, a sunamita, o servia.",
-      "referencias": [],
-      "comentario": "Bate-Seba se aproxima de Davi em sua fragilidade, com Abisague presente, o que pode ter sido uma forma de garantir que a conversa fosse privada.",
-      "temas": ["fragilidade", "privacidade"],
-      "personagens": ["Bate-Seba", "Davi", "Abisague"]
+      "parafrase": "E, como se tivesse acordado de um sono profundo, o Rei Davi ordenou imediatamente: 'Chamem-me Bate-Seba!' E ela entrou novamente e se colocou de pé, diante do rei, aguardando.",
+      "referencias": [
+        "Salmos 126:1",
+        "Isaías 32:10"
+      ],
+      "comentario": "A menção de Davi 'acordar' (וַתָּבֹא בַת־שֶׁבַע) ilustra que ele estava alheio à conspiração, talvez devido à sua doença, mas sua autoridade é instantaneamente reafirmada ao convocar Bate-Seba, invalidando o evento paralelo de Adonias.",
+      "temas": [
+        "Retomada da Autoridade",
+        "Reação Imediata"
+      ],
+      "personagens": [
+        "Davi",
+        "Bate-Seba"
+      ]
     },
     "16": {
-      "parafrase": "Bate-Seba se curvou e se prostrou diante do rei. O rei perguntou: 'O que você deseja?'",
-      "referencias": [],
-      "comentario": "Bate-Seba demonstra respeito e submissão a Davi, preparando o terreno para seu pedido.",
-      "temas": ["respeito", "submissão", "pedido"],
-      "personagens": ["Bate-Seba", "Davi"]
+      "parafrase": "Então, Davi falou, com voz firme: 'Jure por Deus, o Senhor, que eu lhe prometi solenemente que seu filho Salomão seria quem se assentaria no meu trono, e que ele seria meu sucessor imediato! Jure agora mesmo!'",
+      "referencias": [
+        "Números 30:2",
+        "Deuteronômio 6:13"
+      ],
+      "comentario": "Davi exige um juramento com referência direta a Deus, a fonte final de sua autoridade. Este é um ato legal e espiritual para anular qualquer alegação futura de Adonias, reafirmando a promessa feita à mãe de Salomão.",
+      "temas": [
+        "Reafirmação de Juramento",
+        "Autoridade Divina"
+      ],
+      "personagens": [
+        "Davi",
+        "Salomão",
+        "Bate-Seba"
+      ]
     },
     "17": {
-      "parafrase": "Ela lhe disse: 'Meu senhor, você jurou a sua serva pelo Senhor, seu Deus, dizendo: 'Certamente seu filho Salomão reinará depois de mim, e ele se sentará no meu trono.''",
-      "referencias": [],
-      "comentario": "Bate-Seba lembra Davi de seu juramento, apelando para sua memória e sua fidelidade à palavra de Deus.",
-      "temas": ["juramento", "promessa", "fidelidade"],
-      "personagens": ["Bate-Seba", "Davi", "Deus", "Salomão"]
+      "parafrase": "E Bate-Seba se curvou profundamente, tocando o chão com a cabeça, em sinal de profunda reverência, e disse: 'Que o meu senhor Rei Davi viva para sempre!'",
+      "referencias": [
+        "1 Samuel 25:23",
+        "Ester 8:3"
+      ],
+      "comentario": "A prostração total (הִשְׁתַּחֲוָה) mostra a submissão de Bate-Seba à autoridade restaurada de Davi e o reconhecimento de que o destino de seu filho dependia da palavra final do rei. O desejo de longa vida ao rei era um reconhecimento de seu poder residual.",
+      "temas": [
+        "Reverência",
+        "Súplica Confirmada"
+      ],
+      "personagens": [
+        "Bate-Seba",
+        "Davi"
+      ]
     },
     "18": {
-      "parafrase": "'E agora, eis que Adonias se tornou rei, e meu senhor, o rei, não sabe disso.'",
-      "referencias": [],
-      "comentario": "Ela informa Davi sobre a usurpação de Adonias, enfatizando que ele não está ciente da situação.",
-      "temas": ["informação", "usurpação"],
-      "personagens": ["Bate-Seba", "Adonias", "Davi"]
+      "parafrase": "Imediatamente após a confirmação, o profeta Natã interveio novamente, dizendo: 'Que o meu senhor, o rei, faça o que acabou de declarar! Que o senhor proclame que Salomão é o sucessor, para que o contrário não aconteça e toda a corte se vire contra o senhor!'",
+      "referencias": [
+        "Jeremias 26:15",
+        "Ezequiel 3:18"
+      ],
+      "comentario": "Natã pressiona por ação imediata, temendo que o tempo permitisse a Adonias consolidar sua posição ou que o estado de saúde de Davi piorasse. O perigo era que a inação levasse a uma guerra civil ou a uma desmoralização completa da palavra real.",
+      "temas": [
+        "Urgência da Proclamação",
+        "Medo da Desordem"
+      ],
+      "personagens": [
+        "Natã",
+        "Davi",
+        "Salomão",
+        "Adonias"
+      ]
     },
     "19": {
-      "parafrase": "'Ele sacrificou muitos bois, animais gordos e ovelhas, e convidou todos os filhos do rei, e Abiatar, o sacerdote, e Joabe, o comandante do exército. Mas ele não convidou seu servo Salomão.'",
-      "referencias": [],
-      "comentario": "Bate-Seba descreve a cerimônia de coroação de Adonias, destacando a exclusão de Salomão e dos leais a Davi.",
-      "temas": ["coroação", "exclusão"],
-      "personagens": ["Bate-Seba", "Adonias", "Salomão"]
+      "parafrase": "Então, o Rei Davi deu a ordem final: 'Tragam-me o sacerdote Zadoque, o profeta Natã e o nobre oficial Benaia, filho de Joiada!' E eles entraram na presença do rei.",
+      "referencias": [
+        "2 Samuel 15:32",
+        "1 Crônicas 28:1"
+      ],
+      "comentario": "Davi convoca o núcleo de seu poder fiel: a liderança religiosa leal (Zadoque), a liderança profética (Natã) e a liderança militar confiável (Benaia, que chefiava a guarda de elite, os quereteus e peleteus).",
+      "temas": [
+        "Comando Real",
+        "Montagem da Equipe de Sucessão"
+      ],
+      "personagens": [
+        "Davi",
+        "Zadoque",
+        "Natã",
+        "Benaia",
+        "Joiada"
+      ]
     },
     "20": {
-      "parafrase": "'E agora, meu senhor, ó rei, os olhos de todo o Israel estão sobre você, para que você lhes diga quem se sentará no trono de meu senhor, o rei, depois dele.'",
-      "referencias": [],
-      "comentario": "Bate-Seba apela para a responsabilidade de Davi em nome de todo o Israel, pedindo-lhe que declare publicamente seu sucessor.",
-      "temas": ["responsabilidade", "sucessão", "apelo"],
-      "personagens": ["Bate-Seba", "Davi", "Israel"]
+      "parafrase": "O rei então lhes disse: 'Tomem consigo o meu jumento real, o mesmo em que eu costumava montar. Levem meu filho Salomão e o conduzam para fora, até o ribeiro de Giom.'",
+      "referencias": [
+        "Juízes 5:10",
+        "Lucas 19:30"
+      ],
+      "comentario": "O uso do jumento real (e não o cavalo de guerra) era um símbolo de soberania pacífica e tradicional para a ascensão em Israel. O Giom era o local tradicional das unções reais em Jerusalém, um ato de legitimidade pública.",
+      "temas": [
+        "Símbolos de Realeza",
+        "Unção Tradicional"
+      ],
+      "personagens": [
+        "Davi",
+        "Salomão"
+      ]
     },
     "21": {
-      "parafrase": "'Pois, se não o fizer, acontecerá que, quando meu senhor, o rei, dormir com seus pais, eu e meu filho Salomão seremos considerados culpados.'",
-      "referencias": [],
-      "comentario": "Ela alerta Davi sobre o perigo que ela e Salomão correm se Adonias se tornar rei, pois seriam considerados inimigos e eliminados.",
-      "temas": ["perigo", "consequências"],
-      "personagens": ["Bate-Seba", "Salomão"]
+      "parafrase": "Lá, o sacerdote Zadoque deverá ungir Salomão como o novo rei de Israel! E então, o profeta Natã deverá proclamar em voz alta: 'Viva o Rei Salomão!'",
+      "referencias": [
+        "1 Samuel 10:1",
+        "Salmos 89:20"
+      ],
+      "comentario": "Este é o ápice da autoridade de Davi. A unção com azeite (um ato sagrado) feita pelo sacerdote leal estabelece Salomão como escolhido de Deus, e a proclamação de Natã garante a aceitação profética e popular.",
+      "temas": [
+        "Unção Real",
+        "Proclamação Pública"
+      ],
+      "personagens": [
+        "Zadoque",
+        "Salomão",
+        "Natã"
+      ]
     },
     "22": {
-      "parafrase": "Enquanto ela ainda falava com o rei, eis que o profeta Natã entrou.",
-      "referencias": [],
-      "comentario": "A entrada de Natã no momento certo é uma intervenção providencial, confirmando as palavras de Bate-Seba.",
-      "temas": ["intervenção providencial", "confirmação"],
-      "personagens": ["Natã", "Davi", "Bate-Seba"]
+      "parafrase": "Depois de tudo isso, vocês devem voltar e me avisar que a vontade do rei foi cumprida, para que eu também possa ir até lá e confirmar minha bênção e meu apoio a Salomão.'",
+      "referencias": [
+        "Gênesis 41:40",
+        "Romanos 13:1"
+      ],
+      "comentario": "Davi quer a confirmação de que seus decretos foram executados corretamente antes de se expor fisicamente. Ele quer que a coroação seja um evento consumado, e não um mero plano, garantindo a estabilidade do reino.",
+      "temas": [
+        "Confirmação da Ordem",
+        "Estabilidade Política"
+      ],
+      "personagens": [
+        "Davi",
+        "Salomão"
+      ]
     },
     "23": {
-      "parafrase": "Foi contado ao rei: 'Eis que o profeta Natã está aqui.' Quando ele entrou diante do rei, curvou-se diante do rei com o rosto em terra.",
-      "referencias": [],
-      "comentario": "Natã demonstra respeito a Davi, preparando-se para entregar sua mensagem.",
-      "temas": ["respeito", "mensagem"],
-      "personagens": ["Natã", "Davi"]
+      "parafrase": "E assim, eles fizeram exatamente o que o Rei Davi havia ordenado. Ao ouvirem o som das trombetas e o grito do povo, eles viram que Adonias e todos os convidados para o seu falso banquete ouviram o barulho.",
+      "referencias": [
+        "Apocalipse 8:13",
+        "1 Tessalonicenses 4:16"
+      ],
+      "comentario": "O contraste é imediato. O som das trombetas (som da legitimidade) abafa o barulho da festa de Adonias. A reação dos conspiradores é de surpresa e pânico, pois a autoridade real se manifestou de forma poderosa.",
+      "temas": [
+        "Oposição Silenciada",
+        "Reação à Legitimidade"
+      ],
+      "personagens": [
+        "Adonias"
+      ]
     },
     "24": {
-      "parafrase": "Natã disse: 'Meu senhor, ó rei, você disse: 'Adonias reinará depois de mim, e ele se sentará no meu trono'?'",
-      "referencias": [],
-      "comentario": "Natã, com astúcia, questiona Davi sobre a suposta nomeação de Adonias, forçando-o a confrontar a situação.",
-      "temas": ["astúcia", "questionamento"],
-      "personagens": ["Natã", "Davi", "Adonias"]
+      "parafrase": "Enquanto Adonias e seus convidados estavam terminando sua refeição, Joabe ouviu o som da proclamação e perguntou: 'O que significa esse barulho todo vindo da cidade? Qual é a razão dessa comoção?'",
+      "referencias": [
+        "Lucas 12:45",
+        "Atos 2:12"
+      ],
+      "comentario": "Joabe, o líder militar da facção de Adonias, percebe imediatamente que o barulho não é uma celebração comum, mas sim um evento de Estado. Seu questionamento revela o medo de ter apoiado o lado perdedor da sucessão.",
+      "temas": [
+        "Descoberta da Verdade",
+        "Consequências da Aliança"
+      ],
+      "personagens": [
+        "Joabe",
+        "Adonias"
+      ]
     },
     "25": {
-      "parafrase": "'Pois hoje ele desceu e sacrificou muitos bois, animais gordos e ovelhas, e convidou todos os filhos do rei, e os comandantes do exército, e Abiatar, o sacerdote. E eis que eles estão comendo e bebendo com ele, e dizendo: 'Viva o rei Adonias!''",
-      "referencias": [],
-      "comentario": "Natã descreve a cerimônia de coroação de Adonias, confirmando as palavras de Bate-Seba e enfatizando a gravidade da usurpação.",
-      "temas": ["coroação", "usurpação", "confirmação"],
-      "personagens": ["Natã", "Adonias"]
+      "parafrase": "Mal ele terminava de perguntar, quando o profeta Natã chegou, trazendo a notícia confirmada, e disse a Adonias: 'Pode seguir em frente, pois o senhor, o Rei Davi, acabou de coroar Salomão como seu sucessor oficial!'",
+      "referencias": [
+        "Provérbios 14:29",
+        "Tiago 1:20"
+      ],
+      "comentario": "Natã, o mensageiro da verdade divina, entrega o golpe final na rebelião de Adonias. A frase 'Vá em paz' ou 'Siga em frente' (no sentido de reconhecer o fato consumado) é um contraste irônico com a rebelião que ele liderava. A autoridade de Davi prevaleceu sobre a ambição militar.",
+      "temas": [
+        "Vitória da Legitimidade",
+        "Fim da Conspiração"
+      ],
+      "personagens": [
+        "Natã",
+        "Adonias",
+        "Davi",
+        "Salomão"
+      ]
     },
     "26": {
-      "parafrase": "'Mas a mim, seu servo, e a Zadoque, o sacerdote, e a Benaia, filho de Joiada, e a seu servo Salomão, ele não convidou.'",
-      "referencias": [],
-      "comentario": "Natã destaca a exclusão dos leais a Davi e a Salomão, mostrando a intenção de Adonias de eliminar a oposição.",
-      "temas": ["exclusão", "oposição"],
-      "personagens": ["Natã", "Zadoque", "Benaia", "Salomão", "Adonias"]
+      "parafrase": "Mas, ao passar o tempo, a força e a sede de sabedoria de Salomão se tornaram notórias, e ele começou a se destacar como um líder de grande inteligência. De fato, a fama de sua perspicácia se espalhou tanto que governantes estrangeiros, incluindo a Rainha da Sabá, vieram de terras muito distantes para testar seu discernimento com enigmas complexos e questões profundas da vida, querendo ver se ele realmente possuía a sabedoria que lhe era atribuída.",
+      "referencias": [
+        "Provérbios 1:6",
+        "Tiago 1:5"
+      ],
+      "comentario": "Este versículo marca o auge da reputação de Salomão. O verbo hebraico para 'fortaleceram' (חֻזְּקוּ - *huzzeqū*) sugere que seu reinado se consolidou e sua fama se tornou robusta. A chegada da Rainha de Sabá (provavelmente do sul da Arábia ou Etiópia) é o teste definitivo de sua sabedoria, um evento que valida publicamente sua conexão divina.",
+      "temas": [
+        "Fama e Reputação",
+        "Sabedoria Divina",
+        "Reconhecimento Internacional"
+      ],
+      "personagens": [
+        "Salomão",
+        "Rainha de Sabá"
+      ]
     },
     "27": {
-      "parafrase": "'Foi isso que meu senhor, o rei, ordenou? E você não informou seu servo quem se sentaria no trono de meu senhor, o rei, depois dele?'",
-      "referencias": [],
-      "comentario": "Natã questiona a autoridade de Davi, insinuando que ele não agiu para nomear seu sucessor, o que permitiu a usurpação de Adonias.",
-      "temas": ["questionamento", "autoridade", "sucessão"],
-      "personagens": ["Natã", "Davi"]
+      "parafrase": "O rei Salomão, com a ajuda do Senhor, administrou os recursos do reino com tal maestria que o metal precioso, a prata, se tornou tão comum em Jerusalém quanto as pedras encontradas no leito dos caminhos comuns, e o cedro, madeira nobre do Líbano, era tão abundante quanto os sicômoros (figueiras-frugíferas) das planícies de Israel, usados para construções mais humildes.",
+      "referencias": [
+        "2 Crônicas 9:27",
+        "Salmos 72:16"
+      ],
+      "comentario": "A abundância material é um reflexo direto da bênção de Deus associada à sabedoria de Salomão (1 Reis 3:12-13). A comparação da prata com pedras e do cedro com sicômoros ilustra a superabundância e a democratização de bens que antes eram de luxo extremo.",
+      "temas": [
+        "Prosperidade Material",
+        "Bênção de Deus",
+        "Administração Real"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "28": {
-      "parafrase": "Então o rei Davi respondeu e disse: 'Chamem Bate-Seba para mim.' E ela veio à presença do rei e ficou diante dele.",
-      "referencias": [],
-      "comentario": "Davi, convencido pelas palavras de Natã e Bate-Seba, decide agir. Ele chama Bate-Seba para reafirmar sua promessa.",
-      "temas": ["decisão", "reafirmação"],
-      "personagens": ["Davi", "Bate-Seba"]
+      "parafrase": "E ele não parou por aí; Salomão colecionou uma enorme quantidade de cavalos e carruagens de guerra, mantendo mil e quatrocentos carros e doze mil cavaleiros, que foram distribuídos estrategicamente em cidades fortificadas por todo o seu domínio, garantindo assim a segurança e a projeção de seu poder militar.",
+      "referencias": [
+        "Deuteronômio 17:16",
+        "1 Reis 10:26"
+      ],
+      "comentario": "Este versículo, juntamente com 1 Reis 10:26, detalha a força militar de Salomão. Contudo, a multiplicação de cavalos era especificamente proibida aos reis futuros em Deuteronômio 17:16, indicando que, embora fosse um sinal de poder e riqueza no contexto da época, plantava as sementes da desobediência futura de Salomão.",
+      "temas": [
+        "Poder Militar",
+        "Riqueza e Excesso",
+        "Obediência à Lei"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "29": {
-      "parafrase": "O rei jurou e disse: 'Tão certo como vive o Senhor, que resgatou minha alma de toda a aflição,'",
-      "referencias": [],
-      "comentario": "Davi faz um juramento solene, invocando o nome de Deus, para garantir que sua promessa a Salomão será cumprida.",
-      "temas": ["juramento", "promessa", "fidelidade"],
-      "personagens": ["Davi", "Deus"]
+      "parafrase": "O impacto de sua influência se estendia além de suas fronteiras; os mercadores israelitas, seguindo as ordens reais, traziam cavalos de alta qualidade do Egito — o centro mundial de cavalaria na época — e os revendiam a preço de custo para os reis hititas e os reis da Síria, estabelecendo uma rede comercial vital.",
+      "referencias": [
+        "Gênesis 47:6",
+        "2 Crônicas 1:16"
+      ],
+      "comentario": "O Egito era a principal fonte de cavalos de guerra. Salomão transformou Israel em um centro de trânsito e comércio de animais de guerra, controlando o fluxo de uma tecnologia militar crucial para as nações vizinhas. Isso demonstra sua habilidade diplomática e econômica.",
+      "temas": [
+        "Comércio Internacional",
+        "Hegemonia Econômica",
+        "Influência Política"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "30": {
-      "parafrase": "'assim como jurei a você pelo Senhor, o Deus de Israel, dizendo: 'Certamente seu filho Salomão reinará depois de mim, e ele se sentará no meu trono em meu lugar', assim farei hoje.'",
-      "referencias": [],
-      "comentario": "Davi reafirma seu juramento a Bate-Seba e a Salomão, prometendo que Salomão será ungido rei naquele mesmo dia.",
-      "temas": ["reafirmação", "unção", "sucessão"],
-      "personagens": ["Davi", "Salomão"]
+      "parafrase": "Sob a liderança de Salomão, Israel experimentou uma era de paz inédita, de modo que o rei era reconhecido como o mais sábio de todos os líderes de seu tempo. Sua fama e seu julgamento eram inigualáveis, superando até mesmo a fama dos grandes sábios das nações orientais e do próprio Egito.",
+      "referencias": [
+        "1 Reis 4:30",
+        "Mateus 12:42"
+      ],
+      "comentario": "Este versículo resume o clímax do reinado de Salomão em termos de reputação. A comparação com os 'sábios do Oriente' (provavelmente babilônios ou egípcios) estabelece Salomão como o pináculo da sabedoria terrena, uma sabedoria concedida por Deus.",
+      "temas": [
+        "Paz e Estabilidade",
+        "Supremacia da Sabedoria",
+        "Glória de Israel"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "31": {
-      "parafrase": "Então Bate-Seba se curvou com o rosto em terra, prostrou-se diante do rei e disse: 'Viva meu senhor, o rei Davi, para sempre!'",
-      "referencias": [],
-      "comentario": "Bate-Seba expressa sua gratidão e sua lealdade a Davi, reconhecendo sua autoridade e sua decisão.",
-      "temas": ["gratidão", "lealdade", "adoração"],
-      "personagens": ["Bate-Seba", "Davi"]
+      "parafrase": "Ao longo de todo o seu reinado, Salomão governou sobre todas as tribos de Israel, desde o grande rio Eufrates, na fronteira nordeste, até a fronteira do Egito, no sul, exercendo domínio sobre uma área de influência que excedia a promessa original dada aos patriarcas.",
+      "referencias": [
+        "Gênesis 15:18",
+        "2 Crônicas 9:26"
+      ],
+      "comentario": "O alcance territorial descrito aqui (do Eufrates ao Egito) representa o ideal máximo da expansão territorial prometida por Deus a Abraão. Embora o controle efetivo possa ter sido uma aliança política em vez de conquista militar total, este versículo descreve o auge da soberania israelita.",
+      "temas": [
+        "Extensão Territorial",
+        "Soberania",
+        "Aliança Abraâmica"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "32": {
-      "parafrase": "O rei Davi disse: 'Chamem Zadoque, o sacerdote, o profeta Natã e Benaia, filho de Joiada.' E eles vieram diante do rei.",
-      "referencias": [],
-      "comentario": "Davi convoca os líderes leais para executar a unção de Salomão, garantindo que a transição de poder seja feita de forma legítima e ordenada.",
-      "temas": ["convocação", "legitimidade", "ordem"],
-      "personagens": ["Davi", "Zadoque", "Natã", "Benaia"]
+      "parafrase": "Em Jerusalém, a capital, Salomão estabeleceu um tesouro de riqueza sem paralelos. Ele acumulou uma quantidade monumental de ouro, que era importado de todas as nações com as quais negociava, tornando-o tão abundante que não era mais considerado um metal raro.",
+      "referencias": [
+        "2 Crônicas 9:21",
+        "Apocalipse 18:12"
+      ],
+      "comentario": "A descrição da riqueza em ouro visa ilustrar a glorificação de Israel sob o pacto davídico-salomônico. A repetição da ideia de que o ouro era como prata (v. 27) e a prata como pedra enfatiza a inversão de valores materiais sob a bênção divina.",
+      "temas": [
+        "Riqueza Extrema",
+        "Glória de Jerusalém",
+        "Abundância"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "33": {
-      "parafrase": "O rei lhes disse: 'Peguem os servos de seu senhor com vocês, façam meu filho Salomão montar em minha própria mula e o levem a Giom.'",
-      "referencias": [],
-      "comentario": "Davi instrui seus líderes a ungir Salomão publicamente. Montar na mula do rei era um símbolo de sucessão real, e Giom era um local tradicional de unção.",
-      "temas": ["unção pública", "símbolo de sucessão", "legitimidade"],
-      "personagens": ["Davi", "Salomão"]
+      "parafrase": "Os embaixadores de Salomão traziam, de todas as terras que lhe prestavam tributo, pedras preciosas e madeiras exóticas — especialmente o cedro de qualidade insuperável — que eram usadas para embelezar os projetos de construção do rei, notavelmente o Templo.",
+      "referencias": [
+        "1 Reis 6:15",
+        "Esdras 3:7"
+      ],
+      "comentario": "A importação de cedro não era apenas por sua beleza, mas por sua durabilidade e resistência a insetos, ideal para estruturas sagradas. O sistema de tributo (ou comércio controlado) garantia que a prosperidade de Salomão fosse sustentada pelas nações vizinhas.",
+      "temas": [
+        "Comércio e Tributo",
+        "Beleza na Adoração",
+        "Recursos Exóticos"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "34": {
-      "parafrase": "'Ali Zadoque, o sacerdote, e Natã, o profeta, o ungirão rei sobre Israel. Toquem a trombeta e digam: 'Viva o rei Salomão!''",
-      "referencias": [],
-      "comentario": "Davi dá instruções detalhadas para a cerimônia de unção, garantindo que ela seja feita com a autoridade sacerdotal e profética, e que Salomão seja aclamado publicamente como rei.",
-      "temas": ["cerimônia de unção", "aclamação", "autoridade"],
-      "personagens": ["Davi", "Zadoque", "Natã", "Salomão"]
+      "parafrase": "Além de toda essa opulência, Salomão manteve contato diplomático e comercial constante com reis de todas as partes do mundo conhecido, que vinham anualmente com presentes valiosos para ouvir suas palavras de sabedoria e para ver o esplendor de seu reino.",
+      "referencias": [
+        "2 Crônicas 9:23",
+        "Provérbios 25:1"
+      ],
+      "comentario": "A visita anual de 'reis de todo o mundo' reforça a ideia de que Salomão se tornou um centro de atração cultural e política, um farol de sabedoria no mundo antigo, estabelecendo uma diplomacia baseada no prestígio intelectual.",
+      "temas": [
+        "Diplomacia Internacional",
+        "Prestigio Real",
+        "Intercâmbio Cultural"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "35": {
-      "parafrase": "'Então subam atrás dele, e ele virá e se sentará no meu trono, e reinará em meu lugar. Pois eu o designei para ser príncipe sobre Israel e sobre Judá.'",
-      "referencias": [],
-      "comentario": "Davi estabelece a autoridade de Salomão como seu sucessor e o designa como príncipe sobre todo o Israel, garantindo a continuidade da dinastia.",
-      "temas": ["sucessão", "autoridade", "continuidade"],
-      "personagens": ["Davi", "Salomão"]
+      "parafrase": "Salomão também organizou os trabalhadores do seu reino, designando homens para coletar pedras preciosas e outras matérias-primas, e estruturou uma administração de mão de obra que garantiu que a construção do Templo e do palácio real prosseguisse sem falhas, com todos os materiais disponíveis em abundância.",
+      "referencias": [
+        "Êxodo 35:30-35",
+        "1 Reis 5:13-18"
+      ],
+      "comentario": "Este versículo enfatiza a organização administrativa de Salomão, que canalizou a riqueza e a matéria-prima para a construção dos grandes projetos, especialmente a Casa do Senhor (o Templo). A organização da mão de obra era essencial para gerenciar tantos recursos.",
+      "temas": [
+        "Engenharia e Organização",
+        "Construção do Templo",
+        "Gestão de Recursos"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "36": {
-      "parafrase": "Benaia, filho de Joiada, respondeu ao rei: 'Amém! Que o Senhor, o Deus de meu senhor, o rei, o confirme!'",
-      "referencias": [],
-      "comentario": "Benaia, em sua lealdade, aprova a decisão de Davi e invoca a bênção de Deus sobre Salomão.",
-      "temas": ["aprovação", "bênção", "lealdade"],
-      "personagens": ["Benaia", "Davi", "Deus"]
+      "parafrase": "A Rainha de Sabá, após ter testemunhado pessoalmente a grandeza de Salomão, sua magnificência, a organização de seu povo e a fartura de sua corte, ficou completamente maravilhada, a ponto de não conseguir expressar a metade do que via.",
+      "referencias": [
+        "1 Reis 10:7",
+        "2 Crônicas 9:5-6"
+      ],
+      "comentario": "Este versículo conclui o relato da visita da Rainha de Sabá. Sua reação ('O meu coração não foi informado') é a confirmação máxima da fama de Salomão; a realidade superou os boatos. Ela reconhece que a metade do que foi relatado era muito menos do que a realidade impressionante.",
+      "temas": [
+        "Admiração",
+        "Prova da Sabedoria",
+        "Reação ao Esplendor"
+      ],
+      "personagens": [
+        "Rainha de Sabá",
+        "Salomão"
+      ]
     },
     "37": {
-      "parafrase": "'Assim como o Senhor esteve com meu senhor, o rei, assim esteja ele com Salomão, e faça seu trono maior do que o trono de meu senhor, o rei Davi.'",
-      "referencias": [],
-      "comentario": "Benaia deseja que o reinado de Salomão seja ainda mais glorioso do que o de Davi, reconhecendo a bênção de Deus.",
-      "temas": ["bênção", "glória", "reinado"],
-      "personagens": ["Benaia", "Deus", "Salomão", "Davi"]
+      "parafrase": "Ela declarou abençoados os conselheiros e servos do rei que tinham o privilégio de estar diariamente em sua presença, ouvindo atentamente seus conselhos sábios e perspicazes, diferentemente dos que apenas ouviam falar dele de longe.",
+      "referencias": [
+        "Lucas 10:23-24",
+        "Provérbios 16:13"
+      ],
+      "comentario": "A felicidade aqui reside na proximidade com a fonte da sabedoria. A bênção não está apenas em ter um rei sábio, mas em ter acesso direto a ele. Isso destaca a importância da instrução pessoal e da comunhão com quem possui conhecimento.",
+      "temas": [
+        "Privilégio da Proximidade",
+        "Acesso à Sabedoria",
+        "Bem-aventurança"
+      ],
+      "personagens": [
+        "Rainha de Sabá",
+        "Salomão"
+      ]
     },
     "38": {
-      "parafrase": "Então Zadoque, o sacerdote, Natã, o profeta, e Benaia, filho de Joiada, e os queretitas e os peletitas desceram e fizeram Salomão montar na mula do rei Davi e o levaram a Giom.",
-      "referencias": [],
-      "comentario": "A ordem de Davi é executada. Salomão é levado para a unção, com a guarda real o acompanhando.",
-      "temas": ["execução da ordem", "unção"],
-      "personagens": ["Zadoque", "Natã", "Benaia", "Queretitas", "Peletitas", "Salomão"]
+      "parafrase": "Ela prosseguiu, louvando a Deus de Israel por ter escolhido Salomão para ser o rei sobre seu povo, pois Ele quis estabelecer Salomão no trono para exercer a justiça e o direito em toda a terra.",
+      "referencias": [
+        "Salmos 89:14",
+        "Deuteronômio 17:18-20"
+      ],
+      "comentario": "A Rainha de Sabá reconhece a fonte teológica do poder de Salomão. Sua sabedoria não é apenas um talento natural, mas um presente real de Deus para manter a ordem justa no reino. Ela vê a legitimidade divina por trás do governo.",
+      "temas": [
+        "Soberania de Deus",
+        "Justiça e Direito",
+        "Legitimidade do Rei"
+      ],
+      "personagens": [
+        "Rainha de Sabá",
+        "Salomão",
+        "Deus de Israel"
+      ]
     },
     "39": {
-      "parafrase": "Zadoque, o sacerdote, pegou o chifre de azeite do tabernáculo e ungiu Salomão. Então tocaram a trombeta, e todo o povo gritou: 'Viva o rei Salomão!'",
-      "referencias": [],
-      "comentario": "Salomão é ungido rei, e o povo o aclama publicamente, selando sua ascensão ao trono.",
-      "temas": ["unção", "aclamação", "realeza"],
-      "personagens": ["Zadoque", "Salomão", "Povo de Israel"]
+      "parafrase": "Então, a rainha deu ao rei Salomão um presente magnífico, como recompensa por sua sabedoria e eloquência: uma quantidade imensa de riquezas, junto com especiarias raras e aromáticas, superando em valor tudo o que já havia sido trazido ao reino de Israel.",
+      "referencias": [
+        "2 Crônicas 9:12",
+        "Cântico dos Cânticos 3:6"
+      ],
+      "comentario": "O presente (riqueza, especiarias e pedras preciosas) simboliza a honra e o reconhecimento mútuo entre reinos. As especiarias (incenso e mirra) eram itens de altíssimo valor no mundo antigo, usados em rituais e perfumes reais.",
+      "temas": [
+        "Recompensa",
+        "Prestigio Diplomático",
+        "Honra Mútua"
+      ],
+      "personagens": [
+        "Rainha de Sabá",
+        "Salomão"
+      ]
     },
     "40": {
-      "parafrase": "Todo o povo subiu atrás dele, tocando flautas e se alegrando com grande alegria, de modo que a terra tremeu com o barulho deles.",
-      "referencias": [],
-      "comentario": "A celebração é jubilosa e entusiástica, com o povo expressando sua alegria pela ascensão de Salomão.",
-      "temas": ["celebração", "alegria", "júbilo"],
-      "personagens": ["Povo de Israel"]
+      "parafrase": "Após a partida da Rainha de Sabá, Salomão continuou seu reinado, e em pouco tempo, ele construiu um grande e esplêndido navio em Eziom-Geber, no Mar Vermelho, com a ajuda de marinheiros experientes de Tiro.",
+      "referencias": [
+        "1 Reis 9:26-28",
+        "2 Crônicas 8:17-18"
+      ],
+      "comentario": "A atividade naval é crucial. Salomão, que não deveria multiplicar cavalos (terra), agora explora o mar (comércio e exploração). A parceria com Tiro (que possuía a expertise marítima) indica uma expansão econômica estratégica.",
+      "temas": [
+        "Inovação Naval",
+        "Parcerias Comerciais",
+        "Exploração"
+      ],
+      "personagens": [
+        "Salomão",
+        "Marinheiros de Tiro"
+      ]
     },
     "41": {
-      "parafrase": "Adonias e todos os convidados que estavam com ele ouviram isso quando terminaram de comer. Quando Joabe ouviu o som da trombeta, disse: 'O que significa este barulho na cidade?'",
-      "referencias": [],
-      "comentario": "Adonias e seus seguidores, em sua festa de coroação, são surpreendidos pelo barulho da celebração de Salomão, percebendo que seus planos foram frustrados.",
-      "temas": ["surpresa", "frustração", "usurpação"],
-      "personagens": ["Adonias", "Convidados", "Joabe"]
+      "parafrase": "Esses navios, tripulados por homens que já tinham experiência em navegar, eram enviados em longas viagens de três anos, retornando carregados com uma carga extraordinária de ouro de Ofir, prata, marfim, macacos e pavões, bens exóticos da Índia ou da África Oriental.",
+      "referencias": [
+        "Jó 22:24",
+        "2 Crônicas 9:21"
+      ],
+      "comentario": "Ofir é um destino lendário de riqueza. A menção de marfim, macacos e pavões confirma que as rotas comerciais alcançavam o subcontinente indiano ou a costa africana do Mar Vermelho. A viagem de três anos ilustra a escala épica do comércio salomônico.",
+      "temas": [
+        "Rotas Comerciais Longas",
+        "Comércio de Exotismo",
+        "Prosperidade Naval"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "42": {
-      "parafrase": "Enquanto ele ainda falava, eis que Jônatas, filho de Abiatar, o sacerdote, chegou. Adonias disse: 'Entre, pois você é um homem valente e traz boas novas.'",
-      "referencias": [],
-      "comentario": "Jônatas, o mensageiro leal a Davi, chega para confirmar a notícia da unção de Salomão, trazendo o fim das esperanças de Adonias.",
-      "temas": ["mensageiro", "notícia", "fim das esperanças"],
-      "personagens": ["Jônatas", "Adonias"]
+      "parafrase": "Com a riqueza que fluía do mar e da terra, Salomão se tornou o rei mais rico e mais prestigiado de toda a história de Israel. Seu esplendor e luxo eram tão grandes que superavam em muito os de todos os reis anteriores em Jerusalém.",
+      "referencias": [
+        "1 Reis 3:13",
+        "2 Crônicas 9:22"
+      ],
+      "comentario": "Este versículo funciona como um ponto de inflexão, estabelecendo o ápice da glória material de Salomão. Esta riqueza, embora um sinal de bênção inicial, se tornaria um vetor de seus pecados futuros (1 Reis 11:1-3), pois ele valorizaria mais os bens do que a aliança.",
+      "temas": [
+        "Riqueza Máxima",
+        "Declínio Implícito",
+        "Comparação Histórica"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "43": {
-      "parafrase": "Jônatas respondeu a Adonias: 'Não! Pois nosso senhor, o rei Davi, fez Salomão rei.'",
-      "referencias": [],
-      "comentario": "Jônatas entrega a notícia devastadora a Adonias, revelando que Davi já ungiu Salomão como seu sucessor.",
-      "temas": ["notícia devastadora", "revelação"],
-      "personagens": ["Jônatas", "Adonias", "Davi", "Salomão"]
+      "parafrase": "O rei Salomão governava com tal autoridade e prosperidade que todos os seus súditos tinham acesso garantido aos bens essenciais, e ele usava sua influência para adquirir os melhores cavalos de todo o mundo conhecido para o seu exército, como já mencionado.",
+      "referencias": [
+        "1 Reis 10:26",
+        "Deuteronômio 17:16"
+      ],
+      "comentario": "Esta repetição sobre os cavalos serve para reforçar um dos pontos críticos da gestão de Salomão: ele investiu pesadamente em poder militar através da importação de cavalaria, desobedecendo sutilmente a proibição de acumular cavalos para si, o que prenuncia problemas com seus vizinhos e com a Lei.",
+      "temas": [
+        "Acumulação Militar",
+        "Dependência Externa",
+        "Contradição Legal"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "44": {
-      "parafrase": "'E o rei enviou com ele Zadoque, o sacerdote, Natã, o profeta, e Benaia, filho de Joiada, e os queretitas e os peletitas, e eles o fizeram montar na mula do rei.'",
-      "referencias": [],
-      "comentario": "Jônatas descreve a cerimônia de unção de Salomão, enfatizando a legitimidade de sua ascensão ao trono.",
-      "temas": ["legitimidade", "unção"],
-      "personagens": ["Jônatas", "Zadoque", "Natã", "Benaia", "Queretitas", "Peletitas", "Salomão"]
+      "parafrase": "O alcance do reinado de Salomão se estendia por toda a região compreendida entre o deserto do sul e o grande rio Eufrates, abrangendo todos os reis vassalos que lhe deviam lealdade e tributo em toda aquela vasta área.",
+      "referencias": [
+        "Gênesis 15:18",
+        "1 Reis 4:21"
+      ],
+      "comentario": "Reafirmação do domínio político. O termo 'todos os reis' sugere que líderes regionais reconheciam a supremacia de Salomão, seja por força, seja por comércio e sabedoria, garantindo a paz necessária para os empreendimentos econômicos.",
+      "temas": [
+        "Domínio Político",
+        "Lealdade de Vassalos",
+        "Paz sob o Reinado"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "45": {
-      "parafrase": "'E Zadoque, o sacerdote, e Natã, o profeta, o ungiram rei em Giom. E eles subiram de lá, alegrando-se, e a cidade está em alvoroço. Este é o barulho que vocês ouviram.'",
-      "referencias": [],
-      "comentario": "Jônatas conclui seu relato, explicando a causa do barulho e confirmando a coroação de Salomão.",
-      "temas": ["confirmação", "celebração"],
-      "personagens": ["Jônatas", "Zadoque", "Natã", "Salomão"]
+      "parafrase": "Além de tudo, Salomão estabeleceu leis e decretos justos para seu povo, governando com equidade durante seu longo reinado, que foi abençoado por Deus.",
+      "referencias": [
+        "Salmos 72:1-2",
+        "2 Crônicas 9:29"
+      ],
+      "comentario": "Este versículo tenta equilibrar a imagem do rei extravagante com a do legislador justo. A sabedoria de Salomão se manifestava em seu código legal, embora a narrativa logo mostrará que essa justiça começou a ser comprometida pelas suas alianças.",
+      "temas": [
+        "Legislação",
+        "Justiça e Ordem",
+        "Duração do Reinado"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "46": {
-      "parafrase": "'E Salomão já se sentou no trono do reino.'",
-      "referencias": [],
-      "comentario": "A notícia final: Salomão já está no trono, selando o destino de Adonias.",
-      "temas": ["reinado", "destino"],
-      "personagens": ["Jônatas", "Salomão"]
+      "parafrase": "O restante de todas as façanhas de Salomão, tudo o que ele fez, desde os seus atos mais notáveis até a construção do Templo sagrado e do seu próprio palácio real, está meticulosamente registrado nos Anais Históricos do Reino de Israel.",
+      "referencias": [
+        "1 Reis 11:41",
+        "2 Crônicas 12:15"
+      ],
+      "comentario": "Esta é uma referência comum nos livros históricos, indicando que há fontes documentais primárias para a biografia de Salomão (possivelmente crônicas oficiais ou registros da corte). Chama-se 'Livros das Crônicas dos Reis de Israel'.",
+      "temas": [
+        "Registro Histórico",
+        "Obras Reais",
+        "Fontes Primárias"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "47": {
-      "parafrase": "'Além disso, os servos do rei vieram abençoar nosso senhor, o rei Davi, dizendo: 'Que seu Deus faça o nome de Salomão mais famoso do que o seu nome, e faça seu trono maior do que o seu trono.' E o rei se curvou em sua cama.'",
-      "referencias": [],
-      "comentario": "Jônatas relata a bênção dos servos de Davi sobre Salomão, desejando que seu reinado seja ainda mais glorioso. A reação de Davi, curvando-se em sua cama, demonstra sua aceitação e sua gratidão a Deus.",
-      "temas": ["bênção", "glória", "aceitação", "gratidão"],
-      "personagens": ["Jônatas", "Davi", "Salomão", "Deus"]
+      "parafrase": "O apogeu de Israel, sob Salomão, se manifestou na construção de fortalezas e cidades fortificadas, pois ele ergueu muralhas poderosas em torno de pontos estratégicos, protegendo o reino em todas as suas fronteiras.",
+      "referencias": [
+        "1 Reis 9:15-19",
+        "2 Crônicas 8:4-6"
+      ],
+      "comentario": "Enquanto o Templo e o Palácio eram manifestações de glória espiritual e pessoal, a construção de cidades fortificadas (como Hazor, Megido e Gezer) era uma demonstração de poder militar e capacidade de defesa, consolidando o império territorialmente.",
+      "temas": [
+        "Engenharia Militar",
+        "Segurança Nacional",
+        "Fortificação de Cidades"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "48": {
-      "parafrase": "'E também o rei disse: 'Bendito seja o Senhor, o Deus de Israel, que hoje deu um sucessor para se sentar no meu trono, e meus olhos o viram.''",
-      "referencias": [],
-      "comentario": "Davi louva a Deus por ter cumprido Sua promessa e por ter permitido que ele visse seu sucessor no trono. Sua gratidão é evidente.",
-      "temas": ["louvor", "gratidão", "cumprimento da promessa"],
-      "personagens": ["Davi", "Deus"]
+      "parafrase": "Apesar de toda essa majestade terrena, o rei tinha controle total sobre a importação de cavalos e bigas do Egito, organizando o transporte para as áreas que ele designava, reforçando sua dependência daquela potência estrangeira.",
+      "referencias": [
+        "1 Reis 10:28",
+        "Deuteronômio 17:16"
+      ],
+      "comentario": "Novamente, a ênfase nos cavalos egípcios. Isso sublinha a ironia: o rei mais sábio do mundo, que deveria confiar unicamente em Deus, constrói sua segurança em bens proibidos e dependências estrangeiras. É a falha prática da sabedoria concedida.",
+      "temas": [
+        "Dependência Estrangeira",
+        "Aviso Divino Ignorado",
+        "Poder Terreno"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "49": {
-      "parafrase": "Então todos os convidados de Adonias se levantaram, e cada um foi para o seu caminho.",
-      "referencias": [],
-      "comentario": "A festa de Adonias se desfaz, e seus seguidores se dispersam, percebendo que sua tentativa de usurpação falhou.",
-      "temas": ["dispersão", "fracasso", "usurpação"],
-      "personagens": ["Convidados de Adonias"]
+      "parafrase": "Todo o seu governo, com toda a sua riqueza e a magnificência de seu palácio, é documentado detalhadamente nos Registros Oficiais dos Reis de Israel, servindo como testemunho de seu reinado.",
+      "referencias": [
+        "1 Reis 14:19",
+        "Jeremias 52:31"
+      ],
+      "comentario": "O autor faz uma pausa narrativa para remeter o leitor às fontes primárias, validando a extensão dos detalhes fornecidos sobre a opulência e os feitos de Salomão, o que torna a subsequente narrativa de sua queda ainda mais trágica.",
+      "temas": [
+        "Registro Histórico",
+        "Verificação dos Fatos",
+        "Documentação Real"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "50": {
-      "parafrase": "Adonias teve medo de Salomão, e se levantou e foi e se agarrou aos chifres do altar.",
-      "referencias": ["Êxodo 21:14"],
-      "comentario": "Adonias, temendo por sua vida, busca refúgio no altar, um lugar de santuário e proteção para aqueles que buscam misericórdia.",
-      "temas": ["medo", "refúgio", "santuário"],
-      "personagens": ["Adonias", "Salomão"]
+      "parafrase": "Quando Salomão finalmente faleceu, após reinar por quarenta anos sobre toda a nação israelita, ele foi sepultado com honras na cidade que fora seu pai, Davi, em Jerusalém, encerrando a Era de Ouro do Reino Unido.",
+      "referencias": [
+        "1 Reis 11:42",
+        "Atos 2:29"
+      ],
+      "comentario": "O número quarenta (40) é frequentemente associado a períodos completos de teste ou reinado (Moisés, Elias, Saul, Davi). O repouso de Salomão na Cidade de Davi (e não no Templo que ele construiu) contrasta com o legado de seu pai, prenunciando a divisão que viria logo após sua morte.",
+      "temas": [
+        "Morte e Legado",
+        "Fim de uma Era",
+        "Sepultamento Real"
+      ],
+      "personagens": [
+        "Salomão",
+        "Davi"
+      ]
     },
     "51": {
-      "parafrase": "Foi contado a Salomão: 'Eis que Adonias tem medo do rei Salomão, e eis que ele se agarrou aos chifres do altar, dizendo: 'Que o rei Salomão jure hoje que não matará seu servo à espada.''",
-      "referencias": [],
-      "comentario": "Salomão é informado sobre a ação de Adonias e seu pedido de misericórdia.",
-      "temas": ["informação", "medo", "misericórdia"],
-      "personagens": ["Salomão", "Adonias"]
+      "parafrase": "Então, ao ouvir Adonias que todo o povo estava aclamando Salomão, e que o alvoroço dos festejos e trombetas havia chegado aos ouvidos de todos, o terror o dominou completamente. Seu coração, que antes abrigava a ambição desmedida de reinar, agora se desfazia em pânico. Ele cambaleou, percebendo que a coroa já estava firmemente posta na cabeça do seu irmão, e o jogo estava irrevogavelmente perdido. O som da celebração da vitória de Salomão era como um trovão anunciando sua própria ruína iminente. 😨",
+      "referencias": [
+        "Gênesis 27:29",
+        "1 Samuel 2:10",
+        "Provérbios 29:2"
+      ],
+      "comentario": "O texto descreve a reação imediata e catastrófica de Adonias ao perder o trono. A palavra hebraica para 'medo' ou 'terror' aqui (חִתָּה - chittah) sugere um pavor paralisante, uma perturbação da alma que o faz perder o controle. A notícia da coroação, celebrada com alegria (trombetas e festim), torna-se para ele um sinal de execução ou exílio. Este versículo marca o fim da conspiração de Adonias e o início da consolidação do reinado de Salomão.",
+      "temas": [
+        "Conspiração Falhada",
+        "Terror da Queda",
+        "Transição de Poder"
+      ],
+      "personagens": [
+        "Adonias"
+      ]
     },
     "52": {
-      "parafrase": "Salomão disse: 'Se ele se mostrar um homem digno, nem um fio de cabelo de sua cabeça cairá ao chão. Mas se for encontrado maldade nele, ele morrerá.'",
-      "referencias": [],
-      "comentario": "Salomão demonstra sabedoria e justiça em sua primeira decisão como rei. Ele oferece misericórdia condicional a Adonias, baseada em sua conduta futura.",
-      "temas": ["sabedoria", "justiça", "misericórdia condicional"],
-      "personagens": ["Salomão", "Adonias"]
+      "parafrase": "Imediatamente, Adonias, em um gesto de desespero e reconhecimento forçado da nova autoridade, levantou-se e fugiu para se abrigar no santuário. Ele agarrou-se freneticamente aos chifres do altar sagrado, buscando a proteção que só aquele local poderia, em teoria, lhe oferecer. Era uma súplica desesperada: 'Que o Rei Salomão não me mate agora! Eu me coloco sob a sua misericórdia!' 🙏",
+      "referencias": [
+        "Êxodo 21:13",
+        "Números 35:11-12",
+        "Deuteronômio 19:5"
+      ],
+      "comentario": "Adonias recorre ao 'direito de asilo' (חָזַק בְּקַרְנוֹת הַמִּזְבֵּחַ - chazaq beqarnoth hammizbeach). Os chifres do altar (מִזְבֵּחַ - mizbe'ach) eram símbolos da presença de Deus e representavam um refúgio inviolável para quem cometesse um erro não intencional ou buscasse clemência. Ao se agarrar a eles, Adonias reconhece a soberania de Salomão, mas apela à piedade divina e, consequentemente, à piedade do rei, esperando que a santidade do local o proteja da ira real pela sua rebelião. É um ato de rendição total.",
+      "temas": [
+        "Asilo e Santuário",
+        "Súplica por Misericórdia",
+        "Reconhecimento da Autoridade"
+      ],
+      "personagens": [
+        "Adonias",
+        "Salomão"
+      ]
     },
     "53": {
-      "parafrase": "Então o rei Salomão enviou, e eles o tiraram do altar. Ele veio e se curvou ao rei Salomão, e Salomão lhe disse: 'Vá para sua casa.'",
-      "referencias": [],
-      "comentario": "Adonias é poupado e enviado para casa, mas sua vida está nas mãos de Salomão. A misericórdia de Salomão é um bom presságio para seu reinado.",
-      "temas": ["misericórdia", "liberdade condicional"],
-      "personagens": ["Salomão", "Adonias"]
+      "parafrase": "A notícia da fuga e do refúgio de Adonias chegou rapidamente a Salomão. O novo rei, demonstrando uma justiça ponderada (embora fria), enviou uma mensagem solene: 'Se ele for um homem de bom caráter e se portar com lealdade, eu não tirarei dele sequer um fio de cabelo. Mas, se ele for apanhado em alguma conspiração ou em qualquer ato de traição contra o meu trono, ele certamente morrerá.' A vida de Adonias estava agora nas mãos da fidelidade de suas ações futuras. ⚖️",
+      "referencias": [
+        "1 Samuel 14:45",
+        "1 Reis 2:24",
+        "Mateus 10:30"
+      ],
+      "comentario": "Salomão adota uma postura de 'graça condicional'. Ele não o executa imediatamente, honrando o costume do asilo no altar (embora o altar não proteja contra a traição política planejada, apenas contra assassinatos acidentais ou vingança imediata). A expressão 'nem um fio de cabelo' (פַּדַּעַת שֵׂעָר - pad'at se'ar) é uma hipérbole comum que significa 'nada lhe acontecerá'. O rei estabelece um ultimato claro: a clemência depende da lealdade contínua de Adonias. Ele está sob observação rigorosa.",
+      "temas": [
+        "Justiça Condicional",
+        "Soberania Real",
+        "Lealdade e Traição"
+      ],
+      "personagens": [
+        "Salomão",
+        "Adonias"
+      ]
     }
   }
 }

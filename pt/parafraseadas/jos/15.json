@@ -1,449 +1,1042 @@
 {
   "livro": "Josué",
   "capitulo": 15,
-  "contexto_historico": "Após a conquista das principais regiões de Canaã e a concessão da herança a Calebe, este capítulo detalha a porção da terra designada à tribo de Judá. A descrição minuciosa das fronteiras e das cidades reflete a importância de Judá na história de Israel e a fidelidade de Deus em cumprir suas promessas de terra.",
-  "bloco_tematico": "A Herança da Tribo de Judá",
+  "contexto_historico": "Após a conquista inicial de Canaã, liderada por Josué, com vitórias emblemáticas como Jericó e Ai, o capítulo 15 marca a transição para a fase de divisão e posse das terras entre as tribos de Israel. Este capítulo foca especificamente na descrição detalhada e minuciosa do território que coube à tribo de Judá, a maior e mais proeminente das tribos. A narrativa envolve o estabelecimento de limites geográficos precisos, a menção de cidades importantes (como Hebrom e Ziclague) e a descrição de desafios restantes, como a presença de cananeus que ainda ocupam áreas dentro do território designado. É um momento crucial de consolidação territorial e administrativo após a fase militar.",
+  "bloco_tematico": "🗺️ A Distribuição da Herança: O Loteamento de Judá 👑",
   "versiculos": {
     "1": {
-      "parafrase": "A porção da herança para a tribo dos filhos de Judá, segundo as suas famílias, estendia-se até a fronteira de Edom, o deserto de Zim, ao sul, até a extremidade do Neguebe.",
-      "referencias": [],
-      "comentario": "A herança de Judá, a maior e mais importante tribo, é descrita em detalhes, começando com sua fronteira sul, que se estendia até Edom e o deserto de Zim.",
-      "temas": ["herança de Judá", "fronteira sul", "extensão"],
-      "personagens": []
+      "parafrase": "A notícia da vitória esmagadora sobre Ai e Betel correu como fogo selvagem, e o medo paralisou os corações dos moradores da região montanhosa de Canaã. Os reis cananeus, desde o Jordão até o grande mar Mediterrâneo, ouviram o que Josué e o povo de Israel haviam feito, e o pânico se instalou de forma profunda e irreversível.",
+      "referencias": [
+        "Êxodo 15:14-16",
+        "Deuteronômio 28:28"
+      ],
+      "comentario": "O versículo estabelece o impacto psicológico da conquista de Jericó e Ai. O 'medo' (hebraico: *pahad*) que atinge os cananeus é um instrumento divino para facilitar a futura conquista, cumprindo promessas feitas anteriormente a Abraão (Gênesis 15:14).",
+      "temas": [
+        "Medo Divino",
+        "Fama de Israel",
+        "Conquista"
+      ],
+      "personagens": [
+        "Josué",
+        "Israel",
+        "Moradores de Canaã"
+      ]
     },
     "2": {
-      "parafrase": "A sua fronteira sul começava na extremidade do mar Salgado, desde a baía que olha para o sul,",
-      "referencias": [],
-      "comentario": "A fronteira sul de Judá inicia no Mar Morto (Mar Salgado), um ponto geográfico significativo.",
-      "temas": ["Mar Salgado", "fronteira"],
-      "personagens": []
+      "parafrase": "Com o pavor estampado em seus rostos, os líderes e reis dessas nações decidiram urgentemente se unir. Eles perceberam que sozinhos não teriam a menor chance; a única esperança residia em formar uma coalizão militar poderosa contra a força de Israel, que parecia imparável.",
+      "referencias": [
+        "Números 13:28",
+        "Josué 9:1-2"
+      ],
+      "comentario": "A união dos cananeus é uma resposta natural ao terror. O fato de se unirem tardiamente demonstra sua falha estratégica inicial em formar uma frente unida contra o avanço israelita.",
+      "temas": [
+        "Aliança Cananeia",
+        "Desespero",
+        "Estratégia Militar"
+      ],
+      "personagens": [
+        "Reis Cananeus"
+      ]
     },
     "3": {
-      "parafrase": "e se estendia para o sul da subida de Acrabim, passava por Zim e continuava até Cades-Barneia, e passava por Hezrom, e subia para Adar, e se curvava para Carca,",
-      "referencias": [],
-      "comentario": "A descrição detalhada da fronteira sul inclui vários pontos de referência, mostrando a precisão da demarcação.",
-      "temas": ["pontos de referência", "demarcação"],
-      "personagens": []
+      "parafrase": "Em particular, os habitantes de regiões estratégicas como a planície, as colinas, e toda a costa do grande mar, além dos povos que viviam perto do Jordão, se juntaram. Esta ampla aliança mostra a abrangência do domínio que Israel estava prestes a desafiar.",
+      "referencias": [
+        "Josué 11:2",
+        "Juízes 1:1"
+      ],
+      "comentario": "A menção geográfica (planície, colinas, mar, Jordão) indica que virtualmente toda a terra de Canaã, exceto as fortalezas já tomadas, entrou em estado de guerra iminente contra Israel.",
+      "temas": [
+        "Abrangência Geográfica",
+        "Oposição Total"
+      ],
+      "personagens": [
+        "Israel",
+        "Povos da Costa"
+      ]
     },
     "4": {
-      "parafrase": "e passava por Azmom, e continuava até o ribeiro do Egito, e terminava no mar Grande. Esta será a sua fronteira sul.",
-      "referencias": [],
-      "comentario": "A fronteira sul de Judá se estendia até o ribeiro do Egito (Wadi el-Arish) e terminava no Mar Mediterrâneo (Mar Grande), marcando o limite com o Egito.",
-      "temas": ["ribeiro do Egito", "Mar Grande", "limite"],
-      "personagens": []
+      "parafrase": "No entanto, os amorreus, que habitavam a região montanhosa central, e os cananeus das planícies, e os habitantes de diversas cidades como Jericó e Ai, incluindo os reis que foram derrotados ou que fugiram, mantiveram-se isolados e paralisados, sem oferecer resistência organizada neste momento.",
+      "referencias": [
+        "Josué 10:1-3",
+        "Juízes 1:21"
+      ],
+      "comentario": "Este versículo contrasta os que se uniram (v. 2-3) com aqueles que ainda estavam dispersos ou desmoralizados, talvez esperando que a nova coalizão pudesse fazer o trabalho sujo por eles. O foco aqui é a desorganização remanescente entre os grupos derrotados anteriormente.",
+      "temas": [
+        "Desorganização",
+        "Isolamento",
+        "Medo Persistente"
+      ],
+      "personagens": [
+        "Amorreus",
+        "Cananeus",
+        "Reis Derrotados"
+      ]
     },
     "5": {
-      "parafrase": "A fronteira leste era o mar Salgado, até a foz do Jordão. E a fronteira norte começava na baía do mar Salgado, na foz do Jordão,",
-      "referencias": [],
-      "comentario": "A fronteira leste de Judá era o Mar Morto e o rio Jordão, que também servia como limite natural.",
-      "temas": ["fronteira leste", "Mar Salgado", "rio Jordão"],
-      "personagens": []
+      "parafrase": "O rei de Hazor, que era o líder mais poderoso entre todos esses reinos, percebendo a gravidade da situação, enviou mensageiros a todos os outros líderes. Ele convocou todos os reis da região norte e centro para formar um grande exército, tão vasto e numeroso quanto a areia que cobre a beira do mar, e os instou a se prepararem para a batalha.",
+      "referencias": [
+        "Josué 11:1-5",
+        "Juízes 4:2"
+      ],
+      "comentario": "Hazor era a capital do norte (Josué 11). Seu rei, Jabin, assume a liderança da resistência. A comparação com 'a areia do mar' enfatiza o tamanho massivo do exército que eles esperavam reunir, um desafio direto ao poder de Deus manifestado até então.",
+      "temas": [
+        "Liderança da Resistência",
+        "Mobilização de Guerra",
+        "Oposição Maciça"
+      ],
+      "personagens": [
+        "Rei de Hazor (Jabin)"
+      ]
     },
     "6": {
-      "parafrase": "e subia para Bete-Hogla, e passava ao norte de Bete-Arabá, e subia para a pedra de Boã, filho de Rúben.",
-      "referencias": [],
-      "comentario": "A fronteira norte de Judá é descrita, incluindo pontos de referência importantes.",
-      "temas": ["fronteira norte", "pontos de referência"],
-      "personagens": []
+      "parafrase": "E assim, esses reis, unidos sob o comando de Hazor, marcharam com todos os seus carros de guerra e com seus cavalos, formando um acampamento colossal perto das águas de Merom, prontos para enfrentar os filhos de Israel.",
+      "referencias": [
+        "Juízes 4:3",
+        "Salmos 20:7"
+      ],
+      "comentario": "Merom é o local estratégico para a batalha do norte. O destaque nos 'carros de guerra e cavalos' é crucial, pois estes eram os elementos de força militar mais temidos na época, e Israel não possuía tais armas.",
+      "temas": [
+        "Acampamento de Guerra",
+        "Poder Militar Cananeu",
+        "Local de Confronto"
+      ],
+      "personagens": [
+        "Exército Cananeu"
+      ]
     },
     "7": {
-      "parafrase": "E a fronteira subia para Debir, desde o vale de Acor, e para o norte, em direção a Gilgal, que está em frente à subida de Adumim, que fica ao sul do ribeiro. E a fronteira passava pelas águas de En-Semes e terminava em En-Rogel.",
-      "referencias": [],
-      "comentario": "A fronteira norte continua, incluindo o vale de Acor, um local significativo na história de Israel.",
-      "temas": ["vale de Acor", "fronteira"],
-      "personagens": []
+      "parafrase": "Mas o Senhor, falando a Josué, disse: 'Não se apavore diante dessa multidão 😱! Pois amanhã, a esta mesma hora, Eu os entregarei completamente derrotados nas mãos de Israel. Você deverá cortar os tendões das pernas dos cavalos deles e queimar todos os seus carros de guerra.'",
+      "referencias": [
+        "Êxodo 14:13-14",
+        "Isaías 31:3"
+      ],
+      "comentario": "Esta é uma ordem divina direta e tática. O ato de cortar os tendões dos jarretes ('tendões das pernas' - *anqei habassarah*) dos cavalos (hamstringing) inutiliza-os permanentemente para o combate e transporte, desmantelando a principal força de choque dos inimigos.",
+      "temas": [
+        "Garantia Divina",
+        "Instrução Tática",
+        "Desarmamento"
+      ],
+      "personagens": [
+        "Senhor",
+        "Josué"
+      ]
     },
     "8": {
-      "parafrase": "E a fronteira subia pelo vale de Ben-Hinom, ao sul da encosta dos jebuseus (que é Jerusalém), e subia ao topo da montanha que está em frente ao vale de Hinom, a oeste, que está na extremidade do vale dos Refains, ao norte.",
-      "referencias": [],
-      "comentario": "A fronteira norte de Judá incluía Jerusalém, que ainda estava sob o controle dos jebuseus na época.",
-      "temas": ["Jerusalém", "jebuseus", "fronteira"],
-      "personagens": []
+      "parafrase": "Então, Josué e todo o seu exército avançaram contra eles subitamente, pegando-os de surpresa perto das águas de Merom, e caíram sobre eles com toda a força.",
+      "referencias": [
+        "Josué 10:9-10",
+        "2 Reis 6:17"
+      ],
+      "comentario": "O ataque surpresa ('de repente') é facilitado pela confiança dos cananeus na superioridade numérica e logística. A ação imediata de Josué demonstra obediência inquestionável à ordem do Senhor.",
+      "temas": [
+        "Ataque Surpresa",
+        "Obediência Militar",
+        "Confronto Direto"
+      ],
+      "personagens": [
+        "Josué",
+        "Exército Israelita"
+      ]
     },
     "9": {
-      "parafrase": "E a fronteira se curvava do topo da montanha até a fonte das águas de Neftoa, e continuava até as cidades do monte Efrom, e se curvava para Baalá (que é Quiriate-Jearim).",
-      "referencias": [],
-      "comentario": "A fronteira norte continua, incluindo cidades importantes e pontos de referência.",
-      "temas": ["cidades", "pontos de referência"],
-      "personagens": []
+      "parafrase": "O Senhor entregou-os nas mãos de Israel, que os massacraram, perseguindo-os por uma grande distância até a cidade de Sidom, e também até Misrefot-Maím, e ao vale de Mispe, a leste. Todos foram abatidos, sem que um sequer escapasse vivo.",
+      "referencias": [
+        "Josué 11:16-17",
+        "Juízes 1:31"
+      ],
+      "comentario": "A extensão da perseguição (Sidom, Misrefot-Maím) mostra a aniquilação total da força inimiga. A palavra 'nenhum sobreviveu' (*lo hish'ir bo sharit*) reforça a ideia de extermínio completo daquela ameaça específica.",
+      "temas": [
+        "Vitória Total",
+        "Perseguição",
+        "Extermínio"
+      ],
+      "personagens": [
+        "Senhor",
+        "Israel",
+        "Inimigos"
+      ]
     },
     "10": {
-      "parafrase": "E a fronteira se curvava de Baalá para o oeste, para o monte Seir, e passava pela encosta do monte Jearim (que é Quesalom), ao norte, e descia para Bete-Semes, e passava por Timna.",
-      "referencias": [],
-      "comentario": "A fronteira norte se estende para o oeste, incluindo o monte Seir e outras cidades.",
-      "temas": ["fronteira oeste", "cidades"],
-      "personagens": []
+      "parafrase": "Naquele momento, Josué recuou e capturou Hazor, a cidade que anteriormente havia sido o centro de comando de toda aquela confederação hostil, e feriu seu rei com a espada, pois Hazor era a única cidade fortificada que Israel ainda não havia destruído completamente.",
+      "referencias": [
+        "Josué 11:11",
+        "Apocalipse 19:20"
+      ],
+      "comentario": "Hazor é mencionada como a cabeça da revolta ('a que antes era o cabeça de todos esses reinos'). A destruição da cidade e a morte do rei Jabin são o ponto culminante da campanha militar do norte, assegurando a supremacia israelita.",
+      "temas": [
+        "Queda da Capital",
+        "Destruição Simbólica",
+        "Derrota do Líder"
+      ],
+      "personagens": [
+        "Josué",
+        "Rei de Hazor (Jabin)"
+      ]
     },
     "11": {
-      "parafrase": "E a fronteira continuava até a encosta de Ecrom, ao norte, e se curvava para Siquerom, e passava pelo monte Baalá, e continuava até Jabneel, e terminava no mar Grande. Esta será a sua fronteira ocidental.",
-      "referencias": [],
-      "comentario": "A fronteira ocidental de Judá era o Mar Mediterrâneo, e a descrição inclui cidades costeiras importantes.",
-      "temas": ["fronteira ocidental", "Mar Grande", "cidades costeiras"],
-      "personagens": []
+      "parafrase": "Todos os habitantes de Hazor foram mortos ao fio da espada, e a cidade foi completamente destruída e queimada, como o Senhor havia ordenado a Moisés, Seu servo, que fosse feito com todas as cidades que fossem tomadas de forma decisiva.",
+      "referencias": [
+        "Deuteronômio 7:2",
+        "Josué 6:21"
+      ],
+      "comentario": "Este ato cumpre o 'Decreto do Carrasco' (*herem*), a dedicação total ao Senhor através da destruição. A menção de Moisés liga a ação de Josué ao mandamento original dado ao seu antecessor.",
+      "temas": [
+        "Obra do *Herem*",
+        "Fidelidade ao Mandamento",
+        "Destruição Completa"
+      ],
+      "personagens": [
+        "Josué",
+        "Habitantes de Hazor",
+        "Moisés"
+      ]
     },
     "12": {
-      "parafrase": "A fronteira ocidental era o mar Grande e a sua costa. Esta é a fronteira dos filhos de Judá, segundo as suas famílias, ao redor.",
-      "referencias": [],
-      "comentario": "A fronteira ocidental é reafirmada, e a descrição da herança de Judá é concluída.",
-      "temas": ["fronteira ocidental", "herança de Judá"],
-      "personagens": []
+      "parafrase": "Em seguida, Josué, com seu exército vitorioso, atacou todas as outras cidades importantes que faziam parte dessa confederação do norte, capturando-as e matando todos os seus reis, exatamente como Josué havia feito anteriormente com Jericó e Ai.",
+      "referencias": [
+        "Josué 8:24-25",
+        "Josué 10:30-37"
+      ],
+      "comentario": "Aqui, Josué repete o padrão de conquista total nas cidades-chave do norte, consolidando o território e eliminando futuros focos de resistência.",
+      "temas": [
+        "Consolidação Territorial",
+        "Padrão de Conquista"
+      ],
+      "personagens": [
+        "Josué",
+        "Reis do Norte"
+      ]
     },
     "13": {
-      "parafrase": "Mas a Calebe, filho de Jefoné, deu uma porção no meio dos filhos de Judá, conforme a ordem do Senhor a Josué, a cidade de Quiriate-Arba (que é Hebrom), que era o pai de Enaque.",
-      "referencias": ["Josué 14:13-15"],
-      "comentario": "A herança de Calebe em Hebrom é confirmada, um testemunho de sua fé e fidelidade, mesmo em uma região habitada por gigantes.",
-      "temas": ["herança de Calebe", "Hebrom", "fé", "fidelidade"],
-      "personagens": ["Josué", "Calebe"]
+      "parafrase": "No entanto, ao contrário do que ocorreu com Jericó e Hazor, Josué poupou algumas cidades para serem dedicadas ao Senhor como saque proibido (embora tenham sido queimadas posteriormente), e salvou todo o gado e bens que seriam saqueados, pois o povo de Israel, em obediência ao Senhor, deixou que o gado ficasse para si mesmo.",
+      "referencias": [
+        "Levítico 27:28-29",
+        "Josué 7:1"
+      ],
+      "comentario": "Este versículo apresenta uma nuance importante: a maioria das cidades foi destruída (11), mas o gado e os despojos foram mantidos como despojos de guerra para Israel (diferente do *herem* total, como em Jericó). A menção de que 'o povo poupou o gado' pode indicar um desvio sutil do mandamento estrito do *herem* para certas cidades, ou uma exceção aplicada a estas cidades específicas.",
+      "temas": [
+        "Saque de Guerra",
+        "Exceção ao *Herem*",
+        "Riqueza Conquistada"
+      ],
+      "personagens": [
+        "Josué",
+        "Povo de Israel"
+      ]
     },
     "14": {
-      "parafrase": "E Calebe expulsou dali os três filhos de Enaque: Sesai, Aimã e Talmai, os filhos de Enaque.",
-      "referencias": ["Juízes 1:10"],
-      "comentario": "Calebe cumpre sua promessa de expulsar os gigantes anaquins de Hebrom, demonstrando sua coragem e a ajuda de Deus.",
-      "temas": ["expulsão de gigantes", "coragem", "ajuda divina"],
-      "personagens": ["Calebe"]
+      "parafrase": "Assim, Josué executou a ordem do Senhor dada a Moisés: toda a população dessas cidades inimigas foi morta pela espada, e todas as suas riquezas foram queimadas em fogo, exceto o gado, que foi reservado para o povo de Israel pilhar.",
+      "referencias": [
+        "Números 31:1-2",
+        "Deuteronômio 20:14-16"
+      ],
+      "comentario": "Este versículo reafirma o cumprimento da lei de guerra (Deuteronômio 20) para a maioria dos casos: aniquilação humana e destruição de bens, com a exceção notável dos animais. A queima dos bens simbolizava a remoção de qualquer vestígio de idolatria ou posse anterior.",
+      "temas": [
+        "Cumprimento da Lei",
+        "Destruição de Idolatria",
+        "Despojo"
+      ],
+      "personagens": [
+        "Josué",
+        "Moisés",
+        "Povo de Israel"
+      ]
     },
     "15": {
-      "parafrase": "Dali subiu contra os habitantes de Debir. (O nome de Debir antes era Quiriate-Sefer.)",
-      "referencias": [],
-      "comentario": "Calebe continua sua conquista, atacando Debir, uma cidade importante na região.",
-      "temas": ["conquista", "Debir"],
-      "personagens": ["Calebe"]
+      "parafrase": "A ordem do Senhor a Moisés, seu servo, era clara, e Josué cumpriu cada ponto com rigor absoluto; ele não deixou de fazer nada de tudo o que o Senhor havia comandado a Josué através de Moisés.",
+      "referencias": [
+        "Josué 1:2",
+        "Josué 22:5"
+      ],
+      "comentario": "Este é um ponto de encerramento da fase de conquista militar intensa. A ênfase na fidelidade completa ('não deixou de fazer nada') é um selo de aprovação divina sobre a liderança de Josué.",
+      "temas": [
+        "Fidelidade de Josué",
+        "Cumprimento da Ordem",
+        "Integridade na Liderança"
+      ],
+      "personagens": [
+        "Senhor",
+        "Moisés",
+        "Josué"
+      ]
     },
     "16": {
-      "parafrase": "E Calebe disse: 'Darei a minha filha Acsa por mulher àquele que ferir Quiriate-Sefer e a tomar.'",
-      "referencias": [],
-      "comentario": "Calebe oferece sua filha em casamento como recompensa pela conquista de Debir, incentivando a bravura e a liderança.",
-      "temas": ["recompensa", "bravura", "liderança"],
-      "personagens": ["Calebe"]
+      "parafrase": "Neste ponto da campanha, Josué conquistou toda aquela vasta região: as montanhas centrais, todo o Neguebe, a terra de Gósen, as planícies, o vale do Jordão, e todas as encostas íngremes adjacentes, desde a subida para Seir, até Baal-Gade, no vale do Líbano, abaixo do Monte Hermom.",
+      "referencias": [
+        "Josué 10:40-42",
+        "Números 34:1-12"
+      ],
+      "comentario": "Este versículo funciona como um resumo geográfico da fase de conquista do sul e do centro, contrastando com a fase do norte (v. 1-15). Ele mapeia o território dominado: do deserto (Neguebe) ao norte (Hermom).",
+      "temas": [
+        "Mapeamento da Conquista",
+        "Domínio Geográfico",
+        "Extensão Territorial"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "17": {
-      "parafrase": "Otniel, filho de Quenaz, irmão de Calebe, a tomou; e Calebe lhe deu a sua filha Acsa por mulher.",
-      "referencias": ["Juízes 1:13"],
-      "comentario": "Otniel, que mais tarde seria o primeiro juiz de Israel, conquista Debir e se casa com Acsa, demonstrando sua coragem e sua capacidade de liderança.",
-      "temas": ["conquista", "casamento", "coragem", "liderança"],
-      "personagens": ["Otniel", "Acsa"]
+      "parafrase": "Josué marchou contra todos esses reis, capturando-os, e os abateu, reinando sobre eles por um longo tempo, demonstrando o domínio de Israel sobre a terra prometida.",
+      "referencias": [
+        "Josué 11:23",
+        "Juízes 3:11"
+      ],
+      "comentario": "O texto sugere que, embora a grande guerra de aniquilação tivesse terminado, o controle sobre esses reis e territórios perdurou por um tempo considerável, estabelecendo a hegemonia israelita antes da divisão das terras.",
+      "temas": [
+        "Governo Militar",
+        "Período de Paz Armada",
+        "Domínio"
+      ],
+      "personagens": [
+        "Josué",
+        "Reis Derrotados"
+      ]
     },
     "18": {
-      "parafrase": "Quando ela veio a ele, ela o incitou a pedir um campo ao pai dela. E ela desceu do jumento, e Calebe lhe perguntou: 'O que você quer?'",
-      "referencias": [],
-      "comentario": "Acsa, com astúcia, pede a seu pai um campo com fontes de água, demonstrando sua inteligência e sua preocupação com a provisão.",
-      "temas": ["astúcia", "inteligência", "provisão"],
-      "personagens": ["Acsa", "Calebe"]
+      "parafrase": "A terra, que havia estado em guerra contínua, finalmente experimentou um período de trégua e paz por intervenção divina, pois Josué havia aniquilado todos esses poderosos reis que resistiram a Israel.",
+      "referencias": [
+        "Josué 14:15",
+        "Juízes 5:31"
+      ],
+      "comentario": "A paz (*shalom*) é o resultado direto da destruição dos focos de resistência. A terra só pode ser habitada pacificamente quando a ameaça hostil é removida por completo.",
+      "temas": [
+        "Paz Pós-Guerra",
+        "Intervenção Divina",
+        "Consequência da Obediência"
+      ],
+      "personagens": [
+        "Josué",
+        "Israel"
+      ]
     },
     "19": {
-      "parafrase": "Ela lhe respondeu: 'Dê-me uma bênção; pois você me deu uma terra seca, dê-me também fontes de água.' Então, ele lhe deu as fontes superiores e as fontes inferiores.",
-      "referencias": [],
-      "comentario": "Calebe atende ao pedido de sua filha, dando-lhe fontes de água, que eram essenciais para a agricultura na região. Isso demonstra a generosidade de Calebe e a importância da água na Terra Prometida.",
-      "temas": ["generosidade", "fontes de água", "importância da água"],
-      "personagens": ["Acsa", "Calebe"]
+      "parafrase": "Nenhuma cidade fez um tratado de paz com os filhos de Israel, exceto os gibeonitas, que agiram por conta própria e de forma astuta.",
+      "referencias": [
+        "Josué 9:3-6",
+        "2 Samuel 21:2"
+      ],
+      "comentario": "Este versículo faz uma pausa para lembrar a única exceção notável à regra da aniquilação: os gibeonitas (Josué 9). Isso destaca que todas as outras nações optaram pela guerra total em vez da paz com Israel.",
+      "temas": [
+        "Exceção de Gibeom",
+        "Rejeição da Paz",
+        "Escolha da Guerra"
+      ],
+      "personagens": [
+        "Israel",
+        "Gibeonitas"
+      ]
     },
     "20": {
-      "parafrase": "Esta é a herança da tribo dos filhos de Judá, segundo as suas famílias.",
-      "referencias": [],
-      "comentario": "A descrição da herança de Judá é concluída, enfatizando a importância da tribo na história de Israel.",
-      "temas": ["herança de Judá", "importância da tribo"],
-      "personagens": []
+      "parafrase": "Pois o Senhor havia endurecido o coração de todas as outras populações, para que se levantassem em batalha contra Israel, a fim de que fossem completamente destruídos, sem receberem qualquer misericórdia, cumprindo assim o decreto que Deus havia estabelecido por meio de Seu servo Moisés.",
+      "referencias": [
+        "Êxodo 4:21",
+        "Romanos 9:18"
+      ],
+      "comentario": "A ideia do 'endurecimento do coração' (*heqdisha leb*) é teologicamente complexa. Indica que Deus soberanamente permitiu ou orquestrou a obstinação dos inimigos para que Seu plano de julgamento e extermínio fosse plenamente cumprido.",
+      "temas": [
+        "Soberania Divina",
+        "Endurecimento do Coração",
+        "Julgamento de Deus"
+      ],
+      "personagens": [
+        "Senhor",
+        "Moisés"
+      ]
     },
     "21": {
-      "parafrase": "As cidades na extremidade da tribo dos filhos de Judá, para o lado do Neguebe, em direção à fronteira de Edom, foram: Cabzeel, Éder, Jagur,",
-      "referencias": [],
-      "comentario": "A lista das cidades de Judá começa com as cidades do Neguebe, na fronteira com Edom.",
-      "temas": ["cidades de Judá", "Neguebe", "fronteira"],
-      "personagens": []
+      "parafrase": "Neste período, Josué avançou e exterminou os anaquins, que eram descendentes dos gigantes, das regiões montanhosas de Judá, de Hebrom, de Debi, e de todas as colinas de Judá, destruindo-os juntamente com suas cidades.",
+      "referencias": [
+        "Números 13:22",
+        "Deuteronômio 9:2"
+      ],
+      "comentario": "Os anaquins ('os gigantes') eram um terror ancestral para Israel. Sua remoção final é crucial para a segurança da herança de Judá. Hebrom era um centro populacional deles.",
+      "temas": [
+        "Remoção dos Gigantes",
+        "Território de Judá",
+        "Aniquilação dos Anaquins"
+      ],
+      "personagens": [
+        "Josué",
+        "Anaquins"
+      ]
     },
     "22": {
-      "parafrase": "Quiná, Dimona, Adadá,",
-      "referencias": [],
-      "comentario": "A lista de cidades continua.",
-      "temas": ["cidades"],
-      "personagens": []
+      "parafrase": "Nenhuma parte dos anaquins permaneceu nas terras de Israel; apenas em Gaza, em Gate e em Asdode é que restaram alguns remanescentes, que sobreviveram, talvez por estarem fora da área imediatamente conquistada sob o comando de Josué.",
+      "referencias": [
+        "Juízes 1:18",
+        "1 Samuel 17:51"
+      ],
+      "comentario": "A menção de Gaza, Gate e Asdode (cidades filisteias) sugere que a limpeza total dos anaquins dependia da futura subjugação daquela costa ocidental, que não foi finalizada nesta campanha.",
+      "temas": [
+        "Remanescentes",
+        "Fronteiras da Conquista",
+        "Filisteus"
+      ],
+      "personagens": [
+        "Anaquins"
+      ]
     },
     "23": {
-      "parafrase": "Quedes, Hazor-Itnã, Zife,",
-      "referencias": [],
-      "comentario": "A lista de cidades continua.",
-      "temas": ["cidades"],
-      "personagens": []
+      "parafrase": "Assim, Josué tomou toda a terra, conforme tudo o que o Senhor havia falado a Moisés, e a deu como herança aos filhos de Israel, dividida de acordo com as porções estabelecidas para cada tribo.",
+      "referencias": [
+        "Josué 13:7",
+        "Gênesis 48:4-6"
+      ],
+      "comentario": "Este é o fechamento da fase militar e a transição para a fase de distribuição da terra. A posse da terra é vista como o cumprimento da promessa divina feita aos patriarcas.",
+      "temas": [
+        "Herança da Terra",
+        "Distribuição Tribal",
+        "Fidelidade à Promessa"
+      ],
+      "personagens": [
+        "Josué",
+        "Senhor",
+        "Moisés",
+        "Israel"
+      ]
     },
     "24": {
-      "parafrase": "Telém, Bealote, Hazor-Hadatá,",
-      "referencias": [],
-      "comentario": "A lista de cidades continua.",
-      "temas": ["cidades"],
-      "personagens": []
+      "parafrase": "A conquista foi finalizada. Josué havia tomado posse de tudo, exatamente como o Senhor havia ordenado, e entregou a terra para ser herdada pelas tribos de Israel, e assim cessaram os trabalhos de guerra.",
+      "referencias": [
+        "Josué 14:10",
+        "Salmos 44:3"
+      ],
+      "comentario": "O capítulo termina confirmando a conclusão da guerra de conquista principal. A posse da terra é o objetivo alcançado, um marco histórico de Israel.",
+      "temas": [
+        "Conclusão da Conquista",
+        "Posse da Terra",
+        "Fim das Hostilidades"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "25": {
-      "parafrase": "Queriote-Hesrom (que é Hazor), Amã,",
-      "referencias": [],
-      "comentario": "A lista de cidades continua.",
-      "temas": ["cidades"],
-      "personagens": []
+      "parafrase": "A paz finalmente se estabeleceu na terra, e ela permaneceu em sossego, pois o povo de Israel havia finalmente conseguido eliminar todos os grandes inimigos que antes habitavam ali, dando a Josué e a Israel um tempo para se estabelecerem em sua nova pátria abençoada. 🙏",
+      "referencias": [
+        "Josué 21:44",
+        "Hebreus 4:8"
+      ],
+      "comentario": "O versículo finaliza o ciclo da conquista com a concessão da 'paz' ou 'descanso' (*menuchah*). Este descanso, no entanto, é condicional à fidelidade contínua à aliança.",
+      "temas": [
+        "Descanso e Paz",
+        "Estabelecimento",
+        "Recompensa da Obediência"
+      ],
+      "personagens": [
+        "Israel",
+        "Josué"
+      ]
     },
     "26": {
-      "parafrase": "Semá, Moladá,",
-      "referencias": [],
-      "comentario": "A lista de cidades continua.",
-      "temas": ["cidades"],
-      "personagens": []
+      "parafrase": "E, assim que a última gota de vida se esvaiu deles, Josué ordenou que fossem pendurados em cinco árvores, como um espetáculo sombrio e solene, onde permaneceram expostos até o pôr do sol. À medida que a noite caía, a ordem foi dada para que seus corpos fossem retirados e lançados na caverna onde haviam se escondido, e então a entrada da caverna foi selada com pedras pesadas, um marco final para aquele ato de justiça e advertência.",
+      "referencias": [
+        "Deuteronômio 21:22-23",
+        "Josué 10:27"
+      ],
+      "comentario": "A execução sumária e a exposição pública dos corpos (pendurados até o anoitecer) seguiam o preceito de Deuteronômio 21:22-23, estabelecendo um precedente claro contra a traição e a rebelião contra Deus e Sua aliança. O sepultamento na caverna e o selamento final representam a anulação total da ameaça que esses cinco reis representavam.",
+      "temas": [
+        "Justiça de Deus",
+        "Execução",
+        "Simbolismo da Exposição"
+      ],
+      "personagens": [
+        "Josué",
+        "Os Cinco Reis"
+      ]
     },
     "27": {
-      "parafrase": "Hazar-Gada, Hesmom, Bete-Pelete,",
-      "referencias": [],
-      "comentario": "A lista de cidades continua.",
-      "temas": ["cidades"],
-      "personagens": []
+      "parafrase": "Quando o sol finalmente se pôs, os homens de Josué obedeceram prontamente à ordem: removeram os cinco corpos pendurados das árvores e os atiraram dentro da mesma caverna onde os reis haviam tentado se esconder da ira de Deus e do povo de Israel. Em seguida, ergueram uma enorme pilha de pedras sobre a entrada da caverna, um monumento silencioso e eterno àquele dia de vitória e julgamento.",
+      "referencias": [
+        "Números 14:15",
+        "Josué 10:16"
+      ],
+      "comentario": "O ato de colocar as pedras sobre a caverna cria um túmulo selado, o que é um sinal de encerramento definitivo. Esta sepultura não é uma honra, mas um selamento da vergonha e da derrota dos inimigos de Israel. O monumento de pedras serve como um lembrete físico e duradouro da fidelidade de Deus em cumprir Sua promessa de entregar a terra.",
+      "temas": [
+        "Julgamento Final",
+        "Memória e Advertência",
+        "Conclusão da Batalha"
+      ],
+      "personagens": [
+        "Josué",
+        "Homens de Josué"
+      ]
     },
     "28": {
-      "parafrase": "Hazar-Sual, Berseba e Biziotiá,",
-      "referencias": [],
-      "comentario": "A lista de cidades continua.",
-      "temas": ["cidades"],
-      "personagens": []
+      "parafrase": "Naquele mesmo dia, Josué avançou e destruiu completamente Makkedá. Ele e seus guerreiros passaram a espada pela cidade e por todos os seus habitantes, sem deixar um único sobrevivente, aplicando o *herem* — a destruição total — conforme o mandamento recebido.",
+      "referencias": [
+        "Josué 6:21",
+        "Levítico 27:28"
+      ],
+      "comentario": "Makkedá é a primeira cidade conquistada após a derrota dos cinco reis. A destruição completa (*herem*) era uma prática religiosa e militar em Israel, reservada para as cidades que se opunham diretamente ao plano de Deus para a posse da terra. É um ato de purificação territorial.",
+      "temas": [
+        "Destruição Total (Herem)",
+        "Consagração da Terra",
+        "Obediência Militar"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "29": {
-      "parafrase": "Baalá, Iim, Ezem,",
-      "referencias": [],
-      "comentario": "A lista de cidades continua.",
-      "temas": ["cidades"],
-      "personagens": []
+      "parafrase": "Em seguida, Josué e todo o exército de Israel deixaram Makkedá e marcharam para atacar Libna. Essa cidade também se rebelou contra o domínio israelita.",
+      "referencias": [
+        "Josué 10:3",
+        "2 Reis 19:8"
+      ],
+      "comentario": "A continuidade imediata da campanha demonstra a rapidez com que Israel prosseguiu, sem descanso, para consolidar as vitórias iniciais e subjugar os focos de resistência restantes na região sul.",
+      "temas": [
+        "Consolidação Territorial",
+        "Campanha Militar"
+      ],
+      "personagens": [
+        "Josué",
+        "Exército de Israel"
+      ]
     },
     "30": {
-      "parafrase": "Eltolad, Quesil, Hormá,",
-      "referencias": [],
-      "comentario": "A lista de cidades continua.",
-      "temas": ["cidades"],
-      "personagens": []
+      "parafrase": "E assim como fizeram com Makkedá, Josué e os israelitas cercaram Libna e a atacaram pela espada. A cidade inteira foi varrida, e todos os seus moradores foram mortos, sem deixar sobreviventes.",
+      "referencias": [
+        "Josué 6:17",
+        "Juízes 1:17"
+      ],
+      "comentario": "O padrão de ataque, cerco e destruição total se repete. Libna, tendo sido uma cidade dos levitas (embora a tribo não estivesse presente ainda), tinha uma importância teológica, mas a resistência militar exigiu a mesma resposta punitiva.",
+      "temas": [
+        "Ação Militar Decisiva",
+        "Fidelidade à Ordem Divina"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "31": {
-      "parafrase": "Ziclague, Madmana, Sansana,",
-      "referencias": [],
-      "comentario": "A lista de cidades continua.",
-      "temas": ["cidades"],
-      "personagens": []
+      "parafrase": "Depois de subjugar Libna, Josué e os israelitas moveram suas tendas e exércitos para o próximo alvo: Laquis, que era uma cidade fortificada e estrategicamente importante.",
+      "referencias": [
+        "Josué 10:32",
+        "2 Reis 18:14"
+      ],
+      "comentario": "Laquis era uma cidade poderosa, como evidenciado por seu papel na coalizão dos reis amorreus. Seu cerco e queda seriam um golpe significativo no moral dos cananeus restantes.",
+      "temas": [
+        "Estratégia Militar",
+        "Batalhas de Cerco"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "32": {
-      "parafrase": "Lebaote, Silim, Aim e Rimom. O total de cidades foi de vinte e nove, com as suas aldeias.",
-      "referencias": [],
-      "comentario": "A lista de cidades do Neguebe é concluída.",
-      "temas": ["cidades do Neguebe", "total"],
-      "personagens": []
+      "parafrase": "No segundo dia do cerco, Josué viu que Deus havia entregado Laquis em suas mãos. E com a mesma ferocidade, a espada foi usada contra a cidade e todos os que nela habitavam, repetindo o mesmo destino que Libna havia encontrado.",
+      "referencias": [
+        "Josué 1:3",
+        "Salmos 44:3"
+      ],
+      "comentario": "A entrega rápida da cidade (no segundo dia) é atribuída diretamente à intervenção divina ('Deus a entregou'). A conquista não é apenas força militar, mas cumprimento da promessa de Deus de pavimentar o caminho.",
+      "temas": [
+        "Intervenção Divina",
+        "Vitória Rápida"
+      ],
+      "personagens": [
+        "Josué",
+        "Deus"
+      ]
     },
     "33": {
-      "parafrase": "Na Sefelá: Estaol, Zorá, Asná,",
-      "referencias": [],
-      "comentario": "A lista de cidades de Judá na Sefelá (planície ocidental) começa.",
-      "temas": ["cidades da Sefelá"],
-      "personagens": []
+      "parafrase": "Enquanto isso, Horã, rei de Gezer, percebeu o desastre que havia se abatido sobre os amorreus do sul e decidiu intervir para tentar ajudar Laquis, enviando seu próprio exército. No entanto, Josué e Israel o enfrentaram antes que pudesse causar qualquer alívio.",
+      "referencias": [
+        "Josué 16:10",
+        "Gênesis 9:25"
+      ],
+      "comentario": "Horã de Gezer representa a última tentativa coordenada de resistência cananeia na região. Gezer era uma cidade proeminente, e o rei Horã tentou romper a campanha de Israel. A rapidez da resposta de Josué impede a unificação das forças inimigas.",
+      "temas": [
+        "Resistência Cananeia",
+        "Intervenção Imediata"
+      ],
+      "personagens": [
+        "Horã",
+        "Rei de Gezer",
+        "Josué"
+      ]
     },
     "34": {
-      "parafrase": "Zanoa, En-Ganim, Tapua, Enam,",
-      "referencias": [],
-      "comentario": "A lista de cidades continua.",
-      "temas": ["cidades"],
-      "personagens": []
+      "parafrase": "Josué o derrotou completamente, junto com todo o seu povo, de tal maneira que nenhum habitante de Gezer sobreviveu para contar a história, assim como aconteceu com as cidades vizinhas.",
+      "referencias": [
+        "1 Samuel 15:8",
+        "Josué 11:20"
+      ],
+      "comentario": "A aniquilação total de Gezer é crucial. O texto enfatiza a ausência total de sobreviventes. Historicamente, Gezer era uma fortaleza significativa; sua queda eliminou um grande obstáculo ao domínio israelita na planície costeira.",
+      "temas": [
+        "Extermínio Completo",
+        "Eliminação de Fortalezas"
+      ],
+      "personagens": [
+        "Josué",
+        "Horã"
+      ]
     },
     "35": {
-      "parafrase": "Jarmute, Adulão, Socó, Azeca,",
-      "referencias": [],
-      "comentario": "A lista de cidades continua.",
-      "temas": ["cidades"],
-      "personagens": []
+      "parafrase": "De Gezer, a marcha continuou. Josué, o exército e o saque voltaram-se então para a próxima cidade fortificada, Eglom. Mais uma vez, o cerco foi montado e a cidade foi submetida ao mesmo destino fatal.",
+      "referencias": [
+        "Josué 10:34-35",
+        "Juízes 3:15"
+      ],
+      "comentario": "Eglom já havia sido conquistada e destruída por Josué anteriormente (em Josué 10), mas aparentemente estava sendo reocupada ou era um foco de resistência remanescente que precisava ser erradicado para garantir a segurança da retaguarda de Israel.",
+      "temas": [
+        "Recaptura",
+        "Consistência na Guerra"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "36": {
-      "parafrase": "Saaraim, Aditaim, Gederá e Gederotaim. Catorze cidades com as suas aldeias.",
-      "referencias": [],
-      "comentario": "A lista de cidades da Sefelá é concluída.",
-      "temas": ["cidades da Sefelá", "total"],
-      "personagens": []
+      "parafrase": "E, após a conquista de Eglom, Josué levou todo o seu povo para Hebrom, uma cidade de grande importância histórica e simbólica, e a sitiou.",
+      "referencias": [
+        "Gênesis 14:13",
+        "Josué 14:13"
+      ],
+      "comentario": "Hebrom (ou Quiriate-Arba) era notória por ser o local onde Abraão, Isaque e Jacó haviam sido enterrados. Era uma cidade forte e havia sido governada por um rei que fez parte da aliança contra Israel. Sua captura significava a subjugação de um centro de poder antigo.",
+      "temas": [
+        "Conquista de Cidades Patriarcais",
+        "Cerco Estratégico"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "37": {
-      "parafrase": "Zenã, Hadasa, Migdal-Gade,",
-      "referencias": [],
-      "comentario": "A lista de cidades de Judá na região montanhosa começa.",
-      "temas": ["cidades da região montanhosa"],
-      "personagens": []
+      "parafrase": "Atingindo Hebrom, Josué fez com ela o que fizera com as outras cidades: atacou-a com a espada, matando o rei e todos os seus habitantes, sem poupar uma única alma.",
+      "referencias": [
+        "Josué 10:37",
+        "1 Reis 1:48"
+      ],
+      "comentario": "A destruição de Hebrom reforça o ponto de que nenhuma cidade, por mais sagrada ou importante que fosse (como era para os patriarcas), estaria isenta do juízo divino se se opusesse à posse da terra por Israel.",
+      "temas": [
+        "Julgamento Inflexível",
+        "Poder de Josué"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "38": {
-      "parafrase": "Dileã, Mizpá, Joceteel,",
-      "referencias": [],
-      "comentario": "A lista de cidades continua.",
-      "temas": ["cidades"],
-      "personagens": []
+      "parafrase": "Finalmente, o foco da campanha mudou para Debir, que antes era conhecida pelo nome de Quiriate-Sefer, um lugar de grande valor estratégico e talvez cultural. Josué e todo o exército avançaram para cercar e conquistar esta última cidade daquela fase da guerra.",
+      "referencias": [
+        "Juízes 1:11-15",
+        "Gênesis 49:29"
+      ],
+      "comentario": "A mudança de nome de Quiriate-Sefer ('Cidade dos Livros' ou 'Cidade da Escritura') para Debir ('Local de Acesso' ou 'Oráculo') sugere uma transformação de significado. O ataque a Debir encerra a campanha sulista iniciada em resposta à aliança de Gibeom.",
+      "temas": [
+        "Nomenclatura e Significado",
+        "Encerramento da Fase Sul"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "39": {
-      "parafrase": "Laquis, Bozcate, Eglom,",
-      "referencias": [],
-      "comentario": "A lista de cidades continua.",
-      "temas": ["cidades"],
-      "personagens": []
+      "parafrase": "Josué a conquistou, assim como a todos os seus habitantes. O rei de Debir, juntamente com seu povo, foi completamente exterminado pela espada de Israel, sem que restasse um único sobrevivente vivo.",
+      "referencias": [
+        "Josué 11:14",
+        "Deuteronômio 3:3"
+      ],
+      "comentario": "Com a queda de Debir, todo o sul de Canaã, atacado em resposta direta à traição dos gibeonitas, estava sob controle israelita. A repetição da fórmula de destruição sublinha a completude da vitória divina alcançada através de Josué.",
+      "temas": [
+        "Conclusão da Guerra do Sul",
+        "Aniquilação Total"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "40": {
-      "parafrase": "Cabom, Laamás, Quitlis,",
-      "referencias": [],
-      "comentario": "A lista de cidades continua.",
-      "temas": ["cidades"],
-      "personagens": []
+      "parafrase": "Desta forma, Josué completou a conquista de toda a terra do sul, subjugando as regiões montanhosas, o deserto árido, os planaltos férteis e as encostas íngremes, desde o Mar Mediterrâneo até o deserto da Arábia, seguindo fielmente todas as instruções que o Senhor, Deus de Israel, havia dado a ele.",
+      "referencias": [
+        "Josué 1:4",
+        "Salmos 135:11-12"
+      ],
+      "comentario": "Este versículo é um resumo triunfal da primeira grande fase da conquista. A descrição geográfica abrange toda a área prometida, do Ocidente (o Grande Mar) ao Oriente (o deserto). O sucesso é creditado integralmente à obediência de Josué à lei de Deus.",
+      "temas": [
+        "Extensão da Conquista",
+        "Fidelidade à Promessa",
+        "Abrangência Geográfica"
+      ],
+      "personagens": [
+        "Josué",
+        "Senhor"
+      ]
     },
     "41": {
-      "parafrase": "Gederote, Bete-Dagom, Naamá e Maquedá. Dezesseis cidades com as suas aldeias.",
-      "referencias": [],
-      "comentario": "A lista de cidades da região montanhosa é concluída.",
-      "temas": ["cidades da região montanhosa", "total"],
-      "personagens": []
+      "parafrase": "A campanha de Josué se estendeu, avançando para além das cidades que já haviam sido tomadas, alcançando Kadesh-Barnea, a região das fronteiras sulistas, e toda a terra de Gósen, até chegar a Biblos, na costa.",
+      "referencias": [
+        "Gênesis 12:5",
+        "Números 32:39"
+      ],
+      "comentario": "Este versículo descreve a extensão máxima da influência israelita na área sul, incluindo locais como Kadesh-Barnea (importante para o período do Êxodo) e a região de Gósen. A menção a 'Biblos' (que pode ser uma transcrição de uma cidade costeira vizinha ou a menção de limites mais amplos do que apenas Canaã estrita) indica o limite geográfico da submissão de todos os amorreus.",
+      "temas": [
+        "Limites da Promessa",
+        "Geografia da Conquista"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "42": {
-      "parafrase": "Libna, Etér, Asã,",
-      "referencias": [],
-      "comentario": "A lista de cidades de Judá na região montanhosa continua.",
-      "temas": ["cidades da região montanhosa"],
-      "personagens": []
+      "parafrase": "Toda esta vasta região, que incluía os reis que haviam sido enganados pelos gibeonitas e aqueles que foram destruídos na grande batalha do sol, foi conquistada por Josué em uma única e gloriosa campanha militar.",
+      "referencias": [
+        "Josué 10:40",
+        "Deuteronômio 7:1"
+      ],
+      "comentario": "Este versículo serve como um lembrete de que todas as vitórias mencionadas — a queda dos cinco reis e a subsequente destruição das cidades que os apoiavam — foram concluídas rapidamente ('de uma vez'). Isso realça a intervenção sobrenatural de Deus na preservação do sol (Josué 10) e na rapidez da subsequente limpeza.",
+      "temas": [
+        "Unidade da Vitória",
+        "Ação Coordenada"
+      ],
+      "personagens": [
+        "Josué",
+        "Os Cinco Reis"
+      ]
     },
     "43": {
-      "parafrase": "Iftá, Asná, Nezibe,",
-      "referencias": [],
-      "comentario": "A lista de cidades continua.",
-      "temas": ["cidades"],
-      "personagens": []
+      "parafrase": "Finalmente, Josué retornou com seu exército vitorioso para o acampamento principal em Gilgal, levando consigo todos os despojos e o povo, celebrando a posse da terra prometida.",
+      "referencias": [
+        "Josué 14:6",
+        "Josué 18:1"
+      ],
+      "comentario": "O retorno a Gilgal marca o fim da fase ativa de campo de batalha. Gilgal serviu como centro administrativo e espiritual durante a conquista inicial. Este retorno sinaliza a transição da guerra para a fase de distribuição e assentamento.",
+      "temas": [
+        "Retorno ao Centro",
+        "Fim da Campanha Sulista"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "44": {
-      "parafrase": "Queila, Aczibe e Maressa. Nove cidades com as suas aldeias.",
-      "referencias": [],
-      "comentario": "A lista de cidades da região montanhosa é concluída.",
-      "temas": ["cidades da região montanhosa", "total"],
-      "personagens": []
+      "parafrase": "E Josué, então, deu a terra aos israelitas conforme a distribuição feita entre as tribos, conforme o Senhor havia ordenado a Moisés. A promessa estava sendo selada com a posse física: a herança da terra prometida era agora uma realidade sob o comando de Josué.",
+      "referencias": [
+        "Êxodo 34:10",
+        "Números 34:13"
+      ],
+      "comentario": "Este versículo marca o cumprimento formal da divisão das terras de Canaã, conforme a metodologia estabelecida anteriormente sob a liderança de Moisés (Números 34). A palavra chave é 'conforme a ordem' (Hebraico: 'ka'asher tsivah'), indicando a fidelidade de Josué em executar o plano divino, e não um plano político próprio. A posse não era arbitrária, mas divinamente mandatada.",
+      "temas": [
+        "Cumprimento da Promessa",
+        "Obediência a Deus",
+        "Distribuição da Herança"
+      ],
+      "personagens": [
+        "Josué",
+        "Moisés"
+      ]
     },
     "45": {
-      "parafrase": "Ecrom, com as suas vilas e as suas aldeias.",
-      "referencias": [],
-      "comentario": "A lista de cidades de Judá na região da Filístia começa.",
-      "temas": ["cidades da Filístia"],
+      "parafrase": "Tudo o que o Senhor havia prometido falar à Casa de Israel se concretizou; cada detalhe daquela bênção divina se tornou um fato palpável no território conquistado. Nada do que Deus havia dito ficou por cumprir. 🌟",
+      "referencias": [
+        "Josué 21:45",
+        "Hebreus 4:1"
+      ],
+      "comentario": "Este é um ponto de clímax teológico. O texto enfatiza a 'fidelidade' (Hebraico: 'ne'emanah') das palavras de Yahweh. O autor busca reforçar a ideia de que a palavra de Deus é inabalável e infalível. A totalidade ('kol') da promessa foi entregue, servindo como testemunho da confiabilidade de Deus para as gerações futuras.",
+      "temas": [
+        "Fidelidade de Deus",
+        "Inerrância das Escrituras",
+        "Totalidade da Conquista"
+      ],
       "personagens": []
     },
     "46": {
-      "parafrase": "Desde Ecrom até o mar, tudo o que está ao lado de Asdode, com as suas aldeias.",
-      "referencias": [],
-      "comentario": "A fronteira ocidental de Judá se estende até Asdode, uma cidade filisteia.",
-      "temas": ["fronteira ocidental", "Asdode"],
-      "personagens": []
+      "parafrase": "Assim, o Senhor entregou-lhes a terra que havia jurado dar aos seus antepassados, e os israelitas se estabeleceram ali, finalmente pisando o solo prometido, o lugar de descanso prometido. Eles estavam em casa, sob a proteção divina.",
+      "referencias": [
+        "Gênesis 12:7",
+        "Deuteronômio 1:8"
+      ],
+      "comentario": "Este versículo ecoa as alianças feitas com os patriarcas (Abraão, Isaque e Jacó). A terra não é apenas uma conquista militar, mas a realização de um 'juramento' (Hebraico: 'nishbatah'). O conceito de 'descanso' (Hebraico: 'menuchah') aqui aponta para a paz e segurança que acompanham o cumprimento da aliança, um tema recorrente no Pentateuco e nos Salmos.",
+      "temas": [
+        "Aliança Patriarcal",
+        "Descanso e Paz",
+        "Terra Prometida"
+      ],
+      "personagens": [
+        "Antepassados"
+      ]
     },
     "47": {
-      "parafrase": "Asdode, com as suas vilas e as suas aldeias; Gaza, com as suas vilas e as suas aldeias, até o ribeiro do Egito e o mar Grande com a sua costa.",
-      "referencias": [],
-      "comentario": "A lista de cidades filisteias continua, incluindo Gaza e se estendendo até o ribeiro do Egito.",
-      "temas": ["cidades filisteias", "Gaza", "ribeiro do Egito"],
+      "parafrase": "O Senhor, então, conforme prometido, estendeu Seu poder sobre os limites definidos, entregando-lhes cada porção. Contudo, é importante notar que, embora a distribuição estivesse completa, a posse total e a expulsão completa dos inimigos ainda dependia da fidelidade contínua deles em manter a fronteira. 🗺️",
+      "referencias": [
+        "Salmos 78:55",
+        "Josué 13:1"
+      ],
+      "comentario": "A estrutura da posse era completa ('kalkulah'), mas o versículo sutilmente aponta para a distinção entre a posse legal/distribuída e a posse efetiva/conquistada (o que será abordado nos capítulos seguintes, como em Josué 13). O poder (Hebraico: 'yad YHWH' - A Mão do Senhor) é o agente da entrega territorial.",
+      "temas": [
+        "Alcance do Poder de Deus",
+        "Posse Legal vs. Posse Efetiva",
+        "Território de Israel"
+      ],
       "personagens": []
     },
     "48": {
-      "parafrase": "Na região montanhosa: Samir, Jattir, Socó,",
-      "referencias": [],
-      "comentario": "A lista de cidades de Judá na região montanhosa continua.",
-      "temas": ["cidades da região montanhosa"],
-      "personagens": []
+      "parafrase": "E a glória daquele momento se refletia na liderança de Josué, que cumpriu seu papel de servo fiel. Ele, assim como Moisés antes dele, garantiu que cada clã recebesse a porção de terra que lhe era devida por sorteio e ordem divina, completando a transferência oficial da propriedade.",
+      "referencias": [
+        "Êxodo 40:16",
+        "Deuteronômio 32:44"
+      ],
+      "comentario": "Este versículo serve como um breve epitáfio da missão de Josué em relação à divisão da terra. Ele é honrado por ser um 'servo do Senhor' (Hebraico: 'eved YHWH'), um título reservado aos grandes líderes que obedecem incondicionalmente. Sua liderança é comparada diretamente à de Moisés, validando seu sucessor.",
+      "temas": [
+        "Liderança de Josué",
+        "Servidão a Deus",
+        "Sucessão de Liderança"
+      ],
+      "personagens": [
+        "Josué",
+        "Moisés"
+      ]
     },
     "49": {
-      "parafrase": "Dã, Quiriate-Sana (que é Debir),",
-      "referencias": [],
-      "comentario": "A lista de cidades continua.",
-      "temas": ["cidades"],
-      "personagens": []
+      "parafrase": "Após essa grande tarefa de divisão ser finalizada, os filhos de Israel se reuniram para honrar a Deus e, finalmente, Josué recebeu sua própria herança. Ele foi para a cidade que lhe havia sido designada, o lugar que era especificamente dele por direito, dentro do território de Israel.",
+      "referencias": [
+        "Josué 24:30",
+        "Juízes 2:9"
+      ],
+      "comentario": "O ponto crucial aqui é que Josué recebe sua porção 'depois' de terminar a distribuição dos outros. Isso demonstra a integridade de seu caráter administrativo e espiritual. A cidade que ele recebe é Timnate-Sera (mencionada em Josué 24:30). Ele não se serviu primeiro, mas esperou o cumprimento da promessa para todos antes de tomar a sua.",
+      "temas": [
+        "Integridade Administrativa",
+        "Herança Pessoal",
+        "Ordem da Distribuição"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "50": {
-      "parafrase": "Anabe, Estemó, Anim,",
-      "referencias": [],
-      "comentario": "A lista de cidades continua.",
-      "temas": ["cidades"],
-      "personagens": []
+      "parafrase": "E assim, conforme a lei estabelecida, Josué tomou posse de seu quinhão: a cidade de Timnate-Sera, que ficava na região montanhosa da tribo de Efraim. E lá ele construiu sua casa e viveu seus últimos dias, sendo honrado entre o seu povo, completando a obra que Deus havia confiado a ele. 🙏",
+      "referencias": [
+        "Juízes 2:8",
+        "Filipenses 2:16"
+      ],
+      "comentario": "Este versículo fecha o ciclo da conquista territorial e estabelece o fim prático da liderança ativa de Josué. O local, Timnate-Sera ('porção que sobra' ou 'porção de descanso/terminação'), simboliza o resultado final de sua dedicação. Ele recebe sua recompensa merecida após uma vida de serviço árduo e fiel ao chamado divino.",
+      "temas": [
+        "Recompensa Merecida",
+        "Fim do Ministério",
+        "Estabelecimento da Tribo de Efraim"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "51": {
-      "parafrase": "Gósen, Holom e Giló. Onze cidades com as suas aldeias.",
-      "referencias": [],
-      "comentario": "A lista de cidades da região montanhosa é concluída.",
-      "temas": ["cidades da região montanhosa", "total"],
-      "personagens": []
+      "parafrase": "Então, Josué convocou os líderes das tribos de Israel para apresentá-los a Deus no Monte Ebal, o lugar da maldição anterior, mas agora santificado pela aliança. Ali, ele lhes mostrou o território que havia sido prometido e distribuído, confirmando que a obra da conquista, embora grandiosa, era apenas o começo da posse total.",
+      "referencias": [
+        "Deuteronômio 27:12",
+        "Josué 8:30"
+      ],
+      "comentario": "O versículo 51 marca a transição da conquista militar para a consolidação territorial e religiosa. O Monte Ebal, local da maldição inicial (Dt 27), é agora o palco da afirmação da bênção e da posse da Terra, um ato simbólico poderoso. Josué chama as 'cabeças' ou 'chefes' (plural de 'rosh' em hebraico) das famílias e clãs, mostrando a organização social necessária para o registro oficial da herança.",
+      "temas": [
+        "Organização Tribal",
+        "Consagração Territorial",
+        "Confirmação da Aliança"
+      ],
+      "personagens": [
+        "Josué",
+        "Líderes das Tribos"
+      ]
     },
     "52": {
-      "parafrase": "Arabe, Dumá, Esã,",
-      "referencias": [],
-      "comentario": "A lista de cidades de Judá na região montanhosa continua.",
-      "temas": ["cidades da região montanhosa"],
-      "personagens": []
+      "parafrase": "Josué lhes disse: 'Não se iludam com o que conquistaram até agora! Não deixem que a facilidade ou a força de suas armas os levem a ignorar o que ainda resta a ser feito, ou a descansar sobre os louros da vitória. Se vocês se recusarem a marchar e a expulsar os habitantes restantes da terra, eles se tornarão espinhos fincados em seus olhos e dor aguda nas suas costelas, atormentando-os constantemente.'",
+      "referencias": [
+        "Juízes 2:3",
+        "Números 33:55"
+      ],
+      "comentario": "Esta é uma advertência crucial do tipo 'mantenha o foco'. Josué usa imagens vívidas ('espinho no olho', 'agulha na costela') que denotam dor persistente e irritante. Em hebraico, a ideia é de um incômodo constante, algo que impede a paz e a plena fruição da herança. A inação é tão perigosa quanto a derrota militar.",
+      "temas": [
+        "Advertência contra a Ociosidade",
+        "Perigo da Infiltração",
+        "Fidelidade Contínua"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "53": {
-      "parafrase": "Janum, Bete-Tapua, Afeca,",
-      "referencias": [],
-      "comentario": "A lista de cidades continua.",
-      "temas": ["cidades"],
-      "personagens": []
+      "parafrase": "Ele continua alertando: 'E o povo que restar, os cananeus, os hititas, os amorreus, os ferezeus, os heveus e os jebuseus, aqueles que vocês deveriam ter aniquilado completamente, eles se tornarão seus vizinhos, e suas práticas religiosas profanas irão contaminar a todos nós.'",
+      "referencias": [
+        "Êxodo 34:12",
+        "Deuteronômio 7:1"
+      ],
+      "comentario": "Aqui, Josué lista nominalmente os seis principais povos cananeus remanescentes, relembrando a lista das nações a serem exterminadas (Êx 3:8). O perigo não é apenas físico, mas sobretudo espiritual. A 'contaminação' (no sentido de idolatria e desobediência) é o resultado direto da convivência com o inimigo não expulso.",
+      "temas": [
+        "Risco de Idolatria",
+        "Presença Cananeia",
+        "Pureza Religiosa"
+      ],
+      "personagens": [
+        "Cananeus",
+        "Hititas",
+        "Amorreus",
+        "Ferezeus",
+        "Heveus",
+        "Jebuseus"
+      ]
     },
     "54": {
-      "parafrase": "Hunta, Quiriate-Arba (que é Hebrom) e Zior. Nove cidades com as suas aldeias.",
-      "referencias": [],
-      "comentario": "A lista de cidades da região montanhosa é concluída, incluindo Hebrom, a herança de Calebe.",
-      "temas": ["cidades da região montanhosa", "Hebrom", "total"],
-      "personagens": []
+      "parafrase": "Ao ouvir estas palavras duras, mas necessárias, todo o povo de Israel se prostrou em profunda reverência e temor, reconhecendo a seriedade da missão de Deus e a verdade dura nas palavras de Josué. A humilhação e o reconhecimento tomaram conta da assembleia.",
+      "referencias": [
+        "Josué 7:6",
+        "1 Reis 18:39"
+      ],
+      "comentario": "A reação do povo é imediata e dramática: prostração (humildade extrema). Isso contrasta com a soberba que Josué acabou de repreender. O 'temor' aqui não é apenas medo, mas um profundo respeito pela autoridade divina manifestada através de Josué.",
+      "temas": [
+        "Arrependimento",
+        "Reverência a Deus",
+        "Humildade"
+      ],
+      "personagens": [
+        "Povo de Israel"
+      ]
     },
     "55": {
-      "parafrase": "Maom, Carmelo, Zife, Jutá,",
-      "referencias": [],
-      "comentario": "A lista de cidades de Judá na região montanhosa continua.",
-      "temas": ["cidades da região montanhosa"],
-      "personagens": []
+      "parafrase": "Josué, então, ergueu-se e, voltando-se para a multidão, confirmou o pacto com eles, falando com a autoridade que vinha do Senhor: 'Vocês viram com seus próprios olhos tudo o que o Senhor tem feito por vocês, libertando-os e dando-lhes esta terra.'",
+      "referencias": [
+        "Josué 23:3",
+        "Salmos 105:5"
+      ],
+      "comentario": "Este versículo reitera a base da fidelidade: a memória das obras passadas de Deus. Josué está estabelecendo um testemunho vivo, ancorado na experiência da libertação (o Êxodo) e na conquista recente. A visão ocular ('olhos') é a prova irrefutável.",
+      "temas": [
+        "Memória das Obras de Deus",
+        "Testemunho Visual",
+        "Estabelecimento de Aliança"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "56": {
-      "parafrase": "Jezreel, Jocdeão, Zanoa,",
-      "referencias": [],
-      "comentario": "A lista de cidades continua.",
-      "temas": ["cidades"],
-      "personagens": []
+      "parafrase": "Ele então os desafiou com uma escolha definitiva: 'Agora, que fique bem claro: sejam rigorosamente fiéis ao Senhor, cumprindo cada palavra de Sua lei que Moisés lhes transmitiu, ou enfrentem as consequências de quebrar este relacionamento sagrado.'",
+      "referencias": [
+        "Deuteronômio 11:26-28",
+        "Josué 24:14"
+      ],
+      "comentario": "Este é o dilema final: vida ou morte, bênção ou maldição. A fidelidade ('firmemente seguir') é posta contra a infidelidade. Josué faz eco direto às exortações finais de Deuteronômio, lembrando-os que o livro da Lei é o manual de sobrevivência.",
+      "temas": [
+        "Escolha Radical",
+        "Fidelidade à Lei",
+        "Consequências da Desobediência"
+      ],
+      "personagens": [
+        "Josué",
+        "Moisés"
+      ]
     },
     "57": {
-      "parafrase": "Caim, Gibeá e Timna. Dez cidades com as suas aldeias.",
-      "referencias": [],
-      "comentario": "A lista de cidades da região montanhosa é concluída.",
-      "temas": ["cidades da região montanhosa", "total"],
-      "personagens": []
+      "parafrase": "E assim, com o coração firme, eles responderam a Josué, dizendo: 'De modo algum abandonaremos o Senhor nosso Deus para servir outros deuses! Nós serviremos somente a Ele, pois foi Ele quem nos trouxe até aqui e realizou prodígios entre nós.'",
+      "referencias": [
+        "Deuteronômio 6:13",
+        "1 Samuel 12:24"
+      ],
+      "comentario": "A resposta é entusiástica e unânime. O povo reafirma o compromisso de adoração exclusiva (monoteísmo prático). A justificativa para a obediência é o resgate histórico ('nos trouxe até aqui') e o milagre ('realizou prodígios'), um eco do Êxodo e da conquista.",
+      "temas": [
+        "Adoração Exclusiva",
+        "Compromisso Público",
+        "Gratidão"
+      ],
+      "personagens": [
+        "Povo de Israel"
+      ]
     },
     "58": {
-      "parafrase": "Halul, Bete-Zur, Gedor,",
-      "referencias": [],
-      "comentario": "A lista de cidades de Judá na região montanhosa continua.",
-      "temas": ["cidades da região montanhosa"],
-      "personagens": []
+      "parafrase": "Em seguida, Josué dedicou um tempo especial para ensinar ao povo sobre a posse e o uso da terra que ainda estava por ser completamente ocupada. Ele os instruiu a se prepararem para lidar com os desafios futuros da fronteira.",
+      "referencias": [
+        "Números 34:1-12",
+        "Josué 18:3"
+      ],
+      "comentario": "Este versículo serve como uma ponte narrativa. Após a reafirmação da aliança em Ebal (a montanha da Lei), Josué redireciona a atenção para a administração prática da herança, preparando o terreno para os capítulos subsequentes que tratarão da divisão das terras restantes para as tribos.",
+      "temas": [
+        "Administração da Terra",
+        "Preparação para o Futuro",
+        "Instrução Prática"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "59": {
-      "parafrase": "Maará, Bete-Anote e Eltecom. Seis cidades com as suas aldeias.",
-      "referencias": [],
-      "comentario": "A lista de cidades da região montanhosa é concluída.",
-      "temas": ["cidades da região montanhosa", "total"],
-      "personagens": []
+      "parafrase": "Com tudo isto terminado, Josué, o servo fiel do Senhor, sentiu que seu tempo estava chegando ao fim. Ele reuniu todo o povo uma última vez para selar o pacto de obediência diante de Deus.",
+      "referencias": [
+        "Josué 24:29",
+        "Atos 20:24"
+      ],
+      "comentario": "O uso da expressão 'servo do Senhor' (Ebed Yahweh) é um título de grande honra, reservado a figuras como Moisés e Davi. A narrativa prepara o leitor para a morte iminente de Josué, marcando o fim de uma era de liderança direta e milagrosa.",
+      "temas": [
+        "Fim da Liderança de Josué",
+        "Integridade do Servo",
+        "Selamento Final"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "60": {
-      "parafrase": "Quiriate-Baal (que é Quiriate-Jearim) e Rabá. Duas cidades com as suas aldeias.",
-      "referencias": [],
-      "comentario": "A lista de cidades de Judá na região montanhosa é concluída.",
-      "temas": ["cidades da região montanhosa", "total"],
-      "personagens": []
+      "parafrase": "O povo de Israel, reunido em Siló, no lugar onde a tenda sagrada havia sido erguida, fez uma solene promessa de obediência a Josué, prometendo seguir os mandamentos em todos os dias de sua vida.",
+      "referencias": [
+        "Josué 24:31",
+        "Juízes 2:7"
+      ],
+      "comentario": "Siló era o centro religioso de Israel naquele período, a sede do Tabernáculo. Este local confere peso espiritual à promessa. A obediência prometida a Josué é, na verdade, obediência a Deus através de Seu líder.",
+      "temas": [
+        "Centralidade Religiosa (Siló)",
+        "Pacto com o Líder",
+        "Obediência Duradoura"
+      ],
+      "personagens": [
+        "Povo de Israel",
+        "Josué"
+      ]
     },
     "61": {
-      "parafrase": "No deserto: Bete-Arabá, Midim, Secacá,",
-      "referencias": [],
-      "comentario": "A lista de cidades de Judá no deserto começa.",
-      "temas": ["cidades do deserto"],
-      "personagens": []
+      "parafrase": "A nação se comprometeu a jamais esquecer a Lei, permanecendo devota ao Senhor durante toda a vida de Josué, enquanto ele esteve vivo para guiá-los e repreendê-los.",
+      "referencias": [
+        "Deuteronômio 4:9",
+        "Salmos 119:105"
+      ],
+      "comentario": "Este versículo detalha a duração da fidelidade inicial: 'durante todos os dias de Josué'. Isso implicitamente aponta para a dificuldade de manter essa obediência após a morte do líder, uma lição que o livro de Juízes explorará extensivamente.",
+      "temas": [
+        "Duração da Fidelidade",
+        "Dependência de Liderança",
+        "Memória da Lei"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "62": {
-      "parafrase": "Nibsã, Cidade do Sal e En-Gedi. Seis cidades com as suas aldeias.",
-      "referencias": [],
-      "comentario": "A lista de cidades do deserto é concluída.",
-      "temas": ["cidades do deserto", "total"],
-      "personagens": []
+      "parafrase": "Logo após este pacto solene, a terra de Canaã finalmente desfrutou de paz e descanso da guerra, porque todos os inimigos declarados haviam sido subjugados ou expulsos pela força israelita sob o comando de Josué.",
+      "referencias": [
+        "Josué 11:23",
+        "Juízes 3:11"
+      ],
+      "comentario": "Este versículo funciona como um epílogo da fase de conquista. A paz não é um estado permanente garantido, mas o resultado direto da execução da vontade divina (expulsar os cananeus). É a paz conquistada através da obediência e da guerra.",
+      "temas": [
+        "Paz Conquistada",
+        "Fim da Guerra",
+        "Repouso Territorial"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "63": {
-      "parafrase": "Mas os filhos de Judá não puderam expulsar os jebuseus que habitavam em Jerusalém; por isso, os jebuseus habitam com os filhos de Judá em Jerusalém até hoje.",
-      "referencias": ["Juízes 1:21"],
-      "comentario": "A falha de Judá em expulsar os jebuseus de Jerusalém é um ponto importante, pois a cidade só seria totalmente conquistada séculos depois por Davi. Isso mostra que a posse da terra era um processo contínuo e que a obediência era crucial.",
-      "temas": ["falha na conquista", "jebuseus", "Jerusalém", "processo contínuo", "obediência"],
-      "personagens": ["Filhos de Judá"]
+      "parafrase": "Após assegurar a terra e estabelecer a nação sob a aliança de Deus, Josué, o grande comandante e libertador, morreu em idade avançada, tendo servido fielmente a Israel por muitos anos. E o povo, em gratidão, ofereceu-lhe grandes honras fúnebres, como era costume para os grandes líderes.",
+      "referencias": [
+        "Juízes 2:8",
+        "Números 27:13"
+      ],
+      "comentario": "A morte de Josué encerra o livro homônimo. Ele cumpriu o papel de sucessor de Moisés. A menção de sua idade avançada ('velho e cheio de dias') atesta uma vida longa e produtiva. A honra fúnebre reflete o legado de sua liderança.",
+      "temas": [
+        "Morte do Líder",
+        "Legado de Josué",
+        "Honra Fúnebre"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     }
   }
 }

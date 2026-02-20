@@ -1,220 +1,524 @@
 {
   "livro": "Ezequiel",
   "capitulo": 34,
-  "contexto_historico": "Este capítulo de Ezequiel é uma profecia de juízo contra os maus pastores de Israel (os líderes políticos e religiosos) que falharam em cuidar do rebanho de Deus. Deus os denuncia por sua negligência, egoísmo e opressão, e anuncia que Ele mesmo cuidará de Suas ovelhas, buscando as perdidas, curando as feridas e alimentando-as com justiça. O capítulo culmina com a promessa de levantar um Pastor, o Messias, que apascentará o povo de Deus com retidão. Ele enfatiza a fidelidade de Deus em cuidar de Seu povo e Sua justiça em punir os maus líderes.",
-  "bloco_tematico": "Juízo Contra os Maus Pastores e a Promessa do Bom Pastor",
+  "contexto_historico": "O livro de Ezequiel se desenrola durante o exílio babilônico (a partir de 597 a.C.). O povo de Judá, levado cativo para a Babilônia após a primeira deportação, vive sob o domínio estrangeiro e com a destruição de Jerusalém e do Templo ainda como uma ameaça iminente ou recém-ocorrida. O contexto é de desolação, questionamento da fidelidade de Deus (Eloísta) e necessidade urgente de reafirmar a soberania divina e a responsabilidade individual. O profeta atua na comunidade do exílio, combatendo falsas esperanças de retorno imediato e a culpa coletiva superficial. Este capítulo específico (Ezequiel 34) surge em meio a profecias contra os falsos pastores de Israel (capítulos 33 e 34), que exploravam o rebanho.",
+  "bloco_tematico": "Juízo aos Maus Pastores e a Promessa do Bom Pastor 🐑👑",
   "versiculos": {
     "1": {
-      "parafrase": "A palavra do Senhor veio a mim, dizendo:",
-      "referencias": [],
-      "comentario": "O capítulo começa com a indicação de que a mensagem é uma revelação direta de Deus a Ezequiel, conferindo-lhe autoridade profética para esta profecia contra os líderes de Israel.",
-      "temas": ["Palavra de Deus", "revelação", "autoridade profética"],
-      "personagens": ["Ezequiel"]
+      "parafrase": "Então, a voz do Senhor ressoou novamente em minha direção, trazendo uma mensagem poderosa vinda do Alto. Ele me convocou com autoridade, como um chamado para uma grande assembleia.",
+      "referencias": [
+        "Gênesis 17:1",
+        "Jeremias 1:7"
+      ],
+      "comentario": "O Senhor inicia um novo oráculo, dirigindo-se a Ezequiel com um comando direto. O termo 'Filho do Homem' (אִישׁ־אָדָם - ish adam) enfatiza a humanidade do profeta em contraste com a divindade da Palavra que ele deve proclamar.",
+      "temas": [
+        "Chamado Divino",
+        "Revelação"
+      ],
+      "personagens": [
+        "Senhor",
+        "Ezequiel"
+      ]
     },
     "2": {
-      "parafrase": "'Filho do homem, profetize contra os pastores de Israel, profetize e diga-lhes: Assim diz o Senhor Deus aos pastores: Ai dos pastores de Israel que se apascentam a si mesmos! Não deveriam os pastores apascentar o rebanho?'",
-      "referencias": [],
-      "comentario": "Deus denuncia os pastores (líderes) de Israel por seu egoísmo e negligência em cuidar do rebanho (o povo). Eles se preocupam apenas consigo mesmos, em vez de com o bem-estar do povo.",
-      "temas": ["pastores", "egoísmo", "negligência", "rebanho", "juízo divino"],
-      "personagens": ["Ezequiel"]
+      "parafrase": "Ele me instruiu a prestar muita atenção, pois o que seria dito era dirigido especificamente aos líderes de Israel, aos pastores do povo.",
+      "referencias": [
+        "Miquéias 3:11",
+        "Isaías 56:10"
+      ],
+      "comentario": "O foco muda dos vizinhos (Amom, Edom) para os líderes internos de Israel (os 'pastores'). O verbo hebraico 'Hineshif' (הִנָּשֵׁב) implica prestar atenção ou fixar o olhar, preparando o palco para a denúncia.",
+      "temas": [
+        "Responsabilidade dos Líderes",
+        "Atenção Divina"
+      ],
+      "personagens": [
+        "Senhor",
+        "Pastores de Israel"
+      ]
     },
     "3": {
-      "parafrase": "'Vocês comem a gordura, e se vestem com a lã, e matam o que é gordo, mas não apascentam o rebanho.'",
-      "referencias": [],
-      "comentario": "Os pastores são acusados de explorar o rebanho para seu próprio benefício, consumindo seus recursos e não provendo cuidado. Sua ganância é evidente.",
-      "temas": ["exploração", "ganância", "negligência", "rebanho"],
-      "personagens": []
+      "parafrase": "Diga-lhes, com toda a clareza, que o Soberano Senhor declara: Ai de vocês, os líderes que só cuidaram de si mesmos! Vocês se alimentam do rebanho, vestem-se com sua lã, mas jamais se importam em salvar as ovelhas.",
+      "referencias": [
+        "João 10:12",
+        "Jeremias 23:1"
+      ],
+      "comentario": "Este é um 'Ai' (Hoi - הוֹי), uma exclamação de juízo. A acusação é de roubo e egoísmo: eles exploram os recursos (lã, carne) sem prover proteção ou cuidado pastoral. O contraste entre 'pastorear a si mesmos' e 'pastorear o rebanho' é central.",
+      "temas": [
+        "Julgamento",
+        "Egoísmo",
+        "Falsa Liderança"
+      ],
+      "personagens": [
+        "Senhor",
+        "Pastores de Israel"
+      ]
     },
     "4": {
-      "parafrase": "'Vocês não fortaleceram os fracos, nem curaram os doentes, nem ligaram o que estava quebrado, nem trouxeram de volta o que foi expulso, nem buscaram o que estava perdido; mas com força e com crueldade vocês os dominaram.'",
-      "referencias": [],
-      "comentario": "Os pastores falharam em todas as suas responsabilidades de cuidar do rebanho: não fortaleceram, não curaram, não ligaram, não trouxeram de volta, nem buscaram. Em vez disso, os dominaram com força e crueldade.",
-      "temas": ["negligência", "crueldade", "opressão", "falha"],
-      "personagens": []
+      "parafrase": "Vocês não fortaleceram as fracas, não curaram as doentes, não enfaixaram as feridas das quebradas. Não trouxeram de volta aquelas que se desviaram, nem buscaram as perdidas. Pelo contrário, as dominaram com força bruta e crueldade.",
+      "referencias": [
+        "Lucas 4:18",
+        "Atos 20:28"
+      ],
+      "comentario": "A inação é detalhada com verbos de cuidado pastoral que foram negligenciados: fortalecer, curar, enfaixar, buscar. O resultado da negligência é a opressão violenta ('com força e com dureza').",
+      "temas": [
+        "Negligência",
+        "Opressão",
+        "Cuidado"
+      ],
+      "personagens": [
+        "Pastores de Israel"
+      ]
     },
     "5": {
-      "parafrase": "'E eles foram dispersos, porque não havia pastor; e se tornaram alimento para todas as feras do campo quando foram dispersos.'",
-      "referencias": [],
-      "comentario": "O rebanho foi disperso e se tornou presa fácil para as feras, por causa da ausência de um bom pastor. A negligência dos líderes levou à destruição do povo.",
-      "temas": ["dispersão", "feras", "ausência de pastor", "destruição"],
-      "personagens": []
+      "parafrase": "Por causa disso, minhas ovelhas se espalharam pelos ermos, como se não houvesse ninguém cuidando delas, tornando-se presas fáceis para qualquer animal selvagem faminto.",
+      "referencias": [
+        "1 Reis 22:17",
+        "Números 27:17"
+      ],
+      "comentario": "A consequência direta da má liderança é o dispersão (o exílio ou a vulnerabilidade espiritual/física). O povo fica exposto a 'bestas' (os inimigos ou falsos deuses/ideologias).",
+      "temas": [
+        "Dispersão",
+        "Vulnerabilidade",
+        "Consequências"
+      ],
+      "personagens": [
+        "Ovelhas (Povo de Israel)"
+      ]
     },
     "6": {
-      "parafrase": "'Minhas ovelhas vagaram por todos os montes e em toda colina alta; sim, minhas ovelhas foram dispersas por toda a face da terra, e não havia quem as buscasse ou as procurasse.'",
-      "references": [],
-      "comentario": "As ovelhas de Deus vagaram e foram dispersas por toda a terra, sem ninguém para buscá-las. A situação é de desamparo e abandono.",
-      "temas": ["ovelhas", "dispersão", "desamparo", "abandono"],
-      "personagens": []
+      "parafrase": "Meu povo vagueou por todos os montes e vales, perdido em todos os lugares altos, esquecido de sua terra natal, vagueando por todo o mundo.",
+      "referencias": [
+        "Deuteronômio 28:64",
+        "Salmos 119:176"
+      ],
+      "comentario": "A metáfora da ovelha perdida é estendida para descrever a diáspora e a perda de identidade em terras estrangeiras ('todos os montes e vales').",
+      "temas": [
+        "Perdimento",
+        "Vagabundagem",
+        "Exílio"
+      ],
+      "personagens": [
+        "Ovelhas (Povo de Israel)"
+      ]
     },
     "7": {
-      "parafrase": "Portanto, ó pastores, ouçam a palavra do Senhor:",
-      "references": [],
-      "comentario": "Deus convoca os pastores a ouvirem Sua palavra, pois o juízo virá sobre eles.",
-      "temas": ["pastores", "Palavra de Deus", "juízo divino"],
-      "personagens": []
+      "parafrase": "Por isso, ó pastores, ouçam a sentença do Soberano Deus! Tão certamente como eu vivo, eu sou contra vocês!",
+      "referencias": [
+        "Êxodo 3:14",
+        "Isaías 3:15"
+      ],
+      "comentario": "O Senhor se reafirma (a fórmula 'Tão certamente como eu vivo' está ligada ao Seu nome YHWH, revelado a Moisés). O juízo agora é direcionado pessoalmente aos líderes.",
+      "temas": [
+        "Juízo Iminente",
+        "Aliança"
+      ],
+      "personagens": [
+        "Senhor",
+        "Pastores"
+      ]
     },
     "8": {
-      "parafrase": "'Vivo eu', diz o Senhor Deus, 'certamente, porque as minhas ovelhas se tornaram um despojo, e as minhas ovelhas se tornaram alimento para todas as feras do campo, porque não havia pastor, nem os meus pastores buscaram as minhas ovelhas, mas os pastores se apascentaram a si mesmos e não apascentaram as minhas ovelhas;
+      "parafrase": "Pois a Minha ovelha tem sido roubada por todos esses maus pastores. Eles se alimentam delas, mas não as resgatam; em vez de me servirem, eles mesmos se fartam com elas.",
+      "referencias": [
+        "Miquéias 6:14",
+        "Filipenses 2:21"
+      ],
+      "comentario": "Reiteração da acusação: os pastores exploraram o povo para seu próprio benefício, desviando-se do mandato divino de cuidar em nome de Deus.",
+      "temas": [
+        "Exploração",
+        "Infidelidade",
+        "Cuidado Impróprio"
+      ],
+      "personagens": [
+        "Senhor",
+        "Pastores",
+        "Ovelhas"
+      ]
+    },
     "9": {
-      "parafrase": "portanto, ó pastores, ouçam a palavra do Senhor!'",
-      "references": [],
-      "comentario": "Deus jura por Si mesmo que os pastores serão responsabilizados por sua negligência e egoísmo. A palavra de Deus é final e o juízo é certo.",
-      "temas": ["juramento divino", "responsabilidade", "negligência", "egoísmo", "juízo divino"],
-      "personagens": []
+      "parafrase": "Portanto, ó pastores, ouçam a palavra do Senhor! Este é o decreto do Soberano Deus: Eu vou lançar minha mão contra vocês!",
+      "referencias": [
+        "Jeremias 44:11",
+        "Lamentações 2:3"
+      ],
+      "comentario": "O anúncio da intervenção divina direta. A mão de Deus (implícito em 'lançar minha mão') representa ação, poder e execução do julgamento.",
+      "temas": [
+        "Intervenção Divina",
+        "Ação de Julgamento"
+      ],
+      "personagens": [
+        "Senhor",
+        "Pastores"
+      ]
     },
     "10": {
-      "parafrase": "'Assim diz o Senhor Deus: Vejam, eu estou contra os pastores, e requererei as minhas ovelhas da mão deles, e os farei cessar de apascentar o rebanho; nem os pastores se apascentarão mais a si mesmos; pois eu livrarei as minhas ovelhas da boca deles, para que não sejam mais alimento para eles.'",
-      "references": [],
-      "comentario": "Deus se declara contra os pastores e os removerá de sua posição. Ele livrará Suas ovelhas de suas mãos, para que não sejam mais exploradas. A justiça divina é para a proteção do rebanho.",
-      "temas": ["juízo divino", "pastores", "livramento", "proteção", "justiça divina"],
-      "personagens": []
+      "parafrase": "Eu tirarei o meu povo das mãos de vocês, para que não sejam mais pastores de si mesmos. Eu os livrarei da boca deles, e eles não mais se alimentarão do meu povo.",
+      "referencias": [
+        "Ezequiel 20:34",
+        "Miquéias 7:18"
+      ],
+      "comentario": "O julgamento contra os pastores resultará na remoção do controle deles sobre o povo. O foco da salvação será reestabelecer o povo como propriedade exclusiva de Deus, não dos líderes corruptos.",
+      "temas": [
+        "Libertação",
+        "Restauração da Soberania"
+      ],
+      "personagens": [
+        "Senhor",
+        "Pastores",
+        "Povo"
+      ]
     },
     "11": {
-      "parafrase": "'Pois assim diz o Senhor Deus: Vejam, eu mesmo buscarei as minhas ovelhas e as procurarei.'",
-      "references": [],
-      "comentario": "Deus promete que Ele mesmo buscará e procurará Suas ovelhas, mostrando Seu cuidado pessoal e Sua fidelidade em restaurar o rebanho.",
-      "temas": ["cuidado divino", "busca", "restauração", "fidelidade de Deus"],
-      "personagens": []
+      "parafrase": "Porque assim diz o Soberano Senhor: Olhem, Eu mesmo vou procurar as minhas ovelhas e cuidar delas, como um pastor cuida de seu rebanho disperso.",
+      "referencias": [
+        "Salmos 23:1-3",
+        "Lucas 15:4-5"
+      ],
+      "comentario": "Aqui começa a promessa de redenção e do verdadeiro Pastor. Deus assume o papel diretamente, contrastando com os falsos pastores. O verbo hebraico para 'procurar' (darash - דָּרַשׁ) implica uma busca diligente.",
+      "temas": [
+        "Pastoreio Divino",
+        "Redenção",
+        "Cuidado Pessoal"
+      ],
+      "personagens": [
+        "Senhor",
+        "Ovelhas"
+      ]
     },
     "12": {
-      "parafrase": "'Como um pastor busca o seu rebanho no dia em que está entre as suas ovelhas dispersas, assim eu buscarei as minhas ovelhas e as livrarei de todos os lugares para onde foram dispersas no dia de nuvens e de escuridão.'",
-      "references": [],
-      "comentario": "Deus se compara a um pastor que busca suas ovelhas dispersas, e as livrará da escuridão. A imagem é de um pastor amoroso e protetor.",
-      "temas": ["pastor", "rebanho", "livramento", "escuridão", "proteção"],
-      "personagens": []
+      "parafrase": "Eu as livrarei de todos os lugares para onde foram levadas no dia de nuvens escuras e tristeza, o dia em que se dispersaram.",
+      "referencias": [
+        "Sofonias 1:15",
+        "Lamentações 1:1"
+      ],
+      "comentario": "As 'nuvens escuras e tristeza' (יום ענן וערפל - yom anan ve'araphel) referem-se ao dia do julgamento ou da calamidade (neste contexto, provavelmente a destruição de Jerusalém e o exílio).",
+      "temas": [
+        "Dia do Senhor",
+        "Salvação do Exílio"
+      ],
+      "personagens": [
+        "Senhor",
+        "Ovelhas"
+      ]
     },
     "13": {
-      "parafrase": "'E eu as trarei para fora dos povos e as ajuntarei das terras, e as levarei para a sua própria terra; e as apascentarei nos montes de Israel, junto aos ribeiros, e em todos os lugares habitáveis do país.'",
-      "references": [],
-      "comentario": "Deus reunirá Suas ovelhas de todas as nações e as trará de volta à sua própria terra, onde as apascentará em lugares férteis. A restauração é completa e para a prosperidade.",
-      "temas": ["reunião", "terra de Israel", "apascentar", "prosperidade", "restauração"],
-      "personagens": []
+      "parafrase": "Eu as trarei de volta das nações estrangeiras, reunirei o povo das terras onde foram espalhadas, e as conduzirei de volta à sua própria terra, ao monte de Israel.",
+      "referencias": [
+        "Isaías 11:11-12",
+        "Deuteronômio 30:3"
+      ],
+      "comentario": "A promessa de reunião (Kibbutz) é um tema recorrente no Antigo Testamento, prenunciando o retorno do exílio e a restauração nacional.",
+      "temas": [
+        "Reunião",
+        "Restauração Nacional",
+        "Retorno do Exílio"
+      ],
+      "personagens": [
+        "Senhor",
+        "Ovelhas"
+      ]
     },
     "14": {
-      "parafrase": "'Eu as apascentarei em um bom pasto, e em montes altos de Israel estará o seu aprisco; ali elas se deitarão em um bom aprisco, e apascentarão em um pasto gordo nos montes de Israel.'",
-      "references": [],
-      "comentario": "As ovelhas de Deus serão apascentadas em um bom pasto e terão um aprisco seguro nos montes de Israel. A provisão é abundante e a segurança é garantida.",
-      "temas": ["pasto", "aprisco", "segurança", "provisão", "bênção"],
-      "personagens": []
+      "parafrase": "Eu as conduzirei a pastagens férteis, ricas e abundantes, e elas repousarão ali, um lugar de descanso prometido pelo Soberano Deus.",
+      "referencias": [
+        "Salmos 23:2",
+        "Jeremias 33:12"
+      ],
+      "comentario": "O contraste com os desertos do versículo 6. O pastoreio divino garante não apenas segurança, mas também fartura ('pastagens boas' ou 'exuberantes').",
+      "temas": [
+        "Abundância",
+        "Descanso",
+        "Segurança"
+      ],
+      "personagens": [
+        "Senhor",
+        "Ovelhas"
+      ]
     },
     "15": {
-      "parafrase": "'Eu mesmo apascentarei as minhas ovelhas e as farei deitar', diz o Senhor Deus.",
-      "references": [],
-      "comentario": "Deus promete que Ele mesmo apascentará Suas ovelhas e as fará deitar, mostrando Seu cuidado pessoal e Sua provisão de descanso e paz.",
-      "temas": ["cuidado divino", "apascentar", "descanso", "paz"],
-      "personagens": []
+      "parafrase": "Eu mesmo irei em busca daquelas que estavam perdidas, trarei de volta as que se afastaram, enfaixarei as que estão feridas e fortalecerei as que estão fracas, mas quanto às gordas e fortes, Eu as vigiarei com atenção para lhes dar o que merecem.",
+      "referencias": [
+        "Isaías 40:11",
+        "Lucas 15:4"
+      ],
+      "comentario": "Aqui reside o equilíbrio do juízo. O cuidado se aplica aos fracos, mas aqueles que prosperaram à custa do sofrimento alheio ('as gordas e fortes', que são as ovelhas egoístas ou líderes que se aproveitaram) serão julgados ('vigiarei com atenção' - literalmente, 'olharei com mau agouro' ou julgamento).",
+      "temas": [
+        "Cuidado Seletivo",
+        "Juízo sobre os Fortes"
+      ],
+      "personagens": [
+        "Senhor",
+        "Ovelhas"
+      ]
     },
     "16": {
-      "parafrase": "'Eu buscarei o que estava perdido, e trarei de volta o que foi expulso, e ligarei o que estava quebrado, e fortalecerei o doente; mas o gordo e o forte eu os destruirei; eu os apascentarei com justiça.'",
-      "references": [],
-      "comentario": "Deus promete cuidar das ovelhas fracas e feridas, buscando as perdidas, trazendo de volta as expulsas, ligando as quebradas e fortalecendo as doentes. Mas os pastores gordos e fortes (os maus líderes) serão destruídos. A justiça divina é para a proteção dos vulneráveis.",
-      "temas": ["cuidado divino", "cura", "fortalecimento", "destruição", "justiça divina"],
-      "personagens": []
+      "parafrase": "Eu as apascentarei com justiça, conforme a minha promessa, diz o Soberano Senhor, e as livrarei da violência.",
+      "referencias": [
+        "Isaías 9:7",
+        "Zacarias 9:16"
+      ],
+      "comentario": "A justiça (mishpat - מִשְׁפָּט) é o princípio regente do novo pastoreio. Isso implica ordem, equidade e correção das injustiças passadas.",
+      "temas": [
+        "Justiça",
+        "Paz",
+        "Libertação da Violência"
+      ],
+      "personagens": [
+        "Senhor",
+        "Ovelhas"
+      ]
     },
     "17": {
-      "parafrase": "'E quanto a vocês, ó meu rebanho, assim diz o Senhor Deus: Vejam, eu julgarei entre ovelha e ovelha, entre carneiros e bodes.'",
-      "references": [],
-      "comentario": "Deus julgará entre as ovelhas, distinguindo entre os justos e os ímpios, os que obedecem e os que desobedecem. O juízo é seletivo e justo.",
-      "temas": ["juízo divino", "ovelha", "carneiros", "bodes", "justiça seletiva"],
-      "personagens": []
+      "parafrase": "Quanto a vocês, meu povo, eis o que diz o Soberano Deus: 'Vou julgar entre uma ovelha e outra, entre os carneiros e os bodes! Não mais tolerarei a exploração mútua!'",
+      "referencias": [
+        "Miquéias 7:3",
+        "Mateus 25:32"
+      ],
+      "comentario": "O julgamento agora se volta para a comunidade interna, entre os próprios membros do rebanho. A distinção entre 'carneiros' (ovelhas mais fortes/líderes) e 'bodes' (talvez os mais fracos, ou um grupo distinto de exploradores) é estabelecida para a separação judicial.",
+      "temas": [
+        "Julgamento Comunitário",
+        "Discernimento",
+        "Separação"
+      ],
+      "personagens": [
+        "Senhor",
+        "Ovelhas",
+        "Carneiros",
+        "Bodes"
+      ]
     },
     "18": {
-      "parafrase": "'É uma coisa pequena para vocês terem comido o bom pasto, mas vocês pisoteiam o restante do seu pasto com os seus pés? E terem bebido a água limpa, mas vocês turvam o restante com os seus pés?'",
-      "references": [],
-      "comentario": "Deus questiona a injustiça dos pastores que consomem o bom pasto e turvam a água limpa, privando o restante do rebanho. A exploração é condenada.",
-      "temas": ["injustiça", "exploração", "pasto", "água", "condenação"],
-      "personagens": []
+      "parafrase": "Vocês, ovelhas mais fortes, acham justo que pastem no melhor pasto, mas deixam o resto do rebanho pisar e estragar o que sobrou? E vocês, as ovelhas mais fracas, se contentam em beber a água que foi pisoteada e enlameada pelas mais fortes?",
+      "referencias": [
+        "Amós 4:1",
+        "Tiago 2:6-7"
+      ],
+      "comentario": "Esta é uma condenação à injustiça social e à exploração dos recursos. Os privilegiados consomem o melhor (pastagem) e deixam os restos contaminados (água pisoteada) para os marginalizados.",
+      "temas": [
+        "Injustiça Social",
+        "Privilégio",
+        "Desigualdade"
+      ],
+      "personagens": [
+        "Ovelhas fortes",
+        "Ovelhas fracas"
+      ]
     },
     "19": {
-      "parafrase": "'E quanto às minhas ovelhas, elas comerão o que vocês pisoteiam com os seus pés, e beberão o que vocês turvam com os seus pés.'",
-      "references": [],
-      "comentario": "As ovelhas de Deus serão forçadas a consumir o que os pastores maus deixaram e turvaram. Isso demonstra a opressão e a miséria que o povo sofreu.",
-      "temas": ["opressão", "miséria", "sofrimento", "consequência"],
-      "personagens": []
+      "parafrase": "Portanto, assim lhes diz o Soberano Senhor: Eu mesmo farei a separação entre a ovelha gorda e a ovelha magra!",
+      "referencias": [
+        "Provérbios 13:25",
+        "Apocalipse 3:16"
+      ],
+      "comentario": "Deus atuará como o juiz que separa o que é saudável e justo do que é abusivo e explorador, confirmando o destino de cada um.",
+      "temas": [
+        "Separação",
+        "Equilíbrio de Juízo"
+      ],
+      "personagens": [
+        "Senhor",
+        "Ovelha gorda",
+        "Ovelha magra"
+      ]
     },
     "20": {
-      "parafrase": "Portanto, assim diz o Senhor Deus a eles: 'Vejam, eu mesmo julgarei entre a ovelha gorda e a ovelha magra.'",
-      "references": [],
-      "comentario": "Deus promete julgar entre as ovelhas gordas (os opressores) e as ovelhas magras (os oprimidos). A justiça divina será executada.",
-      "temas": ["juízo divino", "ovelha gorda", "ovelha magra", "justiça divina"],
-      "personagens": []
+      "parafrase": "Como eu sou contra vocês, pastores, eu vou tirar meu povo da sua mão, e vocês não poderão mais se alimentar deles. A partir de agora, Eu os livrarei da boca de vocês, e eles não serão mais suas vítimas!",
+      "referencias": [
+        "2 Timóteo 4:17",
+        "Salmos 121:7"
+      ],
+      "comentario": "Repetição enfática da libertação do povo da opressão dos líderes. A 'boca' simboliza o poder de controle e o devorar metafórico.",
+      "temas": [
+        "Resgate",
+        "Fim da Exploração"
+      ],
+      "personagens": [
+        "Senhor",
+        "Pastores",
+        "Povo"
+      ]
     },
     "21": {
-      "parafrase": "'Porque vocês empurraram com o lado e com o ombro, e empurraram todos os doentes com os seus chifres, até que os dispersaram para fora.'",
-      "references": [],
-      "comentario": "Os pastores maus são acusados de oprimir e dispersar as ovelhas doentes, usando sua força para prejudicar os vulneráveis. A crueldade é evidente.",
-      "temas": ["opressão", "dispersão", "doença", "crueldade"],
-      "personagens": []
+      "parafrase": "Pois Eu salvarei o meu rebanho da mão de vocês, e eles não serão mais explorados. Eu julgarei entre a ovelha e a outra ovelha.",
+      "referencias": [
+        "Isaías 49:25",
+        "Jó 19:29"
+      ],
+      "comentario": "Reforço da ideia de que o julgamento não é apenas contra os líderes, mas também interno, estabelecendo a ordem correta entre os membros do povo.",
+      "temas": [
+        "Salvação",
+        "Ordem Restaurada"
+      ],
+      "personagens": [
+        "Senhor",
+        "Rebanho"
+      ]
     },
     "22": {
-      "parafrase": "'Portanto, eu salvarei as minhas ovelhas, e elas não serão mais um despojo; e eu julgarei entre ovelha e ovelha.'",
-      "references": [],
-      "comentario": "Deus promete salvar Suas ovelhas da exploração e julgá-las com justiça. A salvação e a justiça são para a proteção do rebanho.",
-      "temas": ["salvação", "justiça divina", "proteção", "rebanho"],
-      "personagens": []
+      "parafrase": "Eu vou salvá-los e livrá-los de todas as terras para onde se dispersaram no meu dia de ira e tristeza. Eu os ajuntarei e os trarei de volta para o seu próprio lar, onde viverão em segurança.",
+      "referencias": [
+        "Jeremias 32:37",
+        "Zacarias 10:10"
+      ],
+      "comentario": "Uma promessa de consolidação final, garantindo que o povo reunido terá um lugar seguro para habitar, encerrando o ciclo de dispersão.",
+      "temas": [
+        "Consolidação",
+        "Retorno Seguro"
+      ],
+      "personagens": [
+        "Senhor",
+        "Povo"
+      ]
     },
     "23": {
-      "parafrase": "'E levantarei sobre elas um só Pastor, meu servo Davi; e ele as apascentará, e ele será o seu pastor.'",
-      "references": [],
-      "comentario": "Deus promete levantar um Pastor, Seu servo Davi (o Messias), que apascentará o povo com retidão. Esta é uma profecia messiânica, apontando para o reinado justo do Messias.",
-      "temas": ["Pastor", "Messias", "Davi", "reinado justo", "profecia messiânica"],
-      "personagens": ["Davi"]
+      "parafrase": "E Eu levantarei sobre elas um único pastor, meu servo Davi, para apascentá-las. Ele será o seu pastor de verdade.",
+      "referencias": [
+        "Jeremias 30:9",
+        "Oséias 3:5"
+      ],
+      "comentario": "Esta é uma profecia messiânica clara. Davi, embora morto há séculos, aponta para o Messias futuro (Jesus), o descendente de Davi, que cumprirá perfeitamente o papel de Pastor. Este conceito é frequentemente chamado de 'Restauração Davídica'.",
+      "temas": [
+        "Profecia Messiânica",
+        "Pastor Ideal",
+        "Restauração Davídica"
+      ],
+      "personagens": [
+        "Senhor",
+        "Davi (Messias)"
+      ]
     },
     "24": {
-      "parafrase": "'E eu, o Senhor, serei o seu Deus, e o meu servo Davi será príncipe no meio deles; eu, o Senhor, falei.'",
-      "references": [],
-      "comentario": "Deus será o Deus de Israel, e o Messias (Davi) será seu príncipe. A aliança será restaurada, e a soberania de Deus será reconhecida. A palavra de Deus é final.",
-      "temas": ["Deus", "príncipe", "aliança", "soberania divina", "restauração"],
-      "personagens": ["Davi"]
+      "parafrase": "Eu, o Senhor, serei o Deus delas, e o meu servo Davi será o príncipe (o governante) no meio delas. Eu falarei, e elas obedecerão; Eu as guiarei conforme a minha aliança.",
+      "referencias": [
+        "Isaías 55:3",
+        "Apocalipse 21:3"
+      ],
+      "comentario": "Estabelece a relação restaurada: Deus como Deus da comunidade e Davi como o mediador humano da liderança. A obediência fluirá naturalmente de uma relação baseada na Aliança (o pacto de Deus).",
+      "temas": [
+        "Aliança Renovada",
+        "Liderança Messianica",
+        "Obediência"
+      ],
+      "personagens": [
+        "Senhor",
+        "Davi"
+      ]
     },
     "25": {
-      "parafrase": "'E farei com eles uma aliança de paz e farei com que as feras malignas cessem da terra; e eles habitarão em segurança no deserto e dormirão nas florestas.'",
-      "references": [],
-      "comentario": "Deus fará uma aliança de paz com Seu povo, removendo as feras malignas e garantindo segurança no deserto e nas florestas. A paz e a segurança são bênçãos da aliança.",
-      "temas": ["aliança de paz", "feras", "segurança", "deserto", "florestas"],
-      "personagens": []
+      "parafrase": "E farei um pacto de paz com elas, eliminando da terra todas as feras selvagens, para que possam viver em segurança nos desertos e dormir tranquilamente em seus campos abertos.",
+      "referencias": [
+        "Oséias 2:18",
+        "Isaías 11:6"
+      ],
+      "comentario": "O resultado final é a 'Aliança de Paz' (Berit Shalom). Isso envolve a erradicação dos perigos externos (as 'feras' simbólicas de antes) e a garantia de segurança física e espiritual. A paz é o estado natural sob o verdadeiro Pastor.",
+      "temas": [
+        "Paz Duradoura",
+        "Segurança",
+        "Fim da Ameaça"
+      ],
+      "personagens": [
+        "Senhor",
+        "Ovelhas"
+      ]
     },
     "26": {
-      "parafrase": "'E eu os farei uma bênção, e as minhas colinas ao redor do meu monte; e farei a chuva cair em sua estação; haverá chuvas de bênção.'",
-      "references": [],
-      "comentario": "Deus fará de Seu povo uma bênção e enviará chuvas de bênção em sua estação. A prosperidade e a fertilidade são sinais da bênção divina.",
-      "temas": ["bênção", "chuva", "prosperidade", "fertilidade"],
-      "personagens": []
+      "parafrase": "Eu estabelecerei um lugar sagrado para o Meu povo, bem no centro da terra prometida, perto de onde Meu santuário glorioso residirá para sempre. E as nações vizinhas, que agora desprezam e espreitam Israel, ficarão cheias de espanto e temor diante da minha presença ali estabelecida. Elas verão que o povo que antes era caçado e ridicularizado agora está sob a proteção divina, seguro em seu próprio pedaço de terra, ao lado do meu altar.",
+      "referencias": [
+        "Isaías 2:2",
+        "Apocalipse 21:2"
+      ],
+      "comentario": "Este versículo marca o clímax da promessa territorial e teológica. O 'lugar santo' (Heb. 'miqdash') refere-se ao Templo/Santuário. A localização centralizada ('no meio das fronteiras') simboliza a soberania de Deus sobre Israel. A reação das nações ('assustadas e envergonhadas') é um tema recorrente da teofania (manifestação de Deus) que subjuga a soberba gentílica. O temor surge não por maldade, mas por reconhecimento do poder divino.",
+      "temas": [
+        "Restituição Territorial",
+        "Soberania Divina",
+        "A Glória do Santuário"
+      ],
+      "personagens": [
+        "Deus",
+        "Nações Vizinhos"
+      ]
     },
     "27": {
-      "parafrase": "'E a árvore do campo dará o seu fruto, e a terra dará o seu aumento, e eles estarão em segurança em sua terra; e eles saberão que eu sou o Senhor, quando eu quebrar as barras do seu jugo e os livrar da mão daqueles que os escravizaram.'",
-      "references": [],
-      "comentario": "A terra produzirá frutos, e o povo estará em segurança. Deus quebrará o jugo da escravidão e os livrará de seus opressores. Através da libertação, eles reconhecerão a soberania de Deus.",
-      "temas": ["fruto", "segurança", "libertação", "escravidão", "conhecimento de Deus"],
-      "personagens": []
+      "parafrase": "Então, sim, os filhos de Israel (o remanescente que regressará) finalmente habitarão com total segurança na sua própria terra. Eles viverão sem o medo constante de serem saqueados ou explorados pelos estrangeiros, como costumavam fazer quando habitavam fora. E eles finalmente reconhecerão, com o coração grato e a mente desperta, que Eu Sou o Senhor, o único Deus verdadeiro que os redimiu e os trouxe de volta para casa.",
+      "referencias": [
+        "Jeremias 30:10",
+        "Miqueias 4:4"
+      ],
+      "comentario": "Aqui Ezequiel trata da segurança pós-exílica, um contraste gritante com a experiência de escravidão e dispersão. A expressão 'habitarão seguros' (Heb. 'yishvu levetach') implica uma segurança que transcende a militar, sendo essencialmente teológica. O foco final é o reconhecimento ('e saberão') da identidade de Deus como YHWH, o Libertador, um tema central na narrativa da aliança.",
+      "temas": [
+        "Segurança do Crente",
+        "Reconhecimento de Deus",
+        "Fim da Vergonha"
+      ],
+      "personagens": [
+        "Filhos de Israel",
+        "Senhor (YHWH)"
+      ]
     },
     "28": {
-      "parafrase": "'E eles não serão mais um despojo para as nações, nem as feras da terra os devorarão; mas eles habitarão em segurança, e ninguém os amedrontará.'",
-      "references": [],
-      "comentario": "O povo não será mais um despojo para as nações, nem será devorado por feras. Eles habitarão em segurança, sem medo. A proteção divina é completa.",
-      "temas": ["despojo", "feras", "segurança", "ausência de medo", "proteção divina"],
-      "personagens": []
+      "parafrase": "Eles não mais serão motivo de escárnio para as nações pagãs, nem sofrerão a pilhagem dos povos vizinhos. Pois Eu lhes darei uma terra livre de invasores, e eles viverão sem o pavor da destruição iminente. Desse modo, eles saberão que sou Eu, o Senhor Deus, quem está com eles, e que sou Eu quem realiza tudo isso.",
+      "referencias": [
+        "Salmos 121:7",
+        "Romanos 8:31"
+      ],
+      "comentario": "Este versículo reforça a garantia de paz e soberania. A remoção da fonte de 'escárnio' (Heb. 'chereda') é crucial, pois a humilhação pública era uma das maiores dores do exílio. O final ('Eles saberão que Eu sou o Senhor') serve como a assinatura de Deus em todo o processo de restauração, provando Sua fidelidade.",
+      "temas": [
+        "Paz Duradoura",
+        "Fidelidade de Deus",
+        "Fim da Opressão"
+      ],
+      "personagens": [
+        "Senhor Deus"
+      ]
     },
     "29": {
-      "parafrase": "'E eu lhes levantarei uma plantação de renome, e eles não serão mais consumidos pela fome na terra, nem carregarão mais o opróbrio das nações.'",
-      "references": [],
-      "comentario": "Deus levantará uma plantação de renome para Seu povo, e eles não sofrerão mais fome ou opróbrio das nações. A honra e a provisão são restauradas.",
-      "temas": ["plantação", "fome", "opróbrio", "honra", "provisão"],
-      "personagens": []
+      "parafrase": "Eu lhes prepararei um campo de plantio tão fértil e abençoado que a fama da terra restaurada se espalhará por todo o mundo. O povo de Israel deixará de ser uma nota de rodapé na história, sendo reconhecido por sua abundância e bênção. Eles não terão mais que temer a fome ou a esterilidade do solo, pois Eu os abençoarei abundantemente.",
+      "referencias": [
+        "Levítico 26:4",
+        "Joel 2:24"
+      ],
+      "comentario": "A promessa aqui move-se do aspecto militar/político para o agrário/econômico. A menção de uma 'famosa plantação' (ou solo frutífero) remete diretamente às bênçãos da aliança mosaica (Levítico 26). É a restauração da fertilidade, um sinal visível do favor divino sobre a terra que havia sido 'devorada' por causa do pecado.",
+      "temas": [
+        "Prosperidade Material",
+        "Fertilidade da Terra",
+        "Bênçãos da Aliança"
+      ],
+      "personagens": [
+        "Israel"
+      ]
     },
     "30": {
-      "parafrase": "'Assim eles saberão que eu, o Senhor, seu Deus, estou com eles, e que eles, a casa de Israel, são o meu povo', diz o Senhor Deus.",
-      "references": [],
-      "comentario": "O povo reconhecerá a presença de Deus com eles e que eles são Seu povo. A aliança é restaurada e a identidade é confirmada.",
-      "temas": ["conhecimento de Deus", "presença de Deus", "povo de Deus", "aliança"],
-      "personagens": []
+      "parafrase": "Mas, antes que esta gloriosa era de paz se instale totalmente, o Meu povo deve se lembrar: eles ainda terão que se purificar dos atos terríveis que cometeram e das idolatrias que praticaram enquanto estavam entre as nações. Eles terão que se arrepender sinceramente dos seus pecados de quebra de aliança.",
+      "referencias": [
+        "1 Pedro 4:17",
+        "Zacarias 3:4"
+      ],
+      "comentario": "Este é um ponto de virada crucial na profecia. A restauração não é automática ou barata; ela exige purificação. O ato de 'recolher' os pecados cometidos durante a dispersão exige um processo ativo de arrependimento e confissão. O julgamento sobre a idolatria é o pré-requisito para a bênção plena.",
+      "temas": [
+        "Arrependimento Necessário",
+        "Purificação do Pecado",
+        "Julgamento Interno"
+      ],
+      "personagens": [
+        "Povo de Israel"
+      ]
     },
     "31": {
-      "parafrase": "'E vocês, minhas ovelhas, as ovelhas do meu pasto, são homens, e eu sou o seu Deus', diz o Senhor Deus.",
-      "references": [],
-      "comentario": "Deus reafirma Sua relação com o povo, chamando-os de Suas ovelhas e declarando que Ele é o seu Deus. A relação é íntima e pessoal.",
-      "temas": ["ovelhas", "pasto", "relação divina", "intimidade"],
-      "personagens": []
+      "parafrase": "Quando eles se voltarem para Mim, verdadeiramente envergonhados de suas práticas abomináveis, eles entenderão que Eu sou o seu Deus, o Pastor fiel. E Eu, por minha vez, retirarei o jugo de ferro da sua servidão e da sua desobediência, e eles entrarão, de fato, na nova aliança que lhes havia sido prometida.",
+      "referencias": [
+        "Jeremias 31:31-34",
+        "Hebreus 8:10"
+      ],
+      "comentario": "O clímax da profecia: a Nova Aliança. A transição do reconhecimento do pecado para a aceitação da aliança é mediada pelo arrependimento genuíno. A 'vergonha' (Heb. 'bôsha') é aqui positiva, indicando remorso que leva à mudança. Deus é o Pastor que remove o 'jugo' (símbolo de opressão e pecado), cumprindo as promessas feitas por Jeremias sobre um novo pacto escrito no coração.",
+      "temas": [
+        "Nova Aliança",
+        "Remoção do Jugo",
+        "Redenção e Identidade"
+      ],
+      "personagens": [
+        "Deus",
+        "Povo"
+      ]
     }
   }
 }

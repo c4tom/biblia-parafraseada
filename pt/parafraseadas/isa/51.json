@@ -1,170 +1,386 @@
-
 {
   "livro": "Isaías",
   "capitulo": 51,
-  "contexto_historico": "Este capítulo é uma mensagem de encorajamento e consolação para o povo de Israel que está no exílio. Deus os exorta a olhar para o passado (Abraão e Sara) como um lembrete de Sua fidelidade e poder para realizar o impossível. Ele promete restaurar Sião, trazer justiça e salvação, e os encoraja a não temerem a oposição humana, pois Ele é o único que pode dar e tirar a vida. O capítulo termina com a promessa de que o cálice da ira será tirado de Jerusalém e dado aos seus opressores.",
-  "bloco_tematico": "Consolação e Promessa de Restauração para Sião",
+  "contexto_historico": "O livro de Isaías, especialmente a seção conhecida como 'Segundo Isaías' (Capítulos 40-55), é escrito durante o exílio babilônico (século VI a.C.). O povo de Judá sofre com a opressão e a perda de sua terra e templo. Deus, através de Isaías, oferece uma mensagem de esperança, prometendo o retorno do exílio e a restauração de Sião, contrastando a impotência dos ídolos babilônicos com o poder do Senhor. O capítulo 51 é uma exortação direta aos exilados para que confiem na promessa de libertação iminente, relembrando-os da fidelidade de Deus no passado.",
+  "bloco_tematico": "O Chamado à Confiança: Lembrar o Passado para Abraçar o Futuro da Redenção 📜🕊️",
   "versiculos": {
     "1": {
-      "parafrase": "Ouvi-me, vós que seguis a justiça, que buscais ao Senhor; olhai para a rocha de onde fostes cortados, e para a caverna do poço de onde fostes cavados.",
-      "referencias": ["Hebreus 11:8-12"],
-      "comentario": "Deus se dirige aos fiéis em Israel, encorajando-os a olhar para suas origens humildes, para Abraão e Sara, de onde foram formados. Isso serve como um lembrete do poder de Deus para criar e multiplicar a partir do nada.",
-      "temas": ["Origens Humildes", "Fidelidade de Deus", "Encorajamento"],
-      "personagens": ["Senhor"]
+      "parafrase": "Escutem bem, vocês, meus filhos e meu povo amado, que anseiam pela salvação! Prestem atenção, vocês, descendentes daquele que um dia se chamou Jacó, mas que Deus renomeou como Israel. Eu lhes faço este chamado urgente para que abram os ouvidos e recebam a mensagem que trará vida eterna.",
+      "referencias": [
+        "Gênesis 32:28",
+        "Romanos 9:27"
+      ],
+      "comentario": "O profeta começa com um apelo solene, usando os nomes 'filhos' e 'povo' para estabelecer intimidade e autoridade. A referência a Jacó/Israel é uma técnica profética para lembrar a nação de sua aliança fundamental com Deus. A urgência ('escutem', 'prestem atenção') sugere que o tempo é crucial para a recepção da Palavra.",
+      "temas": [
+        "Chamado de Deus",
+        "Identidade de Israel",
+        "Urgência da Palavra"
+      ],
+      "personagens": [
+        "Profeta (Isaías)",
+        "Povo de Israel"
+      ]
     },
     "2": {
-      "parafrase": "Olhai para Abraão, vosso pai, e para Sara, que vos deu à luz; porque, sendo ele um só, eu o chamei, e o abençoei, e o multipliquei.",
-      "referencias": ["Gênesis 12:1-3", "Gênesis 17:15-16"],
-      "comentario": "A história de Abraão e Sara é um testemunho do poder de Deus. De um único homem e uma mulher estéril, Deus criou uma grande nação. Se Ele fez isso no passado, pode fazê-lo novamente.",
-      "temas": ["Poder de Deus", "Fidelidade à Aliança", "Multiplicação"],
-      "personagens": ["Abraão", "Sara"]
+      "parafrase": "Lembrem-se de como vocês surgiram no mundo. Lembrem-se de Abraão, o homem que chamei para ser o patriarca da fé; e de Sara, a mulher estéril que Deus fez mãe de inúmeras nações. Quando eu o chamei, ele estava sozinho, mas eu o abençoei, fiz dele um grande povo e multipliquei seus descendentes como as estrelas do céu.",
+      "referencias": [
+        "Gênesis 12:1-3",
+        "Gênesis 17:15-16",
+        "Hebreus 11:8"
+      ],
+      "comentario": "Este versículo estabelece a fundação da esperança: a fidelidade de Deus à Sua promessa original feita a Abraão. O profeta usa a narrativa da origem (Abraão e Sara) como prova de que Deus é capaz de realizar o impossível, como resgatar Israel de sua aparente desolação.",
+      "temas": [
+        "Fidelidade de Deus",
+        "Aliança Abraâmica",
+        "Criação de uma Nação"
+      ],
+      "personagens": [
+        "Abraão",
+        "Sara"
+      ]
     },
     "3": {
-      "parafrase": "Porque o Senhor consolará a Sião; consolará a todos os seus lugares assolados, e fará do seu deserto como o Éden, e da sua solidão como o jardim do Senhor; gozo e alegria se acharão nela, ação de graças e voz de melodia.",
-      "referencias": ["Isaías 35:1-2", "Ezequiel 36:35"],
-      "comentario": "A promessa de restauração para Sião (Jerusalém) é vívida. Seus lugares desolados se tornarão um paraíso, como o Éden, cheio de alegria, gratidão e música. É uma imagem de renovação completa.",
-      "temas": ["Consolação", "Restauração", "Éden", "Alegria"],
-      "personagens": ["Senhor"]
+      "parafrase": "Sim, a terra desolada de Sião, que agora parece um deserto triste, eu a consolarei completamente. Aquele lugar que era um campo árido e sem vida, eu o transformarei em um jardim exuberante, um Éden particular. O vale da solidão e do sofrimento será cuidado por mim até florescer com a beleza do Jardim do Senhor.",
+      "referencias": [
+        "Isaías 40:3",
+        "Apocalipse 21:4"
+      ],
+      "comentario": "A promessa de consolo (hebraico: 'naḥam') é central. O contraste entre 'deserto' ('ṣiyyâ') e 'terra irrigada' ('ʿădāmâ rĕwiyyâ') é uma imagem vívida de restauração completa – não apenas política, mas ecológica e espiritual. É a restauração da Criação.",
+      "temas": [
+        "Restauração",
+        "Consolação",
+        "Nova Criação"
+      ],
+      "personagens": [
+        "Sião (Jerusalém)"
+      ]
     },
     "4": {
-      "parafrase": "Atendei-me, povo meu, e dai-me ouvidos, ó nação minha; porque de mim sairá a lei, e o meu juízo farei repousar para luz dos povos.",
-      "referencias": ["Isaías 2:3"],
-      "comentario": "Deus convoca Seu povo a ouvir, pois Dele virá a lei e o juízo que servirão de luz para todas as nações. A revelação de Deus não é apenas para Israel, mas para o mundo.",
-      "temas": ["Revelação Divina", "Lei", "Luz para as Nações"],
-      "personagens": []
+      "parafrase": "Pois eu ouvirei o clamor do meu povo e mostrarei minha força. Eu farei com que os passos de vocês, exilados e dispersos, voltem para casa, e vocês se levantarão para viverem sob o meu cuidado e proteção.",
+      "referencias": [
+        "Êxodo 3:7",
+        "Salmos 126:1"
+      ],
+      "comentario": "Deus intervém ativamente: Ele ouve ('qōl') e age ('ʾedrōk' – guiarei/orientarei). Este versículo foca na ação imediata de Deus em trazer de volta os exilados, cumprindo o aspecto de redenção histórica.",
+      "temas": [
+        "Redenção",
+        "Retorno do Exílio",
+        "Audição Divina"
+      ],
+      "personagens": [
+        "Deus",
+        "Povo disperso"
+      ]
     },
     "5": {
-      "parafrase": "A minha justiça está perto, a minha salvação já saiu, e os meus braços julgarão os povos; as ilhas me aguardarão, e no meu braço esperarão.",
-      "referencias": ["Isaías 46:13"],
-      "comentario": "A justiça e a salvação de Deus estão próximas e se manifestarão com poder. As nações distantes (ilhas) esperarão e confiarão em Seu braço poderoso para o juízo e a salvação.",
-      "temas": ["Justiça Divina", "Salvação Iminente", "Poder de Deus"],
-      "personagens": []
+      "parafrase": "Eu não apenas os trarei de volta, mas os usarei como faróis de luz para todas as nações! Eu mostrarei a todos os povos a minha glória e o meu poder. Todos os seres humanos, sem exceção, verão a salvação que Eu, o Senhor, preparei para os meus eleitos.",
+      "referencias": [
+        "Isaías 42:6",
+        "Lucas 2:32"
+      ],
+      "comentario": "O tema missionário é introduzido. A restauração de Israel não é um fim em si mesma, mas um meio para a revelação universal da glória de Deus (o conceito do Servo Sofredor que se torna luz para os gentios).",
+      "temas": [
+        "Missão universal",
+        "Glória de Deus",
+        "Salvação para as nações"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "6": {
-      "parafrase": "Levantai os vossos olhos para os céus, e olhai para a terra em baixo; porque os céus desaparecerão como a fumaça, e a terra envelhecerá como um vestido, e os seus moradores morrerão semelhantemente; mas a minha salvação durará para sempre, e a minha justiça não será aniquilada.",
-      "referencias": ["Salmo 102:25-26", "Hebreus 1:10-12"],
-      "comentario": "Deus contrasta a transitoriedade da criação (céus e terra) com a eternidade de Sua salvação e justiça. Tudo o que é físico passará, mas a obra de Deus permanecerá para sempre.",
-      "temas": ["Eternidade da Salvação", "Transitoriedade da Criação", "Justiça Eterna"],
-      "personagens": []
+      "parafrase": "E quando vocês voltarem, Eu os enviarei para espalhar a notícia da minha libertação entre aqueles que estão distantes, até mesmo entre aqueles povos que nunca ouviram falar de Mim. Eles levarão as oferendas e os presentes da gratidão de vocês, e esses presentes serão transportados com honra, como se fossem carregados sobre ombros de sacerdotes, de volta ao Templo Santo.",
+      "referencias": [
+        "Mateus 28:19-20",
+        "Romanos 15:16"
+      ],
+      "comentario": "Este é um chamado explícito à evangelização. Os judeus retornados atuarão como mensageiros. O gesto de levar as ofertas 'sobre o ombro' é uma imagem de grande respeito e honra, mostrando que as nações reconhecerão a soberania de Deus.",
+      "temas": [
+        "Evangelização",
+        "Adoração das Nações",
+        "Honra a Deus"
+      ],
+      "personagens": [
+        "Povo de Israel",
+        "Nações Gentias"
+      ]
     },
     "7": {
-      "parafrase": "Ouvi-me, vós que conheceis a justiça, povo em cujo coração está a minha lei; não temais o opróbrio dos homens, nem vos assombreis com as suas injúrias.",
-      "referencias": ["Mateus 10:28"],
-      "comentario": "Deus encoraja aqueles que conhecem Sua justiça e têm Sua lei em seus corações a não temerem a perseguição ou o desprezo humano. A verdadeira segurança está em Deus.",
-      "temas": ["Não Temer", "Perseguição", "Fidelidade à Lei"],
-      "personagens": []
+      "parafrase": "E acontecerá que, entre todos esses povos gentios, alguns se voltarão para Mim, e eles trarão seus irmãos e irmãs, que ficaram perdidos ou cativos, de volta para a terra prometida, como se estivessem oferecendo um sacrifício puro ao Senhor dos Exércitos.",
+      "referencias": [
+        "Zacarias 14:16",
+        "Filipenses 2:29-30"
+      ],
+      "comentario": "A reciprocidade é estabelecida: as nações não só receberão a mensagem, mas também participarão ativamente na reunificação de Israel, tratando o retorno dos judeus como um ato de adoração religiosa.",
+      "temas": [
+        "Conversão das Nações",
+        "Reunificação",
+        "Ato de Adoração"
+      ],
+      "personagens": [
+        "Nações Gentias"
+      ]
     },
     "8": {
-      "parafrase": "Porque a traça os comerá como a um vestido, e o bicho os comerá como a lã; mas a minha justiça durará para sempre, e a minha salvação por todas as gerações.",
-      "referencias": ["Isaías 50:9"],
-      "comentario": "Os opressores humanos são transitórios e perecerão como um vestido comido pela traça. Em contraste, a justiça e a salvação de Deus são eternas e durarão por todas as gerações.",
-      "temas": ["Transitoriedade dos Opressores", "Eternidade da Justiça Divina", "Salvação Eterna"],
-      "personagens": []
+      "parafrase": "Eu, o Criador dos céus, declaro: Ninguém jamais ousou perguntar de onde vieram as nações que Eu estou trazendo de volta. Elas não vieram de longas viagens, nem foram reunidas por reis poderosos. Não! Eu as trouxe com o meu poder soberano, do mar ou de terras distantes.",
+      "referencias": [
+        "Salmos 24:1",
+        "Apocalipse 17:15"
+      ],
+      "comentario": "Deus afirma sua soberania absoluta sobre a geopolítica e a mobilidade humana. A reunião do povo não depende de fatores humanos ou militares, mas unicamente da vontade e do poder divino ('meus braços poderosos').",
+      "temas": [
+        "Soberania Divina",
+        "Poder Criador",
+        "Origem da Salvação"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "9": {
-      "parafrase": "Desperta, desperta, veste-te de força, ó braço do Senhor; desperta como nos dias antigos, nas gerações passadas. Não és tu aquele que cortou a Raabe, e feriu o dragão?",
-      "referencias": ["Salmo 74:13-14"],
-      "comentario": "O profeta (ou o povo) clama a Deus para que Ele intervenha com o mesmo poder que demonstrou no passado, ao derrotar o Egito (Raabe) e o monstro marinho (dragão), símbolos do caos e da opressão.",
-      "temas": ["Oração por Intervenção", "Poder de Deus", "Memória do Passado"],
-      "personagens": ["Braço do Senhor", "Raabe", "Dragão"]
+      "parafrase": "Mas cuidado! Não se lembrem mais dos feitos antigos, não fiquem olhando para trás, para as tragédias passadas! Olhem para Mim, pois estou prestes a fazer algo totalmente novo, algo que vocês nunca viram acontecer antes. Está brotando agora, e vocês verão este milagre em sua própria geração! A semente da restauração já está sendo plantada!",
+      "referencias": [
+        "Filipenses 3:13-14",
+        "2 Coríntios 5:17"
+      ],
+      "comentario": "Uma advertência crucial contra a nostalgia destrutiva e a fixação na dor passada. O hebraico enfatiza a novidade ('ḥadāshâ') – um ato criativo divino inédito, contrastando com a restauração de eventos anteriores.",
+      "temas": [
+        "Novidade de Deus",
+        "Olhar para o futuro",
+        "Superar o passado"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "10": {
-      "parafrase": "Não és tu aquele que secou o mar, as águas do grande abismo? Que fez do fundo do mar um caminho para que passassem os remidos?",
-      "referencias": ["Êxodo 14:21"],
-      "comentario": "O clamor continua, lembrando a Deus de Seu poder no Êxodo, quando Ele abriu o Mar Vermelho para Seu povo. É um apelo à Sua fidelidade e capacidade de realizar milagres.",
-      "temas": ["Milagre do Êxodo", "Fidelidade de Deus", "Poder de Deus"],
-      "personagens": []
+      "parafrase": "Vocês, meus servos, são as testemunhas de tudo isso que estou declarando agora. Vocês foram escolhidos por Mim para verem e anunciarem. E Eu, o Eterno, sou o único Deus verdadeiro. Portanto, guardem isso no coração: depois de testemunharem isso, vocês deverão proclamar a minha salvação para todos os povos.",
+      "referencias": [
+        "João 15:27",
+        "Atos 1:8"
+      ],
+      "comentario": "Os profetas e o povo fiel são designados como 'testemunhas' ('ʿēdâw' – testemunhas ou minha corte). A afirmação 'Eu sou o único' (Yah) é uma declaração monoteísta fundamental, que legitima a autoridade da profecia que se segue.",
+      "temas": [
+        "Servidão",
+        "Missão de testemunhar",
+        "Monoteísmo"
+      ],
+      "personagens": [
+        "Servos de Deus"
+      ]
     },
     "11": {
-      "parafrase": "Assim voltarão os resgatados do Senhor, e virão a Sião com júbilo, e alegria eterna haverá sobre as suas cabeças; gozo e alegria alcançarão, e deles fugirá a tristeza e o gemido.",
-      "referencias": ["Isaías 35:10"],
-      "comentario": "A resposta à oração é a promessa de um retorno glorioso do exílio. Os redimidos virão a Sião com alegria eterna, e toda a tristeza e sofrimento desaparecerão.",
-      "temas": ["Retorno do Exílio", "Alegria Eterna", "Fim do Sofrimento"],
-      "personagens": ["Resgatados do Senhor"]
+      "parafrase": "Eu sou Aquele que traz o livramento! Eu sou o único que pode salvar, e a minha mão forte guia vocês! Quem é como Eu? Quem pode comparar-se ao poder de quem criou o mundo e agora o está redimindo?",
+      "referencias": [
+        "Salmos 18:2",
+        "1 Timóteo 2:5"
+      ],
+      "comentario": "Um desafio retórico à idolatria. O termo hebraico para salvador ('môšî') é repetido para enfatizar que a libertação provém exclusivamente de Yahweh, não de falsos deuses ou poderes humanos.",
+      "temas": [
+        "Exclusividade da Salvação",
+        "Poder de Deus",
+        "Libertador"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "12": {
-      "parafrase": "Eu, eu sou aquele que vos consola; quem, pois, és tu, para que temas o homem que morre, e o filho do homem, que se tornará em erva?",
-      "referencias": ["Isaías 40:6-8"],
-      "comentario": "Deus reafirma Sua identidade como o Consolador. Ele repreende o medo do homem, que é mortal e frágil como a grama, em contraste com o Deus eterno e poderoso.",
-      "temas": ["Consolador Divino", "Não Temer o Homem", "Fragilidade Humana"],
-      "personagens": []
+      "parafrase": "Eu convoquei vocês, e vocês são minhas testemunhas, para provar que Eu sou o primeiro e o último a agir. E vocês proclamarão a minha obra. Mas não há ninguém, entre todas as nações que julguei, que tenha se levantado para me desafiar abertamente ou para prever o futuro como Eu fiz.",
+      "referencias": [
+        "Isaías 44:6",
+        "Apocalipse 1:8"
+      ],
+      "comentario": "A prova da divindade de Deus reside em Sua capacidade profética. Ele aponta para a impossibilidade de ídolos ou outros deuses terem previsto o julgamento e a subsequente restauração, validando Sua palavra através do cumprimento.",
+      "temas": [
+        "Provas da Divindade",
+        "Profecia como sinal",
+        "Julgamento passado"
+      ],
+      "personagens": [
+        "Deus",
+        "Nações"
+      ]
     },
     "13": {
-      "parafrase": "E te esqueces do Senhor, teu Criador, que estendeu os céus, e fundou a terra, e temes continuamente todo o dia por causa do furor do opressor, quando ele se prepara para destruir? Onde está o furor do opressor?",
-      "referencias": ["Isaías 40:22"],
-      "comentario": "A repreensão continua. O medo do opressor é irracional, pois eles se esquecem do poder ilimitado de Deus, o Criador do universo. O furor do opressor é temporário e insignificante diante de Deus.",
-      "temas": ["Esquecimento de Deus", "Medo Irracional", "Poder do Opressor Limitado"],
-      "personagens": ["Senhor", "Criador"]
+      "parafrase": "Desde o início dos tempos, antes que o tempo fosse contado, Eu sou Deus. E ninguém pode impedir minha mão de agir ou anular minhas decisões. Quando Eu decido fazer algo, quem pode dizer 'Não' ao Senhor dos Exércitos?",
+      "referencias": [
+        "Salmos 33:11",
+        "Romanos 9:19"
+      ],
+      "comentario": "Ênfase na eternidade ('miqqedem' – desde o princípio) e na imutabilidade do plano divino. A pergunta retórica final sobre quem pode frustrar Sua vontade reforça a soberania absoluta sobre o destino.",
+      "temas": [
+        "Eternidade de Deus",
+        "Imutabilidade",
+        "Soberania do Plano"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "14": {
-      "parafrase": "O cativo apressadamente será solto, e não morrerá na cova, nem o seu pão lhe faltará.",
-      "referencias": ["Zacarias 9:11-12"],
-      "comentario": "A promessa de libertação rápida e completa para os cativos. Eles não morrerão no exílio e terão suas necessidades básicas supridas.",
-      "temas": ["Libertação", "Provisão", "Segurança"],
-      "personagens": []
+      "parafrase": "Escutem, vocês, que são chamados de 'peregrinos' e 'separados' por causa do julgamento! Vocês, que precisam fugir de Babilônia e da opressão que os persegue! O Senhor, o Redentor de vocês, o Santo de Israel, está preparando o caminho para a libertação final.",
+      "referencias": [
+        "Apocalipse 18:4",
+        "Jeremias 50:33"
+      ],
+      "comentario": "Este versículo marca uma mudança de foco, dirigindo-se explicitamente aos exilados em Babilônia (o segundo êxodo profetizado). 'Peregrinos' ('gēr') denota o estado de alienação. O título 'Santo de Israel' reintroduz a santidade de Deus como base para a redenção.",
+      "temas": [
+        "Exílio Babilônico",
+        "Redenção",
+        "Santidade"
+      ],
+      "personagens": [
+        "Exilados",
+        "Santo de Israel"
+      ]
     },
     "15": {
-      "parafrase": "Porque eu sou o Senhor teu Deus, que agita o mar, de modo que as suas ondas bramam; o Senhor dos Exércitos é o seu nome.",
-      "referencias": ["Salmo 65:7"],
-      "comentario": "Deus reafirma Seu poder sobre a natureza, controlando o mar e suas ondas. Ele é o Senhor dos Exércitos, o comandante supremo.",
-      "temas": ["Poder sobre a Natureza", "Soberania", "Senhor dos Exércitos"],
-      "personagens": ["Senhor teu Deus", "Senhor dos Exércitos"]
+      "parafrase": "Vejam, Eu farei um caminho novo e sem obstáculos no meio do mar, uma estrada seca através das águas profundas! Eu aniquilarei os navios poderosos e os exércitos dos inimigos que se opuseram a vocês, e farei com que os ídolos e os poderes do mundo desmoronem como cinzas inofensivas.",
+      "referencias": [
+        "Êxodo 14:21-22",
+        "Salmos 74:13-14"
+      ],
+      "comentario": "Esta é a alusão mais forte ao Êxodo original (a abertura do Mar Vermelho). O 'caminho no mar' é uma hipérbole poderosa, simbolizando a superação de obstáculos intransponíveis. A destruição dos 'navios' (símbolo de poder marítimo, muitas vezes associado a nações como Tiro ou Egito) é a destruição do poderio militar inimigo.",
+      "temas": [
+        "Milagres de libertação",
+        "Destruição dos inimigos",
+        "Caminho novo"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "16": {
-      "parafrase": "E ponho as minhas palavras na tua boca, e te cubro com a sombra da minha mão, para estender os céus, e para fundar a terra, e para dizer a Sião: Tu és o meu povo.",
-      "referencias": ["Isaías 49:2"],
-      "comentario": "Deus capacita o profeta (ou o Servo) com Sua palavra e o protege. O propósito final é a restauração da criação e a reafirmação da aliança com Sião, chamando-a de Seu povo.",
-      "temas": ["Palavra de Deus", "Proteção Divina", "Restauração da Criação", "Aliança"],
-      "personagens": []
+      "parafrase": "Foi Eu quem abriu o caminho no mar no passado e fez um trilho firme no meio das águas turbulentas! Quem foi que preparou a marcha vitoriosa de vocês, que esmagou os carros de guerra e os cavalos dos seus opressores até que eles ficassem imóveis como a relva cortada, sem mais poder se mover?",
+      "referencias": [
+        "Êxodo 15:1-12",
+        "Josué 1:3"
+      ],
+      "comentario": "O profeta reforça a memória do primeiro milagre redentor. Os exércitos inimigos são comparados a 'relva cortada' (hebraico: 'dĕşâ') – algo que é facilmente varrido ou seco, enfatizando a facilidade com que Deus destrói a força militar opressora.",
+      "temas": [
+        "Memória do Êxodo",
+        "Derrota dos Opressores",
+        "Poder militar esmagado"
+      ],
+      "personagens": [
+        "Israel",
+        "Exércitos inimigos"
+      ]
     },
     "17": {
-      "parafrase": "Desperta, desperta, levanta-te, ó Jerusalém, que bebestes da mão do Senhor o cálice do seu furor; bebestes e esgotastes as fezes do cálice do atordoamento.",
-      "referencias": ["Jeremias 25:15-16"],
-      "comentario": "Um chamado urgente para Jerusalém despertar de seu estupor. Ela bebeu o cálice da ira de Deus, experimentando o juízo em sua plenitude, até as últimas gotas.",
-      "temas": ["Despertar", "Cálice da Ira", "Juízo"],
-      "personagens": ["Jerusalém", "Senhor"]
+      "parafrase": "Lembrem-se de que não é uma memória distante: foi Eu quem fez o povo de vocês passar ileso! Lembrem-se de que quem tenta desafiar a minha autoridade, seja um exército poderoso ou um carro de combate, será destruído em Minha presença, e não restará nada deles, como uma lamparina que se apaga no vento frio.",
+      "referencias": [
+        "Êxodo 14:28",
+        "Juízes 4:3"
+      ],
+      "comentario": "A comparação final da força inimiga apagada como uma chama ('nēr') ou pavio ('phtîl') enfatiza a aniquilação total e a insignificância do poder humano diante de Deus, mesmo o poder de cavalaria, que era a força militar suprema da época.",
+      "temas": [
+        "Aniquilação do Inimigo",
+        "Insignificância Humana",
+        "Poder da Chama Apagada"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "18": {
-      "parafrase": "De todos os filhos que ela deu à luz, nenhum há que a guie; e de todos os filhos que ela criou, nenhum há que a tome pela mão.",
-      "referencias": [],
-      "comentario": "Jerusalém está desamparada, sem líderes ou guias entre seus próprios filhos para ajudá-la em sua condição de embriaguez espiritual.",
-      "temas": ["Desamparo", "Falta de Liderança"],
-      "personagens": []
+      "parafrase": "Mas agora, parem de se preocupar com o que aconteceu no passado! Não fiquem remexendo nas antigas glórias e tragédias! Não guardem na memória as maravilhas que realizei naquela época, pois Eu estou prestes a fazer algo infinitamente mais grandioso e surpreendente!",
+      "referencias": [
+        "2 Coríntios 3:10",
+        "Hebreus 8:13"
+      ],
+      "comentario": "Repetição da exortação do versículo 9, mas intensificada. A glória do primeiro êxodo, embora monumental, será ofuscada pela glória do novo ato redentor (o retorno do exílio e, em última instância, a salvação messiânica).",
+      "temas": [
+        "Superioridade da Nova Obra",
+        "Esquecimento do Passado",
+        "Novas Maravilhas"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "19": {
-      "parafrase": "Estas duas coisas te sobrevieram; quem se compadecerá de ti? A desolação e a destruição, a fome e a espada; quem te consolará?",
-      "referencias": [],
-      "comentario": "Jerusalém sofreu duplamente: desolação e destruição (pela guerra), e fome e espada (pelo cerco). Não há quem a console em sua miséria.",
-      "temas": ["Sofrimento Duplo", "Desolação", "Fome", "Espada"],
-      "personagens": []
+      "parafrase": "Pois eu farei surgir um caminho inédito no deserto! Criarei rios caudalosos e fontes de água cristalina no meio da terra seca e estéril, onde antes só havia areia e pó! O deserto, que era um lugar de morte, se tornará um oásis de vida!",
+      "referencias": [
+        "João 4:14",
+        "Salmos 107:35"
+      ],
+      "comentario": "A 'novidade' (v. 18) é detalhada: a criação de vida onde não havia potencial para ela. Rios ('nəhārôt') e torrentes ('ʾapîqîm') no 'ṣiyyâ' (deserto) invertem a ordem natural e simbolizam a provisão completa de Deus para a jornada de volta.",
+      "temas": [
+        "Provisão Divina",
+        "Criação de Vida",
+        "Inversão da Natureza"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "20": {
-      "parafrase": "Os teus filhos desmaiaram, jazem pelas esquinas de todas as ruas, como o antílope na rede; cheios estão do furor do Senhor, da repreensão do teu Deus.",
-      "referencias": ["Lamentações 2:19"],
-      "comentario": "Os filhos de Jerusalém estão exaustos e sem forças, caídos nas ruas, como animais presos em uma armadilha, sob o peso da ira de Deus.",
-      "temas": ["Exaustão", "Desespero", "Ira de Deus"],
-      "personagens": []
+      "parafrase": "Os animais selvagens, os leões famintos e as feras mais temidas, todos se curvarão e renderão homenagem a este caminho que eu criei. Eles farão isso porque eu darei água para beber aos meus filhos, e o bebedouro deles será nos rios que brotaram da rocha, dando glória a Mim.",
+      "referencias": [
+        "Gênesis 49:9",
+        "Ezequiel 34:25"
+      ],
+      "comentario": "A pacificação da natureza selvagem ('ḥayyôt-ṣelem' – animais selvagens/feras) é um sinal da ordem restaurada no cosmos, um reflexo da paz de Deus. Até mesmo os predadores reconhecerão a fonte da vida (a água) e respeitarão o povo de Deus.",
+      "temas": [
+        "Paz cósmica",
+        "Domínio sobre a natureza",
+        "Provisão de água"
+      ],
+      "personagens": [
+        "Animais selvagens"
+      ]
     },
     "21": {
-      "parafrase": "Portanto, ouve agora isto, ó aflita, e embriagada, mas não de vinho.",
-      "referencias": [],
-      "comentario": "Um chamado final para Jerusalém, que está sofrendo e embriagada, não por álcool, mas pelo juízo de Deus.",
-      "temas": ["Sofrimento", "Juízo"],
-      "personagens": []
+      "parafrase": "Eu criei este povo, Israel, unicamente para a minha própria glória, para que eles me louvassem e anunciassem as minhas grandes obras em todo o mundo. Eles não existem para si mesmos, mas para serem um hino vivo de adoração a Mim.",
+      "referencias": [
+        "1 Pedro 2:9",
+        "Efésios 1:12"
+      ],
+      "comentario": "O propósito final da existência de Israel é definido: exaltação de Deus ('lĕṯī šĕvī') e narração dos Seus feitos. Este é o fundamento da teologia da vocação do povo eleito.",
+      "temas": [
+        "Propósito de Israel",
+        "Louvor",
+        "Glória exclusiva a Deus"
+      ],
+      "personagens": [
+        "Deus",
+        "Israel"
+      ]
     },
     "22": {
-      "parafrase": "Assim diz o teu Senhor, o Senhor, e o teu Deus, que pleiteia a causa do seu povo: Eis que tiro da tua mão o cálice do atordoamento, as fezes do cálice do meu furor; nunca mais o beberás.",
-      "referencias": ["Jeremias 25:28"],
-      "comentario": "Deus, o Advogado de Seu povo, promete remover o cálice da ira de Jerusalém. Ela não mais experimentará o juízo. É uma promessa de alívio e restauração.",
-      "temas": ["Alívio", "Restauração", "Fim do Juízo"],
-      "personagens": ["Senhor", "Teu Deus"]
+      "parafrase": "Mas, apesar de tudo isso, vocês não se voltaram para Mim! Vocês, Jacó, se cansaram de me trazer ofertas e de me honrar com seus sacrifícios! Vocês me sobrecarregaram com os fardos dos seus pecados e com as exigências vazias dos rituais!",
+      "referencias": [
+        "Amós 5:21-24",
+        "Mateus 15:8-9"
+      ],
+      "comentario": "Um contraste doloroso. Depois de todas as promessas e da identidade concedida, o povo falhou em responder com adoração sincera. Eles trouxeram sacrifícios, mas o coração estava ausente; o ritual vazio ('mînḥâ' – oferta) se tornou um fardo ('ʿāmâsîti').",
+      "temas": [
+        "Falta de Sinceridade",
+        "Ritualismo vazio",
+        "Rebelião silenciosa"
+      ],
+      "personagens": [
+        "Jacó (Israel)"
+      ]
     },
     "23": {
-      "parafrase": "E o porei na mão dos que te afligiram, dos que disseram à tua alma: Abaixa-te, para que passemos; e tu puseste as tuas costas como chão, e como rua para os que passavam.",
-      "referencias": ["Zacarias 12:2"],
-      "comentario": "O cálice da ira será transferido para os opressores de Jerusalém. Aqueles que a humilharam e a pisotearam agora beberão do mesmo cálice de juízo que ela bebeu.",
-      "temas": ["Juízo Retributivo", "Inversão", "Vindicação"],
-      "personagens": []
+      "parafrase": "Vocês não Me trouxeram nem mesmo um cordeiro para o holocausto, nem Me honraram com um único animal para sacrifício, embora Eu tenha fornecido tudo para vocês e os tenha feito trabalhar para o Meu nome! Não sou Eu quem precisa do trabalho de vocês, mas vocês é que precisam da Minha graça!",
+      "referencias": [
+        "Salmos 50:12-14",
+        "Hebreus 9:22"
+      ],
+      "comentario": "O clímax da acusação. Deus declara que não há necessidade material Nele. O povo falhou em fornecer o sacrifício mais básico, demonstrando negligência extrema. A graça de Deus precede e supera qualquer exigência ritualística do homem.",
+      "temas": [
+        "Ausência de Sacrifício Genuíno",
+        "Dependência da Graça",
+        "Oração e Dever"
+      ],
+      "personagens": [
+        "Deus",
+        "Israel"
+      ]
     }
   }
 }

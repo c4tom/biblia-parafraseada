@@ -1,232 +1,536 @@
 {
   "livro": "Jeremias",
   "capitulo": 36,
-  "contexto_historico": "Este capítulo narra a primeira vez que as profecias de Jeremias foram escritas em um rolo e lidas publicamente. O evento ocorre no quarto ano do rei Jeoiaquim, quando Deus instrui Jeremias a escrever todas as palavras que Ele lhe falou desde o início de seu ministério. O rolo é lido no Templo, e depois ao rei Jeoiaquim, que o queima em desafio. A profecia enfatiza a persistente rebelião do rei e a certeza do juízo divino, mesmo diante da destruição da palavra de Deus.",
-  "bloco_tematico": "O Rolo de Jeremias Queimado pelo Rei Jeoiaquim",
+  "contexto_historico": "Jeremias profetiza durante os anos finais do Reino de Judá, sob o reinado de Zedequias, pouco antes da destruição de Jerusalém e do Templo por Nabucodonosor II da Babilônia (c. 587/586 a.C.). Este período é marcado pela resistência teimosa de Judá em se submeter ao domínio babilônico e pela falsa esperança de libertação rápida, apesar das advertências contínuas de Jeremias. O povo e os falsos profetas clamavam por paz e segurança, ignorando a iminência do julgamento divino devido à idolatria e à injustiça social persistentes. 😠🔥",
+  "bloco_tematico": "A Profecia da Destruição e a Esperança da Aliança Renovada 📜💔",
   "versiculos": {
     "1": {
-      "parafrase": "Aconteceu no quarto ano de Jeoiaquim, filho de Josias, rei de Judá, que veio esta palavra do Senhor a Jeremias, dizendo:",
-      "referencias": ["Jeremias 25:1"],
-      "comentario": "A profecia é datada no quarto ano de Jeoiaquim, um período crucial antes do primeiro exílio para a Babilônia. Deus instrui Jeremias a registrar Suas palavras.",
-      "temas": ["Contexto Histórico", "Datação", "Revelação Divina"],
-      "personagens": ["Jeoiaquim", "Senhor", "Jeremias"]
+      "parafrase": "O décimo ano do reinado de Zedequias, o rei de Judá, foi marcado por um evento solene e aterrador: no décimo mês, no décimo dia do mês, o Senhor dirigiu Sua palavra ao profeta Jeremias com uma ordem específica e urgente.",
+      "referencias": [
+        "Jeremias 34:1",
+        "Ezequiel 24:1"
+      ],
+      "comentario": "O tempo cronológico é crucial aqui: o décimo ano de Zedequias (cerca de 588/587 a.C.) marca o cerco final de Nabucodonosor a Jerusalém, um ponto de não retorno para o reino de Judá. O detalhamento do mês e dia enfatiza a precisão da convocação divina.",
+      "temas": [
+        "Chamado Profético",
+        "Início do Cerco",
+        "Ação Divina"
+      ],
+      "personagens": [
+        "Jeremias",
+        "Senhor",
+        "Zedequias"
+      ]
     },
     "2": {
-      "parafrase": "Toma um rolo de livro, e escreve nele todas as palavras que te tenho falado contra Israel, e contra Judá, e contra todas as nações, desde o dia em que te falei, desde os dias de Josias, até ao dia de hoje.",
-      "referencias": ["Jeremias 30:2"],
-      "comentario": "Jeremias é instruído a compilar todas as profecias que Deus lhe deu ao longo de seu ministério, abrangendo mensagens de juízo contra Israel, Judá e as nações.",
-      "temas": ["Registro Profético", "Compilação", "Palavra de Deus"],
-      "personagens": []
+      "parafrase": "O Senhor ordenou que Jeremias fosse até a entrada da Porta do Templo, o local mais sagrado e visível da cidade, e ali proferisse estas palavras solenes a todo o povo de Judá que estivesse reunido ali.",
+      "referencias": [
+        "Jeremias 7:2",
+        "Mateus 21:12"
+      ],
+      "comentario": "A escolha da Porta do Templo (provavelmente a Porta de Benjamim ou a principal entrada) assegura a máxima audiência pública. É um palco montado por Deus para um anúncio de catástrofe iminente.",
+      "temas": [
+        "Proclamação Pública",
+        "Templo",
+        "Audiência"
+      ],
+      "personagens": [
+        "Jeremias",
+        "Povo de Judá"
+      ]
     },
     "3": {
-      "parafrase": "Bem pode ser que a casa de Judá ouça todo o mal que intento fazer-lhes, para que se convertam cada um do seu mau caminho, e eu perdoe a sua iniquidade e o seu pecado.",
-      "referencias": ["Jeremias 18:8"],
-      "comentario": "O propósito da escrita é o arrependimento. Há uma esperança de que, ao ouvir a palavra de Deus, o povo se arrependa e Deus possa perdoar seus pecados.",
-      "temas": ["Arrependimento", "Misericórdia Divina", "Esperança"],
-      "personagens": []
+      "parafrase": "Você deve proclamar em voz alta: 'Escutem bem as palavras do Senhor, ó reis de Judá, habitantes de Jerusalém e todos vocês que entram por estes portões, pois o Senhor dos Exércitos, o Deus de Israel, está prestes a falar!',",
+      "referencias": [
+        "Isaías 1:10",
+        "Jeremias 17:20"
+      ],
+      "comentario": "O uso do título 'Senhor dos Exércitos' (Yahweh Sabaoth) invoca a soberania militar e cósmica de Deus, sublinhando que a autoridade que fala é incontestável. A mensagem é direcionada a todos os níveis de autoridade e povo.",
+      "temas": [
+        "Soberania Divina",
+        "Autoridade da Palavra",
+        "Reis e Povo"
+      ],
+      "personagens": [
+        "Senhor dos Exércitos"
+      ]
     },
     "4": {
-      "parafrase": "Então Jeremias chamou a Baruque, filho de Nerias; e Baruque escreveu num rolo de livro, da boca de Jeremias, todas as palavras do Senhor, que ele lhe havia falado.",
-      "referencias": [],
-      "comentario": "Jeremias dita as profecias a Baruque, seu escriba, que as registra fielmente. Isso destaca a importância da transmissão escrita da palavra de Deus.",
-      "temas": ["Escriba", "Registro", "Fidelidade"],
-      "personagens": ["Jeremias", "Baruque", "Senhor"]
+      "parafrase": "Pois assim diz o Eterno: 'Se vocês obedecerem a esta Palavra, se pararem de ignorar os avisos dos profetas que incessantemente lhes enviei, então seus reis e governantes continuarão a se sentar firmes neste trono, desfrutando de sua autoridade aqui em Davi e em sua linhagem real.'",
+      "referencias": [
+        "Jeremias 22:1-4",
+        "Deuteronômio 28:1"
+      ],
+      "comentario": "Este é um ultimato condicional. A manutenção da dinastia davídica (a aliança com Davi) está diretamente ligada à obediência à Palavra profética. Deus está testando a fidelidade deles à Sua aliança.",
+      "temas": [
+        "Aliança Davídica",
+        "Obediência",
+        "Condicionalidade"
+      ],
+      "personagens": [
+        "Reis de Judá"
+      ]
     },
     "5": {
-      "parafrase": "E Jeremias ordenou a Baruque, dizendo: Eu estou impedido; não posso entrar na casa do Senhor.",
-      "referencias": [],
-      "comentario": "Jeremias está proibido de entrar no Templo, talvez por causa de sua prisão anterior ou por ser considerado impuro. Por isso, Baruque deve ler o rolo em seu lugar.",
-      "temas": ["Impedimento", "Substituição"],
-      "personagens": ["Jeremias", "Baruque"]
+      "parafrase": "Mas, se recusarem ouvir, se continuarem a ignorar a voz dos profetas que lhes enviei com diligência — e lembrem-se que eu os enviei com grande empenho —, então eu farei deste Templo o que fiz com Siló!'",
+      "referencias": [
+        "Jeremias 7:12-14",
+        "1 Samuel 4:10-11"
+      ],
+      "comentario": "A referência a Siló é devastadora. Siló abrigava o Tabernáculo e foi destruída pelos filisteus (1 Sm 4), simbolizando o abandono divino da presença sagrada. É a ameaça de desconsagração total do Templo de Salomão.",
+      "temas": [
+        "Juízo Divino",
+        "Abandono do Templo",
+        "Profetas"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "6": {
-      "parafrase": "Entra, pois, tu, e lê no rolo, que escreveste da minha boca, as palavras do Senhor, aos ouvidos do povo, na casa do Senhor, no dia de jejum; e também aos ouvidos de todo o Judá, que vêm das suas cidades.",
-      "referencias": [],
-      "comentario": "Baruque é instruído a ler o rolo publicamente no Templo, em um dia de jejum, quando muitas pessoas estariam reunidas, garantindo que a mensagem fosse amplamente ouvida.",
-      "temas": ["Leitura Pública", "Proclamação", "Dia de Jejum"],
-      "personagens": ["Baruque", "Senhor"]
+      "parafrase": "E eu lançarei esta cidade, Jerusalém, como um campo vazio, sujeita à destruição, e todos os montes que rodeiam este lugar serão cobertos por montanhas de ruínas, e todos os seus habitantes verão a sua casa virar pó, como os que estão lá fora agora.'",
+      "referencias": [
+        "Miquéias 1:6",
+        "Jeremias 26:18"
+      ],
+      "comentario": "A imagem de transformar Jerusalém em 'campo vazio' (como um monte de terra arada) e ruínas é um prenúncio da destruição babilônica. A cidade será desfigurada, despojada de sua glória e habitantes.",
+      "temas": [
+        "Destruição",
+        "Desolação",
+        "Profecia Cumprida"
+      ],
+      "personagens": [
+        "Jerusalém"
+      ]
     },
     "7": {
-      "parafrase": "Bem pode ser que a sua súplica chegue diante do Senhor, e se convertam cada um do seu mau caminho; porque grande é a ira e o furor que o Senhor pronunciou contra este povo.",
-      "referencias": [],
-      "comentario": "A esperança é que a leitura da palavra de Deus leve o povo ao arrependimento e à súplica, para que a ira de Deus seja desviada.",
-      "temas": ["Esperança de Arrependimento", "Ira Divina", "Súplica"],
-      "personagens": ["Senhor"]
+      "parafrase": "Então, eu farei o que fiz com Siló: destruirei meu Santuário, o lugar que escolhi para que meu Nome habitasse, e o entregarei ao caos e à aniquilação, como prometido.'",
+      "referencias": [
+        "Jeremias 7:14",
+        "Salmos 78:60-64"
+      ],
+      "comentario": "Reforça a comparação com Siló. O Templo, construído para a morada perpétua do Nome de Deus (presença), será reduzido a nada. É a expressão máxima da ira santa.",
+      "temas": [
+        "Juízo sobre o Templo",
+        "Nome de Deus",
+        "Destruição"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "8": {
-      "parafrase": "E Baruque, filho de Nerias, fez conforme tudo quanto lhe ordenara Jeremias, o profeta, lendo no livro as palavras do Senhor, na casa do Senhor.",
-      "referencias": [],
-      "comentario": "Baruque obedece fielmente à instrução de Jeremias, lendo o rolo no Templo.",
-      "temas": ["Obediência", "Fidelidade"],
-      "personagens": ["Baruque", "Jeremias", "Senhor"]
+      "parafrase": "Ao ouvir estas palavras duras, Jeremias obedeceu imediatamente e foi embora daquele lugar, saindo da presença do povo.",
+      "referencias": [
+        "Jeremias 26:12",
+        "Atos 5:28"
+      ],
+      "comentario": "A reação imediata de obediência do profeta contrasta com a teimosia do povo. Ele cumpriu a ordem de pregar na porta do Templo.",
+      "temas": [
+        "Obediência Profética",
+        "Cumprimento da Missão"
+      ],
+      "personagens": [
+        "Jeremias"
+      ]
     },
     "9": {
-      "parafrase": "Aconteceu, pois, no quinto ano de Jeoiaquim, filho de Josias, rei de Judá, no nono mês, que apregoaram um jejum diante do Senhor a todo o povo em Jerusalém, e a todo o povo que vinha das cidades de Judá a Jerusalém.",
-      "referencias": [],
-      "comentario": "A leitura ocorre em um dia de jejum, quando o povo estava reunido, aumentando o impacto da mensagem.",
-      "temas": ["Jejum", "Reunião do Povo", "Contexto"],
-      "personagens": ["Jeoiaquim", "Senhor"]
+      "parafrase": "Mas a Palavra do Senhor veio novamente a Jeremias, desta vez trazendo uma nova e terrível instrução, após ele ter saído daquele local de pregação.",
+      "referencias": [
+        "Jeremias 1:4",
+        "Ezequiel 3:22"
+      ],
+      "comentario": "A repetição do chamado ou recebimento da Palavra (a voz divina persistente) demonstra a urgência da mensagem e a contínua dependência de Jeremias da orientação celestial.",
+      "temas": [
+        "Revelação Contínua",
+        "Comissionamento"
+      ],
+      "personagens": [
+        "Senhor",
+        "Jeremias"
+      ]
     },
     "10": {
-      "parafrase": "Então Baruque leu no livro as palavras de Jeremias, na casa do Senhor, na câmara de Gemarias, filho de Safã, o escrivão, no átrio superior, à entrada da porta nova da casa do Senhor, aos ouvidos de todo o povo.",
-      "referencias": [],
-      "comentario": "O local específico da leitura é detalhado, mostrando a publicidade do evento e a presença de muitos ouvintes.",
-      "temas": ["Leitura Pública", "Localização"],
-      "personagens": ["Baruque", "Jeremias", "Gemarias"]
+      "parafrase": "Diga o seguinte: 'No quarto ano do reinado de Zedequias, no quinto ano do mês, enquanto Nabucodonosor, o rei da Babilônia, ainda não tinha começado seu cerco total contra vocês, os líderes de Judá, vocês agiram de forma desonrosa, mudando uma lei sagrada.'",
+      "referencias": [
+        "Jeremias 35:1-19",
+        "2 Reis 24:10-12"
+      ],
+      "comentario": "A narrativa salta para um erro específico cometido anos antes, mas que se tornou o ponto focal da punição atual: a violação da lei sobre a libertação de escravos hebreus, um ato de injustiça econômica e social que agravou a crise espiritual.",
+      "temas": [
+        "Injustiça Social",
+        "Lei Mosaica",
+        "Contexto Histórico"
+      ],
+      "personagens": [
+        "Zedequias",
+        "Nabucodonosor"
+      ]
     },
     "11": {
-      "parafrase": "E, ouvindo Micaías, filho de Gemarias, filho de Safã, todas as palavras do Senhor, que Baruque lia no livro,",
-      "referencias": [],
-      "comentario": "Micaías, um oficial, ouve a leitura e percebe a importância da mensagem.",
-      "temas": ["Audição", "Percepção"],
-      "personagens": ["Micaías", "Gemarias", "Baruque", "Senhor"]
+      "parafrase": "Vocês, líderes de Judá, fizeram um acordo público diante de Mim, aqui no Templo, para libertar seus servos e servas hebreus, permitindo que eles fossem livres.",
+      "referencias": [
+        "Êxodo 21:2",
+        "Deuteronômio 15:12"
+      ],
+      "comentario": "O ato era uma reafirmação da Lei do Sábado para os escravos. O que torna a quebra tão grave é que o juramento foi feito publicamente 'diante de Mim' (na presença de Deus no Templo).",
+      "temas": [
+        "Pacto",
+        "Liberdade",
+        "Juramento"
+      ],
+      "personagens": [
+        "Líderes de Judá"
+      ]
     },
     "12": {
-      "parafrase": "Desceu à casa do rei, à câmara do escrivão; e eis que todos os príncipes estavam ali assentados, a saber: Elisama, o escrivão, e Delaías, filho de Semaías, e Elnatã, filho de Acbor, e Gemarias, filho de Safã, e Zedequias, filho de Hananias, e todos os príncipes.",
-      "referencias": [],
-      "comentario": "Micaías informa os príncipes sobre a leitura do rolo, levando-os a investigar a mensagem.",
-      "temas": ["Relato", "Investigação"],
-      "personagens": ["Elisama", "Delaías", "Elnatã", "Gemarias", "Zedequias"]
+      "parafrase": "Mas, depois de terem feito este pacto solene, vocês mudaram de ideia, voltaram atrás e forçaram seus homens e mulheres, que haviam sido libertados, a voltarem à escravidão como se nunca tivessem sido soltos.",
+      "referencias": [
+        "Provérbios 12:22",
+        "Tiago 5:4"
+      ],
+      "comentario": "Esta é a essência da traição. O texto hebraico sugere que eles 'retiraram' (retiraram a mão) do pacto. A palavra de Deus não tem valor para eles quando confrontada com o lucro material.",
+      "temas": [
+        "Quebra de Aliança",
+        "Ganância",
+        "Hipocrisia"
+      ],
+      "personagens": [
+        "Líderes de Judá"
+      ]
     },
     "13": {
-      "parafrase": "E Micaías lhes anunciou todas as palavras que ouvira, quando Baruque leu o livro aos ouvidos do povo.",
-      "referencias": [],
-      "comentario": "Micaías relata fielmente o que ouviu, sem distorções.",
-      "temas": ["Relato Fiel"],
-      "personagens": ["Micaías", "Baruque"]
+      "parafrase": "Por isso, assim lhes fala o Senhor: 'Eu os declarei livres! Eu fiz um pacto com seus antepassados, na época em que os tirei da terra do Egito, da casa da escravidão, dizendo-lhes que deveriam servir apenas a Mim, seu Deus.'",
+      "referencias": [
+        "Êxodo 20:2",
+        "Jeremias 34:13"
+      ],
+      "comentario": "Deus estabelece um paralelo direto: a libertação do Egito foi o ato fundador da nação. Ao escravizar novamente seus irmãos, eles estavam essencialmente refazendo o jugo do Egito, desafiando o próprio ato da Redenção nacional.",
+      "temas": [
+        "Redenção do Êxodo",
+        "Direito Divino",
+        "Escravidão"
+      ],
+      "personagens": [
+        "Deus",
+        "Antepassados"
+      ]
     },
     "14": {
-      "parafrase": "Então todos os príncipes enviaram Jeudi, filho de Netanias, filho de Selemias, filho de Cusi, a Baruque, dizendo: Toma na tua mão o rolo em que leste aos ouvidos do povo, e vem. E Baruque, filho de Nerias, tomou o rolo na sua mão, e foi a eles.",
-      "referencias": [],
-      "comentario": "Os príncipes enviam um mensageiro para chamar Baruque e o rolo, para que possam ouvir a mensagem diretamente.",
-      "temas": ["Convocação", "Investigação"],
-      "personagens": ["Jeudi", "Baruque"]
+      "parafrase": "No entanto, vocês não Me deram ouvidos naquele dia, nem obedeceram à Minha lei, virando as costas para as minhas instruções sobre a libertação de seus compatriotas hebreus.",
+      "referencias": [
+        "Deuteronômio 15:15",
+        "Jeremias 11:10"
+      ],
+      "comentario": "A desobediência é reiterada. O cerne da quebra não é apenas o desrespeito ao próximo, mas o desrespeito direto à vontade revelada de Deus expressa na Lei.",
+      "temas": [
+        "Desobediência à Lei",
+        "Rejeição da Vontade Divina"
+      ],
+      "personagens": [
+        "Povo de Judá"
+      ]
     },
     "15": {
-      "parafrase": "E disseram-lhe: Assenta-te agora, e lê-o aos nossos ouvidos. E Baruque o leu aos ouvidos deles.",
-      "referencias": [],
-      "comentario": "Baruque lê o rolo aos príncipes, que ouvem atentamente a palavra de Deus.",
-      "temas": ["Leitura", "Audição"],
-      "personagens": ["Baruque"]
+      "parafrase": "Vocês foram os últimos a se arrepender, virando-se para Mim e me honrando ao decretar a liberdade de seus servos, quando o cerco da Babilônia já estava apertando à porta!",
+      "referencias": [
+        "Jeremias 34:15",
+        "Lucas 13:25"
+      ],
+      "comentario": "Este versículo descreve o falso arrependimento. Eles só libertaram os escravos por coerção externa (o medo da guerra), não por convicção interna. Foi um ato de desespero político/econômico, não de fé.",
+      "temas": [
+        "Arrependimento Falso",
+        "Coerção Externa",
+        "Medo"
+      ],
+      "personagens": [
+        "Líderes"
+      ]
     },
     "16": {
-      "parafrase": "E sucedeu que, tendo eles ouvido todas aquelas palavras, espantaram-se uns aos outros, e disseram a Baruque: Certamente anunciaremos ao rei todas estas palavras.",
-      "referencias": [],
-      "comentario": "Os príncipes ficam chocados com a mensagem e decidem informar o rei, reconhecendo a seriedade da profecia.",
-      "temas": ["Espanto", "Reconhecimento da Seriedade", "Relato ao Rei"],
-      "personagens": ["Baruque"]
+      "parafrase": "Mas, assim que a ameaça imediata diminuiu, vocês voltaram à velha prática, tratando os homens e mulheres que libertaram como propriedade, e os forçaram a se tornarem seus escravos novamente. Vocês agiram como se eu nunca tivesse falado nada!",
+      "referencias": [
+        "2 Pedro 2:20-22",
+        "Gálatas 5:1"
+      ],
+      "comentario": "A metáfora da 'volta ao jugo' é poderosa. Eles caíram numa condição pior que a anterior, pois agora haviam perdido a esperança de redenção legal e haviam ofendido a Deus de forma repetida e consciente.",
+      "temas": [
+        "Recaída Espiritual",
+        "Ofensa Deliberada",
+        "Apropriação Indevida"
+      ],
+      "personagens": [
+        "Povo"
+      ]
     },
     "17": {
-      "parafrase": "E perguntaram a Baruque, dizendo: Declara-nos agora como escreveste todas estas palavras da boca dele.",
-      "referencias": [],
-      "comentario": "Os príncipes questionam Baruque sobre o processo de escrita, querendo saber se a mensagem veio realmente da boca de Jeremias.",
-      "temas": ["Inquérito", "Processo de Escrita"],
-      "personagens": ["Baruque"]
+      "parafrase": "Portanto, prestem atenção ao que o Senhor ordena agora, já que vocês falharam em Me honrar: 'Eu lhes darei a liberdade', diz o Senhor, 'mas será a liberdade para a morte, para serem entregues à espada, à fome terrível e à doença!',",
+      "referencias": [
+        "Apocalipse 6:8",
+        "Jeremias 14:12"
+      ],
+      "comentario": "O juízo é um 'reflexo' da ofensa: a liberdade que eles negaram ao próximo será substituída pela 'liberdade' de serem ceifados por calamidades. A espada, a fome e a peste são os campeões do juízo divino.",
+      "temas": [
+        "Justiça Retributiva",
+        "Morte",
+        "Calvário"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "18": {
-      "parafrase": "Então Baruque lhes disse: Ele me ditava todas estas palavras com a sua boca, e eu as escrevia com tinta no livro.",
-      "referencias": [],
-      "comentario": "Baruque confirma que Jeremias ditou as palavras diretamente a ele, garantindo a autenticidade da mensagem.",
-      "temas": ["Autenticidade", "Ditação"],
-      "personagens": ["Baruque"]
+      "parafrase": "Eu entregarei vocês, os líderes que quebraram o pacto feito diante de Mim, aos seus inimigos — aos babilônios. Estes os levarão cativos para longe daqui, e vocês verão a desgraça que juraram evitar.",
+      "referencias": [
+        "Jeremias 25:9",
+        "2 Reis 24:17"
+      ],
+      "comentario": "O inimigo (Babilônia) é o instrumento designado por Deus para executar o juízo contra aqueles que desrespeitaram a Palavra divina no Templo. A catividade é o destino inevitável.",
+      "temas": [
+        "Instrumento de Juízo",
+        "Cativeiro",
+        "Consequências do Pacto Quebrado"
+      ],
+      "personagens": [
+        "Líderes",
+        "Babilônios"
+      ]
     },
     "19": {
-      "parafrase": "Então disseram os príncipes a Baruque: Vai, esconde-te, tu e Jeremias, e ninguém saiba onde estais.",
-      "referencias": [],
-      "comentario": "Os príncipes, temendo a reação do rei, aconselham Jeremias e Baruque a se esconderem, mostrando que eles reconhecem o perigo da mensagem.",
-      "temas": ["Advertência", "Proteção", "Perigo"],
-      "personagens": ["Baruque", "Jeremias"]
+      "parafrase": "Entregarei os líderes a eles, incluindo os príncipes de Judá, que deliberadamente cortaram a aliança, tratando os animais sacrificiais que passaram entre as duas metades — o pacto que eles mesmos formaram — como se fossem insignificantes!",
+      "referencias": [
+        "Gênesis 15:17",
+        "Hebreus 9:16-17"
+      ],
+      "comentario": "A imagem de 'cortar o animal em dois' era o rito solene de um juramento de aliança (Gênesis 15). Ao fazer isso, eles invocaram Deus como testemunha e garantidor de que o pacto seria mantido sob pena de morte. Eles tornaram a própria cerimônia sagrada em zombaria.",
+      "temas": [
+        "Profanação do Ritual",
+        "Símbolos de Aliança",
+        "Juízo dos Príncipes"
+      ],
+      "personagens": [
+        "Príncipes de Judá"
+      ]
     },
     "20": {
-      "parafrase": "E entraram ao rei na câmara, mas o rolo o guardaram na câmara de Elisama, o escrivão; e anunciaram aos ouvidos do rei todas aquelas palavras.",
-      "referencias": [],
-      "comentario": "Os príncipes informam o rei sobre a mensagem, mas escondem o rolo, talvez para protegê-lo ou para evitar uma reação imediata do rei.",
-      "temas": ["Relato ao Rei", "Precaução"],
-      "personagens": ["Elisama"]
+      "parafrase": "Eu os entregarei, tanto aos príncipes quanto aos sacerdotes que participaram desta traição, aos babilônios, e eles serão jogados na prisão, onde sofrerão a dor da cativeiro.",
+      "referencias": [
+        "Jeremias 20:2-6",
+        "Lamentações 3:39"
+      ],
+      "comentario": "O juízo se estende aos líderes religiosos (sacerdotes) e políticos (príncipes), mostrando que a desobediência era sistêmica e atingia todas as esferas de poder em Jerusalém.",
+      "temas": [
+        "Juízo Abrangente",
+        "Liderança Corrupta",
+        "Prisão"
+      ],
+      "personagens": [
+        "Príncipes",
+        "Sacerdotes",
+        "Babilônios"
+      ]
     },
     "21": {
-      "parafrase": "Então o rei enviou Jeudi para tomar o rolo; e ele o tomou da câmara de Elisama, o escrivão. E Jeudi o leu aos ouvidos do rei, e aos ouvidos de todos os príncipes que estavam com o rei.",
-      "referencias": [],
-      "comentario": "O rei exige que o rolo seja lido para ele e seus oficiais.",
-      "temas": ["Leitura ao Rei", "Exigência"],
-      "personagens": ["Jeudi", "Elisama"]
+      "parafrase": "E eu darei Zedequias, o rei de Judá, e seus oficiais, para as mãos de Nabucodonosor, o rei da Babilônia, e das mãos de seu exército, que acabaram de se afastar temporariamente por causa do cerco!",
+      "referencias": [
+        "2 Reis 25:1-7",
+        "Jeremias 39:1-7"
+      ],
+      "comentario": "O Rei Zedequias, o chefe da nação, é nomeado especificamente. O fato de os babilônios terem 'se afastado' brevemente (mencionado em Jeremias 37, devido à aproximação dos egípcios) é usado por Deus para mostrar que a retirada foi apenas um interlúdio, não um livramento.",
+      "temas": [
+        "Responsabilidade Real",
+        "Entrega ao Inimigo",
+        "Interlúdio de Batalha"
+      ],
+      "personagens": [
+        "Zedequias",
+        "Nabucodonosor"
+      ]
     },
     "22": {
-      "parafrase": "Ora, o rei estava assentado na casa de inverno, no nono mês; e diante dele estava um braseiro aceso.",
-      "referencias": [],
-      "comentario": "O cenário da leitura: o rei está em sua casa de inverno, aquecendo-se, o que contrasta com a seriedade da mensagem de juízo.",
-      "temas": ["Cenário", "Contraste"],
-      "personagens": []
+      "parafrase": "Sim, eu lhes darei nas mãos deles, e eles levarão Zedequias para a Babilônia. Lá ele será humilhado e sofrerá, e a espada não o matará de forma rápida; ele será levado para lá como um prisioneiro de guerra!",
+      "referencias": [
+        "2 Crônicas 36:12-13",
+        "Ezequiel 12:12-13"
+      ],
+      "comentario": "A descrição da punição de Zedequias (conforme detalhado em Jeremias 39) é atroz: ele será levado vivo para ser humilhado publicamente, após ver seus filhos morrerem. A 'morte pela espada' é evitada para maximizar o sofrimento e a humilhação do rei apóstata.",
+      "temas": [
+        "Humilhação do Rei",
+        "Prisão Prolongada",
+        "Sofrimento Público"
+      ],
+      "personagens": [
+        "Zedequias",
+        "Babilônios"
+      ]
     },
     "23": {
-      "parafrase": "E sucedeu que, tendo Jeudi lido três ou quatro colunas, o rei o cortou com um canivete de escrivão, e o lançou no fogo que estava no braseiro, até que todo o rolo se consumiu no fogo que estava no braseiro.",
-      "referencias": [],
-      "comentario": "A reação do rei é de desafio e desprezo. Ele corta o rolo e o queima, tentando destruir a palavra de Deus. Isso demonstra sua rebelião e sua recusa em se arrepender.",
-      "temas": ["Desafio", "Rebelião", "Destruição da Palavra de Deus", "Ato Simbólico"],
-      "personagens": ["Jeudi"]
+      "parafrase": "Você, Jeremias, deve dizer ao povo de Judá: 'Assim diz o Senhor: Eu cumprirei todas as minhas palavras. Este é o Meu decreto final, e ninguém pode anulá-lo.'",
+      "referencias": [
+        "Números 23:19",
+        "Isaías 46:11"
+      ],
+      "comentario": "A afirmação da imutabilidade da Palavra de Deus. O Senhor aqui reafirma que Seus juízos são atos de Sua soberania e que, uma vez decretados, são eficazes e infalíveis.",
+      "temas": [
+        "Invariabilidade Divina",
+        "Decreto Final",
+        "Fidelidade na Palavra"
+      ],
+      "personagens": [
+        "Senhor",
+        "Jeremias"
+      ]
     },
     "24": {
-      "parafrase": "E não se espantaram, nem rasgaram as suas vestes, o rei e nenhum dos seus servos que ouviram todas aquelas palavras.",
-      "referencias": [],
-      "comentario": "A falta de reação do rei e de seus servos mostra a profundidade de sua insensibilidade e dureza de coração diante da palavra de Deus.",
-      "temas": ["Insensibilidade", "Dureza de Coração", "Falta de Arrependimento"],
-      "personagens": []
+      "parafrase": "Eu os tirarei daqui, e vocês se tornarão um exemplo de vergonha para todas as nações ao redor, e todos aqueles que ouvirem sobre o destino de Jerusalém se horrorizarão com o que aconteceu!",
+      "referencias": [
+        "Deuteronômio 28:37",
+        "Lamentações 1:1"
+      ],
+      "comentario": "Jerusalém se tornará o oposto de um farol de luz; será um 'proverbo de maldição'. O destino da cidade servirá como um aviso eterno para os povos sobre as consequências da apostasia e da quebra de pactos.",
+      "temas": [
+        "Vergonha Nacional",
+        "Aviso às Nações",
+        "Sinal de Juízo"
+      ],
+      "personagens": [
+        "Jerusalém"
+      ]
     },
     "25": {
-      "parafrase": "Todavia Elnatã, e Delaías, e Gemarias rogaram ao rei que não queimasse o rolo; mas ele não lhes deu ouvidos.",
-      "referencias": [],
-      "comentario": "Alguns príncipes tentam intervir, mas o rei se recusa a ouvir, mostrando sua determinação em rejeitar a mensagem de Deus.",
-      "temas": ["Intervenção Ignorada", "Rejeição"],
-      "personagens": ["Elnatã", "Delaías", "Gemarias"]
+      "parafrase": "Pois vocês se recusaram a ouvir minhas leis, recusaram-se a ser justos com seu próximo, permitindo que todos voltassem à escravidão, desrespeitando a liberdade que lhes dei no Egito. Agora vocês experimentarão a 'liberdade' de cair pela espada, fome e pestilência em terra estrangeira!'",
+      "referencias": [
+        "Jeremias 24:9",
+        "Habacuque 2:5"
+      ],
+      "comentario": "Este versículo resume a causa-raiz da calamidade: a rejeição explícita da Lei social e ética. O contraste entre a 'liberdade' prometida no Êxodo e a 'liberdade' (cedida à morte) do juízo é o clímax da ironia divina nesta passagem.",
+      "temas": [
+        "Causa do Exílio",
+        "Justiça e Misericórdia",
+        "Ironia do Juízo"
+      ],
+      "personagens": [
+        "Povo de Judá"
+      ]
     },
     "26": {
-      "parafrase": "Antes o rei mandou Jerameel, filho de Hamaleque, e Seraías, filho de Azriel, e Selemias, filho de Abdeel, que prendessem a Baruque, o escrivão, e a Jeremias, o profeta; mas o Senhor os escondeu.",
-      "referencias": [],
-      "comentario": "O rei tenta prender Jeremias e Baruque, mas Deus os protege, mostrando Sua soberania e fidelidade aos Seus servos.",
-      "temas": ["Perseguição", "Proteção Divina", "Soberania"],
-      "personagens": ["Jerameel", "Seraías", "Selemias", "Baruque", "Jeremias", "Senhor"]
+      "parafrase": "Então, o rei Zedequias ordenou que Jeremias fosse libertado da prisão, do pátio da guarda. O profeta foi então levado para viver na área da casa do oleiro, um lugar que, embora ainda fosse uma forma de confinamento, oferecia um pouco mais de liberdade e, talvez, a esperança de sustento através do trabalho ou observação da cerâmica. Era um alívio temporário, uma pausa na escuridão mais profunda, mas ele permanecia sob custódia rigorosa do reino em colapso.",
+      "referencias": [
+        "Jeremias 32:2",
+        "Atos 16:23"
+      ],
+      "comentario": "A libertação ('mandou tirar Jeremias') de Zedequias da 'casa da guarda' (Hebraico: *beit ha'pequedah*, a prisão ou quartel da guarda) para a 'casa do oleiro' (*beit ha'yotzer*) não é um ato de bondade, mas uma realocação estratégica. O oleiro era um símbolo poderoso de Deus como o Artesão Supremo (comparar com Isaías 64:8). Colocar Jeremias ali, simbolicamente próximo ao local onde o barro é moldado, realça o tema do julgamento e da soberania divina sobre a nação, que está prestes a ser esmagada como um vaso defeituoso.",
+      "temas": [
+        "Soberania Divina",
+        "Prisão e Cativeiro",
+        "Profecia em Conflito"
+      ],
+      "personagens": [
+        "Zedequias",
+        "Jeremias"
+      ]
     },
     "27": {
-      "parafrase": "Então veio a palavra do Senhor a Jeremias, depois que o rei queimara o rolo, e as palavras que Baruque escrevera da boca de Jeremias, dizendo:",
-      "referencias": [],
-      "comentario": "Deus responde à queima do rolo, reafirmando Sua palavra.",
-      "temas": ["Revelação Divina", "Resposta de Deus"],
-      "personagens": ["Senhor", "Jeremias", "Baruque"]
+      "parafrase": "Assim, Jeremias permaneceu ali, recebendo o seu pão diário, a ração básica, diretamente da padaria estatal, até que toda a provisão de pão da cidade foi completamente consumida pela longa e implacável invasão babilônica. A cidade estava no limite da fome, e a entrega de alimento ao profeta era um reflexo do último esforço do rei para mantê-lo vivo, ou talvez, para se isentar da responsabilidade de tê-lo executado.",
+      "referencias": [
+        "Jeremias 37:21",
+        "Lamentações 4:4"
+      ],
+      "comentario": "O detalhe do pão ('pão de cada dia') sublinha a severidade do cerco. O fornecimento contínuo ao profeta, mesmo enquanto a população sofria terrivelmente, era mantido, mas a frase final 'até que todo o pão da terra se comeu' indica o fim da resistência dos recursos alimentares de Jerusalém. A fome atingiu seu clímax antes da queda final.",
+      "temas": [
+        "Cerco de Jerusalém",
+        "Fome",
+        "Manutenção da Vida"
+      ],
+      "personagens": [
+        "Jeremias"
+      ]
     },
     "28": {
-      "parafrase": "Toma outro rolo, e escreve nele todas as palavras que estavam no primeiro rolo, que Jeoiaquim, rei de Judá, queimou.",
-      "referencias": [],
-      "comentario": "Deus instrui Jeremias a reescrever o rolo, mostrando que a palavra de Deus não pode ser destruída. Ela é eterna e inabalável.",
-      "temas": ["Palavra Indestrutível", "Reafirmação", "Eternidade da Palavra"],
-      "personagens": []
+      "parafrase": "E aconteceu que, quando a fome apertou tanto que não havia mais trigo novo para ser distribuído, Jeremias ainda continuava recebendo sua porção, pois o Senhor havia providenciado que ele não morresse de inanição. A mão divina o sustentava no meio do desastre total da cidade.",
+      "referencias": [
+        "Salmos 37:25",
+        "Mateus 6:11"
+      ],
+      "comentario": "Este versículo é um testemunho vivo da fidelidade de Deus para com Seu mensageiro, mesmo no momento mais sombrio. A expressão 'o pão da terra se acabou' (referindo-se ao trigo reservado para o sustento da cidade) contrasta com a provisão contínua de Jeremias, um eco da promessa de que Deus não abandonará aqueles que cumprem Seu propósito, mesmo que a sociedade ao redor desmorone. 💯",
+      "temas": [
+        "Providência Divina",
+        "Fidelidade de Deus",
+        "Sobrevivência"
+      ],
+      "personagens": [
+        "Jeremias",
+        "Senhor"
+      ]
     },
     "29": {
-      "parafrase": "E acerca de Jeoiaquim, rei de Judá, dirás: Assim diz o Senhor: Tu queimaste este rolo, dizendo: Por que escreveste nele, dizendo: Certamente virá o rei de Babilônia, e destruirá esta terra, e fará cessar dela homens e animais?",
-      "referencias": [],
-      "comentario": "Deus confronta Jeoiaquim por sua tentativa de destruir a palavra de Deus e por sua incredulidade na profecia de juízo.",
-      "temas": ["Confronto Divino", "Incredulidade", "Desafio"],
-      "personagens": ["Jeoiaquim", "Senhor"]
+      "parafrase": "Então, os líderes de Judá, vendo que a situação era desesperadora e que a desolação estava prestes a engolir tudo, vieram a Jeremias no pátio onde ele estava sendo guardado. Eles o confrontaram, exigindo que ele falasse a verdade, a palavra que Deus lhe havia dado, sem qualquer filtro ou hesitação, pois agora temiam a ira dos caldeus mais do que a palavra do profeta.",
+      "referencias": [
+        "Jeremias 34:20",
+        "Ezequiel 22:30"
+      ],
+      "comentario": "A mudança de atitude dos príncipes é notável. Anteriormente, eles desprezaram e tentaram matar Jeremias (Jeremias 32:2, 3). Agora, sob o peso iminente da destruição, eles buscam a palavra profética. O termo 'confrontaram' ou 'demandaram' (Hebraico: *chamath*, misturado com ira/paixão) mostra a urgência desesperada deles em obter uma intervenção divina, reconhecendo, tardiamente, que Jeremias era o canal legítimo de Deus.",
+      "temas": [
+        "Desespero da Liderança",
+        "Reconhecimento Tardio",
+        "Busca pela Palavra de Deus"
+      ],
+      "personagens": [
+        "Príncipes de Judá",
+        "Jeremias"
+      ]
     },
     "30": {
-      "parafrase": "Portanto, assim diz o Senhor acerca de Jeoiaquim, rei de Judá: Não terá quem se assente sobre o trono de Davi; e o seu cadáver será lançado fora ao calor do dia, e à geada da noite.",
-      "referencias": ["Jeremias 22:19"],
-      "comentario": "Deus anuncia o juízo específico sobre Jeoiaquim: ele não terá um sucessor no trono de Davi, e seu corpo terá uma morte desonrosa, sem sepultamento, exposto aos elementos.",
-      "temas": ["Juízo Específico", "Morte Desonrosa", "Falta de Sucessor"],
-      "personagens": ["Senhor", "Jeoiaquim"]
+      "parafrase": "Jeremias, então, como sempre, elevou sua voz e proferiu o decreto de Deus, dizendo: 'Assim diz o Senhor: Eis que entregarei este povo nas mãos do rei da Babilônia, e ele os levará cativos para a terra de Sinear, ou seja, a própria Babilônia, e eles sofrerão as consequências de sua desobediência!'",
+      "referencias": [
+        "Jeremias 25:11",
+        "Gênesis 11:2"
+      ],
+      "comentario": "A repetição da sentença de juízo ('entregarei este povo') serve para reafirmar a inevitabilidade do cativeiro. A referência a 'Sinear' (região da Mesopotâmia onde estava Babilônia) é deliberada, conectando o castigo presente com o orgulho original da humanidade (Torre de Babel, Gênesis 11). O pecado de Jerusalém e o orgulho babilônico são alinhados sob o juízo divino.",
+      "temas": [
+        "Juízo Inevitável",
+        "Cativeiro Babilônico",
+        "Desobediência"
+      ],
+      "personagens": [
+        "Jeremias",
+        "Rei da Babilônia"
+      ]
     },
     "31": {
-      "parafrase": "E castigarei a ele, e a sua descendência, e os seus servos, por causa da sua iniquidade; e trarei sobre eles, e sobre os moradores de Jerusalém, e sobre os homens de Judá, todo o mal que lhes anunciei; mas não deram ouvidos.",
-      "referencias": [],
-      "comentario": "O juízo atingirá Jeoiaquim, sua família e seus servos, bem como Jerusalém e Judá, por causa de sua iniquidade e desobediência.",
-      "temas": ["Castigo", "Iniquidade", "Desobediência"],
-      "personagens": []
+      "parafrase": "E o profeta continuou, alertando-os sobre o destino que os aguardava: 'O rei da Babilônia e toda a sua vasta multidão de soldados os capturarão, e, embora pareça que vocês escaparam temporariamente, eles voltarão, e ninguém poderá salvá-los deste destino final. Eles os ferirão gravemente e os matarão sem misericórdia.'",
+      "referencias": [
+        "Jeremias 21:7",
+        "Jeremias 24:8"
+      ],
+      "comentario": "Este é um aviso de segunda onda. Os líderes, talvez, pensassem que sua prisão anterior (Jeremias 32:2-4) havia mudado o cenário. Jeremias esclarece: o aprisionamento atual é apenas um prelúdio. A expressão 'eles voltarão' refere-se ao cerco que foi interrompido brevemente, mas que será retomado com fúria total. A promessa de ferir e matar enfatiza a brutalidade do julgamento divino através dos instrumentos babilônicos.",
+      "temas": [
+        "Julgamento Completo",
+        "Violência da Guerra",
+        "Falsas Esperanças"
+      ],
+      "personagens": [
+        "Jeremias",
+        "Soldados Babilônicos"
+      ]
     },
     "32": {
-      "parafrase": "Então Jeremias tomou outro rolo, e o deu a Baruque, filho de Nerias, o escrivão, que escreveu nele, da boca de Jeremias, todas as palavras do livro que Jeoiaquim, rei de Judá, queimara no fogo; e ainda se lhes acrescentaram muitas palavras semelhantes.",
-      "referencias": [],
-      "comentario": "O rolo é reescrito, e ainda mais palavras são adicionadas, mostrando que a tentativa do rei de destruir a palavra de Deus foi inútil e apenas resultou em uma mensagem ainda mais forte.",
-      "temas": ["Palavra Indestrutível", "Reafirmação", "Mensagem Ampliada"],
-      "personagens": ["Jeremias", "Baruque", "Jeoiaquim"]
+      "parafrase": "Portanto, Zedequias e todo o povo de Judá devem saber, sem sombra de dúvida, que eu, Jeremias, lhes disse a verdade exata de Deus. Este sofrimento não é um acidente, mas a retribuição justa por terem quebrado o pacto sagrado que fizeram com o Senhor, desobedecendo Seus mandamentos e ignorando Seus profetas. O resultado será a ruína total.",
+      "referencias": [
+        "Deuteronômio 28:15",
+        "Miquéias 6:8"
+      ],
+      "comentario": "O versículo finaliza a comunicação de Jeremias, confirmando sua própria autoridade como porta-voz divino ('Eu, Jeremias, lhes disse a palavra do Senhor'). A causa do desastre é explicitamente nomeada: 'porque vocês quebraram a aliança' (*berith*). Na teologia do Antigo Testamento, quebrar a aliança mosaica era um ato de traição nacional que automaticamente acionava as maldições estipuladas (Deuteronômio 28). 💥",
+      "temas": [
+        "Quebra da Aliança",
+        "Retribuição",
+        "Autoridade Profética"
+      ],
+      "personagens": [
+        "Jeremias",
+        "Zedequias",
+        "Povo de Judá"
+      ]
     }
   }
 }

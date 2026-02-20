@@ -1,323 +1,720 @@
 {
   "livro": "Números",
   "capitulo": 14,
-  "contexto_historico": "Após o relatório negativo da maioria dos espiões, o povo de Israel está em pânico e rebelião contra Deus e Moisés. Este capítulo descreve as consequências desastrosas da incredulidade do povo.",
-  "bloco_tematico": "A Rebelião do Povo e o Juízo de Deus",
+  "contexto_historico": "Após a rebelião liderada por Datã e Abirão, que desafiaram a autoridade de Moisés e Arão e foram punidos pela intervenção divina, o povo de Israel continuava a acampar em Cades, no deserto de Zin (o mesmo local da murmuração anterior sobre a falta de água). Este capítulo marca um ponto de inflexão na jornada após a tragédia da primeira geração condenada. O foco agora se volta para a preparação da próxima geração para entrar na Terra Prometida, começando com a questão das leis relativas às ofertas e, crucialmente, o incidente dos espias e o subsequente julgamento.",
+  "bloco_tematico": "O Julgamento da Desobediência e a Determinação das Leis Sacerdotais ⚖️🗺️",
   "versiculos": {
     "1": {
-      "parafrase": "Naquela noite, toda a comunidade começou a chorar em alta voz.",
-      "referencias": [],
-      "comentario": "O choro do povo não é de arrependimento, mas de autopiedade e desespero. Eles se recusam a confiar na promessa de Deus.",
-      "temas": ["choro", "autopiedade", "desespero"],
-      "personagens": ["Comunidade de Israel"]
+      "parafrase": "No décimo mês do segundo ano após a saída do Egito, a congregação inteira, seguindo as instruções divinas, acampou no Deserto de Zim. Foi ali, neste mesmo lugar, que Miriã, a irmã de Moisés e Aarão, veio a falecer e foi sepultada com honras.",
+      "referencias": [
+        "Êxodo 15:20",
+        "Números 20:1"
+      ],
+      "comentario": "O versículo estabelece o cenário temporal e geográfico crucial: o Deserto de Zim, um local de testes e provações. A morte de Miriã marca o fim de uma era; ela foi uma das líderes proeminentes desde o Êxodo. Sua sepultura em Zim sugere que a geração rebelde, que havia saído do Egito, estava completando seu ciclo de falhas e transições.",
+      "temas": [
+        "Morte de Líderes",
+        "Movimentação no Deserto",
+        "Cumprimento do Tempo"
+      ],
+      "personagens": [
+        "Miriã",
+        "Moisés",
+        "Aarão"
+      ]
     },
     "2": {
-      "parafrase": "Todos os israelitas se queixaram contra Moisés e Arão, e toda a comunidade lhes disse: 'Quem dera tivéssemos morrido no Egito! Ou neste deserto!'",
-      "referencias": [],
-      "comentario": "A murmuração se transforma em rebelião aberta. O povo prefere a morte à obediência a Deus.",
-      "temas": ["murmuração", "rebelião", "desejo de morte"],
-      "personagens": ["Israelitas", "Moisés", "Arão"]
+      "parafrase": "Como resultado da ausência de Miriã, o povo se viu sem uma fonte de água fresca, e a multidão começou a se ajuntar em um motim furioso contra Moisés e Aarão, lembrando-os da falta de água que já haviam enfrentado anteriormente.",
+      "referencias": [
+        "Êxodo 17:3",
+        "Salmos 106:25"
+      ],
+      "comentario": "A morte de Miriã desencadeia uma crise de liderança e, consequentemente, uma crise de recursos hídricos (ou a percepção dela). O povo, movido pelo medo e pela sede (um gatilho constante de rebelião), imediatamente se volta contra os mediadores. Este é um padrão clássico de desconfiança em Israel.",
+      "temas": [
+        "Reclamação",
+        "Sede",
+        "Crise de Liderança"
+      ],
+      "personagens": [
+        "Moisés",
+        "Aarão",
+        "O Povo de Israel"
+      ]
     },
     "3": {
-      "parafrase": "'Por que o Senhor está nos trazendo a esta terra para morrermos à espada? Nossas mulheres e nossos filhos serão levados como prisioneiros. Não seria melhor voltarmos para o Egito?'",
-      "referencias": [],
-      "comentario": "O povo acusa Deus de má intenção, distorcendo completamente a promessa da Terra Prometida. A ideia de voltar para o Egito é uma rejeição total da liderança de Deus.",
-      "temas": ["acusação", "distorção", "rejeição"],
-      "personagens": ["Israelitas"]
+      "parafrase": "Em sua ira desmedida, eles declararam: 'Ah, se tivéssemos morrido no dia em que nossos irmãos pereceram diante do Senhor! Por que vocês nos trouxeram para este deserto estéril, onde não há sementes, nem figos, nem uvas, nem romãs para comer? E agora, não temos água para beber!'",
+      "referencias": [
+        "Números 11:4-6",
+        "Hebreus 3:16-17"
+      ],
+      "comentario": "A queixa é exacerbada pela memória da morte dos rebeldes anteriores (Números 11). Eles não apenas lamentam a falta de água, mas questionam toda a jornada, desejando ter morrido com os outros rebeldes, preferindo a morte à jornada da fé. A lista de frutas mostra um desejo de retornar ao conforto percebido do Egito (apesar de ser escravidão).",
+      "temas": [
+        "Ingratidão",
+        "Nostalgia do Egito",
+        "Desejo de Morte"
+      ],
+      "personagens": [
+        "O Povo de Israel"
+      ]
     },
     "4": {
-      "parafrase": "E disseram uns aos outros: 'Vamos escolher um líder e voltar para o Egito!'",
-      "referencias": [],
-      "comentario": "A rebelião atinge seu clímax com a proposta de eleger um novo líder para levá-los de volta à escravidão. Isso é uma traição a Deus e a Moisés.",
-      "temas": ["rebelião", "traição", "escravidão"],
-      "personagens": ["Israelitas"]
+      "parafrase": "Moisés e Aarão, deixando a multidão agitada, foram para a entrada da Tenda do Encontro, onde caíram prostrados, e a glória do Senhor apareceu diante deles, como sempre acontecia quando havia uma emergência divina.",
+      "referencias": [
+        "Êxodo 40:34-35",
+        "Levítico 9:23-24"
+      ],
+      "comentario": "A reação dos líderes é exemplar: em vez de confrontar a multidão com fúria humana, eles se retiram para o lugar da revelação (Tenda do Encontro). A manifestação da Glória de Deus (Shekinah) indica que Deus está prestes a intervir diretamente no conflito, validando a autoridade dos líderes.",
+      "temas": [
+        "Busca pela Presença Divina",
+        "Mediação",
+        "Autoridade de Deus"
+      ],
+      "personagens": [
+        "Moisés",
+        "Aarão"
+      ]
     },
     "5": {
-      "parafrase": "Então, Moisés e Arão se prostraram com o rosto em terra diante de toda a assembleia de Israel.",
-      "referencias": [],
-      "comentario": "A prostração de Moisés e Arão é um ato de desespero e intercessão. Eles se humilham diante de Deus em favor do povo rebelde.",
-      "temas": ["prostração", "desespero", "intercessão"],
-      "personagens": ["Moisés", "Arão"]
+      "parafrase": "Então, o Senhor falou diretamente a Moisés, ordenando-lhe: 'Pegue o cajado que você usa, aquele com o qual Aarão e você fizeram todos aqueles sinais maravilhosos, e vá reunir a assembleia, você e Aarão, junto à rocha grande e visível.'",
+      "referencias": [
+        "Êxodo 7:19",
+        "Êxodo 17:5"
+      ],
+      "comentario": "Deus instrui Moisés a usar o mesmo instrumento (o cajado) que foi central nos sinais contra o Egito e no primeiro milagre da água (Êxodo 17). Isso conecta a provisão atual com a fidelidade passada de Deus.",
+      "temas": [
+        "Instrumentos de Poder",
+        "Obediência",
+        "Memória da Libertação"
+      ],
+      "personagens": [
+        "Moisés",
+        "Aarão",
+        "O Senhor"
+      ]
     },
     "6": {
-      "parafrase": "Josué, filho de Num, e Calebe, filho de Jefoné, que estavam entre os que haviam espiado a terra, rasgaram as suas vestes",
-      "referencias": [],
-      "comentario": "Josué e Calebe, os dois espiões fiéis, demonstram sua tristeza e indignação com a rebelião do povo rasgando suas vestes, um sinal de luto e angústia.",
-      "temas": ["luto", "angústia", "fidelidade"],
-      "personagens": ["Josué", "Calebe"]
+      "parafrase": "Quando todos estiverem reunidos, você dará a ordem para que a água jorre daquela rocha, direcionando sua voz a ela, e então a água aparecerá para beber, fornecendo o que é necessário para todo o povo e seus animais de carga.'",
+      "referencias": [
+        "Isaías 43:20",
+        "Salmos 78:16"
+      ],
+      "comentario": "A ordem é clara: falar à rocha. A instrução é um ato de fé e autoridade delegada. O povo será suprido, incluindo seus rebanhos, mostrando o cuidado abrangente de Deus.",
+      "temas": [
+        "Provisão Divina",
+        "Comando",
+        "Fé"
+      ],
+      "personagens": [
+        "Moisés",
+        "Aarão"
+      ]
     },
     "7": {
-      "parafrase": "e disseram a toda a comunidade de Israel: 'A terra que percorremos e exploramos é excelente.'",
-      "referencias": [],
-      "comentario": "Josué e Calebe tentam contra-argumentar o relatório negativo, reafirmando a bondade da terra prometida.",
-      "temas": ["fé", "coragem", "Terra Prometida"],
-      "personagens": ["Josué", "Calebe"]
+      "parafrase": "Moisés obedeceu prontamente. Ele pegou o cajado sagrado e, junto com Aarão, afastou-se um pouco da massa de pessoas, indo diretamente para a rocha designada.",
+      "referencias": [
+        "Hebreus 11:27",
+        "Gênesis 12:4"
+      ],
+      "comentario": "O versículo enfatiza a obediência imediata de Moisés. Ele executa o plano divino sem hesitação aparente, ao menos no ato de se posicionar.",
+      "temas": [
+        "Obediência Imediata",
+        "Preparação"
+      ],
+      "personagens": [
+        "Moisés",
+        "Aarão"
+      ]
     },
     "8": {
-      "parafrase": "'Se o Senhor se agradar de nós, ele nos fará entrar nessa terra, onde mana leite e mel, e a dará a nós.'",
-      "referencias": [],
-      "comentario": "A posse da terra não dependia da força de Israel, mas da graça e do favor de Deus. A fé de Josué e Calebe estava firmada em Deus, não nas circunstâncias.",
-      "temas": ["graça", "favor de Deus", "fé"],
-      "personagens": ["Josué", "Calebe"]
+      "parafrase": "Lá, à frente da assembleia, Moisés dirigiu suas palavras à rocha, exclamando com autoridade: 'Escutem bem, vocês, rebeldes! Nós devemos tirar água desta pedra para vocês? Será que nós, e não o Senhor, faremos a água brotar aqui?'",
+      "referencias": [
+        "Mateus 17:17",
+        "Tiago 1:5"
+      ],
+      "comentario": "Este é o ponto de virada trágico. Moisés, no calor da frustração com a rebelião contínua, erra gravemente. Ele questiona a necessidade de intervenção divina ('Será que *nós* devemos fazer isso?'), e mais criticamente, ele não glorifica a Deus ao falar com a rocha, mas se coloca no centro da ação ao lado de Aarão ('nós').",
+      "temas": [
+        "Desobediência",
+        "Falta de Fé no Momento Crítico",
+        "Arrogância"
+      ],
+      "personagens": [
+        "Moisés",
+        "Aarão"
+      ]
     },
     "9": {
-      "parafrase": "'Somente não se rebelem contra o Senhor. E não tenham medo do povo da terra, porque os devoraremos como pão. A proteção deles se foi, mas o Senhor está conosco. Não tenham medo deles!'",
-      "referencias": [],
-      "comentario": "Josué e Calebe exortam o povo a não se rebelar e a não temer. A metáfora de devorar o inimigo como pão expressa a certeza da vitória com a ajuda de Deus.",
-      "temas": ["exortação", "não temer", "vitória"],
-      "personagens": ["Josué", "Calebe"]
+      "parafrase": "Então, Moisés, em um ato de fúria mal direcionada, ergueu sua mão e bateu na rocha duas vezes com o cajado, antes de dar qualquer comando verbal à pedra, como se o impacto físico fosse a fonte da água, e não a Palavra de Deus.",
+      "referencias": [
+        "Salmos 106:33",
+        "Isaías 48:21"
+      ],
+      "comentario": "O erro fatal: em vez de *falar* à rocha (como mandado), ele a *golpeia* duas vezes. Este ato reflete o pecado de Meribá (Êxodo 17), onde ele também golpeou a rocha. O golpe duplo sugere excesso ou impaciência. Ele usurpou a glória de Deus ao agir com força humana em vez de fé.",
+      "temas": [
+        "Pecado de Moisés",
+        "Ato Impulsivo",
+        "Desobediência à Ordem Específica"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "10": {
-      "parafrase": "Mas toda a comunidade falou em apedrejá-los. Então, a glória do Senhor apareceu na Tenda do Encontro a todos os israelitas.",
-      "referencias": [],
-      "comentario": "A resposta do povo à exortação de Josué e Calebe é a violência. A aparição da glória do Senhor interrompe a rebelião e anuncia o juízo iminente.",
-      "temas": ["violência", "glória do Senhor", "juízo"],
-      "personagens": ["Comunidade de Israel", "Deus"]
+      "parafrase": "Imediatamente após a ação de Moisés, a água começou a jorrar caudalosamente da rocha, enchendo a terra com a provisão necessária para saciar a sede de todo o povo e dos seus animais.",
+      "referencias": [
+        "Salmos 78:20",
+        "1 Coríntios 10:4"
+      ],
+      "comentario": "O milagre ocorre *apesar* da desobediência de Moisés, não por causa dela. Deus honra Sua promessa de prover, mas a falha de Moisés em santificá-Lo permanece como uma mancha na sua liderança.",
+      "temas": [
+        "Soberania de Deus",
+        "Milagre",
+        "Provisão Incondicional"
+      ],
+      "personagens": []
     },
     "11": {
-      "parafrase": "E o Senhor disse a Moisés: 'Até quando este povo me desprezará? Até quando se recusarão a crer em mim, apesar de todos os sinais que realizei entre eles?'",
-      "referencias": [],
-      "comentario": "Deus expressa sua dor e sua indignação com a incredulidade persistente do povo, que havia testemunhado tantos milagres.",
-      "temas": ["desprezo", "incredulidade", "milagres"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "Mas o Senhor se voltou para Moisés e Aarão, com a voz pesada de desaprovação, e disse: 'Como vocês puderam ser tão insensíveis? Já que não demonstraram fé suficiente em Mim, nem Me santificaram aos olhos do povo de Israel, vocês não liderarão esta nação para dentro da Terra Prometida.'",
+      "referencias": [
+        "Números 20:12",
+        "Deuteronômio 32:51"
+      ],
+      "comentario": "Esta é a sentença de Deus. O pecado não foi apenas a falta de água (que já havia sido resolvida com o primeiro golpe), mas a falha em *santificar* a Deus (fazer Dele santo, distinto). Ao questionar se 'nós' faríamos a água jorrar, Moisés minimizou o poder de Deus perante a nação.",
+      "temas": [
+        "Julgamento",
+        "Santificação de Deus",
+        "Consequências da Desobediência"
+      ],
+      "personagens": [
+        "O Senhor",
+        "Moisés",
+        "Aarão"
+      ]
     },
     "12": {
-      "parafrase": "'Eu os ferirei com uma praga e os destruirei, mas farei de você uma nação maior e mais forte do que eles.'",
-      "referencias": ["Êxodo 32:10"],
-      "comentario": "Deus propõe a Moisés destruir o povo e começar de novo com ele, testando a lealdade e a compaixão do líder.",
-      "temas": ["juízo", "destruição", "nova nação"],
-      "personagens": ["Deus"]
+      "parafrase": "Esta água que brotou da rocha será chamada de Águas de Meribá, o lugar das 'Contendas' ou 'Discussões', justamente porque foi ali que o povo de Israel se desentendeu com o Senhor, forçando-O a intervir de maneira que não O glorificou totalmente.",
+      "referencias": [
+        "Êxodo 17:7",
+        "Deuteronômio 33:8"
+      ],
+      "comentario": "O local recebe um nome memorável que eterniza o erro dos líderes, ecoando o primeiro incidente em Meribá (Êxodo 17). A repetição do erro, mesmo após décadas de aprendizado, é o que torna o julgamento tão severo.",
+      "temas": [
+        "Nomenclatura Teológica",
+        "Repetição de Pecados",
+        "Memória do Erro"
+      ],
+      "personagens": []
     },
     "13": {
-      "parafrase": "Moisés disse ao Senhor: 'Então os egípcios ouvirão! Pois tu tiraste este povo do meio deles com o teu poder.'",
-      "referencias": [],
-      "comentario": "Moisés intercede pelo povo, argumentando que a destruição de Israel mancharia a reputação de Deus entre as nações.",
-      "temas": ["intercessão", "reputação de Deus"],
-      "personagens": ["Moisés"]
+      "parafrase": "Moisés e Aarão foram separados do restante do povo e enviados para a entrada da Terra de Canaã. Eles não seriam permitidos de entrar na plenitude da herança por causa de sua falha em confiar completamente no poder santo do Criador naquele momento crucial.",
+      "referencias": [
+        "Deuteronômio 34:1-5",
+        "Josué 1:2"
+      ],
+      "comentario": "A punição é proporcional à liderança: a perda do objetivo final da jornada. Aarão compartilha a culpa por estar ao lado de Moisés, não tendo intercedido ou corrigido o irmão, aceitando passivamente a autoria do milagre.",
+      "temas": [
+        "Exclusão da Promessa",
+        "Responsabilidade da Liderança"
+      ],
+      "personagens": [
+        "Moisés",
+        "Aarão"
+      ]
     },
     "14": {
-      "parafrase": "'E eles o dirão aos habitantes desta terra. Eles já ouviram que tu, ó Senhor, estás no meio deste povo e que te veem face a face. A tua nuvem está sobre eles, e tu vais adiante deles numa coluna de nuvem de dia e numa coluna de fogo de noite.'",
-      "referencias": [],
-      "comentario": "Moisés lembra a Deus de sua reputação e de como as outras nações o veriam se ele destruísse seu próprio povo.",
-      "temas": ["reputação de Deus", "testemunho"],
-      "personagens": ["Moisés"]
+      "parafrase": "Então, Moisés enviou mensageiros do Deserto de Zim para o Rei de Edom, com uma mensagem muito diplomática e direta: 'Assim diz o seu irmão, Israel: Você sabe de todas as dificuldades que enfrentamos em nossa longa jornada, desde que saímos da terra do Egito.'",
+      "referencias": [
+        "Juízes 11:15-17",
+        "Gênesis 25:30"
+      ],
+      "comentario": "Após o julgamento pessoal, a narrativa muda para a necessidade logística: atravessar o território vizinho. Moisés apela para o parentesco antigo (Jacó e Esaú eram irmãos), buscando passagem pacífica.",
+      "temas": [
+        "Diplomacia",
+        "Parentesco Fraternal",
+        "Geopolítica Bíblica"
+      ],
+      "personagens": [
+        "Moisés",
+        "Israel",
+        "Rei de Edom"
+      ]
     },
     "15": {
-      "parafrase": "'Se matares este povo como a um só homem, as nações que ouviram falar da tua fama dirão:'",
-      "referencias": [],
-      "comentario": "Moisés apela para o orgulho de Deus, argumentando que a destruição de Israel seria vista como uma fraqueza, não como um ato de justiça.",
-      "temas": ["orgulho de Deus", "fraqueza"],
-      "personagens": ["Moisés"]
+      "parafrase": "'Nossos ancestrais foram para o Egito há muito tempo, e vivemos lá por muitas gerações. Quando o povo de Israel finalmente clamou ao Senhor, Ele nos ouviu e nos resgatou da escravidão egípcia, com Seu braço forte.'",
+      "referencias": [
+        "Êxodo 3:7-10",
+        "Deuteronômio 6:21-22"
+      ],
+      "comentario": "Moisés resume a história da salvação, lembrando Edom da intervenção poderosa de Deus, tentando estabelecer Israel como um povo que tem um histórico de libertação divina, e, portanto, digno de respeito.",
+      "temas": [
+        "Ato de Redenção",
+        "História de Israel",
+        "Lembrança da Graça"
+      ],
+      "personagens": [
+        "Israel"
+      ]
     },
     "16": {
-      "parafrase": "'O Senhor não conseguiu levar este povo para a terra que lhes prometeu sob juramento; por isso os matou no deserto.'",
-      "referencias": [],
-      "comentario": "Moisés teme que a destruição de Israel seja mal interpretada pelas outras nações, que concluiriam que Deus não era poderoso o suficiente para cumprir suas promessas.",
-      "temas": ["má interpretação", "poder de Deus", "promessas"],
-      "personagens": ["Moisés"]
+      "parafrase": "'Agora, pois, Senhor, pedimos gentilmente que nos deixe passar pelo seu território. Não iremos por nenhum campo cultivado, nem passaremos por vinhedos. Não beberemos água de poço algum, mas seguiremos a estrada principal, o Caminho do Rei, até sairmos completamente da sua fronteira.'",
+      "referencias": [
+        "Juízes 11:18",
+        "Números 21:21-22"
+      ],
+      "comentario": "A promessa de não causar dano é enfática. Eles não querem interferir na economia edomita (campos, vinhedos) nem utilizar recursos hídricos locais (poços), pedindo apenas a rota mais direta (a estrada real), um sinal de não-agressão.",
+      "temas": [
+        "Não Agressão",
+        "Soberania Territorial",
+        "Rota de Trânsito"
+      ],
+      "personagens": []
     },
     "17": {
-      "parafrase": "'Mas agora, que a força do Senhor se manifeste, segundo declaraste:'",
-      "referencias": [],
-      "comentario": "Moisés apela para o caráter de Deus, pedindo que Ele demonstre sua força não na destruição, mas no perdão.",
-      "temas": ["caráter de Deus", "força", "perdão"],
-      "personagens": ["Moisés"]
+      "parafrase": "Moisés acrescentou uma advertência sutil, mas séria: 'Se nós ou nosso gado bebermos da sua água, nós lhe pagaremos o preço integral imediatamente. Não permitiremos que isso seja um motivo para conflito; nosso único desejo é apenas atravessar sua terra rapidamente.'",
+      "referencias": [
+        "Deuteronômio 2:27",
+        "Provérbios 15:1"
+      ],
+      "comentario": "A oferta de pagamento demonstra que a questão não era a água em si, mas a permissão para passar. O foco é evitar qualquer pretexto para guerra, reconhecendo Edom como uma nação soberana.",
+      "temas": [
+        "Compensação",
+        "Paz",
+        "Prevenção de Conflito"
+      ],
+      "personagens": []
     },
     "18": {
-      "parafrase": "'O Senhor é tardio em irar-se, grande em misericórdia, e perdoa a iniquidade e a transgressão. Mas não deixa o culpado sem castigo; castiga os filhos pela iniquidade dos pais até a terceira e quarta geração.'",
-      "referencias": ["Êxodo 34:6-7"],
-      "comentario": "Moisés cita as próprias palavras de Deus para argumentar a favor do perdão. Ele reconhece que o perdão não anula a justiça, mas apela para a misericórdia de Deus.",
-      "temas": ["misericórdia", "perdão", "justiça"],
-      "personagens": ["Moisés"]
+      "parafrase": "Mas Edom se recusou a cooperar, e o Rei respondeu severamente: 'Vocês não poderão passar por aqui! Se tentarem, nós marcharemos com nossas espadas para encontrá-los e enfrentá-los.'",
+      "referencias": [
+        "Gênesis 27:40",
+        "Juízes 11:19"
+      ],
+      "comentario": "Esaú/Edom, desde sempre rival de Jacó/Israel, recusa a passagem, transformando a diplomacia em ameaça militar. Esta recusa era esperada por Deus e fazia parte do plano para direcionar Israel para outro caminho.",
+      "temas": [
+        "Hostilidade",
+        "Recusa de Passagem",
+        "Rivalidade Ancestral"
+      ],
+      "personagens": [
+        "Rei de Edom"
+      ]
     },
     "19": {
-      "parafrase": "'Perdoa, rogo-te, a iniquidade deste povo, segundo a grandeza da tua misericórdia, como também tens perdoado a este povo desde o Egito até agora.'",
-      "referencias": [],
-      "comentario": "Moisés apela para a misericórdia de Deus, que já havia perdoado o povo tantas vezes antes.",
-      "temas": ["perdão", "misericórdia"],
-      "personagens": ["Moisés"]
+      "parafrase": "Diante da recusa armada, Moisés se virou para o povo e disse: 'Mais uma vez, teremos que desviar nosso curso. Não entraremos no território de Edom; devemos contornar todo o seu reino.'",
+      "referencias": [
+        "Números 21:4",
+        "Deuteronômio 2:3"
+      ],
+      "comentario": "Moisés aceita a derrota diplomática e segue a ordem divina implícita de desvio. O caminho para a Terra Prometida não seria fácil nem direto.",
+      "temas": [
+        "Desvio de Rota",
+        "Aceitação da Vontade Divina (após o conflito)"
+      ],
+      "personagens": [
+        "Moisés",
+        "O Povo de Israel"
+      ]
     },
     "20": {
-      "parafrase": "O Senhor respondeu: 'Eu o perdoei, conforme a sua palavra.'",
-      "referencias": [],
-      "comentario": "Deus atende à intercessão de Moisés e perdoa o povo. No entanto, o perdão não anula as consequências do pecado.",
-      "temas": ["perdão", "consequências do pecado"],
-      "personagens": ["Deus"]
+      "parafrase": "Então, o povo de Israel mudou de direção e seguiu o longo desvio ao redor das terras de Edom. A jornada os levou para longe do caminho mais curto, seguindo a fronteira por um caminho árduo e cansativo.",
+      "referencias": [
+        "Números 33:37",
+        "1 Reis 9:26"
+      ],
+      "comentario": "A rota alternativa, contornando Edom, se tornaria um percurso muito mais longo e provador, preparando o povo para o próximo desafio de fé e resistência.",
+      "temas": [
+        "Jornada Prolongada",
+        "Caminho Difícil"
+      ],
+      "personagens": [
+        "O Povo de Israel"
+      ]
     },
     "21": {
-      "parafrase": "'Mas, tão certo como eu vivo e como a glória do Senhor enche toda a terra,'",
-      "referencias": [],
-      "comentario": "Deus faz um juramento solene, garantindo que sua decisão será cumprida.",
-      "temas": ["juramento", "glória do Senhor"],
-      "personagens": ["Deus"]
+      "parafrase": "Quando chegaram à fronteira com Moabe, que ficava a leste de Edom, o povo continuou a expressar sua impaciência com a longa viagem, reclamando do fardo e da falta de avanço.",
+      "referencias": [
+        "Números 21:5",
+        "Deuteronômio 1:2"
+      ],
+      "comentario": "A jornada de contorno não cessou a murmuração. Eles estão mentalmente exaustos e a fadiga física abre a porta para a mesma velha reclamação: a falta de pão e a falta de água, apesar de estarem saindo de um milagre hídrico recente.",
+      "temas": [
+        "Impaciência",
+        "Murmúrio Contínuo",
+        "Fadiga da Jornada"
+      ],
+      "personagens": [
+        "O Povo de Israel"
+      ]
     },
     "22": {
-      "parafrase": "'nenhum dos homens que viram a minha glória e os sinais que realizei no Egito e no deserto, e que me puseram à prova estas dez vezes e não me obedeceram,'",
-      "referencias": [],
-      "comentario": "Deus enumera as razões para o seu juízo: a incredulidade do povo, apesar de todas as evidências de seu poder e de sua fidelidade.",
-      "temas": ["incredulidade", "desobediência", "juízo"],
-      "personagens": ["Deus"]
+      "parafrase": "O povo de Israel partiu de Quadeche e seguiu em direção ao Monte Hor. Dali em diante, a rota começou a se aproximar do destino final, mas o caminho era igualmente desafiador.",
+      "referencias": [
+        "Números 33:41",
+        "Deuteronômio 10:6"
+      ],
+      "comentario": "A mudança para o Monte Hor indica que eles estão se movendo para o norte/leste, cercando o território de Seir (Edom), e se preparando para a próxima grande etapa: a travessia do Jordão (que só será possível após esta volta).",
+      "temas": [
+        "Mudança de Rota",
+        "Proximidade do Fim",
+        "Itinerário no Deserto"
+      ],
+      "personagens": []
     },
     "23": {
-      "parafrase": "'nenhum deles verá a terra que prometi sob juramento aos seus antepassados. Ninguém que me desprezou a verá.'",
-      "referencias": ["Hebreus 3:18-19"],
-      "comentario": "O juízo de Deus é que a geração que saiu do Egito não entrará na Terra Prometida. A incredulidade os impediu de receber a bênção.",
-      "temas": ["juízo", "incredulidade", "Terra Prometida"],
-      "personagens": ["Deus"]
+      "parafrase": "Neste ponto, o Senhor falou a Moisés e Aarão, enquanto acampavam no Monte Hor, na fronteira do país de Edom, comunicando um evento final e solene para Aarão.",
+      "referencias": [
+        "Números 27:12-13",
+        "Deuteronômio 32:50"
+      ],
+      "comentario": "O Monte Hor se torna o palco para a segunda grande perda da liderança. Deus chama Moisés e Aarão para receberem instruções específicas sobre o futuro de Aarão, separando-o dos demais antes da entrada em Canaã.",
+      "temas": [
+        "Instrução Divina",
+        "Separação",
+        "Impedimento"
+      ],
+      "personagens": [
+        "O Senhor",
+        "Moisés",
+        "Aarão"
+      ]
     },
     "24": {
-      "parafrase": "'Mas o meu servo Calebe, porque nele houve outro espírito e porque perseverou em seguir-me, eu o levarei à terra em que entrou, e a sua descendência a possuirá.'",
-      "referencias": ["Josué 14:6-14"],
-      "comentario": "Calebe, por sua fidelidade e perseverança, é poupado do juízo e recebe a promessa de que entrará na Terra Prometida.",
-      "temas": ["fidelidade", "perseverança", "recompensa"],
-      "personagens": ["Deus", "Calebe"]
+      "parafrase": "Deus declarou a Moisés: 'Tome este cajado, o símbolo da sua autoridade sacerdotal, e entregue-o a seu irmão Aarão. Ele vestirá as vestes sacerdotais e será consagrado como Sumo Sacerdote, mas o fará aqui, neste monte, longe da Terra Prometida.'",
+      "referencias": [
+        "Êxodo 28:1-4",
+        "Levítico 8:1-36"
+      ],
+      "comentario": "Aarão é investido formalmente como Sumo Sacerdote (embora o cargo tenha sido estabelecido antes). Este é um ato de honra final antes de sua morte, garantindo a sucessão vitalícia do sacerdócio, mesmo que Aarão não alcance o destino final.",
+      "temas": [
+        "Investidura Sacerdotal",
+        "Sucessão",
+        "Honra Final"
+      ],
+      "personagens": [
+        "O Senhor",
+        "Moisés",
+        "Aarão"
+      ]
     },
     "25": {
-      "parafrase": "'Como os amalequitas e os cananeus vivem nos vales, amanhã deem meia-volta e partam para o deserto, pelo caminho do mar Vermelho.'",
-      "referencias": [],
-      "comentario": "Deus ordena que o povo retorne ao deserto, adiando a conquista da Terra Prometida por quarenta anos.",
-      "temas": ["juízo", "adiamento", "deserto"],
-      "personagens": ["Deus"]
+      "parafrase": "Moisés fez exatamente como o Senhor havia ordenado: ele levou Aarão e seu filho, Eleazar, para o topo do Monte Hor. Lá, Moisés tirou as vestes do ofício de Aarão, vestiu Eleazar com elas, e foi naquele monte que Aarão finalmente entregou seu espírito e morreu, e Moisés desceu.",
+      "referencias": [
+        "Números 3:39",
+        "Deuteronômio 32:50"
+      ],
+      "comentario": "O clímax da vida de Aarão ocorre em dois atos solenes: a transferência do manto sacerdotal para seu filho Eleazar, garantindo a continuidade do serviço a Deus, e sua própria morte. A morte ocorre no Monte Hor, cumprindo a sentença do versículo 11. Moisés, tendo falhado, fica para trás, mas cumpre a tarefa de honrar seu irmão na sucessão.",
+      "temas": [
+        "Morte de Aarão",
+        "Sucessão Sacerdotal",
+        "Cumprimento da Sentença"
+      ],
+      "personagens": [
+        "Moisés",
+        "Aarão",
+        "Eleazar"
+      ]
     },
     "26": {
-      "parafrase": "O Senhor disse a Moisés e a Arão:",
-      "referencias": [],
-      "comentario": "Deus continua a detalhar as consequências da rebelião do povo.",
-      "temas": ["juízo", "consequências"],
-      "personagens": ["Deus", "Moisés", "Arão"]
+      "parafrase": "Então, Moisés, o líder, chamou e convocou aos líderes de todas as tribos de Israel, os chefes de clã e os responsáveis pelas famílias, para que se reunissem diante do Senhor. Ele queria que eles estivessem presentes para ouvir a proclamação divina.",
+      "referencias": [
+        "Êxodo 24:1",
+        "Números 1:16"
+      ],
+      "comentario": "Este versículo estabelece o cenário para a comunicação de uma decisão crucial de Deus. O ato de chamar os líderes ('os cabeças das casas de seus pais') garante que a ordem ou a mensagem será transmitida e implementada em toda a nação, mostrando a estrutura hierárquica da liderança israelita.",
+      "temas": [
+        "Liderança",
+        "Convocação Divina",
+        "Estrutura Social"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "27": {
-      "parafrase": "'Até quando esta comunidade má se queixará de mim? Tenho ouvido as queixas desses israelitas murmuradores.'",
-      "referencias": [],
-      "comentario": "Deus expressa sua indignação com a murmuração contínua do povo.",
-      "temas": ["murmuração", "indignação"],
-      "personagens": ["Deus"]
+      "parafrase": "Moisés então lhes falou com a autoridade de Deus, dizendo: 'Ouçam bem, líderes de Israel! O Senhor, o Deus de vossos antepassados, o Deus de Abraão, de Isaque e de Jacó, me revelou uma palavra importante.'",
+      "referencias": [
+        "Êxodo 3:6",
+        "Deuteronômio 1:11"
+      ],
+      "comentario": "Moisés sempre vincula sua autoridade à linhagem do pacto, invocando os nomes dos patriarcas (Abraão, Isaque, Jacó). Isso não é apenas uma formalidade; é um lembrete de que a nova ordem está fundamentada na antiga aliança de Deus com eles.",
+      "temas": [
+        "Autoridade de Moisés",
+        "Aliança Patriarcal",
+        "Revelação"
+      ],
+      "personagens": [
+        "Moisés",
+        "Abraão",
+        "Isaque",
+        "Jacó"
+      ]
     },
     "28": {
-      "parafrase": "'Diga-lhes: Tão certo como eu vivo, declara o Senhor, farei com vocês o que os ouvi dizer.'",
-      "referencias": [],
-      "comentario": "Deus jura que o castigo do povo será exatamente o que eles pediram: morrer no deserto.",
-      "temas": ["juramento", "castigo", "morte no deserto"],
-      "personagens": ["Deus"]
+      "parafrase": "'O Senhor me ordenou que dissesse a vocês o seguinte: 'Eu vi a maneira como este povo tem se revoltado contra mim nesta jornada, desde que saíram do Egito. O murmúrio constante e a desobediência de vocês me cansaram.'",
+      "referencias": [
+        "Êxodo 16:28",
+        "Salmos 95:10"
+      ],
+      "comentario": "O verbo hebraico para 'revoltar-se' ou 'tentar' é *nasah* (נסה), que aqui implica testar os limites da paciência e autoridade de Deus, como um teste rigoroso. Moisés articula a frustração divina com a contínua falta de fé demonstrada no deserto. 😩",
+      "temas": [
+        "Rebeldia",
+        "A Ira de Deus",
+        "Falta de Fé"
+      ],
+      "personagens": [
+        "O Povo de Israel"
+      ]
     },
     "29": {
-      "parafrase": "'Neste deserto cairão os seus cadáveres – todos vocês, de vinte anos para cima, que foram contados no recenseamento e que se queixaram contra mim.'",
-      "referencias": ["1 Coríntios 10:5"],
-      "comentario": "A sentença de morte é pronunciada sobre toda a geração que saiu do Egito, com exceção de Josué e Calebe.",
-      "temas": ["sentença de morte", "juízo", "incredulidade"],
-      "personagens": ["Deus"]
+      "parafrase": "'Portanto, é necessário que todos aqueles que, a partir de agora, têm vinte anos ou mais, e que se queixaram contra mim, deixem seus corpos caírem aqui mesmo, nesta paisagem desolada, morrendo no deserto. Esta é a sentença pela desconfiança de vocês.'",
+      "referencias": [
+        "Números 1:3",
+        "Hebreus 3:17"
+      ],
+      "comentario": "Este é o decreto da morte para a geração do êxodo. A idade de vinte anos (ver NUM 1:3) é o marco divisório: aqueles que eram adultos na época da saída do Egito e que se recusaram a crer no poder de Deus para tomar a Terra Prometida serão eliminados. É a consequência direta da incredulidade.",
+      "temas": [
+        "Sentença Divina",
+        "Incredulidade",
+        "Morte no Deserto"
+      ],
+      "personagens": []
     },
     "30": {
-      "parafrase": "'Nenhum de vocês entrará na terra que eu jurei dar-lhes para morar, exceto Calebe, filho de Jefoné, e Josué, filho de Num.'",
-      "referencias": [],
-      "comentario": "A exceção de Josué e Calebe ressalta a importância da fé e da obediência.",
-      "temas": ["exceção", "fé", "obediência"],
-      "personagens": ["Deus"]
+      "parafrase": "'Ninguém que duvidou de Mim entrará na Terra Prometida, exceto Calebe, filho de Jefoné, e Josué, filho de Num. Eles, sim, seguiram o Senhor com todo o coração e alma, sem desvios.'",
+      "referencias": [
+        "Josué 14:6",
+        "Deuteronômio 1:36"
+      ],
+      "comentario": "Aqui, Deus nomeia os dois únicos sobreviventes daquela geração que serão dignos de entrar na Terra. Calebe e Josué são a antítese da murmuração; eles exemplificam a fidelidade (*malē levav* - coração completo) exigida. A exclusão da maioria enfatiza a santidade da Terra.",
+      "temas": [
+        "Fidelidade",
+        "Exceção à Regra",
+        "Promessa Cumprida"
+      ],
+      "personagens": [
+        "Calebe",
+        "Josué"
+      ]
     },
     "31": {
-      "parafrase": "'Mas os seus filhos, dos quais vocês disseram que seriam levados como prisioneiros, eu os farei entrar na terra que vocês rejeitaram, e eles a conhecerão.'",
-      "referencias": [],
-      "comentario": "A próxima geração, que não participou da rebelião, herdará a promessa que seus pais desprezaram.",
-      "temas": ["próxima geração", "herança", "promessa"],
-      "personagens": ["Deus"]
+      "parafrase": "'E quanto aos vossos filhos pequenos, aqueles que vocês temiam que fossem tratados como despojo de guerra, eles não morrerão. Eles sim, entrarão na terra que vocês desprezaram, e lá a herdarão.'",
+      "referencias": [
+        "Deuteronômio 1:39",
+        "Números 10:33"
+      ],
+      "comentario": "Deus demonstra misericórdia para com a próxima geração, que ainda não possuía a idade da responsabilidade plena (os menores de vinte anos). O medo dos pais sobre o destino dos filhos é refutado; eles são a esperança e herdarão o lugar negado pelos pais. 👶",
+      "temas": [
+        "Misericórdia",
+        "Herança",
+        "Geração Futura"
+      ],
+      "personagens": []
     },
     "32": {
-      "parafrase": "'Quanto a vocês, os seus cadáveres cairão neste deserto.'",
-      "referencias": [],
-      "comentario": "A sentença é repetida para enfatizar sua certeza e sua gravidade.",
-      "temas": ["sentença de morte", "juízo", "certeza"],
-      "personagens": ["Deus"]
+      "parafrase": "'Mas vocês, líderes, e todo aquele que tem mais de vinte anos, cairão mortos aqui no deserto, no decorrer destes quarenta longos anos de peregrinação, até que todos pereçam por causa da sua rebeldia.',",
+      "referencias": [
+        "Números 1:45",
+        "Ezequiel 20:15"
+      ],
+      "comentario": "Este versículo reafirma a sentença: quarenta anos de errância – um ano para cada dia de exploração em Canaã (ver NUM 13:34). A punição é simétrica à duração da desobediência. Eles experimentarão o deserto por toda a sua vida adulta.",
+      "temas": [
+        "Penitência",
+        "Quarenta Anos",
+        "Simetria Punitiva"
+      ],
+      "personagens": []
     },
     "33": {
-      "parafrase": "'Os seus filhos serão pastores neste deserto durante quarenta anos, sofrendo por causa da sua infidelidade, até que o último de vocês caia morto no deserto.'",
-      "referencias": [],
-      "comentario": "A peregrinação de quarenta anos no deserto é um castigo para a geração rebelde e um tempo de purificação para a nova geração.",
-      "temas": ["quarenta anos", "castigo", "purificação"],
-      "personagens": ["Deus"]
+      "parafrase": "'E, como consequência direta de terem se recusado a seguir-me fielmente, carregando o peso do pecado de vocês, carregarão o peso do deserto. Serão contabilizados quarenta anos no ermo, um ano para cada dia que passaram espionando a terra.'",
+      "referencias": [
+        "Ezequiel 4:6",
+        "Jeremias 2:17"
+      ],
+      "comentario": "A palavra-chave aqui é 'carregar' (*nāśā'*, נָשָׂא), que significa tanto suportar um fardo quanto sofrer a penalidade. O deserto torna-se o fardo físico e espiritual da nação, um testemunho visível de seu erro.",
+      "temas": [
+        "Fardo do Pecado",
+        "Consequências",
+        "Testemunho Público"
+      ],
+      "personagens": []
     },
     "34": {
-      "parafrase": "'Durante quarenta anos, um ano para cada um dos quarenta dias em que vocês exploraram a terra, vocês sofrerão as consequências da sua iniquidade e saberão o que é ter-me contra vocês.'",
-      "referencias": ["Ezequiel 4:6"],
-      "comentario": "A duração do castigo é proporcional ao tempo da transgressão, um princípio de justiça divina.",
-      "temas": ["justiça divina", "proporcionalidade", "consequências"],
-      "personagens": ["Deus"]
+      "parafrase": "'Vocês devem contar precisamente quarenta dias, e para cada dia que passaram reconhecendo a terra, vocês passarão um ano sofrendo no deserto. Assim, vocês compreenderão o que significa quando eu me afasto de vocês.'",
+      "referencias": [
+        "Levítico 26:18",
+        "Lamentações 3:27"
+      ],
+      "comentario": "O princípio da compensação é rígido. Quarenta dias de espionagem resultam em quarenta anos de castigo. Isso sublinha a seriedade com que Deus trata a desobediência e a necessidade de entender o significado da ausência da Sua presença manifesta.",
+      "temas": [
+        "Princípio de Retribuição",
+        "Compreensão do Pecado",
+        "Ausência Divina"
+      ],
+      "personagens": []
     },
     "35": {
-      "parafrase": "'Eu, o Senhor, falei. Certamente farei isso a toda esta comunidade má, que se uniu contra mim. Eles perecerão neste deserto; aqui morrerão.'",
-      "referencias": [],
-      "comentario": "Deus reafirma sua decisão, deixando claro que não haverá volta.",
-      "temas": ["decisão divina", "certeza", "morte no deserto"],
-      "personagens": ["Deus"]
+      "parafrase": "'Eu, o Senhor, decretei isso solenemente: todos aqueles que se reuniram contra Mim, todos os homens que tinham vinte anos ou mais quando saíram do Egito, todos eles morrerão exatamente aqui, neste lugar árido e sem vida.'",
+      "referencias": [
+        "Números 1:46",
+        "Apocalipse 21:8"
+      ],
+      "comentario": "A formalidade da declaração ('Eu, o Senhor, falei') reforça a irreversibilidade do julgamento. A repetição do limite de idade e do local da morte assegura que não haverá engano ou mal-entendido sobre quem será poupado (apenas os menores de 20, Calebe e Josué).",
+      "temas": [
+        "Solenidade do Juízo",
+        "Irrevogabilidade",
+        "Morte da Geração"
+      ],
+      "personagens": []
     },
     "36": {
-      "parafrase": "Os homens que Moisés enviou para espiar a terra, que voltaram e fizeram toda a comunidade se queixar contra ele, espalhando um relatório negativo sobre a terra,",
-      "referencias": [],
-      "comentario": "Os dez espiões infiéis são responsabilizados por sua liderança negativa e por incitar a rebelião.",
-      "temas": ["responsabilidade", "liderança negativa", "rebelião"],
-      "personagens": ["Espiões infiéis"]
+      "parafrase": "'Até mesmo os homens que Moisés enviou para explorar a terra – aqueles dez espias que trouxeram o relatório cheio de medo e mentira – morreram de repente perante o Senhor, atingidos por uma praga terrível.'",
+      "referencias": [
+        "Números 13:32",
+        "2 Crônicas 28:23"
+      ],
+      "comentario": "Este versículo foca nos líderes daquela comissão de reconhecimento. A morte dos dez espias é imediata e pública ('morreram de repente'), servindo como o catalisador e o exemplo mais vívido do juízo sobre o medo destrutivo.",
+      "temas": [
+        "Morte dos Espiões",
+        "Praga",
+        "Terror do Medo"
+      ],
+      "personagens": [
+        "Os Dez Espiões"
+      ]
     },
     "37": {
-      "parafrase": "esses homens que espalharam o relatório negativo sobre a terra morreram de praga perante o Senhor.",
-      "referencias": ["1 Coríntios 10:10"],
-      "comentario": "O juízo de Deus sobre os espiões infiéis é imediato e severo, servindo como um exemplo para o resto do povo.",
-      "temas": ["juízo imediato", "praga", "exemplo"],
-      "personagens": ["Espiões infiéis"]
+      "parafrase": "'Entretanto, Calebe, filho de Jefoné, e Josué, filho de Num, os dois únicos que não se juntaram à onda de pânico e desconfiança contra Deus, permaneceram vivos entre o povo.'",
+      "referencias": [
+        "Josué 15:13",
+        "Hebreus 11:32"
+      ],
+      "comentario": "Mais uma vez, o contraste é estabelecido. A sobrevivência de Calebe e Josué não é sorte, mas sim o resultado direto da qualidade do seu 'espírito' – a coragem enraizada na fé que se opôs ao relatório negativo dos outros.",
+      "temas": [
+        "Coragem pela Fé",
+        "Resiliência",
+        "Testemunho de Vida"
+      ],
+      "personagens": [
+        "Calebe",
+        "Josué"
+      ]
     },
     "38": {
-      "parafrase": "De todos os homens que foram espiar a terra, somente Josué, filho de Num, e Calebe, filho de Jefoné, sobreviveram.",
-      "referencias": [],
-      "comentario": "A sobrevivência de Josué e Calebe é um testemunho de sua fé e da fidelidade de Deus em recompensar aqueles que o honram.",
-      "temas": ["sobrevivência", "fé", "recompensa"],
-      "personagens": ["Josué", "Calebe"]
+      "parafrase": "'E, por causa disso, Moisés levou o povo, conforme o mandamento do Senhor, para que se voltassem e começassem a marchar de volta para o deserto, em direção ao Mar de Juncos.'",
+      "referencias": [
+        "Deuteronômio 1:40",
+        "Êxodo 14:2"
+      ],
+      "comentario": "A ordem de Deus é clara: o caminho para Canaã está fechado para esta geração. O povo deve agora virar as costas para a Terra Prometida e reentrar na longa jornada do deserto, um ato físico que simboliza o arrependimento não realizado.",
+      "temas": [
+        "Retorno ao Deserto",
+        "Obediência à Sentença",
+        "Caminho Interrompido"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "39": {
-      "parafrase": "Quando Moisés contou essas coisas a todos os israelitas, o povo chorou amargamente.",
-      "referencias": [],
-      "comentario": "O choro do povo agora é de remorso, mas é tarde demais para reverter o juízo de Deus.",
-      "temas": ["remorso", "juízo irreversível"],
-      "personagens": ["Moisés", "Israelitas"]
+      "parafrase": "Quando Moisés comunicou essas duras palavras a todo o povo de Israel, o povo ficou profundamente abalado e entristecido. O lamento e a dor tomaram conta deles ao perceberem a sentença final de Deus.",
+      "referencias": [
+        "Jó 1:20",
+        "Mateus 8:12"
+      ],
+      "comentario": "A reação do povo é de profundo luto. Eles entendem a gravidade da situação. O verbo 'lamentar' (*'âbel*, אָבַל) denota um luto profundo, quase um luto por morte, pois estavam, de fato, morrendo em termos de sua esperança nacional imediata.",
+      "temas": [
+        "Lamento",
+        "Tristeza Profunda",
+        "Consciência do Erro"
+      ],
+      "personagens": []
     },
     "40": {
-      "parafrase": "Na manhã seguinte, eles se levantaram cedo e foram para o alto da região montanhosa, dizendo: 'Subiremos ao lugar que o Senhor prometeu, pois pecamos.'",
-      "referencias": [],
-      "comentario": "O povo tenta reverter o juízo de Deus por meio de uma obediência presunçosa, agindo sem a ordem e a presença de Deus.",
-      "temas": ["obediência presunçosa", "desobediência"],
-      "personagens": ["Israelitas"]
+      "parafrase": "Mas, mesmo em seu desespero e arrependimento tardio, eles se levantaram bem cedo na manhã seguinte, como se pensassem que poderiam reverter a decisão, e subiram apressadamente a montanha que ficava na fronteira da terra prometida.",
+      "referencias": [
+        "Deuteronômio 1:41",
+        "Lucas 13:25"
+      ],
+      "comentario": "Este é o pico da autossabotagem. A ação de subir a montanha ('subiram apressadamente a cabeceira do monte') é um ato de fé impulsivo e desobediente, pois eles já haviam sido instruídos a recuar. É um 'faça-me o favor' religioso, ignorando a ordem prévia de recuar.",
+      "temas": [
+        "Arrependimento Tardio",
+        "Impulsividade",
+        "Tentativa de Reverter o Juízo"
+      ],
+      "personagens": []
     },
     "41": {
-      "parafrase": "Mas Moisés disse: 'Por que vocês estão desobedecendo à ordem do Senhor? Isso não terá sucesso!'",
-      "referencias": [],
-      "comentario": "Moisés adverte o povo de que sua tentativa de conquistar a terra sem a bênção de Deus está fadada ao fracasso.",
-      "temas": ["advertência", "fracasso"],
-      "personagens": ["Moisés"]
+      "parafrase": "Moisés, então, repreendeu-os severamente, dizendo: 'Por que vocês estão agindo assim? Por que se rebelam contra a ordem do Senhor? Esta tentativa não terá sucesso algum, pois o Senhor não está com vocês agora.'",
+      "referencias": [
+        "Deuteronômio 1:42",
+        "Romanos 8:31"
+      ],
+      "comentario": "Moisés atua como o intérprete da ausência de Deus. A ausência do sinal da presença divina (*Shekinah*) significa o fracasso militar e espiritual. A frase 'O Senhor não está convosco' é o veredito final sobre a tentativa deles de prosseguir sem a aprovação divina.",
+      "temas": [
+        "Advertência de Moisés",
+        "Ausência de Apoio Divino",
+        "Desobediência Reiterada"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "42": {
-      "parafrase": "'Não subam, porque o Senhor não está com vocês. Vocês serão derrotados pelos seus inimigos.'",
-      "referencias": [],
-      "comentario": "A presença de Deus era a chave para a vitória, e sem ela, Israel estava vulnerável.",
-      "temas": ["presença de Deus", "derrota"],
-      "personagens": ["Moisés"]
+      "parafrase": "'Não avancem! Pois o Senhor já retirou Sua presença de vocês, e vocês serão derrotados pelos seus inimigos cananeus, que estão esperando para atacá-los.'",
+      "referencias": [
+        "Josué 1:9",
+        "2 Samuel 5:24"
+      ],
+      "comentario": "A consequência imediata de desobedecer à ordem de recuar é a vulnerabilidade total. Sem a proteção e liderança de Deus (a nuvem/coluna), o inimigo prevalecerá. O medo que sentiram dos gigantes agora se tornará um perigo real com os exércitos de Canaã.",
+      "temas": [
+        "Derrota Iminente",
+        "Proteção Divina",
+        "Consequência da Desobediência"
+      ],
+      "personagens": []
     },
     "43": {
-      "parafrase": "'Pois os amalequitas e os cananeus os enfrentarão ali, e vocês cairão à espada. Visto que deixaram de seguir o Senhor, o Senhor não estará com vocês.'",
-      "referencias": [],
-      "comentario": "Moisés prediz a derrota do povo, que seria uma consequência direta de sua desobediência.",
-      "temas": ["predição", "derrota", "desobediência"],
-      "personagens": ["Moisés"]
+      "parafrase": "Os amalequitas e os cananeus que habitavam a região montanhosa desceram e os atacaram perto de Horma, perseguindo-os e derrotando-os completamente.",
+      "referencias": [
+        "Juízes 1:17",
+        "Deuteronômio 1:44"
+      ],
+      "comentario": "A profecia de Moisés se cumpre instantaneamente. Os inimigos eram os Amalequitas e os Cananeus (Moradores das montanhas). A derrota é total ('feriu-os'), confirmando que a fé deles não estava mais na liderança de Moisés, mas em sua própria força, que falhou.",
+      "temas": [
+        "Batalha e Derrota",
+        "Profecia Cumprida",
+        "Ataque Inesperado"
+      ],
+      "personagens": [
+        "Amalequitas",
+        "Cananeus"
+      ]
     },
     "44": {
-      "parafrase": "Mas eles, presunçosamente, subiram ao alto da região montanhosa, embora a arca da aliança do Senhor e Moisés não tivessem saído do acampamento.",
-      "referencias": [],
-      "comentario": "A presunção do povo os leva a ignorar a advertência de Moisés e a agir por conta própria. A ausência da arca da aliança simbolizava a ausência da presença e da bênção de Deus.",
-      "temas": ["presunção", "desobediência", "ausência de Deus"],
-      "personagens": ["Israelitas"]
+      "parafrase": "Embora eles tentassem resistir com toda a sua bravura, avançando em direção ao topo daquela montanha, era tarde demais. O Senhor não estava mais com eles e, por isso, foram massacrados pelos inimigos que habitavam aquela região.",
+      "referencias": [
+        "Deuteronômio 1:43",
+        "Tiago 2:17"
+      ],
+      "comentario": "O contraste entre a tentativa humana ('foram vencidos') e a ausência divina é claro. A bravura sem a bênção de Deus se torna imprudência fatal. Esta é uma lição amarga sobre a necessidade de esperar o tempo e a direção de Deus.",
+      "temas": [
+        "Imprudência Humana",
+        "A Hora de Deus",
+        "Derrota Espiritual"
+      ],
+      "personagens": []
     },
     "45": {
-      "parafrase": "Então, os amalequitas e os cananeus que viviam naquela região montanhosa desceram, os atacaram e os derrotaram, perseguindo-os até Hormá.",
-      "referencias": [],
-      "comentario": "A predição de Moisés se cumpre, e o povo sofre uma derrota humilhante. A presunção e a desobediência levaram à tragédia.",
-      "temas": ["derrota", "humilhação", "presunção"],
-      "personagens": ["Amalequitas", "Cananeus", "Israelitas"]
+      "parafrase": "Então, os israelitas, desanimados e derrotados, voltaram atrás e acamparam no deserto, no caminho que leva ao Mar de Juncos, como Deus havia ordenado anteriormente.",
+      "referencias": [
+        "Números 14:25",
+        "Salmos 106:13"
+      ],
+      "comentario": "O ciclo se completa: a tentativa de avançar desobedeceu à ordem de recuar, e a derrota forçou-os a obedecer à ordem original. Eles retornam ao ponto de partida, aceitando, finalmente, o destino dos quarenta anos de deserto, um ciclo de fracasso e espera amarga. 😔",
+      "temas": [
+        "Retorno ao Acampamento",
+        "Aceitação da Sentença",
+        "O Ciclo do Deserto"
+      ],
+      "personagens": []
     }
   }
 }

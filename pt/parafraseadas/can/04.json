@@ -1,121 +1,273 @@
-
 {
-  "livro": "Cantares de Salomão",
+  "livro": "Cânticos",
   "capitulo": 4,
-  "contexto_historico": "Ver contexto anterior em Cantares de Salomão 1.",
-  "bloco_tematico": "O Noivo Exalta a Beleza da Noiva",
+  "contexto_historico": "O Livro de Cânticos (ou Cântico dos Cânticos) é um texto poético e lírico que celebra o amor humano, frequentemente interpretado alegoricamente como o amor entre Deus (o Amado) e Israel (a Amada) ou entre Cristo (o Amado) e a Igreja (a Amada). O Capítulo 4, em particular, ocorre após o reencontro apaixonado do final do Capítulo 3. A linguagem é de exaltação mútua, com o noivo (o Amado) elogiando intensamente a beleza física e espiritual da noiva (a Sulamita). É um momento de plena satisfação e admiração mútua, culminando no convite para que a noiva venha com ele para um local de intimidade e união plena (o retiro dos unguentos). Este capítulo foca na idealização da beleza da Sulamita, usando metáforas ricas da natureza (jardins, fontes, animais preciosos) para descrever suas qualidades.",
+  "bloco_tematico": "Exaltação da Beleza Nupcial e Convite à Intimidade Profunda 🌹✨",
   "versiculos": {
     "1": {
-      "parafrase": "Como você é linda, minha amada! Ah, como é linda! Seus olhos, por trás do véu, são como pombas. Seu cabelo é como um rebanho de cabras que desce do monte de Gileade.",
-      "referencias": ["Cantares de Salomão 1:15"],
-      "comentario": "O noivo começa uma descrição detalhada e poética da beleza de sua noiva. Os olhos como pombas sugerem pureza e ternura. O cabelo ondulado e escuro é comparado a um rebanho de cabras em movimento.",
-      "temas": ["beleza", "elogio", "admiração"],
-      "personagens": ["Salomão"]
+      "parafrase": "Ah, amada minha! Como sua beleza me encanta e me prende! Seus olhos, sob o véu, brilham como pombas puras refletindo a luz do riacho, revelando uma inocência e uma doçura que me desarman completamente. Você é um mistério belíssimo, escondido, mas vislumbrado em vislumbres perfeitos.",
+      "referencias": [
+        "Gênesis 29:17",
+        "Salmos 84:10"
+      ],
+      "comentario": "A exclamação inicial 'Ah!' denota admiração intensa. Os olhos descritos como 'pombas' (hebraico: *yonah*) sugerem pureza e paz. O véu (*ba’ad*) indica modéstia ou a dificuldade de acesso total, mas a visão parcial já é deslumbrante. O ato de se lavar no riacho remete à pureza ritual e beleza natural.",
+      "temas": [
+        "Beleza feminina",
+        "Adoração",
+        "Pureza"
+      ],
+      "personagens": [
+        "Amado",
+        "Amada"
+      ]
     },
     "2": {
-      "parafrase": "Seus dentes são como um rebanho de ovelhas tosquiadas que sobem do lavadouro; cada uma tem seu par, e nenhuma delas está faltando.",
-      "referencias": ["Cantares de Salomão 6:6"],
-      "comentario": "A imagem descreve dentes brancos, uniformes e completos. A comparação com ovelhas recém-lavadas enfatiza a brancura e a perfeição do sorriso dela.",
-      "temas": ["beleza", "perfeição", "pureza"],
-      "personagens": ["Salomão"]
+      "parafrase": "Seus dentes são como um rebanho de ovelhas recém-tosquiadas, todas alinhadas e brancas, subindo do pasto luxuriante, cada uma trazendo sua gêmea, sem que nenhuma se perca ou falte em seu conjunto perfeito.",
+      "referencias": [
+        "Provérbios 31:10",
+        "Êxodo 12:5"
+      ],
+      "comentario": "A metáfora dos dentes como 'ovelhas que sobem do lugar de lavagem' (ou tosa) é uma hipérbole de alvura e uniformidade. A ideia de 'cada uma trazendo sua gêmea' enfatiza a simetria e a perfeição da dentição.",
+      "temas": [
+        "Perfeição",
+        "Saúde",
+        "Aparência física"
+      ],
+      "personagens": [
+        "Amada"
+      ]
     },
     "3": {
-      "parafrase": "Seus lábios são como um fio de escarlate, e sua boca é linda. Suas faces, por trás do véu, são como metades de uma romã.",
-      "referencias": [],
-      "comentario": "Os lábios vermelhos e delicados são elogiados. As faces coradas, vistas sutilmente através do véu, são comparadas à cor vibrante e às sementes de uma romã, sugerindo beleza e fertilidade.",
-      "temas": ["beleza", "delicadeza", "cor"],
-      "personagens": ["Salomão"]
+      "parafrase": "Seus lábios são como um fio escarlate delicado, um símbolo de sua fala suave e de sua beleza marcante. Sua boca é de uma graça inigualável, e quando você sorri ou fala, mesmo a parte mais oculta do seu rosto, como uma fatia de romã, me desarma com sua doçura.",
+      "referencias": [
+        "Provérbios 15:23",
+        "Isaías 30:27"
+      ],
+      "comentario": "O lábio é comparado a um 'fio de carmesim' (*fetil shani*), sugerindo cor vibrante e formato perfeito. A menção da 'têmpora' (parte lateral da cabeça, mas frequentemente traduzida aqui como o perfil ou face) quando se sorri, comparada à 'fatia de romã', indica uma beleza interior e exterior que se revela no gesto.",
+      "temas": [
+        "Falas doces",
+        "Sedução",
+        "Cores vibrantes"
+      ],
+      "personagens": [
+        "Amada"
+      ]
     },
     "4": {
-      "parafrase": "Seu pescoço é como a torre de Davi, construída como arsenal; nela pendem mil escudos, todos escudos de guerreiros valentes.",
-      "referencias": ["Neemias 3:19"],
-      "comentario": "O pescoço dela é descrito como elegante e forte, adornado com colares que lembram os escudos de guerreiros. A imagem transmite nobreza, força e beleza.",
-      "temas": ["nobreza", "força", "beleza"],
-      "personagens": ["Salomão"]
+      "parafrase": "Seu pescoço é como a torre majestosa de Davi, forte e erguida, construída para exibir os tesouros da sabedoria e da beleza. É um pedestal digno para a joia da sua cabeça, e nele repousam as mil peças de armadura que simbolizam a coragem e a honra que carrega.",
+      "referencias": [
+        "Efésios 4:12",
+        "Cantares 3:9"
+      ],
+      "comentario": "A torre de Davi (*migdal David*) era uma estrutura militar icônica, associada à força e à segurança. A descrição do pescoço como suporte para 'mil escudos' (*kol ha’elyot*) enfatiza a força e a preparação da amada, embora em contexto amoroso, sugere nobreza e defesa de sua honra.",
+      "temas": [
+        "Força",
+        "Nobreza",
+        "Proteção"
+      ],
+      "personagens": [
+        "Amada"
+      ]
     },
     "5": {
-      "parafrase": "Seus dois seios são como dois filhotes de gazela, gêmeos, que pastam entre os lírios.",
-      "referencias": ["Cantares de Salomão 7:3"],
-      "comentario": "Uma imagem de simetria, delicadeza e pureza. A comparação com filhotes de gazela pastando entre lírios evoca uma cena de beleza natural, inocência e encanto.",
-      "temas": ["beleza", "simetria", "pureza"],
-      "personagens": ["Salomão"]
+      "parafrase": "Os seios dela são como dois tenros filhotes de gazela, gêmeos idênticos que pastam pacificamente entre os lírios mais perfumados do jardim. Eles são a imagem da delicadeza e da nutrição que prometem.",
+      "referencias": [
+        "Provérbios 5:19",
+        "Oséias 14:5"
+      ],
+      "comentario": "A comparação com filhotes de gazela (*tə’ô’mim*), que são leves, ágeis e, aqui, pastando entre lírios, reforça a ideia de delicadeza, beleza natural e abundância em um ambiente puro (os lírios).",
+      "temas": [
+        "Fecundidade",
+        "Delicadeza",
+        "Natureza"
+      ],
+      "personagens": [
+        "Amada"
+      ]
     },
     "6": {
-      "parafrase": "Antes que o dia amanheça e as sombras fujam, irei à montanha da mirra e à colina do incenso.",
-      "referencias": ["Cantares de Salomão 2:17"],
-      "comentario": "O noivo expressa seu desejo de estar com ela, usando a metáfora da 'montanha da mirra' e da 'colina do incenso' para se referir ao corpo perfumado e atraente de sua amada.",
-      "temas": ["desejo", "intimidade", "atração"],
-      "personagens": ["Salomão"]
+      "parafrase": "Eu me perderia no prazer de estar com você até o amanhecer, esperando o sol nascer. Meu desejo é caminhar e desfrutar de sua presença até que a escuridão da noite se dissipe completamente e o dia se instale, pois sua companhia é meu refúgio.",
+      "referencias": [
+        "Salmos 130:6",
+        "Jó 24:15"
+      ],
+      "comentario": "O amado expressa o desejo de prolongar o encontro amoroso ('até que o dia clareie' ou 'as sombras fujam'). A expressão 'irei ao monte de mirra e ao monte de incenso' usa especiarias como metáfora para locais de profunda intimidade e sacrifício mútuo no amor.",
+      "temas": [
+        "Desejo",
+        "Intimidade",
+        "Perseverança"
+      ],
+      "personagens": [
+        "Amado",
+        "Amada"
+      ]
     },
     "7": {
-      "parafrase": "Você é toda linda, minha amada; em você não há defeito algum.",
-      "referencias": ["Efésios 5:27"],
-      "comentario": "Após descrever partes específicas, ele conclui com um elogio absoluto. Para ele, ela é perfeita, sem nenhuma falha. Isso reflete a visão idealizada do amor verdadeiro.",
-      "temas": ["perfeição", "amor", "admiração total"],
-      "personagens": ["Salomão"]
+      "parafrase": "Você é absolutamente perfeita, minha amada! Não há sequer uma mancha ou imperfeição em você; você é completamente pura aos meus olhos. Não há nada em seu ser que precise ser corrigido ou escondido.",
+      "referencias": [
+        "Efésios 5:27",
+        "Tito 2:14"
+      ],
+      "comentario": "A afirmação 'Você é toda formosa' (*kullāh yəpāh*) é a culminação da descrição da beleza física. A ausência de mácula ('nenhuma mancha em ti') reflete o ideal de santidade e perfeição que o amor busca ver no outro.",
+      "temas": [
+        "Incondicionalidade",
+        "Perfeição",
+        "Integridade"
+      ],
+      "personagens": [
+        "Amado",
+        "Amada"
+      ]
     },
     "8": {
-      "parafrase": "Venha comigo do Líbano, minha noiva, venha comigo do Líbano. Desça do topo do Amana, do topo do Senir e do Hermom, das tocas dos leões, dos esconderijos dos leopardos.",
-      "referencias": ["Deuteronômio 3:9"],
-      "comentario": "Um convite para que ela deixe para trás qualquer perigo ou lugar inacessível (simbolizado pelas montanhas e animais selvagens) e se junte a ele em segurança. Ele a chama para uma nova vida ao seu lado.",
-      "temas": ["convite", "segurança", "nova vida"],
-      "personagens": ["Salomão"]
+      "parafrase": "Minha noiva, venha agora comigo, deixe as montanhas do Líbano e venha comigo! Olhe atentamente de um ponto elevado, dos cumes mais altos, pois estou prestes a te levar para um lugar de visão privilegiada.",
+      "referencias": [
+        "Apocalipse 14:1",
+        "Isaías 2:2"
+      ],
+      "comentario": "O convite ('Vem comigo do Líbano') é um chamado para a ação e para a jornada. O Líbano era famoso por seus cedros, símbolos de grandeza. O pedido para olhar 'dos cumes de Amana, Senir e Hermom' (nomes de picos no Líbano) é um convite para compartilhar uma perspectiva elevada e majestosa da vida e do amor.",
+      "temas": [
+        "Chamado",
+        "Companheirismo",
+        "Exaltação"
+      ],
+      "personagens": [
+        "Amado",
+        "Noiva/Amada"
+      ]
     },
     "9": {
-      "parafrase": "Você roubou meu coração, minha irmã, minha noiva; você roubou meu coração com um só olhar seu, com uma só pérola do seu colar.",
-      "referencias": [],
-      "comentario": "Ele expressa o quão cativado está por ela. O termo 'minha irmã' era um título de afeto e igualdade. Um simples olhar dela foi suficiente para conquistá-lo completamente.",
-      "temas": ["paixão", "conquista", "afeto"],
-      "personagens": ["Salomão"]
+      "parafrase": "Você roubou meu coração, minha irmã e minha noiva! Com apenas um olhar fugaz de seus olhos, com um simples gesto de seu colar, você me cativou e me dominou completamente, superando o poder de todas as minhas defesas.",
+      "referencias": [
+        "Juízes 14:16",
+        "Filipenses 3:8"
+      ],
+      "comentario": "O termo 'irmã' (*’āhōtî*) indica um laço profundo de intimidade e pureza, não necessariamente de sangue. O colar ou medalhão ('um só fio do teu pescoço') tem um poder talismânico, demonstrando como um pequeno detalhe pode ter um impacto avassalador no coração do amado.",
+      "temas": [
+        "Cativeiro amoroso",
+        "Intimidade familiar",
+        "Impacto do detalhe"
+      ],
+      "personagens": [
+        "Amada",
+        "Amado"
+      ]
     },
     "10": {
-      "parafrase": "Quão deliciosas são as suas carícias, minha irmã, minha noiva! Suas carícias são mais agradáveis que o vinho, e o aroma do seu perfume supera o de todas as especiarias!",
-      "referencias": ["Cantares de Salomão 1:2"],
-      "comentario": "Ele exalta a doçura do amor dela, considerando-o superior aos prazeres mais requintados, como o vinho e as especiarias mais raras.",
-      "temas": ["prazer", "amor", "deleite"],
-      "personagens": ["Salomão"]
+      "parafrase": "Quão maravilhosos são seus abraços, minha irmã, minha noiva! Seu amor é mais embriagador e mais potente do que qualquer vinho, e o perfume que emana de você é mais doce e refinado do que qualquer especiaria já misturada.",
+      "referencias": [
+        "Efésios 5:18",
+        "Salmos 104:15"
+      ],
+      "comentario": "O amor dela é comparado ao vinho, mas de uma qualidade superior: 'mais maravilhosos que o vinho'. O termo hebraico para o perfume é *baśāmîm*, que engloba muitas especiarias finas, sublinhando a riqueza sensorial que ela proporciona.",
+      "temas": [
+        "Prazer",
+        "Sedução sensorial",
+        "Amor superior"
+      ],
+      "personagens": [
+        "Amada",
+        "Amado"
+      ]
     },
     "11": {
-      "parafrase": "Seus lábios gotejam mel, minha noiva; mel e leite estão debaixo da sua língua. A fragrância de suas vestes é como a fragrância do Líbano.",
-      "referencias": ["Provérbios 5:3"],
-      "comentario": "Suas palavras e beijos são doces como mel. A imagem de 'mel e leite' sob a língua remete à Terra Prometida, simbolizando abundância e bênção. Até suas roupas carregam o perfume nobre do Líbano.",
-      "temas": ["doçura", "abundância", "fragrância"],
-      "personagens": ["Salomão"]
+      "parafrase": "Querida, o sabor de seus lábios derrete qualquer preocupação, pois o mel escorre deles, puro e fresco. O mel da colmeia é bom, mas a doçura de sua fala e seu beijo supera até mesmo a doçura natural do mel.",
+      "referencias": [
+        "Provérbios 16:24",
+        "Salmos 19:10"
+      ],
+      "comentario": "Aqui se foca na doçura do beijo e da fala. O mel (*ḥōḇaš*) e o leite (*ḥālāḇ*) eram os símbolos máximos de doçura e sustento na cultura antiga. 'O mel e o leite estão debaixo da sua língua' sugere que a doçura está sempre presente, na reserva de sua boca, pronta para ser compartilhada.",
+      "temas": [
+        "Doçura",
+        "Sabor",
+        "Sustento"
+      ],
+      "personagens": [
+        "Amada"
+      ]
     },
     "12": {
-      "parafrase": "Você é um jardim fechado, minha irmã, minha noiva; uma fonte selada, uma nascente protegida.",
-      "referencias": ["Provérbios 5:15-18"],
-      "comentario": "Ele a descreve como um jardim exclusivo e protegido, uma fonte pura reservada apenas para ele. Isso simboliza sua virgindade, pureza e a exclusividade de sua intimidade.",
-      "temas": ["pureza", "exclusividade", "virgindade"],
-      "personagens": ["Salomão"]
+      "parafrase": "Você é como um jardim murado e secreto, minha amada, minha noiva. É uma fonte fechada, guardada com cuidado, cujas águas puras só podem ser acessadas por quem tem a chave correta.",
+      "referencias": [
+        "Isaías 62:5",
+        "Ezequiel 36:26"
+      ],
+      "comentario": "O 'jardim fechado' (*gan ḥāzūr*) é a metáfora da exclusividade e da virgindade ou intimidade reservada. Uma 'fonte selada' (*ma‘yān ḥātūm*) reforça a ideia de uma pureza intocada, protegida por muralhas, acessível apenas ao cônjuge.",
+      "temas": [
+        "Exclusividade",
+        "Santidade",
+        "Tesouro guardado"
+      ],
+      "personagens": [
+        "Amada",
+        "Amado"
+      ]
     },
     "13": {
-      "parafrase": "Seus brotos são um pomar de romãs com frutos excelentes; hena e nardo,",
-      "referencias": [],
-      "comentario": "Continuando a metáfora do jardim, ele descreve a variedade e a excelência de suas qualidades, comparando-as a frutos e plantas raras e valiosas.",
-      "temas": ["fertilidade", "beleza", "valor"],
-      "personagens": ["Salomão"]
+      "parafrase": "Seus frutos são a mais rara das delícias! Você é como um pomar fértil, plantado com as árvores mais preciosas: romãs exuberantes, com seus frutos suculentos, juntamente com as mais finas flores de henna e nardos aromáticos.",
+      "referencias": [
+        "Gênesis 13:10",
+        "Colossenses 2:17"
+      ],
+      "comentario": "Esta estrofe descreve a produtividade e a riqueza da amada. Romãs (fertilidade), henna (beleza e perfume) e nardo (aromas caros e raros) representam a excelência de seus atributos e a alegria que ela proporciona.",
+      "temas": [
+        "Fertilidade",
+        "Riqueza de atributos",
+        "Aroma"
+      ],
+      "personagens": [
+        "Amada"
+      ]
     },
     "14": {
-      "parafrase": "nardo e açafrão, cálamo e canela, com toda árvore de incenso, mirra e aloés, com todas as principais especiarias.",
-      "referencias": ["Êxodo 30:23-24"],
-      "comentario": "A lista de especiarias exóticas e caras enfatiza a riqueza e a preciosidade das virtudes e encantos dela. Ela é um tesouro de delícias sensoriais.",
-      "temas": ["riqueza", "valor", "prazer"],
-      "personagens": ["Salomão"]
+      "parafrase": "Sou movido a buscar a fonte dos teus encantos, amada. Você é um jardim irrigado pelas águas frescas que vêm do Líbano, trazendo consigo a essência dos mais preciosos perfumes, como o açafrão, o cálamo e a canela.",
+      "referencias": [
+        "Jeremias 17:8",
+        "Apocalipse 18:13"
+      ],
+      "comentario": "O amado agora descreve como ele é atraído para a fonte da amada, que é irrigada ('águas') simbolizando a vitalidade contínua que a mantém bela. A lista de especiarias (açafrão, cálamo, canela) enfatiza a raridade e o valor da fonte do afeto dela.",
+      "temas": [
+        "Atração",
+        "Irrigação espiritual",
+        "Valiosidade"
+      ],
+      "personagens": [
+        "Amado",
+        "Amada"
+      ]
     },
     "15": {
-      "parafrase": "Você é uma fonte de jardim, um poço de águas vivas, que fluem do Líbano.",
-      "referencias": ["João 4:10"],
-      "comentario": "Ela não é apenas um jardim, mas a fonte que o sustenta. Ela é fonte de vida, frescor e renovação, qualidades que fluem dela naturalmente como as águas das montanhas do Líbano.",
-      "temas": ["vida", "renovação", "frescor"],
-      "personagens": ["Salomão"]
+      "parafrase": "Você é a água viva que jorra da nascente mais pura, um riacho cristalino descendo das montanhas nevadas do Líbano. Meu desejo é beber dessa fonte inesgotável que purifica e refresca minha alma.",
+      "referencias": [
+        "João 4:14",
+        "Isaías 41:18"
+      ],
+      "comentario": "A água que brota é a fonte (*ma‘yān*). A comparação com a água que corre para o Líbano sugere origem elevada, fria e límpida, indicando a pureza e a força vital do amor da amada.",
+      "temas": [
+        "Vida",
+        "Origem pura",
+        "Saciedade"
+      ],
+      "personagens": [
+        "Amada"
+      ]
     },
     "16": {
-      "parafrase": "Desperte, vento norte! Venha, vento sul! Soprem em meu jardim, para que se espalhem as suas fragrâncias. Que o meu amado entre em seu jardim e prove os seus frutos excelentes.",
-      "referencias": [],
-      "comentario": "A noiva responde, convidando os ventos (que podem simbolizar o espírito ou a paixão) a liberarem seus aromas. Ela se abre para o amado, convidando-o a desfrutar da intimidade que ela reservou para ele.",
-      "temas": ["convite", "entrega", "intimidade"],
-      "personagens": ["Sulamita"]
+      "parafrase": "Que o vento norte, forte e revigorante, sopre suavemente sobre este jardim amado, e que o perfume das especiarias se espalhe pelo ar! Venha, meu amor, entre em meu jardim secreto e desfrute de todos os frutos mais doces e preciosos que eu guardei apenas para você.",
+      "referencias": [
+        "Apocalipse 22:2",
+        "Gênesis 2:8"
+      ],
+      "comentario": "O vento do Norte (hebraico: *rûaḥ tsāpōn*) no Oriente era frequentemente associado a ventos frios e benéficos que traziam alívio do calor. É um convite para que a presença do Amado revitalize o 'jardim' (a amada) e que ela, por sua vez, lhe ofereça seus tesouros. É a consumação do desejo mútuo.",
+      "temas": [
+        "Consumação",
+        "Revitalização",
+        "Oferta mútua"
+      ],
+      "personagens": [
+        "Amado",
+        "Amada"
+      ]
     }
   }
 }

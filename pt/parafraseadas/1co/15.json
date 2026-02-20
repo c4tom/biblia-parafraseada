@@ -1,416 +1,936 @@
 {
   "livro": "1 Coríntios",
   "capitulo": 15,
-  "contexto_historico": "Após abordar questões de divisões, imoralidade, litígios, casamento, dons espirituais e ordem no culto (capítulos 1-14), Paulo neste capítulo trata de um problema fundamental na igreja de Corinto: a negação da ressurreição dos mortos. Ele defende a realidade da ressurreição de Cristo como o fundamento do evangelho e a garantia da ressurreição futura dos crentes. Ele explica a natureza do corpo ressurreto e a vitória final sobre a morte.",
-  "bloco_tematico": "A Ressurreição de Cristo e a Ressurreição dos Mortos",
+  "contexto_historico": "A Primeira Epístola aos Coríntios foi escrita por Paulo para abordar uma série de problemas sérios na igreja de Corinto, uma cidade conhecida por sua riqueza, corrupção moral e diversidade religiosa (influências gregas e pagãs). O capítulo 15 está situado na seção final da carta, onde Paulo lida com doutrinas fundamentais, especificamente a ressurreição dos mortos. Esta doutrina estava sendo negada ou posta em dúvida por alguns membros da igreja, possivelmente influenciados por filosofias gregas que viam o corpo como prisão e a ressurreição como algo impossível ou indesejável. A negação da ressurreição minava a base de toda a fé cristã, pois sem ela, a vitória de Cristo sobre a morte (sua própria ressurreição) e a esperança futura dos crentes seriam anuladas. Paulo constrói um argumento teológico e prático irrefutável em defesa dessa verdade central. 💡📜",
+  "bloco_tematico": "A Vitória Definitiva: Argumentos e Implicações da Ressurreição de Cristo e dos Crentes 👑➕💀",
   "versiculos": {
     "1": {
-      "parafrase": "Agora, irmãos, quero lembrar-lhes o evangelho que lhes preguei, o qual vocês receberam e no qual estão firmes.",
-      "referencias": ["1 Coríntios 1:17"],
-      "comentario": "Paulo relembra o evangelho que ele pregou, que é o fundamento da fé dos coríntios. Ele os lembra da verdade que eles já haviam recebido e na qual estavam firmes.",
-      "temas": ["evangelho", "fundamento da fé", "firmeza"],
-      "personagens": ["Paulo"]
+      "parafrase": "Meus amados irmãos e irmãs em Cristo, desejo agora focar a atenção de vocês na mensagem central da nossa fé, aquela notícia que transformou tudo: a ressurreição de Jesus Cristo, nosso Senhor. Esta é a fundação sobre a qual todo o nosso testemunho está edificado.",
+      "referencias": [
+        "Romanos 1:4",
+        "Atos 2:24"
+      ],
+      "comentario": "Paulo introduz o tema da ressurreição como o 'evangelho' (boa notícia) central. A palavra grega para 'lembrar' (ὑπομνῄσκω - hypomnēskō) implica trazer à mente algo que já é conhecido, mas que precisa ser reafirmado devido a falsas doutrinas que estavam surgindo.",
+      "temas": [
+        "O Evangelho",
+        "A Centralidade da Ressurreição",
+        "Chamado à Memória"
+      ],
+      "personagens": [
+        "Paulo",
+        "Coríntios"
+      ]
     },
     "2": {
-      "parafrase": "Por meio dele vocês são salvos, se guardarem firmemente a mensagem que lhes preguei; do contrário, vocês creram em vão.",
-      "referencias": ["Gálatas 3:4"],
-      "comentario": "A salvação depende da perseverança na mensagem do evangelho. Crer em vão significa que a fé não é genuína ou que a mensagem não foi compreendida corretamente.",
-      "temas": ["salvação", "perseverança", "fé em vão"],
-      "personagens": []
+      "parafrase": "Se vocês se agarrarem firmemente a qualquer outra ideia que contradiga esta verdade que lhes preguei, se não a mantiverem pura e intacta, será como se a fé de vocês nunca tivesse sido verdadeira, como se fosse uma construção vazia.",
+      "referencias": [
+        "Gálatas 1:9",
+        "2 Timóteo 2:18"
+      ],
+      "comentario": "A fé é condicional à preservação da mensagem original. Se a base (a ressurreição corporal) for negada ou alterada, toda a estrutura da salvação desmorona, tornando a conversão deles 'em vão' (κενός - kenos, vazio).",
+      "temas": [
+        "Integridade da Doutrina",
+        "A Vazio da Crença Falsa",
+        "Fidelidade à Mensagem"
+      ],
+      "personagens": [
+        "Paulo",
+        "Coríntios"
+      ]
     },
     "3": {
-      "parafrase": "Pois o que lhes transmiti, como de suma importância, foi o que também recebi: que Cristo morreu por nossos pecados, segundo as Escrituras,",
-      "referencias": ["Romanos 5:8", "Isaías 53:5"],
-      "comentario": "Paulo resume o cerne do evangelho: a morte de Cristo pelos nossos pecados, que é o cumprimento das Escrituras. Esta é a mensagem central que ele recebeu e transmitiu.",
-      "temas": ["morte de Cristo", "pecados", "Escrituras", "mensagem central"],
-      "personagens": ["Cristo"]
+      "parafrase": "Pois, antes de mais nada, transmiti a vocês o que recebi diretamente, como sendo de importância suprema: que Cristo morreu pelos nossos pecados, conforme as Escrituras profetizavam.",
+      "referencias": [
+        "Isaías 53:5",
+        "Romanos 4:25"
+      ],
+      "comentario": "Aqui Paulo estabelece a 'tradição' (παρέδωκα - paredōka) recebida, que se resume em três pontos cruciais. O primeiro: a morte vicária (por nossos pecados), alinhada com o plano revelado no Antigo Testamento (os 'Escritos').",
+      "temas": [
+        "Morte Vicária",
+        "Cumprimento das Escrituras",
+        "Transmissão da Fé"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "4": {
-      "parafrase": "que ele foi sepultado, que ressuscitou ao terceiro dia, segundo as Escrituras,",
-      "referencias": ["Mateus 12:40", "Lucas 24:46"],
-      "comentario": "A ressurreição de Cristo ao terceiro dia é o ponto crucial do evangelho, também em cumprimento das Escrituras. A ressurreição é a prova da vitória de Cristo sobre a morte.",
-      "temas": ["sepultamento de Cristo", "ressurreição de Cristo", "Escrituras", "vitória"],
-      "personagens": ["Cristo"]
+      "parafrase": "E mais ainda: Ele foi sepultado como um corpo real, e então, no terceiro dia, Ele ressuscitou, cumprindo também as profecias antigas.",
+      "referencias": [
+        "Mateus 12:40",
+        "1 Pedro 3:18"
+      ],
+      "comentario": "O segundo ponto enfatiza a realidade da morte (sepultamento) e a vitória da ressurreição corporal no terceiro dia. Isso refuta qualquer noção de que a morte de Cristo foi apenas aparente (doutrina docética, precursora do gnosticismo).",
+      "temas": [
+        "Sepultamento",
+        "Ressurreição Corporal",
+        "Veracidade Histórica"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "5": {
-      "parafrase": "e que apareceu a Cefas e depois aos Doze.",
-      "referencias": ["Lucas 24:34"],
-      "comentario": "Paulo lista as aparições de Cristo ressurreto, começando com Pedro (Cefas) e depois aos Doze (os apóstolos). Essas aparições são as provas da ressurreição.",
-      "temas": ["aparições de Cristo", "provas da ressurreição"],
-      "personagens": ["Cefas", "Doze"]
+      "parafrase": "Depois disso, Ele apareceu a Cefas, Pedro, e logo em seguida, mostrou-se aos Doze apóstolos, confirmando sua presença física.",
+      "referencias": [
+        "Lucas 24:34",
+        "João 20:19"
+      ],
+      "comentario": "O terceiro ponto são as testemunhas oculares. Cefas (Pedro) é mencionado primeiro, talvez por ser a figura de liderança mais proeminente entre eles ou porque a aparição a ele foi especialmente significativa para Paulo (Lucas 24:34).",
+      "temas": [
+        "Testemunho Ocular",
+        "Aparições Pós-Ressurreição",
+        "Liderança Eclesiástica"
+      ],
+      "personagens": [
+        "Cefas (Pedro)",
+        "Os Doze"
+      ]
     },
     "6": {
-      "parafrase": "Depois disso, apareceu a mais de quinhentos irmãos de uma só vez, a maioria dos quais ainda vive, embora alguns já tenham morrido.",
-      "referencias": [],
-      "comentario": "A aparição a mais de quinhentos irmãos é uma prova esmagadora da ressurreição, pois muitos ainda estavam vivos e poderiam testemunhar. Isso torna a negação da ressurreição insustentável.",
-      "temas": ["provas da ressurreição", "testemunho ocular", "evidência"],
-      "personagens": []
+      "parafrase": "Posteriormente, Ele se revelou a mais de quinhentas pessoas de uma só vez, a maioria dos quais ainda está viva hoje, embora alguns já tenham partido desta vida.",
+      "referencias": [
+        "Atos 1:15"
+      ],
+      "comentario": "Esta é a evidência mais forte e verificável. A multidão de quinhentos é uma referência que sugere que Paulo poderia ter sido desafiado a apresentar testemunhas vivas. A menção de que alguns já 'dormiram' (morreram) adiciona urgência e autenticidade ao testemunho.",
+      "temas": [
+        "Evidência em Massa",
+        "Teste de Verificação",
+        "A Morte dos Testemunhas"
+      ],
+      "personagens": [
+        "Quinhentos Irmãos"
+      ]
     },
     "7": {
-      "parafrase": "Depois, apareceu a Tiago e, então, a todos os apóstolos.",
-      "referencias": ["Atos 1:3"],
-      "comentario": "As aparições continuam, incluindo Tiago (o irmão de Jesus) e todos os apóstolos, reforçando a autenticidade da ressurreição.",
-      "temas": ["aparições de Cristo", "autenticidade"],
-      "personagens": ["Tiago", "apóstolos"]
+      "parafrase": "E, em seguida, Ele se manifestou a Tiago, e depois a todos os apóstolos.",
+      "referencias": [
+        "Mateus 28:10",
+        "Atos 9:4"
+      ],
+      "comentario": "Tiago, provavelmente o irmão de Jesus, que se tornou um pilar da igreja em Jerusalém, recebe uma aparição especial, legitimando sua conversão e autoridade (Tiago teve uma experiência de encontro única com o Ressuscitado).",
+      "temas": [
+        "Autoridade Apostólica",
+        "Revelação Individual"
+      ],
+      "personagens": [
+        "Tiago",
+        "Apóstolos"
+      ]
     },
     "8": {
-      "parafrase": "Por último, depois de todos, apareceu também a mim, como a um nascido fora de tempo.",
-      "referencias": ["Atos 9:3-6"],
-      "comentario": "Paulo se inclui na lista de testemunhas, enfatizando sua própria experiência de conversão e sua visão de Cristo ressurreto. Ele se considera um apóstolo, mesmo tendo nascido fora de tempo (após a ascensão de Cristo).",
-      "temas": ["aparição de Cristo", "testemunho pessoal", "apóstolo"],
-      "personagens": ["Paulo"]
+      "parafrase": "E, por último de todos, como um recém-nascido ou alguém que nasceu fora de tempo, Ele também apareceu a mim, que sou o menor de todos os apóstolos, eu que nem merecia ser chamado de apóstolo porque persegui a Igreja de Deus com fúria.",
+      "referencias": [
+        "Atos 9:15",
+        "Efésios 3:8"
+      ],
+      "comentario": "Paulo se coloca em último lugar. O uso das expressões 'como abortivo' (ἐκτρώματι - ektromati) e 'nascido fora de tempo' revela uma profunda humildade e consciência de sua inadequação para o ofício, um contraste gritante com a glória de sua chamada (o encontro no caminho para Damasco).",
+      "temas": [
+        "Vocação Dramática",
+        "Humildade Radical",
+        "Perseguição Convertida"
+      ],
+      "personagens": [
+        "Paulo",
+        "Cristo"
+      ]
     },
     "9": {
-      "parafrase": "Pois sou o menor dos apóstolos e nem sequer mereço ser chamado apóstolo, porque persegui a igreja de Deus.",
-      "referencias": ["Efésios 3:8"],
-      "comentario": "Paulo demonstra sua humildade e seu profundo arrependimento por seu passado como perseguidor da igreja. Ele reconhece sua indignidade, mas exalta a graça de Deus.",
-      "temas": ["humildade", "arrependimento", "perseguição", "graça de Deus"],
-      "personagens": ["Paulo", "Deus"]
+      "parafrase": "Mas, a verdade é que eu sou o menor de todos os apóstolos, mal merecedor desse título, porque eu fui o maior inimigo da Igreja de Deus; tentei destruí-la com todas as minhas forças.",
+      "referencias": [
+        "1 Timóteo 1:15",
+        "Atos 22:4"
+      ],
+      "comentario": "Reforço da autodepreciação. A palavra grega para 'perseguir' (ἐδίωκον - edíōkon) sugere uma atividade contínua e zelosa contra os seguidores de Cristo. A graça de Deus é contrastada com a maldade passada do apóstolo.",
+      "temas": [
+        "Misericórdia Divina",
+        "Transformação de Caráter",
+        "Graça"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "10": {
-      "parafrase": "Mas, pela graça de Deus, sou o que sou, e a sua graça para comigo não foi em vão. Pelo contrário, trabalhei mais do que todos eles; contudo, não eu, mas a graça de Deus comigo.",
-      "referencias": ["2 Coríntios 12:9-10"],
-      "comentario": "A graça de Deus é a fonte de tudo o que Paulo é e faz. Ele reconhece que seu trabalho árduo não é por sua própria força, mas pela graça de Deus que opera nele. A glória pertence a Deus.",
-      "temas": ["graça de Deus", "trabalho árduo", "glória a Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "No entanto, pela imensa bondade e graça de Deus, eu sou quem eu sou hoje. E a graça que Ele me concedeu não foi inútil; na verdade, trabalhei mais arduamente que todos eles, os outros apóstolos, embora não tenha sido eu, mas sim a graça de Deus agindo em mim.",
+      "referencias": [
+        "Efésios 2:8-10",
+        "Filipenses 2:13"
+      ],
+      "comentario": "Este versículo é uma poderosa declaração da soberania da graça. Paulo reconhece que sua capacidade de 'trabalhar mais' (κοπιάσαι - kopiasai) não vinha de seu esforço humano, mas sim da energia divina canalizada através dele. A obra é de Deus, não do homem.",
+      "temas": [
+        "Soberania da Graça",
+        "Trabalho Missionário",
+        "Esforço Divinamente Capacitado"
+      ],
+      "personagens": [
+        "Paulo",
+        "Deus"
+      ]
     },
     "11": {
-      "parafrase": "Portanto, quer seja eu, quer sejam eles, é isso que pregamos, e é isso que vocês creram.",
-      "referencias": [],
-      "comentario": "A mensagem é a mesma, independentemente do mensageiro. A unidade da mensagem é o que importa, e é nela que os coríntios creram.",
-      "temas": ["unidade da mensagem", "pregação", "fé"],
-      "personagens": []
+      "parafrase": "Portanto, quer tenha sido eu ou eles, o fato é que todos nós pregamos a mesma mensagem, e vocês creram no Cristo que lhes apresentamos, por meio dessa pregação.",
+      "referencias": [
+        "Gálatas 2:9",
+        "Filipenses 1:15"
+      ],
+      "comentario": "Paulo une o seu ministério ao dos apóstolos originais. O conteúdo da mensagem é unificado: a morte e ressurreição de Cristo. A eficácia reside no objeto pregado, e não na personalidade do pregador.",
+      "temas": [
+        "Unidade no Evangelho",
+        "A Mensagem é o Foco",
+        "Consistência da Pregação"
+      ],
+      "personagens": [
+        "Paulo",
+        "Apóstolos"
+      ]
     },
     "12": {
-      "parafrase": "Ora, se é pregado que Cristo ressuscitou dos mortos, como alguns de vocês dizem que não há ressurreição dos mortos?",
-      "referencias": [],
-      "comentario": "Paulo confronta a contradição na crença dos coríntios. Se eles creem na ressurreição de Cristo, como podem negar a ressurreição geral dos mortos?",
-      "temas": ["contradição", "ressurreição de Cristo", "ressurreição dos mortos"],
-      "personagens": ["Cristo"]
+      "parafrase": "Mas agora, se estamos falando da ressurreição de Cristo, como é que alguns de vocês estão dizendo que não há ressurreição dos mortos? Isso é um erro grave!",
+      "referencias": [
+        "Atos 17:32",
+        "2 Timóteo 2:17"
+      ],
+      "comentario": "A negação da ressurreição dos mortos (um erro filosófico helenístico comum) é introduzida como uma contradição direta com o que lhes foi ensinado. O problema em Corinto não era só teórico, mas afetava a prática e a esperança da igreja.",
+      "temas": [
+        "A Heresia da Não-Ressurreição",
+        "Consequências Doutrinárias",
+        "Erros Teológicos"
+      ],
+      "personagens": [
+        "Coríntios"
+      ]
     },
     "13": {
-      "parafrase": "Se não há ressurreição dos mortos, então nem Cristo ressuscitou.",
-      "referencias": [],
-      "comentario": "Paulo argumenta que a negação da ressurreição dos mortos implica a negação da ressurreição de Cristo, o que destrói o fundamento do evangelho.",
-      "temas": ["fundamento do evangelho", "ressurreição de Cristo", "negação"],
-      "personagens": ["Cristo"]
+      "parafrase": "Se não há de fato uma ressurreição dos mortos, então, logicamente, Cristo também não ressuscitou dos mortos.",
+      "referencias": [
+        "Romanos 8:11",
+        "1 Tessalonicenses 4:14"
+      ],
+      "comentario": "A falácia lógica é apresentada: se a ressurreição geral é impossível, a ressurreição particular de Cristo, que é o 'primogênito', também deve ser negada. A ressurreição de Cristo é a prova da possibilidade da nossa.",
+      "temas": [
+        "A Ressurreição de Cristo como Garantia",
+        "Coerência Teológica",
+        "Dedução Lógica"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "14": {
-      "parafrase": "E, se Cristo não ressuscitou, a nossa pregação é inútil, e a fé de vocês também é inútil.",
-      "referencias": [],
-      "comentario": "A ressurreição de Cristo é essencial para a validade da pregação e da fé. Sem ela, tudo é em vão.",
-      "temas": ["pregação inútil", "fé inútil", "essencialidade da ressurreição"],
-      "personagens": ["Cristo"]
+      "parafrase": "E se Cristo não ressuscitou, então toda a nossa pregação é inútil, um desperdício de fôlego, e a fé que vocês professam também não tem valor algum.",
+      "referencias": [
+        "Hebreus 11:6",
+        "2 Timóteo 3:5"
+      ],
+      "comentario": "A inutilidade (ματαία - mataia, fútil, vã) da pregação e da fé é a consequência direta. A fé cristã é baseada em um evento histórico e transcendente; sem a ressurreição, resta apenas um sistema de crenças sem poder.",
+      "temas": [
+        "Fé Inútil",
+        "Pregação Vã",
+        "A Futilidade Sem Cristo Vivo"
+      ],
+      "personagens": [
+        "Paulo",
+        "Coríntios"
+      ]
     },
     "15": {
-      "parafrase": "Mais ainda, seríamos falsas testemunhas de Deus, pois testemunhamos que Deus ressuscitou a Cristo, a quem ele não ressuscitou, se de fato os mortos não ressuscitam.",
-      "referencias": [],
-      "comentario": "A negação da ressurreição de Cristo torna os apóstolos mentirosos e falsas testemunhas de Deus. A verdade da ressurreição é crucial para a integridade do evangelho.",
-      "temas": ["falsas testemunhas", "integridade do evangelho", "ressurreição de Cristo"],
-      "personagens": ["Deus", "Cristo"]
+      "parafrase": "Mais do que isso, nós, os pregadores, seríamos revelados como mentirosos descarados sobre Deus, porque testemunhamos que Ele ressuscitou a Cristo, o que seria falso se os mortos não ressuscitam.",
+      "referencias": [
+        "Atos 5:29",
+        "Deuteronômio 18:20"
+      ],
+      "comentario": "O maior custo: os apóstolos seriam considerados falsos testemunhas de Deus (ψευδομάρτυρες - pseudomártures). Testemunhar falsamente sobre Deus é um crime gravíssimo no contexto judaico-cristão.",
+      "temas": [
+        "Falsas Testemunhas",
+        "Integridade do Apóstolo",
+        "A Ira de Deus Contra a Mentira"
+      ],
+      "personagens": [
+        "Apóstolos"
+      ]
     },
     "16": {
-      "parafrase": "Pois, se os mortos não ressuscitam, então nem Cristo ressuscitou.",
-      "referencias": [],
-      "comentario": "Paulo reitera a conexão inseparável entre a ressurreição de Cristo e a ressurreição geral dos mortos.",
-      "temas": ["conexão", "ressurreição de Cristo", "ressurreição dos mortos"],
-      "personagens": ["Cristo"]
+      "parafrase": "Pois, se a verdade é que os mortos não voltam à vida, então Cristo também não foi trazido de volta à vida por Deus.",
+      "referencias": [
+        "João 5:29",
+        "Atos 2:32"
+      ],
+      "comentario": "Repetição enfática do argumento: a ressurreição de Cristo é o caso específico que prova a regra da ressurreição futura. Se o caso específico falha, a regra geral é refutada.",
+      "temas": [
+        "Exemplo Específico",
+        "Prova da Ressurreição"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "17": {
-      "parafrase": "E, se Cristo não ressuscitou, a fé de vocês é inútil, e vocês ainda estão em seus pecados.",
-      "referencias": ["Romanos 4:25"],
-      "comentario": "A ressurreição de Cristo é essencial para o perdão dos pecados e a justificação. Sem ela, a fé é inútil, e os crentes ainda estariam sob a condenação do pecado.",
-      "temas": ["fé inútil", "pecados", "perdão dos pecados", "justificação"],
-      "personagens": ["Cristo"]
+      "parafrase": "E se Cristo não ressuscitou, a consequência é terrível: a fé de vocês é uma ilusão, e vocês ainda estão presos em seus pecados originais.",
+      "referencias": [
+        "Romanos 5:12",
+        "Colossenses 2:13"
+      ],
+      "comentario": "A maior implicação prática: a ausência de ressurreição significa que o sacrifício de Cristo não foi aceito e a morte ainda retém seu poder sobre os crentes. Eles estariam, espiritualmente, 'mortos em seus delitos e pecados'.",
+      "temas": [
+        "Permanência no Pecado",
+        "Ilusão da Fé",
+        "Poder da Morte"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "18": {
-      "parafrase": "Então, também os que dormiram em Cristo pereceram.",
-      "referencias": ["1 Tessalonicenses 4:13"],
-      "comentario": "Se não há ressurreição, então aqueles que morreram em Cristo pereceram, e sua esperança é vã. Isso destrói a esperança cristã.",
-      "temas": ["esperança vã", "morte em Cristo", "perecer"],
-      "personagens": ["Cristo"]
+      "parafrase": "Nesse caso trágico, aqueles irmãos em Corinto que já morreram, crendo em Cristo, pereceram, pois não têm esperança de vida futura.",
+      "referencias": [
+        "1 Tessalonicenses 4:13",
+        "Salmos 116:15"
+      ],
+      "comentario": "A tristeza é estendida aos falecidos. Se a ressurreição não existe, os que morreram no Senhor foram, na verdade, as maiores vítimas, pois abandonaram tudo por uma mentira e encontraram o fim absoluto.",
+      "temas": [
+        "Destino dos Crentes Mortos",
+        "Esperança Escatológica",
+        "Perda Eterna"
+      ],
+      "personagens": [
+        "Crentes Falecidos"
+      ]
     },
     "19": {
-      "parafrase": "Se a nossa esperança em Cristo se limita apenas a esta vida, somos os mais dignos de pena de todos os homens.",
-      "referencias": [],
-      "comentario": "A esperança cristã transcende esta vida. Se ela se limita apenas ao presente, então a fé é inútil e a vida cristã é um fardo sem sentido.",
-      "temas": ["esperança limitada", "vida cristã", "dignos de pena"],
-      "personagens": ["Cristo"]
+      "parafrase": "Se a nossa esperança em Cristo se limita apenas a esta vida terrena, então somos, de todos os seres humanos, os mais dignos de pena e compaixão.",
+      "referencias": [
+        "Mateus 5:4",
+        "Tiago 4:14"
+      ],
+      "comentario": "Paulo eleva o tom: a fé sem eternidade é a maior tragédia humana. O crente, que renuncia a prazeres mundanos e suporta sofrimento pela promessa futura, seria o maior tolo se essa promessa fosse falsa.",
+      "temas": [
+        "Fé Limitada ao Terreno",
+        "Piedade e Sofrimento",
+        "Compaixão"
+      ],
+      "personagens": [
+        "Cristãos"
+      ]
     },
     "20": {
-      "parafrase": "Mas, de fato, Cristo ressuscitou dos mortos, sendo as primícias dos que dormem.",
-      "referencias": ["Colossenses 1:18", "Apocalipse 1:5"],
-      "comentario": "A afirmação central de Paulo: Cristo ressuscitou dos mortos. Ele é as primícias, a garantia de que outros também ressuscitarão. Sua ressurreição é o início da colheita.",
-      "temas": ["ressurreição de Cristo", "primícias", "garantia"],
-      "personagens": ["Cristo"]
+      "parafrase": "Mas a realidade é outra! Cristo foi, de fato, levantado dos mortos, sendo Ele a primícia, o primeiro a colher os frutos da vitória sobre a morte.",
+      "referencias": [
+        "Colossenses 1:18",
+        "Apocalipse 1:5"
+      ],
+      "comentario": "Aqui, a virada triunfal: 'Mas agora' (Νυνὶ δέ - Nuni de). Cristo é a 'primícia' (ἀπαρχή - aparchē), o antegosto da colheita. Sua ressurreição garante que todos os que estão 'em Cristo' seguirão o mesmo caminho.",
+      "temas": [
+        "Vitória Absoluta",
+        "Cristo como Primícia",
+        "Garantia da Colheita"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "21": {
-      "parafrase": "Pois, visto que a morte veio por um homem, também por um homem veio a ressurreição dos mortos.",
-      "referencias": ["Romanos 5:12"],
-      "comentario": "A morte veio por Adão, e a ressurreição veio por Cristo. É um contraste entre a obra de Adão e a obra de Cristo.",
-      "temas": ["morte", "ressurreição", "Adão", "Cristo"],
-      "personagens": []
+      "parafrase": "Visto que a morte veio por meio de um homem — Adão —, a ressurreição dos mortos também veio por meio de um Homem — Jesus Cristo.",
+      "referencias": [
+        "Romanos 5:12-19",
+        "Gênesis 3:19"
+      ],
+      "comentario": "Contraste direto entre Adão (o 'primeiro homem', fonte da ruína e da morte) e Cristo (o 'último Adão' ou 'segundo Homem', fonte da vida e da ressurreição). É um paralelo teológico profundo sobre redenção.",
+      "temas": [
+        "Adão e Cristo",
+        "Morte e Vida",
+        "Redenção"
+      ],
+      "personagens": [
+        "Adão",
+        "Cristo"
+      ]
     },
     "22": {
-      "parafrase": "Pois, assim como em Adão todos morrem, assim também em Cristo todos serão vivificados.",
-      "referencias": ["Romanos 5:17"],
-      "comentario": "A solidariedade com Adão resulta em morte, mas a união com Cristo resulta em vida. A vivificação é para todos os que estão em Cristo.",
-      "temas": ["morte em Adão", "vida em Cristo", "solidariedade", "união"],
-      "personagens": ["Adão", "Cristo"]
+      "parafrase": "Assim como todos morrem por estarem ligados a Adão, todos aqueles que pertencem a Cristo serão trazidos de volta à vida, por estarem unidos a Ele.",
+      "referencias": [
+        "Romanos 8:2",
+        "Filipenses 3:21"
+      ],
+      "comentario": "A analogia da união: a morte é universal porque todos estão 'em Adão' (o homem natural/carnal). A vida é garantida para todos os que estão 'em Cristo' (o homem espiritual).",
+      "temas": [
+        "União com Cristo",
+        "Universalidade da Morte",
+        "Vida Eterna Garantida"
+      ],
+      "personagens": [
+        "Adão",
+        "Cristo"
+      ]
     },
     "23": {
-      "parafrase": "Mas cada um por sua vez: Cristo, as primícias; depois, os que são de Cristo, na sua vinda.",
-      "referencias": ["1 Tessalonicenses 4:16"],
-      "comentario": "A ressurreição ocorrerá em uma ordem específica: Cristo primeiro, depois os crentes em sua vinda. A ressurreição dos crentes está ligada à volta de Cristo.",
-      "temas": ["ordem da ressurreição", "primícias", "volta de Cristo"],
-      "personagens": ["Cristo"]
+      "parafrase": "Mas cada um no seu devido tempo e ordem: primeiro Cristo, que é a primícia; depois, na Sua vinda, aqueles que são dEle.",
+      "referencias": [
+        "1 Tessalonicenses 4:16",
+        "Mateus 24:30"
+      ],
+      "comentario": "Estabelece a ordem cronológica da escatologia. Cristo lidera, seguido por uma ressurreição dos 'Seus' (os crentes) no momento da Sua Parousia (volta).",
+      "temas": [
+        "Ordem da Ressurreição",
+        "A Segunda Vinda",
+        "Cronologia Escatológica"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "24": {
-      "parafrase": "Então virá o fim, quando ele entregar o Reino a Deus, o Pai, depois de ter destruído todo domínio, autoridade e poder.",
-      "referencias": ["Daniel 7:14", "Efésios 1:22"],
-      "comentario": "O fim virá quando Cristo entregar o Reino ao Pai, após ter subjugado todo o domínio, autoridade e poder. A vitória de Cristo é completa e final.",
-      "temas": ["fim", "Reino de Deus", "vitória de Cristo", "subjugação"],
-      "personagens": ["Cristo", "Deus", "Pai"]
+      "parafrase": "Depois disso, virá o fim, quando Cristo entregar o Reino a Deus Pai, após haver aniquilado todo domínio, autoridade e poder que se opõem a Ele.",
+      "referencias": [
+        "Daniel 7:14",
+        "Hebreus 1:8"
+      ],
+      "comentario": "Descreve o estágio final da história: a consumação do Reino. Cristo reina intermediariamente até que todo poder rebelde seja subjugado (um conceito de soberania régia, ou a 'submissão final').",
+      "temas": [
+        "Consumação do Reino",
+        "Soberania de Cristo",
+        "Destruição da Oposição"
+      ],
+      "personagens": [
+        "Cristo",
+        "Deus Pai"
+      ]
     },
     "25": {
-      "parafrase": "Pois é necessário que ele reine até que tenha posto todos os seus inimigos debaixo dos seus pés.",
-      "referencias": ["Salmos 110:1", "Hebreus 10:13"],
-      "comentario": "O reinado de Cristo é um reinado de vitória sobre seus inimigos. Ele reinará até que todos os seus inimigos sejam subjugados.",
-      "temas": ["reinado de Cristo", "vitória", "inimigos"],
-      "personagens": ["Cristo"]
+      "parafrase": "Pois é necessário que Ele continue reinando até que Deus, Seu Pai, coloque todos os Seus inimigos, sem exceção, debaixo dos Seus pés, como um estrado para o Seu trono.",
+      "referencias": [
+        "Salmos 110:1",
+        "Atos 2:34"
+      ],
+      "comentario": "Citação direta do Salmo 110:1, a Escritura mais citada no Novo Testamento sobre a autoridade de Cristo. A submissão dos inimigos (incluindo a Morte, conforme o v. 26) é uma condição para a entrega final do Reino ao Pai.",
+      "temas": [
+        "Reinado Intermediário",
+        "Subjugação dos Inimigos",
+        "Autoridade Messianica"
+      ],
+      "personagens": [
+        "Cristo",
+        "Deus Pai"
+      ]
     },
     "26": {
-      "parafrase": "O último inimigo a ser destruído é a morte.",
-      "referencias": ["Apocalipse 20:14"],
-      "comentario": "A morte é o último inimigo a ser destruído, mostrando a vitória final de Cristo sobre o pecado e suas consequências.",
-      "temas": ["morte", "inimigo", "vitória final"],
-      "personagens": []
+      "parafrase": "E qual é o inimigo final, aquele que sempre nos desafia até o fim de todas as coisas? É a morte! Ela será a última a ser completamente aniquilada, como um inimigo vencido e retirado do campo de batalha.",
+      "referencias": [
+        "Apocalipse 20:14",
+        "Romanos 5:21"
+      ],
+      "comentario": "Paulo identifica a morte (Thanatos) como o último adversário a ser destruído. Isso estabelece uma ordem cronológica na consumação escatológica: primeiro a ressurreição dos fiéis, depois a derrota de todos os poderes espirituais e, finalmente, a aniquilação da morte. A morte não é um poder eterno; ela é transitória e será subjugada por Cristo.",
+      "temas": [
+        "Escatologia",
+        "Vitória sobre a Morte",
+        "Ordem da Ressurreição"
+      ],
+      "personagens": [
+        "Paulo",
+        "Morte"
+      ]
     },
     "27": {
-      "parafrase": "Pois 'tudo ele sujeitou debaixo dos seus pés'. Quando se diz que 'tudo' lhe foi sujeito, fica claro que isso não inclui aquele que tudo lhe sujeitou.",
-      "referencias": ["Salmos 8:6"],
-      "comentario": "A sujeição de todas as coisas a Cristo é completa, exceto o próprio Deus, que sujeitou tudo a Ele. A soberania de Deus é suprema.",
-      "temas": ["sujeição", "soberania de Deus", "Cristo"],
-      "personagens": ["Deus"]
+      "parafrase": "Pois a Escritura Sagrada, que revela a soberania de Deus, afirma claramente que Ele já colocou todas as coisas sob o domínio de Cristo. Quando diz que 'tudo' está sujeito a Ele, é óbvio que Aquele que submeteu tudo ao Filho não pode ser incluído nessa sujeição, pois Ele é quem governa o todo.",
+      "referencias": [
+        "Salmos 8:6",
+        "Hebreus 2:8",
+        "Efésios 1:22"
+      ],
+      "comentario": "Aqui, Paulo cita (e parafraseia) Salmos 8:6, aplicado a Cristo. O 'Tudo' (panta) submetido a Cristo inclui poderes, autoridades e domínios espirituais, mas Deus Pai, que é a Fonte de toda a autoridade, permanece acima, pois Ele é quem realiza essa sujeição. A soberania de Cristo é mediata e derivada, mas completa.",
+      "temas": [
+        "Soberania de Deus",
+        "Autoridade de Cristo",
+        "Submissão Universal"
+      ],
+      "personagens": [
+        "Deus Pai",
+        "Cristo"
+      ]
     },
     "28": {
-      "parafrase": "Quando tudo lhe estiver sujeito, então o próprio Filho se sujeitará àquele que lhe sujeitou todas as coisas, a fim de que Deus seja tudo em todos.",
-      "referencias": ["1 Coríntios 3:23", "Colossenses 3:11"],
-      "comentario": "A sujeição final do Filho ao Pai é para que Deus seja tudo em todos. É a consumação do plano de Deus, onde a glória de Deus é manifestada em sua plenitude.",
-      "temas": ["sujeição do Filho", "Deus tudo em todos", "consumação", "glória de Deus"],
-      "personagens": ["Filho", "Deus"]
+      "parafrase": "E então, quando todas as coisas, sem exceção, estiverem plenamente sob o domínio de Cristo, o próprio Filho se submeterá àquele que Lhe deu todo esse poder, Deus Pai. Isso acontecerá para que a glória de Deus seja absoluta e eterna em todas as coisas, governando sobre o universo restaurado.",
+      "referencias": [
+        "Filipenses 2:6",
+        "1 Coríntios 11:3",
+        "Apocalipse 21:22"
+      ],
+      "comentario": "Este versículo é crucial para entender a Trindade em termos de economia e relações de poder. A submissão de Cristo ao Pai no final não é sinal de inferioridade ontológica (natureza), mas de ordem funcional e relacional. É o clímax da história da salvação, onde o propósito de Deus, a manifestação de Sua glória, é alcançado plenamente.",
+      "temas": [
+        "Glória de Deus",
+        "Relações Trinitárias",
+        "Consumação"
+      ],
+      "personagens": [
+        "Cristo",
+        "Deus Pai"
+      ]
     },
     "29": {
-      "parafrase": "Do contrário, que farão os que se batizam pelos mortos? Se os mortos de fato não ressuscitam, por que se batizam por eles?",
-      "referencias": [],
-      "comentario": "Paulo usa um argumento ad hominem, apelando para uma prática controversa em Corinto (batismo pelos mortos) para mostrar a inconsistência de negar a ressurreição. Ele não aprova a prática, mas a usa para argumentar a favor da ressurreição.",
-      "temas": ["batismo pelos mortos", "argumento ad hominem", "ressurreição"],
-      "personagens": []
+      "parafrase": "Caso contrário, por que as pessoas estariam se apresentando para o batismo em favor dos mortos? Se a ressurreição final não for uma realidade concreta e se não houver vida eterna após a morte, qual seria o propósito de tal ato ritualístico realizado em nome daqueles que já se foram?",
+      "referencias": [
+        "Marcos 16:16",
+        "Romanos 6:3-4"
+      ],
+      "comentario": "Este é um trecho notoriamente difícil. Paulo usa o argumento das práticas coríntias ('os que estão mortos') como prova de que *eles* (Coríntios) acreditavam na ressurreição, mesmo que estivessem questionando a doutrina. O batismo pelos mortos era uma prática judaica marginal (possivelmente ligada a 2 Macabeus 12:43-45) ou uma confusão teológica na igreja. O ponto de Paulo é: Se não há ressurreição, a prática é vã.",
+      "temas": [
+        "Batismo",
+        "Evidência de Crença",
+        "Práticas da Igreja Primitiva"
+      ],
+      "personagens": [
+        "Paulo",
+        "Coríntios"
+      ]
     },
     "30": {
-      "parafrase": "E por que nós mesmos nos expomos a perigos a toda hora?",
-      "referencias": ["2 Coríntios 11:23-27"],
-      "comentario": "Paulo argumenta que sua própria vida de sofrimento e perigo seria sem sentido se não houvesse esperança na ressurreição. A esperança da ressurreição é a motivação para o serviço sacrificial.",
-      "temas": ["perigo", "sofrimento", "motivação", "esperança da ressurreição"],
-      "personagens": []
+      "parafrase": "E nós, apóstolos e pregadores, por que nos arriscamos diariamente a enfrentar perigos e sofrimentos? Continuamos a viver sob a ameaça da perseguição e até da morte, se não houver nenhuma esperança de vida futura para aqueles que morrem em Cristo.",
+      "referencias": [
+        "2 Coríntios 11:23-28",
+        "Atos 20:23-24"
+      ],
+      "comentario": "Paulo argumenta pela coerência de seu próprio ministério. Se a morte é o fim absoluto, então a vida de sofrimento e martírio que ele e os outros apóstolos levavam em nome do Evangelho seria um ato de extrema tolice e autossabotagem.",
+      "temas": [
+        "Martírio",
+        "Fidelidade",
+        "O Custo da Fé"
+      ],
+      "personagens": [
+        "Apóstolos",
+        "Paulo"
+      ]
     },
     "31": {
-      "parafrase": "Eu lhes asseguro, irmãos, pela glória que tenho em vocês em Cristo Jesus, nosso Senhor, que morro todos os dias.",
-      "referencias": ["Romanos 8:36"],
-      "comentario": "Paulo vive uma vida de morte diária para si mesmo, em dedicação ao evangelho. Sua glória está em Cristo e no fruto de seu ministério.",
-      "temas": ["morte diária", "dedicação", "glória em Cristo"],
-      "personagens": ["Cristo Jesus", "Senhor"]
+      "parafrase": "Eu lhes declaro, pela minha honra e pela glória que compartilhamos em Cristo Jesus, nosso Senhor: eu enfrento a morte todos os dias! É tão real para mim quanto respirar.",
+      "referencias": [
+        "Gálatas 2:20",
+        "Romanos 8:36"
+      ],
+      "comentario": "A expressão 'Eu morro diariamente' (kath' hemeran apothnesko) é um forte testemunho da constante tensão e perigo enfrentados pelos cristãos primitivos. Ele usa a sua própria vida como um testemunho vivo da verdade da ressurreição. A referência à 'glória que temos em Cristo' cimenta a motivação.",
+      "temas": [
+        "Perseverança",
+        "Sacrifício Pessoal",
+        "Realidade da Fé"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "32": {
-      "parafrase": "Se lutei com feras em Éfeso, com que propósito o fiz, se os mortos não ressuscitam? 'Comamos e bebamos, pois amanhã morreremos'.",
-      "referencias": ["Isaías 22:13"],
-      "comentario": "Paulo usa seu sofrimento em Éfeso para argumentar a favor da ressurreição. Se não há ressurreição, então a vida é sem sentido, e a filosofia do 'comamos e bebamos' é a única lógica.",
-      "temas": ["sofrimento", "ressurreição", "sentido da vida", "filosofia"],
-      "personagens": []
+      "parafrase": "Se a minha única recompensa fosse simplesmente ter lutado contra feras selvagens em Éfeso – algo que muitos não acreditam que tenha acontecido literalmente, mas que simboliza lutas intensas contra a oposição humana – e se não houver ressurreição, então, por que me importar com isso? 'Comamos e bebamos, pois amanhã morreremos!'",
+      "referencias": [
+        "Atos 19:31",
+        "Isaías 22:13"
+      ],
+      "comentario": "A menção de lutar contra 'feras' (therion) em Éfeso pode ser literal (como em Atos 19:30, onde ele quase foi linchado), ou uma metáfora poderosa para os inimigos virulentos que ele enfrentou. O versículo 32b é uma citação popular da filosofia epicurista ou hedonista, usada por Paulo para resumir a conclusão lógica de uma vida sem esperança de ressurreição: entregar-se ao prazer imediato, pois o futuro é inexistente.",
+      "temas": [
+        "Hedonismo",
+        "Luta Espiritual",
+        "Sentido da Vida"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "33": {
-      "parafrase": "Não se deixem enganar: 'Más companhias corrompem bons costumes'.",
-      "referencias": [],
-      "comentario": "Paulo adverte contra a influência das más companhias, que podem corromper a fé e os bons costumes. A associação com aqueles que negam a ressurreição pode levar à apostasia.",
-      "temas": ["más companhias", "corrupção", "apostasia"],
-      "personagens": []
+      "parafrase": "Não se deixem enganar por conversas vazias! As más companhias estragam facilmente os bons costumes e os bons hábitos que vocês adquiriram.",
+      "referencias": [
+        "Provérbios 13:20",
+        "Efésios 4:29",
+        "Gálatas 5:9"
+      ],
+      "comentario": "Paulo usa um provérbio comum da época (possivelmente de Menandro) para alertar contra a influência corrosiva dos que negavam a ressurreição e promoviam uma moralidade relaxada. A heresia sobre a ressurreição não era apenas um erro teológico; ela levava a uma decadência ética prática.",
+      "temas": [
+        "Influência Social",
+        "Moralidade",
+        "Falsos Ensinamentos"
+      ],
+      "personagens": [
+        "Coríntios"
+      ]
     },
     "34": {
-      "parafrase": "Caiam em si e parem de pecar; pois alguns de vocês não têm conhecimento de Deus. Digo isso para a vergonha de vocês.",
-      "referencias": ["Efésios 4:17-19"],
-      "comentario": "Paulo exorta os coríntios a se arrependerem e a pararem de pecar. A falta de conhecimento de Deus é a raiz do problema, e ele os envergonha para que se arrependam.",
-      "temas": ["arrependimento", "pecado", "falta de conhecimento de Deus", "vergonha"],
-      "personagens": ["Deus"]
+      "parafrase": "Despertem para a realidade e abandonem o pecado! Alguns de vocês, ao duvidarem da ressurreição, estão vivendo de maneira imprópria, e alguns até blasfemam, pois não têm o conhecimento salvador de Deus. Por isso, peço que se conscientizem dessa verdade fundamental.",
+      "referencias": [
+        "Efésios 5:14",
+        "1 Pedro 1:13"
+      ],
+      "comentario": "A palavra 'acordem' (exnēphousate) sugere um estado de embriaguez espiritual ou dormência. A dúvida sobre a ressurreição leva à blasfêmia e a um estilo de vida pecaminoso, pois a esperança futura é o motor da santidade presente. Paulo os chama a um estado de sobriedade espiritual.",
+      "temas": [
+        "Arrependimento",
+        "Santidade",
+        "Conhecimento de Deus"
+      ],
+      "personagens": [
+        "Coríntios"
+      ]
     },
     "35": {
-      "parafrase": "Mas alguém perguntará: 'Como ressuscitam os mortos? Com que tipo de corpo virão?'",
-      "referencias": [],
-      "comentario": "Paulo antecipa as perguntas sobre a natureza do corpo ressurreto. Ele se prepara para explicar a transformação do corpo.",
-      "temas": ["ressurreição", "corpo ressurreto", "pergunta"],
+      "parafrase": "Mas, alguém pode perguntar com ceticismo: 'Como exatamente os mortos ressuscitarão? Que tipo de corpo eles terão?' Essa é uma pergunta lógica, mas demonstra falta de entendimento básico.",
+      "referencias": [
+        "Jó 19:26",
+        "João 5:28-29"
+      ],
+      "comentario": "Paulo reconhece a seriedade da dúvida sobre a natureza do corpo ressurreto. Ele prepara o terreno para uma analogia poderosa, movendo o foco da dúvida para a soberania criativa de Deus, expressa na natureza.",
+      "temas": [
+        "Natureza da Ressurreição",
+        "Dúvida",
+        "Analogias"
+      ],
       "personagens": []
     },
     "36": {
-      "parafrase": "Insensato! O que você semeia não ganha vida a não ser que morra.",
-      "referencias": ["João 12:24"],
-      "comentario": "Paulo usa a analogia da semente para explicar a ressurreição. A morte é necessária para a vida, e o corpo ressurreto será diferente do corpo terreno.",
-      "temas": ["analogia da semente", "morte", "vida", "corpo ressurreto"],
+      "parafrase": "Que tolo! Aquilo que você semeia, a semente, precisa morrer e se decompor na terra antes que a nova vida possa brotar e se manifestar em sua forma glorificada. Se você planta, sabe que não colhe aquilo que colocou na terra.",
+      "referencias": [
+        "João 12:24",
+        "Gálatas 6:7-8"
+      ],
+      "comentario": "A analogia da semente (sporos) é fundamental. A semente que cai na terra morre (se decompõe) para dar lugar a um novo corpo (a planta) que é essencialmente o mesmo ser, mas transformado e glorificado. A morte é um pré-requisito para a nova forma de vida, não o fim dela.",
+      "temas": [
+        "Transformação",
+        "Ciclo da Vida",
+        "Analogia da Semente"
+      ],
       "personagens": []
     },
     "37": {
-      "parafrase": "Quando você semeia, não semeia o corpo que virá a ser, mas apenas uma semente, talvez de trigo ou de alguma outra coisa.",
-      "referencias": [],
-      "comentario": "A semente é diferente da planta que dela nasce. Assim também o corpo ressurreto será diferente do corpo terreno.",
-      "temas": ["semente", "corpo ressurreto", "diferença"],
-      "personagens": []
+      "parafrase": "E a nova forma que emerge não é a mesma estrutura que você enterrou. Você não planta um grão simples, como trigo ou cevada; você planta a promessa de uma planta, e Deus lhe dá o corpo que Lhe agrada, aquele que se tornará perfeito.",
+      "referencias": [
+        "Gênesis 1:11",
+        "Colossenses 3:10"
+      ],
+      "comentario": "Paulo enfatiza a diferença entre o corpo 'semeado' (o corpo terreno, corruptível) e o corpo 'colhido' (o corpo ressurreto, incorruptível). Deus é quem determina a forma glorificada, um corpo que é 'dado' por Ele, mostrando a iniciativa divina no processo de glorificação.",
+      "temas": [
+        "Corpo Glorificado",
+        "Poder Criativo de Deus",
+        "Diferença entre Corpos"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "38": {
-      "parafrase": "Mas Deus lhe dá um corpo como ele quer, e a cada semente o seu próprio corpo.",
-      "referencias": [],
-      "comentario": "Deus é o Criador e o Doador da vida. Ele dará um corpo ressurreto como Ele quer, de acordo com sua soberania e propósito.",
-      "temas": ["Deus como Criador", "corpo ressurreto", "soberania de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Cada tipo de ser vivo tem seu corpo específico, assim como cada espécie de planta tem sua própria estrutura. Da mesma forma, a glória que reside nos corpos celestiais é diferente da glória que vemos na Terra.",
+      "referencias": [
+        "Gênesis 1:21",
+        "Romanos 8:21"
+      ],
+      "comentario": "A criação terrestre estabelece um padrão de diversidade e corpo específico para cada ser. Paulo argumenta que, se Deus provê corpos distintos para as aves, peixes e plantas terrestres, certamente Ele tem poder para dar um corpo ressurreto apropriado ao ser humano redimido.",
+      "temas": [
+        "Diversidade da Criação",
+        "Corpos Celestiais",
+        "Ordem Divina"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "39": {
-      "parafrase": "Nem toda carne é a mesma: uma é a carne dos homens, outra a dos animais, outra a das aves, e outra a dos peixes.",
-      "referencias": [],
-      "comentario": "A diversidade de corpos na criação é um exemplo da diversidade do corpo ressurreto. Há diferentes tipos de corpos, e o corpo ressurreto será diferente do corpo terreno.",
-      "temas": ["diversidade de corpos", "criação", "corpo ressurreto"],
+      "parafrase": "A carne, ou seja, os corpos que temos agora, não são todos iguais. A carne dos seres humanos é diferente da carne dos animais, e a dos peixes é diferente da dos pássaros. Todos têm corpos adaptados à sua esfera de existência.",
+      "referencias": [
+        "Gênesis 1:20-25",
+        "Mateus 13:41-43"
+      ],
+      "comentario": "Continuando a analogia da natureza, Paulo demonstra que o princípio de 'tipo' ou 'gênero' se aplica a todos os seres vivos. Não há uniformidade de corpo em toda a criação, reforçando a ideia de que o corpo ressurreto será perfeitamente adaptado à nova esfera de existência celestial.",
+      "temas": [
+        "Tipologia da Criação",
+        "Adaptação",
+        "Diferença de Corpos"
+      ],
       "personagens": []
     },
     "40": {
-      "parafrase": "Há também corpos celestiais e corpos terrestres; mas o esplendor dos celestiais é um, e o dos terrestres é outro.",
-      "referencias": [],
-      "comentario": "A distinção entre corpos celestiais e terrestres ilustra a diferença entre o corpo terreno e o corpo ressurreto. O corpo ressurreto terá um esplendor e uma glória diferentes.",
-      "temas": ["corpos celestiais", "corpos terrestres", "esplendor", "glória"],
+      "parafrase": "Existem também corpos celestiais e corpos terrestres. A beleza e a glória dos corpos que pertencem ao céu são de um tipo, enquanto a glória dos corpos que habitam a Terra são de outro tipo, totalmente distinto.",
+      "referencias": [
+        "Daniel 12:3",
+        "1 Tessalonicenses 4:16"
+      ],
+      "comentario": "Aqui, Paulo faz a transição explícita entre o corpo terreno e o corpo celestial (espiritual). Os corpos celestiais possuem uma qualidade de glória superior, apropriada à sua natureza incorruptível e espiritual. Isso estabelece a diferença entre a natureza da vida presente e a da vida futura.",
+      "temas": [
+        "Corpos Terrestres vs. Celestiais",
+        "Glória Celestial",
+        "Dualidade da Existência"
+      ],
       "personagens": []
     },
     "41": {
-      "parafrase": "O esplendor do sol é um, o da lua é outro, e o das estrelas é outro; e uma estrela difere de outra em esplendor.",
-      "referencias": [],
-      "comentario": "A diversidade de esplendor na criação é um exemplo da diversidade de glória no corpo ressurreto. Haverá diferentes graus de glória na ressurreição.",
-      "temas": ["esplendor", "glória", "diversidade"],
-      "personagens": []
+      "parafrase": "O sol tem seu próprio brilho distinto, a lua tem seu brilho diferente, e as estrelas têm o seu próprio esplendor. E mais ainda, uma estrela brilha com uma luz muito mais intensa do que outra estrela. Assim será a diferença entre as glórias dos corpos ressuscitados.",
+      "referencias": [
+        "Isaías 30:26",
+        "Apocalipse 21:23"
+      ],
+      "comentario": "A luz dos corpos celestiais serve como uma nova analogia para a glória ressurreta. O universo visível prova a capacidade de Deus de criar diferentes graus de esplendor. Se os astros no céu já exibem glórias variadas, os corpos ressuscitados também terão diferentes níveis de glória, de acordo com o seu chamado e serviço (como ensinado em Daniel 12:3).",
+      "temas": [
+        "Graus de Glória",
+        "Esplendor Celestial",
+        "Analogia dos Astros"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "42": {
-      "parafrase": "Assim será a ressurreição dos mortos: o corpo é semeado em corrupção, ressuscita em incorrupção;
-",
-      "referencias": ["Filipenses 3:21"],
-      "comentario": "Paulo descreve a transformação do corpo na ressurreição. O corpo corruptível será transformado em incorruptível, livre da decadência e da morte.",
-      "temas": ["ressurreição", "corrupção", "incorrupção", "transformação"],
+      "parafrase": "Da mesma forma, a ressurreição dos mortos funcionará. Aquilo que é plantado é perecível, mas o corpo que ressuscita é imperecível, destinado à vida eterna.",
+      "referencias": [
+        "1 Pedro 1:4",
+        "Romanos 6:23"
+      ],
+      "comentario": "Paulo retorna ao contraste central: corrupção versus incorrupção. O corpo terreno está sujeito à deterioração e à morte (phthora), enquanto o corpo ressurreto é imune à decadência (aphtharsia), sendo eterno.",
+      "temas": [
+        "Imortalidade",
+        "Corrupção vs. Incorrupção",
+        "A Natureza da Ressurreição"
+      ],
       "personagens": []
     },
     "43": {
-      "parafrase": "é semeado em desonra, ressuscita em glória; é semeado em fraqueza, ressuscita em poder;
-",
-      "referencias": [],
-      "comentario": "A transformação continua: o corpo desonroso será glorioso, e o corpo fraco será poderoso. A ressurreição é uma vitória sobre as limitações do corpo terreno.",
-      "temas": ["desonra", "glória", "fraqueza", "poder", "transformação"],
+      "parafrase": "O que é semeado é humilde, sem beleza ou honra, mas o corpo que ressuscita é repleto de honra e força. Aquilo que é plantado é fraco e vulnerável, mas o corpo ressurreto será poderoso e glorioso.",
+      "referencias": [
+        "Filipenses 3:21",
+        "Isaías 40:31"
+      ],
+      "comentario": "Contraste entre fraqueza (a-tima) e honra (tima), e entre impotência (a-ischuros) e poder (ischus). O corpo físico, com suas limitações e sujeição ao sofrimento, será substituído por um corpo dotado de força divina, capaz de suportar a eternidade e a presença de Deus.",
+      "temas": [
+        "Poder e Força",
+        "Honra e Desonra",
+        "Transformação Corporal"
+      ],
       "personagens": []
     },
     "44": {
-      "parafrase": "é semeado corpo natural, ressuscita corpo espiritual. Se há corpo natural, há também corpo espiritual.",
-      "referencias": [],
-      "comentario": "O corpo ressurreto será um corpo espiritual, diferente do corpo natural. Não é um corpo sem substância, mas um corpo transformado e capacitado pelo Espírito.",
-      "temas": ["corpo natural", "corpo espiritual", "transformação"],
+      "parafrase": "O corpo que é sepultado é natural, baseado na constituição física que recebemos nesta vida (o 'psuchikon' – alma vivente). Mas o corpo que surge para a vida eterna é espiritual (o 'pneumatikon' – vivificado pelo Espírito Santo).",
+      "referencias": [
+        "Romanos 8:11",
+        "2 Coríntios 5:1"
+      ],
+      "comentario": "Esta é a distinção chave: 'psuchikon' (alma, corpo natural, dependente da respiração/vida natural) versus 'pneumatikon' (espiritual, dependente do Espírito). O corpo ressurreto não é uma alma desencarnada, mas sim um corpo transformado pelo poder do Espírito Santo, adequado para a esfera espiritual.",
+      "temas": [
+        "Corpo Psíquico vs. Espiritual",
+        "Ação do Espírito Santo",
+        "Natureza do Corpo Novo"
+      ],
       "personagens": []
     },
     "45": {
-      "parafrase": "Assim está escrito: 'O primeiro homem, Adão, tornou-se um ser vivente'; o último Adão, um espírito vivificante.",
-      "referencias": ["Gênesis 2:7"],
-      "comentario": "Paulo contrasta o primeiro Adão (terreno) com o último Adão (Cristo). O primeiro Adão trouxe vida natural, mas o último Adão (Cristo) é um espírito vivificante, que traz vida espiritual e ressurreição.",
-      "temas": ["primeiro Adão", "último Adão", "espírito vivificante", "vida espiritual"],
-      "personagens": ["Adão", "Cristo"]
+      "parafrase": "Assim está escrito: 'O primeiro homem, Adão, tornou-se uma alma vivente'. Mas o último Adão, que é Cristo, tornou-se um Espírito vivificante, aquele que dá vida em plenitude.",
+      "referencias": [
+        "Gênesis 2:7",
+        "João 6:63",
+        "Romanos 5:14"
+      ],
+      "comentario": "Paulo faz um paralelo direto entre Adão e Cristo. Adão, o primeiro homem, foi criado como um ser vivo (psuchē); ele transmitiu a vida natural e, consequentemente, a morte. Cristo, o último Adão (o redentor), traz a vida nova, transformadora, comunicada pelo Espírito (pneuma).",
+      "temas": [
+        "Adão e Cristo",
+        "Vida Espiritual",
+        "Espírito Vivificante"
+      ],
+      "personagens": [
+        "Adão",
+        "Cristo"
+      ]
     },
     "46": {
-      "parafrase": "Não foi o espiritual que veio primeiro, mas o natural, e depois o espiritual.",
-      "referencias": [],
-      "comentario": "A ordem da criação é do natural para o espiritual. O corpo natural vem primeiro, e depois o corpo espiritual na ressurreição.",
-      "temas": ["ordem da criação", "natural", "espiritual"],
+      "parafrase": "É importante notar que o que é espiritual não vem antes do que é natural. Primeiro vem a existência terrena, baseada na alma, e só depois, com a ressurreição, vem a vida espiritual, que é superior.",
+      "referencias": [
+        "Gênesis 2:7",
+        "Hebreus 12:22-23"
+      ],
+      "comentario": "Paulo reafirma a sequência lógica: a existência terrena (natural/psíquica) é o fundamento necessário para a existência celestial (espiritual/pneumática). Não há corpo espiritual sem a prévia existência do corpo natural que foi transformado.",
+      "temas": [
+        "Sequência da Vida",
+        "Fundamento da Fé",
+        "Ordem da Manifestação"
+      ],
       "personagens": []
     },
     "47": {
-      "parafrase": "O primeiro homem, da terra, é terreno; o segundo homem, do céu, é celestial.",
-      "referencias": [],
-      "comentario": "Adão é da terra, terreno. Cristo é do céu, celestial. A origem de cada um determina sua natureza e seu destino.",
-      "temas": ["Adão", "Cristo", "origem", "natureza"],
-      "personagens": []
+      "parafrase": "O primeiro homem foi formado a partir do pó da terra, um ser material. O segundo Homem, o Senhor, veio do céu, Ele mesmo é divino e celestial.",
+      "referencias": [
+        "Gênesis 2:7",
+        "João 3:31",
+        "Filipenses 2:6-8"
+      ],
+      "comentario": "Destaque na origem: Adão ('homem da terra', ek chōmikós) e Cristo ('homem do céu', ek ouranoú). Isso reforça a diferença de natureza e autoridade entre eles. O primeiro trouxe a morte terrena; o segundo, a vida celestial.",
+      "temas": [
+        "Origem de Adão",
+        "Origem de Cristo",
+        "Natureza Terrena e Celestial"
+      ],
+      "personagens": [
+        "Adão",
+        "Cristo"
+      ]
     },
     "48": {
-      "parafrase": "Assim como foi o homem terreno, assim também são os que são da terra; e, assim como é o homem celestial, assim também são os que são do céu.",
-      "referencias": [],
-      "comentario": "Nossa natureza é determinada por nossa origem. Aqueles que são de Adão são terrenos, mas aqueles que são de Cristo são celestiais.",
-      "temas": ["natureza", "origem", "terreno", "celestial"],
-      "personagens": ["Adão", "Cristo"]
+      "parafrase": "Os seres humanos, que são terrenos, são como Adão, sujeitos à terra. Mas aqueles que foram justificados e escolhidos por Deus serão como Cristo, tendo corpos celestiais e vivendo na glória do céu.",
+      "referencias": [
+        "Romanos 8:29",
+        "Filipenses 3:20-21"
+      ],
+      "comentario": "Este versículo une a justificação presente com a glorificação futura. Aqueles que pertencem à esfera terrena são moldados à imagem de Adão (mortalidade); aqueles que pertencem à esfera celestial (já justificados) serão transformados à imagem de Cristo (imortalidade).",
+      "temas": [
+        "Imagem de Cristo",
+        "Justificação",
+        "Destino Eterno"
+      ],
+      "personagens": [
+        "Adão",
+        "Cristo"
+      ]
     },
     "49": {
-      "parafrase": "E, assim como trouxemos a imagem do homem terreno, também traremos a imagem do homem celestial.",
-      "referencias": ["Filipenses 3:21"],
-      "comentario": "Na ressurreição, seremos transformados e teremos a imagem do homem celestial, Cristo. É uma promessa de glorificação e conformidade com Cristo.",
-      "temas": ["imagem do homem terreno", "imagem do homem celestial", "transformação", "glorificação"],
-      "personagens": ["Cristo"]
+      "parafrase": "Portanto, da mesma forma que carregamos a marca e a imagem do homem que veio da terra, também carregaremos a marca e a glória do Homem que veio do céu, quando formos transformados.",
+      "referencias": [
+        "2 Coríntios 3:18",
+        "Romanos 8:29"
+      ],
+      "comentario": "A palavra chave é 'carregar' ou 'revestir' (endysamen). O crente está sendo progressivamente transformado à imagem de Cristo (imago Christi). A ressurreição é o ápice dessa transformação, onde finalmente 'revestimos' o corpo celestial prometido.",
+      "temas": [
+        "Imago Christi",
+        "Transformação Final",
+        "Revestimento Celestial"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "50": {
-      "parafrase": "Irmãos, eu lhes declaro que carne e sangue não podem herdar o Reino de Deus, nem o que é corruptível pode herdar o que é incorruptível.",
-      "referencias": [],
-      "comentario": "O corpo terreno, corruptível, não pode herdar o Reino de Deus, que é incorruptível. É necessária uma transformação para entrar no Reino.",
-      "temas": ["carne e sangue", "Reino de Deus", "corruptível", "incorruptível", "transformação"],
-      "personagens": ["Deus"]
+      "parafrase": "Eu declaro solenemente, irmãos: a carne e o sangue, com todos os seus limites, fraquezas e corrupção, não podem herdar o Reino eterno de Deus. Essa natureza transitória é incapaz de permanecer na presença da santidade divina. A transformação é obrigatória para a entrada!",
+      "referencias": [
+        "Hebreus 12:14",
+        "Gálatas 5:17",
+        "João 3:3",
+        "2 Timóteo 2:19"
+      ],
+      "comentario": "Este é o clímax prático da argumentação. O corpo 'carnal' (sarx), que é mortal e corruptível, não tem acesso ao Reino. Isso não é uma condenação da matéria em si, mas da condição de mortalidade e pecado inerente à 'carne' não redimida. A herança do Reino requer o corpo 'pneumatikon' (espiritual) introduzido nos versículos anteriores.",
+      "temas": [
+        "Herança do Reino",
+        "Limitação da Carne",
+        "Necessidade de Transformação"
+      ],
+      "personagens": [
+        "Irmãos",
+        "Deus"
+      ]
     },
     "51": {
-      "parafrase": "Eis que lhes revelo um mistério: Nem todos dormiremos, mas todos seremos transformados,",
-      "referencias": ["1 Tessalonicenses 4:15-17"],
-      "comentario": "Paulo revela um mistério: nem todos os crentes morrerão antes da volta de Cristo, mas todos serão transformados. A transformação é universal.",
-      "temas": ["mistério", "transformação", "volta de Cristo"],
-      "personagens": []
+      "parafrase": "Escutem bem este mistério profundo que vou revelar, meus irmãos amados na fé! Em um piscar de olhos, no momento exato da trombeta final de Deus, a transformação ocorrerá em todos nós. Não estaremos mais presos a esta forma terrena e corruptível.",
+      "referencias": [
+        "1 Tessalonicenses 4:16",
+        "Filipenses 3:21"
+      ],
+      "comentario": "Paulo introduz o 'mistério' (gr. *mysterion*), algo antes oculto, agora revelado: a transfiguração dos crentes vivos no arrebatamento. A referência à 'trombeta' ecoa o shofar do Antigo Testamento, sinalizando um evento divino monumental. A mudança é instantânea ('num momento', gr. *atomos* - o menor conceito de tempo).",
+      "temas": [
+        "Mistério Revelado",
+        "Arrebatamento",
+        "Transformação Instantânea"
+      ],
+      "personagens": [
+        "Paulo",
+        "Irmãos na fé"
+      ]
     },
     "52": {
-      "parafrase": "num momento, num piscar de olhos, ao som da última trombeta. Pois a trombeta soará, os mortos ressuscitarão incorruptíveis, e nós seremos transformados.",
-      "referencias": ["Mateus 24:31"],
-      "comentario": "A transformação será instantânea e ocorrerá ao som da última trombeta, que anuncia a volta de Cristo. Os mortos ressuscitarão com corpos incorruptíveis, e os vivos serão transformados.",
-      "temas": ["transformação instantânea", "última trombeta", "ressurreição", "volta de Cristo"],
+      "parafrase": "Essa mudança será rápida, sucedendo ao som da última trombeta. Os corpos dos que estiveram mortos por Cristo serão ressuscitados em uma nova glória, e nós, os que estivermos vivos, seremos imediatamente transformados, trocando nossa carne mortal por um corpo imortal e eterno.",
+      "referencias": [
+        "João 5:28",
+        "2 Timóteo 2:10"
+      ],
+      "comentario": "O foco aqui é a dualidade da ressurreição/transformação: os mortos em Cristo (os que 'dormiram' - ver v. 20) e os vivos. A promessa é que ambos receberão o corpo glorificado, o corpo celestial (v. 49). O corpo 'corruptível' (gr. *phthora*) dá lugar ao 'incorruptível' (gr. *aphtharsia*).",
+      "temas": [
+        "Ressurreição dos Mortos",
+        "Corpo Glorificado",
+        "Imortalidade"
+      ],
       "personagens": []
     },
     "53": {
-      "parafrase": "Pois o que é corruptível deve revestir-se de incorruptibilidade, e o que é mortal deve revestir-se de imortalidade.",
-      "referencias": [],
-      "comentario": "A transformação é completa: o corpo corruptível se tornará incorruptível, e o mortal se tornará imortal. É uma vitória sobre a decadência e a morte.",
-      "temas": ["corruptível", "incorruptibilidade", "mortal", "imortalidade", "transformação"],
+      "parafrase": "Pois é absolutamente necessário que este corpo que agora carrega o peso da decadência, da doença e da morte se revista daquela glória indestrutível. É o caminho inevitável para a plenitude da vida prometida.",
+      "referencias": [
+        "2 Coríntios 5:4",
+        "Romanos 8:23"
+      ],
+      "comentario": "Paulo enfatiza a necessidade (*dei* - é preciso/necessário) dessa vestidura final. O corpo atual, a 'tenda terrena' (2 Co 5:1), deve ser sobreposto ou trocado pelo traje celestial, o 'vestuário de glória'. É a conclusão lógica da obra redentora de Cristo.",
+      "temas": [
+        "Necessidade da Imortalidade",
+        "Glória Eterna",
+        "Transfiguração Corporal"
+      ],
       "personagens": []
     },
     "54": {
-      "parafrase": "Quando o que é corruptível se revestir de incorruptibilidade, e o que é mortal se revestir de imortalidade, então se cumprirá a palavra que está escrita: 'A morte foi tragada pela vitória'.",
-      "referencias": ["Isaías 25:8"],
-      "comentario": "A vitória final sobre a morte é o cumprimento da profecia. A morte é tragada, ou seja, completamente destruída, pela vitória de Cristo.",
-      "temas": ["vitória sobre a morte", "cumprimento profético", "destruição da morte"],
+      "parafrase": "Quando essa troca milagrosa tiver ocorrido – quando o que é mortal finalmente vestir a incorruptibilidade, e o que é passageiro vestir a eternidade –, então, e somente então, se cumprirá a palavra final das Escrituras: 'A morte foi completamente engolida, absorvida pela vitória!' 💥",
+      "referencias": [
+        "Isaías 25:8",
+        "Apocalipse 21:4"
+      ],
+      "comentario": "Este versículo é o clímax triunfal, citando profeticamente Isaías 25:8. A palavra grega para 'engolida' é *katapothe* (devorada). A morte, o inimigo final, é aniquilada, não apenas neutralizada, mas totalmente consumida pela realidade da vitória de Cristo.",
+      "temas": [
+        "Vitória sobre a Morte",
+        "Consumação da Escritura",
+        "Fim do Luto"
+      ],
       "personagens": []
     },
     "55": {
-      "parafrase": "'Onde está, ó morte, a sua vitória? Onde está, ó morte, o seu aguilhão?'",
-      "referencias": ["Oseias 13:14"],
-      "comentario": "Paulo, em um tom de triunfo, zomba da morte, que foi despojada de seu poder e de seu aguilhão (o pecado). A vitória de Cristo é completa.",
-      "temas": ["triunfo sobre a morte", "aguilhão da morte", "vitória de Cristo"],
+      "parafrase": "Ó Morte, onde está o seu ferrão afiado, aquele que causava tanta dor e separação? E, Infernos (Hades), onde reside o seu poder de aprisionar? Nossa nova realidade nos torna vitoriosos sobre estes inimigos terríveis! ⚔️",
+      "referencias": [
+        "Oseias 13:14",
+        "Hebreus 2:14"
+      ],
+      "comentario": "Paulo recorre novamente ao Antigo Testamento (Oseias 13:14, embora a citação seja adaptada) para zombar da morte e do Hades (o reino dos mortos). O 'ferrão' (gr. *kentron*) da morte é o pecado, que lhe dava autoridade para ferir. Com a ressurreição, esse ferrão é removido.",
+      "temas": [
+        "O Ferrão da Morte",
+        "Derrota do Hades",
+        "Triunfo"
+      ],
       "personagens": []
     },
     "56": {
-      "parafrase": "O aguilhão da morte é o pecado, e a força do pecado é a Lei.",
-      "referencias": ["Romanos 7:7-13"],
-      "comentario": "O pecado é o que dá poder à morte, e a Lei, ao revelar o pecado, dá força ao pecado. A Lei, por si só, não pode salvar, mas condena.",
-      "temas": ["aguilhão da morte", "pecado", "força do pecado", "Lei"],
+      "parafrase": "É crucial entender que o poder que nos dava a consciência da morte e do juízo era o pecado. A lei de Deus, embora boa, apenas serviu para expor a profundidade da nossa transgressão, alertando-nos sobre a nossa falha.",
+      "referencias": [
+        "Romanos 7:7",
+        "Gálatas 3:24"
+      ],
+      "comentario": "Paulo faz uma pausa exegética para reforçar a função da Lei. A Lei (*nomos*) não era o problema, mas sim o pecado (*hamartia*), que usava a Lei como um espelho para mostrar a incapacidade humana de cumprir os padrões divinos, tornando o pecado manifesto e perigoso.",
+      "temas": [
+        "Pecado e Lei",
+        "Função da Lei Mosaica",
+        "Consciência do Pecado"
+      ],
       "personagens": []
     },
     "57": {
-      "parafrase": "Mas graças a Deus, que nos dá a vitória por meio de nosso Senhor Jesus Cristo!",
-      "referencias": ["Romanos 7:25"],
-      "comentario": "A vitória sobre o pecado e a morte é um dom de Deus, concedido por meio de Jesus Cristo. A gratidão e o louvor são a resposta adequada.",
-      "temas": ["vitória em Cristo", "graças a Deus", "Senhor Jesus Cristo"],
-      "personagens": ["Deus", "Senhor Jesus Cristo"]
+      "parafrase": "Mas graças eternas sejam dadas ao nosso Senhor Jesus Cristo, aquele que nos resgatou dessa condenação! É Ele quem nos dá a vitória, nos livrando do domínio do pecado e da morte, não por nossos méritos, mas pela Sua graça soberana. 🙌",
+      "referencias": [
+        "Romanos 6:23",
+        "Efésios 2:8"
+      ],
+      "comentario": "O foco volta para a Fonte da vitória: Cristo. O termo para 'dar graças' (gr. *didomi*) aqui é empregado para expressar a ação de Deus de conferir a vitória. Não é uma vitória conquistada por mérito humano, mas um presente concedido através de Jesus.",
+      "temas": [
+        "Graça de Cristo",
+        "Vitória pela Fé",
+        "Ação de Graças"
+      ],
+      "personagens": [
+        "Jesus Cristo"
+      ]
     },
     "58": {
-      "parafrase": "Portanto, meus amados irmãos, sejam firmes e inabaláveis. Dediquem-se sempre mais à obra do Senhor, pois vocês sabem que o trabalho de vocês no Senhor não é em vão.",
-      "referencias": ["Filipenses 1:6"],
-      "comentario": "A exortação final é para a firmeza, a dedicação e a perseverança na obra do Senhor, pois o trabalho do crente não é em vão. A esperança da ressurreição e da vitória final é a motivação para o serviço.",
-      "temas": ["firmeza", "dedicação", "obra do Senhor", "não em vão", "motivação"],
-      "personagens": ["Senhor"]
+      "parafrase": "Portanto, meus amados irmãos, meus companheiros firmes nesta jornada, sejam inabaláveis e constantes em tudo o que fazem para o Senhor. Dediquem-se inteiramente, pois agora vocês sabem que seu trabalho, seu esforço e seu serviço para Deus jamais serão em vão, pois há uma recompensa eterna garantida na glória vindoura! ✨",
+      "referencias": [
+        "Colossenses 1:10",
+        "Hebreus 6:10"
+      ],
+      "comentario": "Conclusão prática da doutrina. O conhecimento da ressurreição e da vitória sobre a morte deve motivar uma vida de diligência e firmeza (gr. *edrai* - fixos, imóveis). O trabalho feito 'no Senhor' nunca será inútil ('vão' ou 'oco'), pois está ligado à eternidade.",
+      "temas": [
+        "Diligência na Fé",
+        "Firmeza Doutrinária",
+        "Recompensa Eterna"
+      ],
+      "personagens": [
+        "Irmãos"
+      ]
     }
   }
 }

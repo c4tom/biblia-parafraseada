@@ -1,220 +1,526 @@
 {
   "livro": "Provérbios",
   "capitulo": 31,
-  "contexto_historico": "Este capítulo contém as palavras do rei Lemuel, um oráculo que sua mãe lhe ensinou. A primeira parte do capítulo (versículos 1-9) é um conselho sobre como um rei deve governar, advertindo contra o vinho, as mulheres e a injustiça, e exortando-o a defender os pobres e os necessitados. A segunda parte (versículos 10-31) é um poema acróstico que descreve a mulher virtuosa, um ideal de esposa e mãe, elogiando suas qualidades de diligência, sabedoria, força e generosidade. Este capítulo serve como um guia para a liderança justa e para a excelência feminina.",
-  "bloco_tematico": "Conselhos para um Rei e o Elogio à Mulher Virtuosa",
+  "contexto_historico": "O livro de Provérbios, atribuído em grande parte a Salomão (e também a outros sábios como Agur e Lemuel), é uma coleção de ditos sapienciais que oferecem conselhos práticos para uma vida justa e próspera. O capítulo 31 se destaca por ser um poema acróstico (onde cada verso começa com uma letra sequencial do alfabeto hebraico, de Aleph a Tav) dedicado à exaltação da 'Mulher Sábia' ou 'Mulher Virtuosa' (Esheth Chayil). Este capítulo funciona como um epílogo do livro, servindo de modelo ideal de excelência e diligência no lar e na sociedade, contrastando com os avisos sobre a mulher adúltera presentes em outros pontos do livro. É uma celebração da competência, da administração doméstica e do temor a Deus como pilares da verdadeira força feminina. 💪🏠",
+  "bloco_tematico": "Elogio à Excelência: A Mulher Virtuosa (Esheth Chayil) 👑👩‍💼",
   "versiculos": {
     "1": {
-      "parafrase": "As palavras do rei Lemuel, um oráculo que sua mãe lhe ensinou:",
-      "referencias": [],
-      "comentario": "O capítulo começa identificando o autor, rei Lemuel, e a fonte de sua sabedoria: sua mãe. Isso destaca a importância da instrução materna na formação de um líder.",
-      "temas": ["autoria", "instrução materna", "realeza", "sabedoria"],
-      "personagens": ["Lemuel"]
+      "parafrase": "As palavras que agora compartilharei são a herança legada por minha mãe, a rainha, para que você, meu filho, as guarde no coração como tesouros preciosos.",
+      "referencias": [
+        "Provérbios 4:4",
+        "Provérbios 23:26"
+      ],
+      "comentario": "Este versículo estabelece o tom da seção, apresentando a fonte da sabedoria: uma mãe real transmitindo ensinamentos vitais ao seu sucessor. O termo hebraico para 'palavras' (imrot) sugere ditos ou profecias importantes. A ênfase está na transmissão da linhagem da sabedoria.",
+      "temas": [
+        "Instrução Materna",
+        "Legado",
+        "Sabedoria Real"
+      ],
+      "personagens": [
+        "Rei (o falante)",
+        "Mãe do Rei"
+      ]
     },
     "2": {
-      "parafrase": "'O que, meu filho? E o que, filho do meu ventre? E o que, filho dos meus votos?'",
-      "referencias": [],
-      "comentario": "A mãe de Lemuel expressa sua profunda preocupação e amor por seu filho, usando uma série de perguntas retóricas que enfatizam a importância de suas palavras.",
-      "temas": ["amor materno", "preocupação", "instrução"],
-      "personagens": []
+      "parafrase": "Escute, meu amado filho, preste atenção total a estas revelações. Não desperdice um único conselho, pois eles são o mapa para uma vida plena e um reinado justo.",
+      "referencias": [
+        "Provérbios 1:8",
+        "Salmos 119:105"
+      ],
+      "comentario": "O uso do termo 'amado' (beny) sublinha a ternura e a importância do destinatário. O convite é à audição ativa, não passiva. A sabedoria é apresentada como algo que exige foco absoluto para ser assimilada corretamente.",
+      "temas": [
+        "Atenção",
+        "Obediência",
+        "Vida Plena"
+      ],
+      "personagens": [
+        "Rei (o falante)",
+        "Filho/Sucessor"
+      ]
     },
     "3": {
-      "parafrase": "'Não dê a sua força às mulheres, nem os seus caminhos àquelas que destroem reis.'",
-      "referencias": [],
-      "comentario": "A mãe adverte o rei contra a imoralidade sexual e a influência de mulheres que podem corromper e destruir líderes. A temperança e a pureza são essenciais para a liderança.",
-      "temas": ["imoralidade", "sedução", "corrupção", "liderança"],
-      "personagens": []
+      "parafrase": "Filho meu, não gaste sua força vital nem seus recursos em caminhos que destroem o reino e a alma. Não entregue o poder que lhe pertence para aquelas mulheres que são mestras em desviar reis do caminho correto.",
+      "referencias": [
+        "Deuteronômio 17:17",
+        "1 Reis 11:1-4"
+      ],
+      "comentario": "Este é o primeiro aviso específico, focado no perigo da luxúria e da influência feminina desvirtuadora sobre a autoridade. O hebraico 'derek' (caminho) é usado aqui no sentido de conduta moral e política.",
+      "temas": [
+        "Controle Pessoal",
+        "Perigo da Luxúria",
+        "Poder Real"
+      ],
+      "personagens": [
+        "Rei (o falante)",
+        "Filho/Sucessor",
+        "Mulheres Estrangeiras/Imorais"
+      ]
     },
     "4": {
-      "parafrase": "'Não convém aos reis, ó Lemuel, não convém aos reis beber vinho, nem aos príncipes desejar bebida forte,",
-      "referencias": [],
-      "comentario": "A mãe adverte o rei contra o consumo excessivo de álcool, pois isso pode comprometer seu julgamento e sua capacidade de governar com justiça. A sobriedade é crucial para um líder.",
-      "temas": ["vinho", "bebida forte", "sobriedade", "liderança"],
-      "personagens": ["Lemuel"]
+      "parafrase": "Não é apropriado que os reis, aqueles que governam sob a autoridade divina, se entreguem ao vinho ou a bebidas fortes. O consumo excessivo obscurece o julgamento e leva à injustiça.",
+      "referencias": [
+        "Provérbios 20:1",
+        "Isaías 28:7"
+      ],
+      "comentario": "Foco na moderação alcoólica para aqueles em posições de liderança. A embriaguez é vista como uma ameaça direta à capacidade de governar com retidão e discernimento, pois anula a clareza mental necessária para julgar.",
+      "temas": [
+        "Moderação",
+        "Liderança",
+        "Sobriedade"
+      ],
+      "personagens": [
+        "Rei (o falante)",
+        "Filho/Sucessor"
+      ]
     },
     "5": {
-      "parafrase": "para que não bebam e se esqueçam da lei, e pervertam o juízo de todos os aflitos.'",
-      "referencias": [],
-      "comentario": "O perigo do álcool para um rei é que ele pode levar ao esquecimento da lei e à perversão da justiça, especialmente para os vulneráveis. A justiça é comprometida pela embriaguez.",
-      "temas": ["embriaguez", "lei", "justiça", "perversão"],
-      "personagens": []
+      "parafrase": "Pois, se um governante beber e esquecer o que é justo, ele pode, em seu estado alterado, negligenciar as súplicas dos pobres, dos oprimidos e daqueles que lutam por seus direitos.",
+      "referencias": [
+        "Salmos 82:2-4",
+        "Provérbios 14:31"
+      ],
+      "comentario": "A consequência direta da embriaguez real: a injustiça social. O texto enfatiza que o líder que perde o controle sobre si mesmo perde a capacidade de defender os vulneráveis ('aqueles que perecem').",
+      "temas": [
+        "Justiça Social",
+        "Responsabilidade do Governante",
+        "Intemperança"
+      ],
+      "personagens": [
+        "Rei (o falante)",
+        "Filho/Sucessor",
+        "Pobres/Oprimidos"
+      ]
     },
     "6": {
-      "parafrase": "'Dê bebida forte aos que perecem, e vinho aos que têm o coração amargurado;
+      "parafrase": "Permita que o bêbado ou o viciado em álcool beba o vinho forte para que ele possa esquecer temporariamente sua miséria, mas você, meu filho, deve manter sua mente clara.",
+      "referencias": [
+        "Jó 3:20",
+        "Jó 31:17"
+      ],
+      "comentario": "Há uma concessão aparente àqueles que estão em desespero (o 'perdido' ou 'aquele que se arrepende de sua alma' – o hebraico sugere quem está prestes a perecer), que buscam no esquecimento alcoólico um refúgio. Contraste forte com o dever do príncipe.",
+      "temas": [
+        "Esquecimento",
+        "Contraste de Papéis",
+        "Desespero"
+      ],
+      "personagens": [
+        "Rei (o falante)",
+        "Filho/Sucessor",
+        "O Perdido"
+      ]
+    },
     "7": {
-      "parafrase": "que bebam e se esqueçam da sua pobreza, e não se lembrem mais da sua miséria.'",
-      "referencias": [],
-      "comentario": "A mãe sugere que o vinho e a bebida forte são para aqueles que estão morrendo ou sofrendo intensamente, como um paliativo para sua dor. Isso contrasta com o uso responsável para um rei.",
-      "temas": ["bebida forte", "sofrimento", "paliativo", "miséria"],
-      "personagens": []
+      "parafrase": "Fale em defesa daqueles que não têm voz, que não podem se defender, e garanta que seus direitos sejam plenamente respeitados e concedidos.",
+      "referencias": [
+        "Tiago 1:27",
+        "Isaías 1:17"
+      ],
+      "comentario": "Um mandato claro para o papel do juiz ou rei: ser o advogado dos marginalizados. O verbo hebraico aqui implica 'abrir a boca' em favor de quem está silenciado pela opressão ou pobreza.",
+      "temas": [
+        "Defesa dos Fracos",
+        "Advocacia",
+        "Direitos Humanos"
+      ],
+      "personagens": [
+        "Rei (o falante)",
+        "Filho/Sucessor"
+      ]
     },
     "8": {
-      "parafrase": "'Abra a sua boca em favor do mudo, em favor da causa de todos os que estão desamparados.'",
-      "referencias": [],
-      "comentario": "O rei é exortado a usar sua voz e sua autoridade para defender os que não podem falar por si mesmos, os mudos e os desamparados. A justiça social é uma responsabilidade real.",
-      "temas": ["justiça social", "defesa", "desamparados", "liderança"],
-      "personagens": []
+      "parafrase": "Abra sua boca com coragem e sabedoria ao julgar, defendendo a causa de todos os miseráveis e daqueles que são explorados, assegurando que recebam o que lhes é devido.",
+      "referencias": [
+        "Miquéias 6:8",
+        "Lucas 18:7-8"
+      ],
+      "comentario": "Reforça o versículo anterior. A defesa não deve ser passiva, mas ativa ('abra sua boca'). A justiça deve ser aplicada imparcialmente a todos os níveis de sociedade, especialmente aos que estão na base.",
+      "temas": [
+        "Justiça Imparcial",
+        "Coragem Moral",
+        "Julgamento Reto"
+      ],
+      "personagens": [
+        "Rei (o falante)",
+        "Filho/Sucessor"
+      ]
     },
     "9": {
-      "parafrase": "'Abra a sua boca, julgue com justiça e defenda a causa do pobre e do necessitado.'",
-      "referencias": [],
-      "comentario": "O rei deve julgar com imparcialidade e defender os direitos dos pobres e necessitados. A justiça e a equidade são os pilares de um bom governo.",
-      "temas": ["justiça", "equidade", "pobreza", "necessidade", "governo"],
-      "personagens": []
+      "parafrase": "Mas, por outro lado, aja com rigor absoluto e julgamento severo contra o mal. Não tenha piedade ou hesitação ao punir a desonestidade e a perversidade que ameaçam a ordem estabelecida.",
+      "referencias": [
+        "Deuteronômio 13:8",
+        "Romanos 13:4"
+      ],
+      "comentario": "O equilíbrio da justiça: defender os fracos e punir os fortes que erram. O hebraico para 'destruir' ou 'aniquilar' sugere uma ação decisiva contra o mal institucionalizado ou grave.",
+      "temas": [
+        "Punição do Mal",
+        "Rigor Judicial",
+        "Integridade"
+      ],
+      "personagens": [
+        "Rei (o falante)",
+        "Filho/Sucessor"
+      ]
     },
     "10": {
-      "parafrase": "Uma mulher virtuosa, quem a achará? Pois o seu valor excede em muito o dos rubis.",
-      "referencias": [],
-      "comentario": "O poema começa com uma pergunta retórica que destaca a raridade e o valor inestimável de uma mulher virtuosa. Seu valor é superior ao das joias mais preciosas.",
-      "temas": ["mulher virtuosa", "valor", "raridade", "preciosidade"],
-      "personagens": []
+      "parafrase": "Quem encontrará uma esposa de valor inestimável? Pois uma mulher assim supera em preço tudo o que se pode imaginar, valendo mais do que ouro ou pedras preciosas.",
+      "referencias": [
+        "Provérbios 18:22",
+        "Cantares 8:6"
+      ],
+      "comentario": "Transição abrupta para a figura ideal da esposa. 'Esheth chayil' (mulher de força/valor) é um conceito central. Ela é um achado raro, cuja contribuição excede qualquer riqueza material.",
+      "temas": [
+        "Valor da Mulher Virtuosa",
+        "Casamento Ideal",
+        "Riqueza Inestimável"
+      ],
+      "personagens": [
+        "Rei (o falante)",
+        "Filho/Sucessor",
+        "Mulher Virtuosa"
+      ]
     },
     "11": {
-      "parafrase": "O coração de seu marido confia nela, e ele não terá falta de lucro.",
-      "referencias": [],
-      "comentario": "O marido confia plenamente na mulher virtuosa, e ela contribui para a prosperidade da família. A confiança e a parceria são essenciais no casamento.",
-      "temas": ["confiança", "casamento", "prosperidade", "parceria"],
-      "personagens": []
+      "parafrase": "Seu marido pode confiar plenamente nela. Seu coração está seguro em suas mãos, pois ela nunca buscará tirar vantagem dele ou causar-lhe prejuízo.",
+      "referencias": [
+        "Efésios 5:28-29",
+        "Tito 2:4-5"
+      ],
+      "comentario": "A confiança mútua é a base. O 'coração' (lev) do marido descansa em segurança, sabendo que a esposa é leal e trabalha para o bem comum do lar, não para o ganho egoísta.",
+      "temas": [
+        "Confiança Conjugal",
+        "Lealdade",
+        "Segurança Emocional"
+      ],
+      "personagens": [
+        "Mulher Virtuosa",
+        "Marido"
+      ]
     },
     "12": {
-      "parafrase": "Ela lhe faz bem, e não mal, todos os dias da sua vida.",
-      "referencias": [],
-      "comentario": "A mulher virtuosa é uma fonte constante de bem e de bênção para seu marido, por toda a vida. Sua influência é positiva e duradoura.",
-      "temas": ["bondade", "bênção", "influência", "casamento"],
-      "personagens": []
+      "parafrase": "Ela o beneficia em todos os dias da sua vida, trazendo-lhe bem, e nunca lhe trará o peso da vergonha ou da perda.",
+      "referencias": [
+        "Provérbios 14:1",
+        "1 Timóteo 5:14"
+      ],
+      "comentario": "O benefício dela é constante ('todos os dias'). Ela é uma fonte de prosperidade e honra, o oposto da mulher tola descrita em outras partes do livro, que destrói a casa.",
+      "temas": [
+        "Benefício Constante",
+        "Honra",
+        "Dever Conjugal"
+      ],
+      "personagens": [
+        "Mulher Virtuosa",
+        "Marido"
+      ]
     },
     "13": {
-      "parafrase": "Ela busca lã e linho e trabalha com as mãos dispostas.",
-      "referencias": [],
-      "comentario": "A mulher virtuosa é diligente e trabalhadora, buscando materiais para produzir e trabalhando com entusiasmo. Sua diligência é um exemplo.",
-      "temas": ["diligência", "trabalho", "entusiasmo", "produtividade"],
-      "personagens": []
+      "parafrase": "Ela se dedica a encontrar e trabalhar com lã e linho, trazendo matéria-prima para casa e transformando-a em vestimentas com prazer e diligência.",
+      "referencias": [
+        "Êxodo 35:25",
+        "2 Tessalonicenses 3:12"
+      ],
+      "comentario": "Exemplo prático de sua diligência. Ela não é ociosa. O trabalho manual com tecidos (lã e linho) era uma atividade doméstica de alto valor econômico na antiguidade. Ela escolhe seu trabalho com satisfação ('com as mãos de sua vontade').",
+      "temas": [
+        "Diligência",
+        "Trabalho Manual",
+        "Administração Doméstica"
+      ],
+      "personagens": [
+        "Mulher Virtuosa"
+      ]
     },
     "14": {
-      "parafrase": "Ela é como os navios de mercador; ela traz o seu alimento de longe.",
-      "referencias": [],
-      "comentario": "A mulher virtuosa é empreendedora e provê para sua casa, buscando o alimento de longe, se necessário. Sua provisão é abrangente e cuidadosa.",
-      "temas": ["empreendedorismo", "provisão", "cuidado", "diligência"],
-      "personagens": []
+      "parafrase": "Ela age como um navio mercante que navega em mares distantes, buscando provisões e sustento para a casa, trazendo riquezas de lugares remotos.",
+      "referencias": [
+        "Jó 28:6",
+        "Provérbios 3:9"
+      ],
+      "comentario": "Metáfora poderosa: ela é uma empreendedora que gerencia o risco financeiro do lar, comparável a um comerciante marítimo, demonstrando visão de futuro e capacidade de investimento.",
+      "temas": [
+        "Visão de Negócios",
+        "Provisão",
+        "Empreendedorismo Doméstico"
+      ],
+      "personagens": [
+        "Mulher Virtuosa"
+      ]
     },
     "15": {
-      "parafrase": "Ela se levanta enquanto ainda é noite e provê alimento para sua casa e a porção para suas servas.",
-      "referencias": [],
-      "comentario": "A mulher virtuosa é madrugadora e organizada, garantindo que sua casa e suas servas sejam bem cuidadas. Sua diligência é exemplar.",
-      "temas": ["diligência", "organização", "provisão", "cuidado"],
-      "personagens": []
+      "parafrase": "Ela se levanta antes do amanhecer, enquanto a noite ainda domina, para preparar a comida de sua casa e distribuir as tarefas diárias aos seus servos ou familiares.",
+      "referencias": [
+        "Lucas 12:42",
+        "Gênesis 1:5 (início do dia)"
+      ],
+      "comentario": "A disciplina dela começa antes do sol nascer. A expressão 'da manhã' (min-ha-boker) enfatiza o início precoce de suas atividades, organizando a logística da casa com precisão.",
+      "temas": [
+        "Disciplina Matinal",
+        "Organização",
+        "Serviço"
+      ],
+      "personagens": [
+        "Mulher Virtuosa"
+      ]
     },
     "16": {
-      "parafrase": "Ela considera um campo e o compra; com o fruto de suas mãos ela planta uma vinha.",
-      "referencias": [],
-      "comentario": "A mulher virtuosa é perspicaz e investe com sabedoria, comprando um campo e plantando uma vinha. Sua inteligência e sua capacidade de investimento são notáveis.",
-      "temas": ["perspicácia", "investimento", "sabedoria", "empreendedorismo"],
-      "personagens": []
+      "parafrase": "Ela avalia cuidadosamente uma propriedade, analisa o terreno e, ao constatar que é um bom investimento, decide comprar o campo usando suas próprias economias ou recursos.",
+      "referencias": [
+        "Deuteronômio 32:8",
+        "Lucas 14:28"
+      ],
+      "comentario": "Demonstra perspicácia financeira. Ela não compra por impulso, mas após cuidadosa 'consideração' (behanah). O ato de comprar um campo (terra) era um investimento de longo prazo e um sinal de grande estabilidade.",
+      "temas": [
+        "Prudência Financeira",
+        "Investimento",
+        "Propriedade"
+      ],
+      "personagens": [
+        "Mulher Virtuosa"
+      ]
     },
     "17": {
-      "parafrase": "Ela cinge os seus lombos com força e fortalece os seus braços.",
-      "referencias": [],
-      "comentario": "A mulher virtuosa é forte e vigorosa, tanto física quanto mentalmente, para realizar suas tarefas. Sua força é um atributo de sua diligência.",
-      "temas": ["força", "vigor", "diligência", "determinação"],
-      "personagens": []
+      "parafrase": "Ela se arma com força e determinação para o trabalho árduo, e seus braços são fortes para realizar as tarefas mais exigentes do dia.",
+      "referencias": [
+        "Efésios 6:10",
+        "Judite 16:1-2"
+      ],
+      "comentario": "A força não é apenas metafórica, mas física, necessária para gerenciar os negócios e o lar. Ela se 'cinge' (apercebe para a ação) de força, preparando-se para a batalha diária do trabalho.",
+      "temas": [
+        "Força Física e Moral",
+        "Determinação",
+        "Trabalho Duro"
+      ],
+      "personagens": [
+        "Mulher Virtuosa"
+      ]
     },
     "18": {
-      "parafrase": "Ela percebe que seu comércio é lucrativo; sua lâmpada não se apaga à noite.",
-      "referencias": [],
-      "comentario": "A mulher virtuosa é astuta nos negócios e trabalha diligentemente, mesmo à noite, para garantir o sucesso de seus empreendimentos. Sua dedicação é incansável.",
-      "temas": ["lucratividade", "diligência", "dedicação", "negócios"],
-      "personagens": []
+      "parafrase": "Ela experimenta o sabor do sucesso em seus empreendimentos, percebendo que o esforço do dia não foi em vão; sua lamparina continua acesa muito depois de o sol se pôr.",
+      "referencias": [
+        "Mateus 5:16",
+        "Eclesiastes 3:1"
+      ],
+      "comentario": "O prazer de ver o fruto do trabalho. A luz de sua lamparina acesa à noite simboliza seu trabalho incessante e sua administração eficiente, que se estende além do horário comercial normal.",
+      "temas": [
+        "Recompensa do Trabalho",
+        "Persistência",
+        "Administração Noturna"
+      ],
+      "personagens": [
+        "Mulher Virtuosa"
+      ]
     },
     "19": {
-      "parafrase": "Ela estende as mãos ao fuso e suas mãos seguram a roca.",
-      "referencias": [],
-      "comentario": "A mulher virtuosa é habilidosa em trabalhos manuais, como a fiação, mostrando sua destreza e sua capacidade de produzir.",
-      "temas": ["habilidade", "trabalho manual", "produção"],
-      "personagens": []
+      "parafrase": "Com mãos hábeis, ela cuida dos materiais têxteis, fazendo a fiação e tecendo os fios que serão usados para vestir a família e produzir mercadorias para venda.",
+      "referencias": [
+        "Provérbios 22:29",
+        "Atos 16:14"
+      ],
+      "comentario": "Detalha o trabalho manual. A habilidade dela em lidar com o fio (ela o estende) é a marca da sua mestria na produção de bens de qualidade.",
+      "temas": [
+        "Habilidade Artesanal",
+        "Produção Têxtil",
+        "Mestria"
+      ],
+      "personagens": [
+        "Mulher Virtuosa"
+      ]
     },
     "20": {
-      "parafrase": "Ela estende a mão ao pobre e abre as mãos ao necessitado.",
-      "referencias": [],
-      "comentario": "A mulher virtuosa é compassiva e generosa, estendendo a mão para ajudar os pobres e os necessitados. Sua caridade é um reflexo de seu bom coração.",
-      "temas": ["compaixão", "generosidade", "caridade", "pobreza"],
-      "personagens": []
+      "parafrase": "Ela sempre demonstra generosidade, estendendo suas mãos com compaixão para ajudar o necessitado e oferecer socorro aos pobres da sua comunidade.",
+      "referencias": [
+        "Lucas 6:38",
+        "Atos 20:35"
+      ],
+      "comentario": "O contraponto à sua gestão financeira aguçada é a sua filantropia. A mão estendida é um símbolo universal de ajuda e caridade.",
+      "temas": [
+        "Generosidade",
+        "Caridade",
+        "Compadecimento"
+      ],
+      "personagens": [
+        "Mulher Virtuosa"
+      ]
     },
     "21": {
-      "parafrase": "Ela não teme a neve por sua casa, pois toda a sua casa está vestida de escarlate.",
-      "referencias": [],
-      "comentario": "A mulher virtuosa é previdente e prepara sua casa para o inverno, vestindo sua família com roupas quentes (escarlate). Sua previsão garante a segurança e o conforto de sua casa.",
-      "temas": ["previsão", "cuidado", "segurança", "conforto"],
-      "personagens": []
+      "parafrase": "Quando chega a estação fria, ela não teme por sua família, pois já garantiu roupas grossas e adequadas para todos, vestindo-os com cobertores duplos.",
+      "referencias": [
+        "Jó 29:14",
+        "Isaías 3:22 (roupas finas)"
+      ],
+      "comentario": "Sua prudência se manifesta no planejamento para o futuro, especificamente para os rigores do inverno. O 'escarlate' ou 'vermelho' (shanim) pode indicar tecidos tingidos e de alta qualidade, mostrando que a família não só está coberta, mas também bem vestida.",
+      "temas": [
+        "Planejamento de Longo Prazo",
+        "Previsão",
+        "Cuidado Familiar"
+      ],
+      "personagens": [
+        "Mulher Virtuosa",
+        "Família"
+      ]
     },
     "22": {
-      "parafrase": "Ela faz para si cobertas; suas vestes são de linho fino e púrpura.",
-      "referencias": [],
-      "comentario": "A mulher virtuosa é habilidosa em costura e se veste com elegância e dignidade, usando materiais finos. Sua aparência é um reflexo de sua excelência.",
-      "temas": ["habilidade", "elegância", "dignidade", "aparência"],
-      "personagens": []
+      "parafrase": "Ela mesma se veste com o que há de melhor, com linho fino e púrpura real, pois seu trabalho e sua reputação lhe trouxeram honra e riqueza visíveis.",
+      "referencias": [
+        "Êxodo 28:5",
+        "Apocalipse 19:8"
+      ],
+      "comentario": "Seu vestuário reflete seu status alcançado pelo trabalho. O linho fino e a púrpura (símbolos de realeza e riqueza na antiguidade) não são adquiridos por ostentação, mas são o resultado direto de sua 'trabalhadeira' (hizna, esforço diligente).",
+      "temas": [
+        "Recompensa Visível",
+        "Honra",
+        "Riqueza Adquirida"
+      ],
+      "personagens": [
+        "Mulher Virtuosa"
+      ]
     },
     "23": {
-      "parafrase": "Seu marido é conhecido nos portões, quando se senta com os anciãos da terra.",
-      "referencias": [],
-      "comentario": "O marido da mulher virtuosa é respeitado e reconhecido na comunidade, participando das decisões importantes nos portões da cidade. A honra do marido é um reflexo da excelência de sua esposa.",
-      "temas": ["honra", "respeito", "comunidade", "liderança"],
-      "personagens": []
+      "parafrase": "Seu marido é reconhecido e respeitado nas portas da cidade, na assembleia dos anciãos, porque o sucesso e a boa reputação dela sustentam a posição dele.",
+      "referencias": [
+        "Provérbios 12:4",
+        "Rute 4:1"
+      ],
+      "comentario": "O impacto do trabalho dela se estende à esfera pública do marido. O 'portão' (sha'ar) era o centro do comércio e da justiça. A esposa virtuosa eleva o prestígio social do cônjuge.",
+      "temas": [
+        "Prestígio Social",
+        "Suporte Conjugal",
+        "Esfera Pública"
+      ],
+      "personagens": [
+        "Marido",
+        "Mulher Virtuosa"
+      ]
     },
     "24": {
-      "parafrase": "Ela faz vestes de linho e as vende; ela entrega cintos aos comerciantes.",
-      "referencias": [],
-      "comentario": "A mulher virtuosa é empreendedora e contribui para a renda da família através de seu trabalho e comércio. Sua capacidade de gerar lucro é notável.",
-      "temas": ["empreendedorismo", "comércio", "renda", "produtividade"],
-      "personagens": []
+      "parafrase": "Ela fabrica roupas finas com os tecidos que produz e as vende para comerciantes, entregando cintos de linho para serem usados pelos mercadores.",
+      "referencias": [
+        "Neemias 7:70-71",
+        "Amós 2:6"
+      ],
+      "comentario": "Confirma o aspecto empresarial dela. Ela não apenas veste a casa, mas também participa ativamente da economia local, produzindo e vendendo bens de luxo e essenciais (cintos).",
+      "temas": [
+        "Comércio",
+        "Produção de Bens",
+        "Renda Própria"
+      ],
+      "personagens": [
+        "Mulher Virtuosa"
+      ]
     },
     "25": {
-      "parafrase": "Força e dignidade são as suas vestes, e ela ri do futuro.",
-      "referencias": [],
-      "comentario": "A mulher virtuosa é revestida de força e dignidade, e ela enfrenta o futuro com confiança e alegria, sem medo. Sua segurança vem de sua sabedoria e de sua fé.",
-      "temas": ["força", "dignidade", "confiança", "alegria", "futuro"],
-      "personagens": []
+      "parafrase": "Seu caráter é revestido de força e dignidade inabaláveis, e ela olha para o futuro com confiança serena, sabendo que não há nada a temer amanhã.",
+      "referencias": [
+        "Filipenses 4:13",
+        "2 Coríntios 4:16"
+      ],
+      "comentario": "Conclusão sobre sua estabilidade interna. A 'força e dignidade' (oz vehedar) são as vestes de seu caráter. A ausência de medo do futuro deriva de sua preparação e fé, não de sua riqueza material.",
+      "temas": [
+        "Dignidade",
+        "Confiança no Futuro",
+        "Coragem"
+      ],
+      "personagens": [
+        "Mulher Virtuosa"
+      ]
     },
     "26": {
-      "parafrase": "Ela abre a boca com sabedoria, e o ensino da bondade está em sua língua.",
-      "referencias": [],
-      "comentario": "A fala da mulher virtuosa é sábia e cheia de bondade. Ela ensina com discernimento e com palavras que edificam. Sua fala é uma fonte de bênção.",
-      "temas": ["sabedoria", "fala", "bondade", "ensino"],
-      "personagens": []
+      "parafrase": "Ela se veste de força e vigor, e seus braços são pilares firmes que sustentam cada empreendimento; ela não tem medo de gastar a energia necessária para fazer o bem e seu trabalho nunca é fraco ou vacilante. Sua luz interna irradia para fora, mostrando sua dedicação e excelência.",
+      "referencias": [
+        "Efésios 6:10",
+        "Colossenses 3:23"
+      ],
+      "comentario": "O versículo descreve a força física e moral da Mulher Virtuosa. A expressão hebraica para 'força' (chazak) implica não apenas vigor, mas também coragem e resiliência. 'Seus braços são fortes' (yadaiyim amatsot) simboliza sua capacidade de execução e trabalho árduo. É uma força investida no propósito, não na ostentação.",
+      "temas": [
+        "Força Feminina",
+        "Diligência",
+        "Capacidade de Trabalho"
+      ],
+      "personagens": [
+        "A Mulher Sábia"
+      ]
     },
     "27": {
-      "parafrase": "Ela supervisiona os caminhos de sua casa e não come o pão da preguiça.",
-      "referencias": [],
-      "comentario": "A mulher virtuosa é diligente e cuidadosa na administração de sua casa, garantindo que tudo esteja em ordem e que não haja preguiça. Sua vigilância é constante.",
-      "temas": ["diligência", "cuidado", "administração", "preguiça"],
-      "personagens": []
+      "parafrase": "Ela supervisiona atentamente todos os aspectos de seu lar e de seus negócios. Ela jamais se permite ser preguiçosa, pois o ócio é um inimigo de sua missão. Ela come o pão que conquistou com o suor do seu esforço honesto, saboreando cada migalha com satisfação.",
+      "referencias": [
+        "Romanos 12:11",
+        "2 Tessalonicenses 3:10"
+      ],
+      "comentario": "Este versículo foca na administração e vigilância (a palavra hebraica para 'supervisiona' sugere olhar atento e perspicaz). O contraste com a preguiça ('pão da preguiça' - lechem atzlah) é explícito. Ela colhe os frutos do trabalho árduo, que são doces ao paladar da consciência limpa.",
+      "temas": [
+        "Administração Doméstica",
+        "Vigilância",
+        "Recompensa do Esforço"
+      ],
+      "personagens": [
+        "A Mulher Sábia"
+      ]
     },
     "28": {
-      "parafrase": "Seus filhos se levantam e a chamam de abençoada; seu marido também a elogia, dizendo:",
-      "referencias": [],
-      "comentario": "A mulher virtuosa é elogiada e abençoada por seus filhos e por seu marido. Seu valor é reconhecido e celebrado por sua família.",
-      "temas": ["elogio", "bênção", "família", "reconhecimento"],
-      "personagens": []
+      "parafrase": "Seus filhos e seu marido a observam com admiração e a elogiam profundamente. Eles proclamam em público sua felicidade por terem uma esposa e mãe tão excepcional e virtuosa, reconhecendo publicamente seu valor inestimável.",
+      "referencias": [
+        "Provérbios 12:4",
+        "Tito 2:4"
+      ],
+      "comentario": "Aqui vemos a consequência social do seu trabalho: o reconhecimento familiar. 'Seus filhos se levantam e a chamam bem-aventurada/feliz' (Ashreiha). Isso não é vaidade, mas a confirmação de que sua sabedoria trouxe prosperidade e estabilidade ao clã. O marido também a louva, sinal de respeito mútuo.",
+      "temas": [
+        "Honra Familiar",
+        "Reconhecimento",
+        "Impacto na Descendência"
+      ],
+      "personagens": [
+        "A Mulher Sábia",
+        "Filhos",
+        "Marido"
+      ]
     },
     "29": {
-      "parafrase": "'Muitas mulheres agiram virtuosamente, mas você as supera a todas.'",
-      "referencias": [],
-      "comentario": "O marido elogia sua esposa, reconhecendo que ela supera todas as outras mulheres em virtude e excelência. Seu valor é incomparável.",
-      "temas": ["virtude", "excelência", "elogio", "incomparabilidade"],
-      "personagens": []
+      "parafrase": "O marido se orgulha e diz com voz firme: 'Muitas mulheres conquistaram grandes coisas, muitas mostraram grande excelência, mas, sem dúvida alguma, você supera todas elas!'",
+      "referencias": [
+        "Cântico dos Cânticos 8:6",
+        "Filipenses 2:3"
+      ],
+      "comentario": "O elogio do marido é a coroação de seu caráter. Ele compara-a com outras mulheres notáveis, mas a coloca acima. A expressão 'você as excede a todas' (asit 'alhen kulan) enfatiza sua superioridade alcançada por meio de uma vida de dedicação integral e caráter íntegro, superando a beleza ou o talento superficial.",
+      "temas": [
+        "Elogio Conjugal",
+        "Excelência",
+        "Comparação com Outros"
+      ],
+      "personagens": [
+        "Marido",
+        "A Mulher Sábia"
+      ]
     },
     "30": {
-      "parafrase": "Enganosa é a graça e vã é a beleza, mas a mulher que teme ao Senhor, essa será louvada.",
-      "referencias": [],
-      "comentario": "A beleza física é passageira e enganosa, mas o temor do Senhor é a verdadeira fonte de louvor e valor para uma mulher. A beleza interior é mais importante do que a exterior.",
-      "temas": ["beleza", "graça", "temor a Deus", "louvor", "valor"],
-      "personagens": []
+      "parafrase": "A beleza exterior é passageira e enganosa, um mero véu que desaparece com o tempo. O charme superficial pode ser tentador, mas é superficial. Não é nisso que reside o verdadeiro valor de uma pessoa.",
+      "referencias": [
+        "1 Pedro 3:3-4",
+        "Salmos 147:11"
+      ],
+      "comentario": "Este é um ponto de inflexão crucial. O texto contrasta o valor duradouro com o efêmero. 'Enganosa é a graça' (Chen shaquer) – a graça ou encanto pode ser uma fachada. A palavra 'beleza' (yofi) aqui se refere à atratividade física. O foco da sabedoria bíblica está no caráter interior, que é eterno.",
+      "temas": [
+        "Efemeridade da Beleza",
+        "Caráter vs. Aparência",
+        "Ilusão"
+      ],
+      "personagens": [
+        "O Sábio (Narrador)"
+      ]
     },
     "31": {
-      "parafrase": "Deem-lhe o fruto de suas mãos, e que suas obras a louvem nos portões.",
-      "referencias": [],
-      "comentario": "A mulher virtuosa deve ser recompensada por seu trabalho e suas obras devem ser reconhecidas publicamente. Seu legado é duradouro e seu louvor é merecido.",
-      "temas": ["recompensa", "obras", "louvor público", "legado"],
-      "personagens": []
+      "parafrase": "Em contraste, deem a ela o justo merecimento de sua colheita! Que suas obras sejam louvadas em todas as portas da cidade, para que todos vejam e reconheçam o fruto abundante de sua sabedoria e seu trabalho incansável. Ela merece toda a glória!",
+      "referencias": [
+        "Gálatas 6:9",
+        "Provérbios 10:22"
+      ],
+      "comentario": "O clímax. O mandamento é 'Dê-lhe do fruto de suas mãos' (netun lah miperí yedeha). Isso significa que os benefícios que ela gerou (financeiros, morais, espirituais) devem ser publicamente reconhecidos e partilhados. A menção aos 'portões' (sha'ar) refere-se ao local público de julgamento e comércio na antiguidade. Sua virtude deve ser um testemunho aberto para toda a comunidade.",
+      "temas": [
+        "Recompensa Pública",
+        "Legado",
+        "Justiça e Reconhecimento"
+      ],
+      "personagens": [
+        "A Mulher Sábia",
+        "A Comunidade"
+      ]
     }
   }
 }

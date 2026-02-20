@@ -1,120 +1,271 @@
 {
   "livro": "2 Crônicas",
   "capitulo": 12,
-  "contexto_historico": "Este capítulo narra o declínio do reinado de Roboão em Judá. Após três anos de fidelidade a Deus, Roboão e o povo abandonam a lei do Senhor, o que resulta na invasão de Sisaque, rei do Egito. A invasão traz grande humilhação e perda para Judá, mas o arrependimento de Roboão e dos príncipes leva a um livramento parcial. O capítulo destaca as consequências da infidelidade a Deus e a misericórdia divina em meio ao juízo.",
-  "bloco_tematico": "A Invasão Egípcia e o Declínio de Roboão",
+  "contexto_historico": "Após a morte do Rei Salomão, o reino de Israel se dividiu em dois: o Reino de Judá (ao sul, com capital em Jerusalém, mantendo a linhagem davídica) e o Reino de Israel (ao norte). Roboão, filho de Salomão, assumiu o trono de Judá. O capítulo 12 narra o início do seu reinado, marcado pela desobediência e a subsequente intervenção divina através do profeta Semaías.",
+  "bloco_tematico": "👑 A Queda de Roboão: O Preço da Desobediência e a Misericórdia Condicional de Deus",
   "versiculos": {
     "1": {
-      "parafrase": "Quando o reino de Roboão foi estabelecido e ele se fortaleceu, ele abandonou a lei do Senhor, e todo o Israel com ele.",
-      "referencias": [],
-      "comentario": "Após um período inicial de fidelidade e fortalecimento, Roboão e o povo de Judá abandonam a lei de Deus, demonstrando a fragilidade de sua fé e a tendência à apostasia.",
-      "temas": ["apostasia", "infidelidade", "declínio"],
-      "personagens": ["Roboão", "Senhor", "Israel"]
+      "parafrase": "Quando o reinado de Roboão já estava firme e sua força estabelecida, ele e todo o Israel abandonaram a lei solene do Senhor. Isso aconteceu porque Roboão havia se esquecido dos ensinamentos que o Senhor havia dado através de seu pai, Salomão, e de toda a assembleia de Israel.",
+      "referencias": [
+        "Deuteronômio 17:18-20",
+        "1 Reis 14:21"
+      ],
+      "comentario": "O versículo estabelece o clímax da apostasia de Roboão. O termo hebraico para 'firme' ou 'fortalecido' (hizzeq) implica que ele tinha poder militar e político suficiente para não precisar mais da sabedoria de Deus. A queda ocorre precisamente quando o sucesso mundano se torna a prioridade, esquecendo a Aliança estabelecida por Salomão (2 Cr 12:1).",
+      "temas": [
+        "Apostasía",
+        "Firmeza do Reino",
+        "Esquecimento da Lei"
+      ],
+      "personagens": [
+        "Roboão"
+      ]
     },
     "2": {
-      "parafrase": "No quinto ano do reinado de Roboão, Sisaque, rei do Egito, subiu contra Jerusalém, porque eles haviam transgredido contra o Senhor.",
-      "referencias": ["1 Reis 14:25"],
-      "comentario": "A invasão egípcia é apresentada como um juízo divino sobre Judá por sua transgressão contra o Senhor. Sisaque é o instrumento da ira de Deus.",
-      "temas": ["invasão", "juízo divino", "transgressão"],
-      "personagens": ["Sisaque", "Roboão", "Senhor"]
+      "parafrase": "Por causa dessa infidelidade, no quinto ano do seu reinado, isto é, no quinto ano de Roboão, o faraó Sisaque do Egito marchou com seu exército poderoso contra Jerusalém. Ele havia trazido consigo nada menos que mil e duzentos carros de guerra e sessenta mil cavaleiros, e uma multidão incontável de infantes que vieram com ele, como areia na praia.",
+      "referencias": [
+        "1 Reis 14:25",
+        "Êxodo 1:11"
+      ],
+      "comentario": "Sisaque (Sheshonq I) é um faraó histórico bem documentado. Sua invasão no quinto ano de Roboão corresponde a um evento cronologicamente verificável, possivelmente ligado ao exílio de Jeremias, levita, que fugiu de Salomão (veja 2 Cr 12:15). A referência à 'multidão incontável' (k'my'v - como um enxame) enfatiza a escala esmagadora da ameaça egípcia.",
+      "temas": [
+        "Invasão",
+        "Consequências do Pecado",
+        "Poder Militar Egípcio"
+      ],
+      "personagens": [
+        "Sisaque"
+      ]
     },
     "3": {
-      "parafrase": "Ele veio com mil e duzentos carros e sessenta mil cavaleiros. E o povo que veio com ele do Egito era inumerável: líbios, suquitas e etíopes.",
-      "referencias": [],
-      "comentario": "A força militar de Sisaque é vasta e diversificada, demonstrando a magnitude da ameaça que Judá enfrentava. A presença de líbios, suquitas e etíopes mostra a extensão do império egípcio.",
-      "temas": ["força militar", "ameaça", "império"],
-      "personagens": ["Sisaque"]
+      "parafrase": "Eles invadiram Judá e tomaram todas as cidades fortificadas, chegando até mesmo a sitiar Jerusalém, pois o povo de Roboão havia desobedecido ao Senhor e se recusado a buscar a ajuda divina.",
+      "referencias": [
+        "Jó 12:14",
+        "Isaías 10:5-6"
+      ],
+      "comentario": "A queda das cidades fortificadas demonstra que a força de Judá residia em Deus, não em suas muralhas. A razão da eficácia do ataque egípcio está explicitamente ligada à deserção de Judá da fé, tornando-os vulneráveis ('não haviam buscado ao Senhor').",
+      "temas": [
+        "Cidades Fortificadas",
+        "Conflito",
+        "Busca a Deus"
+      ],
+      "personagens": [
+        "Roboão"
+      ]
     },
     "4": {
-      "parafrase": "Ele tomou as cidades fortificadas de Judá e veio até Jerusalém.",
-      "referencias": [],
-      "comentario": "Sisaque conquista as cidades fortificadas de Judá, aproximando-se de Jerusalém, a capital, que está sob iminente ameaça.",
-      "temas": ["conquista", "ameaça", "cerco"],
-      "personagens": ["Sisaque"]
+      "parafrase": "Então, os profetas do Senhor, liderados por Semaías, vieram a Roboão e aos líderes de Judá que estavam reunidos em Jerusalém por causa da aproximação de Sisaque. Eles entregaram uma mensagem direta de Deus: 'Assim diz o Senhor: Vocês me abandonaram, e agora eu os entrego nas mãos de Sisaque'.",
+      "referencias": [
+        "1 Reis 12:22-24",
+        "Jeremias 18:7-10"
+      ],
+      "comentario": "Semaías ('O Senhor ouviu') atua como um mensageiro fiel, um contraste com os conselheiros ímpios da juventude de Roboão. A estrutura de 'Vocês fizeram X, portanto, Eu farei Y' é um padrão fundamental da retribuição divina no Antigo Testamento.",
+      "temas": [
+        "Profecia",
+        "Julgamento Divino",
+        "Arrependimento"
+      ],
+      "personagens": [
+        "Semaías",
+        "Roboão"
+      ]
     },
     "5": {
-      "parafrase": "Então Semaías, o profeta, veio a Roboão e aos príncipes de Judá que se reuniram em Jerusalém por causa de Sisaque, e lhes disse: 'Assim diz o Senhor: Vocês me abandonaram; por isso, eu também os abandonei nas mãos de Sisaque.'",
-      "referencias": ["1 Reis 14:26"],
-      "comentario": "O profeta Semaías entrega a mensagem de Deus, explicando que a invasão é uma consequência direta do abandono do Senhor por parte de Roboão e do povo. Isso é um chamado ao arrependimento.",
-      "temas": ["profecia", "juízo divino", "abandono de Deus", "arrependimento"],
-      "personagens": ["Semaías", "Roboão", "Príncipes de Judá", "Senhor", "Sisaque"]
+      "parafrase": "Os líderes de Israel e o próprio rei, ao ouvirem essa dura verdade, humilharam-se profundamente e reconheceram a justiça de Deus, proferindo juntos a declaração: 'O Senhor é justo!'.",
+      "referencias": [
+        "Miquéias 6:8",
+        "Salmos 7:4"
+      ],
+      "comentario": "Este é um momento raro de reconhecimento sincero no livro. A frase hebraica 'YaHWeH tsaddiq' (O Senhor é justo) indica a aceitação da soberania e da moralidade perfeita de Deus, mesmo em meio à calamidade. A humilhação (em hebraico, 'shachav') é física e espiritual.",
+      "temas": [
+        "Humilhação",
+        "Reconhecimento da Justiça",
+        "Soberania de Deus"
+      ],
+      "personagens": [
+        "Roboão",
+        "Líderes de Israel"
+      ]
     },
     "6": {
-      "parafrase": "Então os príncipes de Israel e o rei se humilharam e disseram: 'O Senhor é justo.'",
-      "referencias": [],
-      "comentario": "Roboão e os príncipes se humilham e reconhecem a justiça de Deus em seu juízo, demonstrando um arrependimento genuíno. Esta é uma resposta positiva à advertência divina.",
-      "temas": ["humilhação", "arrependimento", "justiça divina"],
-      "personagens": ["Príncipes de Israel", "Roboão", "Senhor"]
+      "parafrase": "Vendo que o povo havia se arrependido verdadeiramente, o profeta Semaías transmitiu a palavra de Deus mais uma vez, instruindo-os: 'Como vocês se humilharam perante o Senhor, Eu não permitirei que Sisaque destrua totalmente vocês, mas eles servirão a vocês, e o meu juízo será revelado no Egito, para que aprendam a diferença entre me servir e servir aos poderes terrenos'.",
+      "referencias": [
+        "Jonas 3:10",
+        "Isaías 45:1-3"
+      ],
+      "comentario": "Aqui, o arrependimento genuíno (humilhação) impede o aniquilamento total. Deus muda o curso do juízo, mas não o cancela por completo; a servidão temporária ao Egito servirá como lição permanente ('para que conheçam o meu serviço').",
+      "temas": [
+        "Misericórdia",
+        "Arrependimento Genuíno",
+        "Lições de Vida"
+      ],
+      "personagens": [
+        "Semaías",
+        "Sisaque"
+      ]
     },
     "7": {
-      "parafrase": "Quando o Senhor viu que eles se humilharam, a palavra do Senhor veio a Semaías, dizendo: 'Eles se humilharam; por isso, não os destruirei, mas lhes darei algum livramento, e a minha ira não será derramada sobre Jerusalém pela mão de Sisaque.'",
-      "referencias": [],
-      "comentario": "Deus, em Sua misericórdia, responde ao arrependimento do povo, prometendo um livramento parcial e não a destruição completa de Jerusalém. Isso demonstra a compaixão de Deus em meio ao juízo.",
-      "temas": ["misericórdia divina", "livramento parcial", "arrependimento", "compaixão"],
-      "personagens": ["Senhor", "Semaías", "Sisaque"]
+      "parafrase": "Então, Sisaque e seu exército vieram, tomaram os tesouros e os bens preciosos que Roboão havia guardado no templo do Senhor e nos aposentos reais. Levaram tudo, inclusive os escudos de ouro que Salomão havia feito para a glória do Senhor.",
+      "referencias": [
+        "1 Reis 10:16-17",
+        "Amós 8:4-6"
+      ],
+      "comentario": "Este é o custo tangível do pecado e do arrependimento. O tesouro acumulado por Salomão, símbolo da prosperidade da aliança, é saqueado. Os 'escudos de ouro' de Salomão (v. 1 Reis 10:16) são levados como um símbolo da perda da glória divina visível.",
+      "temas": [
+        "Saque",
+        "Tesouros do Templo",
+        "Perda Material"
+      ],
+      "personagens": [
+        "Sisaque",
+        "Roboão",
+        "Salomão"
+      ]
     },
     "8": {
-      "parafrase": "'No entanto, eles se tornarão seus servos, para que saibam a diferença entre o meu serviço e o serviço dos reinos das terras.'",
-      "referencias": [],
-      "comentario": "O livramento parcial de Deus inclui a servidão a Sisaque, para que o povo de Judá aprenda a diferença entre servir a Deus e servir aos reinos pagãos. A servidão é uma lição sobre a soberania de Deus.",
-      "temas": ["servidão", "lição divina", "soberania de Deus"],
-      "personagens": []
+      "parafrase": "Roboão, percebendo a gravidade da situação, substituiu os escudos de ouro originais por réplicas de bronze, que ele entregou à guarda da casa real, em vez dos originais feitos de metal precioso que haviam sido pilhados.",
+      "referencias": [
+        "2 Reis 18:15-16",
+        "Provérbios 13:7"
+      ],
+      "comentario": "A substituição por bronze é um ato de desespero e autoengano. O bronze é materialmente inferior ao ouro, simbolizando que a honra de Roboão agora era uma imitação, uma fachada. O poder real não podia mais ostentar a glória do Senhor em sua plenitude.",
+      "temas": [
+        "Falsidade",
+        "Substituição",
+        "Honra Humana"
+      ],
+      "personagens": [
+        "Roboão"
+      ]
     },
     "9": {
-      "parafrase": "Sisaque, rei do Egito, subiu contra Jerusalém e levou os tesouros da casa do Senhor e os tesouros da casa do rei. Ele levou tudo. Ele também levou os escudos de ouro que Salomão havia feito.",
-      "referencias": ["1 Reis 14:26"],
-      "comentario": "Sisaque saqueia os tesouros do Templo e do palácio, incluindo os escudos de ouro de Salomão, que eram símbolos da glória e da riqueza de Judá. Isso é uma humilhação e uma perda significativa.",
-      "temas": ["saque", "humilhação", "perda", "símbolos de glória"],
-      "personagens": ["Sisaque", "Salomão", "Senhor"]
+      "parafrase": "O faraó Sisaque empreendeu a campanha contra Jerusalém, e Deus permitiu isso. Ele tomou todos os tesouros do Egito, incluindo os que pertenciam ao templo e os que estavam no palácio, inclusive os carros e os cavalos que eram a força do exército egípcio.",
+      "referencias": [
+        "Isaías 10:7",
+        "Gênesis 50:15-21"
+      ],
+      "comentario": "Este versículo reforça a soberania de Deus. Mesmo o saqueador, Sisaque, é uma ferramenta nas mãos de Deus. O texto é ligeiramente redundante (mencionando o saque novamente), mas a intenção é enfatizar que *tudo* que Sisaque tomou, veio sob a permissão divina para fins de disciplina.",
+      "temas": [
+        "Soberania de Deus",
+        "Instrumento de Julgamento",
+        "Consequências"
+      ],
+      "personagens": [
+        "Sisaque"
+      ]
     },
     "10": {
-      "parafrase": "Em seu lugar, o rei Roboão fez escudos de bronze e os entregou nas mãos dos chefes da guarda que guardavam a porta da casa do rei.",
-      "referencias": ["1 Reis 14:27"],
-      "comentario": "Roboão substitui os escudos de ouro por escudos de bronze, um sinal visível da diminuição da glória e da riqueza de Judá. A substituição simboliza a perda de prestígio.",
-      "temas": ["diminuição da glória", "perda de riqueza", "símbolo"],
-      "personagens": ["Roboão"]
+      "parafrase": "O Senhor havia determinado que a punição deveria vir, mas Ele poupou Roboão de uma destruição total, pois havia algo de bom sendo procurado em seu coração no momento da crise.",
+      "referencias": [
+        "Salmos 103:13-14",
+        "Lamentações 3:22-23"
+      ],
+      "comentario": "Este versículo é crucial para entender a teologia da misericórdia. A 'coisa boa' (tovah) é o arrependimento visto no versículo 5. Deus mede a punição pela capacidade de resposta do coração humano. A clemência é baseada na contrição, não no mérito acumulado.",
+      "temas": [
+        "Misericórdia Condicional",
+        "Coração Reto",
+        "Punição Medida"
+      ],
+      "personagens": [
+        "Roboão"
+      ]
     },
     "11": {
-      "parafrase": "Sempre que o rei entrava na casa do Senhor, os guardas vinham e os carregavam, e depois os devolviam à sala da guarda.",
-      "referencias": [],
-      "comentario": "Os escudos de bronze são usados pelos guardas, mas sua função é mais cerimonial do que prática, refletindo a mudança na situação de Judá.",
-      "temas": ["cerimonial", "mudança de situação"],
-      "personagens": ["Rei", "Senhor"]
+      "parafrase": "E assim, a palavra do Senhor se cumpriu, e Roboão e a nação foram disciplinados, mas não destruídos. Roboão reinou por mais tempo, e, embora o começo de seu reinado tenha sido marcado por erros graves, a crise o levou a uma postura mais submissa.",
+      "referencias": [
+        "Provérbios 3:11-12",
+        "Hebreus 12:5-6"
+      ],
+      "comentario": "O fim do reinado de Roboão é caracterizado pela disciplina estabelecida. A disciplina do Senhor é vista como um ato de amor paternal (comparável a Hebreus 12:5-6), que visa a correção, não a aniquilação.",
+      "temas": [
+        "Disciplina",
+        "Correção",
+        "Continuidade do Reinado"
+      ],
+      "personagens": [
+        "Roboão"
+      ]
     },
     "12": {
-      "parafrase": "Quando ele se humilhou, a ira do Senhor se desviou dele, e ele não o destruiu completamente. Pois também em Judá havia coisas boas.",
-      "referencias": [],
-      "comentario": "A humilhação de Roboão e do povo resulta no desvio da ira de Deus e na preservação de Judá da destruição completa. A presença de 'coisas boas' (fidelidade remanescente) em Judá também contribui para a misericórdia divina.",
-      "temas": ["humilhação", "misericórdia divina", "preservação", "fidelidade remanescente"],
-      "personagens": ["Senhor"]
+      "parafrase": "Apesar de tudo, o coração de Roboão não se endureceu completamente contra Deus, pois ele se humilhou no momento da aflição. Por isso, a ira do Senhor não se abateu completamente sobre Judá, e não houve destruição total em Jerusalém, como Ele havia advertido.",
+      "referencias": [
+        "2 Reis 18:12",
+        "2 Pedro 3:9"
+      ],
+      "comentario": "O contraste é feito com Acabe ou outros reis que endureceram o coração. Roboão demonstra um lampejo de 'bom' (tovah) ao reconhecer a fonte da sua dor. Isso impede o juízo final, mostrando que a porta para a reversão está sempre aberta enquanto houver contrição.",
+      "temas": [
+        "Contrição",
+        "Graça Preservadora",
+        "Diferença entre Reis"
+      ],
+      "personagens": [
+        "Roboão"
+      ]
     },
     "13": {
-      "parafrase": "O rei Roboão se fortaleceu em Jerusalém e reinou. Roboão tinha quarenta e um anos quando começou a reinar, e reinou dezessete anos em Jerusalém, a cidade que o Senhor havia escolhido de todas as tribos de Israel para pôr o seu nome ali. O nome de sua mãe era Naamá, a amonita.",
-      "referencias": ["1 Reis 14:21"],
-      "comentario": "Roboão continua a reinar em Jerusalém, e a duração de seu reinado é especificada. A menção de sua mãe amonita pode ser uma explicação para sua inclinação à idolatria.",
-      "temas": ["reinado", "duração", "influência materna"],
-      "personagens": ["Roboão", "Senhor", "Naamá"]
+      "parafrase": "Com isso, Roboão se fortaleceu em Jerusalém e continuou a governar. Seu reinado durou um total de dezessete anos. Ele foi um rei de ações mistas, pois iniciou mal, mas terminou com um grau de submissão a Deus.",
+      "referencias": [
+        "1 Reis 14:21",
+        "Eclesiastes 7:2"
+      ],
+      "comentario": "O versículo sumariza a duração do reinado (dezessete anos, conforme 1 Reis 14:21). O fato de ele 'fortalecer-se' (hizzeq) novamente indica que ele recuperou o controle político, mas a base de seu governo agora era mais cautelosa, embora ainda imperfeita.",
+      "temas": [
+        "Duração do Reinado",
+        "Governo Misto",
+        "Fortalecimento Político"
+      ],
+      "personagens": [
+        "Roboão"
+      ]
     },
     "14": {
-      "parafrase": "Ele fez o que era mau, porque não preparou seu coração para buscar o Senhor.",
-      "referencias": [],
-      "comentario": "A avaliação final do reinado de Roboão é negativa: ele fez o que era mau porque não se dedicou a buscar o Senhor. Isso enfatiza a importância da busca sincera por Deus.",
-      "temas": ["maldade", "falta de busca por Deus", "coração não preparado"],
-      "personagens": ["Roboão", "Senhor"]
+      "parafrase": "Contudo, é importante notar que Roboão falhou em remover os locais de culto pagãos e altares secretos que haviam sido erguidos para a idolatria em Judá. Ele não conseguiu erradicar completamente a corrupção religiosa do povo.",
+      "referencias": [
+        "2 Crônicas 14:3",
+        "2 Reis 15:4"
+      ],
+      "comentario": "Este é o ponto fraco persistente: a reforma de Roboão foi reativa (após o desastre) e incompleta. Ele não removeu os 'lugares altos' (bamot), que eram centros de sincretismo religioso, o que prenunciava problemas futuros para seu reino.",
+      "temas": [
+        "Idolatria Persistente",
+        "Reforma Incompleta",
+        "Lugares Altos"
+      ],
+      "personagens": [
+        "Roboão"
+      ]
     },
     "15": {
-      "parafrase": "Os demais atos de Roboão, os primeiros e os últimos, não estão escritos no livro do profeta Semaías e de Ido, o vidente, nas genealogias? E houve guerras contínuas entre Roboão e Jeroboão.",
-      "referencias": ["1 Reis 14:29-30"],
-      "comentario": "O narrador faz referência a outras fontes para mais informações sobre o reinado de Roboão, e menciona as guerras contínuas entre ele e Jeroboão, que marcaram o período da divisão do reino.",
-      "temas": ["registro histórico", "referência", "guerras"],
-      "personagens": ["Roboão", "Semaías", "Ido", "Jeroboão"]
+      "parafrase": "Quanto aos demais feitos de Roboão, desde o início até o fim de seu governo, tudo está detalhado nos registros históricos escritos pelos profetas Semaías e também pelo vidente Ido, que mantinha registros genealógicos e das crônicas dos reis.",
+      "referencias": [
+        "2 Crônicas 13:22",
+        "1 Crônicas 29:29"
+      ],
+      "comentario": "O autor remete o leitor às fontes primárias (registros proféticos). Semaías e Ido (Jeremias e Ido, conforme 1 Reis 14:21) são apresentados como os historiadores oficiais da época, garantindo a autenticidade do relato.",
+      "temas": [
+        "Fontes Históricas",
+        "Crônicas Reais",
+        "Registro Bíblico"
+      ],
+      "personagens": [
+        "Semaías",
+        "Ido"
+      ]
     },
     "16": {
-      "parafrase": "Roboão dormiu com seus pais e foi sepultado na Cidade de Davi. Abias, seu filho, reinou em seu lugar.",
-      "referencias": ["1 Reis 14:31"],
-      "comentario": "A morte de Roboão e a ascensão de seu filho Abias marcam a sucessão no trono de Judá.",
-      "temas": ["morte", "sepultamento", "sucessão"],
-      "personagens": ["Roboão", "Abias"]
+      "parafrase": "Roboão adormeceu com seus antepassados e foi sepultado na Cidade de Davi. E seu filho Abias, um rei que também não foi inteiramente fiel a Deus, assumiu o trono em seu lugar para continuar a dinastia.",
+      "referencias": [
+        "1 Reis 14:21",
+        "2 Crônicas 13:1-2"
+      ],
+      "comentario": "O versículo finaliza a narrativa de Roboão e estabelece a sucessão. A fórmula 'dormiu com seus pais' é padrão, indicando a morte natural. A nota sobre Abias já preparando o terreno para o próximo ciclo de falhas e acertos reais é um recurso narrativo recorrente.",
+      "temas": [
+        "Sucessão Real",
+        "Morte",
+        "Dinastia de Davi"
+      ],
+      "personagens": [
+        "Roboão",
+        "Abias"
+      ]
     }
   }
 }

@@ -1,239 +1,561 @@
 {
   "livro": "Romanos",
   "capitulo": 9,
-  "contexto_historico": "Ver contexto anterior em Romanos 8. Após celebrar a segurança inabalável do crente em Cristo, Paulo se volta para uma questão dolorosa e teologicamente complexa: o status de Israel. Se a salvação é pela fé em Cristo, e a maioria dos judeus rejeitou a Cristo, isso significa que a promessa de Deus a Israel falhou? Nos capítulos 9 a 11, Paulo aborda essa questão, defendendo a fidelidade e a justiça de Deus, explorando o mistério da soberania divina na eleição e a responsabilidade humana.",
-  "bloco_tematico": "A Soberania de Deus e a Eleição de Israel",
+  "contexto_historico": "O capítulo 9 de Romanos marca uma mudança significativa no tom e no foco da carta de Paulo. Após estabelecer firmemente a justificação pela fé para judeus e gentios em Romanos 1-8, Paulo aborda a questão angustiante da soberania de Deus sobre Israel. Ele se vê compelido a lidar com a aparente rejeição de Israel ao Messias, questionando se a promessa de Deus falhou. Este capítulo é profundamente teológico, tratando da eleição divina, da soberania de Deus na salvação e do mistério da misericórdia e da dureza do coração de Israel, inserindo o povo escolhido no plano redentor universal. É uma defesa apaixonada do caráter imutável de Deus face ao fracasso aparente de uma nação. 🇮🇱✝️🤔",
+  "bloco_tematico": "A Soberania Inquestionável de Deus e o Mistério de Israel 👑🕊️",
   "versiculos": {
     "1": {
-      "parafrase": "Digo a verdade em Cristo, não minto; minha consciência o confirma no Espírito Santo:",
-      "referencias": ["2 Coríntios 11:31"],
-      "comentario": "Paulo começa esta seção com um juramento solene. Ele invoca Cristo, sua própria consciência e o Espírito Santo para atestar a veracidade de seus sentimentos, preparando seus leitores para a declaração emocional que se segue.",
-      "temas": ["sinceridade", "juramento solene", "consciência", "Espírito Santo"],
-      "personagens": ["Paulo", "Cristo", "Espírito Santo"]
+      "parafrase": "Meu coração anseia e se aflige profundamente por meus irmãos, o povo de Israel, meus parentes carnais. Eu clamaria incessantemente aos céus, dia e noite, se isso pudesse mudar o destino deles!",
+      "referencias": [
+        "Atos 9:11",
+        "Romanos 10:1"
+      ],
+      "comentario": "Paulo inicia a seção mais densa de Romanos, a 'Soteriologia de Israel'. A expressão 'grande tristeza e incessante dor no coração' (Lamentação, 'odynēn megalēn' - dor física/agonizante) revela a profundidade de sua angústia pastoral e nacionalista. Ele demonstra uma profunda empatia pelas dificuldades de seu povo em aceitar Jesus.",
+      "temas": [
+        "Angústia de Paulo",
+        "Solidariedade com Israel",
+        "Aflição Pastoral"
+      ],
+      "personagens": [
+        "Paulo",
+        "Israelitas"
+      ]
     },
     "2": {
-      "parafrase": "tenho grande tristeza e incessante dor no meu coração.",
-      "referencias": [],
-      "comentario": "Ele revela a profunda angústia que sente pela condição espiritual de seus compatriotas judeus que rejeitaram o Messias.",
-      "temas": ["tristeza", "dor", "amor pelo povo"],
-      "personagens": []
+      "parafrase": "Sinto uma dor tão imensa que eu seria capaz de pedir a Deus que me amaldiçoasse e me afastasse permanentemente da salvação, contanto que Ele pudesse restaurar a glória e a bênção de Israel.",
+      "referencias": [
+        "Êxodo 32:32",
+        "Gálatas 4:19"
+      ],
+      "comentario": "Este é um dos momentos mais dramáticos da literatura paulina. O desejo de ser 'anathema' (amaldiçoado, separado para destruição) por Cristo, em favor de seus irmãos, espelha o sacrifício mosaico (Êxodo 32:32). Isso mostra que, para Paulo, o chamado de Israel era tão vital que ele quase o colocava acima de sua própria redenção pessoal, embora ele próprio estivesse redimido.",
+      "temas": [
+        "Sacrifício Pessoal",
+        "Maldição Voluntária",
+        "Dilema Nacional"
+      ],
+      "personagens": [
+        "Paulo",
+        "Deus"
+      ]
     },
     "3": {
-      "parafrase": "Pois eu mesmo desejaria ser amaldiçoado e separado de Cristo por amor de meus irmãos, os de minha raça segundo a carne,",
-      "referencias": ["Êxodo 32:32"],
-      "comentario": "Esta é uma das expressões de amor sacrificial mais fortes da Bíblia. Ecoando Moisés, Paulo afirma que estaria disposto a trocar sua própria salvação pela deles, se isso fosse possível. Isso demonstra a profundidade de seu amor e refuta qualquer acusação de que ele era anti-judaico.",
-      "temas": ["amor sacrificial", "intercessão", "paixão evangelística"],
-      "personagens": ["Paulo", "Cristo"]
+      "parafrase": "Pois, se pudesse, eu trocaria meu lugar com eles! Afinal, eles são meu povo, meus próprios parentes de sangue, aqueles que foram agraciados com privilégios divinos sem igual.",
+      "referencias": [
+        "Êxodo 4:22",
+        "Deuteronômio 4:7"
+      ],
+      "comentario": "Paulo reafirma o vínculo irrompível com Israel. Ele lista as 'adoções' ('huiothesian' - ato legal de ser feito filho), a glória, as alianças (Pacto), a legislação (Torá), o serviço sagrado (culto) e as promessas messiânicas.",
+      "temas": [
+        "Privilégios de Israel",
+        "Parentesco Carnal",
+        "Aliança Divina"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "4": {
-      "parafrase": "que são israelitas. A eles pertencem a adoção como filhos, a glória divina, as alianças, a concessão da Lei, a adoração no Templo e as promessas.",
-      "referencias": ["Êxodo 4:22", "Deuteronômio 7:6"],
-      "comentario": "Paulo lista os imensos privilégios que Deus concedeu a Israel. Eles foram adotados como povo de Deus, testemunharam Sua glória (Shekinah), receberam as alianças (abraâmica, mosaica, davídica), a Lei, o sistema de adoração e as promessas messiânicas. Isso torna a incredulidade deles ainda mais trágica.",
-      "temas": ["privilégios de Israel", "eleição nacional", "história da salvação"],
-      "personagens": []
+      "parafrase": "A eles pertence a filiação divina, a honra de serem o povo escolhido; a eles foi entregue a Lei de Deus, o sistema de adoração, e a eles foram dadas as promessas grandiosas que Deus fez aos Patriarcas.",
+      "referencias": [
+        "Miqueias 7:20",
+        "Salmos 147:19"
+      ],
+      "comentario": "Esta lista detalha a herança única de Israel. A 'glória' ('doxa') se refere à Presença manifesta de Deus (como a Shekinah); as 'alianças' ('diathēkai') incluem Noé, Abraão, Moisés e Davi. O 'culto' ('latreia') refere-se ao serviço levítico no Templo.",
+      "temas": [
+        "Herança Israelita",
+        "Alianças",
+        "Promessas Patriarcais"
+      ],
+      "personagens": [
+        "Patriarcas"
+      ]
     },
     "5": {
-      "parafrase": "Deles são os patriarcas, e deles descende o Cristo segundo a carne, o qual é sobre todos, Deus bendito para sempre. Amém.",
-      "referencias": ["João 1:1", "Hebreus 1:8"],
-      "comentario": "O maior privilégio de Israel foi ser a linhagem humana da qual o Messias veio. Paulo conclui a lista com uma clara declaração da divindade de Cristo, chamando-o de 'Deus bendito para sempre'.",
-      "temas": ["patriarcas", "linhagem de Cristo", "divindade de Cristo"],
-      "personagens": ["Patriarcas", "Cristo", "Deus"]
+      "parafrase": "Eles são os descendentes dos grandes patriarcas, e, o mais crucial de tudo, o próprio Cristo, em Sua humanidade, veio deles, Aquele que é o Soberano Absoluto sobre todas as coisas, bendito para sempre, amém!",
+      "referencias": [
+        "Gênesis 49:10",
+        "João 1:14"
+      ],
+      "comentario": "O ápice da distinção de Israel: a linhagem messiânica. Cristo ('Christos') é chamado de 'ho epi pantōn Theos eulogētos' – 'o Deus sobre todas as coisas, abençoado eternamente'. Isso estabelece a divindade de Cristo e a importância histórica de Israel como canal da revelação.",
+      "temas": [
+        "Origem de Cristo",
+        "Divindade de Cristo",
+        "Soberania Divina"
+      ],
+      "personagens": [
+        "Cristo",
+        "Patriarcas"
+      ]
     },
     "6": {
-      "parafrase": "Não que a palavra de Deus tenha falhado. Pois nem todos os que descendem de Israel são, de fato, Israel.",
-      "referencias": ["Romanos 2:28-29"],
-      "comentario": "Paulo aborda a questão central: a incredulidade de Israel significa que a promessa de Deus falhou? Sua resposta é não. Ele resolve o problema fazendo uma distinção crucial entre o Israel étnico (todos os descendentes físicos de Jacó) e o Israel espiritual (o verdadeiro remanescente que crê). A promessa de Deus nunca foi para todos os descendentes físicos indiscriminadamente.",
-      "temas": ["fidelidade de Deus", "Israel étnico vs. espiritual", "remanescente fiel"],
-      "personagens": ["Deus", "Israel"]
+      "parafrase": "No entanto, isto não significa que a Palavra de Deus falhou ou que Sua promessa foi quebrada. Porque nem todos os que descendem fisicamente de Jacó são verdadeiramente o Israel de Deus.",
+      "referencias": [
+        "Números 23:19",
+        "Romanos 3:3"
+      ],
+      "comentario": "Esta é a primeira grande resposta à objeção: 'Deus falhou?'. Paulo introduz a distinção crucial entre Israel étnico ('sarkikoi') e Israel espiritual ('pneumatikos' ou 'verdadeiro Israel'). Deus não erra em Suas promessas, mas a identidade de quem as herda é definida pela fé, não apenas pelo sangue.",
+      "temas": [
+        "Fidelidade de Deus",
+        "Israel Espiritual",
+        "Eleição"
+      ],
+      "personagens": []
     },
     "7": {
-      "parafrase": "Nem por serem descendentes de Abraão são todos seus filhos; mas, ao contrário: \"Em Isaque será chamada a sua descendência.\"",
-      "referencias": ["Gênesis 21:12", "Gálatas 4:28"],
-      "comentario": "Ele usa o primeiro exemplo para provar seu ponto. Abraão teve outros filhos (como Ismael), mas a linhagem da promessa foi estabelecida soberanamente através de Isaque. A descendência física não garantia a bênção.",
-      "temas": ["eleição soberana", "promessa", "Isaque e Ismael"],
-      "personagens": ["Abraão", "Isaque"]
+      "parafrase": "Nem todos os que são descendentes de Abraão são, de fato, seus verdadeiros filhos no sentido prometido. A promessa divina sempre se concentrou na linha de Isaque, e não em todos os filhos que Abraão gerou.",
+      "referencias": [
+        "Gênesis 21:12",
+        "Gálatas 4:28"
+      ],
+      "comentario": "Paulo usa o primeiro exemplo de distinção: Abraão teve Ismael, mas a aliança prosseguiu através de Isaque. Isso ilustra que a eleição de Deus opera seletivamente dentro de uma linhagem aparente, baseada no propósito divino, não na descendência biológica universal.",
+      "temas": [
+        "Eleição Divina",
+        "Linhagem de Isaque",
+        "Discernimento da Promessa"
+      ],
+      "personagens": [
+        "Abraão",
+        "Isaque",
+        "Ismael"
+      ]
     },
     "8": {
-      "parafrase": "Isto é, não são os filhos da carne que são filhos de Deus, mas os filhos da promessa é que são contados como descendência.",
-      "referencias": [],
-      "comentario": "Paulo esclarece o princípio: a filiação a Deus não é uma questão de herança natural, mas de ser um filho da promessa, o que é determinado pela escolha soberana de Deus.",
-      "temas": ["filhos da promessa", "filiação espiritual", "soberania de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Para ser claro: não são os filhos nascidos naturalmente que são os verdadeiros filhos de Deus; são os filhos que nascem da promessa divina, estes sim, que são contados como a descendência de Abraão.",
+      "referencias": [
+        "Gênesis 18:10",
+        "Hebreus 11:18"
+      ],
+      "comentario": "A linha de raciocínio é reforçada: a chave é o nascimento 'segundo a promessa' (como Isaque), e não o nascimento 'segundo a carne' (como Ismael). A promessa de Deus é cumprida através da fé que gera nova vida, não pela biologia.",
+      "temas": [
+        "Nascimento pela Promessa",
+        "Diferença entre Carne e Espírito",
+        "Descendência da Fé"
+      ],
+      "personagens": [
+        "Abraão"
+      ]
     },
     "9": {
-      "parafrase": "Pois a palavra da promessa é esta: \"Por este tempo voltarei, e Sara terá um filho.\"",
-      "referencias": ["Gênesis 18:10"],
-      "comentario": "Ele cita a promessa específica que resultou no nascimento milagroso de Isaque, mostrando que sua existência foi um ato da intervenção soberana de Deus, não da capacidade humana.",
-      "temas": ["promessa", "nascimento milagroso"],
-      "personagens": ["Sara"]
+      "parafrase": "Pois a Palavra que expressa o plano de Deus era: 'Voltarei em tempo determinado, e Sara terá um filho!' A promessa era aquela que gerava a fé salvadora.",
+      "referencias": [
+        "Gênesis 18:10",
+        "Hebreus 11:11"
+      ],
+      "comentario": "Citação direta de Gênesis 18:10. Paulo enfatiza que a origem de Isaque não foi um evento natural, mas um milagre ligado à Palavra de Deus, provando que a eleição é soberana e não dependente da capacidade humana.",
+      "temas": [
+        "Milagre",
+        "Soberania da Palavra",
+        "Fé e Promessa"
+      ],
+      "personagens": [
+        "Sara"
+      ]
     },
     "10": {
-      "parafrase": "E não somente isso, mas também Rebeca concebeu de um só homem, nosso pai Isaque.",
-      "referencias": [],
-      "comentario": "Paulo apresenta um segundo exemplo, ainda mais forte. No caso de Jacó e Esaú, eles não apenas tinham o mesmo pai (Isaque), mas também a mesma mãe (Rebeca) e nasceram ao mesmo tempo.",
-      "temas": ["exemplo de Jacó e Esaú", "eleição"],
-      "personagens": ["Rebeca", "Isaque"]
+      "parafrase": "E a demonstração dessa escolha soberana não parou aí. Houve outra situação semelhante envolvendo Rebeca, nossa matriarca, que concebeu gêmeos de um só homem, nosso antepassado Isaque.",
+      "referencias": [
+        "Gênesis 25:21-23",
+        "Malaquias 1:2-3"
+      ],
+      "comentario": "Paulo introduz o segundo exemplo, crucial para a doutrina da predestinação: Jacó e Esaú. Eles eram irmãos, concebidos simultaneamente pelo mesmo pai (Isaque), mas o destino divino de um foi diferente do outro.",
+      "temas": [
+        "Predestinação",
+        "Escolha Antes do Nascimento",
+        "Irmãos Gêmeos"
+      ],
+      "personagens": [
+        "Rebeca",
+        "Isaque"
+      ]
     },
     "11": {
-      "parafrase": "Contudo, antes que os gêmeos nascessem ou fizessem qualquer bem ou mal — para que o propósito de Deus segundo a eleição permanecesse firme,",
-      "referencias": [],
-      "comentario": "Este é o ponto crucial do argumento. A escolha de Deus entre Jacó e Esaú foi feita antes de eles nascerem, antes que pudessem ter feito qualquer coisa para merecer ou desmerecer o favor de Deus. Isso foi para deixar claro que a salvação se baseia no propósito eletivo de Deus.",
-      "temas": ["eleição incondicional", "propósito de Deus", "soberania"],
-      "personagens": ["Deus"]
+      "parafrase": "Antes mesmo que os bebês tivessem nascido, e antes que pudessem fazer qualquer coisa boa ou má, o propósito de Deus sobre quem seria o escolhido já estava estabelecido.",
+      "referencias": [
+        "Deuteronômio 32:5",
+        "Efésios 1:4"
+      ],
+      "comentario": "O ponto central da eleição incondicional: 'para que o propósito de Deus, segundo a eleição, permanecesse firme, não por causa das obras, mas por Aquele que chama'. Isso remove qualquer mérito humano da escolha divina.",
+      "temas": [
+        "Eleição Incondicional",
+        "Propósito Divino",
+        "Mérito Humano vs. Chamado Divino"
+      ],
+      "personagens": [
+        "Jacó",
+        "Esaú"
+      ]
     },
     "12": {
-      "parafrase": "não por obras, mas por aquele que chama — foi dito a ela: \"O mais velho servirá ao mais novo.\"",
-      "referencias": ["Gênesis 25:23"],
-      "comentario": "A escolha de Deus inverteu a ordem natural e cultural, onde o mais velho tinha o direito da primogenitura. A decisão foi baseada unicamente na vontade soberana daquele que chama, não nas obras ou méritos dos escolhidos.",
-      "temas": ["graça soberana", "chamado de Deus"],
-      "personagens": []
+      "parafrase": "Foi-lhe dito a Rebeca: 'O mais velho servirá ao mais novo'. Ou seja, o primogênito (Esaú) seria sujeito ao mais novo (Jacó), para deixar claro qual era a escolha de Deus.",
+      "referencias": [
+        "Gênesis 25:23",
+        "Salmos 89:27"
+      ],
+      "comentario": "Referência direta a Gênesis 25:23. Paulo usa o fato de que Esaú, o primogênito (que por lei herdaria o direito duplo), foi preterido em favor de Jacó, o segundo. A escolha é baseada na vontade chamadora de Deus.",
+      "temas": [
+        "Primogenitura",
+        "Hierarquia Invertida",
+        "Vontade Chamadora"
+      ],
+      "personagens": [
+        "Rebeca",
+        "Esaú",
+        "Jacó"
+      ]
     },
     "13": {
-      "parafrase": "Como está escrito: \"Amei a Jacó, mas odiei a Esaú.\"",
-      "referencias": ["Malaquias 1:2-3"],
-      "comentario": "Paulo cita Malaquias para mostrar que essa distinção soberana continuou na história de Israel. 'Amar' e 'odiar', no contexto semítico, não se refere primariamente a emoções, mas a uma escolha e uma rejeição. Deus escolheu Jacó e sua descendência para o propósito da aliança e rejeitou Esaú e sua descendência.",
-      "temas": ["eleição e rejeição", "amor eletivo"],
-      "personagens": ["Jacó", "Esaú"]
+      "parafrase": "Isso ecoa o que já estava escrito nas Escrituras: 'A Jacó Eu amei, mas a Esaú Eu desprezei' 💔.",
+      "referencias": [
+        "Malaquias 1:2-3",
+        "Deuteronômio 7:7"
+      ],
+      "comentario": "Citação de Malaquias 1:2-3. O termo grego 'eseēsa' (desprezei/odiei) é forte. Não significa ódio pecaminoso, mas sim a escolha preferencial e a rejeição da aliança pelo outro. Deus ama um (Jacó) para conceder-lhe a bênção, e não ama o outro (Esaú) no mesmo sentido de aliança.",
+      "temas": [
+        "Amor Preferencial",
+        "Desprezo Divino (no contexto de aliança)",
+        "Escrituras Proféticas"
+      ],
+      "personagens": [
+        "Jacó",
+        "Esaú"
+      ]
     },
     "14": {
-      "parafrase": "Que diremos, então? Há injustiça da parte de Deus? De maneira nenhuma!",
-      "referencias": [],
-      "comentario": "Paulo antecipa a objeção mais óbvia à doutrina da eleição soberana: isso não é injusto? Sua resposta é uma negação enfática. A justiça de Deus não pode ser medida pelos padrões humanos.",
-      "temas": ["justiça de Deus", "objeção à eleição"],
-      "personagens": ["Deus"]
+      "parafrase": "Então, podemos perguntar: Deus está sendo injusto? Seria possível acusá-Lo de ser parcial ao escolher Jacó e não Esaú? De modo algum!",
+      "referencias": [
+        "Romanos 3:5",
+        "Jó 34:17"
+      ],
+      "comentario": "Paulo antecipa a objeção moral à soberania divina. Se Deus escolhe baseado apenas em Seu querer, Ele é injusto? A resposta imediata é um veemente 'mil vezes não!' ('mē genoito').",
+      "temas": [
+        "Injustiça Divina (refutação)",
+        "Soberania e Justiça",
+        "Objeções Teológicas"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "15": {
-      "parafrase": "Pois ele diz a Moisés: \"Terei misericórdia de quem eu tiver misericórdia e terei compaixão de quem eu tiver compaixão.\"",
-      "referencias": ["Êxodo 33:19"],
-      "comentario": "Para defender a justiça de Deus, Paulo cita a própria declaração de Deus a Moisés. A misericórdia, por sua própria natureza, não é uma obrigação. Deus é livre e soberano para conceder Sua misericórdia a quem Ele quiser. Se Deus fosse obrigado a ser misericordioso com todos, não seria misericórdia, seria justiça.",
-      "temas": ["misericórdia soberana", "liberdade de Deus"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "Porque Deus tem todo o direito de ser misericordioso com quem Lhe apraz. Ele declarou a Moisés: 'Eu terei misericórdia de quem Eu quiser ter misericórdia, e terei compaixão de quem Eu quiser ter compaixão'.",
+      "referencias": [
+        "Êxodo 33:19",
+        "Salmos 106:41"
+      ],
+      "comentario": "Citação de Êxodo 33:19. O argumento é: se Deus decidisse salvar apenas por mérito, Ele seria justo, mas não misericordioso. Como a salvação é um ato de graça, Ele está totalmente livre para dispensá-la como Lhe aprouver.",
+      "temas": [
+        "Misericórdia Divina",
+        "Graça Irrestrita (em quem conceder)",
+        "Liberdade de Deus"
+      ],
+      "personagens": [
+        "Deus",
+        "Moisés"
+      ]
     },
     "16": {
-      "parafrase": "Portanto, isso не depende do desejo ou do esforço do homem, mas da misericórdia de Deus.",
-      "referencias": [],
-      "comentario": "Esta é a conclusão do argumento. A salvação não depende, em última análise, da vontade ou do esforço humano, mas da decisão soberana de Deus de mostrar misericórdia.",
-      "temas": ["salvação pela misericórdia", "soberania de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Portanto, a salvação não depende da vontade humana que deseja alcançá-la, nem do esforço humano que tenta conquistá-la, mas sim exclusivamente da bondade e do querer de Deus.",
+      "referencias": [
+        "Efésios 2:8-9",
+        "João 1:13"
+      ],
+      "comentario": "Este versículo sintetiza a doutrina da monergia na salvação (Deus age sozinho). A vontade ('thelontos' - desejo) e o esforço ('trechontos' - corrida, esforço físico) do homem são irrelevantes para a determinação divina da eleição.",
+      "temas": [
+        "Monergismo",
+        "Rejeição do Esforço Humano",
+        "Soberania da Graça"
+      ],
+      "personagens": []
     },
     "17": {
-      "parafrase": "Pois a Escritura diz ao Faraó: \"Eu o levantei exatamente para isto: para mostrar em você o meu poder e para que o meu nome seja proclamado em toda a terra.\"",
-      "referencias": ["Êxodo 9:16"],
-      "comentario": "Paulo agora apresenta o outro lado da soberania de Deus: a soberania no endurecimento. Ele usa o exemplo do Faraó do Êxodo. Deus soberanamente levantou e endureceu o coração do Faraó com um propósito: demonstrar Seu poder na libertação de Israel e proclamar Sua fama mundialmente.",
-      "temas": ["soberania no endurecimento", "poder de Deus", "glória de Deus"],
-      "personagens": ["Faraó", "Deus"]
+      "parafrase": "A Escritura, em outro trecho, confirma essa soberania, ao falar para o Faraó, o opressor: 'Eu o fiz chegar ao poder exatamente para este propósito: para que Eu pudesse demonstrar Minha força através de você, e para que Meu nome fosse proclamado em toda a Terra!'",
+      "referencias": [
+        "Êxodo 9:16",
+        "Salmos 76:10"
+      ],
+      "comentario": "Paulo usa o segundo exemplo de rejeição: Faraó. Deus não apenas ignorou Faraó, mas o preservou no poder ('egeirō se' - Eu te levantei) para que Sua própria glória fosse manifestada no juízo contra ele. Faraó foi usado como um vaso de ira.",
+      "temas": [
+        "Vaso de Ira",
+        "Glória de Deus Manifesta",
+        "Uso dos Ímpios"
+      ],
+      "personagens": [
+        "Faraó",
+        "Deus"
+      ]
     },
     "18": {
-      "parafrase": "Portanto, ele tem misericórdia de quem quer e endurece a quem quer.",
-      "referencias": [],
-      "comentario": "Paulo resume a doutrina da soberania divina tanto na salvação (misericórdia) quanto na condenação (endurecimento).",
-      "temas": ["soberania divina", "misericórdia", "endurecimento"],
-      "personagens": ["Deus"]
+      "parafrase": "Assim, Deus tem misericórdia de quem Ele quer — os eleitos — e endurece a quem Ele quer endurecer — aqueles que resistem persistentemente ao Seu chamado.",
+      "referencias": [
+        "Isaías 63:17",
+        "Romanos 11:7"
+      ],
+      "comentario": "A conclusão lógica dos dois exemplos (Jacó/Esaú e Faraó/Israel): a misericórdia é ativa e escolhida; o endurecimento é a consequência passiva de Deus permitir que a incredulidade persista até o juízo.",
+      "temas": [
+        "Endurecimento do Coração",
+        "Misericórdia Ativa",
+        "Juízo Divino"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "19": {
-      "parafrase": "Mas algum de vocês me dirá: \"Então, por que Deus ainda nos culpa? Pois quem pode resistir à sua vontade?\"",
-      "referencias": [],
-      "comentario": "Paulo antecipa a segunda grande objeção: se Deus é soberano, como Ele pode responsabilizar os seres humanos por suas ações? Isso parece anular a responsabilidade humana.",
-      "temas": ["objeção à soberania", "responsabilidade humana"],
-      "personagens": ["Deus"]
+      "parafrase": "Com certeza, você me dirá agora: 'Se é assim, por que Deus ainda nos culpa? Afinal, se Ele endureceu o coração do Faraó, quem pode resistir à Sua vontade? E quem pode questionar o que Ele faz?'",
+      "referencias": [
+        "Jó 9:19",
+        "Romanos 11:19"
+      ],
+      "comentario": "A objeção final e mais humana: se Deus determina tudo, a responsabilidade moral humana é anulada. O termo grego para 'culpar' ou 'repreender' sugere uma acusação formal contra Deus.",
+      "temas": [
+        "Responsabilidade Humana",
+        "Culpabilidade",
+        "Resistência à Vontade Divina"
+      ],
+      "personagens": [
+        "O Opositor (Leitor)",
+        "Deus"
+      ]
     },
     "20": {
-      "parafrase": "Mas quem é você, ó homem, para questionar a Deus? Acaso aquilo que é formado pode dizer ao que o formou: \"Por que você me fez assim?\"",
-      "referencias": ["Isaías 29:16", "Isaías 45:9"],
-      "comentario": "A resposta de Paulo não é filosófica, mas teológica. Ele não tenta resolver completamente o mistério, mas repreende a arrogância da criatura em questionar o Criador. Ele usa a analogia do oleiro e do barro para afirmar o direito absoluto de Deus de fazer o que quiser com Sua criação.",
-      "temas": ["repreensão à arrogância", "analogia do oleiro", "direitos do Criador"],
-      "personagens": ["Deus"]
+      "parafrase": "Mas quem é você, ser humano, para debater com Deus? Você é apenas um vaso de barro! Será que o objeto feito pelo oleiro ousaria perguntar: 'Por que você me fez assim?'",
+      "referencias": [
+        "Isaías 29:16",
+        "Jeremias 18:6"
+      ],
+      "comentario": "Paulo usa a metáfora do oleiro ('plasmata' - obra moldada) e do barro ('clay'). O oleiro tem total soberania sobre a matéria-prima para fazer um vaso para honra ou um vaso para desonra. A autoridade do Criador sobre a criatura é absoluta.",
+      "temas": [
+        "Soberania do Criador",
+        "Metáfora do Oleiro",
+        "Submissão da Criatura"
+      ],
+      "personagens": [
+        "Oleiro (Deus)",
+        "Vaso (Homem)"
+      ]
     },
     "21": {
-      "parafrase": "O oleiro não tem direito sobre o barro, para da mesma massa fazer um vaso para uso honroso e outro para uso desonroso?",
-      "referencias": ["Jeremias 18:6"],
-      "comentario": "A analogia continua. O oleiro tem total autoridade para criar diferentes tipos de vasos para diferentes propósitos a partir da mesma massa de barro. Da mesma forma, Deus tem o direito soberano de criar alguns para a salvação (vasos de honra) e outros para a condenação (vasos de desonra).",
-      "temas": ["autoridade do oleiro", "vasos de honra e desonra"],
-      "personagens": ["Oleiro (Deus)"]
+      "parafrase": "Ou, pensando melhor, o oleiro não tem o direito de fazer de uma mesma massa de barro um vaso comum, útil para propósitos triviais, e outro vaso, nobre e especial, destinado a usos de grande honra?",
+      "referencias": [
+        "Isaías 64:8",
+        "Jeremias 18:4"
+      ],
+      "comentario": "A analogia é detalhada: a mesma matéria-prima ('same pelos') pode resultar em vasos com destinos e honras diferentes. Isso se aplica à escolha de Israel para portar a revelação e à inclusão dos gentios.",
+      "temas": [
+        "Vaso de Honra",
+        "Propósitos Diferentes",
+        "Matéria Prima Única"
+      ],
+      "personagens": [
+        "Oleiro",
+        "Vaso"
+      ]
     },
     "22": {
-      "parafrase": "E que diremos se Deus, querendo mostrar a sua ira e tornar conhecido o seu poder, suportou com muita paciência os vasos da ira, preparados para a destruição?",
-      "referencias": [],
-      "comentario": "Paulo aplica a analogia. Deus, em Sua soberania, suporta pacientemente os 'vasos da ira' (aqueles destinados à condenação) com um duplo propósito: demonstrar Sua ira justa contra o pecado e Seu poder.",
-      "temas": ["vasos da ira", "paciência de Deus", "ira e poder de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "E o que acontece se Deus, querendo demonstrar Sua ira e tornar conhecido o Seu poder, suportou com imensa paciência os vasos preparados para a destruição, aqueles destinados à perdição?",
+      "referencias": [
+        "Nahum 1:3",
+        "2 Pedro 3:9"
+      ],
+      "comentario": "Aqui, Paulo explica a paciência com os 'vasos de ira' (como Faraó). Deus os tolera, não para torná-los melhores, mas para que Sua justiça se torne evidente quando Ele finalmente os destrói. A paciência divina precede o juízo revelado.",
+      "temas": [
+        "Paciência com a Ira",
+        "Vaso de Destruição",
+        "Manifestação do Poder"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "23": {
-      "parafrase": "Ele fez isso para tornar conhecidas as riquezas da sua glória para com os vasos da misericórdia, que de antemão preparou para a glória,",
-      "referencias": ["Efésios 1:4-6"],
-      "comentario": "O propósito final de Deus em tudo isso é magnificar as riquezas de Sua glória e misericórdia para com os Seus eleitos (os vasos da misericórdia), que Ele preparou de antemão para a glória.",
-      "temas": ["vasos da misericórdia", "glória de Deus", "misericórdia"],
-      "personagens": ["Deus"]
+      "parafrase": "Ele fez isso para que pudesse tornar visível a riqueza da Sua glória para os vasos que preparou para receber a misericórdia. Estes são os vasos que Ele já havia preparado desde muito tempo para a glória eterna!",
+      "referencias": [
+        "Efésios 2:7",
+        "Colossenses 1:27"
+      ],
+      "comentario": "O contraste final: vasos de ira (mostram o poder no juízo) versus vasos de misericórdia (mostram a glória na salvação). Os vasos de misericórdia são os eleitos, preparados ('proētoimasa') para receberem a glória, um ato de graça já planejado.",
+      "temas": [
+        "Vasos de Misericórdia",
+        "Glória Eterna",
+        "Preparação Divina"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "24": {
-      "parafrase": "a saber, a nós, a quem também chamou, não só dentre os judeus, mas também dentre os gentios.",
-      "referencias": [],
-      "comentario": "Paulo esclarece que esses vasos da misericórdia não são exclusivamente de Israel, mas são chamados tanto de entre os judeus quanto de entre os gentios.",
-      "temas": ["igreja de judeus e gentios", "chamado eficaz"],
-      "personagens": []
+      "parafrase": "Esses vasos de misericórdia são nós, tanto os judeus que creem, quanto os gentios que Deus chamou para Sua aliança!",
+      "referencias": [
+        "Romanos 1:16",
+        "Efésios 2:11-13"
+      ],
+      "comentario": "Paulo aplica a analogia diretamente à igreja. A 'chamada' ('ekalesen') não se restringe à etnia, mas abrange judeus crentes e gentios crentes, unificados como o 'Israel espiritual' de Deus.",
+      "temas": [
+        "Inclusão dos Gentios",
+        "Unidade da Igreja",
+        "Chamado Universal"
+      ],
+      "personagens": [
+        "Judeus Crentes",
+        "Gentios Crentes"
+      ]
     },
     "25": {
-      "parafrase": "Como ele diz em Oseias: \"Chamarei de 'meu povo' a quem não era meu povo; e chamarei de 'amada' a quem não era amada.\"",
-      "referencias": ["Oseias 2:23"],
-      "comentario": "Paulo agora cita o Antigo Testamento para provar que a inclusão dos gentios sempre fez parte do plano de Deus. Ele cita Oseias, que originalmente se referia à restauração do Israel infiel, e o aplica à inclusão dos gentios.",
-      "temas": ["inclusão dos gentios", "cumprimento profético"],
-      "personagens": ["Deus"]
+      "parafrase": "É exatamente o que Ele disse através do profeta Oseias, há séculos: 'Eu chamarei de Meu povo àqueles que não eram Meu povo; e a quem não amava, Eu a amarei com profundo amor!'",
+      "referencias": [
+        "Oseias 2:23",
+        "1 Pedro 2:10"
+      ],
+      "comentario": "Citação final de Oseias 2:23. Oseias falava sobre restaurar a descendência de Lo-Ruama (Não-Amada) e transformar Lo-Ami (Não-Meu Povo) em filhos de Deus. Paulo usa isso para justificar a inclusão dos gentios no plano redentor, provando que este não é um plano novo, mas a consumação da promessa antiga.",
+      "temas": [
+        "Profecia de Oseias",
+        "Chamado dos Gentios",
+        "Amor Redentor"
+      ],
+      "personagens": [
+        "Oseias"
+      ]
     },
     "26": {
-      "parafrase": "E: \"Acontecerá que, no mesmo lugar em que se lhes disse: 'Vocês não são meu povo', eles serão chamados 'filhos do Deus vivo.'\"",
-      "referencias": ["Oseias 1:10"],
-      "comentario": "A citação de Oseias continua, reforçando a ideia da adoção graciosa de Deus daqueles que antes estavam de fora.",
-      "temas": ["adoção", "filhos de Deus"],
-      "personagens": ["Deus vivo"]
+      "parafrase": "E então, no tempo final, Deus, no Seu grande plano, cumprirá o que foi prometido: Ele reunirá o Seu povo, e mesmo aqueles que foram deixados de fora — os que não são judeus, os gentios — Deus os chamará para fazerem parte do Seu Reino. Esta salvação não será apenas para alguns, mas para todos os que Ele escolheu, como está escrito nas antigas profecias, como se fosse um grande chamado ecoando através dos séculos. 📢",
+      "referencias": [
+        "Oseias 2:23",
+        "Isaías 10:22",
+        "Romanos 11:25"
+      ],
+      "comentario": "Paulo cita aqui o profeta Oseias (2:23), aplicando a profecia sobre a restauração de Israel ao plano maior da salvação dos gentios. O termo grego para 'no final' (ἐν ἐσχάτῳ) enfatiza o cumprimento escatológico. A promessa de 'chamar dentre os gentios' (καὶ καλέσω τὸν οὐ λαόν μου, λαόν μου) é crucial para o argumento de Paulo sobre a inclusão universal de Deus, mostrando que a salvação não se limitou à etnia judaica, mas é uma convocação abrangente, conforme prometido nas Escrituras antigas.",
+      "temas": [
+        "Escatologia",
+        "Chamado dos Gentios",
+        "Cumprimento Profético"
+      ],
+      "personagens": [
+        "Deus",
+        "Paulo"
+      ]
     },
     "27": {
-      "parafrase": "E Isaías clama a respeito de Israel: \"Embora o número dos filhos de Israel seja como a areia do mar, apenas o remanescente será salvo.\"",
-      "referencias": ["Isaías 10:22-23"],
-      "comentario": "Para mostrar que a incredulidade da maioria de Israel também não contradiz o plano de Deus, Paulo cita Isaías. A profecia sempre foi que apenas um remanescente fiel de Israel seria salvo, não a nação inteira.",
-      "temas": ["remanescente fiel", "salvação de Israel", "cumprimento profético"],
-      "personagens": ["Isaías", "Israel"]
+      "parafrase": "Mais adiante, o profeta Isaías clama com a mesma certeza sobre Israel, dizendo: 'O número dos israelitas, os filhos de Abraão, será tão vasto quanto os grãos de areia à beira do mar imenso.' Mesmo que pareça que poucos serão salvos agora, no grande dia da fidelidade de Deus, a multidão de Israel será incontável, como a areia que não se pode contar. 🌊",
+      "referencias": [
+        "Isaías 10:22",
+        "Gênesis 22:17",
+        "Romanos 4:18"
+      ],
+      "comentario": "A referência direta é Isaías 10:22. A imagem da 'areia do mar' (ὡς ἡ ἄμμος τῆς θαλάσσης) é uma hipérbole poética que ressalta a imensidão e a promessa incondicional de Deus a Abraão (cf. Gênesis 22:17). O apóstolo reforça que, embora a rejeição aparente de Israel seja real no presente, a fidelidade de Deus à Sua aliança não falhará em relação à totalidade do povo, mesmo que a conversão venha de forma lenta ou tardia.",
+      "temas": [
+        "Aliança de Deus",
+        "Promessa a Israel",
+        "Incontabilidade"
+      ],
+      "personagens": [
+        "Isaías",
+        "Abraão"
+      ]
     },
     "28": {
-      "parafrase": "\"Pois o Senhor executará a sua sentença sobre a terra, de forma rápida e definitiva.\"",
-      "referencias": ["Isaías 10:23"],
-      "comentario": "A citação continua, falando do juízo certo e rápido de Deus.",
-      "temas": ["juízo divino"],
-      "personagens": ["Senhor"]
+      "parafrase": "Portanto, o destino final do povo de Israel, na visão da Palavra Divina, é claro: eles serão salvos, porque Deus executará Seu plano com rapidez e determinação. A incredulidade momentânea deles não anula o propósito eterno de Deus, mas serve como um meio para que a salvação alcance primeiro os gentios, encerrando o ciclo conforme planejado. 🎯",
+      "referencias": [
+        "Romanos 11:15",
+        "Romanos 3:3",
+        "Isaías 28:22"
+      ],
+      "comentario": "Paulo usa aqui o termo 'terminando' ou 'executando' (συντελῶν καὶ συντόμως) a palavra de Deus sobre Israel. O ponto central é a soberania da execução divina; Deus não pode falhar em cumprir o que disse. A incredulidade (ἀπιστία) é o instrumento temporário que permite a plenitude da salvação dos gentios (vv. 11-12), mas o decreto de salvação final para Israel permanece inabalável.",
+      "temas": [
+        "Soberania de Deus",
+        "Incredulidade de Israel",
+        "Execução do Plano Divino"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "29": {
-      "parafrase": "Como Isaías disse anteriormente: \"Se o Senhor dos Exércitos não nos tivesse deixado descendência, teríamo-nos tornado como Sodoma e semelhantes a Gomorra.\"",
-      "referencias": ["Isaías 1:9"],
-      "comentario": "Ele cita Isaías novamente para enfatizar que a sobrevivência de qualquer parte de Israel deve-se unicamente à misericórdia de Deus em preservar um remanescente. Sem essa graça, eles teriam sido completamente destruídos como Sodoma e Gomorra.",
-      "temas": ["misericórdia de Deus", "preservação do remanescente"],
-      "personagens": ["Senhor dos Exércitos"]
+      "parafrase": "Pois os dons e o chamado que Deus concede ao Seu povo, as alianças e as promessas que Ele estabeleceu, são imutáveis. Deus não se arrepende de ter escolhido Israel; Seus presentes são irrevogáveis. Uma vez dados, eles permanecem para sempre. Não há como Deus desfazer o que Ele já decretou em Seu coração. 💎",
+      "referencias": [
+        "Números 23:19",
+        "Malaquias 3:6",
+        "Romanos 9:11"
+      ],
+      "comentario": "Este é um dos versículos mais fortes sobre a imutabilidade dos dons de Deus. O termo 'arrependimento' (μεταμέλεια) é usado em um sentido teológico, significando que Deus não muda de ideia ou plano, ao contrário dos seres humanos. Os 'dons' (χαρίσματα) e o 'chamado' (κλῆσις) são permanentes. Isso sublinha a segurança eterna da salvação baseada na fidelidade de Deus, não no desempenho humano.",
+      "temas": [
+        "Imutabilidade de Deus",
+        "Irrevogabilidade dos Dons",
+        "Fidelidade"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "30": {
-      "parafrase": "Que diremos, então? Que os gentios, que não buscavam a justiça, a alcançaram, a saber, a justiça que vem da fé;",
-      "referencias": [],
-      "comentario": "Paulo começa a resumir o resultado paradoxal da história. Os gentios, que não estavam ativamente buscando a justiça de Deus através da Lei, a encontraram através do caminho da fé.",
-      "temas": ["paradoxo da salvação", "justiça pela fé", "salvação dos gentios"],
-      "personagens": []
+      "parafrase": "Assim como vocês, gentios, que antes não tinham parte na obediência a Deus, foram incluídos em Sua misericórdia através da desobediência daqueles que eram o povo escolhido, 😲",
+      "referencias": [
+        "Efésios 2:11-12",
+        "Romanos 1:5",
+        "Romanos 15:16"
+      ],
+      "comentario": "Paulo faz um contraste direto entre gentios e judeus. A estrutura 'assim como' (ὥσπερ) liga a inclusão dos gentios (que antes eram desobedientes/sem Deus) ao evento da incredulidade de Israel. A desobediência (ἀπειθεία) dos judeus, paradoxalmente, abriu a porta para que a graça alcançasse os não-judeus, um tema recorrente em Romanos.",
+      "temas": [
+        "Contraste Judaísmo/Gentios",
+        "Misericórdia",
+        "Paradoxo da Desobediência"
+      ],
+      "personagens": [
+        "Gentios",
+        "Povo Escolhido"
+      ]
     },
     "31": {
-      "parafrase": "mas Israel, que buscava uma lei de justiça, não a alcançou.",
-      "referencias": ["Romanos 10:3"],
-      "comentario": "Em contraste, Israel, que se esforçava zelosamente para alcançar a justiça através da obediência à Lei, falhou em alcançá-la.",
-      "temas": ["fracasso de Israel", "justiça pelas obras"],
-      "personagens": ["Israel"]
+      "parafrase": "Do mesmo modo, agora a obediência lhes será estendida. Os judeus, por sua vez, serão agora incluídos na misericórdia que foi derramada sobre vocês, gentios, como resultado da misericórdia que Deus demonstrou a todos nós. É um ciclo contínuo de Graça! 🙏",
+      "referencias": [
+        "Romanos 11:11",
+        "Romanos 15:16",
+        "Isaías 65:1"
+      ],
+      "comentario": "O 'assim também' (οὕτως καὶ οὗτοι) estabelece a reciprocidade. A desobediência judaica levou à misericórdia para os gentios (v. 30); a misericórdia concedida aos gentios, por sua vez, servirá de 'provocação' ou exemplo para que Israel se volte para Deus, recebendo também a obediência e salvação. Não é uma troca de privilégios, mas uma demonstração da universalidade da graça divina através de diferentes caminhos.",
+      "temas": [
+        "Reciprocidade",
+        "Provocação à Fé",
+        "Universalidade da Graça"
+      ],
+      "personagens": [
+        "Israel",
+        "Gentios"
+      ]
     },
     "32": {
-      "parafrase": "Por quê? Porque não a buscavam pela fé, mas como que pelas obras. Tropeçaram na pedra de tropeço,",
-      "referencias": [],
-      "comentario": "Paulo explica a razão do fracasso de Israel. Eles buscaram a justiça pelo caminho errado: pelas obras, em vez da fé. Ao fazerem isso, eles tropeçaram em Cristo, que se tornou para eles uma pedra de tropeço.",
-      "temas": ["causa do fracasso", "fé vs. obras", "pedra de tropeço"],
-      "personagens": []
+      "parafrase": "Pois Deus, em Sua sabedoria infinita, permitiu que todos, judeus e não-judeus, caíssem na mesma condição de rebeldia e falta de fé, para que, no fim, Ele pudesse demonstrar Sua suprema misericórdia e compaixão sobre cada um de nós, sem exceção. 💖",
+      "referencias": [
+        "Gálatas 3:22",
+        "Romanos 3:23",
+        "2 Pedro 3:9"
+      ],
+      "comentario": "Este versículo encapsula a razão pela qual Deus permitiu o tropeço de Israel e a subsequente inclusão dos gentios: 'para fechar todos na desobediência' (συνέκλεισεν γὰρ πάντας ἀπειθείᾳ). O termo grego sugere que Deus 'confinou' ou 'aprisionou' todos sob o domínio do pecado. O objetivo final não é a condenação, mas a manifestação da misericórdia (ἐλεήσῃ) sobre todos, alcançando o clímax da revelação da bondade divina.",
+      "temas": [
+        "Confinamento na Desobediência",
+        "Misericórdia Suprema",
+        "Bondade de Deus"
+      ],
+      "personagens": [
+        "Deus",
+        "Todos"
+      ]
     },
     "33": {
-      "parafrase": "como está escrito: \"Eis que ponho em Sião uma pedra de tropeço e uma rocha de escândalo; e aquele que nele crê não será envergonhado.\"",
-      "referencias": ["Isaías 8:14", "Isaías 28:16"],
-      "comentario": "Ele combina duas citações de Isaías para mostrar que o Messias seria tanto uma pedra de tropeço para os incrédulos quanto uma rocha de salvação para os que creem. A mesma rocha que faz alguns tropeçarem é a que oferece segurança e salvação para outros. A fé é o fator decisivo.",
-      "temas": ["Cristo como pedra de tropeço e rocha de salvação", "fé", "cumprimento profético"],
-      "personagens": ["Cristo"]
+      "parafrase": "Ó, quão profundas são as riquezas, a sabedoria e o conhecimento de Deus! Como é impossível para a mente humana sondar Seus caminhos ou compreender plenamente Suas decisões! Seus juízos são como trilhas escondidas em um mar desconhecido, e Seus métodos estão muito além da nossa capacidade de compreensão total. É um mistério glorioso! 🤯",
+      "referencias": [
+        "Jó 11:7",
+        "Isaías 40:13-14",
+        "1 Coríntios 2:16"
+      ],
+      "comentario": "Este é um hino doxológico (louvor) que encerra a longa seção argumentativa (Romanos 9-11). Paulo usa 'profundidade' (πλούτου καὶ σοφίας καὶ γνώσεως) para descrever a riqueza do plano de Deus. O ponto principal é a incompreensibilidade dos juízos (κρίσεων) e dos caminhos (ὁδῶν) divinos. A frase 'Quem conheceu a mente do Senhor?' (τίς ἔγνω νοῦν Κυρίου?) ecoa a linguagem do Antigo Testamento (Isaías 40:13), enfatizando a soberania absoluta e a transcendência de Deus sobre a lógica humana.",
+      "temas": [
+        "Doxologia",
+        "Incompreensibilidade Divina",
+        "Soberania"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     }
   }
 }

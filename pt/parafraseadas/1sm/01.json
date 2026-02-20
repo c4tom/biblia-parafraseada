@@ -1,204 +1,491 @@
 {
   "livro": "1 Samuel",
   "capitulo": 1,
-  "contexto_historico": "O livro de 1 Samuel marca uma transição crucial na história de Israel: do período dos juízes, caracterizado pela anarquia e pela ausência de um rei, para o estabelecimento da monarquia. Este capítulo introduz Samuel, o último dos juízes e o primeiro dos grandes profetas, cujo nascimento milagroso e consagração a Deus preparam o cenário para a mudança de liderança e a restauração espiritual de Israel.",
-  "bloco_tematico": "O Nascimento de Samuel",
+  "contexto_historico": "A narrativa de 1 Samuel começa no final do período dos Juízes, um tempo de anarquia religiosa e política em Israel, onde 'cada um fazia o que lhe parecia justo' (Juízes 21:25). A nação anseia por estabilidade e liderança centralizada, clamando por um rei como as outras nações. O palco principal é Efraim, com a casa de Eli, o sumo sacerdote, demonstrando uma profunda decadência espiritual e moral. Eli, embora sacerdote, falha em controlar seus filhos, Hofni e Fineias, que profanam o santuário com seus atos iníquos. Paralelamente, a terra está sob a opressão dos filisteus 👹, um inimigo persistente. É neste cenário de declínio religioso e opressão externa que surge a família de Elcana, um homem piedoso, e suas duas esposas: Penina, que tem filhos, e Ana, estéril e profundamente aflita pela zombaria. O primeiro capítulo foca na angústia pessoal de Ana e na promessa que ela faz a Deus no santuário de Siló. 🥺🙏",
+  "bloco_tematico": "O Grito da Fé: Angústia, Promessa e o Prelúdio do Profeta 📜💔",
   "versiculos": {
     "1": {
-      "parafrase": "Havia um homem de Ramataim-Zofim, da região montanhosa de Efraim, cujo nome era Elcana, filho de Jeroão, filho de Eliú, filho de Toú, filho de Zufe, um efraimita.",
-      "referencias": [],
-      "comentario": "A história começa com a genealogia de Elcana, um homem comum, mas piedoso. Embora seja chamado de efraimita, sua linhagem sugere que ele era um levita que vivia no território de Efraim, o que era permitido pela lei.",
-      "temas": ["genealogia", "piedade", "levita"],
-      "personagens": ["Elcana"]
+      "parafrase": "No coração da região montanhosa de Efraim, em Ramá, vivia um homem chamado Elcana. Ele era um homem muito respeitado, filho de Jeroham, descendente de Eliú, que por sua vez pertencia à linhagem de Toí, um efraimita de posses. Elcana tinha o hábito constante de subir todos os anos a Siló, o local onde o Senhor dos Exércitos tinha Seu tabernáculo, para oferecer sacrifícios solenes ao Eterno.",
+      "referencias": [
+        "Deuteronômio 12:5",
+        "Êxodo 23:14"
+      ],
+      "comentario": "O texto começa situando a narrativa geograficamente (Ramá, terra de Efraim) e genealogicamente (Elcana, um levita ou um homem com forte ligação ao culto, embora habitasse Efraim). A repetição anual do ritual (ascender a Siló) demonstra a devoção da família, cumprindo o mandamento de comparecer perante o Senhor, onde o Tabernáculo estava estabelecido.",
+      "temas": [
+        "Adoração Anual",
+        "Genealogia",
+        "Fidelidade Ritual"
+      ],
+      "personagens": [
+        "Elcana",
+        "Jeroham",
+        "Eliú",
+        "Toí"
+      ]
     },
     "2": {
-      "parafrase": "Ele tinha duas esposas: o nome de uma era Ana e o nome da outra era Penina. Penina tinha filhos, mas Ana não tinha.",
-      "referencias": ["Deuteronômio 21:15"],
-      "comentario": "A poligamia era uma prática aceita na época, mas frequentemente gerava conflitos e sofrimento, como neste caso. A esterilidade de Ana é o ponto central da narrativa, pois o nascimento de Samuel será um milagre que demonstrará a providência de Deus.",
-      "temas": ["poligamia", "esterilidade", "sofrimento"],
-      "personagens": ["Ana", "Penina"]
+      "parafrase": "Elcana era casado com duas mulheres, uma prática social comum, mas que frequentemente gerava tensões familiares profundas. A primeira era Ana, e a segunda era Penina. Penina tinha filhos, mas Ana, tragicamente, era estéril e não podia gerar descendência para Elcana.",
+      "referencias": [
+        "Gênesis 16:1",
+        "Gênesis 21:9"
+      ],
+      "comentario": "A introdução da poligamia (duas esposas) estabelece imediatamente o conflito central. O hebraico enfatiza o contraste: Penina tinha 'filhos' (plural), enquanto Ana era a 'que não concebia'. A esterilidade de Ana (do hebraico 'atzurah', 'fechada', 'restringida') é o núcleo da dor que moldará o futuro livro.",
+      "temas": [
+        "Esterilidade",
+        "Poligamia",
+        "Conflito Conjugal"
+      ],
+      "personagens": [
+        "Elcana",
+        "Ana",
+        "Penina"
+      ]
     },
     "3": {
-      "parafrase": "Este homem subia anualmente de sua cidade para adorar e oferecer sacrifícios ao Senhor dos Exércitos em Siló. Ali estavam os dois filhos de Eli, Hofni e Fineias, sacerdotes do Senhor.",
-      "referencias": ["Deuteronômio 12:5-7"],
-      "comentario": "Elcana demonstra sua piedade ao subir anualmente a Siló, onde o tabernáculo estava localizado, para adorar a Deus. A menção dos filhos de Eli, Hofni e Fineias, já prenuncia a corrupção sacerdotal que será um tema importante no livro.",
-      "temas": ["adoração", "sacrifício", "piedade", "corrupção sacerdotal"],
-      "personagens": ["Elcana", "Deus", "Hofni", "Fineias"]
+      "parafrase": "Sempre que chegava a época de subir ao santuário, Elcana demonstrava seu afeto especial por Ana, dando a ela uma porção dupla da carne sacrificada. Contudo, Penina, sua outra esposa, aproveitava-se da vulnerabilidade de Ana para provocá-la e humilhá-la profundamente, sempre lembrando-a de sua incapacidade de ser mãe. Isso ocorria porque Deus, em Seu mistério, havia fechado o ventre de Ana.",
+      "referencias": [
+        "Deuteronômio 18:3",
+        "Levítico 7:32"
+      ],
+      "comentario": "Elcana tenta compensar a dor de Ana com presentes materiais (a porção dupla, a 'porção dobrada' ou 'parímatsha' em algumas traduções), um sinal de seu favor. A ação de Penina é cruel e intencional, explorando a aflição de Ana. O versículo conclui com a afirmação teológica de que a esterilidade era, em última instância, um ato soberano de Deus ('Yahweh havia fechado o ventre de Ana'), preparando o palco para a intervenção divina.",
+      "temas": [
+        "Favor Divino",
+        "Sofrimento da Mulher",
+        "Provocação"
+      ],
+      "personagens": [
+        "Elcana",
+        "Ana",
+        "Penina"
+      ]
     },
     "4": {
-      "parafrase": "No dia em que Elcana oferecia sacrifícios, ele dava porções à sua esposa Penina e a todos os filhos e filhas dela.",
-      "referencias": [],
-      "comentario": "A distribuição das porções do sacrifício era um ato de comunhão e celebração familiar.",
-      "temas": ["sacrifício", "comunhão familiar"],
-      "personagens": ["Elcana", "Penina"]
+      "parafrase": "Em cada uma dessas peregrinações anuais, a dor de Ana se renovava. Ela sofria intensamente, e Penina não perdia a oportunidade de apertar a ferida, zombando dela sem trégua, deixando Ana em profunda angústia e vergonha.",
+      "referencias": [
+        "Salmos 42:10",
+        "Lamentações 1:21"
+      ],
+      "comentario": "A repetição ('ano após ano') reforça a cronicidade do sofrimento. A zombaria de Penina é um ataque direto à identidade feminina da época, onde a maternidade era vista como a maior bênção e confirmação social. A dor de Ana é descrita como intensa e constante.",
+      "temas": [
+        "Dor Crônica",
+        "Humilhação",
+        "Pressão Social"
+      ],
+      "personagens": [
+        "Ana",
+        "Penina"
+      ]
     },
     "5": {
-      "parafrase": "Mas a Ana ele dava uma porção dupla, porque amava Ana, embora o Senhor a tivesse tornado estéril.",
-      "referencias": [],
-      "comentario": "Elcana demonstra seu amor e preferência por Ana, apesar de sua esterilidade. A esterilidade é atribuída diretamente a Deus, indicando que é parte de um plano divino.",
-      "temas": ["amor", "esterilidade", "providência divina"],
-      "personagens": ["Elcana", "Ana", "Deus"]
+      "parafrase": "Em contraste com as provocações, quando Elcana distribuía as porções dos sacrifícios de comunhão, ele sempre dava a Ana uma porção dupla, como sinal de seu amor. Entretanto, isso só servia de combustível para a raiva de Penina. Mesmo com o amor do marido, a ausência de um filho era uma chaga aberta que Penina fazia questão de reabrir incessantemente.",
+      "referencias": [
+        "Levítico 3:5",
+        "Efésios 4:31"
+      ],
+      "comentario": "Este versículo reafirma o ciclo de afeto (Elcana) e dor (Penina). O amor humano, embora real, não era suficiente para curar a dor espiritual e social causada pela esterilidade. O 'dar-lhe uma porção dobrada' era um gesto que deveria confortar, mas na presença da rival, tornava-se um fardo.",
+      "temas": [
+        "Amor Conjugal",
+        "Inveja",
+        "Infertilidade"
+      ],
+      "personagens": [
+        "Elcana",
+        "Ana",
+        "Penina"
+      ]
     },
     "6": {
-      "parafrase": "Sua rival, Penina, a provocava continuamente para irritá-la, por causa de sua esterilidade.",
-      "referencias": [],
-      "comentario": "A rivalidade entre as esposas é intensa. Penina usa a esterilidade de Ana como uma arma para provocá-la e humilhá-la, adicionando dor ao sofrimento de Ana.",
-      "temas": ["rivalidade", "provocação", "sofrimento"],
-      "personagens": ["Penina", "Ana"]
+      "parafrase": "Por causa dessa constante tortura, o Senhor havia permitido que Ana ficasse totalmente estéril, e sua rival, Penina, aproveitava-se disso para atormentá-la de maneira cruel e contínua, transformando a ida ao templo em um martírio para Ana.",
+      "referencias": [
+        "Jó 19:22",
+        "Salmos 73:7"
+      ],
+      "comentario": "O texto reitera, com ênfase, a causa da aflição: Deus permitiu a esterilidade. A perseguição de Penina não é apenas um conflito humano; ela é o instrumento visível através do qual a aflição de Ana (permitida por Deus) se manifesta na Terra.",
+      "temas": [
+        "Soberania Divina",
+        "Aflição",
+        "Perseguição"
+      ],
+      "personagens": [
+        "Ana",
+        "Penina"
+      ]
     },
     "7": {
-      "parafrase": "Isso acontecia ano após ano. Sempre que Ana subia à casa do Senhor, Penina a provocava, e Ana chorava e não comia.",
-      "referencias": [],
-      "comentario": "O sofrimento de Ana é constante e se intensifica durante as peregrinações anuais, quando a alegria da adoração é ofuscada pela provocação de Penina.",
-      "temas": ["sofrimento contínuo", "provocação", "lamento"],
-      "personagens": ["Ana", "Penina"]
+      "parafrase": "Assim acontecia todos os anos, sempre que Ana subia à Casa do Senhor. Em cada uma dessas ocasiões, Penina a humilhava de tal forma que Ana chorava inconsolavelmente e recusava-se a comer qualquer coisa, imersa em sua tristeza profunda.",
+      "referencias": [
+        "Jó 3:3",
+        "Salmos 80:5"
+      ],
+      "comentario": "O rito religioso, que deveria ser de alegria e comunhão, transformou-se em um gatilho para o trauma anual de Ana. A recusa em comer após a provocação demonstra a intensidade de seu luto, que se manifesta fisicamente (a recusa do banquete sacrificial).",
+      "temas": [
+        "Luto",
+        "Rituais e Emoções",
+        "Humilhação"
+      ],
+      "personagens": [
+        "Ana",
+        "Penina"
+      ]
     },
     "8": {
-      "parafrase": "Então Elcana, seu marido, lhe disse: 'Ana, por que você chora? Por que não come? Por que seu coração está tão triste? Não sou eu melhor para você do que dez filhos?'",
-      "referencias": [],
-      "comentario": "Elcana tenta consolar Ana, expressando seu amor e tentando minimizar a dor dela. No entanto, ele não compreende a profundidade do desejo de Ana por um filho, que era uma questão de honra e cumprimento na cultura da época.",
-      "temas": ["consolo", "amor conjugal", "desejo por filhos"],
-      "personagens": ["Elcana", "Ana"]
+      "parafrase": "Então, seu marido Elcana tentava consolá-la com palavras gentis. Ele perguntava: 'Ana, por que você está chorando? Por que não está comendo? Por que seu coração está tão abatido? Não sou eu, para você, mais importante do que dez filhos?'",
+      "referencias": [
+        "Gênesis 30:2",
+        "Mateus 12:41"
+      ],
+      "comentario": "A tentativa de Elcana mostra um amor genuíno, mas uma falta de compreensão da profundidade da dor de Ana. Ele apela para o valor que ela tem como esposa, enquanto ela anseia por um papel cultural e espiritual que só a maternidade parecia conferir naquele contexto.",
+      "temas": [
+        "Consolo Ineficaz",
+        "Valor Conjugal",
+        "Desejo Materno"
+      ],
+      "personagens": [
+        "Elcana",
+        "Ana"
+      ]
     },
     "9": {
-      "parafrase": "Depois de comerem e beberem em Siló, Ana se levantou. O sacerdote Eli estava sentado em sua cadeira junto ao batente da porta do templo do Senhor.",
-      "referencias": [],
-      "comentario": "Ana, em sua angústia, busca a Deus no tabernáculo. Eli, o sacerdote, é introduzido, e sua posição na porta indica sua função de guardião do templo.",
-      "temas": ["angústia", "oração", "sacerdócio"],
-      "personagens": ["Ana", "Eli"]
+      "parafrase": "Certa vez, após comerem e beberem em Siló, a situação se repetiu. Ana, profundamente perturbada pela dor, levantou-se para ir orar. O sumo sacerdote Eli, já idoso, estava sentado em seu lugar costumeiro, observando perto do umbral da entrada do santuário do Senhor.",
+      "referencias": [
+        "Levítico 10:9",
+        "Números 6:24"
+      ],
+      "comentario": "O contraste é gritante: após a refeição ritualística (que deveria ser de alegria), Ana se retira para o lugar da presença de Deus para desabafar sua dor. A presença de Eli, o líder religioso, estabelece o palco para a intervenção profética.",
+      "temas": [
+        "Busca a Deus",
+        "Oração em Angústia",
+        "Autoridade Religiosa"
+      ],
+      "personagens": [
+        "Ana",
+        "Eli"
+      ]
     },
     "10": {
-      "parafrase": "Com a alma amargurada, Ana orou ao Senhor e chorou muito.",
-      "referencias": ["Salmos 6:6"],
-      "comentario": "A oração de Ana é um modelo de oração sincera e angustiada. Ela derrama sua alma diante de Deus, expressando toda a sua dor e desespero.",
-      "temas": ["oração sincera", "angústia", "desespero"],
-      "personagens": ["Ana", "Deus"]
+      "parafrase": "Com a alma em extremo sofrimento, Ana derramava seu coração a Deus em um gemido profundo e silencioso. Ela orava com fervor, com lágrimas escorrendo pelo rosto, e seu espírito estava profundamente aflito.",
+      "referencias": [
+        "Salmos 62:8",
+        "Isaías 26:16"
+      ],
+      "comentario": "Este é o ápice da oração silenciosa. O hebraico descreve um gemido tão profundo que não há som audível: 'sua alma orava'. A oração de Ana não era feita de palavras elaboradas, mas de pura e crua emoção dirigida ao Único que podia ouvir sua dor oculta.",
+      "temas": [
+        "Oração Silenciosa",
+        "Desespero",
+        "Comunhão com Deus"
+      ],
+      "personagens": [
+        "Ana"
+      ]
     },
     "11": {
-      "parafrase": "E fez um voto, dizendo: 'Ó Senhor dos Exércitos, se de fato olhares para a aflição de tua serva, e te lembrares de mim, e não te esqueceres de tua serva, e deres a tua serva um filho homem, então eu o dedicarei ao Senhor por todos os dias de sua vida, e nenhuma navalha passará sobre a sua cabeça.'",
-      "referencias": ["Números 6:2-5"],
-      "comentario": "Ana faz um voto solene a Deus. Ela promete dedicar seu filho como um nazireu vitalício, um ato de consagração total a Deus. Este voto é um sinal de sua fé e de seu desejo de honrar a Deus acima de tudo.",
-      "temas": ["voto", "consagração", "nazireu", "fé"],
-      "personagens": ["Ana", "Deus"]
+      "parafrase": "Fazendo um voto solene diante do Senhor, Ana prometeu: 'Ó Senhor dos Exércitos, se Tu te dignares a olhar para a aflição desta tua serva e te lembrares de mim, e se me concederes um filho, eu o dedicarei inteiramente ao Teu serviço por todos os dias da sua vida, e jamais um gilete tocará a sua cabeça'.",
+      "referencias": [
+        "Números 30:2",
+        "Gênesis 28:20"
+      ],
+      "comentario": "O voto de Ana é um 'nedar' (voto específico). A promessa de um filho dedicado ('nazireu' antes do tempo) a Deus é a chave. A menção de que 'nenhuma navalha tocará sua cabeça' aponta para um voto de consagração perpétua, um tipo de vida santa e separada, similar, mas não idêntica, ao voto nazireado posterior (Números 6).",
+      "temas": [
+        "Voto a Deus",
+        "Consagração",
+        "Fé em Meio à Dor"
+      ],
+      "personagens": [
+        "Ana"
+      ]
     },
     "12": {
-      "parafrase": "Enquanto ela continuava a orar diante do Senhor, Eli observava sua boca.",
-      "referencias": [],
-      "comentario": "Eli observa Ana, que está orando em silêncio, apenas movendo os lábios.",
-      "temas": ["observação", "oração silenciosa"],
-      "personagens": ["Eli", "Ana"]
+      "parafrase": "Enquanto Ana continuava a derramar sua alma em silêncio, o sacerdote Eli a observava atentamente. Vendo seus lábios se movendo, mas sem ouvir som algum sair de sua boca, ele erroneamente concluiu que aquela mulher estava embriagada pelo vinho.",
+      "referencias": [
+        "Lucas 1:11-13",
+        "Salmos 32:3"
+      ],
+      "comentario": "A incompreensão de Eli é um ponto crucial. Ele, o mediador entre Deus e o povo, não consegue discernir a profunda sinceridade da oração silenciosa, julgando-a pela aparência externa (movimento labial sem som), o que reflete um certo estado de dormência espiritual na liderança da época.",
+      "temas": [
+        "Julgamento Precipitado",
+        "Liderança Espiritual",
+        "Oração Profunda"
+      ],
+      "personagens": [
+        "Ana",
+        "Eli"
+      ]
     },
     "13": {
-      "parafrase": "Ana falava em seu coração; apenas seus lábios se moviam, mas sua voz não era ouvida. Por isso, Eli pensou que ela estava embriagada.",
-      "referencias": [],
-      "comentario": "A oração silenciosa de Ana é mal interpretada por Eli, que, em sua falta de discernimento, a acusa de embriaguez. Isso revela a decadência espiritual do sacerdócio da época.",
-      "temas": ["mal-entendido", "falta de discernimento", "decadência sacerdotal"],
-      "personagens": ["Ana", "Eli"]
+      "parafrase": "Com um tom de repreensão, Eli aproximou-se dela e disse: 'Até quando você ficará agindo como se estivesse bêbada? Vá embora, e deixe de lado a bebida!'.",
+      "referencias": [
+        "Provérbios 20:1",
+        "Isaías 28:7"
+      ],
+      "comentario": "A repreensão de Eli é direta e severa, baseada em sua suposição errônea de embriaguez. A prática de beber vinho antes de entrar no Santuário era estritamente proibida aos sacerdotes (Levítico 10:9), o que explica a severidade da sua acusação contra qualquer um que parecesse estar sob efeito de álcool.",
+      "temas": [
+        "Acusação",
+        "Regulamentos Sacrifícos",
+        "Comportamento no Culto"
+      ],
+      "personagens": [
+        "Eli",
+        "Ana"
+      ]
     },
     "14": {
-      "parafrase": "Então Eli lhe disse: 'Até quando você vai ficar embriagada? Livre-se do seu vinho!'",
-      "referencias": [],
-      "comentario": "A repreensão de Eli é injusta e insensível, adicionando insulto à dor de Ana.",
-      "temas": ["repreensão injusta", "insensibilidade"],
-      "personagens": ["Eli", "Ana"]
+      "parafrase": "Mas Ana respondeu com firmeza e respeito, explicando sua real condição: 'Não, meu senhor! Eu não estou embriagada nem com vinho, nem com bebida fermentada. Eu estava derramando minha alma desesperada diante do Senhor'.",
+      "referencias": [
+        "Jó 12:4",
+        "Filipenses 4:6"
+      ],
+      "comentario": "Ana não se ofende com a repreensão, mas corrige o erro de diagnóstico com humildade. Ela define sua ação: não era intoxicação mundana, mas 'derramar a alma' (o hebraico indica uma torrente de emoção), ligando sua ação diretamente à presença de Deus.",
+      "temas": [
+        "Correção Humilde",
+        "Confissão de Angústia",
+        "Sinceridade"
+      ],
+      "personagens": [
+        "Ana",
+        "Eli"
+      ]
     },
     "15": {
-      "parafrase": "Ana respondeu: 'Não, meu senhor, sou uma mulher com o espírito angustiado. Não bebi vinho nem bebida forte, mas estava derramando minha alma diante do Senhor.'",
-      "referencias": ["Salmos 62:8"],
-      "comentario": "Ana responde com dignidade e clareza, explicando a verdadeira natureza de sua oração. Ela defende sua integridade e revela a profundidade de sua angústia.",
-      "temas": ["dignidade", "explicação", "angústia"],
-      "personagens": ["Ana", "Eli"]
+      "parafrase": "Ana então implorou a Eli: 'Por favor, meu senhor, não me considere uma mulher perversa. Eu estava orando assim porque minha aflição e minha dor são imensas, e meu coração está pesado de preocupação'.",
+      "referencias": [
+        "Jó 7:19",
+        "Salmos 102:10"
+      ],
+      "comentario": "Ana se defende da pecha de imoralidade ('mulher má' ou 'perversa'). Ela justifica sua exteriorização emocional como um sintoma de sofrimento extremo, buscando validação da autoridade religiosa presente.",
+      "temas": [
+        "Validação da Dor",
+        "Aflição Profunda",
+        "Apelo à Misericórdia"
+      ],
+      "personagens": [
+        "Ana",
+        "Eli"
+      ]
     },
     "16": {
-      "parafrase": "'Não considere sua serva uma mulher perversa, pois foi por causa da minha grande dor e aflição que falei até agora.'",
-      "referencias": [],
-      "comentario": "Ela pede a Eli que não a julgue mal, explicando que sua oração intensa é um reflexo de seu sofrimento.",
-      "temas": ["pedido de compreensão", "sofrimento"],
-      "personagens": ["Ana"]
+      "parafrase": "Em resposta à sua explicação sincera, Eli mudou seu tom, percebendo o erro que cometera. Ele a abençoou, dizendo: 'Vá em paz, e que o Deus de Israel atenda ao pedido que você fez a Ele'.",
+      "referencias": [
+        "Números 6:24-26",
+        "Lucas 1:13"
+      ],
+      "comentario": "A resposta de Eli marca uma mudança de atitude, de acusador para abençoador. Ele agora reconhece que a origem daquele desabafo era o próprio Deus. A bênção é um ato sacerdotal de intercessão pela causa de Ana.",
+      "temas": [
+        "Mudança de Perspectiva",
+        "Bênção Sacerdotal",
+        "Intercessão"
+      ],
+      "personagens": [
+        "Eli",
+        "Ana"
+      ]
     },
     "17": {
-      "parafrase": "Então Eli respondeu: 'Vá em paz, e que o Deus de Israel lhe conceda o que você pediu.'",
-      "referencias": [],
-      "comentario": "Eli, percebendo seu erro, abençoa Ana e pronuncia uma palavra de esperança. Sua bênção, embora tardia, é um sinal de que a oração de Ana foi ouvida.",
-      "temas": ["bênção sacerdotal", "esperança", "oração ouvida"],
-      "personagens": ["Eli", "Ana", "Deus"]
+      "parafrase": "Ana respondeu com gratidão ao sacerdote: 'Que a sua palavra se cumpra e que eu encontre graça aos seus olhos, senhor!'. Com isso, Ana retomou sua vida, e sua expressão facial mudou; ela não parecia mais triste ou angustiada.",
+      "referencias": [
+        "Gênesis 32:26",
+        "Provérbios 15:13"
+      ],
+      "comentario": "A fé se manifesta na mudança de atitude ('seu rosto não estava mais como antes'). A crença de que a bênção do sacerdote (como representante de Deus) havia sido ou seria efetiva foi suficiente para restaurar sua paz interior, mesmo antes da concretização do milagre.",
+      "temas": [
+        "Gratidão",
+        "Paz Interior",
+        "Fé na Palavra"
+      ],
+      "personagens": [
+        "Ana",
+        "Eli"
+      ]
     },
     "18": {
-      "parafrase": "Ela disse: 'Que sua serva encontre favor aos seus olhos.' Então a mulher seguiu seu caminho, comeu, e seu semblante não estava mais triste.",
-      "referencias": [],
-      "comentario": "A resposta de Eli traz paz e alívio a Ana. Sua fé é restaurada, e ela confia que Deus responderá à sua oração. A mudança em seu semblante é um sinal visível de sua paz interior.",
-      "temas": ["paz interior", "fé restaurada", "confiança"],
-      "personagens": ["Ana"]
+      "parafrase": "E assim, encorajados pela esperança, Ana e Elcana deixaram Siló e voltaram para casa, para sua cidade natal. Depois disso, o Senhor lembrou-se de Ana, e Ela concebeu um filho.",
+      "referencias": [
+        "Gênesis 30:22",
+        "Salmos 113:7"
+      ],
+      "comentario": "O Deus que 'lembra' é um tema recorrente nas narrativas de esterilidade (Sara, Raquel). A bênção de Eli abriu o caminho para a intervenção divina direta. A menção do retorno para casa marca o fim da provação em Siló e o início da realização da promessa.",
+      "temas": [
+        "Lembrança Divina",
+        "Concepção Milagrosa",
+        "Retorno"
+      ],
+      "personagens": [
+        "Ana",
+        "Elcana",
+        "Senhor"
+      ]
     },
     "19": {
-      "parafrase": "Eles se levantaram de madrugada, adoraram ao Senhor e voltaram para sua casa em Ramá. Elcana se uniu a Ana, sua esposa, e o Senhor se lembrou dela.",
-      "referencias": ["Gênesis 30:22"],
-      "comentario": "A adoração e a intimidade conjugal são seguidas pela intervenção divina. A frase 'o Senhor se lembrou dela' é uma expressão idiomática para a ação de Deus em resposta à oração e à fé.",
-      "temas": ["adoração", "intimidade", "intervenção divina", "oração respondida"],
-      "personagens": ["Elcana", "Ana", "Deus"]
+      "parafrase": "Na época devida, Elcana e Ana se levantaram e subiram novamente a Siló, conforme o costume anual, para oferecer o sacrifício regular a Deus. Mas desta vez, Ana não foi com eles para o banquete festivo, pois tinha uma missão ainda mais importante.",
+      "referencias": [
+        "Deuteronômio 16:16",
+        "Êxodo 12:25"
+      ],
+      "comentario": "O rito anual é mantido, mas a prioridade de Ana mudou. Ela não participa do festival de comunhão, pois agora seu foco está em cumprir o voto mais sagrado que ela fizera a Deus.",
+      "temas": [
+        "Cumprimento do Voto",
+        "Prioridade Espiritual",
+        "Sacrifício"
+      ],
+      "personagens": [
+        "Elcana",
+        "Ana"
+      ]
     },
     "20": {
-      "parafrase": "Ana concebeu e, no devido tempo, deu à luz um filho, a quem chamou de Samuel, dizendo: 'Porque o pedi ao Senhor.'",
-      "referencias": [],
-      "comentario": "O milagre acontece. O nome Samuel (que pode significar 'ouvido por Deus' ou 'nome de Deus') reflete a circunstância de seu nascimento: ele foi pedido a Deus e Deus o ouviu.",
-      "temas": ["milagre", "nascimento", "nome significativo"],
-      "personagens": ["Ana", "Samuel"]
+      "parafrase": "Quando chegou o tempo certo, Ana engravidou e deu à luz um filho. Ela o nomeou Samuel, dizendo: 'Eu pedi este menino ao Senhor'.",
+      "referencias": [
+        "Gênesis 21:1",
+        "Lucas 1:57"
+      ],
+      "comentario": "O nome 'Samuel' (Shemu'el) é tradicionalmente interpretado como 'Nome de Deus' ou, como Ana o define aqui, 'Ouvido por Deus' (Sha'ul/Shem + El). É um nome que eterniza o ato de Deus em ouvir sua súplica.",
+      "temas": [
+        "Nascimento",
+        "Significado dos Nomes",
+        "Ouvido por Deus"
+      ],
+      "personagens": [
+        "Ana",
+        "Samuel"
+      ]
     },
     "21": {
-      "parafrase": "Elcana, seu marido, e toda a sua casa subiam anualmente para oferecer ao Senhor o sacrifício anual e o cumprimento de seu voto.",
-      "referencias": [],
-      "comentario": "A família continua suas práticas religiosas, e Elcana se prepara para cumprir seu voto.",
-      "temas": ["adoração", "cumprimento de voto"],
-      "personagens": ["Elcana"]
+      "parafrase": "No ano seguinte, Elcana, fiel à sua rotina, partiu com toda a sua família para Siló para celebrar o sacrifício anual e cumprir as obrigações devidas ao Senhor. Contudo, Ana permaneceu em casa.",
+      "referencias": [
+        "Deuteronômio 16:17",
+        "Números 29:23"
+      ],
+      "comentario": "A ausência de Ana no festival anual, ao contrário do ano anterior, sinaliza que seu foco está agora em seu compromisso com o voto recém-nascido. Elcana e sua casa continuam a tradição, enquanto Ana se prepara para cumprir a promessa mais íntima.",
+      "temas": [
+        "Tradição vs. Voto",
+        "Paternidade",
+        "Dever"
+      ],
+      "personagens": [
+        "Elcana",
+        "Ana"
+      ]
     },
     "22": {
-      "parafrase": "Mas Ana não subiu, pois disse a seu marido: 'Não subirei até que o menino seja desmamado. Então o levarei, para que ele apareça diante do Senhor e ali permaneça para sempre.'",
-      "referencias": [],
-      "comentario": "Ana adia sua ida a Siló até que Samuel seja desmamado, o que na época poderia levar alguns anos. Ela quer garantir que o voto seja cumprido de forma completa e permanente.",
-      "temas": ["cumprimento de voto", "dedicação", "paciência"],
-      "personagens": ["Ana", "Elcana", "Samuel"]
+      "parafrase": "Ana não foi com eles porque disse ao marido: 'Quando a criança for desmamada, eu irei com ele. Lá, apresentarei Samuel ao Senhor, e ele viverá permanentemente servindo-O lá no santuário'.",
+      "referencias": [
+        "Provérbios 22:6",
+        "Números 3:38"
+      ],
+      "comentario": "O desmame (que na antiguidade podia ocorrer por volta dos 3 anos) marca o fim da dependência materna. Ana estabelece um prazo claro para a entrega da criança, reiterando que o propósito da vida de Samuel a partir daquele momento seria o serviço dedicado a Yahweh no centro do culto.",
+      "temas": [
+        "Prazo de Entrega",
+        "Serviço Religioso",
+        "Maternidade Dedicada"
+      ],
+      "personagens": [
+        "Ana",
+        "Elcana",
+        "Samuel"
+      ]
     },
     "23": {
-      "parafrase": "Elcana, seu marido, lhe disse: 'Faça o que lhe parecer bem. Fique até que o desmame. Que o Senhor confirme a sua palavra.' Assim, a mulher ficou e amamentou seu filho até que o desmamou.",
-      "referencias": [],
-      "comentario": "Elcana apoia a decisão de Ana, reconhecendo a importância de seu voto. Ele abençoa a palavra de Ana, pedindo que Deus a confirme.",
-      "temas": ["apoio conjugal", "bênção", "cumprimento de voto"],
-      "personagens": ["Elcana", "Ana"]
+      "parafrase": "Elcana concordou plenamente com a esposa, dizendo: 'Faça o que parecer melhor aos seus olhos. Que Deus sustente sua palavra e seu compromisso'. Assim, Ana ficou em casa e cuidou de seu filho até o momento de cumprirem o voto.",
+      "referencias": [
+        "Provérbios 31:25",
+        "Eclesiastes 5:4"
+      ],
+      "comentario": "Elcana demonstra apoio total ao plano de Ana, transferindo a responsabilidade do voto para a mãe e reconhecendo a autoridade de Ana sobre aquela promessa específica. A fidelidade do casal é confirmada na espera paciente.",
+      "temas": [
+        "Apoio Mútuo",
+        "Fidelidade no Voto",
+        "Paciência"
+      ],
+      "personagens": [
+        "Elcana",
+        "Ana"
+      ]
     },
     "24": {
-      "parafrase": "Depois de desmamá-lo, ela o levou consigo, com três touros, uma efa de farinha e um odre de vinho, e o levou à casa do Senhor em Siló. O menino era ainda muito jovem.",
-      "referencias": [],
-      "comentario": "Ana cumpre seu voto, levando Samuel ao tabernáculo com uma oferta generosa. A menção de que ele era 'muito jovem' enfatiza o sacrifício de Ana e a dedicação precoce de Samuel.",
-      "temas": ["cumprimento de voto", "dedicação", "sacrifício"],
-      "personagens": ["Ana", "Samuel"]
+      "parafrase": "Quando Samuel já estava desmamado, um menino de cerca de três anos, Ana o levou consigo para Siló. Ela também levou um novilho robusto para o sacrifício, um grande cesto de pães, e um odre de vinho, preparando-se para apresentar a criança ao Senhor.",
+      "referencias": [
+        "Êxodo 23:15",
+        "Levítico 2:1"
+      ],
+      "comentario": "A oferta de Ana é substancial: um animal (para sacrifício pelo pecado/adoração), pão (sustento) e vinho (alegria/oferta líquida). Ela não apenas cumpre a promessa de levar o filho, mas também traz uma oferta digna do milagre recebido.",
+      "temas": [
+        "Oferta Sacrificial",
+        "Devoção Material",
+        "Cumprimento Formal"
+      ],
+      "personagens": [
+        "Ana",
+        "Samuel"
+      ]
     },
     "25": {
-      "parafrase": "Eles abateram o touro e levaram o menino a Eli.",
-      "referencias": [],
-      "comentario": "O sacrifício é feito, e Samuel é apresentado a Eli, o sacerdote.",
-      "temas": ["sacrifício", "apresentação"],
-      "personagens": ["Ana", "Eli", "Samuel"]
+      "parafrase": "Eles imolaram o novilho, e Ana, com o coração ardendo em gratidão, levou o pequeno Samuel diretamente ao sacerdote Eli. Ela então se dirigiu a ele e disse com profunda emoção: 'Meu senhor, lembre-se de mim! Peço que você se lembre daquele dia em que eu estava chorando aqui e fiz aquele voto solene diante do Senhor'.",
+      "referencias": [
+        "Levítico 1:4",
+        "Salmos 116:17"
+      ],
+      "comentario": "Este versículo fecha o ciclo da dor e abre o ciclo da dedicação. Ana lembra Eli do evento traumático anterior, não para vingança, mas para contextualizar a criança diante dele: Samuel não é apenas um filho, mas a prova viva da intervenção divina em resposta à sua oração fervorosa.",
+      "temas": [
+        "Apresentação da Oferta",
+        "Memória da Graça",
+        "Entrega Total"
+      ],
+      "personagens": [
+        "Ana",
+        "Samuel",
+        "Eli"
+      ]
     },
     "26": {
-      "parafrase": "Ana disse: 'Ah, meu senhor! Tão certo como vive a sua alma, meu senhor, eu sou a mulher que esteve aqui ao seu lado, orando ao Senhor.'",
-      "referencias": [],
-      "comentario": "Ana se identifica a Eli, lembrando-o de seu encontro anterior e de sua oração.",
-      "temas": ["identificação", "memória"],
-      "personagens": ["Ana", "Eli"]
+      "parafrase": "Quando Ana chegou à casa do Senhor, naquele lugar santo em Siló, ela se encontrou com o sacerdote Elí, um homem já avançado em anos e cujos olhos já não possuíam o vigor da juventude, pois sua visão estava fraca. Ana, vendo o sacerdote sentado perto do umbral da porta do santuário, aproximou-se dele com o coração pesado e a alma em agonia, pronta para despejar toda a sua dor na presença daquele que era o mediador entre Deus e o povo.",
+      "referencias": [
+        "Deuteronômio 12:5",
+        "Levítico 23:14"
+      ],
+      "comentario": "O versículo descreve o encontro crucial entre Ana e Eli, o sumo sacerdote. O termo hebraico para 'casa do Senhor' é 'Beit YHWH' (בית יהוה), enfatizando a centralidade do santuário em Siló. A descrição da condição física de Eli ('olhos embotados') não é meramente um detalhe biográfico; ela simboliza o declínio da liderança espiritual da época. Eli, apesar de sua posição, representa uma geração que não consegue mais 'enxergar' claramente o mover de Deus, um contraste pungente com a clareza da fé e da dor de Ana.",
+      "temas": [
+        "Adoração em Siló",
+        "O Papel do Sacerdócio",
+        "Dor da Infertilidade"
+      ],
+      "personagens": [
+        "Ana",
+        "Eli"
+      ]
     },
     "27": {
-      "parafrase": "'Por este menino eu orei, e o Senhor me concedeu o que eu pedi.'",
-      "referencias": [],
-      "comentario": "Ela testemunha a fidelidade de Deus em responder à sua oração.",
-      "temas": ["testemunho", "oração respondida", "fidelidade de Deus"],
-      "personagens": ["Ana", "Deus"]
+      "parafrase": "Ana, incapaz de conter o dilúvio de suas lágrimas e o peso de seu voto não cumprido, olhou fixamente para Eli e disse, com a voz entrecortada pela angústia: 'Por favor, meu senhor, peço-lhe que preste muita atenção ao meu sofrimento. Eu sou aquela mulher que há tanto tempo estava aqui, de pé, ao seu lado, orando fervorosamente ao Senhor. Minha alma está em profunda aflição, e a razão de toda essa dor que me consome é o fato de eu não ter tido filhos, de eu ter o ventre fechado.' 😭",
+      "referencias": [
+        "Salmos 102:10",
+        "Jeremias 30:19"
+      ],
+      "comentario": "A expressão de Ana é um clamor visceral. O ato de se apresentar a Eli ('Eu sou aquela mulher...') sublinha a intensidade de sua provação, pois ela já era conhecida no local por sua constância na súplica. A frase hebraica traduzida como 'rogo-vos que me tenhais por aflita' (וַאֲנִי אִשָּׁה מְעֻטַּת רוּחַ) carrega a ideia de 'mulher de espírito fraco' ou 'de alma esmagada'. É a total rendição da força humana diante de Deus, reconhecendo a impotência total. Ela não pede um milagre abstrato; ela confessa a fonte específica de sua vergonha social e dor pessoal: a esterilidade.",
+      "temas": [
+        "Oração Persistente",
+        "A Dor da Humilhação",
+        "Confissão de Aflição"
+      ],
+      "personagens": [
+        "Ana",
+        "Eli"
+      ]
     },
     "28": {
-      "parafrase": "'Por isso, eu também o dedico ao Senhor; por todos os dias de sua vida, ele será dedicado ao Senhor.' E eles adoraram ao Senhor ali.",
-      "referencias": [],
-      "comentario": "Ana cumpre seu voto, dedicando Samuel ao serviço de Deus. A adoração final sela o ato de consagração, reconhecendo a soberania e a bondade de Deus.",
-      "temas": ["dedicação", "consagração", "adoração"],
-      "personagens": ["Ana", "Samuel", "Deus"]
+      "parafrase": "Com um olhar de esperança tênue, mas determinado, Ana concluiu sua súplica, direcionando-a ao sacerdote como representante do céu: 'Pelo poder e pela promessa do Eterno, eu entrego meu fardo a Ele. Se Deus me abençoar com um filho varão, saiba, meu senhor, que eu prometo solenemente dedicá-lo inteiramente ao serviço do Senhor por todos os dias da sua vida, e jamais, jamais permitirá que a lâmina de um barbeiro toque sua cabeça, pois ele será um nazireu consagrado.' 🙏",
+      "referencias": [
+        "Números 6:5",
+        "Isaías 49:25"
+      ],
+      "comentario": "Este versículo contém o clímax da fé de Ana: a promessa do voto Nazireu. O voto de Ana antecipa o que seria formalizado em Números 6. Um nazireu (do hebraico 'nazir', 'separado') se comprometia a não beber vinho, não se aproximar de cadáveres e não cortar os cabelos. O cabelo longo era o sinal visível dessa separação e consagração (compare com Sansão, embora o voto de Ana seja voluntário e total). Ela não pede apenas um filho; ela oferece o fruto de sua dor de volta a Deus como um sacrifício vivo, um ato de fé radical que transformará sua dor em um legado espiritual. Ela sela o acordo através da autoridade de Eli.",
+      "temas": [
+        "Voto Nazireu",
+        "Entrega e Sacrifício",
+        "Fé Condicional e Promessa"
+      ],
+      "personagens": [
+        "Ana",
+        "Eli",
+        "Samuel (implícito)"
+      ]
     }
   }
 }

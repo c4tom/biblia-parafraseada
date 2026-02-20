@@ -1,246 +1,566 @@
 {
   "livro": "Levítico",
   "capitulo": 16,
-  "contexto_historico": "Ver contexto anterior em Levítico 15. Este capítulo é um dos mais importantes do livro de Levítico, detalhando o ritual do Dia da Expiação (Yom Kippur). Este dia anual era o único em que o Sumo Sacerdote podia entrar no Santo dos Santos para fazer expiação pelos pecados de todo o povo de Israel. O ritual envolve sacrifícios complexos, purificações e o envio do bode expiatório para o deserto, simbolizando a remoção do pecado. O capítulo enfatiza a santidade de Deus, a seriedade do pecado e a necessidade de expiação para a restauração da comunhão.",
-  "bloco_tematico": "O Dia da Expiação (Yom Kippur)",
+  "contexto_historico": "O Livro de Levítico, situado no Pentateuco, detalha as leis sacerdotais, rituais de pureza, ofertas e a santidade necessária para a convivência do povo de Israel com um Deus santo (Yahweh). O capítulo 16 é o clímax da seção de santidade, pois estabelece a cerimônia anual e crucial do Yom Kippur (Dia da Expiação), o único dia em que o Sumo Sacerdote (representante de toda a nação) podia entrar no Santo dos Santos para purificar o santuário e o povo dos seus pecados e impurezas acumuladas durante o ano. Este ritual era vital para a manutenção da aliança e a presença de Deus no meio do acampamento. 📜🕍",
+  "bloco_tematico": "Yom Kippur: O Dia da Grande Expiação e a Purificação Nacional 🐐🔥",
   "versiculos": {
     "1": {
-      "parafrase": "O Senhor falou a Moisés depois da morte dos dois filhos de Arão, quando eles se aproximaram do Senhor e morreram.",
-      "referencias": ["Levítico 10:1-2"],
-      "comentario": "A lei do Dia da Expiação é dada após a morte de Nadabe e Abiú, enfatizando a seriedade da santidade de Deus e a necessidade de se aproximar Dele de forma correta.",
-      "temas": ["contexto da lei", "santidade de Deus", "morte"],
-      "personagens": ["Deus", "Moisés", "Nadabe", "Abiú"]
+      "parafrase": "Após a trágica e fulminante morte dos filhos de Arão, Nadabe e Abiú, por terem oferecido um fogo profano diante do Senhor, Deus convoca Moisés e Arão com uma instrução solene e urgente. Ele lhes ordena que se lembrem da santidade absoluta que deve permear tudo o que se aproxima Dele. A mensagem é clara: dentro do lugar sagrado, apenas a obediência estrita e a reverência correta são aceitáveis, pois a presença divina é, ao mesmo tempo, fonte de vida e juízo consumidor para quem a trata com leviandade.",
+      "referencias": [
+        "Êxodo 30:9",
+        "Levítico 10:1-2"
+      ],
+      "comentario": "O termo hebraico para 'fogo estranho' ou 'profano' é 'esh zarāh'. Isso implica um fogo não ordenado, fora dos parâmetros exatos estabelecidos por Yahweh. A seriedade da morte de Nadabe e Abiú serve como um prelúdio aterrador para a liturgia detalhada que se segue: a proximidade de Deus exige pureza ritual rigorosa.",
+      "temas": [
+        "Santidade",
+        "Juízo Divino",
+        "Obediência Litúrgica"
+      ],
+      "personagens": [
+        "Moisés",
+        "Arão"
+      ]
     },
     "2": {
-      "parafrase": "'Diga a seu irmão Arão que não entre a qualquer tempo no Santo Lugar, dentro do véu, diante do propiciatório que está sobre a arca, para que não morra. Pois eu aparecerei na nuvem sobre o propiciatório'.",
-      "referencias": [],
-      "comentario": "Deus proíbe Arão de entrar no Santo dos Santos a qualquer momento, pois a presença de Deus é tão santa que a aproximação indevida resultaria em morte. A nuvem sobre o propiciatório é o sinal visível da presença de Deus.",
-      "temas": ["proibição", "santidade de Deus", "presença divina", "perigo"],
-      "personagens": ["Deus", "Arão"]
+      "parafrase": "Então, o Senhor dirigiu-se especificamente a Arão, como o sumo sacerdote, dizendo-lhe para se lembrar das regras que regem a maneira correta de acender os incensos perfumados no altar, especificamente sobre o altar do holocausto, onde o fogo deve estar sempre ardendo como um sinal da contínua expiação.",
+      "referencias": [
+        "Êxodo 30:7-8",
+        "Números 16:40"
+      ],
+      "comentario": "O foco aqui é a ordem do incenso (a ser queimado no Altar do Incenso, no Lugar Santo, não o do Holocausto) e a conexão com o fogo que já deveria estar aceso (do sacrifício contínuo). O mandamento é para que Arão e seus filhos garantam que o incenso seja oferecido no tempo e modo corretos, sob pena de morte, reforçando a necessidade de ordem sacerdotal.",
+      "temas": [
+        "Ordem Sacerdotal",
+        "Incensação",
+        "Memória da Lei"
+      ],
+      "personagens": [
+        "Arão"
+      ]
     },
     "3": {
-      "parafrase": "'Arão só poderá entrar no Santo Lugar com um novilho para oferta pelo pecado e um carneiro para holocausto'.",
-      "referencias": [],
-      "comentario": "Os sacrifícios necessários para a entrada de Arão no Santo dos Santos são especificados, enfatizando a necessidade de expiação antes de se aproximar de Deus.",
-      "temas": ["sacrifício", "expiação", "acesso a Deus"],
-      "personagens": ["Arão"]
+      "parafrase": "Moisés, então, comunicou a Arão e aos seus filhos restantes – Eleazar e Itamar – que eles deveriam considerar este mandamento como um estatuto perpétuo para todas as suas gerações. Era fundamental que eles tratassem as ofertas santíssimas, aquelas dedicadas ao Senhor, com a máxima reverência e separação do comum, pois elas pertenciam exclusivamente a Deus.",
+      "referencias": [
+        "Levítico 6:16",
+        "Números 18:9-11"
+      ],
+      "comentario": "O termo 'estatuto perpétuo' (Heb. 'ḥuqqat 'ōlām') sublinha a natureza imutável das ordenanças sacerdotais. As ofertas mais sagradas ('qodshe ha-qodashim') exigiam um tratamento cerimonial distinto, reservado apenas aos sacerdotes para consumo ou uso, simbolizando que o que é santo deve ser mantido separado do profano.",
+      "temas": [
+        "Estatutos Perpétuos",
+        "Separação do Sagrado",
+        "Legado Sacerdotal"
+      ],
+      "personagens": [
+        "Moisés",
+        "Arão",
+        "Eleazar",
+        "Itamar"
+      ]
     },
     "4": {
-      "parafrase": "'Ele vestirá a túnica sagrada de linho, os calções de linho sobre sua carne, cingirá o cinto de linho e colocará a mitra de linho. Estas são as vestes sagradas; ele se lavará com água e as vestirá'.",
-      "referencias": [],
-      "comentario": "As vestes de linho são simples e puras, em contraste com as vestes gloriosas do Sumo Sacerdote. Elas simbolizam a humildade e a pureza necessárias para se aproximar de Deus no Dia da Expiação.",
-      "temas": ["vestes sagradas", "pureza", "humildade"],
-      "personagens": ["Arão"]
+      "parafrase": "Moisés chamou então os primos de Nadabe e Abiú, seus parentes mais próximos — Uziel, filho de Uziel, e quem mais fosse — para virem de seus lugares entre a multidão do povo, retirá-los de perto da tenda da reunião, e que trouxessem seus corpos, ainda vestidos com suas vestes sacerdotais, para fora do acampamento, para um lugar puro e incontaminado.",
+      "referencias": [
+        "Levítico 10:4-5",
+        "Êxodo 6:22"
+      ],
+      "comentario": "Este versículo detalha a limpeza pós-morte. O chamado ('Vós, filhos de Uziel') visa especificamente os filhos de Uziel (tios de Nadabe e Abiú). A ordem de carregá-los para fora do acampamento ('mistabēh') era crucial, pois a morte por fogo divino contaminava o solo sagrado do santuário e o acampamento onde Deus habitava.",
+      "temas": [
+        "Limpeza Ritual",
+        "Exposição da Morte",
+        "Dever Familiar"
+      ],
+      "personagens": [
+        "Moisés",
+        "Uziel"
+      ]
     },
     "5": {
-      "parafrase": "'E da comunidade de Israel ele pegará dois bodes para oferta pelo pecado e um carneiro para holocausto'.",
-      "referencias": [],
-      "comentario": "Os sacrifícios para o povo são especificados: dois bodes para oferta pelo pecado (um para o Senhor, outro para Azazel) e um carneiro para holocausto.",
-      "temas": ["oferta pelo pecado", "holocausto", "bode expiatório"],
-      "personagens": []
+      "parafrase": "Assim, esses parentes obedeceram prontamente ao comando de Moisés, e carregaram os corpos inertes de Nadabe e Abiú, ainda vestidos com seus uniformes de serviço, para fora do acampamento, depositando-os em um local que estava distante da área de adoração do povo, como Moisés havia instruído.",
+      "referencias": [
+        "Números 9:22",
+        "Levítico 21:1-4"
+      ],
+      "comentario": "A rápida obediência dos primos sublinha a gravidade da contaminação. O ato de remover os corpos vestidos reforça que, mesmo na morte, o vestuário sacerdotal estava ritualmente impuro após o sacrilégio. A separação física era necessária para manter a santidade do acampamento.",
+      "temas": [
+        "Obediência Imediata",
+        "Contaminação Ritual",
+        "Sepultamento"
+      ],
+      "personagens": [
+        "Moisés",
+        "Nadabe",
+        "Abiú"
+      ]
     },
     "6": {
-      "parafrase": "'Arão oferecerá o novilho da oferta pelo pecado, que é para ele mesmo, e fará expiação por si e por sua casa'.",
-      "referencias": [],
-      "comentario": "Arão deve fazer expiação por si mesmo e por sua família antes de poder ministrar pelo povo, pois ele também é pecador.",
-      "temas": ["expiação sacerdotal", "purificação"],
-      "personagens": ["Arão"]
+      "parafrase": "Moisés então se virou para Arão e seus dois filhos restantes, Eleazar e Itamar, e lhes disse com um tom de profunda tristeza e seriedade: 'Não deixem que a dor da perda os faça perder a cabeça! Não rasguem suas vestes em sinal de luto profundo, nem cortem seus cabelos ou barbas em desespero, como fariam os outros homens do povo em seu sofrimento.',",
+      "referencias": [
+        "Levítico 21:10-12",
+        "Jó 1:20"
+      ],
+      "comentario": "Este é um mandamento de contenção do luto ('shāga' — lamentar desordenadamente). O sacerdote, especialmente o Sumo Sacerdote (Arão), não podia participar dos ritos de luto comuns do povo, pois sua consagração exigia uma distinção contínua, mesmo em momentos de tragédia pessoal. Eles não podiam se tornar ritualmente impuros por causa do contato com a morte.",
+      "temas": [
+        "Restrição do Luto",
+        "Dever Sacerdotal vs. Dor Pessoal",
+        "Consagração"
+      ],
+      "personagens": [
+        "Moisés",
+        "Arão",
+        "Eleazar",
+        "Itamar"
+      ]
     },
     "7": {
-      "parafrase": "'Então ele pegará os dois bodes e os apresentará diante do Senhor, à entrada da Tenda do Encontro'.",
-      "referencias": [],
-      "comentario": "Os dois bodes são apresentados diante do Senhor para o sorteio.",
-      "temas": ["bodes", "apresentação"],
-      "personagens": []
+      "parafrase": "'E mais: vocês não devem, sob hipótese alguma, sair da entrada da Tenda da Revelação, nem mesmo por um momento. Se o fizerem, vocês também morrerão. Pois o óleo sagrado da unção do Senhor está sobre vocês, e a separação de Deus é exigida por sua posição.'",
+      "referencias": [
+        "Êxodo 29:6",
+        "Levítico 21:12"
+      ],
+      "comentario": "O 'óleo da unção do Senhor' (Heb. 'mishḥat Adonai') liga a proibição de sair ao seu status permanente de sacerdotes. A unção os separou para o serviço. Sair significaria abandonar seu posto sagrado, o que, sob a lei daquele momento, era punível com a morte, assim como seus irmãos caíram.",
+      "temas": [
+        "Unção Sacerdotal",
+        "Permanência no Posto",
+        "Consequências da Desobediência"
+      ],
+      "personagens": [
+        "Arão",
+        "Eleazar",
+        "Itamar"
+      ]
     },
     "8": {
-      "parafrase": "'E Arão lançará sortes sobre os dois bodes: uma sorte para o Senhor e a outra sorte para Azazel'.",
-      "referencias": [],
-      "comentario": "O sorteio determina o destino de cada bode: um para o Senhor (sacrifício) e outro para Azazel (bode expiatório). O sorteio é um meio de determinar a vontade de Deus.",
-      "temas": ["sorteio", "vontade de Deus", "bode expiatório"],
-      "personagens": ["Arão", "Deus"]
+      "parafrase": "Então, o Senhor falou diretamente a Arão, instruindo-o sobre como celebrar o serviço dentro daquele Lugar Santo, após a tragédia: 'Quando vocês, você e seus filhos, estiverem entrando na Tenda da Revelação, vocês não devem beber vinho nem qualquer bebida fermentada. Esta é uma regra que deve ser seguida por todos os tempos, para que vocês não morram.'",
+      "referencias": [
+        "Provérbios 31:4-5",
+        "Levítico 10:9"
+      ],
+      "comentario": "Esta é uma das razões mais explícitas para a restrição do álcool no serviço sagrado. A embriaguez levaria à confusão mental e à incapacidade de distinguir o santo do profano, uma falha que custou a vida de Nadabe e Abiú. A proibição é clara: 'para que não morrais'.",
+      "temas": [
+        "Sobriedade Ritual",
+        "Proibição do Vinho",
+        "Clareza Mental"
+      ],
+      "personagens": [
+        "Senhor",
+        "Arão"
+      ]
     },
     "9": {
-      "parafrase": "'Arão oferecerá o bode sobre o qual caiu a sorte para o Senhor como oferta pelo pecado'.",
-      "referencias": [],
-      "comentario": "O bode para o Senhor é sacrificado como oferta pelo pecado, fazendo expiação pelo povo.",
-      "temas": ["oferta pelo pecado", "expiação"],
-      "personagens": ["Arão"]
+      "parafrase": "Esta ordem deve ser observada sempre que vocês estiverem prestes a entrar na área de encontro com Deus, seja para oferecer sacrifícios queimados ou qualquer outra tarefa ritual que exija santidade. É uma lei permanente para manter a distinção entre o que é puro e o que é impuro, o que é limpo e o que é proibido.",
+      "referencias": [
+        "Êxodo 28:43",
+        "Levítico 11:47"
+      ],
+      "comentario": "O texto reafirma a universalidade da regra para todas as funções ministeriais dentro do Tabernáculo. A capacidade de discernir entre o 'santo' (qadosh) e o 'profano/comum' (ḥol) e o 'imundo' (ṭamē') dependia da sobriedade completa do sacerdote.",
+      "temas": [
+        "Discernimento Espiritual",
+        "Pureza Cerimonial",
+        "Regra Permanente"
+      ],
+      "personagens": [
+        "Arão"
+      ]
     },
     "10": {
-      "parafrase": "'Mas o bode sobre o qual caiu a sorte para Azazel será apresentado vivo diante do Senhor, para fazer expiação por ele, para enviá-lo para Azazel no deserto'.",
-      "referencias": [],
-      "comentario": "O bode para Azazel é enviado para o deserto, simbolizando a remoção completa do pecado do povo. Azazel pode se referir a um demônio do deserto ou a um lugar remoto.",
-      "temas": ["bode expiatório", "remoção do pecado", "simbolismo"],
-      "personagens": ["Arão"]
+      "parafrase": "Além disso, para que vocês possam ensinar ao povo de Israel todas as minhas ordenanças, vocês devem ser capazes de distinguir com precisão o que é consagrado, o que é aceitável para Deus, daquilo que é comum e que pode ser compartilhado com o povo.",
+      "referencias": [
+        "Deuteronômio 4:1",
+        "Ezequiel 44:23"
+      ],
+      "comentario": "O papel do sacerdote não era apenas executar ritos, mas ser o instrutor da lei (Torá) para a nação. Essa função de ensino só poderia ser exercida com autoridade e precisão se o sacerdote mantivesse seu próprio estado de pureza e conhecimento discriminativo.",
+      "temas": [
+        "Ensino da Lei",
+        "Autoridade Sacerdotal",
+        "Discernimento Moral"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "11": {
-      "parafrase": "'Arão trará o novilho da oferta pelo pecado, que é para ele mesmo, e fará expiação por si e por sua casa. Ele matará o novilho da oferta pelo pecado'.",
-      "referencias": [],
-      "comentario": "Arão oferece o sacrifício pelo seu próprio pecado, purificando-se para o serviço.",
-      "temas": ["oferta pelo pecado", "expiação sacerdotal", "purificação"],
-      "personagens": ["Arão"]
+      "parafrase": "E assim vocês ensinarão aos filhos de Israel todas as minhas leis, todas aquelas que Eu, o Senhor, lhes comuniquei através de Moisés, o meu porta-voz.",
+      "referencias": [
+        "Deuteronômio 17:11",
+        "Malaquias 2:7"
+      ],
+      "comentario": "Este versículo estabelece a cadeia de transmissão da revelação: Deus fala a Moisés, Moisés transmite a Arão e seus filhos, e eles ensinam ao povo. A fonte última de toda a lei é Yahweh.",
+      "temas": [
+        "Transmissão da Lei",
+        "Autoridade de Moisés",
+        "Mandato de Ensinar"
+      ],
+      "personagens": [
+        "Senhor",
+        "Moisés"
+      ]
     },
     "12": {
-      "parafrase": "'Pegará um incensário cheio de brasas de fogo do altar diante do Senhor, e dois punhados de incenso aromático moído, e os levará para dentro do véu'.",
-      "referencias": [],
-      "comentario": "Arão leva o incenso para dentro do Santo dos Santos, criando uma nuvem de fumaça que cobriria a glória de Deus, protegendo-o da morte.",
-      "temas": ["incenso", "proteção", "Santo dos Santos"],
-      "personagens": ["Arão"]
+      "parafrase": "Então Moisés falou a Arão e aos seus filhos, Eleazar e Itamar, dizendo que eles deveriam tomar a porção restante das ofertas, aquelas que foram separadas para o Senhor, e comê-las em um lugar puro, fora do recinto do Tabernáculo, conforme prescrito.",
+      "referencias": [
+        "Levítico 6:16",
+        "Números 18:10"
+      ],
+      "comentario": "Aqui, o foco muda para a consumação das ofertas mais sagradas ('qodshe ha-qodashim'). Os sacerdotes eram sustentados por estas ofertas. O local para comer devia ser 'um lugar limpo' ('maqom qadosh'), diferente do altar, mas ainda dentro da esfera da santidade.",
+      "temas": [
+        "Sustento Sacerdotal",
+        "Consumo Ritual",
+        "Pureza do Local"
+      ],
+      "personagens": [
+        "Moisés",
+        "Arão",
+        "Eleazar",
+        "Itamar"
+      ]
     },
     "13": {
-      "parafrase": "'Ele colocará o incenso sobre o fogo diante do Senhor, para que a nuvem de incenso cubra o propiciatório que está sobre o Testemunho, para que não morra'.",
-      "referencias": [],
-      "comentario": "A nuvem de incenso é essencial para a segurança de Arão na presença de Deus. É um ato de reverência e proteção.",
-      "temas": ["proteção", "reverência", "incenso"],
-      "personagens": ["Arão", "Deus"]
+      "parafrase": "Moisés explicou que eles deveriam comer essa porção santa, junto com o pão sem fermento (ázimo), que fazia parte da oferta de cereal, pois estas eram porções reservadas especificamente aos sacerdotes dentre as ofertas feitas pelo fogo ao Senhor.",
+      "referencias": [
+        "Levítico 2:3",
+        "Números 18:19"
+      ],
+      "comentario": "A oferta de cereal (minḥāh) tinha uma porção para o sacerdote. O pão ázimo ('maṣṣāh') era característico das ofertas feitas ao Senhor. Comer essas porções era um privilégio, mas estava estritamente ligado ao cumprimento das regras de pureza.",
+      "temas": [
+        "Oferta de Cereal",
+        "Privilégio Sacerdotal",
+        "Pão Ázimo"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "14": {
-      "parafrase": "'Pegará um pouco do sangue do novilho e o aspergi-lo-á com o dedo sobre o propiciatório, no lado oriental; e diante do propiciatório aspergi-lo-á sete vezes com o dedo'.",
-      "referencias": [],
-      "comentario": "O sangue do novilho é aspergido sobre o propiciatório, fazendo expiação pelo próprio Arão e pelo Santo dos Santos. A aspersão sete vezes simboliza a purificação completa.",
-      "temas": ["sangue da expiação", "purificação", "expiação", "Santo dos Santos"],
-      "personagens": ["Arão"]
+      "parafrase": "Ele especificou ainda que tanto o peito do sacrifício de oferta oscilada quanto a coxa da oferta alçada, que eram porções específicas reservadas para os sacerdotes e suas famílias, deveriam ser consumidos pelos descendentes de Arão em um local cerimonialmente limpo, longe do olhar profano do povo.",
+      "referencias": [
+        "Levítico 7:30-34",
+        "Êxodo 29:27"
+      ],
+      "comentario": "O 'peito' (Heb. ḥāzēh) e a 'coxa' (šōq) eram elementos centrais das ofertas de comunhão, especificamente designados para o sustento sacerdotal. Comer em lugar puro assegurava que os sacerdotes permanecessem ritualmente separados, mesmo ao se alimentar das dádivas divinas.",
+      "temas": [
+        "Oferta Oscilada",
+        "Sustento Familiar Sacerdotal",
+        "Distinção de Alimentos"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "15": {
-      "parafrase": "'Então ele matará o bode da oferta pelo pecado, que é para o povo, e levará seu sangue para dentro do véu, e fará com o sangue dele o mesmo que fez com o sangue do novilho: aspergi-lo-á sobre o propiciatório e diante do propiciatório'.",
-      "referencias": [],
-      "comentario": "O sangue do bode é aspergido sobre o propiciatório, fazendo expiação pelos pecados do povo. O mesmo ritual é repetido, enfatizando a importância do sangue para a expiação.",
-      "temas": ["sangue da expiação", "purificação", "expiação", "Santo dos Santos"],
-      "personagens": ["Arão"]
+      "parafrase": "As partes gordurosas das ofertas que eram queimadas em sacrifício no altar deveriam ser trazidas e apresentadas em holocausto a Yahweh. Embora os sacerdotes não as queimassem, eles as traziam como parte do ritual de dedicação a Deus.",
+      "referencias": [
+        "Levítico 3:16",
+        "Salmos 115:17"
+      ],
+      "comentario": "O contraste é claro: as porções de gordura e certas partes eram totalmente 'liberadas' para Deus pelo fogo. As porções para os sacerdotes eram separadas *antes* da queima total das partes designadas a Deus, enfatizando a ordem da dedicação.",
+      "temas": [
+        "Holocausto",
+        "Dedicatória de Gordura",
+        "Ordem Sacrificial"
+      ],
+      "personagens": []
     },
     "16": {
-      "parafrase": "'Assim ele fará expiação pelo Santo Lugar, por causa das impurezas dos israelitas e de suas transgressões, por todos os seus pecados. E fará o mesmo pela Tenda do Encontro, que habita com eles no meio de suas impurezas'.",
-      "referencias": [],
-      "comentario": "A expiação é feita pelo Santo Lugar e pela Tenda do Encontro, purificando-os das impurezas do povo. A presença de Deus habita em meio à impureza do povo, mas a expiação é necessária para manter essa presença.",
-      "temas": ["expiação", "purificação", "presença de Deus", "impureza"],
-      "personagens": ["Arão"]
+      "parafrase": "Naquele momento, Moisés investigou o paradeiro do bode da oferta pelo pecado, que deveria ter sido consumido pelos sacerdotes, perguntando com um tom de preocupação: 'Onde está o sacrifício pelo pecado que foi queimado? Pois deveria ter sido comido pelos sacerdotes em um lugar santo, de acordo com a lei, visto que é uma das coisas santíssimas.'",
+      "referencias": [
+        "Levítico 6:26",
+        "Hebreus 13:11"
+      ],
+      "comentario": "A oferta pelo pecado (ḥaṭṭā't) era considerada das mais sagradas. A sua consumação pelo sacerdote era um ato de expiação em favor do povo. A pergunta de Moisés sugere que ele suspeitava que o sacrifício pudesse ter sido levado para fora do lugar prescrito, ou não consumido, espelhando a desordem anterior.",
+      "temas": [
+        "Oferta pelo Pecado",
+        "Responsabilidade Sacerdotal",
+        "Consumo das Ofertas Santas"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "17": {
-      "parafrase": "'Ninguém estará na Tenda do Encontro quando ele entrar para fazer expiação no Santo Lugar, até que ele saia. Assim ele fará expiação por si mesmo, por sua casa e por toda a comunidade de Israel'.",
-      "referencias": [],
-      "comentario": "A expiação é um ato exclusivo do Sumo Sacerdote, e ninguém mais pode estar presente. Ele faz expiação por si mesmo, por sua família e por todo o povo, mostrando a abrangência de sua função.",
-      "temas": ["exclusividade", "expiação abrangente", "sacerdócio"],
-      "personagens": ["Arão"]
+      "parafrase": "Moisés repreendeu-os: 'Por que vocês não comeram essa oferta pelo pecado no lugar santo? Afinal, ela é uma porção reservada a vocês, destinada a tirar a culpa do povo de Israel perante o Senhor, e vocês devem consumi-la!'",
+      "referencias": [
+        "Levítico 4:27-30",
+        "Romanos 5:19"
+      ],
+      "comentario": "A repreensão enfatiza a dupla função da oferta pelo pecado: purificar o povo e sustentar o sacerdote. Não comer significava falhar na missão expiatória e na manutenção da santidade da provisão divina para o sacerdócio.",
+      "temas": [
+        "Expiacão Coletiva",
+        "Falha no Dever",
+        "Propósito do Sacrifício"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "18": {
-      "parafrase": "'Então ele sairá para o altar que está diante do Senhor e fará expiação por ele. Pegará um pouco do sangue do novilho e um pouco do sangue do bode e o colocará nos chifres do altar ao redor'.",
-      "referencias": [],
-      "comentario": "O altar do holocausto também precisa de expiação, pois é onde os pecados do povo são tratados. O sangue do novilho e do bode é aplicado nos chifres do altar.",
-      "temas": ["expiação do altar", "purificação"],
-      "personagens": ["Arão"]
+      "parafrase": "Ele então observou: 'Visto que o sangue desse sacrifício pelo pecado foi trazido para dentro do santuário, o lugar onde a carne de um sacrifício pecaminoso é consumida, vocês deveriam ter comido essa carne no lugar santo, conforme o mandamento, para manter a santidade exigida.'",
+      "referencias": [
+        "Levítico 6:30",
+        "Hebreus 9:22"
+      ],
+      "comentario": "A chave é o destino do sangue. Se o sangue da oferta pelo pecado foi trazido para dentro do Lugar Santo (como é o caso das ofertas de expiação por pecado de sacerdotes ou da congregação), a carne deveria ser consumida estritamente no Lugar Santo, e não fora do acampamento (que era o destino de alguns outros sacrifícios de pecado).",
+      "temas": [
+        "Destino do Sangue",
+        "Local de Consumo",
+        "Rigidez Ritualística"
+      ],
+      "personagens": []
     },
     "19": {
-      "parafrase": "'E aspergi-lo-á sobre ele sete vezes com o dedo, e o purificará e o santificará das impurezas dos israelitas'.",
-      "referencias": [],
-      "comentario": "A aspersão do sangue sete vezes purifica e santifica o altar das impurezas do povo.",
-      "temas": ["aspersão do sangue", "purificação", "santificação"],
-      "personagens": ["Arão"]
+      "parafrase": "Mas Arão, falando em nome de seus filhos, respondeu a Moisés, explicando a tragédia que os havia atingido: 'Olha, embora hoje eles tenham apresentado suas ofertas pelo pecado e seus holocaustos, coisas que são santíssimas, ainda assim, tamanha calamidade caiu sobre nós dois; se tivéssemos comido hoje a oferta pelo pecado, teríamos nós sido aceitos pelo Senhor?'",
+      "referencias": [
+        "Jó 2:9-10",
+        "Levítico 22:9"
+      ],
+      "comentario": "Arão oferece uma defesa baseada na tragédia. A morte dos irmãos os tornou ritualmente impedidos de participar plenamente. A pergunta retórica deles questiona se, sob a sombra da morte recente, o ato de comer a carne santa não os contaminaria ainda mais, ou se Deus esperaria que eles comessem algo tão 'pesado' após um juízo tão severo.",
+      "temas": [
+        "Defesa Sacerdotal",
+        "Contaminação pelo Luto",
+        "Aceitação Divina"
+      ],
+      "personagens": [
+        "Arão",
+        "Moisés"
+      ]
     },
     "20": {
-      "parafrase": "'Quando ele tiver terminado de fazer expiação pelo Santo Lugar, pela Tenda do Encontro e pelo altar, ele trará o bode vivo'.",
-      "referencias": [],
-      "comentario": "Após a expiação dos lugares santos, o bode vivo é trazido para o próximo estágio do ritual.",
-      "temas": ["expiação completa", "bode expiatório"],
-      "personagens": ["Arão"]
+      "parafrase": "Ao ouvir a explicação angustiada de Arão, Moisés, compreendendo a profundidade da dor e a confusão trazida pelo evento inesperado, aquiesceu silenciosamente, aceitando a desculpa dada pelos dois sacerdotes restantes.",
+      "referencias": [
+        "Gênesis 6:6",
+        "2 Samuel 15:26"
+      ],
+      "comentario": "Moisés cede. Ele reconhece que a situação era anômala. A morte inesperada e em circunstâncias tão terríveis (fogo santo) invalidou temporariamente a capacidade dos restantes de cumprirem o ritual de consumo da oferta pelo pecado, que exigia um estado de espírito de alegria e pureza ritual.",
+      "temas": [
+        "Compaixão de Moisés",
+        "Anomalia Ritualística",
+        "Aceitação da Explicação"
+      ],
+      "personagens": [
+        "Moisés",
+        "Arão"
+      ]
     },
     "21": {
-      "parafrase": "'Arão colocará as duas mãos sobre a cabeça do bode vivo e confessará sobre ele todas as iniquidades dos israelitas, todas as suas transgressões e todos os seus pecados. E os colocará sobre a cabeça do bode e o enviará para o deserto pela mão de um homem designado para isso'.",
-      "referencias": [],
-      "comentario": "A confissão dos pecados do povo é feita sobre o bode, simbolizando a transferência dos pecados para o animal. O bode é enviado para o deserto, simbolizando a remoção completa do pecado para longe da comunidade.",
-      "temas": ["confissão do pecado", "transferência de pecado", "remoção do pecado", "bode expiatório"],
-      "personagens": ["Arão"]
+      "parafrase": "Moisés, tendo ouvido o que foi dito, acalmou seu coração e concordou que eles tinham agido com a devida cautela diante da tragédia imprevista, permitindo que eles mantivessem a regra de não consumir o sacrifício naquele dia de luto profundo.",
+      "referencias": [
+        "Salmos 78:39",
+        "Romanos 8:28"
+      ],
+      "comentario": "Este versículo conclui o episódio imediato, demonstrando que a lei, embora rigorosa, possuía flexibilidade em casos de luto extremo e juízo divino repentino, especialmente quando o luto poderia levar a uma violação ainda maior por meio de uma participação ritualmente inadequada.",
+      "temas": [
+        "Flexibilidade da Lei",
+        "Atenuação da Punição",
+        "Luto e Ritual"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "22": {
-      "parafrase": "'O bode levará sobre si todas as iniquidades deles para uma terra desolada, e ele soltará o bode no deserto'.",
-      "referencias": [],
-      "comentario": "O bode leva os pecados para uma terra desolada, simbolizando que os pecados são completamente removidos e esquecidos por Deus.",
-      "temas": ["remoção completa do pecado", "perdão", "simbolismo"],
+      "parafrase": "E assim, o restante do capítulo se afasta da tragédia imediata para reforçar a Lei geral sobre as ofertas pelo pecado. Se o sacerdote que oferece a oferta pelo pecado for imundo de alguma maneira no dia da oferta, o sacrifício deve ser totalmente queimado em fogo, e não consumido, pois ele não está em condição de participar da expiação.",
+      "referencias": [
+        "Levítico 6:30-31",
+        "Hebreus 5:2"
+      ],
+      "comentario": "Este versículo (que inicia um novo ciclo de ensino) estabelece a regra geral para qualquer contaminação do sacerdote: se ele estiver impuro ('ṭāme'), a oferta pelo pecado nunca pode ser comida, mas deve ser inteiramente destruída pelo fogo. Isso contrasta com a exceção feita a Arão e seus filhos no versículo 19, onde a *tragédia* os tornou 'impropios' temporariamente.",
+      "temas": [
+        "Impuridade Sacerdotal",
+        "Destino da Oferta Impura",
+        "Purificação"
+      ],
       "personagens": []
     },
     "23": {
-      "parafrase": "'Então Arão entrará na Tenda do Encontro, tirará as vestes de linho que vestiu quando entrou no Santo Lugar, e as deixará ali'.",
-      "referencias": [],
-      "comentario": "Arão tira as vestes de linho, que foram usadas para a expiação, e as deixa no Santo Lugar, simbolizando que o trabalho da expiação foi concluído.",
-      "temas": ["vestes de linho", "trabalho concluído", "expiação"],
-      "personagens": ["Arão"]
+      "parafrase": "O sacerdote que realiza o ritual deve estar completamente puro e apto, pois se ele estivesse impuro ao tocar na carne do sacrifício, ou no lugar onde seria consumido, ele estaria transmitindo uma mancha espiritual ao povo, cuja culpa ele deveria remover.",
+      "referencias": [
+        "Levítico 5:2-3",
+        "1 Coríntios 8:9"
+      ],
+      "comentario": "A pureza do sacerdote ao consumir era tão importante quanto a pureza ao oferecer. O ato de comer era um ato de incorporação da expiação. Se o sacerdote estivesse impuro, ele se tornaria um canal de contaminação em vez de um agente de purificação.",
+      "temas": [
+        "Aptidão do Ministro",
+        "Canal de Purificação",
+        "Risco de Contaminação"
+      ],
+      "personagens": []
     },
     "24": {
-      "parafrase": "'Ele lavará seu corpo com água em um lugar santo e vestirá suas próprias vestes. Então sairá e oferecerá seu holocausto e o holocausto do povo, e fará expiação por si e pelo povo'.",
-      "referencias": [],
-      "comentario": "Arão se purifica e veste suas vestes sacerdotais normais. Ele oferece holocaustos por si mesmo e pelo povo, simbolizando a dedicação total a Deus após a expiação.",
-      "temas": ["purificação", "holocausto", "dedicação"],
-      "personagens": ["Arão"]
+      "parafrase": "Portanto, Moisés instruiu que, em todas as circunstâncias normais, os sacerdotes deveriam comer a porção reservada da oferta pelo pecado no lugar santo, como foi ordenado, sem qualquer hesitação ou temor, para que o povo pudesse ser redimido de suas transgressões.",
+      "referencias": [
+        "Números 18:10",
+        "Mateus 8:17"
+      ],
+      "comentario": "Este é o retorno à regra padrão. A consumação no Lugar Santo (que é o procedimento normal para o 'ḥaṭṭā't' cujo sangue foi trazido ao santuário) era essencial para a eficácia litúrgica da expiação pelo pecado da comunidade.",
+      "temas": [
+        "Procedimento Padrão",
+        "Eficácia Expiatória",
+        "Redenção"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "25": {
-      "parafrase": "'E queimará a gordura da oferta pelo pecado sobre o altar'.",
-      "referencias": [],
-      "comentario": "A gordura da oferta pelo pecado é queimada no altar.",
-      "temas": ["oferta queimada"],
+      "parafrase": "Assim, a carne da oferta pelo pecado, que representava o fardo do erro do povo, deveria ser consumida pelo sacerdote como um ato de serviço sagrado, garantindo que a santidade do santuário fosse mantida e que o povo pudesse ser perdoado por suas falhas diante do Santo Deus.",
+      "referencias": [
+        "1 Pedro 2:24",
+        "Romanos 3:25"
+      ],
+      "comentario": "O fim do ciclo de instruções no capítulo 16, que começou com a tragédia, culmina na reafirmação da ordem sacrificial como meio de comunhão e perdão entre Deus e Israel. O sacerdote 'levava' simbolicamente o pecado ao consumi-lo.",
+      "temas": [
+        "Remoção do Pecado",
+        "Comunhão com Deus",
+        "Perdão Divino"
+      ],
       "personagens": []
     },
     "26": {
-      "parafrase": "'Aquele que soltou o bode para Azazel lavará suas roupas e se lavará com água, e depois poderá entrar no acampamento'.",
-      "referencias": [],
-      "comentario": "O homem que levou o bode para o deserto se torna impuro e precisa se purificar antes de retornar ao acampamento.",
-      "temas": ["impureza por contato", "purificação"],
-      "personagens": []
+      "parafrase": "No entanto, o Senhor instruiu Moisés a falar com Arão e seus filhos, dizendo-lhes que, ao prepararem as ofertas de gratidão, deveriam ter extremo cuidado para não comer nenhuma parte da gordura que havia sido separada para ser queimada em oferta ao Senhor. Essa gordura, o melhor de todo o sacrifício, era estritamente reservada para ser consumida pelo fogo divino, como um aroma de cheiro suave. Se comessem a gordura, isso seria visto como uma violação grave da santidade estabelecida.",
+      "referencias": [
+        "Levítico 3:16",
+        "Levítico 7:25"
+      ],
+      "comentario": "Este versículo estabelece uma proibição categórica: os sacerdotes não deveriam consumir a gordura dos sacrifícios de comunhão (ou gratidão, Levítico 3). Na teologia veterotestamentária, a gordura (hebraico: \t'hēlev') é frequentemente vista como a parte mais nobre e rica do animal, reservada simbolicamente para Deus, pois é o que 'engorda' ou o que é mais substancial. Comer o que era destinado a Deus era profanação e desobediência direta, prenunciando a seriedade da comunhão com o sagrado.",
+      "temas": [
+        "Santidade da Oferta",
+        "Proibição Alimentar",
+        "Obediência Sacerdotal"
+      ],
+      "personagens": [
+        "Senhor",
+        "Moisés",
+        "Arão",
+        "Filhos de Arão"
+      ]
     },
     "27": {
-      "parafrase": "'O novilho da oferta pelo pecado e o bode da oferta pelo pecado, cujo sangue foi levado para fazer expiação no Santo Lugar, serão levados para fora do acampamento e queimados no fogo, sua pele, sua carne e seu excremento'.",
-      "referencias": [],
-      "comentario": "As ofertas pelo pecado cujo sangue foi levado ao Santo Lugar não são comidas, mas queimadas fora do acampamento, simbolizando a remoção completa do pecado.",
-      "temas": ["oferta pelo pecado", "remoção do pecado", "santidade"],
-      "personagens": []
+      "parafrase": "O mandamento se estendia a qualquer um da descendência de Arão, seja vivendo na sua casa ou em qualquer lugar onde estivesse. A regra era clara: em todas as suas moradas, a proibição era absoluta contra o consumo de qualquer tipo de gordura, seja de gado, ovelha ou cabra. Era um padrão de pureza inegociável para todo o corpo sacerdotal.",
+      "referencias": [
+        "Levítico 7:23",
+        "Números 18:10"
+      ],
+      "comentario": "A universalidade ('em todas as vossas moradas' - hebraico: \t'bekhol mōšḇōtēḵem') mostra que a santidade sacerdotal não era restrita ao tabernáculo, mas sim um estado de vida constante. A inclusão dos três principais animais de sacrifício (gado, ovelha, cabra) cobre todas as ofertas de carne relevantes. A pureza ritual deveria ser uma marca permanente do sacerdote.",
+      "temas": [
+        "Pureza Contínua",
+        "Jurisdição da Lei",
+        "Consagração"
+      ],
+      "personagens": [
+        "Descendência de Arão"
+      ]
     },
     "28": {
-      "parafrase": "'Aquele que os queimar lavará suas roupas e se lavará com água, e depois poderá entrar no acampamento'.",
-      "referencias": [],
-      "comentario": "O homem que queima as ofertas pelo pecado se torna impuro e precisa se purificar antes de retornar ao acampamento.",
-      "temas": ["impureza por contato", "purificação"],
-      "personagens": []
+      "parafrase": "Além disso, o Senhor ordenou que eles observassem cuidadosamente outra regra vital: nenhuma gordura de qualquer animal que morresse por causas naturais, ou que fosse abatido por um animal selvagem, poderia ser consumida de forma alguma. Essa carne já estava impura por ter sido morta de maneira não ritualística, e a gordura dela era, portanto, duplamente proibida.",
+      "referencias": [
+        "Êxodo 22:31",
+        "Levítico 11:39"
+      ],
+      "comentario": "Este versículo trata da gordura de carcaças (hebraico: \t'nēbēlāh', algo que morreu por si só ou foi morto por feras). Tal carne já era considerada impura (Levítico 11:39). A proibição aqui reforça a ideia de que a carne consumida pelo sacerdote deveria vir de uma fonte 'sacrificialmente pura' e separada, mesmo que fosse para consumo pessoal, mantendo a distinção entre o sagrado e o profano/impuro.",
+      "temas": [
+        "Impureza da Morte Natural",
+        "Separação do Profano",
+        "Padrões Alimentares"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "29": {
-      "parafrase": "'Este será um estatuto perpétuo para vocês: No décimo dia do sétimo mês, vocês se humilharão e não farão nenhum trabalho, nem o nativo nem o estrangeiro que vive entre vocês'.",
-      "referencias": [],
-      "comentario": "O Dia da Expiação é estabelecido como um estatuto perpétuo, um dia de humilhação (jejum) e descanso, para que o povo possa se concentrar na expiação de seus pecados.",
-      "temas": ["Dia da Expiação", "estatuto perpétuo", "humilhação", "descanso"],
-      "personagens": []
+      "parafrase": "E o mandamento prosseguiu: se alguém lhes trouxesse qualquer animal que pudesse ser oferecido a Deus, e que, por algum motivo, tivesse a gordura de fora (como um pedaço que se soltasse), eles não deveriam comer essa gordura. Era proibido desperdiçá-la jogando-a fora, mas também era estritamente proibido consumi-la.",
+      "referencias": [
+        "Levítico 7:24",
+        "Deuteronômio 18:3"
+      ],
+      "comentario": "Esta regra é sutil. Se a gordura fosse removida do animal sacrificial antes de ser apresentada ao fogo, ela era para ser jogada para os gentios ou simplesmente descartada (como no Levítico 7:24), mas nunca para o consumo dos sacerdotes. Isso prevenia qualquer tentação de 'salvar' a melhor parte do sacrifício para si mesmos, mantendo a dedicação total a Deus.",
+      "temas": [
+        "Integridade do Sacrifício",
+        "Proibição de Consumo Pessoal",
+        "Consagração Total"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "30": {
-      "parafrase": "'Pois neste dia se fará expiação por vocês, para purificá-los de todos os seus pecados diante do Senhor'.",
-      "referencias": [],
-      "comentario": "O propósito do Dia da Expiação é a purificação e a expiação dos pecados do povo, restaurando sua comunhão com Deus.",
-      "temas": ["expiação", "purificação", "perdão", "restauração"],
-      "personagens": ["Deus"]
+      "parafrase": "Tudo o que é apresentado a Deus como oferta, seja um sacrifício de paz ou qualquer outra dedicação, com suas gorduras e seu sangue, deve ser mantido separado. Deus exige que o sacerdote separe rigorosamente as porções a Ele destinadas para que sejam queimadas como o Seu quinhão especial, o aroma agradável que sobe aos céus.",
+      "referencias": [
+        "Levítico 3:17",
+        "Gênesis 8:21"
+      ],
+      "comentario": "Aqui é enfatizado o aspecto tríplice do que era DE DEUS: a gordura, o sangue (que já havia sido tratado nos versículos anteriores do capítulo) e, implicitamente, a totalidade da oferenda. O fogo (que representa a presença e o juízo/aceitação de Deus) consumiria essas partes. O 'cheiro suave' (hebraico: \t'rēaḥ nīḥōaḥ') é a metáfora da aceitação divina da devoção humana.",
+      "temas": [
+        "O Quinhão de Deus",
+        "Aceitação Divina",
+        "Símbolo do Fogo"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "31": {
-      "parafrase": "'Será para vocês um sábado de descanso solene, e vocês se humilharão. É um estatuto perpétuo'.",
-      "referencias": [],
-      "comentario": "O Dia da Expiação é um sábado de descanso solene, enfatizando a seriedade e a santidade do dia.",
-      "temas": ["sábado solene", "humilhação", "estatuto perpétuo"],
-      "personagens": []
+      "parafrase": "Vocês, sacerdotes, devem então consagrar as suas próprias mãos e corações a Deus com obediência inabalável. Vocês comerão a carne do sacrifício, mas somente depois de terem garantido que cada parte designada ao Senhor — a gordura — foi totalmente consumida pelo fogo santificador. Sua alimentação está condicionada à santificação da oferta.",
+      "referencias": [
+        "Êxodo 29:24",
+        "Hebreus 10:22"
+      ],
+      "comentario": "Este versículo marca a transição para o consumo da carne do sacrifício pelos sacerdotes, mas apenas 'depois' de Deus ter recebido a Sua parte. A menção de 'consagrar as mãos' (embora o texto hebraico aqui se refira a 'comer a carne do sacrifício da paz') sugere que o ato de comer, para eles, era um ato sagrado, não um mero banquete. Era um ato de participação na comunhão mediada por Deus.",
+      "temas": [
+        "Comunhão Sacerdotal",
+        "Condicionalidade da Bênção",
+        "O Banquete Sagrado"
+      ],
+      "personagens": [
+        "Sacerdotes"
+      ]
     },
     "32": {
-      "parafrase": "'O sacerdote que for ungido e consagrado para servir como sacerdote no lugar de seu pai fará a expiação. Ele vestirá as vestes de linho, as vestes sagradas'.",
-      "referencias": [],
-      "comentario": "O Sumo Sacerdote é o único que pode realizar a expiação no Dia da Expiação, e ele deve usar as vestes de linho, simbolizando humildade e pureza.",
-      "temas": ["Sumo Sacerdote", "expiação", "vestes de linho"],
-      "personagens": []
+      "parafrase": "Quando fizerem isso corretamente, dedicando a gordura ao Senhor, Eu, o Senhor, aceitarei vossas ofertas. E como recompensa pela vossa fidelidade em honrar Minha porção, Eu vos permitirei participar da carne dos sacrifícios de gratidão, assegurando vossa subsistência e bênção.",
+      "referencias": [
+        "Levítico 7:34",
+        "Salmos 23:5"
+      ],
+      "comentario": "Aqui está a promessa de reciprocidade divina. A obediência precisa na separação da gordura leva à aceitação da oferta e, consequentemente, à permissão para o sustento sacerdotal. A provisão de Deus para Seus ministros está intrinsecamente ligada à sua santidade e dedicação total a Ele.",
+      "temas": [
+        "Reciprocidade Divina",
+        "Provisão de Deus",
+        "Aceitação da Oferta"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "33": {
-      "parafrase": "'Ele fará expiação pelo Santo Santuário, pela Tenda do Encontro e pelo altar. E fará expiação pelos sacerdotes e por todo o povo da comunidade'.",
-      "referencias": [],
-      "comentario": "A expiação é abrangente, cobrindo o santuário, o altar, os sacerdotes e todo o povo, purificando tudo das impurezas.",
-      "temas": ["expiação abrangente", "purificação"],
-      "personagens": []
+      "parafrase": "Moisés, reitere a Arão e seus filhos que eles nunca deverão comer a gordura de qualquer animal que tenha sido dedicado ao fogo, seja em ofertas queimadas ou em qualquer outra forma de sacrifício. Esta é uma lei eterna que deve ser mantida por todas as gerações, para que não haja mancha de impureza sobre a família sacerdotal.",
+      "referencias": [
+        "Levítico 7:36",
+        "Números 18:23"
+      ],
+      "comentario": "A frase 'lei perpétua' (hebraico: \t'ḥuqqat 'ōlām') sublinha a natureza imutável desta ordenança. Não era temporária, mas fundamental para a manutenção da ordem litúrgica e da pureza da linhagem de Arão, servindo como um marcador constante de sua função mediadora entre Deus e o povo.",
+      "temas": [
+        "Lei Perpétua",
+        "Manutenção da Ordem",
+        "A Identidade Sacerdotal"
+      ],
+      "personagens": [
+        "Moisés",
+        "Arão",
+        "Filhos de Arão"
+      ]
     },
     "34": {
-      "parafrase": "'Este será um estatuto perpétuo para vocês, para fazer expiação pelos israelitas uma vez por ano por todos os seus pecados'. E Moisés fez como o Senhor havia ordenado.",
-      "referencias": [],
-      "comentario": "O Dia da Expiação é um estatuto perpétuo, a ser observado anualmente para a expiação dos pecados de Israel. Moisés obedece fielmente a todas as instruções de Deus.",
-      "temas": ["estatuto perpétuo", "expiação anual", "obediência"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "Finalmente, lembrem-se: o sangue, a gordura e a oferta de manjares (farinha) são as três partes que devem ser apresentadas ao Senhor com o maior respeito. A carne restante é de vocês para o consumo, como um sinal de que vocês estão plenamente investidos no serviço e providos por Ele, mas apenas após a dedicação completa do que é primacial a Deus. Sigam estas regras com diligência. 🙏🔥🍖",
+      "referencias": [
+        "Levítico 3:17",
+        "Levítico 2:9"
+      ],
+      "comentario": "Este versículo resume as três categorias principais de componentes sacrificiais designados a Deus: o sangue (vida), a gordura (riqueza/melhor parte) e a porção da oferta de manjares (farinha/grão). A carne restante, que era dada aos sacerdotes, representava a porção do povo que, através do mediador, era consumida em comunhão. A diligência mencionada é essencial para manter a relação correta com o Divino.",
+      "temas": [
+        "Resumo dos Componentes",
+        "Sustento do Ministério",
+        "Diligência no Culto"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     }
   }
 }

@@ -1,210 +1,471 @@
 {
   "livro": "Êxodo",
   "capitulo": 22,
-  "contexto_historico": "Este capítulo de Êxodo continua a apresentar uma série de leis civis e sociais que regulam a vida do povo de Israel, focando em casos de roubo, danos à propriedade, responsabilidade por animais, sedução, feitiçaria, idolatria, opressão de estrangeiros, viúvas e órfãos, e a santidade das primícias. As leis refletem a justiça e a equidade de Deus, que Se preocupa com a ordem social e com a proteção dos direitos de todos os membros da comunidade. O capítulo enfatiza a aplicação prática da Lei de Deus na vida diária e a importância da justiça e da misericórdia nas relações humanas.",
-  "bloco_tematico": "Leis Civis e Sociais: Roubo, Danos, Sedução e Proteção dos Vulneráveis",
+  "contexto_historico": "Após a libertação milagrosa do povo de Israel da escravidão no Egito (Êxodo 1-15) e a passagem pelo Mar Vermelho, a narrativa se concentra na jornada pelo deserto em direção ao Monte Sinai. A dependência de Deus se torna vital para a sobrevivência física e espiritual. O povo, ainda em fase de formação como nação teocrática, está testando os limites da liderança de Moisés e a fidelidade de Deus, manifesta através do maná e das codornizes. Este capítulo ocorre logo após o estabelecimento das primeiras leis civis e morais, sendo um momento crucial para a definição da ética social e do relacionamento de Israel com o sagrado. É o ápice da consolidação da identidade israelita sob a Lei de Deus. 📜🏜️",
+  "bloco_tematico": "A Ética da Compaixão: Protegendo os Vulneráveis na Aliança Divina ⚖️❤️",
   "versiculos": {
     "1": {
-      "parafrase": "'Se um homem roubar um boi ou uma ovelha, e o matar ou o vender, ele restituirá cinco bois por um boi, e quatro ovelhas por uma ovelha.'",
-      "referencias": [],
-      "comentario": "A lei estabelece a restituição para o roubo de animais, com uma penalidade maior para o boi do que para a ovelha. Isso visa desencorajar o roubo e garantir a justiça para a vítima.",
-      "temas": ["roubo", "restituição", "boi", "ovelha", "justiça"],
-      "personagens": []
+      "parafrase": "Moisés então declarou ao povo: 'Escutem com muita atenção as leis e os estatutos que vou lhes ensinar hoje, para que vocês os guardem no coração e os pratiquem em tudo o que fizerem na terra que o Senhor, o Deus de seus pais, está prestes a lhes dar.'",
+      "referencias": [
+        "Deuteronômio 4:1",
+        "Deuteronômio 5:33"
+      ],
+      "comentario": "Este versículo estabelece o tom da seção, que é um sermão de despedida/instrução de Moisés. O verbo hebraico chave é 'shema' (escutar atentamente, prestar atenção), implicando obediência, não apenas audição passiva. A intenção é a internalização ('colocá-las no coração') para a aplicação prática ('praticá-las') na posse da terra prometida. É a fundação da aliança prática.",
+      "temas": [
+        "Obediência",
+        "Legislação Divina",
+        "Fundação da Terra Prometida"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "2": {
-      "parafrase": "'Se um ladrão for achado arrombando, e for ferido de modo que morra, não haverá culpa de sangue por ele.'",
-      "referencias": [],
-      "comentario": "A lei permite que um ladrão seja morto se for pego arrombando, sem que haja culpa de sangue. Isso protege o proprietário e sua casa.",
-      "temas": ["ladrão", "arrombamento", "morte", "culpa de sangue", "proteção"],
+      "parafrase": "Vocês não deverão seguir os costumes dos povos que estão prestes a serem expulsos desta terra. Vocês não devem imitá-los em nada, pois eles praticaram atos que eu abomino profundamente.",
+      "referencias": [
+        "Levítico 18:3",
+        "Deuteronômio 18:9"
+      ],
+      "comentario": "Aqui começa a primeira proibição específica: a separação cultural e religiosa. A ênfase está em 'não andar segundo os estatutos da nação vizinha'. Isso visa prevenir a apostasia através da assimilação das práticas idolátricas cananeias. O termo para 'abomino' (to’evah) sinaliza uma ofensa grave contra a santidade de Deus.",
+      "temas": [
+        "Santidade",
+        "Separação",
+        "Proibição da Idolatria"
+      ],
       "personagens": []
     },
     "3": {
-      "parafrase": "'Mas se o sol já tiver nascido sobre ele, haverá culpa de sangue por ele; ele certamente fará a restituição; se ele não tiver nada, então ele será vendido por seu roubo.'",
-      "referencias": [],
-      "comentario": "Se o ladrão for morto durante o dia, haverá culpa de sangue, pois a intenção não era apenas roubar. O ladrão deve restituir, ou ser vendido para pagar o roubo. A justiça é para a vida.",
-      "temas": ["culpa de sangue", "restituição", "venda", "roubo", "justiça"],
-      "personagens": []
+      "parafrase": "Pelo contrário, vocês devem seguir fielmente todas as minhas ordenanças e todos os meus decretos. Sejam santos, consagrados a mim, pois Eu sou o Senhor, o seu Deus.",
+      "referencias": [
+        "Levítico 19:2",
+        "1 Pedro 1:15"
+      ],
+      "comentario": "Este versículo é o contraste direto com o versículo anterior. O mandamento central é 'ser santo' (qedoshim tihyu). Ser santo, neste contexto, significa ser separado para Deus, diferente das nações vizinhas. A justificativa para essa exigência de santidade é a própria identidade de Deus: 'Eu sou o Senhor'.",
+      "temas": [
+        "Santidade",
+        "Identidade de Deus",
+        "Mandamentos"
+      ],
+      "personagens": [
+        "Deus (O Senhor)"
+      ]
     },
     "4": {
-      "parafrase": "'Se o roubo for achado vivo em sua mão, seja boi, ou jumento, ou ovelha, ele restituirá o dobro.'",
-      "referencias": [],
-      "comentario": "Se o animal roubado for encontrado vivo com o ladrão, ele deve restituir o dobro. Isso visa desencorajar o roubo e compensar a vítima.",
-      "temas": ["roubo", "restituição", "dobro", "compensação"],
-      "personagens": []
+      "parafrase": "Lembrem-se sempre dos meus decretos e das minhas leis, pois quem os cumprir viverá por meio deles. Eu sou o Senhor, o Deus de vocês.",
+      "referencias": [
+        "Levítico 18:5",
+        "Romanos 10:5"
+      ],
+      "comentario": "Esta é uma reafirmação da promessa vital associada à obediência: a vida. O cumprimento das leis não é apenas um dever, mas o caminho para a longevidade e prosperidade na terra (o princípio da vida através da Aliança). O hebraico para 'viverá por eles' é forte, indicando que a lei é fonte de sustento vital.",
+      "temas": [
+        "Vida através da Aliança",
+        "Obediência",
+        "Promessa"
+      ],
+      "personagens": [
+        "Deus (O Senhor)"
+      ]
     },
     "5": {
-      "parafrase": "'Se um homem fizer com que um campo ou uma vinha seja pastado, e soltar o seu animal, e ele pastar no campo de outro homem, ele fará a restituição do melhor do seu próprio campo e do melhor da sua própria vinha.'",
-      "referencias": [],
-      "comentario": "A lei estabelece a restituição por danos causados por animais em campos ou vinhas alheias. A restituição deve ser do melhor, garantindo a justiça para a vítima.",
-      "temas": ["dano", "pastagem", "restituição", "campo", "vinha", "justiça"],
+      "parafrase": "Vocês não farão cortes no corpo em sinal de luto ou desespero, nem farão marcas permanentes em sua pele em honra a alguma divindade.",
+      "referencias": [
+        "Deuteronômio 14:1",
+        "Jeremias 16:6"
+      ],
+      "comentario": "A primeira proibição ritualística trata de práticas funerárias e de luto que eram comuns em rituais pagãos, como a automutilação (cortes). Isso era considerado um ato de devoção a outros deuses ou uma tentativa de forçar uma resposta divina através da dor física, o que era proibido para Israel.",
+      "temas": [
+        "Rituais Pagãos",
+        "Luto",
+        "Integridade Corporal"
+      ],
       "personagens": []
     },
     "6": {
-      "parafrase": "'Se o fogo sair e pegar em espinhos, de modo que a pilha de grãos, ou o grão em pé, ou o campo seja consumido, aquele que acendeu o fogo certamente fará a restituição.'",
-      "references": [],
-      "comentario": "A lei estabelece a restituição por danos causados por fogo que se espalha e destrói plantações. A responsabilidade é do causador do fogo.",
-      "temas": ["fogo", "dano", "restituição", "plantações", "responsabilidade"],
-      "personagens": []
+      "parafrase": "Em qualquer circunstância, lembrem-se: Eu sou o Senhor!",
+      "referencias": [
+        "Levítico 19:4",
+        "Levítico 20:7"
+      ],
+      "comentario": "Um refrão enfático, servindo como âncora para a proibição anterior e futura. Reforça que a identidade e a autoridade de Deus devem ser o fator decisivo em todas as ações e pensamentos do povo.",
+      "temas": [
+        "Autoridade Divina",
+        "Lembrança"
+      ],
+      "personagens": [
+        "Deus (O Senhor)"
+      ]
     },
     "7": {
-      "parafrase": "'Se um homem entregar ao seu próximo dinheiro ou artigos para guardar, e eles forem roubados da casa do homem, se o ladrão for achado, ele restituirá o dobro.'",
-      "references": [],
-      "comentario": "A lei estabelece a restituição para o roubo de bens confiados a alguém. Se o ladrão for achado, ele restituirá o dobro. Isso protege a confiança e a propriedade.",
-      "temas": ["roubo", "dinheiro", "artigos", "restituição", "dobro", "confiança"],
+      "parafrase": "Você jamais deve manter relações sexuais com sua própria mãe, pois isso seria desonrar sua mãe e profanar a sua relação com ela.",
+      "referencias": [
+        "Levítico 18:6",
+        "Gênesis 49:4"
+      ],
+      "comentario": "Início das leis sobre incesto. O motivo é claro: o relacionamento é 'desonrado' (desvelar a coberta da mãe). Este ato destrói a estrutura fundamental da família e a ordem social estabelecida por Deus.",
+      "temas": [
+        "Incesto",
+        "Estrutura Familiar",
+        "Honra"
+      ],
       "personagens": []
     },
     "8": {
-      "parafrase": "'Se o ladrão não for achado, então o dono da casa se aproximará dos juízes, para ver se ele não pôs a sua mão nos bens do seu próximo.'",
-      "references": [],
-      "comentario": "Se o ladrão não for encontrado, o dono da casa deve jurar diante dos juízes que não roubou os bens. Isso visa a justiça e a verdade.",
-      "temas": ["ladrão", "juízes", "juramento", "justiça", "verdade"],
+      "parafrase": "Da mesma forma, não se envolva em intimidade com a esposa do seu pai, pois isso profana a relação que você tem com seu pai.",
+      "referencias": [
+        "Levítico 18:7",
+        "2 Samuel 13:10"
+      ],
+      "comentario": "A proibição se estende à madrasta. A ofensa aqui é primariamente contra a autoridade e a honra do pai. A lei visa proteger a hierarquia familiar e a santidade do matrimônio paterno.",
+      "temas": [
+        "Incesto",
+        "Honra Paterna",
+        "Ordem Social"
+      ],
       "personagens": []
     },
     "9": {
-      "parafrase": "'Para toda transgressão, seja por boi, por jumento, por ovelha, por vestes, ou por qualquer coisa perdida, que alguém alegar ser sua, a causa de ambos virá diante dos juízes; e aquele a quem os juízes condenarem, ele restituirá o dobro ao seu próximo.'",
-      "references": [],
-      "comentario": "A lei estabelece que todas as disputas sobre propriedade devem ser levadas aos juízes, e o culpado restituirá o dobro. A justiça é para a resolução de conflitos.",
-      "temas": ["transgressão", "propriedade", "juízes", "restituição", "dobro", "conflito"],
+      "parafrase": "Não se deite com sua irmã, seja ela filha do seu pai nascida em casa, ou filha de outra mãe, nascida fora. A união com sua irmã é proibida.",
+      "referencias": [
+        "Levítico 18:9",
+        "2 Samuel 13:11"
+      ],
+      "comentario": "Aborda o incesto fraterno, cobrindo tanto irmãs consanguíneas (mesmo pai, mesma mãe) quanto meio-irmãs (mesmo pai, mães diferentes). O impedimento é a relação de parentesco próximo.",
+      "temas": [
+        "Incesto",
+        "Parentesco",
+        "Pureza Sexual"
+      ],
       "personagens": []
     },
     "10": {
-      "parafrase": "'Se um homem entregar ao seu próximo um jumento, ou um boi, ou uma ovelha, ou qualquer animal para guardar, e ele morrer, ou for ferido, ou for levado, sem que ninguém o veja,
+      "parafrase": "Se um homem tiver relações com a filha de seu filho ou com a filha de sua filha, essa união é uma abominação e deve ser punida com a morte, pois eles mancharam o seu próprio sangue.",
+      "referencias": [
+        "Levítico 18:10",
+        "Deuteronômio 27:22"
+      ],
+      "comentario": "Proíbe o incesto entre gerações ascendentes e descendentes (avô/neta ou avó/neto). A pena capital é aplicada, refletindo a gravidade da desordem genética e moral que isso representa para a comunidade santa.",
+      "temas": [
+        "Incesto",
+        "Pena Capital",
+        "Ordem Geracional"
+      ],
+      "personagens": []
+    },
     "11": {
-      "parafrase": "então um juramento do Senhor estará entre eles ambos, de que ele não pôs a sua mão nos bens do seu próximo; e o dono aceitará isso, e ele não fará a restituição.'",
-      "references": [],
-      "comentario": "Se um animal confiado morrer ou for ferido sem testemunhas, o guardião deve jurar que não foi sua culpa, e o dono aceitará. Isso protege o guardião de acusações falsas.",
-      "temas": ["animal", "guarda", "morte", "ferimento", "juramento", "proteção"],
+      "parafrase": "Se um homem se deitar com a esposa de seu irmão, isso é uma violação da honra do seu irmão; ambos devem ser considerados culpados e morrerão sem deixar filhos.",
+      "referencias": [
+        "Levítico 18:16",
+        "Levítico 20:21"
+      ],
+      "comentario": "Proíbe o casamento (ou união sexual) com a cunhada (esposa do irmão falecido). O texto hebraico ('descobrir a nudez da mulher de seu irmão') indica que a ofensa é contra a honra do vínculo fraterno estabelecido pelo casamento do irmão.",
+      "temas": [
+        "Incesto",
+        "Vínculo Fraterno",
+        "Honra"
+      ],
       "personagens": []
     },
     "12": {
-      "parafrase": "'Mas se ele for roubado dele, ele fará a restituição ao seu dono.'",
-      "references": [],
-      "comentario": "Se o animal for roubado do guardião, ele deve restituir ao dono. A responsabilidade é pela guarda.",
-      "temas": ["roubo", "restituição", "guarda", "responsabilidade"],
+      "parafrase": "Se um homem tiver intimidade com uma mulher durante o período menstrual dela, ambos cometeram um ato impuro e serão afastados do convívio do povo.",
+      "referencias": [
+        "Levítico 15:24",
+        "Levítico 18:19"
+      ],
+      "comentario": "Esta proibição trata da impureza ritual associada ao ciclo menstrual. Não é uma ofensa moral intrínseca, mas sim ritualística. O afastamento ('cortados de seu povo') é a consequência imediata, denotando que atos que violam a pureza ritual quebram a comunhão com Deus.",
+      "temas": [
+        "Impureza Ritual",
+        "Santidade",
+        "Afastamento"
+      ],
       "personagens": []
     },
     "13": {
-      "parafrase": "'Se ele for despedaçado, então ele o trará como prova; ele não fará a restituição pelo que foi despedaçado.'",
-      "references": [],
-      "comentario": "Se o animal for despedaçado por um animal selvagem, o guardião deve trazer a prova, e não precisará restituir. Isso protege o guardião de perdas inevitáveis.",
-      "temas": ["despedaçado", "prova", "restituição", "perda"],
+      "parafrase": "Um homem não deve se deitar com um homem da mesma forma que se deita com uma mulher. Isso é uma prática repugnante e uma abominação.",
+      "referencias": [
+        "Levítico 18:22",
+        "Romanos 1:26"
+      ],
+      "comentario": "Esta é uma proibição explícita da homossexualidade masculina ativa. O termo hebraico usado é 'to'evah' (abominação/prática repugnante), indicando que tal ato viola a ordem criacional e a santidade sexual estabelecida por Deus.",
+      "temas": [
+        "Homossexualidade",
+        "Abominação",
+        "Ordem Criacional"
+      ],
       "personagens": []
     },
     "14": {
-      "parafrase": "'E se um homem pedir emprestado algo ao seu próximo, e ele for ferido ou morrer, estando o seu dono ausente, ele certamente fará a restituição.'",
-      "references": [],
-      "comentario": "Se algo emprestado for danificado ou perdido na ausência do dono, o que pediu emprestado deve restituir. A responsabilidade é pela guarda.",
-      "temas": ["empréstimo", "dano", "morte", "restituição", "responsabilidade"],
+      "parafrase": "Se alguém tomar uma mulher e, ao mesmo tempo, tomar a mãe dela, cometendo adultério com ambas, isso é uma terrível imoralidade e deve ser executado com fogo, junto com as mulheres envolvidas.",
+      "referencias": [
+        "Levítico 18:17",
+        "Deuteronômio 27:23"
+      ],
+      "comentario": "Esta lei trata da dupla união proibida: a relação simultânea com uma mulher e sua mãe ou filha. O uso do fogo como pena sugere a gravidade extrema da ofensa, que mistura três gerações em um ato de depravação sexual.",
+      "temas": [
+        "Adultério",
+        "Pena Capital",
+        "Depravação Sexual"
+      ],
       "personagens": []
     },
     "15": {
-      "parafrase": "'Mas se o seu dono estiver com ele, ele não fará a restituição; se for alugado, ele vem pelo seu aluguel.'",
-      "references": [],
-      "comentario": "Se o dono estiver presente, não há restituição. Se for alugado, o aluguel cobre o risco. Isso estabelece a responsabilidade e o acordo.",
-      "temas": ["dono", "aluguel", "restituição", "responsabilidade", "acordo"],
+      "parafrase": "Um homem não deve ter relações sexuais com um animal, pois isso é uma contaminação terrível e uma violação da ordem natural.",
+      "referencias": [
+        "Levítico 18:23",
+        "Deuteronômio 27:21"
+      ],
+      "comentario": "Proíbe a bestialidade. O hebraico indica que o ato é uma 'mistura' profana ou uma 'contaminação' da natureza estabelecida por Deus, sendo classificado como uma abominação.",
+      "temas": [
+        "Bestialidade",
+        "Contaminação",
+        "Ordem Natural"
+      ],
       "personagens": []
     },
     "16": {
-      "parafrase": "'E se um homem seduzir uma virgem que não está desposada, e se deitar com ela, ele certamente a dotará para ser sua esposa.'",
-      "references": [],
-      "comentario": "A lei estabelece que se um homem seduzir uma virgem não desposada, ele deve casar-se com ela e pagar o dote. Isso protege a honra da mulher e a instituição do casamento.",
-      "temas": ["sedução", "virgem", "dote", "casamento", "honra"],
+      "parafrase": "Você não deve se deitar com a esposa do seu próximo e contaminar-se com ela, pois isso é uma traição imperdoável.",
+      "referencias": [
+        "Levítico 18:20",
+        "Êxodo 20:14"
+      ],
+      "comentario": "Esta é a proibição do adultério conjugal (violando a esposa de outro homem). A ofensa é um ataque direto à propriedade, à honra e ao contrato social do vizinho. É uma 'destruição' do vínculo alheio.",
+      "temas": [
+        "Adultério",
+        "Fidelidade Conjugal",
+        "Honra do Próximo"
+      ],
       "personagens": []
     },
     "17": {
-      "parafrase": "'Se o pai dela se recusar completamente a dá-la a ele, ele pagará dinheiro de acordo com o dote das virgens.'",
-      "references": [],
-      "comentario": "Se o pai se recusar a dar a filha em casamento, o homem deve pagar o dote, compensando a família pela perda da honra da filha. A compensação é para a justiça.",
-      "temas": ["pai", "recusa", "dote", "compensação", "honra"],
+      "parafrase": "Você não deve se deitar com nenhuma mulher que também seja parente de seu pai ou de sua mãe.",
+      "referencias": [
+        "Levítico 18:12",
+        "Levítico 20:19"
+      ],
+      "comentario": "Esta cláusula visa proibir a união com tias (irmãs do pai ou da mãe). É uma expansão da proibição de incesto, buscando manter a pureza sexual em todos os círculos de parentesco próximo.",
+      "temas": [
+        "Incesto",
+        "Parentesco",
+        "Pureza Sexual"
+      ],
       "personagens": []
     },
     "18": {
-      "parafrase": "'Você não permitirá que uma feiticeira viva.'",
-      "references": [],
-      "comentario": "A lei proíbe a existência de feiticeiras, pois suas práticas são abomináveis a Deus e perigosas para o povo. A santidade é essencial.",
-      "temas": ["feiticeira", "proibição", "abominação", "perigo", "santidade"],
+      "parafrase": "Você não deve se aproximar da esposa de seu irmão para ter relações com ela enquanto seu irmão estiver vivo, pois isso desonra seu irmão.",
+      "referencias": [
+        "Levítico 18:18",
+        "Deuteronômio 25:5"
+      ],
+      "comentario": "Diferente do versículo 11, este proíbe a união com a cunhada enquanto o irmão estiver vivo. O foco é a desonra direta ao relacionamento fraterno enquanto ambos os cônjuges estão vivos. A posterior lei do Levirato (Deuteronômio 25) trata especificamente do casamento com a viúva do irmão.",
+      "temas": [
+        "Fidelidade Fraterna",
+        "Honra",
+        "Relações Conjugais"
+      ],
       "personagens": []
     },
     "19": {
-      "parafrase": "'Quem quer que se deite com um animal, certamente será morto.'",
-      "referencias": [],
-      "comentario": "A lei proíbe a bestialidade, com pena de morte. Isso enfatiza a santidade da sexualidade e a distinção entre humanos e animais.",
-      "temas": ["bestialidade", "pena de morte", "sexualidade", "santidade", "distinção"],
+      "parafrase": "Não se aproxime de uma mulher para ter relações sexuais com ela durante o período em que ela está menstruada, pois isso é um ato impuro.",
+      "referencias": [
+        "Levítico 15:24",
+        "Levítico 18:19"
+      ],
+      "comentario": "Repetição do versículo 12, reforçando a seriedade da proibição de relações durante a impureza menstrual, um ato que quebraria a comunhão ritualística com Deus.",
+      "temas": [
+        "Impureza Ritual",
+        "Pureza",
+        "Ciclo Menstrual"
+      ],
       "personagens": []
     },
     "20": {
-      "parafrase": "'Aquele que sacrificar a qualquer deus, exceto ao Senhor somente, será destruído.'",
-      "references": [],
-      "comentario": "A lei proíbe o sacrifício a qualquer deus, exceto ao Senhor, sob pena de destruição. Isso exige lealdade exclusiva a Deus e condena a idolatria.",
-      "temas": ["sacrifício", "idolatria", "destruição", "lealdade", "exclusividade"],
+      "parafrase": "Você jamais terá relações sexuais com a esposa de seu vizinho, pois isso o contaminaria com sua impureza.",
+      "referencias": [
+        "Levítico 18:20",
+        "Êxodo 20:14"
+      ],
+      "comentario": "Reiteração da proibição do adultério (versículo 16), focando na contaminação que o ato traz para o agressor sexual, manchando sua própria pureza ritual e social.",
+      "temas": [
+        "Adultério",
+        "Contaminação",
+        "Honra do Próximo"
+      ],
       "personagens": []
     },
     "21": {
-      "parafrase": "'Você não maltratará um estrangeiro, nem o oprimirá; pois vocês foram estrangeiros na terra do Egito.'",
-      "references": [],
-      "comentario": "A lei proíbe o maltrato e a opressão de estrangeiros, lembrando a Israel sua própria experiência no Egito. A misericórdia e a justiça são exigidas para com os vulneráveis.",
-      "temas": ["estrangeiro", "maltrato", "opressão", "Egito", "misericórdia", "justiça"],
-      "personagens": []
+      "parafrase": "Você não deve oferecer nenhum de seus filhos para ser sacrificado no fogo a Moloque, pois isso é profanar o nome do seu Deus. Eu sou o Senhor!",
+      "referencias": [
+        "Levítico 18:21",
+        "2 Reis 23:10"
+      ],
+      "comentario": "Proibição severa do sacrifício de crianças a Moloque (possivelmente um deus amonita). O ato é considerado uma profanação direta do nome de Deus (Sholem Yahweh), pois rouba de Deus o que pertence unicamente a Ele: a vida dos primogênitos, simbolicamente, e a devoção total.",
+      "temas": [
+        "Sacrifício Humano",
+        "Idolatria",
+        "Profanação do Nome"
+      ],
+      "personagens": [
+        "Moloque",
+        "Deus (O Senhor)"
+      ]
     },
     "22": {
-      "parafrase": "'Vocês não afligirão nenhuma viúva, nem órfão.'",
-      "references": [],
-      "comentario": "A lei proíbe a aflição de viúvas e órfãos, protegendo os mais vulneráveis da sociedade. A compaixão e a justiça são essenciais.",
-      "temas": ["viúva", "órfão", "aflição", "proteção", "compaixão", "justiça"],
+      "parafrase": "Não se deite com um homem como se fosse uma mulher; isso é uma abominação detestável.",
+      "referencias": [
+        "Levítico 18:22",
+        "Romanos 1:27"
+      ],
+      "comentario": "Repetição da proibição da homossexualidade masculina ativa (comparar com vs. 13). A repetição enfatiza que esta prática é fundamentalmente contrária à ordem sexual estabelecida.",
+      "temas": [
+        "Homossexualidade",
+        "Abominação",
+        "Ordem Sexual"
+      ],
       "personagens": []
     },
     "23": {
-      "parafrase": "'Se você os afligir de alguma forma, e eles clamarem a mim, eu certamente ouvirei o seu clamor;
+      "parafrase": "Você não deve ter qualquer tipo de união sexual com um animal, para que não se torne impuro por causa disso. Mulheres não devem se envolver com animais de forma alguma.",
+      "referencias": [
+        "Levítico 18:23",
+        "Deuteronômio 27:21"
+      ],
+      "comentario": "Repetição da proibição da bestialidade, aplicada tanto a homens quanto a mulheres, reforçando a necessidade de manter a distinção entre humanos e animais e preservar a pureza.",
+      "temas": [
+        "Bestialidade",
+        "Pureza",
+        "Ordem Criacional"
+      ],
+      "personagens": []
+    },
     "24": {
-      "parafrase": "e a minha ira se acenderá, e eu os matarei com a espada; e suas esposas serão viúvas, e seus filhos, órfãos.'",
-      "references": [],
-      "comentario": "Deus promete ouvir o clamor dos afligidos e agir com ira contra aqueles que os oprimem, matando-os com a espada e deixando suas famílias desamparadas. A justiça divina é para a proteção dos vulneráveis.",
-      "temas": ["aflição", "clamor", "ira divina", "morte", "viúvas", "órfãos", "justiça divina"],
-      "personagens": ["Deus"]
+      "parafrase": "Não se contaminem com nenhuma dessas práticas, pois foi por causa delas que as nações que estou expulsando diante de vocês se tornaram impuras.",
+      "referencias": [
+        "Levítico 18:24",
+        "Deuteronômio 18:12"
+      ],
+      "comentario": "Esta é a justificativa teológica para todas as proibições anteriores. A impureza sexual e ritual das nações cananeias levou à sua expulsão. Israel deve evitar esses caminhos para não sofrer o mesmo destino de juízo.",
+      "temas": [
+        "Juízo Divino",
+        "Impureza Nacional",
+        "Advertência"
+      ],
+      "personagens": []
     },
     "25": {
-      "parafrase": "'Se você emprestar dinheiro a qualquer do meu povo que é pobre com você, você não será para ele como um agiota, nem imporá juros sobre ele.'",
-      "references": [],
-      "comentario": "A lei proíbe a usura ao emprestar dinheiro aos pobres, protegendo os vulneráveis da exploração. A generosidade e a misericórdia são exigidas.",
-      "temas": ["dinheiro", "pobre", "usura", "exploração", "generosidade", "misericórdia"],
-      "personagens": []
+      "parafrase": "Seja, portanto, santo entre vocês, pois Eu sou o Senhor, o seu Deus, que os separou das outras nações. Vocês devem ser santos em todas as suas condutas.",
+      "referencias": [
+        "Levítico 20:26",
+        "1 Tessalonicenses 4:3"
+      ],
+      "comentario": "Conclusão da seção com o mandamento principal: Santidade ('Sede santos'). A razão final para a obediência não é apenas evitar o juízo, mas viver de acordo com a identidade que Deus lhes conferiu: um povo separado, santo para Ele. É um chamado à santidade integral (em todas as áreas da vida).",
+      "temas": [
+        "Santidade",
+        "Separação",
+        "Vocação"
+      ],
+      "personagens": [
+        "Deus (O Senhor)"
+      ]
     },
     "26": {
-      "parafrase": "'Se você pegar o manto do seu próximo como penhor, você o devolverá a ele antes do pôr do sol;
+      "parafrase": "Se, porventura, você emprestar algum bem ao seu próximo que esteja passando por dificuldades financeiras, jamais exija que ele lhe devolva o penhor (a garantia) durante a noite, ou seja, sob a escuridão ou em momentos de aperto extremo. Você deve permitir que ele durma tranquilo com a garantia do bem que lhe resta. Quando o sol nascer, aí sim ele poderá devolvê-lo.",
+      "referencias": [
+        "Deuteronômio 24:12",
+        "Jó 29:12-13"
+      ],
+      "comentario": "O mandamento foca na dignidade do pobre. O 'penhor' (em hebraico, *'arvâ*, significando algo que cobre ou protege) era frequentemente o manto ou o cobertor essencial. Retirar isso à noite seria expor o necessitado ao frio e à vergonha, o que é um ato de extrema crueldade. Deus exige um cuidado paternal com os vulneráveis, mesmo em transações comerciais. A restituição deve ocorrer à luz do dia, garantindo que o devedor não fique desprotegido.",
+      "temas": [
+        "Dignidade do Pobre",
+        "Justiça Social",
+        "Ética Comercial"
+      ],
+      "personagens": [
+        "O Credor",
+        "O Devedor"
+      ]
+    },
     "27": {
-      "parafrase": "pois esse é o seu único cobertor, é a sua veste para a sua pele; em que ele dormirá? E acontecerá que, quando ele clamar a mim, eu o ouvirei; pois eu sou misericordioso.'",
-      "references": [],
-      "comentario": "A lei exige a devolução do manto como penhor antes do pôr do sol, pois é o único cobertor do pobre. Deus promete ouvir o clamor do pobre, pois Ele é misericordioso. A compaixão é essencial.",
-      "temas": ["manto", "penhor", "pobre", "clamor", "misericórdia divina", "compaixão"],
-      "personagens": ["Deus"]
+      "parafrase": "Quando o seu vizinho lhe entregar, como garantia de uma dívida, o seu manto, você deve guardá-lo com extremo cuidado. Mas, quando ele lhe pedir de volta, você não poderá ficar com ele para usá-lo para se aquecer. Você deve entregá-lo imediatamente.",
+      "referencias": [
+        "Ezequiel 18:7",
+        "Tiago 2:15-16"
+      ],
+      "comentario": "Aqui a ênfase está na preservação do objeto dado em penhor. O manto, sendo vestimenta exterior, era frequentemente a única proteção contra o frio noturno. O credor deve tratá-lo como um depósito sagrado, não como posse própria. O ato de devolver o manto imediatamente quando solicitado demonstra a pureza da intenção do credor: seu objetivo era apenas garantir o pagamento, e não usurpar o bem do necessitado.",
+      "temas": [
+        "Responsabilidade Fiduciária",
+        "Integridade",
+        "Caridade"
+      ],
+      "personagens": [
+        "O Credor"
+      ]
     },
     "28": {
-      "parafrase": "'Você não amaldiçoará os deuses, nem amaldiçoará o governante do seu povo.'",
-      "references": [],
-      "comentario": "A lei proíbe amaldiçoar os deuses (juízes ou autoridades) e o governante do povo, exigindo respeito pela autoridade e pela ordem social. A reverência é para a estabilidade.",
-      "temas": ["amaldiçoar", "deuses", "governante", "respeito", "autoridade"],
-      "personagens": []
+      "parafrase": "Você não deve tirar proveito de uma situação de aperto de seu próximo para exigir dele bens materiais. Você não deve fazer com que ele lhe dê nada além do que ele realmente deve. Se ele está em apuros, isso não lhe dá o direito de explorar sua miséria.",
+      "referencias": [
+        "Levítico 25:35-37",
+        "Lucas 6:35"
+      ],
+      "comentario": "Este versículo estabelece a proibição da usura e da exploração exacerbada. O verbo hebraico 'ladach' (para explorar, sobrecarregar) é chave aqui. A lei não proíbe o empréstimo ou a cobrança justa, mas proíbe o enriquecimento à custa do sofrimento alheio. A comunidade de Israel deve funcionar como uma rede de apoio, e não como um campo de caça para os mais espertos.",
+      "temas": [
+        "Proibição da Usura",
+        "Exploração",
+        "Solidariedade Comunitária"
+      ],
+      "personagens": [
+        "O Cidadão Israelita"
+      ]
     },
     "29": {
-      "parafrase": "'Você não demorará em oferecer as suas primícias e as suas ofertas de bebida. O primogênito dos seus filhos você me dará.'",
-      "references": [],
-      "comentario": "A lei exige a oferta das primícias e dos primogênitos a Deus, mostrando a dedicação e a gratidão do povo. A oferta é um ato de adoração.",
-      "temas": ["primícias", "ofertas de bebida", "primogênito", "dedicação", "gratidão", "adoração"],
-      "personagens": []
+      "parafrase": "Quando você for pagar o salário de um trabalhador contratado por dia, você não deve adiar esse pagamento até o dia seguinte. Você deve acertar as contas e pagar-lhe o valor total antes que o sol se ponha, pois ele precisa desse dinheiro para viver e sustentar sua família.",
+      "referencias": [
+        "Levítico 19:13",
+        "Malaquias 3:5"
+      ],
+      "comentario": "O foco muda do credor/devedor para o empregador/empregado. O trabalho diário exige pagamento diário, pois a subsistência é imediata. O atraso no salário é tratado com a mesma severidade que o abuso do penhor. Para o trabalhador, o salário daquele dia é o pão de sua família naquela noite. A expressão 'antes que o sol se ponha' enfatiza a urgência moral.",
+      "temas": [
+        "Salário Justo",
+        "Dever do Empregador",
+        "Urgência da Justiça"
+      ],
+      "personagens": [
+        "O Empregador",
+        "O Trabalhador"
+      ]
     },
     "30": {
-      "parafrase": "'Da mesma forma você fará com os seus bois e com as suas ovelhas; sete dias ele estará com a sua mãe; no oitavo dia você o dará a mim.'",
-      "references": [],
-      "comentario": "Os primogênitos de bois e ovelhas devem ser dados a Deus no oitavo dia, após sete dias com a mãe. Isso enfatiza a santidade e a pureza da oferta.",
-      "temas": ["bois", "ovelhas", "primogênito", "oito dias", "santidade", "pureza"],
-      "personagens": []
+      "parafrase": "Se você seguir essa regra e pagar o trabalhador antes do anoitecer, então o Senhor, seu Deus, irá abençoar ricamente todos os seus trabalhos, todas as suas empreitadas e todas as suas mãos, pois você terá demonstrado lealdade e justiça em suas ações.",
+      "referencias": [
+        "Deuteronômio 28:12",
+        "Salmos 112:1-2"
+      ],
+      "comentario": "Este versículo funciona como um incentivo divino: a observância da justiça social atrai a bênção de Deus. O termo 'benção' (*brachah*) aqui se estende a 'todo trabalho de suas mãos', indicando prosperidade e sucesso nas empresas do justo. A retidão nas pequenas interações diárias é a fundação da bênção divina.",
+      "temas": [
+        "Recompensa da Justiça",
+        "Bênção Divina",
+        "Obediência à Lei"
+      ],
+      "personagens": [
+        "O Senhor Deus"
+      ]
     },
     "31": {
-      "parafrase": "'E vocês serão homens santos para mim; portanto, vocês não comerão carne que foi despedaçada no campo; vocês a lançarão aos cães.'",
-      "references": [],
-      "comentario": "Israel deve ser um povo santo para Deus, e por isso não deve comer carne despedaçada no campo, mas lançá-la aos cães. A pureza é essencial para a santidade.",
-      "temas": ["homens santos", "carne despedaçada", "pureza", "santidade", "proibição"],
-      "personagens": []
+      "parafrase": "Jamais roube a força ou a esperança de um estrangeiro, de um órfão, ou de uma viúva. Lembre-se sempre: você mesmo já esteve em uma situação de total desamparo e fraqueza no Egito. Foi de lá que o Senhor seu Deus o resgatou. Portanto, tenha compaixão e não se torne o opressor que você um dia temeu.",
+      "referencias": [
+        "Deuteronômio 10:18-19",
+        "Isaías 1:17"
+      ],
+      "comentario": "Este é o fundamento teológico de toda a seção anterior. A empatia não é um mero sentimento, mas um imperativo baseado na memória histórica da servidão (*Mitzrayim*). Viúvas, órfãos e estrangeiros (*ger*) eram as classes sociais mais indefesas. O contraste entre 'o que você foi' (escravo) e 'o que você é' (liberto) deve moldar o comportamento ético. Não se trata apenas de não fazer o mal, mas de ativamente proteger os vulneráveis.",
+      "temas": [
+        "Memória do Êxodo",
+        "Proteção aos Vulneráveis",
+        "Empatia Teológica"
+      ],
+      "personagens": [
+        "O Estrangeiro",
+        "O Órfão",
+        "A Viúva",
+        "Israel (o Povo)"
+      ]
     }
   }
 }

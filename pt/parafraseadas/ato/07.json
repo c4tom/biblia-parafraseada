@@ -1,428 +1,973 @@
 {
   "livro": "Atos",
   "capitulo": 7,
-  "contexto_historico": "Estêvão, um dos sete homens escolhidos para servir as mesas, está perante o Sinédrio (o supremo tribunal judaico) após ser falsamente acusado de blasfêmia contra Moisés e contra Deus. Este capítulo contém sua defesa, que é uma recontagem da história de Israel, destacando a contínua rejeição dos profetas e do Messias por parte da nação.",
-  "bloco_tematico": "O Discurso de Estêvão perante o Sinédrio",
+  "contexto_historico": "O Capítulo 7 de Atos narra o longo e dramático discurso de Estêvão perante o Sinédrio, antes de seu apedrejamento. Este discurso é uma revisão teológica e histórica do relacionamento de Israel com Deus, começando com Abraão e percorrendo toda a história do povo judeu, desde a saída do Egito, passando por Moisés e os profetas, até chegar ao ponto crucial: a rejeição persistente dos mensageiros de Deus, culminando na crucificação de Jesus Cristo. É um momento de tensão máxima entre a nova fé cristã e a liderança religiosa judaica estabelecida, marcando a transição da mensagem judaica para uma missão abertamente gentílica. A audiência de Estêvão é composta pelos líderes religiosos que o julgam, e ele os acusa diretamente de 'resistir ao Espírito Santo' e de ser 'descendentes daqueles que mataram os profetas' (At 7:51). O evento precede a prisão de Saulo de Tarso, que testemunhou e aprovou a morte de Estêvão.",
+  "bloco_tematico": "O Julgamento de Estêvão: A História da Desobediência e o Confronto Final com a Verdade 🏛️🔥",
   "versiculos": {
     "1": {
-      "parafrase": "Então o sumo sacerdote perguntou a Estêvão: 'Essas acusações são verdadeiras?'",
-      "referencias": ["Atos 6:11-14"],
-      "comentario": "A pergunta formal do sumo sacerdote dá a Estêvão a oportunidade de apresentar sua defesa, que se torna um poderoso sermão.",
-      "temas": ["julgamento", "interrogatório"],
-      "personagens": ["Sumo Sacerdote", "Estêvão"]
+      "parafrase": "O sumo sacerdote, a autoridade máxima da religião judaica, convocou uma reunião de emergência com todo o Sinédrio — o conselho superior de anciãos, juízes e líderes religiosos. Eles estavam profundamente perturbados com a crescente influência dos seguidores de Jesus, pois viam isso como uma ameaça direta à sua estabilidade e à Lei de Moisés que juraram proteger.",
+      "referencias": [
+        "Atos 4:5",
+        "Atos 5:21"
+      ],
+      "comentario": "A cena se inicia com a alta cúpula do judaísmo confrontando os apóstolos. O termo 'sumo sacerdote' (archiereus) indica a autoridade máxima. A convocação do Sinédrio mostra que a perseguição havia se tornado institucionalizada.",
+      "temas": [
+        "Confronto religioso",
+        "Autoridade",
+        "Perseguição inicial"
+      ],
+      "personagens": [
+        "Sumo Sacerdote",
+        "Sinédrio"
+      ]
     },
     "2": {
-      "parafrase": "Estêvão respondeu: 'Irmãos e pais, ouçam-me! O Deus da glória apareceu a nosso pai Abraão, quando ele ainda estava na Mesopotâmia, antes de morar em Harã.'",
-      "referencias": ["Gênesis 12:1"],
-      "comentario": "Estêvão começa sua defesa não se defendendo diretamente, mas estabelecendo um ponto comum: a história de Israel. Ele enfatiza que a revelação de Deus não estava limitada à terra de Israel, pois Deus chamou Abraão fora dela.",
-      "temas": ["revelação de Deus", "história de Israel", "Abraão"],
-      "personagens": ["Estêvão", "Deus", "Abraão"]
+      "parafrase": "Eles enviaram emissários para prenderem Pedro e os outros apóstolos, que estavam pregando com ousadia, e os trouxeram para serem julgados diante daquele conselho.",
+      "referencias": [
+        "Atos 4:3",
+        "Atos 5:18"
+      ],
+      "comentario": "A ação é direta: prisão. O objetivo era silenciá-los na fonte de seu poder, a praça pública ou o Templo.",
+      "temas": [
+        "Prisão",
+        "Oposição ativa"
+      ],
+      "personagens": [
+        "Pedro",
+        "Apóstolos"
+      ]
     },
     "3": {
-      "parafrase": "'E Deus lhe disse: 'Saia da sua terra e do meio dos seus parentes e vá para a terra que eu lhe mostrarei.'",
-      "referencias": ["Gênesis 12:1", "Hebreus 11:8"],
-      "comentario": "Ele cita o chamado de Abraão, ressaltando a obediência pela fé como o fundamento do povo de Deus.",
-      "temas": ["chamado de Deus", "obediência", "fé"],
-      "personagens": ["Deus", "Abraão"]
+      "parafrase": "No entanto, enquanto estavam sendo levados, um anjo do Senhor, agindo como um libertador divino, abriu milagrosamente as portas da prisão durante a noite e os conduziu para fora, dizendo-lhes com clareza e autoridade:",
+      "referencias": [
+        "Salmos 146:7",
+        "Isaías 45:1"
+      ],
+      "comentario": "Intervenção divina explícita. O anjo (angelos) não apenas abre a porta, mas os liberta ativamente, mostrando que a obra deles não seria interrompida por prisões terrenas.",
+      "temas": [
+        "Intervenção divina",
+        "Milagre",
+        "Libertação"
+      ],
+      "personagens": [
+        "Anjo do Senhor"
+      ]
     },
     "4": {
-      "parafrase": "'Então ele saiu da terra dos caldeus e foi morar em Harã. Depois da morte de seu pai, Deus o trouxe desta terra para a terra onde vocês agora vivem.'",
-      "referencias": ["Gênesis 11:31-12:5"],
-      "comentario": "Estêvão continua a narrativa, mostrando a soberania de Deus em guiar os patriarcas.",
-      "temas": ["soberania de Deus", "história de Israel"],
-      "personagens": ["Deus", "Abraão"]
-    },
-    "5": {
-      "parafrase": "'Deus não lhe deu nenhuma herança aqui, nem mesmo o espaço de um pé. Mas prometeu que daria a terra como possessão a ele e à sua descendência, embora, naquela época, ele não tivesse filhos.'",
-      "referencias": ["Gênesis 17:8", "Deuteronômio 2:5"],
-      "comentario": "Um ponto crucial: a promessa de Deus precede a posse. Abraão viveu como peregrino, confiando na promessa futura, um tema que Estêvão usará para mostrar que a presença de Deus não está fixa em um lugar.",
-      "temas": ["promessa", "fé", "herança"],
-      "personagens": ["Deus", "Abraão"]
-    },
-    "6": {
-      "parafrase": "'Deus falou assim: 'Sua descendência será estrangeira em terra alheia, será escravizada e maltratada por quatrocentos anos.'",
-      "referencias": ["Gênesis 15:13"],
-      "comentario": "A profecia sobre a escravidão no Egito é mencionada para mostrar que o sofrimento fazia parte do plano de Deus e não era um sinal de Seu abandono.",
-      "temas": ["profecia", "sofrimento", "escravidão"],
-      "personagens": ["Deus"]
-    },
-    "7": {
-      "parafrase": "'Mas eu julgarei a nação à qual eles servirão como escravos', disse Deus, 'e depois disso eles sairão e me adorarão neste lugar.'",
-      "referencias": ["Gênesis 15:14", "Êxodo 3:12"],
-      "comentario": "A promessa da libertação e da adoração futura demonstra o poder redentor e a fidelidade de Deus.",
-      "temas": ["libertação", "redenção", "adoração"],
-      "personagens": ["Deus"]
-    },
-    "8": {
-      "parafrase": "'E lhe deu a aliança da circuncisão. Assim, Abraão gerou Isaque e o circuncidou no oitavo dia. E Isaque gerou Jacó, e Jacó gerou os doze patriarcas.'",
-      "referencias": ["Gênesis 17:9-14", "Gênesis 21:4"],
-      "comentario": "A circuncisão era o sinal da aliança, mas Estêvão está sutilmente preparando o terreno para argumentar que os rituais externos não garantem um coração fiel.",
-      "temas": ["aliança", "circuncisão", "patriarcas"],
-      "personagens": ["Deus", "Abraão", "Isaque", "Jacó"]
-    },
-    "9": {
-      "parafrase": "'Os patriarcas, com inveja de José, venderam-no para o Egito. Mas Deus estava com ele'",
-      "referencias": ["Gênesis 37:11, 28"],
-      "comentario": "Aqui começa o padrão de rejeição. Os próprios filhos de Jacó rejeitaram aquele que Deus usaria para salvá-los. A frase 'Mas Deus estava com ele' é a chave para entender toda a história.",
-      "temas": ["inveja", "rejeição", "soberania de Deus", "José"],
-      "personagens": ["Patriarcas", "José", "Deus"]
-    },
-    "10": {
-      "parafrase": "'e o livrou de todas as suas tribulações, dando-lhe favor e sabedoria diante de Faraó, rei do Egito, que o constituiu governador do Egito e de toda a sua casa.'",
-      "referencias": ["Gênesis 41:37-41"],
-      "comentario": "A exaltação de José depois do sofrimento é um tipo claro da exaltação de Cristo após Sua rejeição e morte.",
-      "temas": ["livramento", "sabedoria", "exaltação", "tipologia"],
-      "personagens": ["Deus", "José", "Faraó"]
-    },
-    "11": {
-      "parafrase": "'Houve fome em todo o Egito e em Canaã, e grande tribulação, e nossos pais não encontravam alimento.'",
-      "referencias": ["Gênesis 41:54-56"],
-      "comentario": "A providência de Deus usou a crise para cumprir Seus propósitos e levar a família de Jacó ao Egito.",
-      "temas": ["fome", "providência divina"],
-      "personagens": ["Patriarcas"]
-    },
-    "12": {
-      "parafrase": "'Mas, ouvindo Jacó que havia trigo no Egito, enviou nossos pais pela primeira vez.'",
-      "referencias": ["Gênesis 42:1-2"],
-      "comentario": "A narrativa continua a mostrar como a rejeição de José se tornou o meio de salvação para sua família.",
-      "temas": ["providência divina"],
-      "personagens": ["Jacó", "Patriarcas"]
-    },
-    "13": {
-      "parafrase": "'Na segunda vez, José se deu a conhecer a seus irmãos, e a família de José foi revelada a Faraó.'",
-      "referencias": ["Gênesis 45:1-4"],
-      "comentario": "O reconhecimento de José por seus irmãos é um momento de reconciliação e revelação do plano de Deus.",
-      "temas": ["reconciliação", "revelação"],
-      "personagens": ["José", "Irmãos de José", "Faraó"]
-    },
-    "14": {
-      "parafrase": "'Então, José mandou chamar seu pai Jacó e toda a sua família, que eram setenta e cinco pessoas.'",
-      "referencias": ["Gênesis 46:27", "Êxodo 1:5"],
-      "comentario": "O número de pessoas que desceram ao Egito marca o início do crescimento da nação de Israel em terra estrangeira.",
-      "temas": ["família", "crescimento da nação"],
-      "personagens": ["José", "Jacó"]
-    },
-    "15": {
-      "parafrase": "'E Jacó desceu ao Egito, e ali morreram ele e nossos pais.'",
-      "referencias": ["Gênesis 49:33"],
-      "comentario": "A morte dos patriarcas no Egito, e não na Terra Prometida, reforça a ideia de que eles eram peregrinos.",
-      "temas": ["morte", "peregrinação"],
-      "personagens": ["Jacó", "Patriarcas"]
-    },
-    "16": {
-      "parafrase": "'Seus corpos foram transportados para Siquém e postos no túmulo que Abraão havia comprado por certa quantia de prata dos filhos de Hamor, em Siquém.'",
-      "referencias": ["Gênesis 23:16", "Josué 24:32"],
-      "comentario": "O enterro na terra de Canaã era um ato de fé na promessa de Deus de que aquela terra seria deles.",
-      "temas": ["fé", "promessa", "herança"],
-      "personagens": ["Abraão"]
-    },
-    "17": {
-      "parafrase": "'Ao se aproximar o tempo da promessa que Deus havia feito a Abraão, o povo cresceu e se multiplicou no Egito,'",
-      "referencias": ["Êxodo 1:7"],
-      "comentario": "O crescimento do povo era o cumprimento da promessa de Deus, mesmo sob condições adversas.",
-      "temas": ["cumprimento da promessa", "crescimento da nação"],
-      "personagens": ["Deus", "Abraão"]
-    },
-    "18": {
-      "parafrase": "'até que se levantou no Egito outro rei, que não conhecia José.'",
-      "referencias": ["Êxodo 1:8"],
-      "comentario": "A mudança de dinastia no Egito deu início ao período de opressão, estabelecendo o cenário para a libertação por meio de Moisés.",
-      "temas": ["opressão", "mudança política"],
-      "personagens": ["Rei do Egito", "José"]
-    },
-    "19": {
-      "parafrase": "'Este rei usou de astúcia contra nossa gente e oprimiu nossos pais, forçando-os a abandonar seus recém-nascidos, para que não sobrevivessem.'",
-      "referencias": ["Êxodo 1:10-11, 22"],
-      "comentario": "A crueldade do Faraó foi uma tentativa de frustrar o plano de Deus, mas acabou se tornando o catalisador para a intervenção divina.",
-      "temas": ["opressão", "perseguição", "genocídio"],
-      "personagens": ["Rei do Egito"]
-    },
-    "20": {
-      "parafrase": "'Nesse tempo nasceu Moisés, que era formoso aos olhos de Deus. Por três meses, ele foi criado na casa de seu pai.'",
-      "referencias": ["Êxodo 2:2"],
-      "comentario": "A menção da beleza de Moisés ('agradável a Deus') sugere que ele era especial desde o nascimento, escolhido por Deus para um grande propósito.",
-      "temas": ["nascimento de Moisés", "escolha divina"],
-      "personagens": ["Moisés", "Deus"]
-    },
-    "21": {
-      "parafrase": "'Quando foi abandonado, a filha de Faraó o acolheu e o criou como seu próprio filho.'",
-      "referencias": ["Êxodo 2:5-10"],
-      "comentario": "A providência de Deus é vista de forma notável na sobrevivência e educação de Moisés dentro da própria corte do inimigo.",
-      "temas": ["providência divina", "adoção"],
-      "personagens": ["Moisés", "Filha de Faraó"]
-    },
-    "22": {
-      "parafrase": "'Moisés foi instruído em toda a sabedoria dos egípcios e era poderoso em palavras e obras.'",
-      "referencias": [],
-      "comentario": "Sua educação egípcia o preparou de maneiras inesperadas para liderar o povo de Israel, embora seu poder viesse de Deus, não de sua formação.",
-      "temas": ["educação", "preparação"],
-      "personagens": ["Moisés"]
-    },
-    "23": {
-      "parafrase": "'Quando completou quarenta anos, veio-lhe ao coração visitar seus irmãos, os filhos de Israel.'",
-      "referencias": ["Êxodo 2:11"],
-      "comentario": "Aos quarenta anos, Moisés sentiu o chamado para se identificar com seu povo oprimido.",
-      "temas": ["chamado", "identificação com o povo"],
-      "personagens": ["Moisés"]
-    },
-    "24": {
-      "parafrase": "'Vendo um deles ser maltratado, defendeu-o e vingou o oprimido, matando o egípcio.'",
-      "referencias": ["Êxodo 2:11-12"],
-      "comentario": "A primeira tentativa de Moisés de libertar seu povo foi impulsiva e baseada na força humana, não no tempo de Deus.",
-      "temas": ["justiça", "violência", "precipitação"],
-      "personagens": ["Moisés"]
-    },
-    "25": {
-      "parafrase": "'Ele pensava que seus irmãos entenderiam que Deus lhes daria a libertação por meio dele, mas eles não entenderam.'",
-      "referencias": [],
-      "comentario": "Aqui, Estêvão destaca novamente o tema da rejeição. O libertador enviado por Deus não foi reconhecido por seu próprio povo. Isso é um paralelo direto com a rejeição de Jesus.",
-      "temas": ["rejeição", "incompreensão", "libertação"],
-      "personagens": ["Moisés", "Deus"]
-    },
-    "26": {
-      "parafrase": "'No dia seguinte, apareceu a dois deles que estavam brigando e tentou reconciliá-los, dizendo: 'Homens, vocês são irmãos; por que se maltratam?'",
-      "referencias": ["Êxodo 2:13"],
-      "comentario": "Moisés tenta agir como pacificador, mas sua autoridade é questionada.",
-      "temas": ["reconciliação", "conflito interno"],
-      "personagens": ["Moisés"]
-    },
-    "27": {
-      "parafrase": "'Mas o que maltratava o outro o empurrou, dizendo: 'Quem o nomeou governante e juiz sobre nós?'",
-      "referencias": ["Êxodo 2:14"],
-      "comentario": "A pergunta 'Quem o nomeou?' é a essência da rejeição. Eles não reconheceram a autoridade que Deus havia conferido a Moisés. A mesma pergunta foi feita a Jesus.",
-      "temas": ["rejeição", "autoridade questionada"],
-      "personagens": ["Moisés"]
-    },
-    "28": {
-      "parafrase": "'Você quer me matar como matou o egípcio ontem?'",
-      "referencias": ["Êxodo 2:14"],
-      "comentario": "A revelação de seu ato anterior força Moisés a fugir.",
-      "temas": ["acusação", "medo"],
-      "personagens": ["Moisés"]
-    },
-    "29": {
-      "parafrase": "'Ao ouvir isso, Moisés fugiu e se tornou estrangeiro na terra de Midiã, onde gerou dois filhos.'",
-      "referencias": ["Êxodo 2:15, 22"],
-      "comentario": "Moisés, o libertador rejeitado, passa quarenta anos no exílio, sendo preparado por Deus no deserto.",
-      "temas": ["fuga", "exílio", "preparação"],
-      "personagens": ["Moisés"]
-    },
-    "30": {
-      "parafrase": "'Passados quarenta anos, um anjo lhe apareceu no deserto do monte Sinai, numa chama de fogo no meio de um arbusto.'",
-      "referencias": ["Êxodo 3:1-2"],
-      "comentario": "O chamado de Deus a Moisés acontece no deserto, fora da terra prometida e do Egito, reforçando que a presença de Deus não está confinada a um local sagrado.",
-      "temas": ["chamado de Deus", "teofania", "sarça ardente"],
-      "personagens": ["Anjo do Senhor", "Moisés"]
-    },
-    "31": {
-      "parafrase": "'Moisés, vendo aquilo, maravilhava-se da visão. E, aproximando-se para observar, ouviu a voz do Senhor:'",
-      "referencias": ["Êxodo 3:3-4"],
-      "comentario": "A curiosidade de Moisés o leva a um encontro direto com Deus.",
-      "temas": ["revelação divina", "adoração"],
-      "personagens": ["Moisés", "Senhor"]
-    },
-    "32": {
-      "parafrase": "'Eu sou o Deus de seus pais, o Deus de Abraão, de Isaque e de Jacó.' Moisés tremia de medo e não ousava olhar.'",
-      "referencias": ["Êxodo 3:6"],
-      "comentario": "Deus se identifica como o Deus da aliança, o Deus fiel que cumpre Suas promessas. A reação de Moisés é de temor reverente.",
-      "temas": ["identidade de Deus", "aliança", "temor de Deus"],
-      "personagens": ["Deus", "Moisés"]
-    },
-    "33": {
-      "parafrase": "'Disse-lhe o Senhor: 'Vi, com certeza, a opressão do meu povo no Egito, ouvi o seu gemido e desci para livrá-lo. Agora, pois, venha, e eu o enviarei ao Egito.'",
-      "referencias": ["Êxodo 3:7-10"],
-      "comentario": "Deus revela Sua compaixão, Seu plano de libertação e comissiona Moisés para ser Seu instrumento.",
-      "temas": ["compaixão de Deus", "libertação", "comissionamento"],
-      "personagens": ["Senhor", "Moisés"]
-    },
-    "34": {
-      "parafrase": "'Este Moisés, a quem eles haviam rejeitado, dizendo: 'Quem o nomeou governante e juiz?', foi enviado por Deus como governante e libertador, pela mão do anjo que lhe apareceu no arbusto.'",
-      "referencias": [],
-      "comentario": "Estêvão faz uma conexão direta e poderosa: o mesmo Moisés que eles rejeitaram foi o escolhido por Deus para ser o libertador. A implicação para o Sinédrio é clara: eles fizeram o mesmo com Jesus.",
-      "temas": ["rejeição", "escolha divina", "libertador"],
-      "personagens": ["Moisés", "Deus", "Anjo"]
-    },
-    "35": {
-      "parafrase": "'Foi ele que os tirou de lá, fazendo prodígios e sinais na terra do Egito, no Mar Vermelho e no deserto, por quarenta anos.'",
-      "referencias": ["Êxodo 7-14"],
-      "comentario": "A liderança de Moisés foi validada por milagres, provando que ele era enviado por Deus.",
-      "temas": ["Êxodo", "milagres", "liderança"],
-      "personagens": ["Moisés"]
-    },
-    "36": {
-      "parafrase": "'Este é o Moisés que disse aos filhos de Israel: 'Deus levantará para vocês, dentre seus irmãos, um profeta como eu.'",
-      "referencias": ["Deuteronômio 18:15"],
-      "comentario": "Estêvão cita a profecia de Moisés sobre um futuro profeta, que os apóstolos identificaram como sendo Jesus. Ele está mostrando que a própria Lei de Moisés apontava para Cristo.",
-      "temas": ["profecia messiânica", "Cristo como profeta"],
-      "personagens": ["Moisés", "Deus"]
-    },
-    "37": {
-      "parafrase": "'Ele é o que esteve na congregação no deserto, com o anjo que lhe falava no monte Sinai, e com nossos pais; e recebeu palavras vivas para nos dar.'",
-      "referencias": ["Êxodo 19"],
-      "comentario": "Moisés foi o mediador da aliança, recebendo a Lei de Deus. Estêvão o exalta, mostrando que não está blasfemando contra ele, mas que entende seu verdadeiro papel.",
-      "temas": ["mediação", "Lei de Moisés", "congregação de Israel"],
-      "personagens": ["Moisés", "Anjo"]
-    },
-    "38": {
-      "parafrase": "'Mas nossos pais não quiseram obedecer-lhe; antes, o rejeitaram e, em seus corações, voltaram para o Egito,'",
-      "referencias": ["Números 14:3-4"],
-      "comentario": "Novamente, o tema da rejeição. Apesar de toda a revelação e libertação, o povo se rebelou contra Moisés e desejou voltar para a escravidão.",
-      "temas": ["desobediência", "rebelião", "idolatria no coração"],
-      "personagens": ["Patriarcas"]
-    },
-    "39": {
-      "parafrase": "'dizendo a Arão: 'Faça para nós deuses que vão adiante de nós; pois, quanto a este Moisés que nos tirou do Egito, não sabemos o que lhe aconteceu.'",
-      "referencias": ["Êxodo 32:1"],
-      "comentario": "A idolatria do bezerro de ouro foi o ato supremo de rejeição a Deus e a seu servo Moisés. Eles trocaram o Deus invisível por um ídolo visível.",
-      "temas": ["idolatria", "bezerro de ouro", "apostasia"],
-      "personagens": ["Arão", "Moisés"]
-    },
-    "40": {
-      "parafrase": "'E naqueles dias fizeram um bezerro, ofereceram-lhe sacrifício e se alegravam com a obra de suas próprias mãos.'",
-      "referencias": ["Êxodo 32:4-6"],
-      "comentario": "Eles adoraram sua própria criação, um pecado que reflete a tendência humana de adorar a criatura em vez do Criador.",
-      "temas": ["idolatria", "adoração falsa"],
+      "parafrase": "'Vão! Voltem para o Templo e falem ao povo toda a Palavra desta nova vida em Cristo, sem omitir uma única instrução.'",
+      "referencias": [
+        "Lucas 1:50",
+        "João 17:3"
+      ],
+      "comentario": "A ordem é o oposto do que o Sinédrio queria: não apenas voltem a pregar, mas preguem a plenitude ('toda a palavra'). A 'nova vida' (zoe) refere-se à vida eterna recebida por meio de Cristo.",
+      "temas": [
+        "Mandato divino",
+        "Nova Vida",
+        "Fidelidade"
+      ],
       "personagens": []
     },
+    "5": {
+      "parafrase": "Ao ouvirem isso, os apóstolos entraram no pátio do Templo antes do amanhecer e começaram imediatamente a ensinar a multidão reunida.",
+      "referencias": [
+        "Mateus 28:10",
+        "Atos 3:11"
+      ],
+      "comentario": "A obediência dos apóstolos é imediata e corajosa. Eles voltam ao mesmo local de conflito (o Templo) para demonstrar que nenhuma autoridade humana pode detê-los.",
+      "temas": [
+        "Obediência a Deus",
+        "Coragem",
+        "Evangelismo matinal"
+      ],
+      "personagens": [
+        "Apóstolos"
+      ]
+    },
+    "6": {
+      "parafrase": "Enquanto isso, o sumo sacerdote e os líderes religiosos chegaram ao local, convocaram o Sinédrio inteiro, junto com todos os anciãos de Israel, e enviaram guardas à prisão para trazerem os prisioneiros.",
+      "referencias": [
+        "Atos 4:5",
+        "Lucas 22:54"
+      ],
+      "comentario": "O contraste é dramático: os homens de Deus livres pregando, e os homens da Lei procurando-os em celas vazias. A mobilização do Sinédrio mostra o pânico das autoridades.",
+      "temas": [
+        "Ironia divina",
+        "Busca pelas autoridades"
+      ],
+      "personagens": [
+        "Sumo Sacerdote",
+        "Líderes religiosos",
+        "Anciãos de Israel"
+      ]
+    },
+    "7": {
+      "parafrase": "Mas, quando os guardas chegaram, não encontraram Pedro e os outros em lugar algum. Ficaram perplexos e voltaram correndo para relatar ao conselho:",
+      "referencias": [
+        "Mateus 28:11",
+        "Salmos 126:1"
+      ],
+      "comentario": "A perplexidade dos guardas é a reação natural diante do inexplicável. O milagre não foi discreto; foi um fracasso total na segurança institucional.",
+      "temas": [
+        "Mistério",
+        "Fracasso da vigilância humana"
+      ],
+      "personagens": [
+        "Guardas"
+      ]
+    },
+    "8": {
+      "parafrase": "'As portas da prisão estavam fechadas com segurança, e os guardas estavam de sentinela do lado de fora, mas quando abrimos, os homens não estavam mais lá!'",
+      "referencias": [
+        "Êxodo 14:24",
+        "Atos 12:10"
+      ],
+      "comentario": "O relatório enfatiza o paradoxo: segurança máxima (portas trancadas e sentinelas) anulada por uma força superior. A estrutura física falhou.",
+      "temas": [
+        "Segurança falha",
+        "Impossibilidade humana"
+      ],
+      "personagens": []
+    },
+    "9": {
+      "parafrase": "Ao ouvirem este relato inacreditável, o sumo sacerdote e os demais chefes religiosos ficaram confusos e começaram a se perguntar: 'O que será que aconteceu com esses homens?'",
+      "referencias": [
+        "Jó 41:29",
+        "Mateus 2:3"
+      ],
+      "comentario": "A confusão dos líderes aumenta. O milagre, relatado por seus próprios homens, força-os a reconhecer que há uma força operando que eles não controlam.",
+      "temas": [
+        "Confusão",
+        "Reconhecimento velado do poder"
+      ],
+      "personagens": [
+        "Sumo Sacerdote"
+      ]
+    },
+    "10": {
+      "parafrase": "Enquanto eles discutiam, um mensageiro chegou rapidamente e informou: 'Notícia urgente! Aqueles homens que vocês prenderam estão de volta ao Templo, de pé, ensinando o povo sem medo nenhum!'",
+      "referencias": [
+        "Isaías 44:25",
+        "Atos 4:19"
+      ],
+      "comentario": "A notícia chega como um golpe duplo: não apenas escaparam, mas voltaram ao palco do crime para recomeçar o ato proibido.",
+      "temas": [
+        "Desafio aberto",
+        "Transparência da fé"
+      ],
+      "personagens": [
+        "Mensageiro"
+      ]
+    },
+    "11": {
+      "parafrase": "Então, um dos líderes do conselho ordenou que os guardas fossem buscá-los, mas desta vez com extrema cautela e sem violência, temendo que o povo se revoltasse e tentasse resgatá-los. Os apóstolos foram trazidos à presença do Sinédrio.",
+      "referencias": [
+        "Atos 4:21",
+        "Êxodo 1:12"
+      ],
+      "comentario": "A mudança de tática dos guardas (sem violência) reflete o medo da reação popular. O povo já estava sendo influenciado positivamente, e a violência poderia gerar um motim. O termo 'com cautela' (met' aptesias, com delicadeza/moderação) indica estratégia política.",
+      "temas": [
+        "Medo da reação popular",
+        "Mudança de tática"
+      ],
+      "personagens": [
+        "Líder do conselho",
+        "Guardas",
+        "Apóstolos"
+      ]
+    },
+    "12": {
+      "parafrase": "Diante de todo o Sinédrio, os apóstolos estavam firmes, e o sumo sacerdote tomou a palavra, confrontando-os com autoridade máxima:",
+      "referencias": [
+        "Atos 4:8",
+        "Daniel 3:17"
+      ],
+      "comentario": "O palco está montado para o julgamento. A postura dos apóstolos é de firmeza (parrhesia, ousadia) em contraste com a autoridade legalista do Sinédrio.",
+      "temas": [
+        "Julgamento formal",
+        "Ousadia dos discípulos"
+      ],
+      "personagens": [
+        "Sumo Sacerdote",
+        "Sinédrio",
+        "Apóstolos"
+      ]
+    },
+    "13": {
+      "parafrase": "'Nós lhes ordenamos expressamente que parassem de ensinar em nome desse indivíduo — Jesus — mas vocês, claramente, desobedeceram e espalharam sua doutrina por toda a cidade, trazendo a culpa deste homem para cima de nós!'",
+      "referencias": [
+        "Atos 4:18",
+        "Mateus 27:25"
+      ],
+      "comentario": "A acusação central é a desobediência direta a uma ordem judicial explícita. O clímax da acusação é a 'culpa do sangue' (a transferência de responsabilidade pela morte de Jesus para os apóstolos, que eles, por sua vez, jogam de volta nos líderes).",
+      "temas": [
+        "Desobediência legal",
+        "Responsabilidade"
+      ],
+      "personagens": [
+        "Sumo Sacerdote"
+      ]
+    },
+    "14": {
+      "parafrase": "Pedro, falando em nome de todos os doze, respondeu com total convicção e respeito ao conselho:",
+      "referencias": [
+        "Atos 4:19",
+        "1 Pedro 3:15"
+      ],
+      "comentario": "Pedro assume a liderança da defesa, mantendo a cortesia formal ('respeito') enquanto prepara a negação da jurisdição deles.",
+      "temas": [
+        "Defesa pública",
+        "Liderança de Pedro"
+      ],
+      "personagens": [
+        "Pedro"
+      ]
+    },
+    "15": {
+      "parafrase": "'É nosso dever primário obedecer a Deus, e não a vocês, homens, por mais importantes que sejam seus cargos.'",
+      "referencias": [
+        "Daniel 3:18",
+        "Marcos 8:38"
+      ],
+      "comentario": "Esta é a declaração teológica central do livro. A soberania de Deus ('o Deus de nossos pais') está acima da soberania de qualquer corpo governante terreno. É o princípio da desobediência civil baseada na fé.",
+      "temas": [
+        "Soberania de Deus",
+        "Obediência versus Lei Humana"
+      ],
+      "personagens": []
+    },
+    "16": {
+      "parafrase": "'O Deus de Abraão, Isaque e Jacó, o Deus que serviram nossos antepassados, ressuscitou o seu servo Jesus, aquele mesmo que vocês prenderam e crucificaram após rejeitá-Lo totalmente.'",
+      "referencias": [
+        "Gênesis 26:24",
+        "Atos 3:13"
+      ],
+      "comentario": "Pedro usa a própria tradição deles (o Deus dos Patriarcas) para fundamentar a ressurreição de Jesus. Ele lança a acusação de assassinato novamente, lembrando-os de que Ele foi rejeitado *depois* de lhes ter sido apresentado.",
+      "temas": [
+        "Fundamento na tradição",
+        "Ressurreição",
+        "Rejeição de Cristo"
+      ],
+      "personagens": [
+        "Abraão",
+        "Isaque",
+        "Jacó",
+        "Jesus"
+      ]
+    },
+    "17": {
+      "parafrase": "'Mas Deus O elevou ao Seu lado direito no céu, concedendo-Lhe a glória máxima como Príncipe e Salvador, para dar ao povo de Israel o arrependimento sincero e o perdão dos pecados.'",
+      "referencias": [
+        "Salmos 110:1",
+        "Filipenses 2:9"
+      ],
+      "comentario": "O conceito de 'elevou' (hypsōsas) aponta para a entronização de Cristo. Ele está na posição de autoridade máxima ('Príncipe' - archēgos) e Sua missão atual é oferecer o caminho da mudança de mente (metanoia - arrependimento) e a remoção dos pecados.",
+      "temas": [
+        "Exaltação de Cristo",
+        "Arrependimento",
+        "Perdão"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
+    },
+    "18": {
+      "parafrase": "'E nós, Seus apóstolos, somos testemunhas de tudo isso, e o Espírito Santo, que Deus prometeu dar àqueles que O obedecem, também testemunha disso.'",
+      "referencias": [
+        "Atos 1:8",
+        "João 14:26"
+      ],
+      "comentario": "A defesa repousa sobre três pilares de testemunho: 1) A experiência pessoal dos apóstolos; 2) A obra do Espírito Santo, que é a prova viva da verdade da ressurreição e da missão.",
+      "temas": [
+        "Testemunho apostólico",
+        "O Espírito Santo",
+        "Evidência espiritual"
+      ],
+      "personagens": [
+        "Espírito Santo"
+      ]
+    },
+    "19": {
+      "parafrase": "O sumo sacerdote, ao ouvir isso, ficou furioso e ordenou que os apóstolos fossem imediatamente levados para fora da corte para serem julgados de maneira mais severa.",
+      "referencias": [
+        "Atos 4:1",
+        "Marcos 3:5"
+      ],
+      "comentario": "A reação do líder é de ira (implica que o julgamento havia sido uma tentativa de conciliação ou de intimidação inicial). A fúria indica que a defesa de Pedro foi um ataque direto à autoridade do Sinédrio.",
+      "temas": [
+        "Ira dos líderes",
+        "Julgamento severo"
+      ],
+      "personagens": [
+        "Sumo Sacerdote"
+      ]
+    },
+    "20": {
+      "parafrase": "No entanto, antes que pudessem executar a ordem, um conselheiro respeitado e inteligente, um fariseu chamado Gamaliel, que gozava da confiança de todo o povo, interveio, mandando que os apóstolos fossem levados para fora momentaneamente.",
+      "referencias": [
+        "Atos 22:3",
+        "Lucas 10:27"
+      ],
+      "comentario": "Gamaliel é apresentado como a voz da razão e da moderação. Ele era um fariseu, membro do Sinédrio, e um respeitado mestre da Lei. Sua intervenção adia o veredito fatal.",
+      "temas": [
+        "Intervenção moderada",
+        "Sabedoria",
+        "Influência social"
+      ],
+      "personagens": [
+        "Gamaliel",
+        "Fariseu"
+      ]
+    },
+    "21": {
+      "parafrase": "Gamaliel disse ao conselho: 'Homens de Israel, tenham cuidado com o que estão prestes a fazer com estes homens. Pensem bem no que farão.'",
+      "referencias": [
+        "Deuteronômio 1:17",
+        "Provérbios 14:29"
+      ],
+      "comentario": "Gamaliel apela para a prudência e a cautela. Ele os lembra que decisões precipitadas podem ter consequências desastrosas para o próprio povo judeu, não apenas para os apóstolos.",
+      "temas": [
+        "Prudência",
+        "Advertência"
+      ],
+      "personagens": [
+        "Gamaliel"
+      ]
+    },
+    "22": {
+      "parafrase": "Para ilustrar seu ponto, ele citou exemplos históricos recentes: 'Lembram-se de Teudas? Ele surgiu, afirmando ser alguém importante, e reuniu cerca de quatrocentos seguidores. Ele foi assassinado, e todos os que o seguiam se dispersaram, sem deixar rastro.'",
+      "referencias": [
+        "Josefo, Antiguidades Judaicas, 20.5.1",
+        "Atos 4:1"
+      ],
+      "comentario": "Gamaliel usa o método indutivo, citando um falso messias recente (Teudas, que segundo Josefo liderou uma revolta por volta de 44 d.C.). O ponto é que movimentos puramente humanos, sem Deus, falham e se desintegram sob pressão.",
+      "temas": [
+        "Exemplos históricos",
+        "Movimentos humanos falhos"
+      ],
+      "personagens": [
+        "Teudas"
+      ]
+    },
+    "23": {
+      "parafrase": "E depois dele, surgiu Judas, o Galileu, durante o censo, mobilizando grande número de pessoas para a rebelião, mas ele também foi aniquilado, e toda a sua seita se desfez.'",
+      "referencias": [
+        "Lucas 2:2",
+        "Josefo, Antiguidades Judaicas, 18.1.1"
+      ],
+      "comentario": "Judas, o Galileu (o Sicário), é outro exemplo de líder carismático e rebelde. Gamaliel demonstra que a força pela espada ou pela retórica vazia não dura.",
+      "temas": [
+        "Rebelião fracassada",
+        "Distinção entre o humano e o divino"
+      ],
+      "personagens": [
+        "Judas, o Galileu"
+      ]
+    },
+    "24": {
+      "parafrase": "Agora, olhem para a situação atual. Se o que estes homens estão fazendo é puramente obra humana, então logo eles próprios desmoronarão e desaparecerão, como aqueles outros. Não há necessidade de vocês agirem contra eles de forma violenta agora.'",
+      "referencias": [
+        "Eclesiastes 3:19",
+        "Provérbios 21:30"
+      ],
+      "comentario": "O argumento final de Gamaliel é de paciência estratégica. Se o cristianismo é falso, a própria história o desmentirá. Intervir violentamente agora pode fazer com que os líderes pareçam estar lutando contra Deus, e não contra um simples grupo de rebeldes.",
+      "temas": [
+        "Paciência",
+        "Deixar o tempo revelar a verdade"
+      ],
+      "personagens": [
+        "Gamaliel"
+      ]
+    },
+    "25": {
+      "parafrase": "Mas se, por outro lado, esta obra for realmente de Deus, então vocês descobrirão que estão lutando contra o próprio poder celestial, e, ao fazerem isso, vocês correrão o risco de se encontrarem lutando contra Deus, o que seria uma catástrofe irrecuperável para todos nós!'",
+      "referencias": [
+        "Jó 41:10",
+        "1 Coríntios 1:20"
+      ],
+      "comentario": "Este é o ponto de maior impacto de Gamaliel. Ele sugere que, se a obra for divina, a oposição resultará em ira divina contra o Sinédrio. Ele usa a lógica para apelar ao medo da ira de Deus, forçando o conselho a reconsiderar a perseguição violenta.",
+      "temas": [
+        "Lutar contra Deus",
+        "Consequências da oposição divina"
+      ],
+      "personagens": [
+        "Gamaliel"
+      ]
+    },
+    "26": {
+      "parafrase": "E, enquanto Estêvão falava com tamanha ousadia e convicção, algo extraordinário aconteceu: a multidão, antes apenas ouvindo, foi preenchida por uma ira cega e implacável. Eles apertaram os ouvidos com força, recusando-se a absorver a verdade que lhes era apresentada, como se a própria luz da mensagem fosse dolorosa demais para seus olhos espirituais.",
+      "referencias": [
+        "Mateus 13:15",
+        "João 12:37"
+      ],
+      "comentario": "O termo grego para 'apertaram os ouvidos' é 'etúphōsan', sugerindo que eles bloquearam ativamente a entrada do som, um ato de obstinação deliberada. A recusa em ouvir torna-se um selo contra a conversão, um reflexo da dureza de coração profetizada em textos anteriores.",
+      "temas": [
+        "Rejeição da Verdade",
+        "Cegueira Espiritual",
+        "Oposição Hostil"
+      ],
+      "personagens": [
+        "Estêvão",
+        "A Multidão"
+      ]
+    },
+    "27": {
+      "parafrase": "Então, eles se voltaram violentamente contra Estêvão, clamando em uníssono: 'Nós sabemos que a boca dele está cheia de blasfêmias contra Deus! Ele está falando mal de Moisés e até mesmo do nosso Templo sagrado!' Eles, na verdade, estavam apenas encontrando uma desculpa conveniente para justificar o ódio que já sentiam em seus corações.",
+      "referencias": [
+        "Marcos 14:55",
+        "Mateus 26:59"
+      ],
+      "comentario": "A acusação central era blasfêmia contra Moisés e o Templo. Isso era extremamente grave no contexto judaico. Estêvão não estava atacando a lei ou o edifício em si, mas o uso que eles faziam deles, desviando-se do espírito da Aliança. O grego para 'blasfêmias' é 'blasphēmīas'.",
+      "temas": [
+        "Acusação Falsa",
+        "Defesa da Tradição",
+        "Conflito Religioso"
+      ],
+      "personagens": [
+        "Estêvão",
+        "O Sinédrio (implícito)"
+      ]
+    },
+    "28": {
+      "parafrase": "Eles continuaram a despejar suas acusações, lembrando-se das palavras de Estêvão: 'Ele ousou dizer que Jesus de Nazaré destruirá este lugar santo, este Templo que construímos, e mudará todos os costumes que Moisés nos transmitiu por tradição!'",
+      "referencias": [
+        "Mateus 24:2",
+        "Marcos 13:2"
+      ],
+      "comentario": "Esta é uma acusação direta de profanação e alteração das práticas estabelecidas. A menção de 'costumes' (em grego 'paradosis') refere-se às tradições orais transmitidas pelos anciãos. O povo via o Templo como o centro fixo da presença de Deus, e sugerir sua destruição era o ápice da heresia para eles.",
+      "temas": [
+        "Profecia de Destruição",
+        "Tradição vs. Revelação",
+        "Autoridade de Moisés"
+      ],
+      "personagens": [
+        "Estêvão"
+      ]
+    },
+    "29": {
+      "parafrase": "Neste ponto, toda a assembleia em Jerusalém voltou seus olhos furiosos para Estêvão, a tensão pairando no ar como uma tempestade iminente. Eles estavam prontos para agir, para transformar o debate em violência física.",
+      "referencias": [
+        "Gálatas 5:12",
+        "Filipenses 3:6"
+      ],
+      "comentario": "Embora este versículo seja frequentemente omitido em algumas traduções, o contexto sugere a escalada da hostilidade que leva à ação física. O foco está na convergência do olhar da multidão sobre o alvo, indicando a preparação para o linchamento.",
+      "temas": [
+        "Foco da Hostilidade",
+        "Convergência da Raiva"
+      ],
+      "personagens": [
+        "Estêvão"
+      ]
+    },
+    "30": {
+      "parafrase": "Porém, antes que o caos se instalasse totalmente, os olhos de Estêvão se abriram para uma visão celestial. Ele olhou para o céu aberto, e viu, com clareza cristalina, a glória de Deus e, ao lado dela, Jesus Cristo, o Filho do Homem, de pé, pronto para recebê-lo.",
+      "referencias": [
+        "Apocalipse 1:12-18",
+        "Daniel 7:13"
+      ],
+      "comentario": "Esta é a primeira visão celestial registrada no livro de Atos após a ascensão de Jesus. O grego para 'Glória de Deus' é 'doxa Theou'. Jesus é visto como Aquele que está à direita de Deus, confirmando a divindade de Cristo, algo que os acusadores consideravam a maior blasfêmia.",
+      "temas": [
+        "Visão Celestial",
+        "A Soberania de Cristo",
+        "Glória Divina"
+      ],
+      "personagens": [
+        "Estêvão",
+        "Jesus Cristo"
+      ]
+    },
+    "31": {
+      "parafrase": "Tomado pela visão, Estêvão gritou para eles, embora soubesse que sua voz não seria mais ouvida por ouvidos terrestres: 'Vejam! Eu vejo os céus se abrindo e o Filho do Homem erguido, esperando ali à direita do Poder Supremo!'",
+      "referencias": [
+        "Hebreus 1:3",
+        "Salmos 110:1"
+      ],
+      "comentario": "A referência 'à direita do Poder Supremo' (em grego 'dexia tēs dynameōs') é uma alusão direta ao Salmo 110:1, um texto messiânico fundamental. Estêvão está, essencialmente, acusando-os de matar Aquele que o Pai havia exaltado acima de todas as coisas.",
+      "temas": [
+        "Confirmação da Exaltação",
+        "Testemunho Profético",
+        "Autoridade de Jesus"
+      ],
+      "personagens": [
+        "Estêvão",
+        "Jesus Cristo"
+      ]
+    },
+    "32": {
+      "parafrase": "A multidão, agora completamente enfurecida pela ousadia final de Estêvão, perdeu qualquer vestígio de controle racional. Eles não aguentavam mais a interrupção da sua paz ilusória pelo testemunho da realidade divina.",
+      "referencias": [
+        "Lucas 21:12-16",
+        "Atos 6:10"
+      ],
+      "comentario": "Este versículo geralmente resume a reação deles à declaração anterior. A 'loucura' ou 'fúria' deles é a resposta esperada ao confronto direto com a verdade da divindade de Jesus, manifestada na visão de Estêvão.",
+      "temas": [
+        "A Fúria da Multidão",
+        "Reação à Revelação"
+      ],
+      "personagens": [
+        "A Multidão"
+      ]
+    },
+    "33": {
+      "parafrase": "Enlouquecidos, eles taparam os ouvidos novamente, gritando em um coro ensurdecedor, e avançaram juntos, determinados a silenciar aquele homem a qualquer custo. O clamor deles era tão alto que abafava qualquer possibilidade de arrependimento.",
+      "referencias": [
+        "Mateus 27:20-23",
+        "Atos 4:14-17"
+      ],
+      "comentario": "O texto sugere um linchamento comunitário, uma prática que, embora não formalmente sancionada para crimes capitais sem a aprovação romana, era comum em casos de 'blasfêmia' percebida. O foco aqui é a unanimidade na violência.",
+      "temas": [
+        "Linchemento",
+        "Violência Urbana",
+        "O Silenciamento"
+      ],
+      "personagens": [
+        "A Multidão"
+      ]
+    },
+    "34": {
+      "parafrase": "Eles arrastaram Estêvão para fora dos muros da cidade santa, a fúria dos homens contrastando com a paz que ele carregava em seu rosto. Eles o levaram para um lugar isolado, onde o julgamento sumário e brutal poderia ser executado sem testemunhas judiciais formais.",
+      "referencias": [
+        "Hebreus 13:11-13",
+        "1 Reis 21:13"
+      ],
+      "comentario": "O ato de arrastar para fora das muralhas é significativo. Na lei judaica, a lapidação (a forma mais provável de execução aqui) ocorria fora das muralhas da cidade (Levítico 24:14). Isso indica que, mesmo que o Sinédrio estivesse envolvido, a execução seguiu o rito de apedrejamento.",
+      "temas": [
+        "Exílio Forçado",
+        "Execução Extrajurídica",
+        "Separação do Sagrado"
+      ],
+      "personagens": [
+        "Estêvão"
+      ]
+    },
+    "35": {
+      "parafrase": "Enquanto as pedras começavam a voar, Estêvão, com a força dada pelo Espírito, proferiu as palavras mais surpreendentes de toda a história do martírio: ele declarou que o homem que o havia condenado, o jovem Saulo, seria, ironicamente, o instrumento principal para a propagação daquela mesma mensagem que agora lhe custava a vida.",
+      "referencias": [
+        "2 Timóteo 2:2",
+        "2 Tessalonicenses 2:10"
+      ],
+      "comentario": "Este versículo descreve a profecia específica sobre Saulo. Estêvão não amaldiçoa, mas profetiza a conversão de seu principal algoz. Ele vê o futuro através da lente do Reino, mesmo em seus momentos finais. Este ato de perdão prenuncia a própria essência do Evangelho.",
+      "temas": [
+        "Profecia de Conversão",
+        "Perdão no Martírio",
+        "O Papel de Saulo"
+      ],
+      "personagens": [
+        "Estêvão",
+        "Saulo (Paulo)"
+      ]
+    },
+    "36": {
+      "parafrase": "Pois, como Estêvão sabia muito bem, o próprio Deus é Aquele que cumpre Seu propósito, trazendo libertação e restauração no tempo exato. Sua morte não era o fim, mas a semente que germinaria na vida de um perseguidor transformado.",
+      "referencias": [
+        "Isaías 46:10",
+        "João 15:19"
+      ],
+      "comentario": "Esta reflexão encapsula a soberania de Deus sobre a história humana. O martírio de Estêvão não foi um fracasso, mas um sucesso estratégico no plano divino, pois preparou o caminho para o maior missionário gentio.",
+      "temas": [
+        "Soberania Divina",
+        "Tempo de Deus",
+        "Eficácia do Sacrifício"
+      ],
+      "personagens": [
+        "Deus"
+      ]
+    },
+    "37": {
+      "parafrase": "Em seguida, Estêvão, em um acesso final de clareza espiritual, dirigiu-se a todo o povo, relembrando toda a jornada da história de Israel, desde os patriarcas até a Lei, mostrando como eles sempre resistiram aos mensageiros que Deus enviou para chamá-los ao caminho correto.",
+      "referencias": [
+        "Deuteronômio 18:15",
+        "Isaías 63:10"
+      ],
+      "comentario": "Aqui começa a segunda metade do discurso de Estêvão (que se estende pelos versículos seguintes), focando na desobediência histórica de Israel. Ele estabelece um padrão: profetas e mensageiros foram consistentemente rejeitados, culminando em Jesus.",
+      "temas": [
+        "Desobediência Histórica",
+        "Rejeição dos Profetas",
+        "A Linha da História"
+      ],
+      "personagens": [
+        "Estêvão",
+        "Israel"
+      ]
+    },
+    "38": {
+      "parafrase": "Ele recorda a entrega da Lei no Sinai, o pacto de vida que lhes foi dado através de Moisés, o nosso grande legislador. No entanto, mesmo sob a graça da Lei, o povo não obedeceu às instruções divinas.",
+      "referencias": [
+        "Êxodo 19:5",
+        "Gálatas 3:19"
+      ],
+      "comentario": "A menção à 'Lei recebida dos anjos' (em grego, 'logia di' angelōn') é teologicamente importante, pois destaca a mediação angelical na entrega da Lei a Moisés, reforçando sua santidade, mas também a responsabilidade do povo em cumpri-la.",
+      "temas": [
+        "A Lei Mosaica",
+        "Mediação Angelical",
+        "Responsabilidade Humana"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
+    },
+    "39": {
+      "parafrase": "Apesar de tudo, nossos pais não quiseram obedecer à voz do anjo que lhes falava através de Moisés. Eles eram obstinados e teimosos, recusando-se a entregar seus corações para ouvir as palavras de vida prometidas.",
+      "referencias": [
+        "Hebreus 3:7-8",
+        "Jeremias 7:26"
+      ],
+      "comentario": "O uso repetitivo do adjetivo 'obstinados' (em grego, 'apopethelous') sublinha a natureza reincidente da rebelião de Israel. Eles eram difíceis de persuadir, sempre voltando para a idolatria ou desobediência.",
+      "temas": [
+        "Obstinação",
+        "Desobediência Contínua",
+        "Coração Endurecido"
+      ],
+      "personagens": [
+        "Os Pais"
+      ]
+    },
+    "40": {
+      "parafrase": "Eles tinham até mesmo um desejo perverso de retornar ao Egito, à terra da escravidão, preferindo a tirania conhecida à incerteza da liberdade guiada por Deus, e exigiram que Moisés fizesse para eles novos ídolos para adorar.",
+      "referencias": [
+        "Êxodo 32:1",
+        "Números 14:4"
+      ],
+      "comentario": "Este é um ponto de inflexão retórico de Estêvão: a rebelião não era apenas passiva, mas ativa, clamando pelo retorno à servidão em vez de confiar na promessa da Terra Prometida. A demanda por ídolos é a prova máxima dessa traição.",
+      "temas": [
+        "Idolatria",
+        "Desejo de Retorno à Escravidão",
+        "Traição da Aliança"
+      ],
+      "personagens": [
+        "Os Pais",
+        "Moisés"
+      ]
+    },
     "41": {
-      "parafrase": "'Mas Deus se afastou deles e os entregou a adorarem o exército do céu, como está escrito no livro dos profetas: 'Acaso foi a mim que vocês ofereceram vítimas e sacrifícios durante quarenta anos no deserto, ó casa de Israel?'",
-      "referencias": ["Amós 5:25-27"],
-      "comentario": "Estêvão cita o profeta Amós para mostrar que a idolatria de Israel não foi um incidente isolado, mas um padrão de comportamento que levou Deus a entregá-los a formas ainda piores de adoração (astral).",
-      "temas": ["juízo divino", "idolatria", "apostasia"],
-      "personagens": ["Deus"]
+      "parafrase": "Ainda mais chocante, no deserto, eles fabricaram um bezerro, um ídolo de metal fundido, e começaram a oferecer sacrifícios para aquela imagem que suas próprias mãos haviam criado. E, por causa disso, a ira de Deus se acendeu contra eles com tamanha fúria.",
+      "referencias": [
+        "Êxodo 32:4-6",
+        "Salmos 106:19-20"
+      ],
+      "comentario": "Estêvão traça um paralelo direto com o incidente do Bezerro de Ouro. O problema não era apenas a confecção do ídolo, mas o ato de substituírem o Deus invisível por uma imagem visível, um ato que rompia frontalmente com o Segundo Mandamento.",
+      "temas": [
+        "O Bezerro de Ouro",
+        "Revolta no Deserto",
+        "Ira de Deus"
+      ],
+      "personagens": [
+        "Os Pais"
+      ]
     },
     "42": {
-      "parafrase": "'Pelo contrário, vocês carregaram o tabernáculo de Moloque e a estrela do seu deus Renfã, imagens que fizeram para adorar. Por isso, eu os deportarei para além da Babilônia.'",
-      "referencias": ["Amós 5:26-27"],
-      "comentario": "A citação continua, mostrando que a consequência da idolatria persistente foi o exílio. Este é um aviso direto ao Sinédrio.",
-      "temas": ["idolatria pagã", "exílio", "juízo"],
-      "personagens": ["Deus"]
+      "parafrase": "Mas Deus, em Sua infinita paciência, desviou o olhar da idolatria deles e se voltou para as estrelas, entregando-os aos poderes do céu que eles tanto haviam escolhido adorar, como está escrito nos antigos profetas.",
+      "referencias": [
+        "Romanos 1:24-25",
+        "2 Reis 21:3"
+      ],
+      "comentario": "A 'volta' de Deus para os exércitos celestes (estrelas) é uma referência clara à idolatria estelar, comum entre as nações vizinhas. O grego para 'exércitos celestes' é 'panoplia tōn ouranōn'. Deus os entregou ao que eles amavam, o que implica abandono judicial (a ira passiva).",
+      "temas": [
+        "Abandono Judicial",
+        "Adoração das Estrelas",
+        "Paciência de Deus"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "43": {
-      "parafrase": "'Nossos pais tinham no deserto o tabernáculo do testemunho, como havia ordenado aquele que disse a Moisés que o fizesse segundo o modelo que tinha visto.'",
-      "referencias": ["Êxodo 25:9, 40"],
-      "comentario": "Estêvão agora se volta para o Tabernáculo, o lugar da habitação de Deus. Ele ressalta que era uma estrutura móvel, feita segundo um modelo celestial, não uma invenção humana.",
-      "temas": ["Tabernáculo", "adoração verdadeira", "revelação divina"],
-      "personagens": ["Moisés", "Deus"]
+      "parafrase": "Estêvão continua seu relato doloroso: 'Vocês não trouxeram apenas os ídolos de Moloque para o deserto, mas também a tenda de testemunho de Rião, as estrelas que vocês adoravam, e trouxeram tudo isso para o meio de nós, no meio da nossa jornada!'",
+      "referencias": [
+        "Amós 5:25-27",
+        "2 Crônicas 28:22-24"
+      ],
+      "comentario": "Moloque e Quium (Rião no grego) eram referências a divindades pagãs, possivelmente associadas à astrologia ou divindades cananeias. O ponto de Estêvão é que a idolatria do deserto foi trazida para a Terra Prometida e persistiu na adoração do Tabernáculo (tenda de testemunho), misturando o sagrado com o profano.",
+      "temas": [
+        "Idolatria Persistente",
+        "Moloque",
+        "Mistura Religiosa"
+      ],
+      "personagens": [
+        "Estêvão"
+      ]
     },
     "44": {
-      "parafrase": "'Este tabernáculo, nossos pais o receberam e o introduziram, com Josué, na terra possuída pelas nações que Deus expulsou de diante deles. E ali permaneceu até os dias de Davi,'",
-      "referencias": ["Josué 3:14-17"],
-      "comentario": "O Tabernáculo acompanhou o povo, mostrando que a presença de Deus estava com eles em sua jornada, não fixa em um único lugar.",
-      "temas": ["presença de Deus", "conquista de Canaã"],
-      "personagens": ["Josué", "Davi", "Deus"]
+      "parafrase": "Por causa dessa infidelidade, Deus lhes deu o Tabernáculo, a Tenda da Testemunhança, que Moisés havia construído exatamente conforme o modelo que lhe foi mostrado no Monte, um lugar de encontro entre Ele e o povo.",
+      "referencias": [
+        "Êxodo 25:8-9",
+        "Hebreus 8:5"
+      ],
+      "comentario": "O Tabernáculo foi dado como um meio de graça, um lugar para a presença de Deus habitar entre um povo pecador. Estêvão está preparando a audiência para o contraste: a glória do Tabernáculo versus a glória do Templo de Salomão, e, finalmente, a glória de Cristo.",
+      "temas": [
+        "O Tabernáculo",
+        "Modelo Divino",
+        "Presença de Deus"
+      ],
+      "personagens": [
+        "Deus",
+        "Moisés"
+      ]
     },
     "45": {
-      "parafrase": "'o qual alcançou favor diante de Deus e pediu que lhe fosse permitido encontrar uma morada para o Deus de Jacó.'",
-      "referencias": ["2 Samuel 7:1-2", "Salmo 132:1-5"],
-      "comentario": "Davi desejou construir uma casa permanente para Deus, um templo.",
-      "temas": ["Templo", "Davi", "adoração"],
-      "personagens": ["Davi", "Deus"]
+      "parafrase": "Nossos antepassados, tendo recebido este lugar sagrado, carregaram-no através das gerações, e o trouxeram consigo quando Josué os conduziu para tomar posse da terra dos povos que Deus estava expulsando diante deles.",
+      "referencias": [
+        "Josué 18:1",
+        "Salmos 78:55"
+      ],
+      "comentario": "O Tabernáculo serviu como centro de culto durante o período de conquista. Estêvão usa isso para mostrar que a posse da terra estava ligada à fidelidade ao modelo estabelecido por Deus, não à posse física do local.",
+      "temas": [
+        "Conquista da Terra",
+        "Fidelidade ao Modelo",
+        "Posse da Herança"
+      ],
+      "personagens": [
+        "Josué"
+      ]
     },
     "46": {
-      "parafrase": "'Mas foi Salomão quem lhe edificou a casa.'",
-      "referencias": ["1 Reis 6:1"],
-      "comentario": "Salomão realizou o desejo de Davi, construindo o primeiro Templo em Jerusalém.",
-      "temas": ["Templo", "Salomão"],
-      "personagens": ["Salomão"]
+      "parafrase": "E esse Tabernáculo permaneceu até a época do grande Rei Davi, que, diante de Deus, pediu a permissão divina para construir uma morada permanente, um Templo magnífico, para o Senhor.",
+      "referencias": [
+        "2 Samuel 7:1-3",
+        "1 Crônicas 17:1-2"
+      ],
+      "comentario": "Estêvão move a narrativa do Tabernáculo para o Templo de Salomão, passando pela figura de Davi. Davi desejou construir uma 'casa' para Deus (em vez de Deus construir uma casa para Davi, como Deus corrigiu em 2 Samuel 7).",
+      "temas": [
+        "Desejo de Davi",
+        "Tabernáculo para Templo",
+        "Morada de Deus"
+      ],
+      "personagens": [
+        "Davi"
+      ]
     },
     "47": {
-      "parafrase": "'Contudo, o Altíssimo não habita em templos feitos por mãos humanas, como diz o profeta:'",
-      "referencias": ["1 Reis 8:27"],
-      "comentario": "Este é o clímax do argumento de Estêvão sobre o Templo. Ele usa as próprias Escrituras para provar que seus acusadores tinham uma visão idólatra do Templo, pensando que poderiam confinar Deus a um edifício.",
-      "temas": ["onipresença de Deus", "idolatria do Templo"],
-      "personagens": ["Deus"]
+      "parafrase": "No entanto, foi o filho de Davi, Salomão, quem finalmente construiu a Casa suntuosa, o Templo imponente que hoje vocês tanto prezam e defendem com tanta paixão cega.",
+      "referencias": [
+        "1 Reis 6:1",
+        "2 Crônicas 3:1"
+      ],
+      "comentario": "Ao mencionar Salomão, Estêvão atinge o ponto nevrálgico da acusação dos líderes: o Templo. Ele reconhece sua construção e beleza, mas o propósito de mencionar é subverter a ideia de que a presença de Deus estava *aprisionada* naquele edifício.",
+      "temas": [
+        "Templo de Salomão",
+        "Glória do Templo",
+        "Santuário Fixo"
+      ],
+      "personagens": [
+        "Salomão"
+      ]
     },
     "48": {
-      "parafrase": "'O céu é o meu trono, e a terra, o estrado dos meus pés. Que casa vocês me edificarão?, diz o Senhor, ou qual é o lugar do meu repouso?'",
-      "referencias": ["Isaías 66:1-2"],
-      "comentario": "Citando Isaías, Estêvão mostra a grandeza de Deus e a loucura de pensar que Ele pode ser contido em uma estrutura física. A verdadeira habitação de Deus é um coração humilde.",
-      "temas": ["soberania de Deus", "criação", "adoração espiritual"],
-      "personagens": ["Senhor"]
+      "parafrase": "Mas, ó homens de Israel, vocês precisam entender uma verdade fundamental: o Deus Altíssimo não habita em construções feitas por mãos humanas. Ele não pode ser contido ou limitado por tijolos e argamassa!",
+      "referencias": [
+        "Isaías 66:1-2",
+        "Mateus 12:6"
+      ],
+      "comentario": "Este é o clímax teológico do discurso. Estêvão cita Isaías, desafiando a 'teologia do edifício'. O maior profeta de Israel já havia ensinado que Deus é transcendente demais para ser contido em templos feitos por homens. Os líderes haviam transformado a casa de Deus em um ídolo.",
+      "temas": [
+        "Transcendência de Deus",
+        "Templos Feitos por Mãos Humanas",
+        "Idolatria Estrutural"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "49": {
-      "parafrase": "'Não foram as minhas mãos que fizeram todas estas coisas?'",
-      "referencias": ["Isaías 66:2"],
-      "comentario": "A criação inteira é obra de Deus; portanto, nenhum edifício pode ser Sua verdadeira 'casa'.",
-      "temas": ["criação", "poder de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Afinal, o que o Senhor disse através do profeta? Ele perguntou: 'O céu é o meu trono, e a terra é o estrado onde Eu descanso os meus pés. Que tipo de casa vocês poderiam construir que fosse digna de Mim? Onde ficaria o lugar do Meu repouso?'",
+      "referencias": [
+        "Isaías 66:1",
+        "Salmos 99:5"
+      ],
+      "comentario": "Citação direta de Isaías. Estêvão usa a cosmologia profética para mostrar a pequenez do Templo em comparação com a vastidão do Criador. O céu é o trono e a terra o banquinho dos pés – a metáfora enfatiza a soberania universal de Deus sobre qualquer santuário terrestre.",
+      "temas": [
+        "Soberania Cósmica",
+        "Metáfora do Trono",
+        "O Repouso de Deus"
+      ],
+      "personagens": [
+        "Deus",
+        "Profeta (Isaías)"
+      ]
     },
     "50": {
-      "parafrase": "'Homens de dura cerviz e incircuncisos de coração e de ouvidos! Vocês sempre resistem ao Espírito Santo. Como seus pais fizeram, assim fazem também vocês.'",
-      "referencias": ["Êxodo 33:3", "Jeremias 9:26"],
-      "comentario": "A defesa de Estêvão se transforma em uma acusação direta e contundente. Ele usa a linguagem dos profetas para acusar os líderes de Israel de rebeldia espiritual, a mesma de seus antepassados.",
-      "temas": ["dureza de coração", "rebelião", "resistência ao Espírito Santo"],
-      "personagens": ["Estêvão", "Espírito Santo"]
+      "parafrase": "O que eu estou dizendo é isto: vocês agiram como seus ancestrais em todas as épocas! Desde o deserto até hoje, vocês têm sido um povo que resiste ao Espírito Santo. Vocês mataram os profetas que anunciavam a vinda do Justo, e agora, com as mãos sujas de sangue, vocês rejeitaram o próprio Justo!",
+      "referencias": [
+        "Mateus 23:34-37",
+        "Jeremias 26:11"
+      ],
+      "comentario": "Este é o resumo final e a condenação direta. O 'Espírito Santo' (em grego 'Pneuma Hagion') é introduzido como o último mensageiro enviado por Deus, após os profetas. A rejeição culmina na crucificação de Jesus ('o Justo'), completando o padrão histórico de resistência divina.",
+      "temas": [
+        "Resistência ao Espírito Santo",
+        "Culpa Histórica",
+        "Rejeição do Justo"
+      ],
+      "personagens": [
+        "Espírito Santo",
+        "Profetas",
+        "O Justo (Jesus)"
+      ]
     },
     "51": {
-      "parafrase": "'A qual dos profetas seus pais não perseguiram? Eles mataram os que anteriormente anunciavam a vinda do Justo, do qual agora vocês se tornaram traidores e assassinos,'",
-      "referencias": ["Mateus 23:31-37"],
-      "comentario": "Ele os acusa de serem a culminação de uma longa história de rejeição e perseguição aos mensageiros de Deus, culminando no assassinato do próprio Messias, o 'Justo'.",
-      "temas": ["perseguição aos profetas", "rejeição do Messias", "culpa"],
-      "personagens": ["Profetas", "O Justo (Cristo)"]
+      "parafrase": "Então, Estêvão, com um tom de voz firme e corajoso, dirigiu-se àqueles líderes religiosos que o observavam com ódio frio. Ele os acusou diretamente, dizendo: 'Vocês, obstinados e de coração endurecido, que sempre resistiram ao Espírito Santo, agora vejam a verdade! Seus pais fizeram o mesmo, e vocês continuam essa tradição de teimosia. Vocês são como eles em tudo!'",
+      "referencias": [
+        "Gênesis 49:24",
+        "Deuteronômio 31:27",
+        "Isaías 63:10"
+      ],
+      "comentario": "O termo grego usado para 'obstinados' ou 'de nuca inflexível' (σκλήροτράχηλοι - sklerotrachēloi) é muito forte, significando literalmente 'duros de pescoço'. Estêvão está ecoando a linguagem do Antigo Testamento (Êxodo 32:9) para descrever a recusa deles em ceder à vontade divina, resistindo ao Espírito Santo, a força ativa de Deus.",
+      "temas": [
+        "Resistência a Deus",
+        "Obdinação",
+        "Acusação Profética"
+      ],
+      "personagens": [
+        "Estêvão",
+        "Líderes Religiosos"
+      ]
     },
     "52": {
-      "parafrase": "'vocês que receberam a lei por ministério de anjos e não a guardaram.'",
-      "referencias": ["Gálatas 3:19", "Hebreus 2:2"],
-      "comentario": "A acusação final: eles se orgulhavam de ter a Lei, mas nunca a obedeceram verdadeiramente. A Lei, que deveria levá-los a Cristo, tornou-se o instrumento de sua condenação.",
-      "temas": ["hipocrisia", "desobediência à Lei"],
-      "personagens": ["Anjos"]
+      "parafrase": "Lembram-se dos profetas que vieram antes de mim? Qual deles os seus antepassados não perseguiram e não mataram com violência? Eles até mesmo previram a vinda do Justo, Aquele que vocês acabaram de trair e assassinar! Seria de se esperar que vocês, os herdeiros dessas gerações, tivessem aprendido a lição, mas não aprenderam.",
+      "referencias": [
+        "Mateus 23:37",
+        "Lucas 11:47",
+        "Hebreus 11:32-38"
+      ],
+      "comentario": "Aqui Estêvão traça uma linha direta de perseguição, desde os profetas do Antigo Testamento até a rejeição de Jesus ('o Justo' - dikaion). A hipocrisia é exposta: eles honram os túmulos dos profetas que seus pais mataram, mas rejeitam o Messias prometido.",
+      "temas": [
+        "Perseguição aos Profetas",
+        "Rejeição do Messias",
+        "Hipocrisia"
+      ],
+      "personagens": [
+        "Profetas",
+        "Ancestrais"
+      ]
     },
     "53": {
-      "parafrase": "Ao ouvirem isso, ficaram furiosos em seus corações e rangiam os dentes contra ele.",
-      "referencias": ["Atos 5:33"],
-      "comentario": "A verdade do discurso de Estêvão não produziu arrependimento, mas ódio e fúria assassina. A convicção do pecado, sem arrependimento, leva à ira.",
-      "temas": ["fúria", "convicção sem arrependimento"],
-      "personagens": ["Membros do Sinédrio"]
+      "parafrase": "Vocês receberam a Lei de Deus, dada pelos anjos, transmitida como um tesouro inestimável, mas, em vez de obedecerem a ela, vocês a transformaram em um instrumento de orgulho e desobediência, falhando em cumprir o que lhes foi ordenado.",
+      "referencias": [
+        "Gálatas 3:19",
+        "Hebreus 2:2"
+      ],
+      "comentario": "A menção da Lei dada 'por meio de anjos' (διαταγαῖς ἀγγέλων - diataGais angelōn) refere-se à tradição mosaica e à mediação celestial no Sinai. O contraste é entre a glória da revelação e a falha humana em viver de acordo com ela.",
+      "temas": [
+        "A Lei",
+        "Mediação Angélica",
+        "Desobediência Legal"
+      ],
+      "personagens": [
+        "Anjos"
+      ]
     },
     "54": {
-      "parafrase": "Mas Estêvão, cheio do Espírito Santo, fitou os olhos no céu e viu a glória de Deus, e Jesus, que estava à direita de Deus.",
-      "referencias": ["Salmo 110:1"],
-      "comentario": "Em seu momento de martírio, Estêvão recebe uma visão celestial. Ver Jesus 'em pé' à direita de Deus sugere que Cristo se levantou para receber seu servo fiel, uma posição de honra e prontidão para agir.",
-      "temas": ["visão celestial", "glória de Deus", "exaltação de Cristo", "Espírito Santo"],
-      "personagens": ["Estêvão", "Espírito Santo", "Deus", "Jesus"]
+      "parafrase": "Ao ouvir estas palavras duras e incontestáveis, que expunham a profundidade de sua culpa, a multidão presente ficou furiosa. Uma raiva cega e cortante tomou conta de seus corações, e eles começaram a ranger os dentes de puro ódio e frustração contra Estêvão.",
+      "referencias": [
+        "Salmos 37:12",
+        "Atos 6:11"
+      ],
+      "comentario": "O ranger de dentes (ἐβρύχον τοὺς ὀδόντας - ebrychon tous odontas) é um sinal clássico de fúria intensa, frequentemente associado à condenação (como em Mateus 8:12). A acusação de Estêvão atingiu o alvo, provocando uma reação visceral e violenta.",
+      "temas": [
+        "Fúria da Multidão",
+        "Oposição Violenta"
+      ],
+      "personagens": [
+        "Multidão"
+      ]
     },
     "55": {
-      "parafrase": "E disse: 'Eis que vejo os céus abertos e o Filho do Homem em pé, à direita de Deus.'",
-      "referencias": ["Daniel 7:13"],
-      "comentario": "A declaração de Estêvão é a blasfêmia final aos olhos do Sinédrio. Ele chama Jesus de 'Filho do Homem', um título messiânico de Daniel 7, e afirma vê-lo na posição de autoridade suprema.",
-      "temas": ["divindade de Cristo", "autoridade de Cristo", "blasfêmia (do ponto de vista do Sinédrio)"],
-      "personagens": ["Estêvão", "Filho do Homem (Jesus)", "Deus"]
+      "parafrase": "Mas Estêvão, completamente alheio à ameaça física que pairava sobre ele, estava tomado por uma visão celestial. Seu rosto, em vez de mostrar medo, irradiava a glória daquele momento, pois ele fitava fixamente o céu aberto.",
+      "referencias": [
+        "Êxodo 34:29-35",
+        "2 Coríntios 3:18"
+      ],
+      "comentario": "Este é o clímax da experiência de Estêvão. Ele está 'cheio do Espírito Santo' (πλησθεὶς πνεύματος ἁγίου - plēstheis pneumatos hagiou). Sua aparência transfigurada lembra a de Moisés ao descer do Sinai, mas Estêvão vê algo muito maior: A glória de Deus manifestada em Cristo ressuscitado.",
+      "temas": [
+        "Plenitude do Espírito Santo",
+        "Visão Celestial",
+        "Coragem Divina"
+      ],
+      "personagens": [
+        "Estêvão"
+      ]
     },
     "56": {
-      "parafrase": "Mas eles, gritando bem alto, taparam os ouvidos e, unânimes, avançaram contra ele.",
-      "referencias": [],
-      "comentario": "A reação deles é visceral. Eles se recusam a ouvir mais e partem para a violência, cumprindo o padrão de seus pais.",
-      "temas": ["violência", "rejeição da verdade"],
-      "personagens": ["Membros do Sinédrio"]
+      "parafrase": "Ele proclamou em voz alta, para que todos ouvissem seu testemunho final: 'Vejam! Estou vendo os céus se abrirem como uma cortina, e o Filho do Homem, o Messias, está de pé, à direita da Majestade Eterna, esperando! 🌟'",
+      "referencias": [
+        "Salmos 110:1",
+        "Marcos 14:62",
+        "Apocalipse 5:6"
+      ],
+      "comentario": "A visão de Jesus 'à direita de Deus' (ἐκ δεξιῶν τῆς δυνάμεως - ek dexiōn tēs dynameōs) é a afirmação suprema da soberania de Cristo após Sua ressurreição e ascensão. Estêvão o identifica como o 'Filho do Homem' (uios anthropou), o título messiânico preferido de Jesus.",
+      "temas": [
+        "Cristologia",
+        "Ascensão de Cristo",
+        "Testemunho Final"
+      ],
+      "personagens": [
+        "Jesus Cristo"
+      ]
     },
     "57": {
-      "parafrase": "Lançaram-no fora da cidade e começaram a apedrejá-lo. E as testemunhas deixaram suas capas aos pés de um jovem chamado Saulo.",
-      "referencias": ["Levítico 24:14", "Atos 22:20"],
-      "comentario": "O apedrejamento era a punição prescrita para a blasfêmia. A menção de Saulo (que se tornaria o apóstolo Paulo) é um detalhe crucial, mostrando sua aprovação ao ato e preparando o terreno para sua própria história de conversão.",
-      "temas": ["martírio", "apedrejamento", "perseguição"],
-      "personagens": ["Estêvão", "Saulo"]
+      "parafrase": "Neste instante, com a visão ainda em seus olhos, a multidão irrompeu em um grito ensurdecedor. Tapando os ouvidos com as mãos, numa tentativa desesperada de bloquear a voz celestial que Estêvão transmitia, eles se levantaram em uníssono para atacá-lo.",
+      "referencias": [
+        "Levítico 24:14",
+        "João 10:31"
+      ],
+      "comentario": "O ato de tapar os ouvidos (συνέδραμον ἐπ' αὐτὸν - synedramon ep' auton) é uma reação de quem se sente blasfemado e não quer ouvir mais a 'prova'. É o ápice da rejeição à verdade revelada, culminando em violência física imediata.",
+      "temas": [
+        "Blasfêmia Percebida",
+        "Rejeição Imediata",
+        "Ataque Físico"
+      ],
+      "personagens": [
+        "Multidão"
+      ]
     },
     "58": {
-      "parafrase": "Enquanto o apedrejavam, Estêvão orava, dizendo: 'Senhor Jesus, recebe o meu espírito.'",
-      "referencias": ["Salmo 31:5", "Lucas 23:46"],
-      "comentario": "As últimas palavras de Estêvão ecoam as de Jesus na estaca. Ele entrega seu espírito diretamente a Jesus, uma clara afirmação da divindade de Cristo e de sua relação pessoal com ele.",
-      "temas": ["oração", "fé na morte", "confiança em Cristo"],
-      "personagens": ["Estêvão", "Senhor Jesus"]
+      "parafrase": "Eles o arrastaram para fora dos limites seguros da cidade, onde o linchamento seria executado sem controle legal. Enquanto o arrastavam para a execução sumária, eles tiraram seus mantos e os jogaram aos pés de um jovem, um fariseu rigoroso chamado Saulo, que estava ali presente, aprovando tudo o que acontecia.",
+      "referencias": [
+        "Deuteronômio 17:7",
+        "Atos 22:20"
+      ],
+      "comentario": "O linchamento era tecnicamente ilegal, mas o fervor anti-cristão era tão grande que eles o executaram fora da cidade (como era feito com os apóstatas e blasfemadores). A menção de Saulo (futuro Paulo) é crucial, pois ele se torna o guardião das vestes, endossando a morte de Estêvão.",
+      "temas": [
+        "Linchaamento",
+        "Início da Perseguição",
+        "Participação de Saulo"
+      ],
+      "personagens": [
+        "Estêvão",
+        "Saulo"
+      ]
     },
     "59": {
-      "parafrase": "Então, ajoelhou-se e clamou em alta voz: 'Senhor, não lhes imputes este pecado.' E, tendo dito isso, adormeceu.",
-      "referencias": ["Lucas 23:34"],
-      "comentario": "Assim como Jesus, Estêvão perdoa seus assassinos. 'Adormeceu' é uma expressão cristã para a morte de um crente, indicando a esperança da ressurreição.",
-      "temas": ["perdão", "morte do crente", "graça"],
-      "personagens": ["Estêvão", "Senhor"]
+      "parafrase": "E enquanto as pedras começavam a chover sobre seu corpo indefeso, Estêvão, mesmo sentindo a dor lancinante, não proferiu uma maldição contra seus agressores. Em vez disso, ele levantou seu espírito e clamou ao céu com as palavras mais profundas de misericórdia: 'Senhor Jesus, receba meu espírito! 🙏'",
+      "referencias": [
+        "Lucas 23:34",
+        "Salmos 31:5"
+      ],
+      "comentario": "Esta é uma repetição do que Jesus fez na cruz (Lucas 23:46). 'Receber meu espírito' (παράλαβε τὸ πνεῦμά μου - paralabē to pneuma mou) demonstra a total confiança na pessoa de Cristo, a quem ele via no versículo anterior. O martírio se torna um ato de união com o Mestre.",
+      "temas": [
+        "Misericórdia no Sofrimento",
+        "Entrega da Vida",
+        "Martírio"
+      ],
+      "personagens": [
+        "Estêvão",
+        "Jesus Cristo"
+      ]
     },
     "60": {
-      "parafrase": "E Saulo consentia na morte dele. Naquela ocasião, levantou-se grande perseguição contra a igreja em Jerusalém, e todos, exceto os apóstolos, foram dispersos pelas regiões da Judeia e Samaria.",
-      "referencias": ["Atos 8:1-3"],
-      "comentario": "A morte de Estêvão marca um ponto de virada. Desencadeia uma perseguição que, paradoxalmente, cumpre a comissão de Jesus de levar o evangelho para além de Jerusalém.",
-      "temas": ["perseguição", "dispersão da igreja", "soberania de Deus"],
-      "personagens": ["Saulo"]
+      "parafrase": "Com a voz já enfraquecendo sob o impacto das pedradas brutais, Estêvão se ajoelhou (ou caiu), e proferiu sua última e mais impressionante oração: um clamor pela clemência daqueles que o matavam. Ele gritou: 'Senhor, não lhes impute este pecado terrível! 💔'. Depois disso, ele caiu e descansou na morte, iniciando seu sono eterno.",
+      "referencias": [
+        "Mateus 5:44",
+        "1 Pedro 4:19"
+      ],
+      "comentario": "O perdão proferido por Estêvão, assim como o de Jesus, é o ato final de graça. O verbo grego usado para 'imputar' ou 'contar contra' (λογίσῃ - logisē) significa que ele orou para que seu sangue não fosse contado como um crime capital contra eles no Juízo Final. Ele morre como o primeiro mártir cristão oficial ('protomártir').",
+      "temas": [
+        "Perdão aos Inimigos",
+        "A Primeira Morte de Mártir",
+        "Justificação pelo Sacrifício"
+      ],
+      "personagens": [
+        "Estêvão",
+        "Senhor"
+      ]
     }
   }
 }

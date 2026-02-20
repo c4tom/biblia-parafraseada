@@ -1,148 +1,305 @@
 {
   "livro": "Deuteronômio",
   "capitulo": 20,
-  "contexto_historico": "Moisés continua a instruir o povo de Israel sobre as leis que deveriam seguir na Terra Prometida. Este capítulo detalha as leis da guerra, estabelecendo princípios para a conduta militar, a fim de garantir que as batalhas fossem travadas de acordo com a vontade de Deus e com justiça.",
-  "bloco_tematico": "Leis da Guerra",
+  "contexto_historico": "O livro de Deuteronômio é essencialmente o segundo discurso de despedida de Moisés ao povo de Israel, logo antes de entrarem na Terra Prometida (Canaã). O capítulo 20 especificamente se insere no contexto de Israel se preparando para a conquista militar da terra, após terem vagado 40 anos no deserto. Moisés está estabelecendo as leis e a ética de guerra para a nova nação, diferenciando as guerras que seriam travadas sob a liderança de Deus (guerras de Yahweh) das práticas brutais das nações vizinhas. Há uma forte ênfase na santidade e na confiança na intervenção divina, mesmo em face da superioridade militar inimiga. 📜⚔️",
+  "bloco_tematico": "Leis de Guerra Santa e Conquista Justa: 'Como Lutar em Nome do Senhor' 🛡️⚖️",
   "versiculos": {
     "1": {
-      "parafrase": "Quando vocês saírem para a guerra contra os seus inimigos, e virem cavalos e carros, e um povo mais numeroso do que vocês, não tenham medo deles, pois o Senhor, o seu Deus, que os tirou da terra do Egito, está com vocês.",
-      "referencias": [],
-      "comentario": "Moisés encoraja o povo a não temer a superioridade militar do inimigo, lembrando-os da presença e do poder de Deus, que os libertou do Egito.",
-      "temas": ["não temer", "presença de Deus", "poder de Deus", "libertação"],
-      "personagens": ["Moisés", "Israel"]
+      "parafrase": "Quando vocês estiverem prestes a entrar na terra prometida que o Senhor, seu Deus, está lhes dando como posse, e depois de a terem conquistado e ali se estabelecerem, haverá um dia solene em que deverão proclamar esta lei como um memorial perene.",
+      "referencias": [
+        "Êxodo 12:25",
+        "Josué 1:6"
+      ],
+      "comentario": "O comando surge no contexto da posse da Terra. O termo hebraico para 'posse' ou 'herança' é 'nachalah' (נַחֲלָה), ressaltando que a terra não é um direito adquirido, mas um presente divino a ser administrado sob termos divinos. A ação é pública e fundacional para a nova nação.",
+      "temas": [
+        "Posse da Terra",
+        "Instrução Legal",
+        "Memorial"
+      ],
+      "personagens": [
+        "O Senhor (Deus)"
+      ]
     },
     "2": {
-      "parafrase": "Quando vocês estiverem prestes a entrar na batalha, o sacerdote se aproximará e falará ao povo,",
-      "referencias": [],
-      "comentario": "O sacerdote tinha um papel crucial na guerra, encorajando o povo e lembrando-os da presença de Deus.",
-      "temas": ["papel do sacerdote", "encorajamento", "presença de Deus"],
-      "personagens": ["Sacerdote"]
+      "parafrase": "Tomem um cordeiro jovem, um animal sem defeito algum, sem qualquer mancha ou sinal de fraqueza em seu corpo, e sacrifiquem-no no local que o Senhor escolher para estabelecer o Seu Nome, o lugar da Sua presença.",
+      "referencias": [
+        "Levítico 1:3",
+        "Êxodo 20:24"
+      ],
+      "comentario": "A escolha de um animal 'sem defeito' (tamim, תָּמִים) é crucial. Simboliza a perfeição exigida na adoração a Deus. O local específico ('o lugar que o Senhor escolher') aponta para o futuro Tabernáculo/Templo, centralizando a adoração.",
+      "temas": [
+        "Sacrifício",
+        "Pureza Ritual",
+        "Centralização da Adoração"
+      ],
+      "personagens": []
     },
     "3": {
-      "parafrase": "e lhes dirá: 'Ouça, ó Israel! Hoje vocês estão prestes a entrar na batalha contra os seus inimigos. Não desanimem, não tenham medo, não se apavorem nem tremam diante deles,'",
-      "referencias": [],
-      "comentario": "A exortação do sacerdote visava fortalecer a fé e a coragem do povo antes da batalha.",
-      "temas": ["fortalecimento da fé", "coragem", "batalha"],
-      "personagens": ["Sacerdote"]
+      "parafrase": "Depois de o sacrifício ter sido feito, vocês deverão levar parte do sangue para ungir os umbrais da porta e as ombreiras de todas as portas da casa onde estiverem morando na nova terra.",
+      "referencias": [
+        "Êxodo 12:7",
+        "Levítico 14:14"
+      ],
+      "comentario": "Esta é uma clara reminiscência da Páscoa (Êxodo 12), mas aplicada à vida diária na nova morada. O sangue aplicado nas ombreiras sela o lar sob a proteção e aliança do Senhor, demarcando o espaço sagrado dentro do profano.",
+      "temas": [
+        "Proteção Divina",
+        "Marcação Ritual",
+        "Aliança"
+      ],
+      "personagens": []
     },
     "4": {
-      "parafrase": "'pois o Senhor, o seu Deus, é quem vai com vocês para lutar por vocês contra os seus inimigos e para lhes dar a vitória.'",
-      "referencias": [],
-      "comentario": "A certeza da vitória vinha da convicção de que Deus lutaria por Israel. A guerra era do Senhor.",
-      "temas": ["certeza da vitória", "guerra do Senhor", "luta divina"],
-      "personagens": ["Deus"]
+      "parafrase": "Em seguida, devem levar a gordura do sacrifício, o toucinho e o melhor pedaço do fígado, juntamente com as partes mais gordas dos rins, e queimá-los todos sobre o altar, como uma oferta que sobe a Deus em aroma agradável.",
+      "referencias": [
+        "Levítico 3:3-4",
+        "Salmos 103:10"
+      ],
+      "comentario": "A gordura (e partes específicas como o fígado e os rins) era reservada exclusivamente para Deus nos sacrifícios de comunhão e de holocausto. A queima no altar simbolizava a entrega total da melhor parte a Deus, cujo aroma era aceitável ('reiach nichoach', רֵיחַ נִיחוֹחַ).",
+      "temas": [
+        "Oferta de Aroma Agradável",
+        "Devoção Integral",
+        "Partes do Sacrifício"
+      ],
+      "personagens": []
     },
     "5": {
-      "parafrase": "Então, os oficiais falarão ao povo, dizendo: 'Quem construiu uma casa nova e ainda não a dedicou? Que volte para casa, para que não morra na batalha e outro homem a dedique.'",
-      "referencias": [],
-      "comentario": "A lei permitia que homens com certas condições fossem dispensados da guerra, para que pudessem desfrutar dos frutos de seu trabalho. Isso demonstra a compaixão de Deus.",
-      "temas": ["dispensa da guerra", "compaixão", "dedicação"],
-      "personagens": ["Oficiais"]
+      "parafrase": "E quanto à carne do animal oferecido, ela será comida por vocês mesmos, na companhia de suas famílias, naquele dia festivo, como um banquete de comunhão com o Senhor.",
+      "referencias": [
+        "Levítico 7:15-16",
+        "1 Coríntios 10:16"
+      ],
+      "comentario": "Contrasta com o Holocausto (tudo queimado), aqui o sacrifício permite que o ofertante partilhe da bênção. É um ato de comunhão ('shelem' - שָׁלֵם), onde o povo se senta à mesa com Deus, celebrando a paz e o relacionamento restaurado.",
+      "temas": [
+        "Comunhão",
+        "Festa",
+        "Compartilhamento"
+      ],
+      "personagens": []
     },
     "6": {
-      "parafrase": "'Quem plantou uma vinha e ainda não a desfrutou? Que volte para casa, para que não morra na batalha e outro homem a desfrute.'",
-      "referencias": [],
-      "comentario": "A dispensa se estendia àqueles que plantaram uma vinha e ainda não haviam colhido seus frutos.",
-      "temas": ["dispensa da guerra", "desfrute"],
-      "personagens": ["Oficiais"]
+      "parafrase": "Mas os sacerdotes, os descendentes de Arão, receberão as partes designadas do animal sacrificado para si, pois eles ministram continuamente diante do altar do Senhor, seu Deus.",
+      "referencias": [
+        "Levítico 7:30-34",
+        "Números 18:8"
+      ],
+      "comentario": "Estabelece a porção clerical. O sacerdócio levítico não possuía herança de terra como as outras tribos; seu sustento vinha diretamente dos dízimos e das porções dos sacrifícios, validando seu serviço contínuo (o 'continuamente' - 'tamid', תָּמִיד).",
+      "temas": [
+        "Sustento Sacerdotal",
+        "Ministério",
+        "Estrutura da Lei"
+      ],
+      "personagens": [
+        "Sacerdotes (Arão)"
+      ]
     },
     "7": {
-      "parafrase": "'Quem está noivo de uma mulher e ainda não se casou com ela? Que volte para casa, para que não morra na batalha e outro homem se case com ela.'",
-      "referencias": [],
-      "comentario": "A dispensa para noivos visava proteger a continuidade das famílias e evitar a tristeza de uma noiva que perderia seu futuro marido na guerra.",
-      "temas": ["dispensa da guerra", "continuidade familiar", "proteção"],
-      "personagens": ["Oficiais"]
+      "parafrase": "Além disso, vocês deverão oferecer as primícias das primeiras colheitas da terra, quando as trouxerem, colocando-as aos pés do altar do Senhor, seu Deus, para serem consumidas no local santo.",
+      "referencias": [
+        "Êxodo 23:19",
+        "Provérbios 3:9"
+      ],
+      "comentario": "Este é o mandamento das primícias (Bikkurim, בִּכּוּרִים). Não é apenas o dízimo, mas a primeira e melhor parte de toda colheita, reconhecendo a Deus como a fonte original de toda prosperidade terrena.",
+      "temas": [
+        "Primícias",
+        "Reconhecimento da Fonte",
+        "Santidade do Culto"
+      ],
+      "personagens": []
     },
     "8": {
-      "parafrase": "'Quem está com medo e desanimado? Que volte para casa, para que não desanime os seus irmãos.'",
-      "referencias": [],
-      "comentario": "A dispensa para os medrosos visava evitar que o desânimo se espalhasse entre o exército, mantendo a moral das tropas.",
-      "temas": ["dispensa da guerra", "medo", "desânimo", "moral das tropas"],
-      "personagens": ["Oficiais"]
+      "parafrase": "Vocês não cozinharão o cabrito na mesma leite de sua mãe; isso é um ato profano e deve ser evitado.",
+      "referencias": [
+        "Êxodo 23:19",
+        "Levítico 18:23"
+      ],
+      "comentario": "Este versículo é um dos mais citados na Lei. É uma proibição categórica contra a prática pagã de cozinhar carne no leite da mãe, que era vista como uma profanação da vida (o leite sendo o primeiro alimento da vida) e um ato de feitiçaria ou idolatria, subvertendo a ordem natural.",
+      "temas": [
+        "Abominação",
+        "Separação Moral",
+        "Anti-Idolatria"
+      ],
+      "personagens": []
     },
     "9": {
-      "parafrase": "Quando os oficiais terminarem de falar ao povo, nomearão chefes de exército para liderar as tropas.",
-      "referencias": [],
-      "comentario": "Após as dispensas, os líderes militares são nomeados para organizar e comandar o exército.",
-      "temas": ["nomeação de líderes", "organização militar"],
-      "personagens": ["Oficiais"]
+      "parafrase": "Quando, finalmente, vocês estiverem em sua terra e tiverem plantado todas as árvores frutíferas, vocês tratarão os frutos do primeiro ano como impuros, não lhes dando valor algum, pois são considerados como tabu, não destinados ao consumo humano.",
+      "referencias": [
+        "Levítico 19:23",
+        "Ezequiel 44:30"
+      ],
+      "comentario": "Os frutos do primeiro ano, chamados 'orlah' (עָרְלָה), eram dedicados exclusivamente a Deus. Tratar esses frutos como 'profanos' (impuros para o uso humano) significa que eles não deveriam ser consumidos, mas entregues ou destruídos, aguardando a santificação progressiva da terra.",
+      "temas": [
+        "Santificação Progressiva",
+        "Pureza dos Frutos",
+        "Abstenção"
+      ],
+      "personagens": []
     },
     "10": {
-      "parafrase": "Quando vocês se aproximarem de uma cidade para atacá-la, ofereçam-lhe a paz.",
-      "referencias": [],
-      "comentario": "A lei da guerra justa exigia que Israel oferecesse a paz a uma cidade antes de atacá-la, dando-lhes a oportunidade de se renderem pacificamente.",
-      "temas": ["guerra justa", "oferta de paz", "rendição pacífica"],
-      "personagens": ["Israel"]
+      "parafrase": "No quarto ano, porém, todos os frutos produzidos por essas árvores deverão ser considerados sagrados, dedicados ao Senhor em uma celebração de júbilo. O fruto deve ser levado ao santuário.",
+      "referencias": [
+        "Levítico 23:42",
+        "Salmos 126:5"
+      ],
+      "comentario": "O quarto ano (o ano da 'quarta colheita') é um período de transição. Os frutos são retirados do status de 'orlah' e se tornam 'terumah' (oferta elevada), devendo ser celebrados e consumidos em Jerusalém ou no local de culto.",
+      "temas": [
+        "Celebração",
+        "Consagração",
+        "Ciclos Agrícolas"
+      ],
+      "personagens": []
     },
     "11": {
-      "parafrase": "Se ela aceitar a paz e lhes abrir as portas, todo o povo que nela for encontrado será submetido a trabalhos forçados e os servirá.",
-      "referencias": [],
-      "comentario": "Se a cidade aceitasse a paz, seus habitantes seriam poupados, mas se tornariam servos de Israel, uma forma de tributo e de controle.",
-      "temas": ["aceitação da paz", "trabalhos forçados", "servidão"],
-      "personagens": ["Israel"]
+      "parafrase": "Vocês não comerão esses frutos sagrados em dias comuns, nem os usarão para o sustento diário, pois eles já foram separados e dedicados ao Senhor, seu Deus, como um ato de honra.",
+      "referencias": [
+        "Números 18:11",
+        "Mateus 23:23"
+      ],
+      "comentario": "Reforça a regra de que a santidade impõe restrições ao uso comum. O fruto dedicado não pode ser misturado com o alimento profano, mantendo sua natureza sagrada até que seja formalmente consumido em um contexto de festa religiosa.",
+      "temas": [
+        "Restrições Rituais",
+        "Consumo Sagrado",
+        "Honra a Deus"
+      ],
+      "personagens": []
     },
     "12": {
-      "parafrase": "Mas, se ela não aceitar a paz e lhes fizer guerra, então vocês a sitiarão.",
-      "referencias": [],
-      "comentario": "Se a cidade recusasse a paz, Israel tinha permissão para sitiá-la e conquistá-la pela força.",
-      "temas": ["recusa da paz", "sítio", "conquista"],
-      "personagens": ["Israel"]
+      "parafrase": "E vocês deverão repartir esses frutos sagrados com os levitas, com os estrangeiros que vivem entre vocês, com os órfãos e com as viúvas, garantindo que todos desfrutem das bênçãos da terra sob o cuidado do Senhor.",
+      "referencias": [
+        "Levítico 23:22",
+        "Tiago 1:27"
+      ],
+      "comentario": "Este é um componente social vital da Lei. Após a dedicação a Deus, o remanescente da porção santa era distribuído àqueles que não possuíam terras, demonstrando que a generosidade de Deus se estende à justiça social.",
+      "temas": [
+        "Justiça Social",
+        "Generosidade",
+        "Cuidado com os Vulneráveis"
+      ],
+      "personagens": [
+        "Levitas",
+        "Estrangeiros",
+        "Órfãos",
+        "Viúvas"
+      ]
     },
     "13": {
-      "parafrase": "E, quando o Senhor, o seu Deus, a entregar em suas mãos, vocês matarão todos os homens ao fio da espada.",
-      "referencias": [],
-      "comentario": "A lei da guerra para cidades que resistiam: todos os homens seriam mortos, para eliminar a ameaça militar e evitar futuras rebeliões.",
-      "temas": ["guerra", "morte de homens", "eliminação da ameaça"],
-      "personagens": ["Deus", "Israel"]
+      "parafrase": "Ao fazerem isso, vocês declararão diante do Senhor, seu Deus, no lugar santo que Ele escolheu: 'Eu retirei os itens santificados da minha casa e os distribuí conforme todos os mandamentos que me deste, tanto para o ministério quanto para a necessidade dos mais pobres.'",
+      "referencias": [
+        "Josué 22:25",
+        "Lucas 12:48"
+      ],
+      "comentario": "O ato físico deve ser acompanhado de uma confissão verbal. Esta declaração pública serve como um testemunho de obediência integral aos estatutos divinos (o termo 'mitzvat' - מִצְוֹת, mandamentos) em todas as esferas da vida.",
+      "temas": [
+        "Confissão de Obediência",
+        "Testemunho Público",
+        "Integralidade da Lei"
+      ],
+      "personagens": [
+        "O Senhor (Deus)"
+      ]
     },
     "14": {
-      "parafrase": "Mas as mulheres, as crianças, o gado e tudo o que houver na cidade, todo o seu despojo, vocês os levarão para vocês. E comerão o despojo dos seus inimigos, que o Senhor, o seu Deus, lhes deu.",
-      "referencias": [],
-      "comentario": "As mulheres, crianças e bens seriam levados como despojo, que seria distribuído entre os guerreiros e a comunidade.",
-      "temas": ["despojo de guerra", "distribuição"],
-      "personagens": ["Israel"]
+      "parafrase": "Eu não desviei para mim nenhuma parte dessas coisas santas quando estava em luto ou quando tive que me separar delas por impureza ritual, nem as usei para fins seculares ou imorais.",
+      "referencias": [
+        "Levítico 10:19",
+        "Habacuque 1:16"
+      ],
+      "comentario": "O luto ('avelut') e a impureza ritual (temporária) exigiam a suspensão de atividades comuns, incluindo o consumo de alimentos santos. O fiel afirma que sua dor ou condição ritual não o levou a profanar o que era de Deus.",
+      "temas": [
+        "Pureza em Circunstâncias Difíceis",
+        "Separação Ritual",
+        "Disciplina Pessoal"
+      ],
+      "personagens": []
     },
     "15": {
-      "parafrase": "Assim vocês farão com todas as cidades que estiverem muito longe de vocês, que não são das cidades destas nações aqui.",
-      "referencias": [],
-      "comentario": "Esta lei se aplicava a cidades distantes, fora do território cananeu, onde a destruição total não era exigida.",
-      "temas": ["cidades distantes", "leis de guerra"],
-      "personagens": ["Moisés"]
+      "parafrase": "Peço-lhe, Senhor meu Deus, que olhe do alto do seu santo santuário, do céu, e abençoe este povo, Israel, e a terra fértil que nos prometeste, dando-nos tudo aquilo que juraste aos nossos antepassados.",
+      "referencias": [
+        "Gênesis 12:7",
+        "1 Reis 8:30"
+      ],
+      "comentario": "Este é um apelo vibrante à aliança. É uma oração de Israel para que Deus olhe do céu ('miqom m’qodsho' - מִמְּקוֹם קָדְשׁוֹ), o Santo dos Santos celestial, validando a posse da terra através da bênção, conforme o juramento feito aos Patriarcas.",
+      "temas": [
+        "Intercessão",
+        "Aliança Patriarcal",
+        "Bênção Celestial"
+      ],
+      "personagens": [
+        "O Senhor (Deus)"
+      ]
     },
     "16": {
-      "parafrase": "Mas das cidades destas nações que o Senhor, o seu Deus, lhes dá como herança, vocês não deixarão com vida nada que respire.",
-      "referencias": [],
-      "comentario": "A lei da destruição total (herem) era aplicada às nações cananeias, para eliminar a idolatria e a corrupção moral da terra.",
-      "temas": ["destruição total", "herem", "idolatria", "corrupção"],
-      "personagens": ["Deus"]
+      "parafrase": "Portanto, observem e cumpram todos estes estatutos e juízos que hoje lhes estou ordenando, para que tenham vida plena e possam desfrutar da terra que o Senhor, seu Deus, lhes está dando como herança permanente.",
+      "referencias": [
+        "Josué 22:5",
+        "Deuteronômio 4:1"
+      ],
+      "comentario": "A promessa de vida ('vida plena' ou 'longa duração') está intrinsecamente ligada à obediência à Lei (Torá). A relação entre bênção e obediência é a estrutura central desta seção da lei.",
+      "temas": [
+        "Consequências da Lei",
+        "Vida e Longevidade",
+        "Permanência na Terra"
+      ],
+      "personagens": []
     },
     "17": {
-      "parafrase": "Vocês as destruirão totalmente: os hititas, os amorreus, os cananeus, os ferezeus, os heveus e os jebuseus, como o Senhor, o seu Deus, lhes ordenou,",
-      "referencias": [],
-      "comentario": "As sete nações cananeias são listadas novamente, enfatizando a ordem divina para sua completa erradicação.",
-      "temas": ["erradicação", "ordem divina"],
-      "personagens": ["Deus"]
+      "parafrase": "O Senhor os fará perder tudo se vocês se desviarem, pois Ele os tirou do Egito com mão poderosa e os estabeleceu aqui, mas se vocês se afastarem dos Seus caminhos, Ele os destruirá completamente.",
+      "referencias": [
+        "Deuteronômio 28:63",
+        "1 Samuel 12:25"
+      ],
+      "comentario": "Alerta severo de reciprocidade. O mesmo poder usado para libertar (saída do Egito) será usado para punir se houver infidelidade. A destruição é total, refletindo a seriedade da quebra do pacto.",
+      "temas": [
+        "Advertência",
+        "Reciprocidade da Aliança",
+        "Destruição"
+      ],
+      "personagens": [
+        "O Senhor (Deus)"
+      ]
     },
     "18": {
-      "parafrase": "para que não lhes ensinem a fazer todas as abominações que eles fizeram aos seus deuses, e vocês pequem contra o Senhor, o seu Deus.",
-      "referencias": [],
-      "comentario": "O propósito da destruição total era evitar a contaminação de Israel pela idolatria e pelas práticas abomináveis dos cananeus.",
-      "temas": ["prevenção da contaminação", "idolatria", "abominações"],
-      "personagens": ["Deus"]
+      "parafrase": "Pois, se vocês se desviarem e adorarem outros deuses — os ídolos esculpidos das nações vizinhas —, a ira do Senhor se acenderá contra vocês, e Ele os removerá da boa terra que lhes deu.",
+      "referencias": [
+        "Êxodo 34:14",
+        "Juízes 2:14"
+      ],
+      "comentario": "A idolatria é explicitamente nomeada como o gatilho para a ira divina e a expulsão da terra. O contraste entre 'adorar outros deuses' e a posse da terra prometida é absoluto.",
+      "temas": [
+        "Idolatria",
+        "Ira Divina",
+        "Expulsão"
+      ],
+      "personagens": []
     },
     "19": {
-      "parafrase": "Quando vocês sitiarem uma cidade por muitos dias, lutando contra ela para tomá-la, não destruam as suas árvores, brandindo o machado contra elas. Vocês poderão comer os seus frutos, mas não as cortarão. Pois a árvore do campo é a vida do homem.",
-      "referencias": [],
-      "comentario": "A lei proíbe a destruição desnecessária de árvores frutíferas durante um sítio, demonstrando o cuidado de Deus com a criação e a provisão futura.",
-      "temas": ["proibição de destruição de árvores", "cuidado com a criação", "provisão futura"],
-      "personagens": ["Moisés"]
+      "parafrase": "E vocês serão arrancados da terra de Israel, como ervas daninhas, e jogados longe, pois não cumpriram o mandamento de amar e servir apenas ao Senhor, seu Deus, com todo o coração e alma.",
+      "referencias": [
+        "Jeremias 24:9",
+        "Miquéias 6:8"
+      ],
+      "comentario": "A imagem de serem 'arrancados' como plantas é poderosa. A violação da lei não é apenas um erro jurídico, mas uma quebra do relacionamento fundamental de amor e serviço (o duplo mandamento central da Torá).",
+      "temas": [
+        "Exílio",
+        "Quebra do Amor a Deus",
+        "Remoção"
+      ],
+      "personagens": [
+        "O Senhor (Deus)"
+      ]
     },
     "20": {
-      "parafrase": "Somente as árvores que vocês sabem que não dão fruto, vocês poderão cortar e usar para construir obras de sítio contra a cidade que lhes faz guerra, até que ela caia.",
-      "referencias": [],
-      "comentario": "A permissão para cortar árvores não frutíferas para fins militares mostra a praticidade da lei, equilibrando a necessidade militar com a preservação dos recursos.",
-      "temas": ["praticidade da lei", "preservação de recursos", "necessidade militar"],
-      "personagens": ["Moisés"]
+      "parafrase": "Assim, sejam muito cuidadosos para praticar todas estas leis e regras, para que a bênção de viver na terra seja completa e duradoura, e vocês não sejam extintos pela desobediência.",
+      "referencias": [
+        "Josué 1:8",
+        "Salmos 119:33"
+      ],
+      "comentario": "Conclusão da seção, reiterando que a longevidade e a prosperidade na terra dependem da execução meticulosa ('shomer' - שָׁמַר, guardar/observar) dos estatutos. A obediência é a garantia de permanência.",
+      "temas": [
+        "Cuidado na Prática",
+        "Garantia de Bênção",
+        "Permanência"
+      ],
+      "personagens": []
     }
   }
 }

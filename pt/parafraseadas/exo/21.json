@@ -1,235 +1,592 @@
 {
   "livro": "Êxodo",
   "capitulo": 21,
-  "contexto_historico": "Este capítulo de Êxodo apresenta uma série de leis civis e sociais que regulam a vida do povo de Israel, complementando os Dez Mandamentos. As leis abordam temas como a escravidão, a violência, a compensação por danos, a responsabilidade por animais e a proteção dos vulneráveis. Elas refletem a justiça e a equidade de Deus, que Se preocupa com a ordem social e com a proteção dos direitos de todos os membros da comunidade. O capítulo enfatiza a aplicação prática da Lei de Deus na vida diária e a importância da justiça e da misericórdia nas relações humanas.",
-  "bloco_tematico": "Leis Civis e Sociais: Escravidão, Violência e Compensação",
+  "contexto_historico": "Após a libertação do povo hebreu do Egito (Êxodo 1-15) e a chegada ao Monte Sinai, onde receberam os Dez Mandamentos (Êxodo 20), Deus estabelece os princípios de justiça social e governança para a nova nação. Êxodo 21, junto com os capítulos 22 e 23, forma o que é conhecido como o 'Código de Aliança' ou 'Código Legal', detalhando como a sociedade israelita deveria funcionar sob a Lei de Deus. Este bloco de leis visa manter a ordem, proteger os vulneráveis e estabelecer um padrão moral superior ao das nações vizinhas. Especificamente, Êxodo 21 trata de questões legais relativas a escravos, danos físicos e responsabilidade civil.⚖️📜",
+  "bloco_tematico": "Lei da Justiça Civil: Direitos e Deveres no Antigo Israel 🛡️👨‍⚖️",
   "versiculos": {
     "1": {
-      "parafrase": "'Ora, estas são as leis que você porá diante deles.'",
-      "referencias": [],
-      "comentario": "Deus instrui Moisés a apresentar estas leis ao povo, indicando que elas são para a aplicação prática na vida diária. As leis são para a ordem social.",
-      "temas": ["leis", "aplicação prática", "ordem social", "instrução"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "Quando Moisés desceu do Monte Sinai, trazendo consigo as duas tábuas da aliança, inscritas com os Dez Mandamentos, ele não estava ciente da grande e terrível rebelião que havia ocorrido enquanto ele estava em profunda comunhão com Deus. O povo, impaciente e temeroso, havia se voltado para ídolos.",
+      "referencias": [
+        "Êxodo 19:20",
+        "Deuteronômio 5:6"
+      ],
+      "comentario": "O versículo estabelece o contraste dramático: Moisés traz a lei divina (a evidência da presença de Deus), mas o povo já quebrou o pacto na ausência do mediador. As tábuas, feitas de pedra, simbolizam a solidez da Lei, contrastando com a maleabilidade da fé do povo.",
+      "temas": [
+        "A Lei",
+        "A Presença de Deus",
+        "Inocência de Moisés"
+      ],
+      "personagens": [
+        "Moisés",
+        "Deus"
+      ]
     },
     "2": {
-      "parafrase": "'Se você comprar um servo hebreu, ele servirá por seis anos; e no sétimo ano ele sairá livre, sem pagar nada.'",
-      "referencias": [],
-      "comentario": "A lei sobre a escravidão hebreia estabelece um limite de seis anos de serviço, com a libertação no sétimo ano. Isso demonstra a preocupação de Deus com a liberdade e a justiça.",
-      "temas": ["servo hebreu", "escravidão", "liberdade", "justiça", "sete anos"],
-      "personagens": []
+      "parafrase": "Arão, que havia sido incumbido de guiar o povo na ausência de Moisés, aproximou-se dele e disse, com certa hesitação ou talvez alívio: 'Meu irmão, o povo está completamente agitado e clama por um novo líder. Eles estão em pânico por causa da demora em seu retorno do monte.'",
+      "referencias": [
+        "Êxodo 19:24"
+      ],
+      "comentario": "Arão assume a responsabilidade de relatar o caos. A expressão hebraica para 'agitado' (hammūm) sugere um barulho ou clamor intenso, um tumulto que exigia ação.",
+      "temas": [
+        "Liderança",
+        "Medo do Povo",
+        "Comunicação"
+      ],
+      "personagens": [
+        "Moisés",
+        "Arão"
+      ]
     },
     "3": {
-      "parafrase": "'Se ele vier sozinho, ele sairá sozinho; se ele tiver esposa, então sua esposa sairá com ele.'",
-      "referencias": [],
-      "comentario": "A lei garante que o servo saia livre, seja sozinho ou com sua esposa, protegendo a unidade familiar. A liberdade é abrangente.",
-      "temas": ["liberdade", "esposa", "unidade familiar", "proteção"],
-      "personagens": []
+      "parafrase": "Imediatamente, ao se aproximar do acampamento, Moisés pôde ver a cena chocante: o bezerro fundido e o povo se entregando à orgia pagã. Sua fúria subiu como uma tempestade. Tão profundamente ofendido pela traição, ele largou as tábuas de pedra que segurava, e elas se espatifaram em pedaços ruidosos ao pé do monte, quebrando assim o primeiro concerto.",
+      "referencias": [
+        "Êxodo 32:19",
+        "Jeremias 32:14"
+      ],
+      "comentario": "A quebra das tábuas é um ato simbólico e profético. A lei foi 'quebrada' (metaforicamente) pela quebra da fidelidade do povo. O verbo 'espatifaram' (wayyitpatsēṣ) indica uma destruição completa e repentina. Este é o clímax emocional da narrativa inicial.",
+      "temas": [
+        "Idolatria",
+        "Ira Justa",
+        "Quebra da Aliança"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "4": {
-      "parafrase": "'Se o seu senhor lhe der uma esposa, e ela lhe der filhos ou filhas, a esposa e seus filhos serão do seu senhor, e ele sairá sozinho.'",
-      "referencias": [],
-      "comentario": "Se o senhor der uma esposa ao servo, a esposa e os filhos permanecem com o senhor, e o servo sai sozinho. Isso reflete a complexidade das leis de propriedade e de família na época.",
-      "temas": ["esposa", "filhos", "propriedade", "família", "complexidade"],
-      "personagens": []
+      "parafrase": "Moisés pegou o bezerro de ouro que eles haviam criado, o objeto dessa apostasia grotesca, e o jogou no fogo. Ele o derreteu completamente até que restasse apenas metal líquido e inútil.",
+      "referencias": [
+        "Êxodo 32:20",
+        "Salmos 106:19"
+      ],
+      "comentario": "A destruição física do ídolo é necessária para demonstrar sua impotência. O metal, antes adorado como uma divindade, agora é reduzido a um resíduo sem forma, que será transformado em pó.",
+      "temas": [
+        "Destruição de Ídolos",
+        "Consequências da Apostasia"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "5": {
-      "parafrase": "'Mas se o servo declarar expressamente: 'Eu amo o meu senhor, minha esposa e meus filhos; não sairei livre';
+      "parafrase": "Em seguida, Moisés virou-se para Arão, provavelmente com o coração partido e a voz tensa, e perguntou asperamente: 'O que exatamente este povo fez com você? Por que você os deixou mergulhar em tal pecado tão grave contra o Senhor?'",
+      "referencias": [
+        "Gênesis 3:13"
+      ],
+      "comentario": "Este é um confronto direto com Arão. Moisés o repreende, questionando como ele, o sacerdote designado, permitiu que uma violação tão severa da soberania de Deus ocorresse sob sua vigilância.",
+      "temas": [
+        "Repreensão",
+        "Responsabilidade Sacerdotal"
+      ],
+      "personagens": [
+        "Moisés",
+        "Arão"
+      ]
+    },
     "6": {
-      "parafrase": "então o seu senhor o levará aos juízes; ele também o levará à porta ou ao umbral da porta; e o seu senhor lhe furará a orelha com uma sovela; e ele o servirá para sempre.'",
-      "referencias": [],
-      "comentario": "Se o servo escolher permanecer com sua família, ele se torna um servo permanente, com a orelha furada como sinal. Isso demonstra a liberdade de escolha e o compromisso.",
-      "temas": ["servo permanente", "escolha", "orelha furada", "compromisso", "liberdade"],
-      "personagens": []
+      "parafrase": "Arão tentou justificar-se, argumentando que o problema não era sua intenção, mas sim o clamor irrefreável e a pressão do povo. Ele explicou: 'Não deixe que sua ira se acenda contra mim, meu senhor! Você conhece bem a natureza inclinada deste povo ao mal.'",
+      "referencias": [
+        "Gênesis 19:27",
+        "Números 16:28"
+      ],
+      "comentario": "A resposta de Arão revela sua fraqueza: ele cedeu à pressão popular para manter a paz, em vez de manter a obediência estrita a Deus. A desculpa de que 'o povo queria' é uma confissão de falha na liderança espiritual.",
+      "temas": [
+        "Justificativa",
+        "Falta de Firmeza",
+        "Natureza Humana"
+      ],
+      "personagens": [
+        "Arão",
+        "Moisés"
+      ]
     },
     "7": {
-      "parafrase": "'E se um homem vender sua filha para ser serva, ela não sairá como os servos homens.'",
-      "references": [],
-      "comentario": "A lei sobre a venda de uma filha como serva é diferente da lei para os servos homens, refletindo as distinções de gênero na sociedade da época.",
-      "temas": ["serva", "venda", "distinção de gênero", "sociedade"],
-      "personagens": []
+      "parafrase": "O Senhor, no entanto, interrompeu o diálogo, falando diretamente com Moisés: 'Vá imediatamente! Desça, pois seu povo, aquele que você tirou da terra do Egito, está agindo como um bando de tolos e se corrompeu de maneira terrível.'",
+      "referencias": [
+        "Êxodo 32:7",
+        "Amós 2:6"
+      ],
+      "comentario": "Deus reafirma a gravidade da situação, chamando o povo de 'seu povo' (de Moisés), lembrando-o de sua responsabilidade como mediador, e usa o termo 'corrompeu-se' (hišḥīt), que implica uma degeneração moral profunda.",
+      "temas": [
+        "Chamado à Ação",
+        "Corrupção Moral",
+        "Soberania Divina"
+      ],
+      "personagens": [
+        "Deus",
+        "Moisés"
+      ]
     },
     "8": {
-      "parafrase": "'Se ela não agradar ao seu senhor, que a desposou para si, então ele a deixará ser resgatada; ele não terá poder para vendê-la a um povo estrangeiro, pois ele agiu traiçoeiramente com ela.'",
-      "references": [],
-      "comentario": "Se a serva não agradar ao seu senhor, ele deve permitir que ela seja resgatada, e não pode vendê-la a estrangeiros. Isso protege a mulher da traição e da exploração.",
-      "temas": ["serva", "resgate", "traição", "exploração", "proteção"],
-      "personagens": []
+      "parafrase": "O Senhor continuou, revelando a urgência da situação: 'Eles se desviaram rapidamente do caminho que lhes ordenei. Fizeram para si um bezerro fundido, um ídolo, e estão curvando-se em adoração a ele, oferecendo sacrifícios e declarando: Estes são seus deuses, ó Israel, que os tiraram da longa servidão no Egito!'",
+      "referencias": [
+        "Deuteronômio 9:12",
+        "Juízes 2:19"
+      ],
+      "comentario": "Aqui está o núcleo da blasfêmia: o povo atribui a libertação milagrosa (obra de Yahweh) ao ídolo de ouro. A inversão de autoridade é completa.",
+      "temas": [
+        "Blasfêmia",
+        "Apropriação da Glória",
+        "Memória Distorcida"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "9": {
-      "parafrase": "'E se ele a desposar para seu filho, ele agirá com ela de acordo com o costume das filhas.'",
-      "references": [],
-      "comentario": "Se o senhor desposar a serva para seu filho, ele deve tratá-la como uma filha, garantindo seus direitos e sua dignidade. O tratamento é de justiça.",
-      "temas": ["serva", "casamento", "filha", "direitos", "dignidade"],
-      "personagens": []
+      "parafrase": "Então, Deus expressou a Moisés a dureza e a obstinação que caracterizavam aquele povo: 'Eu observei este povo, e percebi que eles são, de fato, um povo de cabeça dura e rebelde, de pescoço inflexível.'",
+      "referencias": [
+        "Êxodo 33:5",
+        "Atos 7:51"
+      ],
+      "comentario": "A expressão 'pescoço inflexível' (qashê-ōref) é uma imagem poderosa na literatura hebraica, significando teimosia e recusa obstinada em se curvar à autoridade. É uma característica recorrente em Israel.",
+      "temas": [
+        "Teimosia",
+        "Rebeldia",
+        "Caráter do Povo"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "10": {
-      "parafrase": "'Se ele tomar para si outra esposa, ele não diminuirá o alimento dela, nem as suas vestes, nem o seu direito conjugal.'",
-      "references": [],
-      "comentario": "Se o homem tomar outra esposa, ele não deve diminuir o alimento, as vestes ou o direito conjugal da primeira esposa. Isso protege os direitos da mulher e a justiça no casamento.",
-      "temas": ["esposa", "alimento", "vestes", "direito conjugal", "proteção", "justiça"],
-      "personagens": []
+      "parafrase": "Diante dessa revolta inaceitável, Deus declarou sua decisão irredutível: 'Agora, pare de intervir! Afaste-se de mim. Deixe que minha ira se acenda contra eles com todo o seu fogo, para que eu possa destruí-los completamente de uma vez por todas. Então, eu farei de você, Moisés, uma nação grande e poderosa.'",
+      "referencias": [
+        "Êxodo 32:10",
+        "Números 14:12"
+      ],
+      "comentario": "Este é o ponto de teste máximo para Moisés. Deus oferece uma nova fundação nacional, baseada na justiça punitiva e na descendência de Moisés, ignorando a aliança original com a geração que saiu do Egito. É uma oferta tentadora de renovação do pacto através de um novo patriarca.",
+      "temas": [
+        "Punição Divina",
+        "Tentação de Poder",
+        "Mediação"
+      ],
+      "personagens": [
+        "Deus",
+        "Moisés"
+      ]
     },
     "11": {
-      "parafrase": "'E se ele não fizer estas três coisas por ela, então ela sairá livre, sem pagar dinheiro.'",
-      "references": [],
-      "comentario": "Se o homem não cumprir essas três obrigações, a mulher sairá livre, sem pagar nada. Isso garante a liberdade e a proteção da mulher.",
-      "temas": ["liberdade", "obrigação", "proteção", "mulher"],
-      "personagens": []
+      "parafrase": "Mas Moisés, com a coragem de um verdadeiro intercessor, voltou-se para o Senhor seu Deus, implorando com fervor e desespero: 'Ó Senhor, por que permitir que sua fúria destrua seu próprio povo, aquele que você guiou para fora da terra do Egito com sua força imensa e poder glorioso?'",
+      "referencias": [
+        "Gênesis 18:23",
+        "Jeremias 20:7"
+      ],
+      "comentario": "A súplica de Moisés apela à coerência do caráter de Deus: por que destruir o testemunho do poder que Ele acabou de demonstrar na saída do Egito? Ele apela à reputação de Deus entre as nações.",
+      "temas": [
+        "Intercessão",
+        "Misericórdia",
+        "Reputação Divina"
+      ],
+      "personagens": [
+        "Moisés",
+        "Senhor"
+      ]
     },
     "12": {
-      "parafrase": "'Aquele que ferir um homem, de modo que ele morra, certamente será morto.'",
-      "references": [],
-      "comentario": "A lei estabelece a pena de morte para o assassinato, enfatizando a santidade da vida humana e a justiça retributiva. A vida é sagrada.",
-      "temas": ["assassinato", "pena de morte", "santidade da vida", "justiça retributiva"],
-      "personagens": []
+      "parafrase": "Moisés continuou sua argumentação, como quem tenta acalmar um pai furioso: 'Lembre-se, Senhor, o que os egípcios vão dizer! Eles dirão: 'Deus os tirou do Egito apenas para matá-los no deserto!' Eles vão alegar que sua intenção sempre foi aniquilá-los, por não conseguir guiá-los até a terra prometida!'",
+      "referencias": [
+        "Números 14:13-16",
+        "Josué 7:9"
+      ],
+      "comentario": "Esta é uma tática de intercessão brilhante: apelar à glória e ao testemunho de Deus perante o mundo. Se Deus os destruísse agora, Sua reputação seria manchada entre as nações que testemunharam o êxodo.",
+      "temas": [
+        "Glória de Deus",
+        "Testemunho ao Mundo",
+        "Poder da Persuasão"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "13": {
-      "parafrase": "'Mas se ele não o emboscar, mas Deus o entregar em sua mão, então eu lhe designarei um lugar para onde ele possa fugir.'",
-      "references": [],
-      "comentario": "Se a morte for acidental, Deus designará um lugar de refúgio para o homicida. Isso demonstra a misericórdia divina e a distinção entre assassinato intencional e acidental.",
-      "temas": ["morte acidental", "lugar de refúgio", "misericórdia divina", "distinção"],
-      "personagens": ["Deus"]
+      "parafrase": "Ele insistiu: 'Eu imploro que você reveja essa decisão. Volte atrás dessa ira ardente contra seu povo. Lembre-se de suas promessas solenes feitas aos seus servos fiéis, Abraão, Isaque e Jacó, quando jurou dar a eles e a toda a sua descendência a posse daquela terra prometida.'",
+      "referencias": [
+        "Gênesis 12:7",
+        "Êxodo 6:8"
+      ],
+      "comentario": "Moisés agora invoca a Aliança Patriarcal (a promessa original feita aos ancestrais). O poder do mediador reside na sua capacidade de conectar a soberania presente de Deus com os compromissos passados de Deus.",
+      "temas": [
+        "Aliança Patriarcal",
+        "Fidelidade às Promessas",
+        "Apelo à Memória Divina"
+      ],
+      "personagens": [
+        "Moisés",
+        "Abraão",
+        "Isaque",
+        "Jacó"
+      ]
     },
     "14": {
-      "parafrase": "'Mas se um homem agir com presunção contra o seu próximo, para matá-lo com astúcia, você o tirará do meu altar, para que ele morra.'",
-      "references": [],
-      "comentario": "Se o assassinato for premeditado, o assassino deve ser tirado do altar e morto, sem direito a refúgio. A justiça é rigorosa para o crime intencional.",
-      "temas": ["assassinato premeditado", "altar", "morte", "justiça", "rigor"],
-      "personagens": []
+      "parafrase": "Ao ouvir esse clamor apaixonado e fundamentado na memória das promessas, o Senhor finalmente cedeu. Deus se arrependeu da calamidade que havia declarado que traria sobre o seu povo, e retirou a sentença de destruição total.",
+      "referencias": [
+        "Jonas 3:10",
+        "Deuteronômio 32:36"
+      ],
+      "comentario": "O verbo hebraico para 'arrepender-se' (wayyināḥem) aqui significa que Deus mudou de curso, não porque Ele estava errado, mas porque a súplica do mediador mudou as circunstâncias ativadas por Sua ira. Deus se move pela justiça mediada.",
+      "temas": [
+        "Mudança de Juízo",
+        "O Poder da Oração",
+        "Restituição"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "15": {
-      "parafrase": "'E aquele que ferir seu pai ou sua mãe, certamente será morto.'",
-      "referencias": [],
-      "comentario": "A lei estabelece a pena de morte para ferir pai ou mãe, enfatizando a importância do respeito aos pais e a santidade da família. A família é fundamental.",
-      "temas": ["ferir pai ou mãe", "pena de morte", "respeito", "família", "santidade"],
-      "personagens": []
+      "parafrase": "Então, Moisés virou-se, pegou as duas tábuas da Lei, aquelas que continham os mandamentos escritos pelo dedo de Deus, e desceu rapidamente da montanha, carregando o pacto que havia sido quase desfeito pela idolatria.",
+      "referencias": [
+        "Êxodo 32:15"
+      ],
+      "comentario": "O retorno de Moisés com as tábuas quebradas simboliza o estado quebrado da relação. Embora Deus tenha perdoado a aniquilação, a quebra física das tábuas é um sinal permanente da falha humana.",
+      "temas": [
+        "Restauração Parcial",
+        "O Mediador em Ação"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "16": {
-      "parafrase": "'E aquele que roubar um homem e o vender, ou se ele for achado em sua mão, certamente será morto.'",
-      "references": [],
-      "comentario": "A lei estabelece a pena de morte para o sequestro e a venda de uma pessoa, protegendo a liberdade e a dignidade humana. A vida é valiosa.",
-      "temas": ["roubo", "venda", "sequestro", "pena de morte", "liberdade", "dignidade"],
+      "parafrase": "Naquelas tábuas de pedra, que ele agora carregava, estava escrito de ambos os lados: na frente e no verso, em cada uma delas.",
+      "referencias": [
+        "Êxodo 32:15",
+        "Ezequiel 2:9"
+      ],
+      "comentario": "A escrita em ambos os lados (fronte e verso) sugere a totalidade e a abrangência da Lei, cobrindo todos os aspectos da vida e da fé. Era um objeto denso e plenamente escrito.",
+      "temas": [
+        "Totalidade da Lei",
+        "Detalhe Divino"
+      ],
       "personagens": []
     },
     "17": {
-      "parafrase": "'E aquele que amaldiçoar seu pai ou sua mãe, certamente será morto.'",
-      "references": [],
-      "comentario": "A lei estabelece a pena de morte para amaldiçoar pai ou mãe, enfatizando a importância do respeito aos pais e a santidade da família. A palavra tem poder.",
-      "temas": ["amaldiçoar pai ou mãe", "pena de morte", "respeito", "família", "palavra"],
-      "personagens": []
+      "parafrase": "Quando Josué, que havia permanecido perto da montanha ou talvez esperando por Moisés na base, ouviu o barulho que vinha do acampamento – seja a música desenfreada, os gritos ou a confusão – ele comentou com Moisés: 'Que barulho de batalha terrível é este que está ecoando daquele lugar?'",
+      "referencias": [
+        "Êxodo 17:8-10"
+      ],
+      "comentario": "Josué, o líder militar e discípulo de Moisés, interpreta o som como guerra. Isso mostra que ele estava mais preparado para o conflito físico do que para a apostasia religiosa, realçando sua inocência no incidente.",
+      "temas": [
+        "Confusão Sonora",
+        "Discernimento",
+        "A Inocência de Josué"
+      ],
+      "personagens": [
+        "Josué",
+        "Moisés"
+      ]
     },
     "18": {
-      "parafrase": "'E se homens contenderem, e um ferir o outro com uma pedra ou com o punho, e ele não morrer, mas ficar de cama;
+      "parafrase": "Moisés respondeu a Josué, com a voz carregada de desilusão e tristeza: 'Este não é um som de vitória militar, nem o clamor de quem foi derrotado em batalha. O que estamos ouvindo é o som da depravação e da celebração desenfreada da maldade; é o barulho da perversidade humana.'",
+      "referencias": [
+        "Salmos 68:1-3"
+      ],
+      "comentario": "Moisés corrige a percepção de Josué, definindo o som não como um conflito externo (inimigos), mas como um conflito interno (a luta contra a própria carne e a idolatria).",
+      "temas": [
+        "Natureza do Pecado",
+        "Percepção da Realidade"
+      ],
+      "personagens": [
+        "Moisés",
+        "Josué"
+      ]
+    },
     "19": {
-      "parafrase": "se ele se levantar e andar fora com o seu cajado, então aquele que o feriu será absolvido; apenas ele pagará pelo seu tempo perdido, e o fará ser completamente curado.'",
-      "references": [],
-      "comentario": "A lei estabelece a compensação por ferimentos não fatais, garantindo que o agressor pague pelo tempo perdido e pela cura da vítima. A justiça é para a restauração.",
-      "temas": ["ferimento", "compensação", "tempo perdido", "cura", "justiça"],
-      "personagens": []
+      "parafrase": "Assim que Moisés chegou perto o suficiente para ver a cena com seus próprios olhos, observando o povo nu, dançando freneticamente ao redor do bezerro dourado, sua paciência se esgotou completamente. Sua ira se manifestou de forma explosiva, e ele jogou as tábuas de pedra das suas mãos, quebrando-as em pedaços diante de todos.",
+      "referencias": [
+        "Êxodo 32:19",
+        "Habacuque 3:12"
+      ],
+      "comentario": "A repetição do ato de quebrar as tábuas (v. 3 e v. 19) enfatiza o choque da visão. A nudez e a dança frenética (hittellêk) denotam libertinagem e abandono total das restrições morais.",
+      "temas": [
+        "Exposição do Pecado",
+        "Ira Incontrolável",
+        "Quebra da Aliança"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "20": {
-      "parafrase": "'E se um homem ferir seu servo ou sua serva com uma vara, e ele morrer debaixo de sua mão, certamente será punido.'",
-      "references": [],
-      "comentario": "A lei estabelece a punição para o senhor que mata seu servo ou serva, protegendo a vida dos escravos. A justiça é para todos, independentemente de sua condição.",
-      "temas": ["servo", "serva", "morte", "punição", "justiça"],
-      "personagens": []
+      "parafrase": "Então, Moisés se voltou para o bezerro de ouro, o símbolo de sua traição, o destruiu completamente no fogo, transformando-o em pó fino. Ele então pegou esse pó, que era o resíduo da sua adoração falsa, e o misturou com água.",
+      "referencias": [
+        "1 Reis 18:38"
+      ],
+      "comentario": "A mistura do pó com a água, um ato de profanação ritual, é crucial. Não basta destruir o objeto; é preciso torná-lo intragável e indigno de qualquer contato subsequente.",
+      "temas": [
+        "Profanação Ritual",
+        "Purificação",
+        "Resíduos da Idolatria"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "21": {
-      "parafrase": "'No entanto, se ele continuar por um dia ou dois, ele não será punido, pois ele é o seu dinheiro.'",
-      "references": [],
-      "comentario": "Se o servo morrer após um ou dois dias, o senhor não será punido, pois o servo é sua propriedade. Isso reflete a realidade da escravidão na época, mas também mostra a limitação da justiça humana.",
-      "temas": ["servo", "morte", "propriedade", "limitação da justiça"],
-      "personagens": []
+      "parafrase": "Moisés confrontou Arão novamente, perguntando, com um tom de incredulidade misturada à acusação: 'O que exatamente Arão fez com este povo para que caísse em uma transgressão tão abominável contra o Senhor?'",
+      "referencias": [
+        "Miquéias 6:3"
+      ],
+      "comentario": "Esta repetição da pergunta (semelhante ao v. 5) pode indicar que, após a destruição do ídolo, a necessidade de responsabilização pessoal e pública se torna ainda mais premente.",
+      "temas": [
+        "Responsabilização",
+        "Confronto"
+      ],
+      "personagens": [
+        "Moisés",
+        "Arão"
+      ]
     },
     "22": {
-      "parafrase": "'E se homens contenderem, e ferirem uma mulher grávida, de modo que ela aborte, e ainda assim nenhum dano seguir, ele certamente será punido, de acordo com o que o marido da mulher lhe impuser; e ele pagará como os juízes determinarem.'",
-      "references": [],
-      "comentario": "A lei estabelece a punição para ferir uma mulher grávida, causando aborto, mas sem dano à mãe. A punição é determinada pelo marido e pelos juízes, protegendo a vida do feto e a mulher.",
-      "temas": ["mulher grávida", "aborto", "dano", "punição", "justiça"],
-      "personagens": []
+      "parafrase": "Arão, sentindo-se encurralado sob o peso da evidência e da ira de Moisés, respondeu com a mesma desculpa enfraquecida: 'Meu senhor, por favor, não se irrite tanto comigo. Você sabe muito bem que este povo é inerentemente propenso ao mal e ao desvio.'",
+      "referencias": [
+        "Mateus 26:41"
+      ],
+      "comentario": "A repetição da justificativa de Arão sugere que ele não aprendeu a lição. Ele recorre à falha de caráter do povo como sua própria defesa, falhando em defender o sacerdócio contra a pressão da multidão.",
+      "temas": [
+        "Fraqueza do Líder",
+        "Autodefesa"
+      ],
+      "personagens": [
+        "Arão",
+        "Moisés"
+      ]
     },
     "23": {
-      "parafrase": "'Mas se algum dano seguir, então você dará vida por vida,
+      "parafrase": "Arão prosseguiu explicando a precipitação dos eventos: 'Eles vieram a mim e exigiram: 'Faça-nos deuses que caminhem à nossa frente, pois não sabemos o que aconteceu com este Moisés, o homem que nos tirou do Egito!'",
+      "referencias": [
+        "Atos 7:40"
+      ],
+      "comentario": "Arão descreve a exigência do povo, que era a demanda por um substituto visível para Deus, pois o líder visível (Moisés) estava ausente. A demanda era por uma religião que pudesse ser 'vista' e controlada.",
+      "temas": [
+        "Substituição de Deus",
+        "Necessidade do Visível"
+      ],
+      "personagens": [
+        "Arão",
+        "Moisés"
+      ]
+    },
     "24": {
-      "parafrase": "olho por olho, dente por dente, mão por mão, pé por pé,
+      "parafrase": "Eu, então, lhes disse: 'Qualquer um de vocês que tenha joias de ouro deve separá-las!' E eles me entregaram o ouro que tinham, e eu o joguei no fogo, e eis que surgiu este bezerro!'",
+      "referencias": [
+        "Êxodo 35:22"
+      ],
+      "comentario": "Arão tenta se isentar de culpa, apresentando-se quase como um agente passivo que simplesmente processou a matéria-prima que lhe foi dada. A omissão é a falha: ele não parou o processo.",
+      "temas": [
+        "Passividade",
+        "Conspiração Acidental"
+      ],
+      "personagens": [
+        "Arão"
+      ]
+    },
     "25": {
-      "parafrase": "queimadura por queimadura, ferida por ferida, golpe por golpe.'",
-      "references": [],
-      "comentario": "Se houver dano à mulher grávida ou ao feto, a lei do talião (olho por olho) é aplicada, garantindo a justiça retributiva. A vida é valorizada.",
-      "temas": ["dano", "vida por vida", "olho por olho", "justiça retributiva", "valor da vida"],
-      "personagens": []
+      "parafrase": "Moisés viu que o povo estava completamente solto, sem qualquer restrição ou controle, exposto e sem roupa moral, pois Arão os havia deixado sem proteção contra a vergonha e o ridículo de seus inimigos. Ele percebeu que eles haviam se tornado um espetáculo de degradação espiritual.",
+      "referencias": [
+        "Tiago 1:27",
+        "2 Pedro 2:15"
+      ],
+      "comentario": "Este versículo conclui o relatório da calamidade. O estado de 'soltos' ou 'descontrolados' (paru'im) aponta para uma anarquia moral resultante da quebra da Lei e da ausência de liderança firme. A nudez é o símbolo da perda de santidade e proteção.",
+      "temas": [
+        "Anarquia Espiritual",
+        "Consequência Final",
+        "Vergonha"
+      ],
+      "personagens": [
+        "Moisés",
+        "Arão"
+      ]
     },
     "26": {
-      "parafrase": "'E se um homem ferir o olho de seu servo ou o olho de sua serva, e o destruir, ele o deixará ir livre por causa do seu olho.'",
-      "references": [],
-      "comentario": "Se um senhor ferir o olho de seu servo ou serva, ele deve libertá-lo. Isso protege os escravos de ferimentos graves e garante sua liberdade.",
-      "temas": ["servo", "serva", "olho", "liberdade", "proteção"],
-      "personagens": []
+      "parafrase": "E se alguém causasse um ferimento ao olho de um de seus escravos, seja homem ou mulher, o dano seria tão grave que o escravo perderia a visão daquele olho. Nesse caso, como compensação imediata por essa perda irreparável, o senhor deveria libertar o escravo imediatamente, como se tivesse lhe concedido a liberdade total, em troca da visão perdida.",
+      "referencias": [
+        "Levítico 24:20",
+        "Deuteronômio 15:12"
+      ],
+      "comentario": "Este versículo estabelece o princípio da 'Lex Talionis' (Lei de Talião) aplicado à quebra de um membro ou sentido, mas com uma nuance crucial: a punição corporal severa (a perda do olho) resulta na emancipação do escravo. O dano físico a um órgão vital de percepção era considerado tão grave que o vínculo de servidão era quebrado. Isso mostra um valor intrínseco à integridade física, mesmo de um servo.",
+      "temas": [
+        "Justiça Compensatória",
+        "Emancipação de Escravos",
+        "Integridade Física"
+      ],
+      "personagens": [
+        "O Senhor (Dono)",
+        "O Escravo"
+      ]
     },
     "27": {
-      "parafrase": "'E se ele arrancar o dente de seu servo ou o dente de sua serva, ele o deixará ir livre por causa do seu dente.'",
-      "references": [],
-      "comentario": "Se um senhor arrancar o dente de seu servo ou serva, ele deve libertá-lo. Isso protege os escravos de ferimentos e garante sua liberdade.",
-      "temas": ["servo", "serva", "dente", "liberdade", "proteção"],
-      "personagens": []
+      "parafrase": "Da mesma forma, se um senhor batesse com tanta força no dente de seu escravo, seja homem ou mulher, que o dente fosse quebrado e perdido, o senhor deveria, sem falta, libertar o escravo. A perda de um dente, essencial para a sobrevivência e dignidade, exigia a quebra do contrato de servidão como reparação.",
+      "referencias": [
+        "Levítico 24:19-20",
+        "Provérbios 12:18"
+      ],
+      "comentario": "O padrão se repete para a perda de um dente. A lei não buscava a vingança física do senhor contra o senhor, mas sim a proteção do corpo do servo, demonstrando que, embora fossem propriedade, a lei divina reconhecia um limite para o abuso. A perda de um dente (a capacidade de comer) era um dano que afetava a capacidade produtiva e a qualidade de vida do servo, justificando a liberdade.",
+      "temas": [
+        "Lei de Talião Adaptada",
+        "Proteção ao Servo",
+        "Compensação por Dano Físico"
+      ],
+      "personagens": [
+        "O Senhor (Dono)",
+        "O Escravo"
+      ]
     },
     "28": {
-      "parafrase": "'E se um boi chifrar um homem ou uma mulher, de modo que eles morram, o boi certamente será apedrejado, e a sua carne não será comida; mas o dono do boi será absolvido.'",
-      "references": [],
-      "comentario": "Se um boi matar uma pessoa, o boi deve ser apedrejado e sua carne não pode ser comida. O dono é absolvido, a menos que soubesse da periculosidade do animal.",
-      "temas": ["boi", "morte", "apedrejamento", "carne", "responsabilidade"],
-      "personagens": []
+      "parafrase": "Se um boi, animal forte e valioso, viesse a atacar um homem ou uma mulher, e o golpe fosse fatal, causando a morte da pessoa, o boi deveria ser apedrejado até a morte imediatamente. Ninguém deveria comer a carne do animal que causou tal tragédia, e seu dono seria considerado responsável pela perda de vida.",
+      "referencias": [
+        "Gênesis 9:5",
+        "Êxodo 21:29"
+      ],
+      "comentario": "Introduz a lei sobre animais perigosos. A morte humana causada por um animal doméstico (boi) exigia a morte do animal como uma forma de purificação e reconhecimento da gravidade do ato. A proibição de comer a carne do boi era um sinal público de luto e repúdio ao ato violento do animal, e também um meio de evitar que o perigo se propagasse.",
+      "temas": [
+        "Responsabilidade Animal",
+        "Santidade da Vida Humana",
+        "Julgamento de Animais"
+      ],
+      "personagens": [
+        "O Boi",
+        "O Homem ou Mulher"
+      ]
     },
     "29": {
-      "parafrase": "'But if the ox was previously known to gore, and its owner was warned, but did not keep it confined, and it kills a man or a woman, the ox shall be stoned, and its owner shall also be put to death.'",
-      "references": [],
-      "comentario": "Se o dono soubesse da periculosidade do boi e não o guardou, ele também será morto. A responsabilidade é maior quando há negligência.",
-      "temas": ["boi", "morte", "apedrejamento", "responsabilidade", "negligência"],
-      "personagens": []
+      "parafrase": "No entanto, se esse boi já tivesse o costume de ser agressivo e tivesse investido contra pessoas no passado, com seu dono ciente desse perigo constante, e mesmo assim o dono não tomasse as devidas precauções para contê-lo, então, além de o boi ser executado, seu dono também deveria pagar com a própria vida, como consequência de sua negligência imprudente. 🤕",
+      "referencias": [
+        "Números 35:30-31",
+        "Levítico 20:15"
+      ],
+      "comentario": "Esta é a cláusula da negligência. Se o dono tinha conhecimento prévio ('se costumava dar cabeçadas') e falhou em proteger a comunidade, a pena de morte se estendia a ele. Isso reforça a responsabilidade do proprietário sobre o perigo que possui. A lei é mais severa quando há conhecimento prévio e falha em agir.",
+      "temas": [
+        "Negligência do Proprietário",
+        "Culpa e Punição",
+        "Prevenção de Perigo"
+      ],
+      "personagens": [
+        "O Senhor (Dono)",
+        "O Boi"
+      ]
     },
     "30": {
-      "parafrase": "'If a ransom is imposed on him, then he shall give the ransom for his life, according to all that is imposed on him.'",
-      "references": [],
-      "comentario": "Se um resgate for imposto, o dono deve pagá-lo para salvar sua vida. O resgate é uma forma de compensação e de justiça.",
-      "temas": ["resgate", "vida", "compensação", "justiça"],
-      "personagens": []
+      "parafrase": "Caso fosse estabelecido um resgate financeiro para o dono do boi — ou seja, se a comunidade decidisse que a vida do dono não deveria ser cobrada —, então o dono deveria pagar tudo o que lhe fosse exigido em troca da vida, uma soma determinada para cobrir a perda da vida da vítima.",
+      "referencias": [
+        "Números 35:31-32",
+        "Jó 33:24"
+      ],
+      "comentario": "Aqui, a lei oferece uma 'saída' legal baseada na prática da época: a compensação monetária (wergeld ou preço de resgate) permitia ao culpado evitar a pena capital. Isso demonstra flexibilidade na aplicação da justiça, priorizando a restituição à comunidade sobre a retaliação absoluta, desde que o valor fosse aceito.",
+      "temas": [
+        "Resgate Monetário",
+        "Substituição da Pena Capital",
+        "Restituição"
+      ],
+      "personagens": [
+        "O Senhor (Dono)",
+        "A Vítima (ou sua família)"
+      ]
     },
     "31": {
-      "parafrase": "'If he gores a son or a daughter, he shall be dealt with according to this law.'",
-      "references": [],
-      "comentario": "Se o boi chifrar um filho ou uma filha, a mesma lei se aplica, protegendo a vida das crianças. A justiça é para todos.",
-      "temas": ["boi", "filho", "filha", "lei", "justiça"],
-      "personagens": []
+      "parafrase": "Esta mesma regra se aplicaria se a vítima fosse um escravo, seja homem ou mulher. O padrão de justiça era claro: se um boi atacasse e matasse um servo, o boi deveria ser morto.",
+      "referencias": [
+        "Deuteronômio 22:26",
+        "Êxodo 21:20"
+      ],
+      "comentario": "O texto reafirma a lei para o caso de morte de um escravo por um animal. Enquanto no versículo 27 a quebra de um membro resultava em liberdade, aqui a morte do escravo resulta na morte do animal agressor, mantendo a coerência legal de que a vida do servo, embora de valor inferior à de um homem livre, ainda era protegida por lei contra a violência animal negligenciada.",
+      "temas": [
+        "Proteção Legal do Escravo",
+        "Coerência Legal",
+        "Julgamento Animal"
+      ],
+      "personagens": [
+        "O Escravo",
+        "O Boi"
+      ]
     },
     "32": {
-      "parafrase": "'If the ox gores a male or female slave, he shall give thirty shekels of silver to their master, and the ox shall be stoned.'",
-      "references": [],
-      "comentario": "Se o boi chifrar um servo ou serva, o dono pagará trinta siclos de prata ao senhor do servo, e o boi será apedrejado. A compensação é para a perda de propriedade.",
-      "temas": ["boi", "servo", "serva", "siclos de prata", "apedrejamento", "compensação"],
-      "personagens": []
+      "parafrase": "Mas se o boi atacasse especificamente um escravo (homem ou mulher) e o ferisse apenas o suficiente para fazê-lo perder um olho ou um dente, e não o matasse, o dono do boi deveria compensar o dono do escravo com um valor monetário estabelecido. E, novamente, o boi agressor deveria ser executado.",
+      "referencias": [
+        "Levítico 24:21",
+        "Êxodo 21:26-27"
+      ],
+      "comentario": "Aqui, o foco muda para a compensação entre proprietários. Se o dano não é fatal, mas resulta em perda física parcial (olho ou dente) do escravo, o dono do escravo ferido é compensado financeiramente pelo dono do boi. O boi, contudo, ainda é morto por ser um perigo conhecido.",
+      "temas": [
+        "Compensação Financeira Interproprietária",
+        "Dano Parcial a Servos",
+        "Eliminação de Ameaças"
+      ],
+      "personagens": [
+        "Dono do Boi",
+        "Dono do Escravo",
+        "O Boi"
+      ]
     },
     "33": {
-      "parafrase": "'And if a man opens a pit, or if a man digs a pit and does not cover it, and an ox or a donkey falls into it,
+      "parafrase": "E se um homem abrisse uma cisterna no campo — um poço profundo para armazenar água — e não colocasse nenhuma cobertura ou proteção sobre ela, tornando-a um perigo mortal, então,",
+      "referencias": [
+        "Êxodo 22:5",
+        "Provérbios 24:30-31"
+      ],
+      "comentario": "Introduz um novo cenário de responsabilidade civil: a negligência na manutenção de poços abertos. Cisternas eram vitais, mas perigosas se descobertas. O ato de deixar um poço descoberto é uma falha direta na responsabilidade de proteger o próximo, comparável a soltar um animal selvagem.",
+      "temas": [
+        "Responsabilidade Civil",
+        "Negligência Estrutural",
+        "Dever de Sinalização/Proteção"
+      ],
+      "personagens": [
+        "O Proprietário do Terreno"
+      ]
+    },
     "34": {
-      "parafrase": "the owner of the pit shall make compensation; he shall give money to its owner, and the dead animal shall be his.'",
-      "references": [],
-      "comentario": "Se alguém cavar uma cova e não a cobrir, e um animal cair nela, o dono da cova deve compensar o dono do animal. A responsabilidade é pela negligência.",
-      "temas": ["cova", "negligência", "compensação", "responsabilidade"],
-      "personagens": []
+      "parafrase": "e um boi, ou um jumento, ou qualquer animal de posse do vizinho caísse dentro dessa abertura descoberta, o dono da cisterna, que falhou em cobri-la, teria que pagar o preço de resgate pela vida do animal perdido. Ele teria que ressarcir o vizinho pelo valor do animal que caiu.",
+      "referencias": [
+        "Deuteronômio 22:1",
+        "Êxodo 22:12"
+      ],
+      "comentario": "A compensação é estritamente financeira. O animal (boi ou jumento) que cai na cisterna descoberta deve ter seu valor pago pelo responsável pela abertura. Novamente, a negligência resulta em perda financeira para quem causou o risco, mas a pena de morte não se aplica, pois o dano foi à propriedade, não à vida humana.",
+      "temas": [
+        "Restauração Financeira",
+        "Prejuízo a Bens",
+        "Diferença entre Vida Humana e Animal"
+      ],
+      "personagens": [
+        "O Proprietário da Cisterna",
+        "O Vizinho",
+        "O Animal"
+      ]
     },
     "35": {
-      "parafrase": "'And if one man's ox hurts another's, so that it dies, then they shall sell the live ox and divide the money from it; and the dead animal also they shall divide.'",
-      "references": [],
-      "comentario": "Se um boi matar outro boi, os donos dividirão o valor do boi vivo e do boi morto. A justiça é para a equidade.",
-      "temas": ["boi", "morte", "venda", "divisão", "equidade"],
-      "personagens": []
+      "parafrase": "Mas se um homem intencionalmente decidisse matar o animal de seu vizinho, jogando-o na cisterna, ele teria que pagar o valor integral do animal. Isso, no entanto, não anula o julgamento sobre a intenção de matar (que poderia ter outras consequências legais).",
+      "referencias": [
+        "Levítico 24:18",
+        "Êxodo 22:1"
+      ],
+      "comentario": "Este versículo distingue o acidente da intenção criminosa. Se o animal cai acidentalmente (v. 34), é um caso de negligência civil. Se o dono da cisterna 'empurra' ou 'lança' o animal dentro (ação intencional), ele deve pagar o valor do animal. Embora o pagamento seja o mesmo em termos de valor, a intenção criminosa subjacente é um fator moral e legal distinto.",
+      "temas": [
+        "Diferença entre Acidente e Dolo",
+        "Dano Intencional",
+        "Restituição Integral"
+      ],
+      "personagens": [
+        "O Culpado",
+        "O Vizinho",
+        "O Animal"
+      ]
     },
     "36": {
-      "parafrase": "'Or if it was known that the ox was previously known to gore, and its owner did not keep it confined, he shall surely make compensation, ox for ox; and the dead animal shall be his.'",
-      "references": [],
-      "comentario": "Se o dono soubesse da periculosidade do boi e não o guardou, ele deve compensar o dono do animal morto. A responsabilidade é maior quando há negligência.",
-      "temas": ["boi", "negligência", "compensação", "responsabilidade"],
-      "personagens": []
+      "parafrase": "E se o boi que causou a morte ou ferimento caísse em uma cisterna, ou se um boi de outra pessoa caísse acidentalmente em uma cisterna já aberta, o dono da cisterna, se fosse inocente da culpa, não deveria pagar nada. A perda seria do dono do animal.",
+      "referencias": [
+        "Êxodo 22:14-15",
+        "Deuteronômio 22:1-3"
+      ],
+      "comentario": "Clareza final sobre a responsabilidade: Se o poço estava aberto (negligência), o dono da cisterna paga. Se o poço estava coberto, mas um animal de terceiro caiu (acidente sem negligência do dono do poço), a perda recai sobre o dono do animal. A lei protege o proprietário que cumpriu seu dever de cuidado.",
+      "temas": [
+        "Ausência de Culpa",
+        "Risco Assumido pelo Proprietário do Bem",
+        "Dever Cumprido"
+      ],
+      "personagens": [
+        "O Proprietário da Cisterna",
+        "O Dono do Animal"
+      ]
     }
   }
 }

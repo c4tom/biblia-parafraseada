@@ -1,204 +1,484 @@
 {
   "livro": "Provérbios",
   "capitulo": 12,
-  "contexto_historico": "Este capítulo continua a coleção de provérbios de Salomão, contrastando a vida do justo com a do ímpio. Ele aborda temas como a importância da retidão, da diligência, da verdade na fala e da sabedoria na conduta. O capítulo enfatiza que as escolhas morais têm consequências diretas na vida, levando à bênção ou à ruína.",
-  "bloco_tematico": "Contrastes de Caráter e Suas Consequências",
+  "contexto_historico": "O Livro de Provérbios, em sua totalidade, é uma coleção de ditos sapienciais atribuída em grande parte a Salomão (capítulos 1-9 e 10-29), mas também inclui seções de outros sábios (como Agur e Lemuel). O Capítulo 12 se insere na seção de provérbios curtos e contrastantes (os chamados 'provérbios paralelos' ou 'antitéticos') atribuídos a Salomão (Provérbios 10:1–22:16). Este bloco foca na aplicação prática da sabedoria no cotidiano, contrastando o justo com o ímpio, o diligente com o preguiçoso, e a verdade com a mentira. O contexto é uma orientação moral direta para a vida pessoal e social.",
+  "bloco_tematico": "O Contraste Vital: Sabedoria vs. Insensatez no Cotidiano ⚖️",
   "versiculos": {
     "1": {
-      "parafrase": "Aquele que ama a disciplina ama o conhecimento, mas aquele que odeia a repreensão é tolo.",
-      "referencias": [],
-      "comentario": "O provérbio estabelece uma conexão entre o amor pela disciplina e o amor pelo conhecimento. Aquele que rejeita a correção é tolo, pois se recusa a aprender e a crescer.",
-      "temas": ["disciplina", "conhecimento", "repreensão", "tolice"],
-      "personagens": []
+      "parafrase": "Aquele que abraça a correção e aceita a disciplina, a voz da sabedoria, demonstra um coração nobre, digno de estima. É como uma planta que anseia por adubo, pois ao ser repreendido, ele cresce e se fortalece. Pelo contrário, aquele que rejeita a bronca e se fecha à crítica é um insensato, um tolo que despreza a chance de melhorar sua própria vida. 💔",
+      "referencias": [
+        "Provérbios 1:7",
+        "Hebreus 12:11"
+      ],
+      "comentario": "O termo hebraico para 'abraçar a correção' é *lahavah* (amar com fervor). O versículo estabelece o contraste fundamental na sabedoria: a receptividade ao ensino (*musar*) leva à honra, enquanto a dureza de coração leva à tolice (*ivvelut*).",
+      "temas": [
+        "Disciplina",
+        "Sabedoria vs. Tolice",
+        "Aceitação"
+      ],
+      "personagens": [
+        "O Sábio",
+        "O Tolo"
+      ]
     },
     "2": {
-      "parafrase": "O homem bom obtém favor do Senhor, mas o homem de planos malignos Ele condena.",
-      "referencias": [],
-      "comentario": "Deus favorece o homem bom, que age com retidão, mas condena aqueles que tramam o mal. A justiça divina recompensa o bem e pune o mal.",
-      "temas": ["favor divino", "bondade", "planos malignos", "condenação"],
-      "personagens": []
+      "parafrase": "O homem bom, aquele de caráter reto, encontra o favor do Senhor, um aval divino em sua jornada. Sua conduta agrada a Deus. Mas aquele que tramava a maldade, que semeava discórdia e falsidade, será exposto e condenado pelo próprio Criador. O mal não se esconde da luz divina. 🔥",
+      "referencias": [
+        "Salmos 11:4",
+        "Gênesis 6:5"
+      ],
+      "comentario": "A palavra 'bom' (*tov*) aqui implica uma retidão moral completa. O Senhor não apenas tolera, mas aprova ativamente aqueles que agem com justiça. A segunda parte aponta para a desaprovação divina da maldade (*mirmah* - engano, fraude).",
+      "temas": [
+        "Retidão",
+        "Julgamento Divino",
+        "Fraude"
+      ],
+      "personagens": [
+        "O Homem Bom",
+        "O Malfeitor"
+      ]
     },
     "3": {
-      "parafrase": "Nenhum homem será estabelecido pela impiedade, mas a raiz dos justos não será abalada.",
-      "referencias": [],
-      "comentario": "A impiedade não traz estabilidade duradoura, mas a retidão dos justos é como uma raiz firme que não pode ser abalada. A integridade é a base da segurança.",
-      "temas": ["impiedade", "estabilidade", "justiça", "segurança"],
-      "personagens": []
+      "parafrase": "Ninguém pode se firmar e viver em segurança sobre a base da iniquidade. Seus esforços para se estabelecer através de meios injustos são como construir um castelo na areia movediça; eles desmoronarão. Mas o justo, aquele que anda na verdade, tem raízes profundas e permanecerá firme como um carvalho antigo. 🌳",
+      "referencias": [
+        "Mateus 7:24-27",
+        "Jó 8:14"
+      ],
+      "comentario": "A iniquidade (*resha*) é apresentada como uma fundação instável. O contraste é entre a transitoriedade da injustiça e a estabilidade (*kivnat sheresh tsedeq*) da justiça, que é comparada a uma raiz forte, garantindo permanência.",
+      "temas": [
+        "Estabilidade",
+        "Injustiça",
+        "Permanência"
+      ],
+      "personagens": [
+        "O Ímpio",
+        "O Justo"
+      ]
     },
     "4": {
-      "parafrase": "A mulher virtuosa é a coroa de seu marido, mas a que envergonha é como podridão em seus ossos.",
-      "referencias": [],
-      "comentario": "A mulher virtuosa traz honra e dignidade ao seu marido, enquanto a que causa vergonha o destrói por dentro. O caráter da esposa afeta profundamente o marido.",
-      "temas": ["mulher virtuosa", "honra", "vergonha", "casamento"],
-      "personagens": []
+      "parafrase": "Uma esposa de valor inestimável é a coroa e o tesouro de seu marido; ela é a fonte de sua honra e força, um ornamento que o enobrece aos olhos de todos. Mas aquela que age com desonra, que traz vergonha e desordem ao lar, é como um câncer silencioso que destrói a estrutura óssea do homem, enfraquecendo-o até a medula. 💀",
+      "referencias": [
+        "Provérbios 31:10",
+        "Colossenses 3:19"
+      ],
+      "comentario": "O termo para 'mulher virtuosa/de valor' é *eshet hayil*, que implica força e capacidade. Ela é uma 'coroa' (*eter*), um símbolo de glória. Em contraste, a mulher que causa vergonha é comparada a uma podridão (*revayon*) nos ossos, simbolizando destruição interna e profunda.",
+      "temas": [
+        "Casamento",
+        "Honra Conjugal",
+        "Destruição Doméstica"
+      ],
+      "personagens": [
+        "Esposa Virtuosa",
+        "Marido",
+        "Esposa Desonrosa"
+      ]
     },
     "5": {
-      "parafrase": "Os pensamentos dos justos são justos, mas os conselhos dos ímpios são engano.",
-      "referencias": [],
-      "comentario": "Os pensamentos e conselhos dos justos são retos e verdadeiros, enquanto os dos ímpios são enganosos e maliciosos. O coração revela a natureza da pessoa.",
-      "temas": ["pensamentos", "conselho", "justiça", "engano"],
-      "personagens": []
+      "parafrase": "Os planos e as intenções do coração dos homens justos são puros, como água cristalina que reflete a verdade. Eles consideram como agir com equidade. Mas os pensamentos dos ímpios são apenas uma armadilha, um ardil elaborado para enganar e ferir o próximo, expondo a malícia em suas mentes. 🎣",
+      "referencias": [
+        "Mateus 15:19",
+        "Jeremias 17:9"
+      ],
+      "comentario": "A distinção reside na intenção. Os justos pensam em 'justiça' (*tsedek*), ou seja, em cumprir o que é reto. Os ímpios planejam 'engano' (*remiah*). É uma reflexão sobre a origem interna das ações.",
+      "temas": [
+        "Intenção",
+        "Planejamento",
+        "Justiça vs. Engano"
+      ],
+      "personagens": [
+        "O Justo",
+        "O Ímpio"
+      ]
     },
     "6": {
-      "parafrase": "As palavras dos ímpios são uma emboscada para derramar sangue, mas a boca dos retos os livrará.",
-      "referencias": [],
-      "comentario": "As palavras dos ímpios são perigosas e visam destruir, enquanto as palavras dos retos trazem livramento e salvação. A fala tem poder para o bem e para o mal.",
-      "temas": ["palavras", "violência", "livramento", "justiça"],
-      "personagens": []
+      "parafrase": "As palavras dos perversos, mesmo que pareçam doces, são como emboscadas mortais; elas destroem os desavisados que caem em suas teias. Mas a boca do justo fala com clareza e salva vidas, tirando as pessoas do perigo iminente com um aviso oportuno. Cuidado com a língua traiçoeira! 🗣️",
+      "referencias": [
+        "Provérbios 18:7",
+        "Tiago 3:5-6"
+      ],
+      "comentario": "O versículo 6 usa a metáfora da 'emboscada' (*arav*), referindo-se a salteadores que aguardam na estrada. A fala do justo, por outro lado, é um meio de resgate (*miqshat pîhêm* - o livramento de suas bocas).",
+      "temas": [
+        "Poder da Palavra",
+        "Perigo da Falsidade",
+        "Salvação pela Fala"
+      ],
+      "personagens": [
+        "O Perverso",
+        "O Justo"
+      ]
     },
     "7": {
-      "parafrase": "Os ímpios são derrubados e não existem mais, mas a casa dos justos permanecerá.",
-      "referencias": [],
-      "comentario": "O destino dos ímpios é a destruição e o esquecimento, enquanto a casa dos justos permanece e prospera. A retidão traz estabilidade e um legado duradouro.",
-      "temas": ["destruição", "impiedade", "justiça", "permanência"],
-      "personagens": []
+      "parafrase": "Tudo pode desabar: o ímpio será derrubado de sua posição de poder, e sua memória se apagará como fumaça no vento, sem deixar rastro de sua glória passada. Mas aquele que é reto em seu caminhar, mesmo que sofra provações, sua lembrança será honrada e viverá para sempre na memória dos homens bons. 🌬️",
+      "referencias": [
+        "Jó 20:7",
+        "Salmos 112:6"
+      ],
+      "comentario": "Aqui vemos a transitoriedade da glória mundana do ímpio. O termo hebraico para 'será derrubado' sugere um rebaixamento súbito. A memória do justo, contudo, é preservada (*zikhronam*), indicando um legado duradouro.",
+      "temas": [
+        "Legado",
+        "Morte do Ímpio",
+        "Permanência do Justo"
+      ],
+      "personagens": [
+        "O Ímpio",
+        "O Justo"
+      ]
     },
     "8": {
-      "parafrase": "Um homem é louvado segundo o seu entendimento, mas o perverso de coração será desprezado.",
-      "referencias": [],
-      "comentario": "O entendimento traz louvor e reconhecimento, enquanto a perversidade do coração leva ao desprezo. O caráter é a base da reputação.",
-      "temas": ["entendimento", "louvor", "perversidade", "desprezo"],
-      "personagens": []
+      "parafrase": "Será muito mais valorizado um homem que se veste com a simplicidade da sabedoria, mesmo que possua poucas posses, do que aquele que ostenta riquezas mas vive na arrogância e na tolice. A sabedoria tem mais peso que o ouro em um balanço justo. ⚖️",
+      "referencias": [
+        "Provérbios 16:16",
+        "Lucas 12:15"
+      ],
+      "comentario": "Contraste entre a 'casa' (*bayit*) do humilde e sábio e a riqueza (*hôn*) do tolo. A riqueza sem sabedoria é vazia e perigosa, enquanto a pobreza com integridade é a verdadeira riqueza aos olhos de Deus e dos homens sensatos.",
+      "temas": [
+        "Valor da Sabedoria",
+        "Simplicidade",
+        "Arrogância"
+      ],
+      "personagens": [
+        "O Sábio Humilde",
+        "O Tolo Rico"
+      ]
     },
     "9": {
-      "parafrase": "Melhor é o que é pouco estimado e tem um servo, do que o que se vangloria e não tem pão.",
-      "referencias": [],
-      "comentario": "É melhor ser humilde e ter o necessário do que ser orgulhoso e passar fome. A verdadeira riqueza não está na aparência, mas na provisão e na humildade.",
-      "temas": ["humildade", "orgulho", "pobreza", "riqueza"],
-      "personagens": []
+      "parafrase": "É melhor ser reconhecido como um servo humilde, que trabalha com as próprias mãos para ganhar o pão, do que ser aquele que se vangloria de grande poder, mas vive de migalhas, dependendo dos outros e ostentando uma imagem falsa. A humildade sustentável vence a ostentação vazia. ✋",
+      "referencias": [
+        "2 Tessalonicenses 3:10",
+        "Filipenses 2:3"
+      ],
+      "comentario": "Este versículo reforça a ideia de autossuficiência honesta versus ostentação baseada em empréstimos sociais. O servo que trabalha (*mesharet*) é preferível ao que se vangloria (*mithehalel*) mas não tem sustento real (*shavre lekhem* - quebrando pão, indicando escassez forçada).",
+      "temas": [
+        "Trabalho Honesto",
+        "Ostentação",
+        "Servidão"
+      ],
+      "personagens": [
+        "O Servo Trabalhador",
+        "O Vanglorioso Falso"
+      ]
     },
     "10": {
-      "parafrase": "O justo cuida da vida de seu animal, mas as misericórdias dos ímpios são cruéis.",
-      "referencias": [],
-      "comentario": "O justo demonstra compaixão até mesmo pelos animais, enquanto a crueldade dos ímpios se estende a todas as suas ações, mesmo as que parecem misericordiosas. O caráter é revelado no tratamento dos mais fracos.",
-      "temas": ["compaixão", "crueldade", "justiça", "impiedade"],
-      "personagens": []
+      "parafrase": "O homem compassivo e justo cuida do bem-estar de seus animais e de todos os seres vivos sob seus cuidados, pois sabe que a misericórdia se estende a todas as criaturas. Mas a crueldade e a falta de tato residem no coração dos ímpios, que não hesitam em maltratar o que está sob seu domínio. 🐾",
+      "referencias": [
+        "Gênesis 9:2",
+        "Lucas 6:36"
+      ],
+      "comentario": "Este é um dos pontos altos da ética social de Provérbios. O termo 'misericórdia' (*rahamim*) aqui tem uma aplicação ampla. O ímpio é definido pela sua dureza (*aśkay bita’m*), a incapacidade de sentir compaixão até mesmo pelos seres inferiores.",
+      "temas": [
+        "Misericórdia",
+        "Crueldade",
+        "Cuidado com os Animais"
+      ],
+      "personagens": [
+        "O Compassivo",
+        "O Ímpio Cruel"
+      ]
     },
     "11": {
-      "parafrase": "Aquele que cultiva sua terra terá fartura de pão, mas aquele que persegue coisas vãs não tem entendimento.",
-      "referencias": [],
-      "comentario": "O trabalho árduo e a diligência na agricultura trazem abundância, enquanto a busca por coisas vazias revela falta de entendimento e leva à pobreza. A sabedoria se manifesta na produtividade.",
-      "temas": ["diligência", "abundância", "futilidade", "falta de entendimento"],
-      "personagens": []
+      "parafrase": "Aquele que se dedica diligentemente ao seu trabalho e às tarefas necessárias prosperará e terá abundância de colheita, colhendo o fruto de seus esforços com satisfação. Mas aquele que vive de prazeres fúteis e despreza o trabalho árduo, em breve verá sua fonte de provisão secar, pois valoriza o conforto imediato em detrimento da sustentabilidade futura. 🌽",
+      "referencias": [
+        "Provérbios 6:6-11",
+        "Gálatas 6:7"
+      ],
+      "comentario": "O contraste se estabelece entre o agricultor diligente (*obêd ‘adamah*) e aquele que se deleita em coisas vãs (*ra’ot*). O resultado prático é a fartura versus a seca dos recursos, um chamado à perseverança no labor.",
+      "temas": [
+        "Diligência",
+        "Preguiça",
+        "Prosperidade"
+      ],
+      "personagens": [
+        "O Trabalhador",
+        "O Preguiçoso"
+      ]
     },
     "12": {
-      "parafrase": "O ímpio deseja a presa dos malfeitores, mas a raiz dos justos produz fruto.",
-      "referencias": [],
-      "comentario": "O ímpio busca o ganho ilícito, enquanto o justo produz frutos de retidão. A natureza do coração se manifesta nas ações e nos resultados.",
-      "temas": ["ganância", "impiedade", "justiça", "fruto"],
-      "personagens": []
+      "parafrase": "O homem que rejeita a honra de um trabalho produtivo e se ocupa apenas com os prazeres efêmeros e as vaidades da vida, terminará sem nada de substancial, sem um legado. Em contraste, o homem justo e ativo será reconhecido e terá sua força renovada, como um poço que nunca seca, pois sua energia vem de fontes mais profundas. 💪",
+      "referencias": [
+        "Eclesiastes 2:1-11",
+        "Salmos 52:5"
+      ],
+      "comentario": "Este versículo ecoa o anterior, focando na conclusão da vida. A vaidade (*hevel*, ecoando Eclesiastes) não sustenta. A força do justo (*oz*) é associada à firmeza, contrastando com a 'terra vazia' do leviano.",
+      "temas": [
+        "Vaidade",
+        "Força Interior",
+        "Legado"
+      ],
+      "personagens": [
+        "O Leviano",
+        "O Homem Justo"
+      ]
     },
     "13": {
-      "parafrase": "O ímpio é pego na transgressão de seus lábios, mas o justo escapa da angústia.",
-      "referencias": [],
-      "comentario": "As palavras do ímpio o prendem em suas próprias transgressões, enquanto o justo é livrado da angústia. A fala tem consequências, e a retidão traz livramento.",
-      "temas": ["transgressão", "consequência", "livramento", "justiça"],
-      "personagens": []
+      "parafrase": "O pecador, mesmo que tente se esconder sob um manto de confiança, inevitavelmente se mostrará culpado por suas más ações, pois sua consciência o denunciará. Porém, o homem reto, aquele que vive em retidão, é capaz de falar com coragem e ousadia, pois não há nada a temer em seu passado ou presente. 📢",
+      "referencias": [
+        "Números 32:23",
+        "Romanos 2:15"
+      ],
+      "comentario": "A palavra 'pecador' (*rasha*) aqui é sinônimo de ímpio. A ideia é que a mentira e o erro deixam marcas na alma, que se manifestam externamente (*yithpaqesh* - ele se torna rígido/se retorce). A franqueza (*beheza*) do justo é resultado da paz de espírito.",
+      "temas": [
+        "Culpa",
+        "Ousadia",
+        "Autenticidade"
+      ],
+      "personagens": [
+        "O Pecador",
+        "O Homem Reto"
+      ]
     },
     "14": {
-      "parafrase": "Do fruto da boca de um homem ele se fartará de bem, e a retribuição das mãos de um homem lhe será dada.",
-      "referencias": [],
-      "comentario": "As palavras e as ações de um homem determinam sua recompensa. O bem e o mal que ele faz retornarão a ele. A retribuição é justa.",
-      "temas": ["retribuição", "fala", "ações", "consequência"],
-      "personagens": []
+      "parafrase": "Cada pessoa será recompensada ou julgada exatamente de acordo com aquilo que sua boca pronunciou e suas mãos realizaram. Assim como se colhe o que se planta, as palavras e ações de hoje definirão o destino de amanhã. Seja cauteloso com o que você diz e faz, pois isso define sua colheita. 📜",
+      "referencias": [
+        "Mateus 12:37",
+        "Gálatas 6:7"
+      ],
+      "comentario": "Este é um princípio de causa e efeito moral absoluto. A recompensa (*peh*) é medida pelo que sai da boca e o castigo (*ma'ase yadayim*) é medido pelo trabalho das mãos. É a lei da retribuição.",
+      "temas": [
+        "Retribuição",
+        "Consequência das Ações",
+        "Justiça"
+      ],
+      "personagens": [
+        "Todos os Homens"
+      ]
     },
     "15": {
-      "parafrase": "O caminho do tolo é reto aos seus próprios olhos, mas o que ouve conselho é sábio.",
-      "referencias": [],
-      "comentario": "O tolo confia em sua própria sabedoria e se considera reto, mas o sábio ouve conselho e busca a orientação de outros. A humildade é a base da sabedoria.",
-      "temas": ["tolice", "sabedoria", "conselho", "humildade"],
-      "personagens": []
+      "parafrase": "O caminho do tolo parece certo e correto aos seus próprios olhos, ele se sente seguro em sua perspectiva estreita. Mas o coração sábio sabe reconhecer seu erro e aceita a orientação dos outros, estando sempre disposto a mudar de direção se necessário. 🗺️",
+      "referencias": [
+        "Provérbios 16:2",
+        "Isaías 5:21"
+      ],
+      "comentario": "O caminho do tolo (*derekh ivveleth*) é auto-suficiente. O sábio (*lev yashar* - coração reto/sensato) é aquele que ouve e busca conselho, demonstrando humildade intelectual para reconhecer que sua visão inicial pode estar falha.",
+      "temas": [
+        "Autoilusão",
+        "Humildade Intelectual",
+        "Correção de Rota"
+      ],
+      "personagens": [
+        "O Tolo",
+        "O Sábio"
+      ]
     },
     "16": {
-      "parafrase": "A ira do tolo se manifesta imediatamente, mas o homem prudente dissimula a injúria.",
-      "referencias": [],
-      "comentario": "O tolo expressa sua raiva impulsivamente, enquanto o homem prudente controla suas emoções e dissimula a injúria. O autocontrole é um sinal de sabedoria.",
-      "temas": ["ira", "autocontrole", "prudência", "tolice"],
-      "personagens": []
+      "parafrase": "A irritação e a teimosia do tolo são evidentes a todos, pois ele não consegue controlar sua ira e a expõe publicamente, como um estandarte de sua fraqueza. O homem de bom senso, no entanto, age com discrição; ele se recolhe ou espera o momento certo, mantendo a calma diante da provocação. 🤫",
+      "referencias": [
+        "Efésios 4:26",
+        "Tiago 1:19"
+      ],
+      "comentario": "A fúria do tolo (*ketsafath*) é imediatamente perceptível. O homem de bom senso ou discreto (*’arûm*) sabe esconder sua ofensa ou esperar que o calor da emoção se dissipe, mostrando domínio próprio.",
+      "temas": [
+        "Controle da Ira",
+        "Discrição",
+        "Teimosia"
+      ],
+      "personagens": [
+        "O Tolo",
+        "O Homem Discreto"
+      ]
     },
     "17": {
-      "parafrase": "Aquele que fala a verdade declara justiça, mas a falsa testemunha fala engano.",
-      "referencias": [],
-      "comentario": "Aquele que fala a verdade promove a justiça, enquanto a falsa testemunha espalha o engano. A verdade é essencial para a retidão.",
-      "temas": ["verdade", "justiça", "falsidade", "engano"],
-      "personagens": []
+      "parafrase": "Aquele que fala a verdade com honestidade e integridade, defendendo o que é justo, muitas vezes parece um denunciante ou um fofoqueiro aos ouvidos de quem prefere a mentira. Mas a pessoa que semeia a falsidade e a calúnia é especialista em distorcer a realidade com palavras suaves e enganosas. 🤥",
+      "referencias": [
+        "Provérbios 6:16-19",
+        "1 Pedro 2:1"
+      ],
+      "comentario": "A 'testemunha fiel' (*’êd ’ĕmet*) sofre desprezo entre os falsos. O caluniador (*dōbēr šeqer*) usa a lábia para encobrir suas ações, uma contradição direta da sinceridade exigida pela sabedoria.",
+      "temas": [
+        "Verdade",
+        "Calúnia",
+        "Integridade na Fala"
+      ],
+      "personagens": [
+        "A Testemunha Fiel",
+        "O Caluniador"
+      ]
     },
     "18": {
-      "parafrase": "Há quem fale impensadamente como as estocadas de uma espada, mas a língua dos sábios é saúde.",
-      "referencias": [],
-      "comentario": "As palavras impensadas podem ferir como uma espada, mas as palavras dos sábios trazem cura e bem-estar. A fala tem poder para o bem e para o mal.",
-      "temas": ["palavras", "ferida", "cura", "sabedoria"],
-      "personagens": []
+      "parafrase": "As palavras duras e irrefletidas de um homem podem ferir o próximo tão profundamente quanto uma espada afiada, cortando a alma. Mas a sabedoria oferece um bálsamo, um remédio para a dor, e as palavras do sábio trazem cura para as feridas emocionais causadas pela imprudência alheia. 🩹",
+      "referencias": [
+        "Hebreus 4:12",
+        "Provérbios 18:8"
+      ],
+      "comentario": "Uso da metáfora bélica: a língua do tolo é como o gume de uma espada (*hereb phiṣu'ah* - espada de transpassar). O sábio oferece palavras que curam (*’êmer meṭuppaḥt* - fala suavizada ou tratada), um conceito de remédio linguístico.",
+      "temas": [
+        "O Poder da Linguagem",
+        "Cura",
+        "Imprudência"
+      ],
+      "personagens": [
+        "O Tolo Falante",
+        "O Sábio Curador"
+      ]
     },
     "19": {
-      "parafrase": "O lábio da verdade permanece para sempre, mas a língua mentirosa dura apenas um momento.",
-      "referencias": [],
-      "comentario": "A verdade é duradoura e eterna, enquanto a mentira é temporária e efêmera. A verdade prevalecerá no final.",
-      "temas": ["verdade", "mentira", "eternidade", "transitoriedade"],
-      "personagens": []
+      "parafrase": "A verdade pronunciada pelos lábios será sempre estabelecida e perdurará, pois ela tem a solidez da própria rocha. Mas a mentira, por mais bem construída que pareça, tem um prazo de validade curto; em pouco tempo, ela será desmascarada e desaparecerá como a miragem no deserto. ☀️",
+      "referencias": [
+        "João 8:32",
+        "Salmos 33:4"
+      ],
+      "comentario": "A permanência da verdade (*’ĕmet*) é garantida. A mentira (*šeqer*), por outro lado, é transitória e instável, destinada ao esquecimento ou à exposição, pois contradiz a ordem divina.",
+      "temas": [
+        "Permanência da Verdade",
+        "Transitoriedade da Mentira",
+        "Revelação"
+      ],
+      "personagens": [
+        "A Verdade",
+        "A Mentira"
+      ]
     },
     "20": {
-      "parafrase": "Engano está no coração dos que tramam o mal, mas alegria para os que aconselham a paz.",
-      "referencias": [],
-      "comentario": "O engano e a maldade estão no coração dos que tramam o mal, enquanto a alegria é para aqueles que promovem a paz. As intenções do coração se manifestam nas ações.",
-      "temas": ["engano", "maldade", "alegria", "paz"],
-      "personagens": []
+      "parafrase": "O engano reside no coração daqueles que conspiram para o mal, planejando como prejudicarão o vizinho. Mas aqueles que buscam a paz e a justiça sentem uma alegria profunda, pois estão tramando formas de beneficiar e reconciliar. A intenção oculta revela a verdadeira natureza. 🤝",
+      "referencias": [
+        "Miquéias 7:3",
+        "Romanos 12:18"
+      ],
+      "comentario": "Este versículo distingue entre os que planejam *rasha* (maldade) e os que planejam *shalom* (paz, integridade). A alegria (*śimchah*) do justo advém de sua intenção pacífica.",
+      "temas": [
+        "Conspiração",
+        "Paz",
+        "Intenção"
+      ],
+      "personagens": [
+        "O Malfeitor",
+        "O Pacificador"
+      ]
     },
     "21": {
-      "parafrase": "Nenhum mal acontecerá ao justo, mas os ímpios serão cheios de problemas.",
-      "referencias": [],
-      "comentario": "O justo é protegido do mal, enquanto o ímpio é cheio de problemas. A retribuição divina é certa.",
-      "temas": ["proteção", "mal", "impiedade", "problemas"],
-      "personagens": []
+      "parafrase": "Nenhum mal atingirá de forma definitiva o justo, pois Deus o guarda em todas as suas tribulações. No entanto, o perverso será atingido por todo o mal que ele planejou lançar sobre os outros. Ele colherá a tempestade que semeou. ⛈️",
+      "referencias": [
+        "Salmos 91:10",
+        "Jó 4:8"
+      ],
+      "comentario": "É uma promessa de proteção divina (*šōmēr*) sobre o justo. O ímpio, ao contrário, torna-se vítima das próprias tramas. O mal que ele projeta retorna a ele como um eco destrutivo.",
+      "temas": [
+        "Proteção Divina",
+        "Retorno do Mal",
+        "Tribulação"
+      ],
+      "personagens": [
+        "O Justo",
+        "O Ímpio"
+      ]
     },
     "22": {
-      "parafrase": "Os lábios mentirosos são abominação para o Senhor, mas aqueles que agem com fidelidade são o seu deleite.",
-      "referencias": [],
-      "comentario": "A mentira é detestável para Deus, enquanto a fidelidade Lhe agrada. A verdade e a integridade são valorizadas por Deus.",
-      "temas": ["mentira", "abominação", "fidelidade", "deleite divino"],
-      "personagens": []
+      "parafrase": "Os lábios que contam mentiras são uma abominação para o Senhor, uma afronta à Sua natureza de Verdade absoluta. Mas aqueles que agem com fidelidade, falando apenas o que é verídico e confiável, são seus favoritos e prazer. 😇",
+      "referencias": [
+        "Provérbios 6:17",
+        "Apocalipse 21:27"
+      ],
+      "comentario": "A mentira é classificada como uma 'abominação' (*tō‘ēbah*), um termo de máxima repulsa divina. A fidelidade (*’ĕmûnîm*) é um atributo desejado por Deus, ligado à Sua própria essência.",
+      "temas": [
+        "Abominação da Mentira",
+        "Fidelidade",
+        "Natureza de Deus"
+      ],
+      "personagens": [
+        "Deus",
+        "Os Mentiras",
+        "Os Fiéis"
+      ]
     },
     "23": {
-      "parafrase": "O homem prudente esconde o conhecimento, mas o coração dos tolos proclama a sua insensatez.",
-      "referencias": [],
-      "comentario": "O homem prudente sabe quando guardar o conhecimento, enquanto o tolo proclama sua própria tolice. A sabedoria se manifesta na discrição.",
-      "temas": ["prudência", "conhecimento", "tolice", "discrição"],
-      "personagens": []
+      "parafrase": "A mente astuta e calculista do homem sem escrúpulos prefere tramando esquemas secretos e manipulações ocultas. Mas o homem de bom senso fala abertamente, sem necessidade de esconder suas palavras ou intenções, pois não tem nada a temer que precise ser dissimulado. 🤫",
+      "referencias": [
+        "Provérbios 29:11",
+        "2 Coríntios 4:2"
+      ],
+      "comentario": "O homem astuto (*’ărûm*) aqui é usado negativamente, tramando em segredo (*m’zimmot*). O homem de bom senso, em contraste, não tem vergonha de ser transparente (*bega’ôn* - abertamente).",
+      "temas": [
+        "Astúcia",
+        "Transparência",
+        "Cálculo Secreto"
+      ],
+      "personagens": [
+        "O Astuto",
+        "O Homem de Bom Senso"
+      ]
     },
     "24": {
-      "parafrase": "A mão dos diligentes governará, mas o preguiçoso será forçado a trabalhar.",
-      "referencias": [],
-      "comentario": "A diligência leva à liderança e ao domínio, enquanto a preguiça leva à servidão. O trabalho árduo é recompensado.",
-      "temas": ["diligência", "liderança", "preguiça", "servidão"],
-      "personagens": []
+      "parafrase": "As mãos dos trabalhadores diligentes e competentes ascenderão a posições de liderança e autoridade. Serão encarregados de grandes responsabilidades. Por outro lado, aqueles que evitam o trabalho árduo e preferem a preguiça serão forçados a servir sob o jugo de outros, tornando-se servos dos que perseveraram. 👑",
+      "referencias": [
+        "Provérbios 10:4",
+        "Provérbios 22:29"
+      ],
+      "comentario": "A promoção (*yad rimmah* - mão estendida para governar) é o prêmio da diligência (*b’eṭel*). A preguiça (*baṭel*) resulta em servidão (*mas*) forçada, uma inversão social natural.",
+      "temas": [
+        "Liderança",
+        "Trabalho Duro",
+        "Servidão por Preguiça"
+      ],
+      "personagens": [
+        "O Diligente",
+        "O Preguiçoso"
+      ]
     },
     "25": {
-      "parafrase": "A ansiedade no coração do homem o abate, mas uma boa palavra o alegra.",
-      "referencias": [],
-      "comentario": "A ansiedade oprime o coração, mas uma palavra de encorajamento traz alegria. As palavras têm poder para edificar ou destruir.",
-      "temas": ["ansiedade", "alegria", "palavras", "encorajamento"],
-      "personagens": []
+      "parafrase": "A ansiedade, o medo excessivo e as preocupações da vida pesam sobre o coração humano como um fardo esmagador, dobrando-o até o chão. Mas uma palavra de encorajamento vinda de um amigo sincero levanta o espírito, trazendo alegria e força para continuar a jornada, como água fresca para um viajante exausto. 💧",
+      "referencias": [
+        "Salmos 38:6",
+        "1 Tessalonicenses 5:14"
+      ],
+      "comentario": "A ansiedade (*beṭar* - aflição, opressão) é descrita como um peso físico. A palavra do sábio (*davar mippei haḥakam*) é comparada a um frescor revitalizante, um remédio imediato para a opressão da alma.",
+      "temas": [
+        "Ansiedade",
+        "Encorajamento",
+        "Fardo"
+      ],
+      "personagens": [
+        "O Ansioso",
+        "O Amigo Sincero"
+      ]
     },
     "26": {
-      "parafrase": "O justo é um guia para o seu próximo, mas o caminho dos ímpios os leva ao erro.",
-      "referencias": [],
-      "comentario": "O justo é um guia para o seu próximo, enquanto o caminho dos ímpios leva ao erro. A retidão traz direção e bênção.",
-      "temas": ["guia", "justiça", "impiedade", "erro"],
-      "personagens": []
+      "parafrase": "O homem justo e reto serve como um farol de esperança para seus amigos e vizinhos. Diferente do ímpio, cuja vida é um lamaçal de decisões duvidosas, a conduta do justo serve de mapa seguro para quem está perdido. Ele não apenas se guarda do mal, mas sua própria existência é um convite aberto para que os outros encontrem um caminho de retidão e paz. Ele é um bom exemplo que ilumina a escuridão da má conduta alheia. 💡",
+      "referencias": [
+        "Salmos 112:1",
+        "Mateus 5:16"
+      ],
+      "comentario": "O termo hebraico para 'justo' (tsaddiq) denota alguém em conformidade com o padrão moral de Deus. A ideia de ser 'resgate' ou 'cuidado' (re'ut) para os outros sugere que a integridade de um indivíduo tem um efeito protetor e redentor na sua comunidade imediata, servindo como um modelo ativo, não apenas passivo. É uma influência benéfica palpável.",
+      "temas": [
+        "Integridade",
+        "Influência Comunitária",
+        "Exemplo Moral"
+      ],
+      "personagens": [
+        "O Justo",
+        "Os Amigos/Vizinhos"
+      ]
     },
     "27": {
-      "parafrase": "O preguiçoso não assa a sua caça, mas o diligente possui riquezas preciosas.",
-      "referencias": [],
-      "comentario": "O preguiçoso não aproveita as oportunidades, enquanto o diligente colhe os frutos de seu trabalho. A diligência traz prosperidade.",
-      "temas": ["preguiça", "diligência", "oportunidade", "riqueza"],
-      "personagens": []
+      "parafrase": "A preguiça e a inércia são inimigas ferozes da prosperidade. Aquele que se recusa a trabalhar duro e a lutar pelo seu sustento desperdiça os bens que a vida lhe oferece. Ele é como um caçador que, por pura moleza ou falta de empenho, deixa sua presa escapar ou sua armadilha vazia. O esforço deliberado e constante é o preço da colheita; a indolência, por outro lado, garante apenas o fracasso e a perda. 🏹💨",
+      "referencias": [
+        "Provérbios 6:10-11",
+        "2 Tessalonicenses 3:10"
+      ],
+      "comentario": "O versículo contrasta a diligência com a preguiça ('atsel'). O verbo para 'assar o que caça' (torêf) implica a preparação completa de um animal capturado. Aquele que não trabalha (é preguiçoso) falha até mesmo no processo final de 'assar' (preparar/consumir) sua caça, indicando que a preguiça paralisa toda a cadeia de ação, impedindo o aproveitamento de qualquer sucesso inicial. 🤦‍♂️",
+      "temas": [
+        "Diligência vs. Preguiça",
+        "Esforço e Recompensa",
+        "Administração de Recursos"
+      ],
+      "personagens": [
+        "O Preguiçoso"
+      ]
     },
     "28": {
-      "parafrase": "No caminho da justiça há vida, e em sua vereda não há morte.",
-      "referencias": [],
-      "comentario": "O caminho da justiça leva à vida, e não à morte. A retidão é a fonte de vida e de bênção eterna.",
-      "temas": ["justiça", "vida", "morte", "caminho"],
-      "personagens": []
+      "parafrase": "No caminho da justiça, encontramos a verdadeira e duradoura satisfação. O caminho percorrido pelo homem íntegro leva à vida abundante, pois a retidão é o próprio tesouro, e não apenas o meio para alcançá-lo. Em contraste, o caminho trilhado pela maldade e pelo engano leva invariavelmente à morte espiritual e ao desastre. Não há estabilidade ou vida no desvio; somente na firmeza da integridade reside a segurança eterna. ⛰️❤️",
+      "referencias": [
+        "Provérbios 14:12",
+        "Romanos 6:23"
+      ],
+      "comentario": "Este versículo oferece uma dicotomia fundamental na sabedoria: o caminho ('meshilah') da justiça ('tsedeq') leva à vida ('chayyim'), enquanto o caminho do engano ('osheq') leva à morte. O termo 'Osheq' sugere opressão ou fraude, indicando que as práticas injustas, embora possam prometer ganhos rápidos, sempre carregam a semente da destruição. A justiça, por sua vez, é o caminho que sustenta a própria vida. ⚖️",
+      "temas": [
+        "Caminhos da Vida e da Morte",
+        "Recompensa da Retidão",
+        "Verdade vs. Fraude"
+      ],
+      "personagens": [
+        "O Homem Íntegro",
+        "O Enganador"
+      ]
     }
   }
 }

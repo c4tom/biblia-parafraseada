@@ -1,274 +1,633 @@
 {
   "livro": "Atos",
   "capitulo": 20,
-  "contexto_historico": "Após o tumulto em Éfeso, Paulo inicia sua jornada de volta a Jerusalém, concluindo sua terceira viagem missionária. Ele viaja pela Macedônia e Grécia, fortalecendo as igrejas. O capítulo destaca a ressurreição de Êutico em Trôade e, mais importante, o discurso de despedida de Paulo aos presbíteros de Éfeso, um dos discursos mais pessoais e emocionantes do apóstolo registrados em Atos.",
-  "bloco_tematico": "Viagem para Jerusalém e Despedida aos Presbíteros de Éfeso",
+  "contexto_historico": "Após a prisão de Paulo e Barnabé em Icônio, e a subsequente perseguição em Listra, onde Paulo é apedrejado e dado como morto, eles milagrosamente se levantam e continuam sua missão. O primeiro grande ciclo missionário (Atos 13-14) termina com o retorno a Antioquia da Síria, onde relatam aos irmãos tudo o que Deus havia feito através deles, incluindo a abertura da porta da fé aos gentios. Este sucesso gera um novo e crucial debate teológico: a necessidade da circuncisão e da observância da Lei de Moisés para a salvação dos gentios convertidos. A Primeira Viagem Missionária estabeleceu a expansão para a Ásia Menor e plantou as primeiras igrejas mistas (judeus e gentios).",
+  "bloco_tematico": "A Controvérsia da Lei e a Missão Universal 🌍📜",
   "versiculos": {
     "1": {
-      "parafrase": "Depois que o tumulto cessou, Paulo mandou chamar os discípulos e, tendo-os encorajado, despediu-se e partiu para a Macedônia.",
-      "referencias": ["Atos 19:23-41"],
-      "comentario": "Após a crise em Éfeso, Paulo garante que a igreja local está encorajada antes de continuar sua viagem, mostrando seu cuidado pastoral.",
-      "temas": ["cuidado pastoral", "encorajamento", "despedida"],
-      "personagens": ["Paulo", "Discípulos"]
+      "parafrase": "Uma vez terminada a agitação e o tumulto, Paulo chamou os discípulos, deu-lhes um encorajamento profundo e, depois de se despedir, pôs-se a caminho da Macedônia.",
+      "referencias": [
+        "Atos 18:23",
+        "1 Coríntios 16:11"
+      ],
+      "comentario": "O verbo grego usado para 'encorajar' ou 'exortar' é 'parakaleo', que implica um chamado próximo, um apelo cheio de afeto e instrução. Paulo estabeleceu uma base de discipulado antes de seguir adiante em sua missão.",
+      "temas": [
+        "Despedida",
+        "Encorajamento",
+        "Continuidade da Missão"
+      ],
+      "personagens": [
+        "Paulo",
+        "Discípulos"
+      ]
     },
     "2": {
-      "parafrase": "Tendo atravessado aquelas regiões e encorajado os irmãos com muitas palavras, chegou à Grécia,",
-      "referencias": [],
-      "comentario": "Paulo revisita as igrejas na Macedônia (como Filipos, Tessalônica e Bereia) e na Acaia (provavelmente Corinto), fortalecendo os crentes.",
-      "temas": ["fortalecimento da igreja", "ministério itinerante"],
-      "personagens": ["Paulo"]
+      "parafrase": "Após percorrer aquelas regiões, fortalecendo a fé dos cristãos com muitas palavras de exortação e ensino, ele finalmente chegou à Grécia.",
+      "referencias": [
+        "2 Coríntios 7:6",
+        "Romanos 15:19"
+      ],
+      "comentario": "A menção de 'muitas palavras de exortação' (muitos discursos ou palavras de conforto) mostra o investimento pastoral de Paulo, não apenas na conversão, mas na edificação da comunidade local.",
+      "temas": [
+        "Edificação da Igreja",
+        "Viagem Missionária",
+        "Ensino"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "3": {
-      "parafrase": "onde ficou por três meses. Quando estava para embarcar para a Síria, os judeus fizeram uma conspiração contra ele, então decidiu voltar pela Macedônia.",
-      "referencias": ["Romanos 15:25-26"],
-      "comentario": "Durante sua estada na Grécia, ele provavelmente escreveu a carta aos Romanos. Uma conspiração para matá-lo durante a viagem de navio o força a mudar seus planos e fazer uma rota mais longa por terra, mostrando a perseguição implacável que ele enfrentava.",
-      "temas": ["conspiração", "perseguição", "mudança de planos", "prudência"],
-      "personagens": ["Paulo", "Judeus"]
+      "parafrase": "Lá, ele permaneceu por três meses. Como havia uma conspiração organizada contra ele por parte dos judeus para apanhá-lo durante a viagem de navio de volta à Síria, ele decidiu retornar pela Macedônia.",
+      "referencias": [
+        "Atos 25:3",
+        "Gálatas 1:18"
+      ],
+      "comentario": "A ameaça judaica era constante. A mudança de rota (revertendo o curso planejado) demonstra a prudência de Paulo em evitar perigos desnecessários, priorizando a pregação sobre o confronto imediato. O grego sugere um plano ('epiboulē') bem articulado para capturá-lo.",
+      "temas": [
+        "Perseguição",
+        "Conspiração",
+        "Prudência"
+      ],
+      "personagens": [
+        "Paulo",
+        "Judeus"
+      ]
     },
     "4": {
-      "parafrase": "Acompanharam-no Sópater, de Bereia, filho de Pirro; Aristarco e Segundo, de Tessalônica; Gaio, de Derbe; Timóteo; e, da província da Ásia, Tíquico e Trófimo.",
-      "referencias": ["1 Coríntios 16:3-4"],
-      "comentario": "Paulo viaja com uma grande equipe de representantes de várias igrejas gentílicas. Eles provavelmente eram os guardiões da coleta que Paulo estava levando para a igreja pobre em Jerusalém, garantindo a transparência e representando a unidade entre as igrejas gentias e a igreja-mãe judaica.",
-      "temas": ["equipe missionária", "representação da igreja", "coleta para Jerusalém", "unidade"],
-      "personagens": ["Sópater", "Aristarco", "Segundo", "Gaio", "Timóteo", "Tíquico", "Trófimo"]
+      "parafrase": "Seus companheiros de viagem incluíam Sópatro, filho de Pirro, de Beréia; Aristarco e Segundo, ambos da Tessalônica; Gaio, de Derbe; e Timóteo, além de Tíquico e Trófimo, da província da Ásia.",
+      "referencias": [
+        "Atos 19:29",
+        "Colossenses 4:10"
+      ],
+      "comentario": "Este versículo é um registro valioso da equipe missionária de Paulo, mostrando a diversidade geográfica dos seus colaboradores (menciona Beréia, Tessalônica, Derbe). Estes indivíduos eram provavelmente delegados ou representantes das igrejas que o acompanhavam com as ofertas.",
+      "temas": [
+        "Companheiros de Viagem",
+        "Colaboração Ministerial",
+        "Missão Coletiva"
+      ],
+      "personagens": [
+        "Sópatro",
+        "Pirro",
+        "Aristarco",
+        "Segundo",
+        "Gaio",
+        "Timóteo",
+        "Tíquico",
+        "Trófimo"
+      ]
     },
     "5": {
-      "parafrase": "Estes, indo adiante, nos esperaram em Trôade.",
-      "referencias": [],
-      "comentario": "Parte da equipe viaja na frente, enquanto Paulo e Lucas (o 'nós' indica que Lucas se juntou novamente à equipe) seguem depois.",
-      "temas": ["logística de viagem"],
-      "personagens": []
+      "parafrase": "Esses homens partiram na frente e nos esperaram em Trôade.",
+      "referencias": [
+        "2 Coríntios 2:12"
+      ],
+      "comentario": "Trôade era um importante porto na Ásia Menor, um ponto de encontro estratégico. Eles chegaram primeiro, preparando o caminho ou aguardando a chegada de Paulo.",
+      "temas": [
+        "Logística da Missão",
+        "Ponto de Encontro"
+      ],
+      "personagens": [
+        "Companheiros de Paulo"
+      ]
     },
     "6": {
-      "parafrase": "Nós, porém, navegamos de Filipos, depois dos dias dos Pães Asmos, e, em cinco dias, chegamos a Trôade, onde nos encontramos com eles e ficamos sete dias.",
-      "referencias": [],
-      "comentario": "Paulo e Lucas celebram a Páscoa e a Festa dos Pães Asmos com a igreja em Filipos antes de partirem. A viagem para Trôade, que antes foi rápida, agora leva cinco dias, indicando ventos contrários.",
-      "temas": ["observância de festas judaicas", "viagem marítima"],
-      "personagens": ["Paulo", "Lucas"]
+      "parafrase": "Nós, no entanto, navegamos de Filipos após a Festa dos Pães Não Fermentados e nos juntamos a eles em Trôade cinco dias depois, onde passamos uma semana inteira.",
+      "referencias": [
+        "1 Coríntios 5:7",
+        "Atos 16:10"
+      ],
+      "comentario": "O relato muda para a primeira pessoa do plural ('nós'), indicando que Lucas, o autor do livro, juntou-se à expedição em Filipos. A menção à Páscoa Judaica ('Pães Não Fermentados') contextualiza o tempo da partida.",
+      "temas": [
+        "Viagem Marítima",
+        "Presença do Autor (Lucas)",
+        "Cronologia Bíblica"
+      ],
+      "personagens": [
+        "Paulo",
+        "Lucas"
+      ]
     },
     "7": {
-      "parafrase": "No primeiro dia da semana, reunimo-nos para partir o pão. Paulo, que pretendia partir no dia seguinte, falava com eles e prolongou o seu discurso até a meia-noite.",
-      "referencias": ["Atos 2:42", "1 Coríntios 16:2"],
-      "comentario": "Esta é uma das primeiras evidências claras de que os cristãos se reuniam para adoração no domingo (o primeiro dia da semana), em comemoração à ressurreição de Cristo. A reunião incluía a Ceia do Senhor (partir o pão) e o ensino. O discurso de Paulo foi excepcionalmente longo por ser sua despedida.",
-      "temas": ["adoração no domingo", "Ceia do Senhor", "ensino", "despedida"],
-      "personagens": ["Paulo"]
+      "parafrase": "No domingo à noite, enquanto estávamos reunidos para partir o pão (a Ceia do Senhor), Paulo começou a falar com eles, pois precisava viajar no dia seguinte.",
+      "referencias": [
+        "Atos 2:42",
+        "1 Coríntios 11:26"
+      ],
+      "comentario": "Este é um dos primeiros registros claros de uma reunião de igreja no primeiro dia da semana (domingo) para a comunhão (partir o pão). Isso estabelece a prática litúrgica dos primeiros cristãos.",
+      "temas": [
+        "Ceia do Senhor",
+        "Reunião Dominical",
+        "Comunhão"
+      ],
+      "personagens": [
+        "Paulo",
+        "Igreja em Trôade"
+      ]
     },
     "8": {
-      "parafrase": "Havia muitas lâmpadas no cenáculo onde estávamos reunidos.",
-      "referencias": [],
-      "comentario": "Lucas, o médico e historiador cuidadoso, anota um detalhe que explica o que acontece a seguir: as muitas lâmpadas teriam consumido o oxigênio e produzido fumaça, contribuindo para a sonolência.",
-      "temas": ["detalhe histórico", "contexto"],
-      "personagens": []
+      "parafrase": "Havia muitas lamparinas acesas no grande aposento superior onde nos reuníamos.",
+      "referencias": [
+        "Atos 1:13",
+        "Juízes 3:24"
+      ],
+      "comentario": "O 'grande aposento superior' (anagaion) era provavelmente o local mais espaçoso disponível, típico de reuniões domésticas. A iluminação abundante sugere uma reunião noturna, prolongada e séria.",
+      "temas": [
+        "Local de Culto",
+        "Ambiente de Reunião"
+      ],
+      "personagens": [
+        "Participantes"
+      ]
     },
     "9": {
-      "parafrase": "Um jovem chamado Êutico, que estava sentado numa janela, foi vencido por um sono profundo enquanto Paulo falava longamente. Caindo do terceiro andar, foi levantado morto.",
-      "referencias": [],
-      "comentario": "Uma tragédia interrompe a reunião. Um jovem adormece durante o longo sermão, cai da janela e morre. Lucas afirma claramente que ele foi 'levantado morto', não apenas inconsciente.",
-      "temas": ["acidente", "morte"],
-      "personagens": ["Êutico", "Paulo"]
+      "parafrase": "Sentado na janela, um jovem chamado Eutíquio, que estava cochilando profundamente por causa do longo discurso de Paulo, caiu da terceira janela e foi encontrado morto.",
+      "referencias": [
+        "1 Reis 17:21",
+        "Êxodo 32:6"
+      ],
+      "comentario": "O nome Eutíquio significa 'sorte' ou 'destino afortunado'. A queda da 'terceira janela' (indicando três andares de altura) resultou em morte aparente. A fadiga causada pela longa pregação (o 'discurso prolixo') é o gatilho do incidente.",
+      "temas": [
+        "Fadiga Espiritual/Física",
+        "Morte",
+        "Milagre Iminente"
+      ],
+      "personagens": [
+        "Eutíquio",
+        "Paulo"
+      ]
     },
     "10": {
-      "parafrase": "Paulo, porém, descendo, inclinou-se sobre ele e, abraçando-o, disse: \"Não se perturbem, pois a sua vida está nele.\"",
-      "referencias": ["1 Reis 17:21", "2 Reis 4:34"],
-      "comentario": "A ação de Paulo ecoa os milagres de ressurreição de Elias e Eliseu. Ele declara com fé que o jovem viverá, mesmo antes de o milagre ser evidente para todos.",
-      "temas": ["ressurreição", "milagre", "fé"],
-      "personagens": ["Paulo", "Êutico"]
+      "parafrase": "Paulo desceu correndo, abraçou o rapaz e, segurando-o junto ao corpo, disse: 'Não se perturbem, pois a vida dele ainda está nele!'",
+      "referencias": [
+        "1 Reis 17:21",
+        "2 Reis 4:34"
+      ],
+      "comentario": "A ação imediata de Paulo ('desceu correndo') e o abraço sobre o corpo lembram as ações de Elias e Eliseu ao restaurar a vida, sugerindo uma ação sobrenatural iminente, com o calor do corpo do apóstolo sendo transmitido.",
+      "temas": [
+        "Restauração da Vida",
+        "Intercessão",
+        "Autoridade Apostólica"
+      ],
+      "personagens": [
+        "Paulo",
+        "Eutíquio"
+      ]
     },
     "11": {
-      "parafrase": "Subindo novamente, partiu o pão e comeu. E, depois de ter falado longamente até o amanhecer, partiu.",
-      "referencias": [],
-      "comentario": "Após o milagre, a reunião continua. Eles celebram a Ceia do Senhor, e Paulo continua a ensinar até o amanhecer, aproveitando ao máximo seu último tempo com eles.",
-      "temas": ["continuidade da adoração", "ensino"],
-      "personagens": ["Paulo"]
+      "parafrase": "Então, ele subiu novamente, partiu o pão e conversou por um longo tempo, até o amanhecer, antes de finalmente sair.",
+      "referencias": [
+        "Atos 2:42",
+        "Lucas 24:30"
+      ],
+      "comentario": "A pregação continuou após o milagre, demonstrando que a ressurreição não foi um evento isolado, mas uma confirmação da mensagem pregada. Eles só pararam ao nascer do sol.",
+      "temas": [
+        "Persistência no Ensino",
+        "Continuidade",
+        "Comunhão Prolongada"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "12": {
-      "parafrase": "E levaram o jovem vivo, e ficaram grandemente consolados.",
-      "referencias": [],
-      "comentario": "O milagre trouxe grande consolo e fortalecimento para a fé da igreja, transformando uma noite de tragédia em um momento de triunfo.",
-      "temas": ["consolo", "fortalecimento da fé"],
-      "personagens": ["Êutico"]
+      "parafrase": "Os homens levaram o rapaz vivo para casa, o que trouxe grande consolo e alegria a todos.",
+      "referencias": [
+        "Atos 15:3",
+        "Lucas 1:29"
+      ],
+      "comentario": "A comprovação do milagre trouxe alívio ('consolo') e alegria, validando a autoridade de Paulo e fortalecendo a fé da comunidade em Trôade.",
+      "temas": [
+        "Consolo",
+        "Restaurado à Vida",
+        "Evidência de Deus"
+      ],
+      "personagens": [
+        "Eutíquio"
+      ]
     },
     "13": {
-      "parafrase": "Nós, porém, indo adiante para o navio, navegamos para Assôs, onde deveríamos receber Paulo; pois assim ele havia determinado, pretendendo ele mesmo ir por terra.",
-      "referencias": [],
-      "comentario": "Paulo opta por caminhar sozinho de Trôade a Assôs (cerca de 32 km), enquanto o resto da equipe vai de navio. Ele talvez quisesse um tempo para oração e reflexão solitária.",
-      "temas": ["solidão e reflexão", "logística de viagem"],
-      "personagens": ["Paulo"]
+      "parafrase": "Nós, o grupo, fomos adiante para o porto, embarcando imediatamente, enquanto Paulo preferiu seguir por terra até Assos, pois queria se juntar a nós lá.",
+      "referencias": [
+        "Atos 16:8",
+        "Marcos 6:45"
+      ],
+      "comentario": "A expedição se dividiu novamente: a maioria (incluindo Lucas) seguiu por mar (mais rápido inicialmente), enquanto Paulo optou por uma caminhada mais longa até Assos, talvez para meditar, visitar contatos ou simplesmente evitar o tumulto do mar após os acontecimentos.",
+      "temas": [
+        "Divisão de Caminhos",
+        "Viagem Terrestre vs. Marítima"
+      ],
+      "personagens": [
+        "Paulo",
+        "Companheiros"
+      ]
     },
     "14": {
-      "parafrase": "Quando se encontrou conosco em Assôs, recebemo-lo a bordo e fomos a Mitilene.",
-      "referencias": [],
-      "comentario": "A equipe se reúne novamente e continua a viagem pela costa da Ásia Menor.",
-      "temas": ["jornada missionária"],
-      "personagens": ["Paulo"]
+      "parafrase": "Quando ele se juntou a nós em Assos, todos nós o embarcamos e navegamos para Mitilene.",
+      "referencias": [
+        "Atos 16:11",
+        "Jeremias 48:23"
+      ],
+      "comentario": "Assos era uma cidade portuária a sudoeste de Trôade. A reunificação do grupo sinaliza o reagrupamento da equipe para o trecho seguinte da jornada.",
+      "temas": [
+        "Reunião do Grupo",
+        "Prosseguimento da Viagem"
+      ],
+      "personagens": [
+        "Paulo",
+        "Companheiros"
+      ]
     },
     "15": {
-      "parafrase": "Navegando dali, chegamos no dia seguinte defronte de Quios; no outro dia, aportamos em Samos e, no dia seguinte, chegamos a Mileto.",
-      "referencias": [],
-      "comentario": "Lucas registra o itinerário detalhado da viagem, mostrando seu cuidado como historiador.",
-      "temas": ["itinerário de viagem"],
+      "parafrase": "No dia seguinte, navegamos de lá e chegamos em frente a Quios; depois, no dia seguinte, aportamos em Samos, e no outro dia chegamos a Mileto.",
+      "referencias": [
+        "Atos 27:7",
+        "Josué 19:25"
+      ],
+      "comentario": "Esta é uma navegação detalhada, parando em ilhas conhecidas (Quios, Samos), indicando que o objetivo era chegar a Éfeso, mas a decisão subsequente (v. 16) os fez pular aquele porto principal.",
+      "temas": [
+        "Trajeto Marítimo",
+        "Navegação Costeira"
+      ],
       "personagens": []
     },
     "16": {
-      "parafrase": "Pois Paulo havia decidido não aportar em Éfeso, para não se demorar na Ásia, porque se apressava para estar em Jerusalém, se possível, no dia de Pentecostes.",
-      "referencias": [],
-      "comentario": "Paulo evita Éfeso para não ser atrasado por seu profundo relacionamento com a igreja de lá. Ele tem pressa de chegar a Jerusalém a tempo para a festa de Pentecostes, talvez para entregar a coleta e fortalecer os laços com a igreja-mãe.",
-      "temas": ["senso de urgência", "planejamento estratégico"],
-      "personagens": ["Paulo"]
+      "parafrase": "Paulo havia decidido passar por Éfeso, mas resolveu não se demorar ali, pois queria muito estar em Jerusalém no dia de Pentecostes, se fosse possível.",
+      "referencias": [
+        "1 Coríntios 16:8",
+        "Atos 18:21"
+      ],
+      "comentario": "O desejo de Paulo de chegar a Jerusalém para Pentecostes ('Hagios Pneuma') era forte. Éfeso, embora importante e onde ele passou tempo significativo, foi preterida desta vez para cumprir um compromisso temporal maior. O termo 'apospēsasthai' indica um desejo de se desligar da parada para seguir adiante.",
+      "temas": [
+        "Compromisso com Jerusalém",
+        "Prioridade Temporal",
+        "Pentecostes"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "17": {
-      "parafrase": "De Mileto, mandou chamar os presbíteros da igreja de Éfeso.",
-      "referencias": [],
-      "comentario": "Como não podia ir a Éfeso, Paulo convoca os líderes da igreja para se encontrarem com ele em Mileto. Isso mostra a importância que ele dava a essa despedida final.",
-      "temas": ["liderança da igreja (presbíteros)", "despedida"],
-      "personagens": ["Paulo"]
+      "parafrase": "De Mileto, ele enviou mensageiros a Éfeso para convocar os líderes e anciãos daquela igreja para um encontro.",
+      "referencias": [
+        "Filipenses 1:1",
+        "Tito 1:5"
+      ],
+      "comentario": "Apesar de não querer parar em Éfeso, Paulo demonstra sua profunda responsabilidade pastoral ao convocar os líderes daquela grande congregação para uma reunião final de exortação e despedida.",
+      "temas": [
+        "Liderança Eclesiástica",
+        "Chamado de Última Hora",
+        "Responsabilidade Pastoral"
+      ],
+      "personagens": [
+        "Paulo",
+        "Líderes de Éfeso"
+      ]
     },
     "18": {
-      "parafrase": "Quando chegaram, disse-lhes: \"Vocês sabem como vivi entre vocês todo o tempo, desde o primeiro dia em que entrei na Ásia,\"",
-      "referencias": [],
-      "comentario": "Paulo começa seu discurso de despedida apelando para seu próprio exemplo. Ele os lembra de sua conduta consistente e transparente durante seus três anos com eles.",
-      "temas": ["exemplo de liderança", "integridade", "transparência"],
-      "personagens": ["Paulo"]
+      "parafrase": "Quando eles chegaram, ele lhes disse: 'Vocês bem sabem como vivi entre vocês durante todo o tempo, desde o meu primeiro dia aqui na Ásia, servindo ao Senhor com humildade, lágrimas e em meio às grandes provações que sofri por causa dos planos malignos dos judeus.'",
+      "referencias": [
+        "1 Tessalonicenses 2:10",
+        "2 Coríntios 4:8-9"
+      ],
+      "comentario": "Paulo apela para a memória deles, destacando três elementos de seu ministério: serviço ('douleia' - servidão), atitude (humildade e lágrimas) e o sofrimento físico e emocional causado pela oposição judaica.",
+      "temas": [
+        "Testemunho Pessoal",
+        "Sofrimento do Apóstolo",
+        "Serviço Humilde"
+      ],
+      "personagens": [
+        "Paulo",
+        "Anciãos de Éfeso"
+      ]
     },
     "19": {
-      "parafrase": "\"servindo ao Senhor com toda a humildade, com lágrimas e com as provações que me sobrevieram pelas conspirações dos judeus.\"",
-      "referencias": [],
-      "comentario": "Ele resume seu ministério em três partes: sua atitude (humildade), sua emoção (lágrimas de preocupação pastoral) e sua circunstância (sofrimento e perseguição).",
-      "temas": ["caráter do líder", "humildade", "sofrimento pastoral", "perseguição"],
-      "personagens": ["Paulo", "Senhor"]
+      "parafrase": "Ele enfatiza que nunca deixou de lhes transmitir a verdade completa, ensinando tanto em público quanto visitando suas casas, sem cessar de pregar tanto aos judeus quanto aos gentios sobre o arrependimento e a fé em nosso Senhor Jesus.",
+      "referencias": [
+        "Atos 18:5",
+        "Romanos 1:16"
+      ],
+      "comentario": "O ensinamento era universal ('judeus e gentios') e abrangente ('em público e nas casas'). O cerne da mensagem era duplo: 'metanoia' (mudança de mente, arrependimento) e confiança total ('pistis') em Cristo.",
+      "temas": [
+        "Universalidade do Evangelho",
+        "Arrependimento",
+        "Fé em Cristo"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "20": {
-      "parafrase": "\"Jamais deixei de lhes anunciar coisa alguma que fosse proveitosa, ensinando-os publicamente e de casa em casa,\"",
-      "referencias": [],
-      "comentario": "Ele afirma a integridade de sua pregação. Ele não reteve nada da verdade de Deus, e seu ensino foi abrangente, tanto em ambientes públicos (escola de Tirano) quanto privados (nas casas).",
-      "temas": ["integridade na pregação", "ensino abrangente"],
-      "personagens": []
+      "parafrase": "De fato, não deixei de pregar nada que fosse útil, seja para instrução pública ou em reuniões particulares; sempre instando a todos para que se arrependessem perante Deus e demonstrassem sua fé em nosso Senhor Jesus Cristo.",
+      "referencias": [
+        "Atos 17:30",
+        "Hebreus 12:1"
+      ],
+      "comentario": "Reforça a completude da pregação ('o que é de proveito'). Paulo cumpriu sua responsabilidade de não omitir nada importante, nem mesmo os aspectos mais difíceis da fé.",
+      "temas": [
+        "Integridade do Ensino",
+        "Instrução Completa",
+        "Chamado à Ação"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "21": {
-      "parafrase": "\"testificando tanto a judeus como a gregos o arrependimento para com Deus e a fé em nosso Senhor Jesus Cristo.\"",
-      "referencias": [],
-      "comentario": "Ele resume o conteúdo de sua mensagem em dois componentes essenciais, para todas as pessoas: arrependimento do pecado em direção a Deus e fé na pessoa e obra de Jesus Cristo.",
-      "temas": ["essência do evangelho", "arrependimento", "fé"],
-      "personagens": ["Deus", "Senhor Jesus Cristo"]
+      "parafrase": "Agora, estou indo para Jerusalém, compelido por um espírito que me urge, sem saber exatamente o que me acontecerá lá, exceto que o Espírito Santo me advertiu repetidamente em cidade após cidade que ciladas e prisões me aguardam.",
+      "referencias": [
+        "Romanos 15:31",
+        "Atos 21:10-11"
+      ],
+      "comentario": "A expressão 'constrangido no meu espírito' (ou 'no espírito') indica uma compulsão interna poderosa, quase física, que sobrepuja o conhecimento do perigo iminente (os avisos proféticos sobre cadeias e tribulações).",
+      "temas": [
+        "Vocação Irresistível",
+        "Perigo Iminente",
+        "Pressão do Espírito Santo"
+      ],
+      "personagens": [
+        "Paulo",
+        "Espírito Santo"
+      ]
     },
     "22": {
-      "parafrase": "\"E agora, compelido pelo Espírito, vou para Jerusalém, não sabendo o que me acontecerá ali,\"",
-      "referencias": [],
-      "comentario": "Paulo expressa sua compulsão interior, guiada pelo Espírito, para ir a Jerusalém, mesmo com um futuro incerto e perigoso.",
-      "temas": ["direção do Espírito Santo", "incerteza", "obediência"],
-      "personagens": ["Paulo", "Espírito"]
+      "parafrase": "Mas, de qualquer forma, sigo meu caminho para Jerusalém, pois preciso ir, mesmo sem saber a exata natureza do sofrimento que me espera.",
+      "referencias": [
+        "Filipenses 3:12",
+        "2 Timóteo 4:6"
+      ],
+      "comentario": "O paradoxo da fé: conhecimento do sofrimento versus a obediência inquestionável ao chamado. O foco não é a segurança pessoal, mas o cumprimento do dever designado.",
+      "temas": [
+        "Obediência ao Chamado",
+        "Sacrifício Pessoal",
+        "Destino"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "23": {
-      "parafrase": "\"a não ser que o Espírito Santo me adverte em cada cidade, dizendo que prisões e tribulações me esperam.\"",
-      "referencias": ["Atos 21:4, 11"],
-      "comentario": "Embora não saiba os detalhes, ele tem uma certeza profética, confirmada pelo Espírito em várias cidades, de que o sofrimento o aguarda em Jerusalém.",
-      "temas": ["advertência profética", "sofrimento predito", "tribulação"],
-      "personagens": ["Espírito Santo"]
+      "parafrase": "A única certeza que tenho é que, em cada cidade que visito, o Espírito Santo me adverte que sofrerei prisão e aflição.",
+      "referencias": [
+        "Atos 9:16",
+        "2 Coríntios 11:23"
+      ],
+      "comentario": "Esta é uma advertência consistente. O termo 'cidade por cidade' ('kat' holéin polein') mostra que a perseguição era uma constante na rota de Paulo, não um evento isolado.",
+      "temas": [
+        "Aviso Profético",
+        "Tribulação Constante",
+        "Consistência da Oposição"
+      ],
+      "personagens": [
+        "Paulo",
+        "Espírito Santo"
+      ]
     },
     "24": {
-      "parafrase": "\"Porém, não considero a minha vida preciosa para mim mesmo, contanto que eu complete a minha carreira e o ministério que recebi do Senhor Jesus, para dar testemunho do evangelho da graça de Deus.\"",
-      "referencias": ["Filipenses 1:20-21", "2 Timóteo 4:7"],
-      "comentario": "Esta é uma das declarações mais poderosas de Paulo sobre seu propósito de vida. Sua vida pessoal não tem valor em comparação com o cumprimento da missão que Cristo lhe deu: pregar o evangelho da graça de Deus. A fidelidade à sua chamada é sua prioridade máxima.",
-      "temas": ["propósito de vida", "fidelidade", "ministério", "evangelho da graça"],
-      "personagens": ["Paulo", "Senhor Jesus", "Deus"]
+      "parafrase": "Contudo, nada disso me importa, nem dou valor à minha vida, contanto que eu possa completar a missão que o Senhor Jesus me confiou, que é testemunhar sobre a graça do evangelho de Deus.",
+      "referencias": [
+        "2 Timóteo 4:7",
+        "Filipenses 1:21"
+      ],
+      "comentario": "Esta é a declaração máxima de propósito. Paulo desvaloriza a própria vida ('o meu 'brechei' [vida] para mim não tem valor') em função do seu 'telos' (propósito final), que é cumprir o 'diakonia' (ministério) recebido de Jesus.",
+      "temas": [
+        "Propósito Maior",
+        "Desapego da Vida",
+        "Missão Apostólica"
+      ],
+      "personagens": [
+        "Paulo",
+        "Senhor Jesus"
+      ]
     },
     "25": {
-      "parafrase": "\"E agora, sei que nenhum de vocês, entre os quais passei pregando o reino, verá o meu rosto novamente.\"",
-      "referencias": [],
-      "comentario": "Paulo expressa sua convicção de que esta é sua despedida final, o que torna o momento ainda mais solene e comovente.",
-      "temas": ["despedida final", "solenidade"],
-      "personagens": ["Paulo"]
+      "parafrase": "E agora eu sei, com absoluta certeza, que vocês, a quem tenho visitado para lhes anunciar o Reino de Deus, jamais verão meu rosto novamente.",
+      "referencias": [
+        "Atos 15:39",
+        "2 Timóteo 4:6"
+      ],
+      "comentario": "Esta é uma despedida final e profética. Paulo reconhece que a natureza de sua prisão e a urgência de sua missão (que o levaria à prisão) significam que ele não voltará àquela comunidade. É um adeus solene e definitivo.",
+      "temas": [
+        "Despedida Final",
+        "Profecia de Não Retorno",
+        "O Reino de Deus"
+      ],
+      "personagens": [
+        "Paulo",
+        "Líderes de Éfeso"
+      ]
     },
     "26": {
-      "parafrase": "\"Portanto, eu lhes declaro hoje que estou limpo do sangue de todos.\"",
-      "referencias": ["Ezequiel 33:6"],
-      "comentario": "Ele declara sua inocência, como um vigia que deu o aviso. Ele pregou fielmente todo o evangelho, e a responsabilidade pela resposta agora recai sobre seus ouvintes.",
-      "temas": ["responsabilidade cumprida", "inocência"],
-      "personagens": []
+      "parafrase": "Portanto, eu declaro solenemente diante de vocês hoje: estou livre de qualquer culpa pelo sangue de vocês, pois não me omiti de anunciar tudo o que Deus planejou, entregando-lhes a mensagem completa, sem esconder nenhuma parte essencial.",
+      "referencias": [
+        "Ezequiel 3:19",
+        "Atos 18:6"
+      ],
+      "comentario": "Paulo usa uma linguagem forte de responsabilidade legal e moral, semelhante a um sacrifício de purificação (talvez ecoando o ritual do pássaro no Levítico 14, embora sem o ritual em si). Ele declara sua 'limpeza' (katharos) da responsabilidade pelo destino espiritual deles, pois cumpriu seu dever de mensageiro, o 'plano de Deus' (boule = conselho, propósito).",
+      "temas": [
+        "Responsabilidade Ministerial",
+        "Integridade",
+        "Plano Divino"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "27": {
-      "parafrase": "\"Pois não hesitei em lhes proclamar todo o conselho de Deus.\"",
-      "referencias": [],
-      "comentario": "Ele reafirma a integridade de seu ensino. Ele não escolheu as partes fáceis, mas ensinou a totalidade da revelação de Deus.",
-      "temas": ["pregação fiel", "totalidade da verdade"],
-      "personagens": ["Deus"]
+      "parafrase": "Porque eu não deixei de lhes falar sobre o desígnio total de Deus; eu não recuei em proclamar cada detalhe do Seu propósito.",
+      "referencias": [
+        "Jeremias 20:9",
+        "1 Coríntios 2:2"
+      ],
+      "comentario": "Aqui, Paulo enfatiza a totalidade da revelação. Ele não ensinou apenas o que era fácil ou popular, mas o 'conselho completo' (pasa heboule tou Theou). Isso estabelece o contraste com a inevitável rejeição que ele antecipa.",
+      "temas": [
+        "Plenitude da Mensagem",
+        "Confronto com a Verdade"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "28": {
-      "parafrase": "\"Cuidem de si mesmos e de todo o rebanho sobre o qual o Espírito Santo os constituiu bispos, para pastorearem a igreja de Deus, que ele comprou com o seu próprio sangue.\"",
-      "referencias": ["1 Pedro 5:2", "Efésios 1:7"],
-      "comentario": "Paulo agora se volta para os presbíteros com uma exortação. Primeiro, eles devem cuidar de sua própria vida espiritual. Segundo, devem pastorear o rebanho de Deus. Ele enfatiza que sua posição é uma nomeação do Espírito Santo e que o valor da igreja é imenso, pois foi comprada com o sangue do próprio Cristo (uma forte afirmação da divindade de Jesus e do valor da expiação).",
-      "temas": ["exortação à liderança", "cuidado pessoal", "pastoreio", "nomeação divina", "valor da igreja", "expiação"],
-      "personagens": ["Espírito Santo", "Bispos (Presbíteros)", "Deus/Jesus"]
+      "parafrase": "Portanto, prestem muita atenção a si mesmos e a todo o rebanho que o Espírito Santo lhes confiou para pastorear. Vocês são os guardiões desta igreja, que Ele mesmo comprou com o Seu próprio sangue precioso. 🩸",
+      "referencias": [
+        "1 Pedro 5:2",
+        "Hebreus 10:29"
+      ],
+      "comentario": "Este é um momento crucial de transferência de liderança e um lembrete da origem divina da autoridade e do valor da igreja. O termo 'cuidar' ou 'pastorear' (poimainein) é direto. O aspecto mais chocante teologicamente é a alegação de que Deus (o Pai, ou o Filho, dependendo da leitura do grego) adquiriu a igreja com 'o Seu próprio sangue' (haimatos idiou), sublinhando o custo supremo da redenção.",
+      "temas": [
+        "Cuidado Eclesiástico",
+        "O Preço da Redenção",
+        "Soberania do Espírito Santo"
+      ],
+      "personagens": [
+        "Paulo",
+        "Anciãos de Éfeso",
+        "Espírito Santo"
+      ]
     },
     "29": {
-      "parafrase": "\"Sei que, depois da minha partida, lobos ferozes penetrarão no meio de vocês e não pouparão o rebanho.\"",
-      "referencias": ["Mateus 7:15"],
-      "comentario": "Ele adverte sobre o perigo futuro de falsos mestres que virão de fora da igreja para destruir o rebanho.",
-      "temas": ["advertência profética", "falsos mestres", "perigo externo"],
-      "personagens": []
+      "parafrase": "Eu sei, com certeza, que depois que eu me for, lobos selvagens e cruéis infiltrar-se-ão entre vocês, dispostos a rasgar o rebanho e levá-lo à ruína.",
+      "referencias": [
+        "Mateus 7:15",
+        "2 Timóteo 4:3"
+      ],
+      "comentario": "Paulo usa a metáfora clássica do 'lobo' (lykoi), um falso mestre ou perseguidor, que não apenas afasta, mas destrói. O verbo grego é enfático: eles virão 'depois da minha partida' (apoleiēs), predizendo heresias futuras e divisões.",
+      "temas": [
+        "Falsos Mestres",
+        "Ameaça Interna",
+        "Profecia"
+      ],
+      "personagens": [
+        "Paulo",
+        "Lobos"
+      ]
     },
     "30": {
-      "parafrase": "\"E dentre vocês mesmos se levantarão homens que torcerão a verdade, a fim de atrair os discípulos para si.\"",
-      "referencias": ["2 Pedro 2:1"],
-      "comentario": "Ele também adverte sobre um perigo ainda mais insidioso: líderes que surgirão de dentro da própria igreja, distorcendo a verdade por motivos egoístas de poder e influência.",
-      "temas": ["perigo interno", "apostasia", "motivações egoístas"],
-      "personagens": []
+      "parafrase": "E, o que é pior, pessoas de dentro do próprio grupo de vocês se levantarão, falando coisas distorcidas e perigosas, tentando arrastar os discípulos mais jovens e inexperientes para longe da verdade.",
+      "referencias": [
+        "1 Timóteo 1:19-20",
+        "2 Pedro 2:1"
+      ],
+      "comentario": "Este versículo detalha a ameaça: o perigo não vem apenas de fora, mas de 'entre vós mesmos' (ex hymin autoôn). A distorção do ensinamento (diastrepomena lalein) visa deliberadamente 'puxar os discípulos' (apospason tous mathētas), indicando uma ação premeditada para causar cisma.",
+      "temas": [
+        "Divisões Internas",
+        "Heresia",
+        "Distortion of Doctrine"
+      ],
+      "personagens": [
+        "Líderes Apóstatas"
+      ]
     },
     "31": {
-      "parafrase": "\"Portanto, vigiem! Lembrem-se de que, durante três anos, noite e dia, jamais cessei de admoestar a cada um de vocês com lágrimas.\"",
-      "referencias": [],
-      "comentario": "Ele os chama à vigilância, lembrando-os novamente de seu próprio exemplo de ministério diligente, persistente e emocionalmente investido.",
-      "temas": ["vigilância", "exemplo pastoral", "diligência"],
-      "personagens": []
+      "parafrase": "Por isso, permaneçam vigilantes! Lembrem-se de que, por três anos inteiros, noite e dia, eu não parei de exortar cada um de vocês, inclusive chorando fervorosamente. 😢",
+      "referencias": [
+        "1 Tessalonicenses 2:11",
+        "2 Coríntios 11:28"
+      ],
+      "comentario": "O contraste com os falsos mestres é a vigilância incansável de Paulo. O verbo 'vigiar' (grēgorēte) denota um estado de alerta constante. A menção do choro ('dakruôn') mostra a profundidade de seu cuidado pastoral e a dor que ele sentia ao prever o futuro.",
+      "temas": [
+        "Vigilância Pastoral",
+        "Exortação",
+        "Sacrifício Emocional"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "32": {
-      "parafrase": "\"Agora, pois, eu os encomendo a Deus e à palavra da sua graça, que tem poder para edificá-los e dar-lhes herança entre todos os que são santificados.\"",
-      "referencias": ["Hebreus 4:12"],
-      "comentario": "Em sua despedida, ele não os confia a um sucessor humano, mas a Deus e à Sua Palavra. Ele afirma que a Palavra da graça é suficiente para edificar a igreja e garantir sua herança eterna.",
-      "temas": ["confiança em Deus e na Palavra", "poder da Palavra", "edificação", "herança"],
-      "personagens": ["Deus"]
+      "parafrase": "Agora, eu os entrego nas mãos de Deus e da palavra da Sua graça, que é poderosa o suficiente para edificá-los e dar-lhes um lugar entre todos os que foram separados para Ele — aqueles que são santificados.",
+      "referencias": [
+        "Judas 1:24",
+        "Romanos 16:25"
+      ],
+      "comentario": "Este é o ato final de entrega: de si mesmo para Deus. A 'palavra da graça' (tou logou tēs charitos autou) é a arma de defesa contra a heresia. Ela tem o poder duplo de 'edificar' (oikodēsai) a fé e garantir a 'herança' (klērou) entre os santos, reafirmando a posse eterna deles.",
+      "temas": [
+        "Entrega a Deus",
+        "Poder da Palavra",
+        "Santificação"
+      ],
+      "personagens": [
+        "Paulo",
+        "Deus"
+      ]
     },
     "33": {
-      "parafrase": "\"Não cobicei a prata, o ouro ou as vestes de ninguém.\"",
-      "referencias": [],
-      "comentario": "Ele reafirma sua integridade financeira, mostrando que seu ministério não foi motivado pela ganância.",
-      "temas": ["integridade financeira", "motivação pura"],
-      "personagens": []
+      "parafrase": "Eu nunca desejei o dinheiro ou as roupas de ninguém, mesmo sabendo que vocês possuíam bens valiosos.",
+      "referencias": [
+        "1 Samuel 12:3",
+        "2 Coríntios 11:9"
+      ],
+      "comentario": "Paulo reafirma sua integridade financeira para remover qualquer suspeita de motivação egoísta. Ele se abstém de reivindicar qualquer direito material sobre eles, mesmo que soubesse que a comunidade em Éfeso era próspera.",
+      "temas": [
+        "Desinteresse Material",
+        "Serviço Desinteressado"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "34": {
-      "parafrase": "\"Vocês mesmos sabem que estas minhas mãos serviram para as minhas necessidades e as dos que estavam comigo.\"",
-      "referencias": ["Atos 18:3"],
-      "comentario": "Ele lembra que trabalhou com as próprias mãos para se sustentar, provando sua abnegação.",
-      "temas": ["autossustento", "abnegação"],
-      "personagens": []
+      "parafrase": "Na verdade, vocês mesmos testemunham que minhas mãos trabalharam para suprir minhas próprias necessidades e as necessidades daqueles que estiveram comigo.",
+      "referencias": [
+        "1 Tessalonicenses 4:11",
+        "2 Tessalonicenses 3:8"
+      ],
+      "comentario": "Ele prova sua autossuficiência pelo trabalho manual, uma prática comum entre apóstolos (como os coríntios viram). Isso anula a possibilidade de que ele tenha usado o ministério como meio de ganho ilícito.",
+      "temas": [
+        "Trabalho Manual",
+        "Autossustentabilidade"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "35": {
-      "parafrase": "\"Em tudo lhes mostrei que, trabalhando assim, é necessário socorrer os fracos e lembrar as palavras do Senhor Jesus, que disse: 'Mais bem-aventurado é dar do que receber.'\"",
-      "referencias": [],
-      "comentario": "Ele apresenta seu trabalho não apenas como um meio de sustento, mas como um exemplo para que eles também trabalhem para ajudar os necessitados. Ele conclui citando uma frase de Jesus que não está registrada nos Evangelhos, mas que foi preservada na tradição oral da igreja, resumindo o princípio da generosidade cristã.",
-      "temas": ["generosidade", "ajuda aos necessitados", "exemplo de trabalho", "dito de Jesus"],
-      "personagens": ["Senhor Jesus"]
+      "parafrase": "Em tudo, mostrei a vocês que, trabalhando arduamente, é preciso apoiar os fracos e lembrar as palavras do próprio Senhor Jesus, que disse: 'Há mais felicidade em dar do que em receber'. 🥰",
+      "referencias": [
+        "Lucas 12:33",
+        "Filipenses 4:15-16"
+      ],
+      "comentario": "Este é o único exemplo direto de uma citação de Jesus não registrada nos quatro Evangelhos canônicos! Este ditado (logion) de Jesus ('makarion to didonai ē to lambanein') encapsula a filosofia de serviço de Paulo, ligando o trabalho árduo à generosidade, e não à acumulação.",
+      "temas": [
+        "Generosidade",
+        "Princípios de Jesus",
+        "Fortalecimento dos Fracos"
+      ],
+      "personagens": [
+        "Paulo",
+        "Jesus Cristo"
+      ]
     },
     "36": {
-      "parafrase": "Tendo dito isso, ajoelhou-se com todos eles e orou.",
-      "referencias": [],
-      "comentario": "O discurso termina com um ato de comunhão e dependência de Deus: a oração conjunta.",
-      "temas": ["oração", "comunhão", "dependência de Deus"],
-      "personagens": ["Paulo"]
+      "parafrase": "Após dizer isso, ele se ajoelhou junto a eles e orou com profunda ternura e afeto.",
+      "referencias": [
+        "Lucas 22:41",
+        "Atos 21:5"
+      ],
+      "comentario": "O ato físico de se ajoelhar (tithēmenos ta genou) demonstra humildade profunda e devoção. Este momento, após a repreensão e o ensinamento, é carregado de emoção e solidifica a conexão pastoral antes da separação final.",
+      "temas": [
+        "Oração",
+        "Humildade",
+        "Despedida"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "37": {
-      "parafrase": "Houve grande choro entre todos e, abraçando a Paulo, o beijavam,",
-      "referencias": [],
-      "comentario": "A despedida é cheia de emoção e afeto, mostrando o profundo vínculo de amor entre Paulo e os líderes da igreja de Éfeso.",
-      "temas": ["emoção", "amor fraternal", "despedida"],
-      "personagens": ["Paulo"]
+      "parafrase": "E então todos caíram sobre ele, abraçando-o com grande demonstração de carinho e saudade.",
+      "referencias": [
+        "Gênesis 33:4",
+        "Romanos 16:16"
+      ],
+      "comentario": "A reação física é avassaladora: 'grandes abraços e beijos' (pollon philēmata). Isso contrasta dramaticamente com a condenação que os inimigos de Paulo geralmente lhe dirigiam, provando o amor sincero que ele havia conquistado em Éfeso.",
+      "temas": [
+        "Afeto Pastoral",
+        "Luto pela Separação",
+        "Amor Mútuo"
+      ],
+      "personagens": [
+        "Paulo",
+        "Anciãos de Éfeso"
+      ]
     },
     "38": {
-      "parafrase": "entristecidos, principalmente, pela palavra que ele havia dito, de que não veriam mais o seu rosto. E o acompanharam até o navio.",
-      "referencias": [],
-      "comentario": "A maior fonte de tristeza era a finalidade da despedida. Eles o acompanham até o navio, um último ato de honra e afeto.",
-      "temas": ["tristeza", "despedida final"],
-      "personagens": ["Paulo"]
+      "parafrase": "O que mais os entristecia era a sua última declaração: que jamais veriam o rosto dele novamente. E assim, eles o acompanharam até o navio, com o coração pesado. 💔",
+      "referencias": [
+        "Atos 15:35",
+        "Romanos 15:24"
+      ],
+      "comentario": "A dor suprema era a finalidade da partida. A certeza de que não haveria retorno ('ou maketi theōrēsōtin to prosōpon mou') confirma a natureza definitiva daquela despedida, selando a relação com uma nota de melancolia profunda.",
+      "temas": [
+        "Despedida Definitiva",
+        "Dor da Separação",
+        "Fidelidade Comunitária"
+      ],
+      "personagens": [
+        "Paulo",
+        "Anciãos de Éfeso"
+      ]
     }
   }
 }

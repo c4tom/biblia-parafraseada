@@ -1,147 +1,328 @@
 {
   "livro": "Isaías",
   "capitulo": 32,
-  "contexto_historico": "Este capítulo contrasta o presente estado de complacência e liderança injusta com um futuro glorioso sob o reinado de um rei justo. Começa com uma visão do reino messiânico, onde a justiça e a retidão prevalecerão. Em seguida, o profeta se volta para as mulheres complacentes de Jerusalém, advertindo-as sobre um juízo iminente. O capítulo termina com a promessa da vinda do Espírito de Deus, que transformará a terra e o povo, trazendo paz e segurança permanentes.",
-  "bloco_tematico": "O Rei Justo e o Espírito Derramado",
+  "contexto_historico": "O livro de Isaías está inserido no século VIII a.C., durante um período de intensa instabilidade política e ameaça externa para o Reino de Judá (liderado por Jerusalém). O profeta Isaías atua sob os reinados de Uzias, Jotão, Acaz e Ezequias. Este capítulo, em particular, reflete o auge da ameaça assíria, personificada por Senaqueribe, que já havia sitiado e ameaçado Jerusalém. Há um contraste claro entre a confiança humana em alianças políticas (especialmente com o Egito) e a soberania inabalável de Yahweh como o único protetor de Sião. O povo frequentemente se volta para ídolos ou potências estrangeiras em vez de confiar em Deus, apesar das promessas divinas de fidelidade. 📜🛡️",
+  "bloco_tematico": "A Soberania de Deus Revelada: O Reinado do Rei Justo e a Destruição dos Ímpios 👑🔥",
   "versiculos": {
     "1": {
-      "parafrase": "Vejam, um rei reinará com justiça, e príncipes governarão com retidão.",
-      "referencias": ["Isaías 9:7", "Jeremias 23:5"],
-      "comentario": "A profecia se abre com uma visão do futuro reino messiânico. Em contraste com os líderes corruptos da época de Isaías, o futuro Rei (o Messias) e seus líderes governarão com base na justiça e na retidão perfeitas.",
-      "temas": ["reino messiânico", "rei justo", "justiça", "retidão"],
-      "personagens": ["Rei (Messias)"]
+      "parafrase": "Ai daquele dia terrível que virá quando a nação for governada por líderes déspotas e corruptos! A nação estará sob o domínio de reis que agem como tiranos, corrompidos e sem qualquer vestígio de justiça ou temor a Deus. Eles prometem paz e segurança aos nobres e poderosos, mas na verdade, estão tecendo planos de opressão e exploração contra os mais fracos.",
+      "referencias": [
+        "Isaías 1:23",
+        "Jeremias 22:13"
+      ],
+      "comentario": "O 'Ai' (Hebraico: \"Hôy\") é um lamento profético de juízo iminente. O foco inicial é a liderança política corrompida, os príncipes (שָׂרִים, *sarim*) e os conselheiros. A descrição de que eles se apoiam em servos (ou conselheiros) que 'fazem segundo a sua vontade' aponta para uma corte onde a bajulação e o interesse próprio superam a retidão. A falsidade da 'paz' prometida aos líderes é um tema recorrente de condenação divina.",
+      "temas": [
+        "Juízo",
+        "Liderança Corrupta",
+        "Hipocrisia Política"
+      ],
+      "personagens": [
+        "Líderes Ímpios"
+      ]
     },
     "2": {
-      "parafrase": "Cada um deles será como um esconderijo contra o vento e um refúgio contra a tempestade, como correntes de água em terra seca e como a sombra de uma grande rocha em terra sedenta.",
-      "referencias": ["Isaías 4:6"],
-      "comentario": "A liderança justa não será opressora, mas protetora e provedora. Eles oferecerão segurança, refrigério e alívio para o povo, como um abrigo em meio às dificuldades da vida.",
-      "temas": ["liderança servidora", "proteção", "refrigério", "segurança"],
-      "personagens": []
+      "parafrase": "O Senhor dos Exércitos, nosso Deus poderoso, removerá todo o suporte e segurança que esses tiranos utilizam para se sustentar. Ele cortará o suprimento de tudo o que é essencial para a vida e a estabilidade da cidade: o pão farto, símbolo de sustento, e a água cristalina, símbolo de vida e purificação. A escassez virá como um castigo inevitável.",
+      "referencias": [
+        "Lamentações 4:4",
+        "Ezequiel 4:16"
+      ],
+      "comentario": "A remoção do 'apoio' (Hebraico: *mish'an*) e da 'vara' (Hebraico: *mish'eneth*), juntamente com o 'pão' e a 'água', simboliza a destruição total da ordem social e da provisão básica. Deus age diretamente para desmantelar a autossuficiência humana. Esta é uma imagem clara de sítio ou desastre natural provocado pelo julgamento.",
+      "temas": [
+        "Destruição da Ordem",
+        "Sustento Divino",
+        "Fome e Sede"
+      ],
+      "personagens": [
+        "Senhor dos Exércitos"
+      ]
     },
     "3": {
-      "parafrase": "Então os olhos dos que veem não estarão mais fechados, e os ouvidos dos que ouvem prestarão atenção.",
-      "referencias": ["Isaías 29:18"],
-      "comentario": "No reino messiânico, a cegueira e a surdez espirituais serão curadas. As pessoas terão a capacidade de perceber e entender a verdade de Deus.",
-      "temas": ["cura espiritual", "visão", "audição"],
-      "personagens": []
+      "parafrase": "Ele fará desaparecer o homem forte, o guerreiro valente, o juiz sábio, o profeta experiente, o adivinho perspicaz, o ancião respeitado, o capitão de cinquenta, o homem de posição honrada e o conselheiro experiente em palavras sábias, até mesmo o artesão habilidoso que sabe trabalhar com as mãos.",
+      "referencias": [
+        "Isaías 3:3",
+        "Provérbios 2:4"
+      ],
+      "comentario": "Esta é uma enumeração exaustiva das colunas da sociedade, mostrando que o juízo de Deus não poupa nenhuma classe profissional ou social. A perda do 'homem forte' (guerreiro), do 'juiz' (justiça) e do 'profeta' (orientação espiritual) significa o colapso total da estrutura social, militar e moral da nação.",
+      "temas": [
+        "Colapso Social",
+        "Perda de Autoridade",
+        "Juízo Universal"
+      ],
+      "personagens": [
+        "Guerreiros",
+        "Juízes",
+        "Profetas",
+        "Artesãos"
+      ]
     },
     "4": {
-      "parafrase": "A mente dos precipitados aprenderá a ter discernimento, e a língua dos gagos falará com clareza e fluência.",
-      "referencias": [],
-      "comentario": "Haverá uma transformação intelectual e de comunicação. Aqueles que antes eram impulsivos e confusos ganharão sabedoria, e aqueles que tinham dificuldade para falar a verdade o farão com clareza.",
-      "temas": ["transformação mental", "discernimento", "clareza"],
-      "personagens": []
+      "parafrase": "E mais, farei de meninos os meus governantes, e crianças exercerão o domínio sobre vocês. As crianças, por sua imaturidade e inexperiência, serão postas como líderes, e o povo passará a ser governado por aqueles que não têm a menor capacidade de liderar com sabedoria.",
+      "referencias": [
+        "Isaías 19:4",
+        "Eclesiastes 10:16"
+      ],
+      "comentario": "A metáfora de usar 'meninos' (Hebraico: *na'arim*) como governantes é uma hipérbole poderosa para expressar o caos e a falta de competência. Quando os adultos capazes são removidos, o vácuo é preenchido pela inexperiência. Isso sugere um estado de anarquia funcional e desgoverno total, onde a autoridade é ridícula e ineficaz.",
+      "temas": [
+        "Incompetência na Liderança",
+        "Caos Governamental",
+        "Imaturidade"
+      ],
+      "personagens": [
+        "Meninos (Governante Metafóricos)"
+      ]
     },
     "5": {
-      "parafrase": "O tolo não será mais chamado de nobre, nem o desonesto, de honrado.",
-      "referencias": [],
-      "comentario": "A verdade prevalecerá. As falsas reputações serão desmascaradas. As pessoas serão vistas e chamadas pelo que realmente são. A hipocrisia e a desonestidade não serão mais exaltadas.",
-      "temas": ["verdade", "justiça", "fim da hipocrisia"],
-      "personagens": []
+      "parafrase": "O povo sofrerá terrivelmente em seus relacionamentos, pois um oprimirá ao outro, e o vizinho se voltará contra o vizinho. O jovem agirá com arrogância contra o idoso, e o homem comum desprezará a pessoa de posição elevada. Não haverá respeito mútuo ou ordem nas interações humanas.",
+      "referencias": [
+        "Miquéias 7:6",
+        "Provérbios 16:18"
+      ],
+      "comentario": "A desintegração social prossegue internamente. A inversão de papéis hierárquicos ('o jovem contra o ancião') é um sinal de que as estruturas tradicionais de respeito e deferência foram pulverizadas. A opressão mútua transforma a comunidade em um campo de batalha de egos e interesses.",
+      "temas": [
+        "Desordem Social",
+        "Inversão de Valores",
+        "Arrogância"
+      ],
+      "personagens": [
+        "Vizinhos",
+        "Jovens",
+        "Anciãos"
+      ]
     },
     "6": {
-      "parafrase": "Pois o tolo fala tolices, e o seu coração planeja a iniquidade; ele pratica a impiedade e espalha o erro a respeito do Senhor, deixando o faminto de estômago vazio e privando o sedento de bebida.",
-      "referencias": [],
-      "comentario": "O profeta define a natureza do 'tolo': suas palavras são vazias, suas intenções são más, ele se opõe a Deus e oprime os necessitados.",
-      "temas": ["natureza da tolice", "iniquidade", "opressão"],
-      "personagens": []
+      "parafrase": "Nesta época de desespero, um homem agarrará seu irmão, que pertence à sua própria família, e dirá: 'Você tem um manto! Você será o nosso líder, já que você tem algo de valor! Tome a responsabilidade de nos guiar, pois você tem o que precisamos para sobreviver.'",
+      "referencias": [
+        "Oseias 2:9",
+        "Judite 8:9"
+      ],
+      "comentario": "O critério de liderança muda drasticamente: não é mais sabedoria ou justiça, mas a posse de recursos materiais ('um manto', símbolo de status ou capacidade de provisão). Isso reflete uma sociedade desesperada que valoriza a sobrevivência material acima da competência moral ou política.",
+      "temas": [
+        "Materialismo",
+        "Desespero",
+        "Liderança Utilitária"
+      ],
+      "personagens": [
+        "Irmãos"
+      ]
     },
     "7": {
-      "parafrase": "As artimanhas do desonesto são más; ele trama planos perversos para arruinar os pobres com mentiras, mesmo quando o pleito do necessitado é justo.",
-      "referencias": ["Miquéias 2:1"],
-      "comentario": "O 'desonesto' usa de engano e conspiração para explorar os pobres, pervertendo a justiça para seu próprio ganho.",
-      "temas": ["desonestidade", "engano", "injustiça"],
-      "personagens": []
+      "parafrase": "Naquele dia, o outro, embora igualmente necessitado, levantará sua voz em protesto, dizendo: 'Eu não aceitarei ser seu líder! Eu não sou um curador de feridas! Em minha casa não há pão nem vestes; vocês não podem me colocar como responsável por nada disso!'",
+      "referencias": [
+        "Jonas 4:3",
+        "Jeremias 48:45"
+      ],
+      "comentario": "A recusa em assumir a liderança demonstra a consciência do fardo e da impossibilidade de sucesso sob as circunstâncias atuais. O rejeitado afirma sua pobreza ('não há pão nem vestes'), sublinhando a gravidade da escassez que atingiu a todos, inclusive os que poderiam ter algum vestígio de recurso.",
+      "temas": [
+        "Fuga da Responsabilidade",
+        "Consciência da Crise",
+        "Pobreza Generalizada"
+      ],
+      "personagens": [
+        "Homem Rejeitado"
+      ]
     },
     "8": {
-      "parafrase": "Mas o nobre faz planos nobres, e pela sua nobreza ele permanece firme.",
-      "referencias": [],
-      "comentario": "Em contraste, o verdadeiro nobre (o líder justo do futuro) é caracterizado por seus planos generosos e por sua firmeza em praticar o que é bom.",
-      "temas": ["nobreza de caráter", "generosidade", "retidão"],
-      "personagens": []
+      "parafrase": "Pois Jerusalém está tropeçando, e Judá está caindo, porque suas línguas e suas ações se voltaram totalmente contra o Senhor, desafiando a sua glória e a sua presença. Eles se levantam abertamente para afrontar os olhos do seu Soberano, zombando dele.",
+      "referencias": [
+        "Romanos 14:13",
+        "Jeremias 51:64"
+      ],
+      "comentario": "O foco se volta para a causa primária: a rebeldia deliberada contra Deus. 'Tropeçando' e 'caindo' (Hebraico: *nātheh* - inclinar-se para o mal) descrevem o estado moral da nação. A afronta aos 'olhos do Senhor' é um conceito forte de transgressão pública e descarada, onde Deus é visto como testemunha silenciosa, mas agora intervindo.",
+      "temas": [
+        "Rebeldia Nacional",
+        "Transgressão",
+        "O Julgamento de Deus"
+      ],
+      "personagens": [
+        "Jerusalém",
+        "Judá"
+      ]
     },
     "9": {
-      "parafrase": "Levantem-se, mulheres complacentes, e ouçam a minha voz! Prestem atenção ao meu discurso, filhas despreocupadas!",
-      "referencias": ["Isaías 3:16"],
-      "comentario": "O profeta agora se dirige às mulheres da elite de Jerusalém, que viviam em luxo e complacência, alheias à crise espiritual e ao juízo iminente.",
-      "temas": ["advertência", "complacência", "despreocupação"],
-      "personagens": ["Isaías"]
-    },
-    "10": {
-      "parafrase": "Dentro de pouco mais de um ano, vocês, que estão despreocupadas, tremerão. Pois a colheita da uva falhará, e a colheita de frutos não acontecerá.",
-      "referencias": [],
-      "comentario": "Ele lhes dá um prazo específico. Sua vida de luxo, dependente da prosperidade da terra, chegará a um fim abrupto quando o juízo trouxer a falha das colheitas.",
-      "temas": ["juízo iminente", "fim do luxo", "falha da colheita"],
+      "parafrase": "A desonestidade deles clama por justiça! Seus rostos, que brilham com a satisfação da perversidade, exibem abertamente o pecado que cometem, como se estivessem se vangloriando dele, assim como Sodoma fazia ao exibir abertamente sua imoralidade. Eles não têm a menor vergonha de seus atos abomináveis.",
+      "referencias": [
+        "Gênesis 13:13",
+        "Amós 2:7"
+      ],
+      "comentario": "A imagem do 'rosto' (Hebraico: *pānîm*) exibindo o pecado é vívida. A comparação com Sodoma é um dos mais severos índices de depravação moral no Antigo Testamento, indicando libertinagem e desafio explícito às normas divinas. O povo não apenas peca, mas o faz com impudência.",
+      "temas": [
+        "Pecado Aberto",
+        "Vergonha Perdida",
+        "Comparação com Sodoma"
+      ],
       "personagens": []
     },
+    "10": {
+      "parafrase": "Portanto, proclamem e celebrem a retidão daqueles que são justos! Digam aos bons e fiéis: 'Vocês terão uma recompensa maravilhosa! O fruto dos seus trabalhos será delicioso e abundante, e vocês colherão o que mereceram!'",
+      "referencias": [
+        "Salmos 58:11",
+        "Apocalipse 22:12"
+      ],
+      "comentario": "Após a condenação dos ímpios, há uma inversão para a promessa aos justos. O contraste é fundamental. A palavra 'dizei' (Hebraico: *’imrū*) é um imperativo. A recompensa (o 'bem') é diretamente ligada ao 'fruto das suas obras', enfatizando a causalidade moral.",
+      "temas": [
+        "Recompensa Justa",
+        "Retribuição",
+        "Fidelidade"
+      ],
+      "personagens": [
+        "Justos"
+      ]
+    },
     "11": {
-      "parafrase": "Tremam, mulheres complacentes! Estremeçam, filhas despreocupadas! Despojem-se, fiquem nuas e vistam pano de saco sobre os lombos.",
-      "referencias": [],
-      "comentario": "Ele as chama a trocarem suas roupas finas pelos sinais de luto e arrependimento, pois o tempo de tranquilidade acabou.",
-      "temas": ["chamado ao luto", "arrependimento", "fim da complacência"],
+      "parafrase": "Mas, ai dos perversos! Pois eles colherão a ruína! O destino deles será exatamente o que eles mesmos semearam. Se alguém fizer o mal, receberá o mal em troca. Preparem-se, pois a justiça lhes será servida na medida exata do seu erro!",
+      "referencias": [
+        "Gálatas 6:7",
+        "Provérbios 1:31"
+      ],
+      "comentario": "Este versículo estabelece o princípio da retribuição exata, o 'olho por olho' moral e cósmico. O 'ai' retorna. Eles receberão o 'mal' (Hebraico: *ra‘ah*), o resultado direto de suas ações malévolas, confirmando que Deus é justo em sua ira.",
+      "temas": [
+        "Retribuição",
+        "Colheita do Mal",
+        "Justiça Divina"
+      ],
       "personagens": []
     },
     "12": {
-      "parafrase": "Batam no peito e lamentem pelos campos agradáveis, pelas videiras frutíferas,",
-      "referencias": [],
-      "comentario": "O lamento será pela perda da prosperidade e da terra fértil que sustentava seu estilo de vida.",
-      "temas": ["lamento", "perda da prosperidade"],
-      "personagens": []
+      "parafrase": "Quanto ao povo de Deus, os seus opressores são tiranos infantis que esmagam a sua população. Os cobradores de impostos e os credores são como parasitas que exigem mais do que as pessoas podem dar, explorando a fraqueza do povo de Sião.",
+      "referencias": [
+        "Zacarias 10:3",
+        "Amós 4:1"
+      ],
+      "comentario": "A descrição dos opressores como 'tiranos infantis' (repetindo a ideia do v.4, mas agora como opressores reais) e a menção aos 'emprestadores' (*noshê*) mostra a exploração econômica. Os líderes e credores são vistos como sanguessugas que sugam a vida do povo.",
+      "temas": [
+        "Opressão Econômica",
+        "Exploração",
+        "Povo de Sião"
+      ],
+      "personagens": [
+        "Opressores",
+        "Povo de Sião"
+      ]
     },
     "13": {
-      "parafrase": "e pela terra do meu povo, onde crescerão espinheiros e ervas daninhas; sim, lamentem por todas as casas de exultação e pela cidade alegre.",
-      "referencias": [],
-      "comentario": "A terra se tornará improdutiva, e as casas que antes eram cheias de festa ficarão desoladas.",
-      "temas": ["desolação", "terra improdutiva", "fim da alegria"],
-      "personagens": []
+      "parafrase": "Olhem para o monte santo do Senhor, onde vocês devem estar, e vejam como Deus está se levantando para julgar. Ele está pronto para a batalha contra a impiedade, e o povo de Jerusalém precisa se preparar para a ira que está por vir.",
+      "referencias": [
+        "Miquéias 4:2",
+        "Isaías 29:18"
+      ],
+      "comentario": "O profeta convoca o povo a olhar para o 'monte santo' (Sião/Templo), o local da presença de Deus, para testemunhar a justiça divina em ação. O Senhor se levanta (Hebraico: *qam*) como um guerreiro determinado a executar o juízo, contrastando com a ineficácia dos líderes humanos mencionados anteriormente.",
+      "temas": [
+        "Santidade de Deus",
+        "Convocação ao Juízo",
+        "Intervenção Divina"
+      ],
+      "personagens": [
+        "Senhor",
+        "Jerusalém"
+      ]
     },
     "14": {
-      "parafrase": "Pois a fortaleza será abandonada, a cidade barulhenta ficará deserta. A colina e a torre de vigia se tornarão covis para sempre, uma alegria para os jumentos selvagens, uma pastagem para os rebanhos,",
-      "referencias": [],
-      "comentario": "Os centros de poder e atividade humana (a fortaleza, a cidade) se tornarão lugares selvagens e desolados, habitados apenas por animais.",
-      "temas": ["abandono", "desolação", "ruína"],
-      "personagens": []
+      "parafrase": "Os habitantes de Sião, os residentes de Jerusalém, serão tomados pelo terror e pelo medo repentino! Os hipócritas, aqueles que se tornaram idólatras e se apoiaram em falsas seguranças, perguntarão aterrorizados: 'Quem entre nós pode suportar este fogo consumidor? Quem de nós pode sobreviver a este julgamento que arde como fornalha?'",
+      "referencias": [
+        "Hebreus 12:29",
+        "Naum 1:6"
+      ],
+      "comentario": "O terror ('terror repentino' ou 'tremor') atinge os hipócritas e idólatras (*ḥānegim*). A metáfora do 'fogo consumidor' (Hebraico: *’ēsh 'ōkhēl*), frequentemente usada para descrever a presença santa de Deus ou seu juízo, mostra a intensidade e a natureza purificadora/destruidora do castigo.",
+      "temas": [
+        "Terror do Juízo",
+        "Hipocrisia Exposta",
+        "Fogo Purificador"
+      ],
+      "personagens": [
+        "Habitantes de Sião",
+        "Hipócritas"
+      ]
     },
     "15": {
-      "parafrase": "até que sobre nós seja derramado o Espírito do alto. Então o deserto se tornará um campo fértil, e o campo fértil será considerado como uma floresta.",
-      "referencias": ["Joel 2:28-29", "Ezequiel 36:26-27"],
-      "comentario": "A desolação durará até a intervenção divina. A vinda do Espírito Santo trará uma transformação radical, revertendo a maldição. O que era estéril se tornará produtivo, e o que era produtivo se tornará extraordinariamente abundante.",
-      "temas": ["derramamento do Espírito Santo", "transformação", "restauração", "fertilidade"],
-      "personagens": ["Espírito Santo"]
+      "parafrase": "E a resposta virá, cortante e clara: Somente aquele que anda em retidão, que fala a verdade genuinamente, que rejeita o ganho obtido pela exploração e que recusa subornos para torcer a justiça, somente este sobreviverá a este tempo de teste.",
+      "referencias": [
+        "1 Pedro 3:10",
+        "Provérbios 15:27"
+      ],
+      "comentario": "Este é o padrão de sobrevivência. O contraste com os versículos anteriores é total. O sobrevivente é aquele que pratica a integridade social e econômica: rejeita o lucro ilícito (*bāṣa'*) e se afasta da corrupção ('mãos cheias de suborno'). A verdade falada é a autenticidade do caráter.",
+      "temas": [
+        "Integridade Pessoal",
+        "Rejeição à Corrupção",
+        "Padrão de Sobrevivência"
+      ],
+      "personagens": [
+        "O Justo"
+      ]
     },
     "16": {
-      "parafrase": "A justiça habitará no deserto, e a retidão viverá no campo fértil.",
-      "referencias": [],
-      "comentario": "A transformação não será apenas física, mas também moral. A justiça e a retidão permearão toda a terra e a sociedade.",
-      "temas": ["justiça", "retidão", "transformação moral"],
-      "personagens": []
+      "parafrase": "E o Senhor, que é a Rocha firme, declara ainda: Vejam como aqueles que desprezam a Sua Lei são arrogantes! Eles olham para os outros com altivez, com seus pescoços esticados em desafio e desdém, desprezando a todos que encontram.",
+      "referencias": [
+        "Provérbios 6:12",
+        "Salmos 18:2"
+      ],
+      "comentario": "Deus se apresenta como a 'Rocha' (*ṣûr*), o fundamento imutável, em contraste com a instabilidade humana. A descrição do 'pescoço esticado' (arrogância) é uma imagem física da soberba, do desafio aberto à autoridade de Deus e ao próximo.",
+      "temas": [
+        "Soberba",
+        "Fundamento Divino",
+        "Desprezo"
+      ],
+      "personagens": [
+        "Deus (A Rocha)"
+      ]
     },
     "17": {
-      "parafrase": "E o efeito da justiça será a paz, e o resultado da retidão, a tranquilidade e a segurança para sempre.",
-      "referencias": ["Tiago 3:18"],
-      "comentario": "A verdadeira paz, tranquilidade e segurança são o resultado direto de uma sociedade baseada na justiça e na retidão. Essa paz será permanente.",
-      "temas": ["paz", "segurança", "tranquilidade", "fruto da justiça"],
-      "personagens": []
+      "parafrase": "Mas o Senhor abaixará o orgulho deles, a ponto de mostrar-lhes a sua verdadeira humilhação. Ele fará com que a sua vaidade se transforme em uma chaga aberta, e o nome deles será coberto de vergonha perante todos.",
+      "referencias": [
+        "Jó 40:12",
+        "Isaías 2:11"
+      ],
+      "comentario": "O juízo divino será uma inversão total da soberba. O orgulho (*gā’ôn*) será humilhado e exposto. A transformação da vaidade em 'chaga' ou 'ferida' (Hebraico: *ḥāghlā’*) indica uma punição que afeta a própria honra e reputação dos arrogantes.",
+      "temas": [
+        "Humilhação do Orgulho",
+        "Inversão de Glória",
+        "Vergonha Pública"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "18": {
-      "parafrase": "O meu povo viverá em habitações de paz, em moradas seguras e em lugares de descanso tranquilos.",
-      "referencias": [],
-      "comentario": "O povo de Deus desfrutará dos frutos da justiça: uma vida de paz e segurança completas, livre de perturbações.",
-      "temas": ["vida pacífica", "segurança", "descanso"],
+      "parafrase": "Por outro lado, os ídolos inúteis e vazios que eles criaram com suas próprias mãos — estátuas de prata e ouro que não têm vida nem poder — serão totalmente lançados fora, como lixo repugnante, quando o juízo chegar.",
+      "referencias": [
+        "Isaías 2:20",
+        "Deuteronômio 29:17"
+      ],
+      "comentario": "A condenação da idolatria é retomada com força visual. Os ídolos são tratados como 'detritos' ou 'coisas imundas' (Hebraico: *niddāh*), o que implica algo ritualmente impuro. A inutilidade do objeto feito pela mão humana é exposta diante do Deus vivo.",
+      "temas": [
+        "Destruição da Idolatria",
+        "Inutilidade dos Ídolos",
+        "Lixo Ritual"
+      ],
       "personagens": []
     },
     "19": {
-      "parafrase": "Mas o granizo destruirá a floresta, e a cidade será totalmente abatida.",
-      "referencias": [],
-      "comentario": "Mesmo enquanto o povo de Deus desfruta da paz, o juízo (granizo) cairá sobre a 'floresta' e a 'cidade' do mundo, que representam os poderes opressores e arrogantes.",
-      "temas": ["juízo sobre os inimigos", "contraste", "destruição"],
-      "personagens": []
+      "parafrase": "Então, o povo se esconderá em cavernas profundas e em fendas nas rochas, fugindo da presença do Senhor e da glória do seu poder majestoso, quando Ele se levantar para abalar profundamente a terra em seu juízo.",
+      "referencias": [
+        "Apocalipse 6:15",
+        "Lucas 23:30"
+      ],
+      "comentario": "A reação final ao poder de Deus é a fuga desesperada para o subterrâneo. O medo não é apenas dos inimigos, mas da própria manifestação da glória (*hod*) de Deus. O tremor da terra (*r‘a‘ash*) é um sinal escatológico de intervenção divina que desestabiliza a ordem criada.",
+      "temas": [
+        "Medo de Deus",
+        "Esconderijo",
+        "Manifestação da Glória"
+      ],
+      "personagens": [
+        "Povo"
+      ]
     },
     "20": {
-      "parafrase": "Bem-aventurados serão vocês, que semeiam junto a todas as águas e que deixam os seus bois e jumentos pastarem livremente.",
-      "referencias": [],
-      "comentario": "O capítulo termina com uma bênção sobre o povo de Deus. Eles viverão em condições ideais de abundância e liberdade, semeando em terra bem irrigada e com seus animais pastando em segurança. É uma imagem de shalom e prosperidade perfeitos.",
-      "temas": ["bem-aventurança", "prosperidade", "liberdade", "abundância"],
+      "parafrase": "Pare! Em breve, tudo terá passado. Afaste-se do ídolo, pois, no fim das contas, para que ele serve? Essa imagem de metal ou pedra não tem nenhum valor, e ele próprio será banido e esquecido, pois o seu adorador não terá para onde fugir quando o julgamento final se manifestar.",
+      "referencias": [
+        "2 Reis 23:24",
+        "Êxodo 32:20"
+      ],
+      "comentario": "O versículo 20 é um imperativo de pausa ('Pare!' ou 'Vá!'). É um resumo conciso: abandone o ídolo. O destino final do ídolo e do idólatra está ligado; se o objeto de adoração é destruído, o adorador, que se identificou com ele, não terá refúgio. O 'fugir' (Hebraico: *niḥbad*) sugere que o idólatra não terá como escapar da destruição que recai sobre o que ele escolheu como seu deus.",
+      "temas": [
+        "Exortação Final",
+        "Abolição da Idolatria",
+        "Fugir do Juízo"
+      ],
       "personagens": []
     }
   }

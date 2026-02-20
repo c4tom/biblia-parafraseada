@@ -1,197 +1,467 @@
 {
   "livro": "Romanos",
   "capitulo": 16,
-  "contexto_historico": "Ver contexto anterior em Romanos 15. Este capítulo final serve como as saudações e recomendações pessoais de Paulo. Ele cumprimenta um número notavelmente grande de pessoas na igreja de Roma, o que indica que, embora nunca a tivesse visitado, ele estava bem conectado com a comunidade através de sua rede de amigos e colaboradores. O capítulo inclui uma recomendação para uma mulher chamada Febe, uma longa lista de saudações, uma advertência final contra falsos mestres e uma doxologia conclusiva.",
-  "bloco_tematico": "Saudações Finais, Advertência e Doxologia",
+  "contexto_historico": "O capítulo 16 de Romanos é a conclusão da carta de Paulo aos cristãos em Roma. O contexto histórico imediato é o encerramento da argumentação teológica de Paulo (Romanos 1-15), onde ele estabeleceu a doutrina da justificação pela fé, a soberania de Deus, a relação entre judeus e gentios na nova aliança e as implicações éticas da vida em Cristo. Paulo está em Corinto e se prepara para viajar a Jerusalém para levar as coletas e, depois, planeja seguir para a Espanha. Este capítulo é crucial pois contém saudações pessoais a muitos crentes, alertando sobre falsos mestres e oferecendo exortações finais, mostrando a ampla rede de contatos e o alcance de seu ministério na igreja primitiva.",
+  "bloco_tematico": "Saudações, Exortações Finais e Advertências Contra Falsos Doutrinadores 🤝🌍🛑",
   "versiculos": {
     "1": {
-      "parafrase": "Recomendo-lhes nossa irmã Febe, que é diaconisa da igreja de Cencreia.",
-      "referencias": [],
-      "comentario": "Paulo começa com uma carta de recomendação para Febe, a portadora da carta. Ele a chama de 'irmã' e de 'diaconisa' (diakonos), indicando que ela ocupava uma posição oficial de serviço na igreja de Cencreia, o porto de Corinto.",
-      "temas": ["recomendação", "ministério feminino", "diaconisa", "serviço"],
-      "personagens": ["Febe"]
+      "parafrase": "Eu vos recomendo, meus queridos irmãos em Cristo, Febe, que é uma serva dedicada da igreja em Cencreia, a cidade vizinha. Peço que a recebam com todo o carinho e hospitalidade que se deve aos santos, pois ela tem sido uma grande auxiliadora e um pilar de apoio para muitos, inclusive para mim mesmo.",
+      "referencias": [
+        "Atos 18:27",
+        "Filipenses 2:29",
+        "3 João 1:5-8"
+      ],
+      "comentario": "Paulo começa a seção final de Romanos com uma recomendação pessoal calorosa. 'Febe' (Phoibe) provavelmente era a portadora desta carta. O termo grego traduzido como 'serva' (diakonos) é o mesmo usado para diáconos, sugerindo um papel ministerial oficial ou de destaque. O termo 'protátis' (protatēs), traduzido como 'auxiliadora' ou 'protetora', indica que ela era uma benfeitora proeminente, talvez com recursos financeiros, que oferecia abrigo e apoio substancial.",
+      "temas": [
+        "Saudações e Apresentações",
+        "Hospitalidade Cristã",
+        "Ministério Feminino"
+      ],
+      "personagens": [
+        "Febe",
+        "Paulo"
+      ]
     },
     "2": {
-      "parafrase": "Peço que a recebam no Senhor, de modo digno dos santos, e que a ajudem em tudo o que ela precisar de vocês, pois ela tem sido uma benfeitora para muitos, inclusive para mim.",
-      "referencias": [],
-      "comentario": "Ele pede que a igreja de Roma a receba com hospitalidade cristã e a ajude em seus negócios. Ele a elogia como uma 'benfeitora' ou patrona (prostatis), uma mulher de possivelmente alguma riqueza e status que usou seus recursos para ajudar a muitos, incluindo o próprio Paulo.",
-      "temas": ["hospitalidade", "ajuda mútua", "patronato", "generosidade"],
-      "personagens": ["Febe"]
+      "parafrase": "Recebam-na no Senhor como se estivessem recebendo ao próprio Cristo, pois ela merece toda a honra. E ajudem-na em qualquer necessidade que ela possa ter enquanto estiver aí, pois ela já ajudou muitas pessoas de fé, assim como ajudou a mim em minha jornada.",
+      "referencias": [
+        "Mateus 25:40",
+        "Filipenses 4:3",
+        "1 Timóteo 5:17"
+      ],
+      "comentario": "A recomendação é forte: recebê-la 'como convém aos santos' e 'em tudo o que ela precisar'. Isso eleva o status de Febe a um nível de recepção reservado para aqueles que representam o próprio Cristo, sublinhando a importância de apoiar missionários e portadores de cartas.",
+      "temas": [
+        "Acolhimento da Comunidade",
+        "Deveres Fraternos",
+        "Serviço Mútuo"
+      ],
+      "personagens": [
+        "Febe"
+      ]
     },
     "3": {
-      "parafrase": "Saúdem Priscila e Áquila, meus cooperadores em Cristo Jesus.",
-      "referencias": ["Atos 18:2, 18, 26"],
-      "comentario": "Paulo saúda seus queridos amigos e parceiros de ministério, Priscila e Áquila. Eles trabalharam com Paulo em Corinto e Éfeso e agora estavam de volta a Roma.",
-      "temas": ["saudações", "parceria ministerial", "cooperação"],
-      "personagens": ["Priscila", "Áquila", "Cristo Jesus"]
+      "parafrase": "Saudações a Priscila e Áquila, meus companheiros de trabalho em Cristo Jesus. Eles foram verdadeiros heróis por mim, arriscando suas próprias vidas para me proteger.",
+      "referencias": [
+        "Atos 18:2",
+        "1 Coríntios 16:19",
+        "2 Timóteo 4:19"
+      ],
+      "comentario": "Priscila (ou Prisca) e Áquila eram um casal notável, judeus de origem que se tornaram cristãos e companheiros de ministério de Paulo (eram fabricantes de tendas). O fato de terem 'arrisgado o pescoço' (a expressão grega sugere um perigo extremo de morte) por ele demonstra uma lealdade e compromisso radicais com o Evangelho e com Paulo.",
+      "temas": [
+        "Colaboração no Ministério",
+        "Coragem e Sacrifício",
+        "Casais Cristãos"
+      ],
+      "personagens": [
+        "Priscila",
+        "Áquila"
+      ]
     },
     "4": {
-      "parafrase": "Eles arriscaram a própria vida por mim, e não somente eu, mas também todas as igrejas dos gentios, lhes são gratos.",
-      "referencias": [],
-      "comentario": "Ele elogia a coragem sacrificial deles, que em algum momento arriscaram suas vidas para salvá-lo. Sua gratidão é compartilhada por todas as igrejas gentílicas, que se beneficiaram do ministério de Paulo.",
-      "temas": ["sacrifício", "coragem", "gratidão"],
-      "personagens": ["Priscila", "Áquila"]
+      "parafrase": "Muitas igrejas lhes devem muito, e eu também, pois eles não apenas me deram abrigo, mas também foram fundamentais na defesa da nossa fé perante outros.",
+      "referencias": [
+        "Atos 18:26",
+        "Efésios 2:19",
+        "Tito 3:8"
+      ],
+      "comentario": "A menção de que 'todas as igrejas dos gentios' são gratas a eles indica que Priscila e Áquila não estavam apenas no círculo imediato de Paulo, mas eram influentes no cenário missionário mais amplo, provavelmente ajudando a discipular líderes em várias localidades.",
+      "temas": [
+        "Contribuição Comunitária",
+        "Discipulado",
+        "Reconhecimento do Serviço"
+      ],
+      "personagens": [
+        "Priscila",
+        "Áquila"
+      ]
     },
     "5": {
-      "parafrase": "Saúdem também a igreja que se reúne na casa deles. Saúdem meu amado Epêneto, que foi o primeiro fruto da Ásia para Cristo.",
-      "referencias": ["1 Coríntios 16:19"],
-      "comentario": "As primeiras igrejas frequentemente se reuniam em casas, e a de Priscila e Áquila era um desses centros. Paulo também saúda Epêneto, o primeiro convertido na província da Ásia, mostrando o afeto que tinha por seus primeiros discípulos.",
-      "temas": ["igreja doméstica", "primeiros convertidos", "fruto do ministério"],
-      "personagens": ["Priscila", "Áquila", "Epêneto", "Cristo"]
+      "parafrase": "Também mandem um abraço especial àquela congregação que se reúne na casa de Priscila e Áquila. Diga a eles que enviamos saudações à comunidade que eles formam em seu lar.",
+      "referencias": [
+        "Filemom 1:2",
+        "Colossenses 4:15",
+        "Atos 2:46"
+      ],
+      "comentario": "Isso revela que a igreja primitiva frequentemente se reunia em casas particulares, formando 'igrejas domésticas'. O lar de Priscila e Áquila era um centro vital para a pregação do Evangelho em sua cidade.",
+      "temas": [
+        "Igreja Doméstica",
+        "Reuniões Comunitárias",
+        "Comunicação Eclesiástica"
+      ],
+      "personagens": [
+        "Priscila",
+        "Áquila"
+      ]
     },
     "6": {
-      "parafrase": "Saúdem Maria, que trabalhou arduamente por vocês.",
-      "referencias": [],
-      "comentario": "Uma saudação a uma mulher chamada Maria, elogiada por seu trabalho diligente na igreja.",
-      "temas": ["trabalho diligente", "serviço"],
-      "personagens": ["Maria"]
+      "parafrase": "Saudações a minha querida Epeneto, que foi o primeiro a abraçar a fé cristã nesta região [provavelmente Éfeso ou outra cidade na Ásia Menor onde Paulo trabalhou]. Ele é muito amado por todos.",
+      "referencias": [
+        "1 Coríntios 15:20",
+        "Apocalipse 2:5",
+        "Gálatas 6:16"
+      ],
+      "comentario": "Epeneto é destacado como o 'primícia' ou 'primeiro fruto' de uma área específica (possivelmente Éfeso, dependendo da interpretação). Ser o primeiro convertido em uma região confere um status especial de pioneirismo e honra na comunidade.",
+      "temas": [
+        "Pioneirismo na Fé",
+        "Primeiros Convertidos",
+        "Apreço Pessoal"
+      ],
+      "personagens": [
+        "Epeneto"
+      ]
     },
     "7": {
-      "parafrase": "Saúdem Andrônico e Júnia, meus parentes e companheiros de prisão. Eles são notáveis entre os apóstolos e estavam em Cristo antes de mim.",
-      "referencias": [],
-      "comentario": "Esta é uma saudação notável. Andrônico e Júnia (que é um nome feminino) eram provavelmente um casal. Eles eram parentes de Paulo, foram seus companheiros de prisão, eram altamente respeitados pelos apóstolos (ou talvez fossem considerados apóstolos em um sentido mais amplo) e, crucialmente, se converteram antes de Paulo.",
-      "temas": ["parentesco", "sofrimento compartilhado", "respeito apostólico", "ministério feminino"],
-      "personagens": ["Andrônico", "Júnia", "Cristo"]
+      "parafrase": "E mandem um forte abraço para Andrônico e Júnia, meus parentes de sangue, que também são notáveis entre os apóstolos. Eles abraçaram a fé antes de mim e são muito respeitados.",
+      "referencias": [
+        "Gálatas 1:19",
+        "2 Coríntios 11:23",
+        "Efésios 6:12"
+      ],
+      "comentario": "A identificação de Andrônico e Júnia como 'parentes' (syngeneis) sugere que eles eram judeus e, possivelmente, familiares de Paulo. A descrição de Júnia como 'notável entre os apóstolos' é uma forte evidência de que mulheres exerciam papéis de liderança apostólica reconhecidos no primeiro século, um ponto de grande interesse teológico.",
+      "temas": [
+        "Parentesco e Fé",
+        "Liderança Apostólica",
+        "Reconhecimento de Mérito"
+      ],
+      "personagens": [
+        "Andrônico",
+        "Júnia"
+      ]
     },
     "8": {
-      "parafrase": "Saúdem Amplíato, meu amado no Senhor.",
-      "referencias": [],
-      "comentario": "Uma saudação afetuosa a um amigo pessoal.",
-      "temas": ["amizade cristã", "amor fraternal"],
-      "personagens": ["Amplíato", "Senhor"]
+      "parafrase": "Saudações a Ampliato, a quem muito estimo no Senhor.",
+      "referencias": [
+        "Filipenses 4:3",
+        "Colossenses 4:14",
+        "Efésios 6:10"
+      ],
+      "comentario": "A saudação é breve, mas o termo 'no Senhor' (en kyriō) indica que a relação de Paulo com Ampliato é primariamente baseada em sua união com Cristo, e não apenas em amizade pessoal.",
+      "temas": [
+        "Vínculo Fraternal",
+        "Comunhão em Cristo"
+      ],
+      "personagens": [
+        "Ampliato"
+      ]
     },
     "9": {
-      "parafrase": "Saúdem Urbano, nosso cooperador em Cristo, e meu amado Estáquis.",
-      "referencias": [],
-      "comentario": "Saudação a mais dois colaboradores, destacando a cooperação no ministério e o afeto pessoal.",
-      "temas": ["cooperação", "amizade"],
-      "personagens": ["Urbano", "Cristo", "Estáquis"]
+      "parafrase": "E a Urbano, nosso colaborador em Cristo, e a Estacis, a quem também estimo muito, que mandam seus cumprimentos.",
+      "referencias": [
+        "1 Tessalonicenses 3:2",
+        "Filipenses 2:25",
+        "Atos 19:22"
+      ],
+      "comentario": "Urbano é explicitamente chamado de 'colaborador' (synergos), reforçando o tema da cooperação mútua no serviço apostólico. Estacis também é mencionado com afeto.",
+      "temas": [
+        "Cooperação no Evangelho",
+        "Relações de Trabalho"
+      ],
+      "personagens": [
+        "Urbano",
+        "Estacis"
+      ]
     },
     "10": {
-      "parafrase": "Saúdem Apeles, aprovado em Cristo. Saúdem os da casa de Aristóbulo.",
-      "referencias": [],
-      "comentario": "Apeles é elogiado por ser 'aprovado em Cristo', alguém cujo caráter foi testado e provado. A saudação 'aos da casa de Aristóbulo' provavelmente se refere aos escravos e servos da casa de um homem rico, que talvez não fosse crente.",
-      "temas": ["caráter aprovado", "igreja doméstica (servos)"],
-      "personagens": ["Apeles", "Cristo", "Aristóbulo"]
+      "parafrase": "Saudações a Apeles, aquele que é aprovado em Cristo. E a todos os que pertencem à casa de Aristóbulo, mandem meus cumprimentos.",
+      "referencias": [
+        "1 Pedro 1:7",
+        "Apocalipse 3:18",
+        "Mateus 12:27"
+      ],
+      "comentario": "Apeles é elogiado com a palavra 'aprovado' (dokimos), que no contexto grego significava que ele havia passado por testes rigorosos de caráter e provado ser genuíno e fiel, como metal refinado pelo fogo.",
+      "temas": [
+        "Fidelidade Testada",
+        "Excelência Espiritual"
+      ],
+      "personagens": [
+        "Apeles",
+        "Aristóbulo"
+      ]
     },
     "11": {
-      "parafrase": "Saúdem Herodião, meu parente. Saúdem os da casa de Narciso, que estão no Senhor.",
-      "referencias": [],
-      "comentario": "Outro parente de Paulo, Herodião, é saudado, junto com os crentes da casa de Narciso (outro provável homem rico e influente de Roma).",
-      "temas": ["parentesco", "igreja doméstica"],
-      "personagens": ["Herodião", "Narciso", "Senhor"]
+      "parafrase": "Saudações a Herodião, meu compatriota [judeu]. E a todos os da casa de Narciso que estão no Senhor, enviem minhas saudações.",
+      "referencias": [
+        "Gálatas 1:21",
+        "Filipenses 4:22",
+        "Colossenses 4:10"
+      ],
+      "comentario": "O termo 'compatriota' (syggenes) aqui provavelmente indica parentesco judaico. A menção da 'casa de Narciso' é intrigante. Narciso, que provavelmente já havia morrido ou não era cristão, tinha servos ou dependentes que se converteram, mostrando que o Evangelho alcançava até os lares de pessoas proeminentes em Roma.",
+      "temas": [
+        "Alcance do Evangelho",
+        "Conversão em Diferentes Classes Sociais"
+      ],
+      "personagens": [
+        "Herodião",
+        "Narciso"
+      ]
     },
     "12": {
-      "parafrase": "Saúdem Trifena e Trifosa, mulheres que trabalham arduamente no Senhor. Saúdem a amada Pérside, outra mulher que trabalhou muito no Senhor.",
-      "referencias": [],
-      "comentario": "Paulo saúda três mulheres, elogiando-as especificamente por seu trabalho árduo e ministério no Senhor, destacando novamente o papel ativo das mulheres na igreja primitiva.",
-      "temas": ["ministério feminino", "trabalho árduo", "serviço"],
-      "personagens": ["Trifena", "Trifosa", "Pérside", "Senhor"]
+      "parafrase": "Saudações a Trófena e Trófima, mulheres que trabalham arduamente no serviço ao Senhor.",
+      "referencias": [
+        "Atos 20:4",
+        "Filipenses 4:3",
+        "1 Coríntios 11:5"
+      ],
+      "comentario": "Paulo menciona duas mulheres trabalhadoras. O verbo 'kopiaō' (trabalhar arduamente/se esforçar) sugere um trabalho exaustivo, não apenas casual. O fato de ambas terem nomes femininos reforça a participação feminina ativa no ministério.",
+      "temas": [
+        "Mulheres no Ministério",
+        "Esforço Missionário"
+      ],
+      "personagens": [
+        "Trófena",
+        "Trófima"
+      ]
     },
     "13": {
-      "parafrase": "Saúdem Rufo, escolhido no Senhor, e sua mãe, que tem sido mãe também para mim.",
-      "referencias": ["Marcos 15:21"],
-      "comentario": "Rufo é descrito como 'escolhido no Senhor'. Muitos acreditam que este é o mesmo Rufo, filho de Simão de Cirene, que carregou a estaca de Jesus. A saudação à mãe de Rufo, a quem Paulo considera como sua própria mãe, mostra a profunda intimidade e os laços familiares dentro da igreja.",
-      "temas": ["eleição", "laços familiares espirituais", "cuidado maternal"],
-      "personagens": ["Rufo", "Mãe de Rufo", "Senhor"]
+      "parafrase": "Um grande abraço para Rufo, aquele escolhido do Senhor, e também para sua mãe, que sempre me tratou como se fosse seu próprio filho.",
+      "referencias": [
+        "Marcos 15:21",
+        "Gálatas 4:19",
+        "2 Timóteo 1:5"
+      ],
+      "comentario": "Rufo é provavelmente conhecido pelos leitores romanos (talvez filho de Simão de Cirene, mencionado em Marcos). O tratamento materno dado por sua mãe a Paulo ('sua mãe e minha mãe') demonstra a profunda intimidade e afeição que ele nutria por aqueles que cuidavam dele.",
+      "temas": [
+        "Afeto Pessoal",
+        "Relações Familiares na Igreja",
+        "Maternidade Espiritual"
+      ],
+      "personagens": [
+        "Rufo",
+        "Mãe de Rufo"
+      ]
     },
     "14": {
-      "parafrase": "Saúdem Asíncrito, Flegonte, Hermes, Pátrobas, Hermas e os irmãos que estão com eles.",
-      "referencias": [],
-      "comentario": "Uma saudação a um grupo de crentes, provavelmente outra igreja doméstica.",
-      "temas": ["saudações em grupo", "comunidade"],
-      "personagens": ["Asíncrito", "Flegonte", "Hermes", "Pátrobas", "Hermas"]
+      "parafrase": "Saudações a Asíncrito, a Flegonte, a Hermas, a Pátrobas, a Hermes, e a todos os irmãos que estão com eles.",
+      "referencias": [
+        "1 Tessalonicenses 5:26",
+        "Atos 17:34",
+        "2 Timóteo 4:21"
+      ],
+      "comentario": "Este é um bloco de saudações rápidas a indivíduos que parecem formar um grupo coeso, possivelmente vivendo juntos ou muito próximos em Roma. Eles são reconhecidos pelo círculo apostólico.",
+      "temas": [
+        "Saudações em Grupo",
+        "Comunidade de Fé"
+      ],
+      "personagens": [
+        "Asíncrito",
+        "Flegonte",
+        "Hermas",
+        "Pátrobas",
+        "Hermes"
+      ]
     },
     "15": {
-      "parafrase": "Saúdem Filólogo e Júlia, Nereu e sua irmã, e Olimpas, e todos os santos que estão com eles.",
-      "referencias": [],
-      "comentario": "Outra saudação a um grupo, incluindo um provável casal (Filólogo e Júlia) e um irmão e irmã (Nereu e sua irmã), mostrando a presença de famílias inteiras na fé.",
-      "temas": ["famílias na fé", "comunidade"],
-      "personagens": ["Filólogo", "Júlia", "Nereu", "Irmã de Nereu", "Olimpas"]
+      "parafrase": "E, finalmente, saudações a Filólogo, a Júlia, e a Nereu, e sua irmã, e a Olimpas, e a todos os santos que estão reunidos com eles.",
+      "referencias": [
+        "Colossenses 4:15",
+        "Atos 2:42",
+        "Hebreus 13:24"
+      ],
+      "comentario": "Este último grupo de saudações parece incluir tanto nomes masculinos quanto femininos. 'Nereu e sua irmã' podem ser irmãos ou parentes. A menção final 'todos os santos que estão com eles' sugere que este grupo específico se reunia em outro local, talvez um segundo ponto de encontro de igreja em Roma.",
+      "temas": [
+        "Expansão da Rede Social Cristã",
+        "Comunhão Final"
+      ],
+      "personagens": [
+        "Filólogo",
+        "Júlia",
+        "Nereu",
+        "Irmã de Nereu",
+        "Olimpas"
+      ]
     },
     "16": {
-      "parafrase": "Saúdem uns aos outros com um beijo santo. Todas as igrejas de Cristo os saúdam.",
-      "referencias": ["1 Coríntios 16:20"],
-      "comentario": "O 'beijo santo' era uma saudação comum na cultura da época, um sinal de comunhão e afeto familiar na igreja. Paulo também transmite as saudações de todas as igrejas que ele representa.",
-      "temas": ["beijo santo", "comunhão", "saudações das igrejas"],
-      "personagens": ["Cristo"]
+      "parafrase": "Saúdem-se uns aos outros com um beijo santo. Todas as igrejas que Cristo estabeleceu enviam suas saudações a vocês em Roma.",
+      "referencias": [
+        "1 Tessalonicenses 5:26",
+        "2 Coríntios 13:12",
+        "1 Pedro 5:14"
+      ],
+      "comentario": "O 'beijo santo' (philēma hagion) era um gesto comum de saudação e comunhão profunda na antiguidade, aqui santificado pela fé. A menção de que 'todas as igrejas' enviam saudações enfatiza a unidade da Igreja universal, apesar da distância entre as comunidades.",
+      "temas": [
+        "Rito de Saudação",
+        "Unidade da Igreja",
+        "Comunhão Global"
+      ],
+      "personagens": []
     },
     "17": {
-      "parafrase": "Rogo-lhes, irmãos, que se acautelem daqueles que causam divisões e colocam obstáculos contra a doutrina que vocês aprenderam. Afastem-se deles.",
-      "referencias": ["Tito 3:10"],
-      "comentario": "Após as saudações calorosas, Paulo insere uma advertência severa e urgente. Ele os alerta sobre os falsos mestres que criam divisões e ensinam coisas contrárias à sã doutrina apostólica. A instrução é clara: evitem-nos.",
-      "temas": ["advertência contra falsos mestres", "divisão", "sã doutrina", "separação"],
+      "parafrase": "Agora, suplico-lhes, meus irmãos, que fiquem muito atentos àqueles que causam divisões e tropeços entre vocês, que agem contra o ensino que aprenderam de mim. Afastem-se deles com toda a cautela.",
+      "referencias": [
+        "Gálatas 5:20",
+        "Filipenses 3:18-19",
+        "Mateus 7:15"
+      ],
+      "comentario": "Esta é uma transição abrupta e séria. Paulo usa a palavra grega 'paraskopeō' (observar, vigiar), indicando uma necessidade de vigilância ativa contra falsos mestres. Estes indivíduos espalham doutrinas que contradizem o 'ensinamento' (didachē) recebido por Paulo, que focava na justificação pela fé e não nas obras da Lei.",
+      "temas": [
+        "Advertência contra Falsos Mestres",
+        "Doutrina Ortodoxa",
+        "Vigilância Espiritual"
+      ],
       "personagens": []
     },
     "18": {
-      "parafrase": "Pois essas pessoas não servem a nosso Senhor Cristo, mas a seus próprios apetites. Com palavras suaves e bajulação, enganam o coração dos ingênuos.",
-      "referencias": ["Filipenses 3:19", "2 Pedro 2:3"],
-      "comentario": "Ele expõe a motivação e o método dos falsos mestres. Sua motivação é egoísta (servir a seus próprios apetites, seja por ganho, poder ou prazer). Seu método é o engano, usando discursos eloquentes e bajuladores para seduzir os que são simples e sem discernimento.",
-      "temas": ["motivação egoísta", "engano", "bajulação", "falso ensino"],
-      "personagens": ["Senhor Cristo"]
+      "parafrase": "Pois essas pessoas não estão servindo ao nosso Senhor Jesus Cristo, mas sim aos seus próprios apetites e desejos. Com palavras bonitas e bajuladoras, elas enganam os corações ingênuos, aqueles que ainda não têm plena maturidade na fé.",
+      "referencias": [
+        "2 Pedro 2:18",
+        "Efésios 4:14",
+        "Tito 1:10-11"
+      ],
+      "comentario": "O contraste é claro: servir a Cristo versus servir ao próprio ventre (os desejos egoístas e sensuais). A tática é a bajulação ('eu logia' – palavras suaves, lisonja) usada para manipular os 'ingênuos' (aphelois), aqueles que são facilmente seduzidos por uma teologia de conveniência.",
+      "temas": [
+        "Egoísmo Espiritual",
+        "Engano Doutrinário",
+        "Maturidade Cristã"
+      ],
+      "personagens": []
     },
     "19": {
-      "parafrase": "Pois a obediência de vocês é conhecida por todos. Por isso, alegro-me a respeito de vocês; mas quero que sejam sábios para o bem e ingênuos para o mal.",
-      "referencias": ["Mateus 10:16"],
-      "comentario": "Paulo elogia novamente a boa reputação dos romanos, mas os exorta a um discernimento maduro. Eles devem ser especialistas no que é bom, mas inocentes e sem experiência no que diz respeito ao mal.",
-      "temas": ["obediência", "sabedoria e inocência", "discernimento"],
+      "parafrase": "Embora a obediência de vocês seja conhecida por todos, o que me alegra profundamente, eu anseio que sejam sábios para o bem e, sim, totalmente inocentes em relação ao mal.",
+      "referencias": [
+        "1 Tessalonicenses 4:3",
+        "Mateus 10:16",
+        "Filipenses 4:8"
+      ],
+      "comentario": "Paulo elogia a reputação de obediência da igreja romana. O desejo é duplo: 'sabedoria para o bem' (capacidade de discernir o que é bom e fazer) e 'inocência/pureza do mal' (ser inofensivos e não contaminados pelas práticas mundanas ou pelos falsos ensinamentos).",
+      "temas": [
+        "Reputação e Obediência",
+        "Sabedoria Prática",
+        "Integridade Moral"
+      ],
       "personagens": []
     },
     "20": {
-      "parafrase": "O Deus da paz, em breve, esmagará Satanás debaixo dos pés de vocês. A graça de nosso Senhor Jesus seja com vocês.",
-      "referencias": ["Gênesis 3:15"],
-      "comentario": "Ele lhes dá uma promessa de vitória final. Ecoando a primeira promessa do evangelho em Gênesis, ele assegura que o Deus da paz dará a eles a vitória sobre Satanás, a fonte de toda divisão e falso ensino. Ele conclui a advertência com uma bênção.",
-      "temas": ["vitória sobre Satanás", "Deus da paz", "promessa", "graça"],
-      "personagens": ["Deus da paz", "Satanás", "Senhor Jesus"]
+      "parafrase": "E logo, muito em breve, o Deus que nos traz a paz esmagará Satanás debaixo dos vossos pés. Que a graça do nosso Senhor Jesus Cristo esteja com vocês.",
+      "referencias": [
+        "Gênesis 3:15",
+        "Apocalipse 12:9",
+        "1 Coríntios 14:33"
+      ],
+      "comentario": "Esta é uma promessa escatológica poderosa, referenciando Gênesis 3:15 (a semente da mulher esmagando a cabeça da serpente). Paulo atribui a vitória final sobre o mal a Deus ('o Deus da paz'), mas a aplica à ação imediata da comunidade romana. O termo grego para 'esmagar' (sýntribō) é violento e definitivo.",
+      "temas": [
+        "Vitória Escatológica",
+        "A Paz de Deus",
+        "Satanás Derrotado"
+      ],
+      "personagens": []
     },
     "21": {
-      "parafrase": "Timóteo, meu cooperador, os saúda, assim como Lúcio, Jasom e Sosípatro, meus parentes.",
-      "referencias": ["Atos 16:1"],
-      "comentario": "Paulo agora inclui saudações de seus companheiros que estavam com ele em Corinto quando escreveu a carta.",
-      "temas": ["saudações dos companheiros", "parceria ministerial"],
-      "personagens": ["Timóteo", "Lúcio", "Jasom", "Sosípatro"]
+      "parafrase": "Timóteo, meu colaborador, envia suas saudações. Também Lúcio, Jasom e Sosípatro, meus parentes judeus, mandam seus cumprimentos a vocês.",
+      "referencias": [
+        "Atos 16:1",
+        "Atos 20:4",
+        "Atos 20:24"
+      ],
+      "comentario": "A entrada dos colaboradores de Paulo traz a mensagem da comunidade missionária mais ampla para Roma. Timóteo era um associado central, e Lúcio, Jasom e Sosípatro são provavelmente companheiros que estavam com Paulo na época da escrita desta carta (possivelmente em Corinto).",
+      "temas": [
+        "Colaboradores de Paulo",
+        "Rede Missionária"
+      ],
+      "personagens": [
+        "Timóteo",
+        "Lúcio",
+        "Jasom",
+        "Sosípatro"
+      ]
     },
     "22": {
-      "parafrase": "Eu, Tércio, que escrevi esta carta, os saúdo no Senhor.",
-      "referencias": [],
-      "comentario": "O amanuense, ou secretário, que escreveu fisicamente a carta enquanto Paulo ditava, insere sua própria saudação pessoal. Isso nos dá um vislumbre fascinante do processo de escrita das epístolas.",
-      "temas": ["amanuense", "processo de escrita"],
-      "personagens": ["Tércio", "Senhor"]
+      "parafrase": "Eu, Tércio, o homem que escreveu esta carta ditada, envio-lhes minhas saudações em nome do Senhor.",
+      "referencias": [
+        "Gálatas 6:11",
+        "Jeremias 36:4",
+        "Salmos 127:1"
+      ],
+      "comentario": "Tércio é o único secretário (escriba ou copista) que se identifica nominalmente em todas as cartas de Paulo. Ele confirma que esta carta foi ditada a ele, e não escrita à mão pelo próprio Apóstolo, o que reforça a autoridade da Palavra, independentemente do instrumento humano usado para registrá-la.",
+      "temas": [
+        "Autoridade da Carta",
+        "O Papel do Escriba",
+        "Humildade no Serviço"
+      ],
+      "personagens": [
+        "Tércio"
+      ]
     },
     "23": {
-      "parafrase": "Gaio, que me hospeda e também a toda a igreja, os saúda. Erasto, o tesoureiro da cidade, e nosso irmão Quarto os saúdam.",
-      "referencias": ["1 Coríntios 1:14"],
-      "comentario": "As saudações continuam com Gaio, o anfitrião de Paulo em Corinto, e Erasto, um oficial público da cidade (o tesoureiro), mostrando que o evangelho alcançava pessoas de todas as classes sociais.",
-      "temas": ["hospitalidade", "alcance social do evangelho"],
-      "personagens": ["Gaio", "Erasto", "Quarto"]
+      "parafrase": "Gáio, aquele que me hospeda e a quem toda a igreja também recebe, manda seus cumprimentos a todos vocês.",
+      "referencias": [
+        "1 Coríntios 1:14",
+        "3 João 1:1",
+        "Atos 19:29"
+      ],
+      "comentario": "Gáio é claramente um anfitrião proeminente em Corinto (onde Paulo provavelmente estava escrevendo). Ele era conhecido por sua hospitalidade generosa, a ponto de ser reconhecido por toda a comunidade como um ponto de apoio logístico para os missionários.",
+      "temas": [
+        "Hospitalidade Cristã",
+        "Anfitrião da Igreja"
+      ],
+      "personagens": [
+        "Gáio"
+      ]
     },
     "24": {
-      "parafrase": "[A graça de nosso Senhor Jesus Cristo seja com todos vocês. Amém.]",
-      "referencias": [],
-      "comentario": "Este versículo é uma bênção que não aparece nos manuscritos mais antigos e é provavelmente um acréscimo de um escriba, semelhante à bênção do versículo 20.",
-      "temas": ["variante textual", "bênção"],
-      "personagens": ["Senhor Jesus Cristo"]
+      "parafrase": "Erasto, o tesoureiro da cidade, também envia suas saudações a vocês, junto com Quartos, nosso irmão na fé.",
+      "referencias": [
+        "Atos 19:22",
+        "Filipenses 4:21",
+        "2 Timóteo 4:21"
+      ],
+      "comentario": "Erasto é identificado com o título de 'procurador' ou 'tesoureiro' (oikonomos) da cidade, o que indica uma posição de influência civil em Corinto. A conversão de alguém com tal posição social mostra como o Evangelho penetrou nas estruturas administrativas da cidade.",
+      "temas": [
+        "Membros Influyentes",
+        "Serviço Público e Fé"
+      ],
+      "personagens": [
+        "Erasto",
+        "Quartos"
+      ]
     },
     "25": {
-      "parafrase": "Ora, àquele que é poderoso para fortalecê-los segundo o meu evangelho e a pregação de Jesus Cristo, conforme a revelação do mistério guardado em silêncio nos tempos eternos,",
-      "referencias": ["Efésios 3:3-9"],
-      "comentario": "A carta termina com uma doxologia magnífica. Paulo louva a Deus, que tem o poder de fortalecer os crentes. A base desse fortalecimento é o evangelho, que é a revelação de um 'mistério' – o plano de Deus de unir judeus e gentios em Cristo, um plano que esteve oculto no passado.",
-      "temas": ["doxologia", "poder de Deus", "fortalecimento", "revelação do mistério"],
-      "personagens": ["Deus", "Jesus Cristo"]
+      "parafrase": "Agora, que o poder daquele que pode fortalecer vocês, de acordo com a minha pregação do evangelho secreto, revelado pelo conhecimento das profecias antigas, seja com todos vocês. Glória eterna a Deus! Amém.",
+      "referencias": [
+        "Efésios 3:5",
+        "1 Pedro 1:10-12",
+        "Judas 1:24"
+      ],
+      "comentario": "Este é o início da doxologia final. Paulo recorre ao poder de Deus para sustentar os leitores. O 'evangelho secreto' (mystērion) não era algo oculto, mas sim o plano de Deus revelado que estava escondido nos profetas do Antigo Testamento. Este poder divino garante que a fé deles resista às lutas internas e externas. O verso termina com um forte 'Amém' litúrgico.",
+      "temas": [
+        "Doxologia",
+        "Poder Fortalecedor de Deus",
+        "Revelação Profética"
+      ],
+      "personagens": []
     },
     "26": {
-      "parafrase": "mas que agora se manifestou e, por meio das Escrituras proféticas, foi dado a conhecer a todas as nações, segundo o mandamento do Deus eterno, para a obediência da fé,",
-      "referencias": [],
-      "comentario": "Este mistério, agora revelado, foi dado a conhecer a todas as nações através da pregação do evangelho, que está em harmonia com as Escrituras do Antigo Testamento. O objetivo de tudo isso é levar todas as nações à 'obediência da fé'.",
-      "temas": ["manifestação do mistério", "missão às nações", "obediência da fé"],
-      "personagens": ["Deus eterno"]
+      "parafrase": "Mas agora, essa grande verdade foi revelada de uma forma nova e surpreendente, através dos escritos proféticos! Esse mistério, que esteve oculto por gerações e gerações, foi finalmente trazido à luz, não mais como um enigma, mas como um plano divino claro, destinado a despertar todas as nações gentias (não-judeus) para a fé e a obediência a Jesus Cristo. É um chamado universal que rompe todas as barreiras étnicas e geográficas, selado pela autoridade das Escrituras antigas. 📢",
+      "referencias": [
+        "Isaías 55:5",
+        "Atos 13:47",
+        "Efésios 3:5"
+      ],
+      "comentario": "O termo grego para 'revelada' é 'phanerōthēken' (manifestada, tornada visível). Paulo enfatiza que o plano de Deus de incluir os gentios não era uma ideia nova, mas sim o cumprimento de profecias antigas (os 'escritos proféticos'). O 'mistério' (mysterion) aqui é o plano divino de salvação estendido aos gentios, algo que estava oculto na Lei e nos Profetas, mas que agora se torna evidente através do Evangelho de Cristo. Este versículo serve como uma ponte hermenêutica, ligando a obra de Jesus à totalidade do Antigo Testamento.",
+      "temas": [
+        "Revelação do Mistério",
+        "A Inclusão dos Gentios",
+        "Cumprimento das Profecias"
+      ],
+      "personagens": [
+        "Paulo (implícito como autor)"
+      ]
     },
     "27": {
-      "parafrase": "ao único Deus sábio seja dada a glória, por meio de Jesus Cristo, para todo o sempre. Amém.",
-      "referencias": ["Judas 1:25"],
-      "comentario": "A doxologia conclui atribuindo toda a glória ao único Deus, que é perfeitamente sábio. E essa glória é dada a Ele através do mediador, Jesus Cristo, para sempre.",
-      "temas": ["glória a Deus", "sabedoria de Deus", "mediação de Cristo"],
-      "personagens": ["Deus", "Jesus Cristo"]
+      "parafrase": "Este plano se concretizou através do poder do Deus único e eterno — Aquele que é sábio acima de toda medida e glória imensurável. A Ele seja toda a honra e louvor, agora e para sempre, pela obra consumada em Cristo! Amém! Que o nome de Jesus seja exaltado em todas as línguas e povos! 🙏👑",
+      "referencias": [
+        "Salmos 115:18",
+        "Judas 1:25",
+        "1 Timóteo 1:17"
+      ],
+      "comentario": "Este versículo é uma doxologia poderosa, uma explosão de louvor. O 'Deus único e sábio' (monō theō sophō) destaca a soberania absoluta e a sabedoria intrínseca de Deus ao arquitetar este plano de salvação universal. O uso de 'glória' (doxa) e 'honra' (timē) no final serve para encerrar a seção de doutrina com uma nota de adoração, reconhecendo que a revelação do Evangelho é a maior manifestação da glória de Deus na história humana. A exclamação final ('Amém') é um selo de confirmação e concordância com toda a verdade apresentada.",
+      "temas": [
+        "Doxologia",
+        "Soberania e Sabedoria de Deus",
+        "Adoração"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     }
   }
 }

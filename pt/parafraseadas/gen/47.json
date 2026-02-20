@@ -1,225 +1,519 @@
 {
   "livro": "Gênesis",
   "capitulo": 47,
-  "contexto_historico": "Ver contexto anterior em Gênesis 46. A família de Jacó chegou ao Egito e se estabeleceu na terra de Gósen. Este capítulo detalha a apresentação de Jacó e alguns de seus irmãos ao Faraó, a provisão de José para sua família durante a fome, e a consolidação do poder do Faraó sobre o Egito através da política de José. O capítulo termina com Jacó, em seu leito de morte, fazendo um pedido final a José.",
-  "bloco_tematico": "Jacó e sua Família no Egito",
+  "contexto_historico": "Após a morte de Jacó, seus filhos, temendo a retaliação de José por todas as injustiças cometidas contra ele no passado (venda como escravo, roubo de bens, ofensa à sua honra), enviam mensageiros a José pedindo perdão e garantindo que seu pai havia ordenado que eles fossem perdoados antes de morrer. José recebe a notícia e chora, demonstrando que já havia perdoado seus irmãos há muito tempo, mas agora precisa reafirmar esse perdão publicamente e garantir a segurança futura deles e de suas famílias, especialmente após a morte do patriarca Jacó. 🏔️👨‍👩‍👧‍👦",
+  "bloco_tematico": "A Consumação do Perdão e a Provisão de José: A Transição da Família para a Nação 🕊️🤝",
   "versiculos": {
     "1": {
-      "parafrase": "Então José foi e informou o Faraó: 'Meu pai e meus irmãos, com seus rebanhos e gado, e tudo o que possuem, vieram da terra de Canaã e estão agora na terra de Gósen'.",
-      "referencias": [],
-      "comentario": "José cumpre sua promessa de informar o Faraó sobre a chegada de sua família. Ele já os posicionou em Gósen, a terra mais adequada para eles.",
-      "temas": ["informação", "chegada", "Gósen"],
-      "personagens": ["José", "Faraó"]
+      "parafrase": "Enquanto a terrível fome assolava a terra, todas as pessoas vinham a José no palácio, implorando por pão. José, o administrador de toda a província egípcia, distribuía as reservas de grãos para todos, pois o Egito era o único lugar onde havia comida.",
+      "referencias": [
+        "Gênesis 41:56",
+        "Salmos 33:19"
+      ],
+      "comentario": "O versículo inicial estabelece o cenário de crise global. A palavra hebraica para 'fome' (רָעָב - ra'av) denota uma fome extrema, não apenas escassez. José, agora em posição de poder absoluto (Gênesis 41:40), atua como o instrumento da providência divina, controlando o acesso ao sustento básico em meio ao caos.",
+      "temas": [
+        "Fome e Sobrevivência",
+        "Administração Divina",
+        "Poder de José"
+      ],
+      "personagens": [
+        "José",
+        "Povo do Egito"
+      ]
     },
     "2": {
-      "parafrase": "E levou cinco de seus irmãos para apresentá-los ao Faraó.",
-      "referencias": [],
-      "comentario": "José seleciona cinco irmãos para a apresentação, talvez os mais apresentáveis ou os que melhor representariam a família.",
-      "temas": ["apresentação", "seleção"],
-      "personagens": ["José", "irmãos de José", "Faraó"]
+      "parafrase": "Os filhos de Israel, vendo que a situação estava crítica também em Canaã, vieram com o restante de seus suprimentos e se apresentaram diante de José, pois o provedor de grãos era ele.",
+      "referencias": [
+        "Gênesis 42:1",
+        "Apocalipse 6:8"
+      ],
+      "comentario": "A família de Jacó finalmente se move em direção ao Egito. A motivação é a necessidade urgente. A referência à 'terra de Canaã' reforça o contraste entre a terra prometida (que agora sofre) e a terra providencial (o Egito).",
+      "temas": [
+        "A Família de Jacó",
+        "Necessidade",
+        "Migração"
+      ],
+      "personagens": [
+        "Filhos de Israel",
+        "José"
+      ]
     },
     "3": {
-      "parafrase": "O Faraó perguntou aos irmãos de José: 'Qual é a sua ocupação?' Eles responderam ao Faraó: 'Teus servos são pastores de ovelhas, tanto nós como nossos antepassados'.",
-      "referencias": ["Gênesis 46:34"],
-      "comentario": "Os irmãos seguem a instrução de José, declarando sua profissão de pastores. Isso, embora detestável para os egípcios, garantiria sua separação e o direito de habitar em Gósen.",
-      "temas": ["profissão", "separação cultural", "obediência"],
-      "personagens": ["Faraó", "irmãos de José"]
+      "parafrase": "José era o governador de toda aquela região, e era ele quem vendia o cereal ao povo. Então, os irmãos de José chegaram, prostraram-se com o rosto em terra, num gesto de profundo respeito e súplica.",
+      "referencias": [
+        "Gênesis 41:40",
+        "Filipenses 2:10"
+      ],
+      "comentario": "A prostração dos irmãos (שְׁחָקוּ - shachaq, prostrar-se) é um reconhecimento involuntário da nova hierarquia de poder. Este é um momento crucial de reconhecimento e humilhação, ainda que disfarçada, perante José.",
+      "temas": [
+        "Humilhação",
+        "Reconhecimento de Autoridade",
+        "Súplica"
+      ],
+      "personagens": [
+        "Irmãos de José",
+        "José"
+      ]
     },
     "4": {
-      "parafrase": "E acrescentaram: 'Viemos para habitar nesta terra por algum tempo, pois não há pastagem para os rebanhos de teus servos na terra de Canaã, já que a fome é muito severa. Por favor, permita que teus servos habitem na terra de Gósen'.",
-      "referencias": [],
-      "comentario": "Eles explicam a razão de sua vinda (a fome) e solicitam permissão para se estabelecerem em Gósen, a terra que José já havia providenciado para eles.",
-      "temas": ["solicitação", "fome", "Gósen"],
-      "personagens": ["irmãos de José"]
+      "parafrase": "José, ao reconhecer seus irmãos, teve o coração apertado, mas, agindo com astúcia, disfarçou sua identidade e falou com eles de forma séria e distante, como se fosse um estrangeiro.",
+      "referencias": [
+        "Gênesis 42:7",
+        "Lucas 24:16"
+      ],
+      "comentario": "José demonstra controle emocional notável. A palavra 'reconheceu' (וַיַּכֵּר - vayyaker) indica um reconhecimento visual, mas sua decisão de se esconder é estratégica. Ele precisa testá-los antes da revelação, seguindo um plano maior de Deus.",
+      "temas": [
+        "Estratégia",
+        "Autocontrole",
+        "Prova"
+      ],
+      "personagens": [
+        "José",
+        "Irmãos de José"
+      ]
     },
     "5": {
-      "parafrase": "Então o Faraó disse a José: 'Seu pai e seus irmãos vieram a você'.",
-      "referencias": [],
-      "comentario": "O Faraó reconhece a chegada da família de José.",
-      "temas": ["reconhecimento"],
-      "personagens": ["Faraó", "José"]
+      "parafrase": "José lhes perguntou, através de um intérprete, de onde vinham. Eles responderam: 'Viemos da terra de Canaã, pois a comida acabou em nossa terra e precisamos comprar sustento aqui no Egito'.",
+      "referencias": [
+        "Gênesis 45:4",
+        "Atos 2:8"
+      ],
+      "comentario": "O uso de um intérprete (pois José falava egípcio fluentemente) intensifica o distanciamento e o drama. A resposta dos irmãos é direta e reflete a gravidade de sua situação em Canaã.",
+      "temas": [
+        "Comunicação",
+        "Desespero",
+        "Origem"
+      ],
+      "personagens": [
+        "Irmãos de José",
+        "José"
+      ]
     },
     "6": {
-      "parafrase": "'A terra do Egito está à sua disposição. Faça seu pai e seus irmãos habitarem na melhor parte da terra. Que habitem na terra de Gósen. E, se você souber de homens capazes entre eles, coloque-os como encarregados de meus próprios rebanhos'.",
-      "referencias": [],
-      "comentario": "O Faraó, em sua generosidade e gratidão a José, não apenas concede o pedido, mas oferece a melhor terra e até mesmo posições de responsabilidade para os irmãos de José, mostrando o alto favor que José desfrutava.",
-      "temas": ["generosidade real", "favor", "provisão", "Gósen"],
-      "personagens": ["Faraó", "José"]
+      "parafrase": "José, sendo o administrador principal, era quem estava supervisionando tudo. Ao ver seus irmãos, ele se lembrou de seus sonhos de antigamente, quando eles se inclinavam perante ele. Por isso, ele manteve a compostura e a seriedade.",
+      "referencias": [
+        "Gênesis 37:7",
+        "Eclesiastes 3:1"
+      ],
+      "comentario": "Este versículo conecta diretamente o presente com o passado, validando os sonhos de José. O verbo 'lembrou-se' (וַיִּזְכֹּר - vayizkor) sublinha o propósito divino em toda a provação.",
+      "temas": [
+        "Profecia Cumprida",
+        "Propósito Divino",
+        "Memória"
+      ],
+      "personagens": [
+        "José"
+      ]
     },
     "7": {
-      "parafrase": "José trouxe seu pai Jacó e o apresentou ao Faraó. E Jacó abençoou o Faraó.",
-      "referencias": ["Hebreus 7:7"],
-      "comentario": "O encontro entre o patriarca da aliança e o rei do Egito. Jacó, o homem de Deus, abençoa o Faraó, o que implica que o menor é abençoado pelo maior. É um ato de autoridade espiritual.",
-      "temas": ["apresentação", "bênção patriarcal", "autoridade espiritual"],
-      "personagens": ["José", "Jacó", "Faraó"]
+      "parafrase": "José observou seus irmãos, que não o reconheceram, e então começou a conversar com eles com um tom autoritário, perguntando de onde haviam vindo.",
+      "referencias": [
+        "Gênesis 42:10",
+        "Mateus 10:16"
+      ],
+      "comentario": "A repetição da pergunta sobre a origem serve para confirmar a história e manter o controle da situação. A cegueira deles é tanto literal quanto espiritual; eles não conseguem ver o homem que desprezaram transformado em salvador.",
+      "temas": [
+        "Incredulidade",
+        "Julgamento Disfarçado",
+        "Observação"
+      ],
+      "personagens": [
+        "José",
+        "Irmãos de José"
+      ]
     },
     "8": {
-      "parafrase": "O Faraó perguntou a Jacó: 'Quantos anos você tem?'",
-      "referencias": [],
-      "comentario": "O Faraó pergunta sobre a idade de Jacó, talvez impressionado por sua aparência ou por sua bênção.",
-      "temas": ["curiosidade"],
-      "personagens": ["Faraó", "Jacó"]
+      "parafrase": "José, de fato, reconheceu seus irmãos, mas eles continuaram completamente alheios à identidade dele. Ele manteve a fachada de funcionário egípcio, austero e desconhecido.",
+      "referencias": [
+        "Gênesis 45:3",
+        "Hebreus 13:2"
+      ],
+      "comentario": "Este versículo serve como um comentário direto do narrador, confirmando a perspectiva de José e a ignorância dos irmãos. A distância forçada é necessária para a próxima fase do teste: a comprovação da mudança de caráter deles.",
+      "temas": [
+        "Mistério",
+        "Teste de Caráter",
+        "Reconhecimento"
+      ],
+      "personagens": [
+        "José",
+        "Irmãos de José"
+      ]
     },
     "9": {
-      "parafrase": "Jacó respondeu ao Faraó: 'Os dias dos anos de minha peregrinação são cento e trinta anos. Poucos e maus foram os dias dos anos de minha vida, e não atingiram os anos de vida de meus antepassados em suas peregrinações'.",
-      "referencias": [],
-      "comentario": "Jacó descreve sua vida como uma peregrinação, cheia de dificuldades e sofrimentos, apesar de ter vivido uma vida longa. Ele se compara a seus antepassados, reconhecendo que não viveu tanto quanto eles. Sua resposta reflete a realidade de sua vida, marcada por engano, exílio e perda.",
-      "temas": ["peregrinação", "sofrimento", "humildade", "mortalidade"],
-      "personagens": ["Jacó"]
+      "parafrase": "Lembrando-se então dos sonhos que havia tido no passado, ele os confrontou, dizendo: 'Vocês vieram aqui para espionar nossa terra! Vocês estão tentando descobrir onde somos mais vulneráveis!'.",
+      "referencias": [
+        "Gênesis 37:5",
+        "Salmos 139:23"
+      ],
+      "comentario": "José usa uma acusação forte baseada em seus sonhos (que eram visões proféticas). Embora a acusação seja tecnicamente falsa no momento presente, ela ecoa a acusação anterior que eles fizeram contra ele (Gênesis 37:19).",
+      "temas": [
+        "Acusação",
+        "Profecia",
+        "Espionagem"
+      ],
+      "personagens": [
+        "José",
+        "Irmãos de José"
+      ]
     },
     "10": {
-      "parafrase": "E Jacó abençoou o Faraó novamente e saiu de sua presença.",
-      "referencias": [],
-      "comentario": "Jacó abençoa o Faraó uma segunda vez, reafirmando a autoridade espiritual do homem de Deus sobre o governante terreno.",
-      "temas": ["bênção patriarcal", "autoridade espiritual"],
-      "personagens": ["Jacó", "Faraó"]
+      "parafrase": "Eles responderam em uníssono, com indignação: 'Não, meu senhor! Viemos unicamente para comprar comida. Somos todos filhos do mesmo pai, homens honestos, nunca fomos espiões!'.",
+      "referencias": [
+        "Gênesis 42:11",
+        "Provérbios 12:22"
+      ],
+      "comentario": "A resposta é uma defesa apaixonada, baseada na integridade que eles *acreditam* possuir agora (embora seu passado não justifique isso). Eles enfatizam a unidade familiar sob o patriarca ('mesmo pai').",
+      "temas": [
+        "Defesa",
+        "Integridade (Percebida)",
+        "Unidade Familiar"
+      ],
+      "personagens": [
+        "Irmãos de José"
+      ]
     },
     "11": {
-      "parafrase": "José estabeleceu seu pai e seus irmãos e lhes deu uma propriedade na terra do Egito, na melhor parte da terra, na região de Ramessés, como o Faraó havia ordenado.",
-      "referencias": ["Êxodo 1:11"],
-      "comentario": "José cumpre a ordem do Faraó, estabelecendo sua família na melhor parte da terra, que mais tarde seria conhecida como Ramessés, um local estratégico para a futura escravidão e êxodo.",
-      "temas": ["provisão", "assentamento", "Gósen"],
-      "personagens": ["José"]
+      "parafrase": "José rebateu, dizendo: 'Isso é impossível! Tenho certeza de que vocês vieram para observar as áreas onde esta terra não está sob escassez de alimentos!'.",
+      "referencias": [
+        "Gênesis 43:12",
+        "Romanos 2:2"
+      ],
+      "comentario": "A insistência de José em manter a acusação de espionagem é um dispositivo retórico para forçá-los a trazer Benjamim. Ele está testando a lealdade deles para com o pai e o irmão mais novo.",
+      "temas": [
+        "Persistência",
+        "Teste",
+        "Desconfiança"
+      ],
+      "personagens": [
+        "José"
+      ]
     },
     "12": {
-      "parafrase": "E José sustentou seu pai, seus irmãos e toda a casa de seu pai com comida, de acordo com o número de seus filhos.",
-      "referencias": [],
-      "comentario": "José assume a responsabilidade de prover para toda a sua família, cumprindo seu papel como o salvador de sua casa.",
-      "temas": ["provisão", "sustento", "responsabilidade"],
-      "personagens": ["José"]
+      "parafrase": "Eles insistiram novamente: 'Não, senhor! Somos doze irmãos, todos filhos de um só homem em Canaã. O mais novo ficou com nosso pai, e o outro, o que o senhor mencionou, já não está mais entre nós'.",
+      "referencias": [
+        "Gênesis 37:30",
+        "1 João 1:6"
+      ],
+      "comentario": "Aqui, eles mencionam a 'ausência' do outro irmão (José) de forma inconsciente, o que deve ter sido doloroso para José ouvir. A menção de serem 'doze' reforça que falta um, e eles estão sendo transparentes sobre a situação de Benjamim.",
+      "temas": [
+        "Transparência Forçada",
+        "Luto Involuntário",
+        "A Ausência"
+      ],
+      "personagens": [
+        "Irmãos de José"
+      ]
     },
     "13": {
-      "parafrase": "Não havia comida em toda a terra, pois a fome era muito severa, de modo que a terra do Egito e a terra de Canaã estavam exaustas por causa da fome.",
-      "referencias": [],
-      "comentario": "A fome atinge seu auge, afetando tanto o Egito quanto Canaã, mostrando a sabedoria da preparação de José.",
-      "temas": ["fome severa", "escassez"],
-      "personagens": []
+      "parafrase": "Mas José insistiu, afirmando: 'É exatamente como eu disse: vocês vieram para espiar as vulnerabilidades desta terra!'.",
+      "referencias": [
+        "Gênesis 42:14",
+        "1 Pedro 4:12"
+      ],
+      "comentario": "O poder da repetição de José serve para desgastar a resistência deles e mover o plano adiante. Ele não está interessado na verdade factual da espionagem, mas em forçar a próxima etapa da confissão ou da prova.",
+      "temas": [
+        "Confronto",
+        "Drama Narrativo",
+        "Pressão"
+      ],
+      "personagens": [
+        "José"
+      ]
     },
     "14": {
-      "parafrase": "José recolheu todo o dinheiro que havia na terra do Egito e na terra de Canaã em troca do trigo que compravam, e José levou o dinheiro para a casa do Faraó.",
-      "referencias": [],
-      "comentario": "A política de José começa a centralizar a riqueza do Egito nas mãos do Faraó. O dinheiro é o primeiro recurso a ser esgotado.",
-      "temas": ["política econômica", "centralização de riqueza"],
-      "personagens": ["José", "Faraó"]
+      "parafrase": "Com um suspiro, eles reafirmaram: 'É verdade que nós, seus servos, não somos homens de guerra. Somos simplesmente homens que vieram buscar alimento, cada um de nós vindo de sua respectiva casa'.",
+      "referencias": [
+        "Gênesis 44:6",
+        "2 Coríntios 5:20"
+      ],
+      "comentario": "A rendição verbal é quase completa. O uso de 'somos simplesmente homens' enfatiza sua posição humilde perante o poder egípcio, contrastando com a imagem de espiões poderosos.",
+      "temas": [
+        "Submissão",
+        "Simplicidade",
+        "Exaustão"
+      ],
+      "personagens": [
+        "Irmãos de José"
+      ]
     },
     "15": {
-      "parafrase": "Quando o dinheiro acabou na terra do Egito e na terra de Canaã, todos os egípcios foram a José e disseram: 'Dê-nos comida! Por que deveríamos morrer diante de seus olhos? Pois o dinheiro acabou'.",
-      "referencias": [],
-      "comentario": "O povo egípcio, sem dinheiro, clama por comida, mostrando a gravidade da situação.",
-      "temas": ["desespero", "fome"],
-      "personagens": ["José"]
+      "parafrase": "José então lhes disse o que faria: 'Para provar que estão falando a verdade, façam o seguinte: Eu juro pela vida do Faraó, que vocês não sairão daqui até que tragam o irmão mais novo de vocês para cá!'.",
+      "referencias": [
+        "Gênesis 42:15",
+        "Mateus 5:34"
+      ],
+      "comentario": "Este é o clímax da primeira fase do teste. José introduz a condição inegociável, usando o nome do Faraó como garantia de seu juramento, o que era a mais alta forma de compromisso no Egito.",
+      "temas": [
+        "Juramento",
+        "Condição",
+        "Retenção"
+      ],
+      "personagens": [
+        "José"
+      ]
     },
     "16": {
-      "parafrase": "José respondeu: 'Se o dinheiro acabou, tragam seus rebanhos, e eu lhes darei comida em troca de seus rebanhos'.",
-      "referencias": [],
-      "comentario": "José propõe a próxima fase de sua política: trocar gado por comida. Isso transfere a riqueza animal para o Faraó.",
-      "temas": ["política econômica", "troca"],
-      "personagens": ["José"]
+      "parafrase": "Ele enviou um de seus homens com eles, dizendo: 'Vão agora! Um de vocês precisa voltar para buscar seu irmão, enquanto os outros permanecerão aqui, como garantia de que não são espiões. Assim, suas palavras serão verificadas pela sua liberdade aqui nesta terra'.",
+      "referencias": [
+        "Gênesis 42:17",
+        "1 Pedro 3:18"
+      ],
+      "comentario": "José implementa a estratégia de reter reféns. A permanência de nove irmãos (ou dez, dependendo da contagem, pois Simão foi retido antes) serve como segurança de que eles retornarão. Esta retenção é a primeira penalidade visível.",
+      "temas": [
+        "Reféns",
+        "Garantia",
+        "Prisão Provisória"
+      ],
+      "personagens": [
+        "José",
+        "Irmãos de José"
+      ]
     },
     "17": {
-      "parafrase": "Então eles trouxeram seus rebanhos a José, e José lhes deu comida em troca de cavalos, ovelhas, gado e jumentos. E ele os sustentou com comida em troca de todos os seus rebanhos naquele ano.",
-      "referencias": [],
-      "comentario": "A troca é feita, e o Faraó adquire uma vasta quantidade de gado.",
-      "temas": ["política econômica", "sustento"],
-      "personagens": ["José"]
+      "parafrase": "José os mandou prender juntos por três dias. Durante esse tempo, eles ficaram encarcerados, ponderando sobre o que estava acontecendo com eles.",
+      "referencias": [
+        "Jonas 2:10",
+        "Salmos 13:1"
+      ],
+      "comentario": "O período de confinamento de três dias é significativo (ecoando a ressurreição, embora não seja uma aplicação direta). É um tempo de introspecção forçada, onde a realidade de sua situação e a provável ira de José (que eles mal compreendem) os atinge.",
+      "temas": [
+        "Isolamento",
+        "Reflexão",
+        "Punição Temporária"
+      ],
+      "personagens": [
+        "José",
+        "Irmãos de José"
+      ]
     },
     "18": {
-      "parafrase": "Quando aquele ano terminou, eles foram a ele no ano seguinte e disseram: 'Não podemos esconder de meu senhor que, como o dinheiro e os rebanhos foram entregues a meu senhor, nada mais nos resta para oferecer a meu senhor, exceto nossos corpos e nossas terras'.",
-      "referencias": [],
-      "comentario": "O povo egípcio está em desespero total, sem mais nada para oferecer além de si mesmos e suas terras. Eles estão dispostos a se tornar servos do Faraó para sobreviver.",
-      "temas": ["desespero", "servidão", "perda de propriedade"],
-      "personagens": ["José"]
+      "parafrase": "No terceiro dia, José os soltou e disse: 'Façam o que eu disse: voltem para casa, levem os suprimentos para suas famílias famintas e tragam seu irmão mais novo de volta a mim. Assim, provarei que são homens verdadeiros, e não espiões, e vocês não morrerão'.",
+      "referencias": [
+        "Gênesis 42:18",
+        "João 10:11"
+      ],
+      "comentario": "O libertamento e a reafirmação da ordem mostram a misericórdia de José, misturada com sua firmeza. A promessa de que 'não morrerão' está condicionada ao retorno de Benjamim.",
+      "temas": [
+        "Libertação Condicional",
+        "Misericórdia",
+        "Condição de Sobrevivência"
+      ],
+      "personagens": [
+        "José",
+        "Irmãos de José"
+      ]
     },
     "19": {
-      "parafrase": "'Por que deveríamos morrer diante de seus olhos, tanto nós como nossa terra? Compre-nos e nossa terra em troca de comida, e nós e nossa terra seremos servos do Faraó. Dê-nos sementes para que possamos viver e não morrer, e para que a terra não se torne um deserto'.",
-      "referencias": [],
-      "comentario": "Eles propõem a si mesmos e suas terras como pagamento, pedindo sementes para o futuro, mostrando que estão pensando na sobrevivência a longo prazo.",
-      "temas": ["servidão", "sobrevivência", "futuro"],
-      "personagens": ["Faraó"]
+      "parafrase": "Eles, então, se aproximaram, com medo, e disseram: 'Meu senhor, se somos homens honestos, por favor, liberte um de nós aqui, como refém, para cuidar de nossos pais e de nossos filhos, e deixe o restante voltar com o cereal'.",
+      "referencias": [
+        "Gênesis 42:19",
+        "Isaías 1:17"
+      ],
+      "comentario": "Aqui vemos a primeira evidência de sacrifício pessoal e mudança de coração. Eles estão dispostos a deixar um deles (Simão, o refém inicial, ou outro) para trás, mostrando preocupação com o pai, Jacó, e a responsabilidade familiar.",
+      "temas": [
+        "Sacrifício Pessoal",
+        "Responsabilidade Parental",
+        "Negociação"
+      ],
+      "personagens": [
+        "Irmãos de José"
+      ]
     },
     "20": {
-      "parafrase": "Assim, José comprou toda a terra do Egito para o Faraó. Cada egípcio vendeu seu campo, porque a fome era muito severa para eles. E a terra se tornou propriedade do Faraó.",
-      "referencias": [],
-      "comentario": "José consolida todo o poder e a propriedade da terra nas mãos do Faraó. É uma centralização massiva de poder e riqueza, resultado da crise da fome.",
-      "temas": ["centralização de poder", "propriedade real", "política econômica"],
-      "personagens": ["José", "Faraó"]
+      "parafrase": "Mas eles insistiram com José: 'Não podemos desobedecer ao nosso pai, pois ele ficaria desolado se não voltássemos com ele, pois ele já perdeu um filho! Se não voltarmos, o coração dele se quebrará de tristeza!'.",
+      "referencias": [
+        "Gênesis 44:29",
+        "Salmos 34:18"
+      ],
+      "comentario": "A menção de 'já perdeu um filho' é um golpe direto no coração de José. Eles estão, sem saber, detalhando a dor que causaram a Jacó com a 'morte' de José. A lealdade deles ao pai agora é a principal alavanca emocional.",
+      "temas": [
+        "Dor do Pai",
+        "Lealdade Familiar",
+        "Arrependimento (Implícito)"
+      ],
+      "personagens": [
+        "Irmãos de José",
+        "Jacó"
+      ]
     },
     "21": {
-      "parafrase": "Quanto ao povo, ele o transferiu para as cidades, de uma extremidade à outra do Egito.",
-      "referencias": [],
-      "comentario": "José realoca a população, talvez para facilitar a distribuição de alimentos e o controle, ou para quebrar laços com suas terras ancestrais.",
-      "temas": ["reorganização social", "controle"],
-      "personagens": ["José"]
+      "parafrase": "Ao ouvirem isso, os irmãos ficaram profundamente abalados e começaram a conversar entre si, dizendo: 'Verdadeiramente, fomos culpados por causa de nosso irmão! Vimos a angústia da alma dele quando ele nos implorava por misericórdia, mas não quisemos ouvir. É por isso que esta aflição nos atingiu agora!'.",
+      "referencias": [
+        "Gênesis 42:24",
+        "Gálatas 6:7"
+      ],
+      "comentario": "Este é o ponto de virada exegético. Pela primeira vez, os irmãos articulam a culpa pelo que fizeram com José. Eles conectam a calamidade presente (fome, prisão) com seu pecado passado. A angústia (צָרָה - tsarah) que viram em José agora reflete a sua própria.",
+      "temas": [
+        "Culpa Reconhecida",
+        "Consequência do Pecado",
+        "Arrependimento Genuíno"
+      ],
+      "personagens": [
+        "Irmãos de José"
+      ]
     },
     "22": {
-      "parafrase": "Somente a terra dos sacerdotes ele não comprou, porque os sacerdotes tinham uma porção fixa do Faraó e viviam da porção que o Faraó lhes dava. Por isso não venderam suas terras.",
-      "referencias": [],
-      "comentario": "Os sacerdotes são a única classe que mantém suas terras, pois já eram sustentados pelo Faraó. Isso mostra a importância da classe sacerdotal no Egito e a sabedoria de José em não aliená-los.",
-      "temas": ["exceção", "privilégio sacerdotal", "política"],
-      "personagens": ["José", "Faraó"]
+      "parafrase": "Rubem interveio, lembrando-os do que havia dito no passado: 'Eu lhes avisei que não deveriam machucar o rapaz, mas vocês não me deram ouvidos! Agora, precisamos prestar contas pelo sangue dele, pois ele está sofrendo!'.",
+      "referencias": [
+        "Gênesis 37:21",
+        "Ezequiel 33:6"
+      ],
+      "comentario": "Rubem assume seu papel de líder moral e lembra aos outros que ele havia tentado interceder pela vida de José. O termo 'sangue dele' (Heb. דָּמוֹ - damo) aponta para a possibilidade real de morte que eles ignoraram.",
+      "temas": [
+        "Responsabilidade de Rubem",
+        "Advertência Ignorada",
+        "Prestação de Contas"
+      ],
+      "personagens": [
+        "Rubem",
+        "Irmãos de José"
+      ]
     },
     "23": {
-      "parafrase": "Então José disse ao povo: 'Hoje eu comprei vocês e suas terras para o Faraó. Aqui estão as sementes para vocês semearem a terra'.",
-      "referencias": [],
-      "comentario": "José anuncia a nova ordem: eles são agora servos do Faraó, mas recebem sementes para recomeçar a vida e cultivar a terra.",
-      "temas": ["nova ordem social", "servidão", "recomeço"],
-      "personagens": ["José", "Faraó"]
+      "parafrase": "Eles não sabiam que José podia entendê-los, pois ele estava conversando com eles por meio do intérprete, mantendo sua distância. O peso de suas palavras confusas e arrependidas recaía sobre ele.",
+      "referencias": [
+        "Gênesis 45:2",
+        "Salmos 142:3"
+      ],
+      "comentario": "O narrador nos lembra da ironia dramática: eles confessam seu crime diante do ofendido, que está silenciosamente absorvendo a dor e a realização do remorso deles. O intérprete é a barreira que permite a José absorver tudo sem se revelar.",
+      "temas": [
+        "Ironia Dramática",
+        "Confissão Inconsciente",
+        "Barreira Linguística"
+      ],
+      "personagens": [
+        "José",
+        "Irmãos de José",
+        "Intérprete"
+      ]
     },
     "24": {
-      "parafrase": "'Quando houver a colheita, vocês darão um quinto ao Faraó, e os outros quatro quintos serão de vocês, para semente para o campo e para comida para vocês, suas famílias e seus filhos'.",
-      "referencias": [],
-      "comentario": "José institui uma lei de imposto de 20% sobre a colheita. Isso garante uma renda contínua para o Faraó e deixa o suficiente para o povo sobreviver e prosperar. É uma solução justa e sustentável para a crise.",
-      "temas": ["imposto", "sustentabilidade", "justiça"],
-      "personagens": ["José", "Faraó"]
+      "parafrase": "Então, José se afastou deles e chorou. Ao voltar para falar com eles, ele manteve seu semblante sério e austero, e então ordenou que Simão fosse acorrentado e entregue a eles como refém.",
+      "referencias": [
+        "Gênesis 45:14",
+        "Hebreus 4:13"
+      ],
+      "comentario": "Este é o momento da emoção reprimida de José. Ele se ausenta para chorar ('chorou' - וַיִּבְכְּ - vayivk), indicando que a dor do reencontro e o alívio do remorso dos irmãos foram avassaladores. Ele então solidifica a retenção de Simão como a prova prática de que eles devem retornar.",
+      "temas": [
+        "Emoção Reprimida",
+        "Remorso Validado",
+        "Ato de Retenção"
+      ],
+      "personagens": [
+        "José",
+        "Simão"
+      ]
     },
     "25": {
-      "parafrase": "Eles responderam: 'Você salvou nossas vidas. Que encontremos favor aos olhos de meu senhor, e seremos servos do Faraó'.",
-      "referencias": [],
-      "comentario": "O povo egípcio reconhece que José salvou suas vidas e aceita a nova lei, expressando gratidão e submissão ao Faraó.",
-      "temas": ["gratidão", "submissão", "salvação"],
-      "personagens": ["José", "Faraó"]
+      "parafrase": "José ordenou que enchessem seus sacos com o trigo que haviam trazido, que lhes devolvessem seu dinheiro, colocando-o de volta nos sacos, e que lhes dessem provisões para a viagem de volta. Assim, ele os despachou de volta para Canaã.",
+      "referencias": [
+        "Gênesis 42:25",
+        "2 Coríntios 9:7"
+      ],
+      "comentario": "A generosidade de José é notável. Ele não apenas lhes vende o grão, mas lhes devolve o dinheiro. Este ato, puramente de sua iniciativa, demonstra que seu objetivo principal não é o lucro ou a vingança, mas sim a reconciliação guiada por Deus, garantindo que a viagem de volta não seja um fardo financeiro, além do emocional.",
+      "temas": [
+        "Generosidade",
+        "Provisão",
+        "Início da Reconciliação"
+      ],
+      "personagens": [
+        "José"
+      ]
     },
     "26": {
-      "parafrase": "Assim, José estabeleceu isso como uma lei na terra do Egito, que permanece até hoje: um quinto da produção pertence ao Faraó. Somente a terra dos sacerdotes não se tornou propriedade do Faraó.",
-      "referencias": [],
-      "comentario": "A lei de José se torna uma instituição permanente no Egito, mostrando o impacto duradouro de sua administração. A exceção para os sacerdotes é reafirmada.",
-      "temas": ["legado", "lei", "impacto duradouro"],
-      "personagens": ["José", "Faraó"]
+      "parafrase": "Assim, José estabeleceu uma lei perpétua para o Egito: ele decretou que, dali em diante, apenas a terra pertencente aos sacerdotes seria isenta de impostos, pois eles recebiam sua subsistência diretamente do tesouro real, enquanto toda a terra restante pertencia ao Faraó. 👑 O povo egípcio, que havia se vendido durante a fome, agora se tornava servil, entregando um quinto de tudo que produziam, como um tributo anual ao governante supremo, o Faraó, reconhecendo-o como dono de tudo.",
+      "referencias": [
+        "Êxodo 21:2",
+        "Levítico 27:30",
+        "Deuteronômio 14:22"
+      ],
+      "comentario": "Este versículo solidifica a gestão de José durante a crise. Ele cria um sistema tributário de 20% (um quinto), transformando a população egípcia em servos do Faraó, que agora detinha toda a propriedade da terra (exceto a do clero). O termo hebraico para 'imposto' ou 'tributo' é *mâs* (מַס), referindo-se a um imposto direto. A isenção dos sacerdotes (*kohanim*) assegura a continuidade do culto e da estrutura religiosa, mantendo-os financeiramente dependentes da coroa, mas livres da carga produtiva.",
+      "temas": [
+        "Sistema Tributário",
+        "Propriedade da Terra",
+        "Poder Real"
+      ],
+      "personagens": [
+        "José",
+        "Faraó"
+      ]
     },
     "27": {
-      "parafrase": "Israel habitou na terra do Egito, na região de Gósen. Eles adquiriram propriedades ali e foram frutíferos e se multiplicaram grandemente.",
-      "referencias": ["Êxodo 1:7"],
-      "comentario": "A família de Jacó prospera no Egito, cumprindo a promessa de Deus de multiplicação. Gósen se torna um lugar de crescimento e segurança para eles.",
-      "temas": ["prosperidade", "multiplicação", "Gósen", "cumprimento da promessa"],
-      "personagens": ["Israel (Jacó)"]
+      "parafrase": "E assim ocorreu. Os descendentes de Israel se estabeleceram na terra de Gósen, uma região fértil e de pastagens ricas, onde prosperaram e se multiplicaram enormemente, tornando-se uma nação numerosa e poderosa no meio do povo egípcio. 🌾 Eles não foram assimilados, mas mantiveram sua identidade, crescendo vigorosamente sob a proteção de José.",
+      "referencias": [
+        "Êxodo 1:7",
+        "Salmos 105:23"
+      ],
+      "comentario": "O Israel (descendentes de Jacó) torna-se um corpo estranho e fértil dentro do Egito. A bênção divina da multiplicação (vista em Abraão) continua a se cumprir em solo estrangeiro. Gósen é descrita como uma terra abençoada, ideal para seu modo de vida pastoral. O crescimento exponencial ('multiplicaram-se e cresceram') é um sinal do favor divino, preparando o palco para o Êxodo futuro.",
+      "temas": [
+        "Multiplicação do Povo",
+        "Estabelecimento em Gósen",
+        "Provisão Divina"
+      ],
+      "personagens": [
+        "Descendentes de Israel"
+      ]
     },
     "28": {
-      "parafrase": "Jacó viveu na terra do Egito por dezessete anos. Assim, os dias de Jacó, os anos de sua vida, foram cento e quarenta e sete anos.",
-      "referencias": [],
-      "comentario": "A duração da estadia de Jacó no Egito e sua idade total são registradas. Ele viveu seus últimos anos em paz e prosperidade, cercado por sua família.",
-      "temas": ["longevidade", "paz", "prosperidade"],
-      "personagens": ["Jacó"]
+      "parafrase": "Os israelitas passaram dezessete anos habitando o Egito, desfrutando da fartura e da paz que o governo de José havia garantido após a grande seca. Durante este tempo, Jacó viveu confortavelmente, sabendo que seus filhos estavam seguros e bem cuidados. 👴",
+      "referencias": [
+        "Gênesis 45:6"
+      ],
+      "comentario": "Este versículo fornece a cronologia crucial: 17 anos de morada no Egito. Este período é o tempo de paz e estabilidade antes que a opressão comece (que culminará na escravidão e no Êxodo). A palavra hebraica para 'viviam' é *yāšab* (יָשַׁב), indicando uma ocupação estável e estabelecida.",
+      "temas": [
+        "Duração da Estadia",
+        "Paz sob José"
+      ],
+      "personagens": [
+        "Jacó",
+        "Israelitas"
+      ]
     },
     "29": {
-      "parafrase": "Quando o tempo de Israel se aproximou da morte, ele chamou seu filho José e lhe disse: 'Se encontrei favor aos seus olhos, por favor, coloque sua mão debaixo da minha coxa e jure que você não me sepultará no Egito'.",
-      "referencias": ["Gênesis 24:2"],
-      "comentario": "Jacó, em seu leito de morte, faz um pedido solene a José. Ele quer ser sepultado na terra prometida, não no Egito. Este pedido é um ato de fé na promessa de Deus de que a terra de Canaã seria a herança de sua descendência.",
-      "temas": ["pedido de morte", "juramento solene", "fé na promessa", "sepultamento"],
-      "personagens": ["Israel (Jacó)", "José"]
+      "parafrase": "No entanto, o tempo de Jacó estava se aproximando do fim. Ele sentiu a proximidade da morte e chamou seus filhos, que ainda estavam vivos, para perto de sua cama. Ele expressou um desejo solene: 'Meu coração está inquieto, pois sei que o fim chegou; não quero ser sepultado nesta terra estrangeira.' ⚰️",
+      "referencias": [
+        "Hebreus 11:21"
+      ],
+      "comentario": "A proximidade da morte de Jacó (e, consequentemente, o fim da aliança de José com o Egito) é o catalisador para a próxima seção do livro. O desejo de ser enterrado na Terra Prometida (Canaã) é um ato de fé fundamental. Ele se recusa a ter seu descanso final na terra onde Deus fez a promessa, mas que não era a terra prometida. Este desejo ecoa a fé de Abraão e Isaque.",
+      "temas": [
+        "Mortalidade",
+        "Fé na Promessa",
+        "Desejo de Sepultamento"
+      ],
+      "personagens": [
+        "Jacó"
+      ]
     },
     "30": {
-      "parafrase": "'Mas, quando eu descansar com meus pais, leve-me do Egito e sepulte-me no túmulo deles'. José respondeu: 'Farei como o senhor me pediu'.",
-      "referencias": [],
-      "comentario": "Jacó quer ser sepultado com seus antepassados na caverna de Macpela, um sinal de sua identidade e sua esperança na ressurreição. José concorda em cumprir o pedido de seu pai.",
-      "temas": ["sepultamento", "esperança", "obediência filial"],
-      "personagens": ["Jacó", "José"]
+      "parafrase": "Jacó implorou a seus filhos: 'Juro-lhes solenemente: quando eu morrer, não me deixem aqui. Por favor, levem meu corpo para longe do Egito e me sepultem no túmulo que meus antepassados, Abraão e Isaque, escolheram, na terra de Canaã, no campo que me pertence!' Eles prometeram obedecer-lhe imediatamente. 🤝",
+      "referencias": [
+        "Gênesis 49:29"
+      ],
+      "comentario": "O juramento (*shâbua'*) é um ato formal e vinculante. Jacó exige ser colocado ao lado de seus pais na caverna de Macpela (Gênesis 25:9-10; 35:27-29). Isso reforça a prioridade da herança divina sobre o conforto terreno imediato. Os filhos concordam prontamente, demonstrando respeito e amor ao pai moribundo. Este é o último ato de Jacó como patriarca.",
+      "temas": [
+        "Compromisso e Lealdade",
+        "Sepultamento em Canaã",
+        "Herança Patriarcal"
+      ],
+      "personagens": [
+        "Jacó",
+        "Filhos de Jacó"
+      ]
     },
     "31": {
-      "parafrase": "Então Jacó disse: 'Jure para mim'. E José jurou. E Israel se curvou sobre a cabeceira da cama.",
-      "referencias": ["Hebreus 11:21"],
-      "comentario": "Jacó exige um juramento formal para garantir que seu desejo seja cumprido. O ato de se curvar sobre a cabeceira da cama é um ato de adoração e gratidão a Deus, que lhe deu a promessa e a certeza de seu cumprimento, mesmo na morte.",
-      "temas": ["juramento", "adoração", "fé na morte"],
-      "personagens": ["Jacó", "José"]
+      "parafrase": "Jacó respondeu, concordando com o que havia ouvido: 'Pois bem, eu aceito a promessa de vocês. Eu confio que vocês farão o que é certo.' E, com essa garantia firme em seu coração, Jacó se prostrou sobre a cabeceira de sua cama, rendendo o último suspiro. 🙏",
+      "referencias": [
+        "Hebreus 11:21"
+      ],
+      "comentario": "A palavra hebraica aqui traduzida como 'prostrar-se' (*shāchah*, שָׁחָה) é frequentemente usada para adoração, mas neste contexto indica um ato de profunda reverência, aceitação e submissão final à vontade de Deus, manifestada através da promessa dos filhos. É a aceitação da morte, mas apenas sob a condição de que seu corpo retorne à terra da promessa. Assim, o patriarca morre, investindo sua esperança na fidelidade de sua descendência.",
+      "temas": [
+        "Aceitação da Morte",
+        "Fidelidade",
+        "Adoração/Reverência Final"
+      ],
+      "personagens": [
+        "Jacó"
+      ]
     }
   }
 }

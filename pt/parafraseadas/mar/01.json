@@ -1,323 +1,760 @@
 {
   "livro": "Marcos",
   "capitulo": 1,
-  "contexto_historico": "O Evangelho de Marcos é o mais curto e o mais dinâmico dos quatro evangelhos, focado na ação e no poder de Jesus como o Filho de Deus e Servo sofredor. Ele foi escrito provavelmente para um público gentio, com ênfase nos milagres e na autoridade de Jesus. Este capítulo inicial apresenta o ministério de João Batista, o batismo e a tentação de Jesus, o chamado dos primeiros discípulos e uma série de curas e expulsões de demônios, demonstrando a autoridade de Jesus.",
-  "bloco_tematico": "O Início do Evangelho: João Batista, Batismo e Primeiros Milagres",
+  "contexto_historico": "O Evangelho de Marcos é frequentemente considerado o mais antigo e o mais conciso dos quatro evangelhos canônicos. Escrito provavelmente em Roma, em meio a um contexto de perseguição cristã (possivelmente sob Nero ou Domiciano), ele visa solidificar a identidade de Jesus como o Messias sofredor e o verdadeiro servo de Deus. O contexto histórico imediato é o judaísmo sob domínio romano e a crescente expectativa messiânica. O texto é escrito para um público gentio cristão, que precisa de uma apresentação clara e direta da autoridade de Jesus e do chamado ao discipulado sacrificial. A narrativa é marcada pela urgência (\"e imediatamente\"). ⏳",
+  "bloco_tematico": "O Início da Boa Nova: A Autoridade Incontestável de Jesus e o Chamado Urgente ao Discipulado 📢",
   "versiculos": {
     "1": {
-      "parafrase": "O início do evangelho de Jesus, o Messias, o Filho de Deus.",
-      "referencias": [],
-      "comentario": "Marcos começa seu evangelho com uma declaração concisa e poderosa, identificando Jesus como o Messias (Cristo) e o Filho de Deus. Este é o tema central de todo o livro.",
-      "temas": ["evangelho", "Jesus", "Messias", "Filho de Deus"],
-      "personagens": []
+      "parafrase": "Este é o início da grande notícia, a revelação gloriosa sobre Jesus Cristo, o Filho de Deus, conforme profetizado nas Escrituras Antigas.",
+      "referencias": [
+        "Malaquias 3:1",
+        "Isaías 40:3"
+      ],
+      "comentario": "O versículo funciona como um título (epígrafe) para todo o evangelho. A menção a 'Cristo' (do grego *Christos*, equivalente ao hebraico *Messias*) e 'Filho de Deus' estabelece imediatamente a identidade messiânica e divina de Jesus, contrastando com a expectativa da época.",
+      "temas": [
+        "Início da Boa Nova",
+        "Identidade de Jesus",
+        "Profecia"
+      ],
+      "personagens": [
+        "Jesus Cristo"
+      ]
     },
     "2": {
-      "parafrase": "Como está escrito no profeta Isaías: 'Eis que eu envio o meu mensageiro adiante de ti, que preparará o teu caminho diante de ti.'",
-      "referencias": ["Malaquias 3:1"],
-      "comentario": "Marcos cita a profecia do Antigo Testamento, identificando João Batista como o mensageiro que prepararia o caminho para a vinda do Messias. A citação é uma combinação de Malaquias e Isaías.",
-      "temas": ["cumprimento da profecia", "João Batista", "mensageiro", "preparação"],
-      "personagens": ["Deus"]
+      "parafrase": "O cumprimento das promessas divinas começou a se manifestar exatamente como foi escrito pelos profetas, mostrando que Deus estava preparando o caminho, conforme anunciado por Isaías.",
+      "referencias": [
+        "Isaías 64:1",
+        "Malaquias 3:1"
+      ],
+      "comentario": "O uso da citação tripla (embora este versículo cite apenas parte da ideia) sublinha a fidelidade de Deus ao Seu plano. O evangelho de Marcos é focado na ação, e esta introdução estabelece o cumprimento da história de Israel em Jesus.",
+      "temas": [
+        "Fidelidade de Deus",
+        "Cumprimento profético",
+        "Preparação"
+      ],
+      "personagens": []
     },
     "3": {
-      "parafrase": "'Voz do que clama no deserto: Preparem o caminho do Senhor, endireitem as suas veredas.'",
-      "referencias": ["Isaías 40:3"],
-      "comentario": "A voz de João Batista no deserto é o cumprimento da profecia, chamando o povo ao arrependimento e à preparação para a chegada do Senhor.",
-      "temas": ["voz no deserto", "preparação", "arrependimento"],
-      "personagens": ["João Batista"]
+      "parafrase": "Surgiu no deserto um homem, João, clamando em voz alta, como um arauto poderoso: 'Abram um caminho reto para o Senhor! Preparem a estrada para que Ele venha!'",
+      "referencias": [
+        "Isaías 40:3",
+        "Lucas 1:17"
+      ],
+      "comentario": "João Batista é apresentado como o Elias que retornaria (referência a Malaquias 4:5). Ele atua como o 'precursor' (do grego *prodromos*), cuja função é preparar o caminho, sinalizando uma intervenção divina imediata.",
+      "temas": [
+        "Precursor",
+        "Voz no deserto",
+        "Arrependimento"
+      ],
+      "personagens": [
+        "João Batista"
+      ]
     },
     "4": {
-      "parafrase": "João apareceu batizando no deserto e pregando o batismo de arrependimento para o perdão dos pecados.",
-      "referencias": ["Mateus 3:1", "Lucas 3:3"],
-      "comentario": "João Batista inicia seu ministério, pregando um batismo que simboliza o arrependimento e a purificação dos pecados, preparando o povo para o Messias.",
-      "temas": ["João Batista", "batismo de arrependimento", "perdão de pecados"],
-      "personagens": ["João Batista"]
+      "parafrase": "João apareceu, batizando o povo na região do deserto, pregando uma mensagem de que as pessoas deveriam se arrepender profundamente dos seus erros e se voltar para Deus, para que seus pecados fossem perdoados.",
+      "referencias": [
+        "Atos 2:38",
+        "Mateus 3:1"
+      ],
+      "comentario": "O batismo de João (*baptisma*) era um rito de purificação ligado à ideia de 'imersão' e simbolizava a lavagem moral. Este ato público de arrependimento (*metanoia*, mudança de mente) era pré-requisito para a vinda do Messias.",
+      "temas": [
+        "Batismo",
+        "Arrependimento",
+        "Perdão"
+      ],
+      "personagens": [
+        "João Batista"
+      ]
     },
     "5": {
-      "parafrase": "E toda a província da Judeia e todos os habitantes de Jerusalém iam ter com ele, e eram batizados por ele no rio Jordão, confessando os seus pecados.",
-      "referencias": [],
-      "comentario": "A pregação de João atraiu grandes multidões, que reconheciam seus pecados e buscavam a purificação através do batismo.",
-      "temas": ["multidões", "confissão de pecados", "batismo"],
-      "personagens": ["João Batista"]
+      "parafrase": "E todo o povo da Judeia, incluindo os habitantes de Jerusalém, vinha a ele. Eles confessavam seus pecados abertamente, e João os batizava nas águas do rio Jordão.",
+      "referencias": [
+        "Mateus 3:5-6",
+        "Lucas 3:3"
+      ],
+      "comentario": "O movimento era amplo, envolvendo a capital (Jerusalém) e a província (Judeia). A confissão pública dos pecados (*homologeo*) era um sinal de sinceridade no arrependimento exigido.",
+      "temas": [
+        "Movimento popular",
+        "Confissão",
+        "Rio Jordão"
+      ],
+      "personagens": [
+        "João Batista",
+        "Povo da Judeia",
+        "Habitantes de Jerusalém"
+      ]
     },
     "6": {
-      "parafrase": "João vestia-se de pelos de camelo, com um cinto de couro na cintura, e comia gafanhotos e mel silvestre.",
-      "referencias": ["Mateus 3:4"],
-      "comentario": "A aparência e a dieta de João o identificam com o profeta Elias, reforçando seu papel como o precursor do Messias.",
-      "temas": ["aparência profética", "Elias", "simplicidade"],
-      "personagens": ["João Batista"]
+      "parafrase": "João vestia-se de um modo muito simples e áspero: suas roupas eram feitas de pelos de camelo, e ele usava um cinto de couro amarrado à cintura. Sua alimentação era peculiar, consistindo em gafanhotos e mel silvestre.",
+      "referencias": [
+        "2 Reis 1:8",
+        "Mateus 3:4"
+      ],
+      "comentario": "Esta descrição evoca Elias, o profeta que vestia pele (2 Reis 1:8). O traje e a dieta simbolizam um estilo de vida ascético, distanciado da corrupção urbana e focado na pureza do deserto.",
+      "temas": [
+        "Ascetismo",
+        "Profetismo",
+        "Identidade visual"
+      ],
+      "personagens": [
+        "João Batista"
+      ]
     },
     "7": {
-      "parafrase": "E ele pregava, dizendo: 'Depois de mim vem aquele que é mais poderoso do que eu, de quem não sou digno de, curvando-me, desatar a correia das suas sandálias.'",
-      "referencias": ["Mateus 3:11", "João 1:27"],
-      "comentario": "João reconhece a superioridade de Jesus, afirmando sua própria indignidade em comparação com o Messias. Desatar as sandálias era uma tarefa de um servo, e João se considera indigno até mesmo disso.",
-      "temas": ["superioridade de Jesus", "humildade de João Batista", "Messias"],
-      "personagens": ["João Batista"]
+      "parafrase": "E João proclamava com veemência: 'Um alguém mais poderoso do que eu está vindo logo depois de mim, e eu não sou digno nem sequer de me curvar para desatar as correias das suas sandálias!'",
+      "referencias": [
+        "João 1:27",
+        "Atos 13:25"
+      ],
+      "comentario": "A humildade de João é extrema. Desatar as correias das sandálias era a tarefa mais servil, reservada ao escravo mais humilde. Isso demonstra o reconhecimento absoluto da superioridade daquele que estava para vir (Jesus).",
+      "temas": [
+        "Humildade",
+        "Superioridade de Jesus",
+        "Servidão"
+      ],
+      "personagens": [
+        "João Batista",
+        "Aquele que virá (Jesus)"
+      ]
     },
     "8": {
-      "parafrase": "'Eu os batizo com água, mas ele os batizará com o Espírito Santo.'",
-      "referencias": ["Mateus 3:11"],
-      "comentario": "João contrasta seu batismo com água (para arrependimento) com o batismo do Messias, que será com o Espírito Santo (capacitação e vida nova).",
-      "temas": ["batismo de Jesus", "Espírito Santo", "poder"],
-      "personagens": ["João Batista"]
+      "parafrase": "Eu os batizei mergulhando-os na água para sinalizar o arrependimento, mas Aquele que vem depois de mim os batizará de uma maneira totalmente diferente, usando o Espírito Santo!'",
+      "referencias": [
+        "João 1:33",
+        "Atos 1:5"
+      ],
+      "comentario": "Contraste crucial: O batismo de João é simbólico (água para arrependimento), enquanto o batismo de Jesus é experiencial e transformador, envolvendo a infusão do Espírito Santo, marcando o início da nova era da presença ativa de Deus entre Seu povo.",
+      "temas": [
+        "Diferença de batismos",
+        "Espírito Santo",
+        "Nova Aliança"
+      ],
+      "personagens": [
+        "João Batista",
+        "Jesus"
+      ]
     },
     "9": {
-      "parafrase": "Naqueles dias, Jesus veio de Nazaré da Galileia e foi batizado por João no Jordão.",
-      "referencias": ["Mateus 3:13"],
-      "comentario": "Jesus se apresenta para ser batizado por João, marcando o início de Seu ministério público e Sua identificação com a humanidade pecadora.",
-      "temas": ["batismo de Jesus", "início do ministério", "identificação"],
-      "personagens": ["Jesus", "João Batista"]
+      "parafrase": "Naqueles dias, Jesus veio de Nazaré, uma cidade na Galileia, e foi batizado por João no rio Jordão.",
+      "referencias": [
+        "Mateus 3:13",
+        "Lucas 3:21"
+      ],
+      "comentario": "Este evento é a inauguração pública do ministério de Jesus. O fato de Ele, o Santo, precisar do batismo de arrependimento de João, levanta questões teológicas, mas Marcos enfatiza a obediência e a identificação de Jesus com a humanidade pecadora.",
+      "temas": [
+        "Batismo de Jesus",
+        "Inauguração do ministério",
+        "Obediência"
+      ],
+      "personagens": [
+        "Jesus",
+        "João Batista"
+      ]
     },
     "10": {
-      "parafrase": "E, logo ao subir da água, ele viu os céus se abrindo e o Espírito descendo sobre ele como uma pomba.",
-      "referencias": ["Mateus 3:16", "João 1:32"],
-      "comentario": "O batismo de Jesus é acompanhado por uma teofania, uma manifestação divina. O Espírito Santo desce sobre Ele em forma de pomba, simbolizando a unção e a capacitação para Seu ministério.",
-      "temas": ["teofania", "Espírito Santo", "unção", "capacitação"],
-      "personagens": ["Jesus", "Espírito Santo"]
+      "parafrase": "No exato momento em que Jesus saía da água, Ele viu os céus se rasgarem e o Espírito de Deus descendo sobre Ele como uma pomba descendo em voo lento.",
+      "referencias": [
+        "Mateus 3:16",
+        "Lucas 3:21"
+      ],
+      "comentario": "A visão é um evento teofânico espetacular. O 'céu se rasgando' (um termo forte, indicando uma ruptura da barreira entre o divino e o terreno) e o Espírito descendo como pomba simbolizam a unção messiânica de Jesus para Sua missão.",
+      "temas": [
+        "Teofania",
+        "Unção do Espírito",
+        "Manifestação divina"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "11": {
-      "parafrase": "E uma voz veio do céu: 'Tu és o meu Filho amado; em ti me agrado muito.'",
-      "referencias": ["Mateus 3:17"],
-      "comentario": "A voz do Pai celestial confirma a identidade de Jesus como Seu Filho amado e expressa Sua aprovação. Esta é a confirmação divina de Sua identidade messiânica.",
-      "temas": ["voz do Pai", "filiação divina", "aprovação divina"],
-      "personagens": ["Deus Pai"]
+      "parafrase": "E imediatamente uma voz vinda do céu ressoou, dizendo: 'Você é o Meu Filho amado, em quem ponho todo o meu prazer e aprovação!'",
+      "referencias": [
+        "Salmos 2:7",
+        "Mateus 3:17"
+      ],
+      "comentario": "A voz do Pai confirma publicamente a identidade de Jesus, usando a linguagem do Salmo 2 (Messias real) e a linguagem de aceitação total. O termo 'amado' (*agapetos*) implica um relacionamento de amor único e exclusivo.",
+      "temas": [
+        "Paternidade divina",
+        "Aprovação divina",
+        "Messias Real"
+      ],
+      "personagens": [
+        "Voz do Céu (Deus Pai)",
+        "Jesus"
+      ]
     },
     "12": {
-      "parafrase": "Imediatamente, o Espírito o impeliu para o deserto.",
-      "referencias": ["Mateus 4:1", "Lucas 4:1"],
-      "comentario": "Após o batismo, Jesus é imediatamente levado pelo Espírito Santo para um período de provação e tentação no deserto, preparando-O para Seu ministério.",
-      "temas": ["tentação", "Espírito Santo", "deserto", "preparação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Logo depois, impelido pelo Espírito, Jesus foi levado para a solidão do deserto.",
+      "referencias": [
+        "Lucas 4:1",
+        "Mateus 4:1"
+      ],
+      "comentario": "O Espírito Santo, que acaba de ungir Jesus, agora O move para o próximo estágio de Sua missão: o confronto com a tentação, uma etapa necessária para o herói messiânico, semelhante a Israel no deserto.",
+      "temas": [
+        "Direção do Espírito",
+        "Deserto",
+        "Tentação"
+      ],
+      "personagens": [
+        "Jesus",
+        "Espírito Santo"
+      ]
     },
     "13": {
-      "parafrase": "E ali esteve no deserto quarenta dias, sendo tentado por Satanás. Estava com os animais selvagens, e os anjos o serviam.",
-      "referencias": [],
-      "comentario": "Jesus enfrenta a tentação de Satanás em um ambiente hostil, mas é servido por anjos, demonstrando Sua vitória sobre o inimigo e Sua dependência de Deus.",
-      "temas": ["tentação", "Satanás", "vitória", "ministério angelical"],
-      "personagens": ["Jesus", "Satanás", "Anjos"]
+      "parafrase": "Ele permaneceu ali, sozinho, por quarenta dias, sendo posto à prova e tentado por Satanás. E Ele estava no meio dos animais selvagens, sob a guarda dos anjos.",
+      "referencias": [
+        "Êxodo 34:28",
+        "Deuteronômio 8:2"
+      ],
+      "comentario": "O período de quarenta dias remete a Moisés e a Israel no deserto. A presença de Satanás (o Adversário) e o serviço dos anjos sublinham a batalha espiritual central em que Jesus se engaja como o novo e vitorioso Israel.",
+      "temas": [
+        "Tentação",
+        "Duração do teste",
+        "Serviço angelical"
+      ],
+      "personagens": [
+        "Jesus",
+        "Satanás",
+        "Anjos"
+      ]
     },
     "14": {
-      "parafrase": "Depois que João foi preso, Jesus foi para a Galileia, pregando o evangelho de Deus,",
-      "referencias": ["Mateus 4:12"],
-      "comentario": "A prisão de João Batista marca o fim de seu ministério e o início do ministério público de Jesus. Jesus continua a mensagem de João, pregando o evangelho do Reino de Deus.",
-      "temas": ["prisão de João Batista", "início do ministério de Jesus", "pregação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Após João ter sido aprisionado, Jesus foi para a região da Galileia, começando a pregar a magnífica notícia do Reino de Deus.",
+      "referencias": [
+        "Mateus 4:12",
+        "Lucas 4:14"
+      ],
+      "comentario": "A prisão de João (que era o 'pregador da preparação') abre o palco para Jesus. O ministério de Jesus começa com o tema central: o Reino de Deus (o domínio soberano de Deus sobre a Terra), um conceito que Ele dará corpo com Seus atos.",
+      "temas": [
+        "Prisão de João",
+        "Início do ministério",
+        "Reino de Deus"
+      ],
+      "personagens": [
+        "João Batista",
+        "Jesus"
+      ]
     },
     "15": {
-      "parafrase": "dizendo: 'O tempo é chegado, e o Reino de Deus está próximo. Arrependam-se e creiam no evangelho!'",
-      "referencias": ["Mateus 4:17"],
-      "comentario": "A mensagem central de Jesus é a chegada iminente do Reino de Deus, que exige arrependimento e fé no evangelho. É um chamado urgente à resposta.",
-      "temas": ["Reino de Deus", "arrependimento", "fé", "evangelho"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus declarava: 'O tempo prometido chegou ao seu ápice! O Reino de Deus está próximo! Mudem a maneira como vivem e creiam nesta boa notícia!'",
+      "referencias": [
+        "Daniel 7:14",
+        "Apocalipse 1:3"
+      ],
+      "comentario": "A expressão 'O tempo se completou' (*peplérotia*) significa que o ponto culminante da história da salvação foi atingido. 'Arrependei-vos' (mudança de mente) e 'crede' (confiança total) são os dois pilares da resposta humana ao Reino.",
+      "temas": [
+        "Plenitude do tempo",
+        "Proclamação do Reino",
+        "Fé e arrependimento"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "16": {
-      "parafrase": "Enquanto Jesus andava junto ao mar da Galileia, viu Simão e André, irmão de Simão, lançando redes ao mar, pois eram pescadores.",
-      "referencias": ["Mateus 4:18"],
-      "comentario": "Jesus chama Seus primeiros discípulos, que eram pescadores. Ele os chama para uma nova vocação, transformando suas vidas.",
-      "temas": ["chamado de discípulos", "pescadores", "vocação"],
-      "personagens": ["Jesus", "Simão Pedro", "André"]
+      "parafrase": "Enquanto caminhava pela margem do grande mar da Galileia, Jesus viu dois irmãos, Simão e André, pescando, pois estavam lançando suas redes no lago.",
+      "referencias": [
+        "Mateus 4:18",
+        "Lucas 5:1"
+      ],
+      "comentario": "Marcos avança rapidamente para a constituição de Seus seguidores. A Galileia era vista como menos 'pura' que a Judeia, mostrando que o chamado de Deus atinge a todos, inclusive os 'simples' pescadores.",
+      "temas": [
+        "Chamado dos discípulos",
+        "Galileia",
+        "Pesca"
+      ],
+      "personagens": [
+        "Jesus",
+        "Simão",
+        "André"
+      ]
     },
     "17": {
-      "parafrase": "Jesus lhes disse: 'Sigam-me, e eu os farei pescadores de homens.'",
-      "referencias": ["Mateus 4:19"],
-      "comentario": "Jesus os chama para uma missão espiritual: trazer pessoas para o Reino de Deus, assim como eles pescavam peixes.",
-      "temas": ["pescadores de homens", "missão", "discipulado"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus lhes dirigiu um convite direto e poderoso: 'Venham comigo, sigam-me, e eu os transformarei em pescadores de pessoas!'",
+      "referencias": [
+        "Mateus 4:19",
+        "Lucas 5:10"
+      ],
+      "comentario": "Esta é a metáfora central da missão. Eles trocam a pesca literal (sustento físico) pela pesca de almas (sustento espiritual). O verbo 'fazer' (*poiéso*) implica que a transformação é um ato de capacitação divina, não apenas um esforço humano.",
+      "temas": [
+        "Chamado missionário",
+        "Transformação de identidade",
+        "Iscariotes"
+      ],
+      "personagens": [
+        "Jesus",
+        "Simão",
+        "André"
+      ]
     },
     "18": {
-      "parafrase": "No mesmo instante, eles deixaram as redes e o seguiram.",
-      "referencias": [],
-      "comentario": "A resposta dos discípulos é imediata e radical, demonstrando sua fé e obediência ao chamado de Jesus.",
-      "temas": ["obediência", "fé", "discipulado"],
-      "personagens": ["Simão Pedro", "André"]
+      "parafrase": "Sem hesitar, aqueles dois irmãos deixaram imediatamente suas redes e seguiram Jesus.",
+      "referencias": [
+        "Mateus 4:20",
+        "Lucas 5:11"
+      ],
+      "comentario": "A resposta imediata (*euthéos*) é uma marca do estilo de Marcos. A obediência radical é a primeira virtude dos seguidores de Jesus, demonstrada pela renúncia imediata ao seu meio de vida.",
+      "temas": [
+        "Obediência imediata",
+        "Renúncia",
+        "Discipulado"
+      ],
+      "personagens": [
+        "Simão",
+        "André",
+        "Jesus"
+      ]
     },
     "19": {
-      "parafrase": "Indo um pouco mais adiante, viu Tiago, filho de Zebedeu, e João, seu irmão, que estavam no barco, consertando as redes.",
-      "referencias": ["Mateus 4:21"],
-      "comentario": "Jesus chama mais dois irmãos, Tiago e João, que também eram pescadores. O chamado é para o serviço no Reino de Deus.",
-      "temas": ["chamado de discípulos", "pescadores", "vocação"],
-      "personagens": ["Jesus", "Tiago", "João"]
+      "parafrase": "Andando um pouco mais adiante, Jesus viu Tiago, filho de Zebedeu, e seu irmão João, que estavam consertando as redes em seu barco.",
+      "referencias": [
+        "Mateus 4:21",
+        "Lucas 5:10"
+      ],
+      "comentario": "O próximo chamado ocorre enquanto eles estão trabalhando na manutenção de seu equipamento, um momento comum de vida, mas interrompido pela autoridade de Jesus.",
+      "temas": [
+        "Continuidade do chamado",
+        "Trabalho",
+        "Barco"
+      ],
+      "personagens": [
+        "Jesus",
+        "Tiago",
+        "João (filho de Zebedeu)"
+      ]
     },
     "20": {
-      "parafrase": "Imediatamente os chamou, e eles deixaram seu pai Zebedeu no barco com os empregados e o seguiram.",
-      "referencias": [],
-      "comentario": "A resposta deles também é imediata e radical, mostrando sua prioridade em seguir a Jesus acima de tudo, mesmo deixando para trás sua família e seu negócio.",
-      "temas": ["obediência", "prioridade", "discipulado"],
-      "personagens": ["Tiago", "João"]
+      "parafrase": "Jesus os chamou, e eles, deixando o pai Zebedeu no barco com os empregados, partiram imediatamente para seguir o Mestre.",
+      "referencias": [
+        "Mateus 4:22",
+        "Lucas 5:11"
+      ],
+      "comentario": "Este versículo revela o custo do discipulado: a separação familiar, inclusive do patriarca (Zebedeu). O fato de deixarem 'os empregados' indica que Tiago e João eram donos de um negócio considerável, reforçando a magnitude da sua renúncia.",
+      "temas": [
+        "Custo do discipulado",
+        "Separação familiar",
+        "Lealdade a Jesus"
+      ],
+      "personagens": [
+        "Tiago",
+        "João (filho de Zebedeu)",
+        "Zebedeu",
+        "Jesus"
+      ]
     },
     "21": {
-      "parafrase": "Então entraram em Cafarnaum; e, logo no sábado, ele entrou na sinagoga e começou a ensinar.",
-      "referencias": ["Lucas 4:31"],
-      "comentario": "Jesus inicia Seu ministério de ensino nas sinagogas, demonstrando Sua autoridade e poder.",
-      "temas": ["Cafarnaum", "sinagoga", "ensino", "sábado"],
-      "personagens": ["Jesus"]
+      "parafrase": "Eles chegaram à cidade de Cafarnaum. Assim que chegou o Sábado, Jesus entrou imediatamente na sinagoga e começou a ensinar o povo.",
+      "referencias": [
+        "Lucas 4:31",
+        "Mateus 4:13"
+      ],
+      "comentario": "Cafarnaum se torna o centro da atividade de Jesus na Galileia. Entrar na sinagoga no Sábado (o dia de descanso e reunião comunitária) e ensinar demonstra a autoridade de Jesus como Mestre (*Rabi*) e Sua observância das tradições judaicas, embora Ele trouxesse uma nova autoridade.",
+      "temas": [
+        "Início em Cafarnaum",
+        "Sábado",
+        "Ensino na sinagoga"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "22": {
-      "parafrase": "Eles ficaram maravilhados com o seu ensino, pois ele os ensinava como quem tem autoridade, e não como os escribas.",
-      "referencias": ["Mateus 7:28-29"],
-      "comentario": "A autoridade de Jesus em Seu ensino era evidente. Ele não citava outras fontes, mas falava com poder e convicção, em contraste com os escribas que dependiam da tradição e da interpretação de outros.",
-      "temas": ["autoridade de Jesus", "ensino", "escribas"],
-      "personagens": []
+      "parafrase": "As pessoas que O ouviam ficaram profundamente maravilhadas com a maneira como Ele ensinava. Elas perceberam que a autoridade de Jesus era completamente diferente da autoridade dos escribas e mestres religiosos da época.",
+      "referencias": [
+        "Mateus 7:28-29",
+        "Lucas 4:32"
+      ],
+      "comentario": "O espanto (*ekplésso*) não era apenas com o conteúdo, mas com a *forma* de ensinar. Os escribas citavam autoridades passadas; Jesus falava com autoridade própria ('Eu vos digo'). Isso revelava Sua conexão direta com Deus.",
+      "temas": [
+        "Autoridade de ensino",
+        "Reação do público",
+        "Contraste com escribas"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "23": {
-      "parafrase": "E, logo na sinagoga deles, havia um homem com um espírito impuro; e ele gritou,",
-      "referencias": ["Lucas 4:33"],
-      "comentario": "Jesus demonstra Sua autoridade sobre os demônios, que se manifestam em Sua presença.",
-      "temas": ["espírito impuro", "manifestação", "autoridade de Jesus"],
-      "personagens": ["Homem endemoninhado"]
+      "parafrase": "Nesse exato momento, um homem possuído por um espírito impuro estava na sinagoga, e ele gritou em voz alta:",
+      "referencias": [
+        "Lucas 4:33",
+        "Mateus 8:28"
+      ],
+      "comentario": "A manifestação demoníaca irrompe no local de adoração. A presença de Jesus provoca uma reação imediata nos poderes das trevas, mostrando que o Reino de Deus entrou em confronto direto com o reino de Satanás.",
+      "temas": [
+        "Possessão demoníaca",
+        "Conflito espiritual",
+        "Quebra da ordem"
+      ],
+      "personagens": [
+        "Homem possesso",
+        "Jesus"
+      ]
     },
     "24": {
-      "parafrase": "dizendo: 'O que temos nós contigo, Jesus de Nazaré? Vieste para nos destruir? Eu sei quem tu és: o Santo de Deus!'",
-      "referencias": [],
-      "comentario": "Os demônios reconhecem a identidade de Jesus como o Santo de Deus e temem Seu poder. Eles sabem que Jesus veio para destruí-los.",
-      "temas": ["reconhecimento demoníaco", "Santo de Deus", "destruição"],
-      "personagens": ["Demônio"]
+      "parafrase": "'O que você quer de nós, Jesus de Nazaré? Você veio para nos destruir? Eu sei perfeitamente quem você é: você é o Santo de Deus!'",
+      "referencias": [
+        "Tiago 2:19",
+        "Lucas 4:34"
+      ],
+      "comentario": "O demônio reconhece a santidade (*hagios*) e a missão destrutiva de Jesus para o mal. O uso do título 'Santo de Deus' é um testemunho involuntário da verdadeira identidade de Jesus, mesmo vindo de uma fonte maligna.",
+      "temas": [
+        "Reconhecimento demoníaco",
+        "Santidade",
+        "Ameaça do Reino"
+      ],
+      "personagens": [
+        "Espírito impuro",
+        "Jesus de Nazaré"
+      ]
     },
     "25": {
-      "parafrase": "Mas Jesus o repreendeu, dizendo: 'Cale-se e saia dele!'",
-      "referencias": [],
-      "comentario": "Jesus silencia o demônio e o expulsa com uma palavra de autoridade, demonstrando Seu poder sobre as forças do mal.",
-      "temas": ["repreensão", "expulsão de demônios", "autoridade de Jesus"],
-      "personagens": ["Jesus"]
+      "parafrase": "Mas Jesus repreendeu firmemente o espírito, ordenando: 'Cale-se e saia deste homem agora mesmo!'",
+      "referencias": [
+        "Mateus 8:29",
+        "Lucas 4:35"
+      ],
+      "comentario": "A autoridade de Jesus é exercida através de um comando direto (*epitimáo* - repreender com severidade). Não há negociação ou ritual; há apenas a imposição da Sua soberania, resultando na expulsão imediata do demônio.",
+      "temas": [
+        "Exorcismo",
+        "Repreensão",
+        "Soberania de Jesus"
+      ],
+      "personagens": [
+        "Jesus",
+        "Espírito impuro"
+      ]
     },
     "26": {
-      "parafrase": "E o espírito impuro, agitando-o violentamente e clamando em alta voz, saiu dele.",
-      "referencias": [],
-      "comentario": "A expulsão do demônio é dramática, mas o homem é libertado. O poder de Jesus é evidente.",
-      "temas": ["expulsão de demônios", "libertação", "poder de Jesus"],
-      "personagens": []
+      "parafrase": "De repente, aquele espírito impuro, que estava possuindo o homem, agitou-o violentamente. Soltou um grito lancinante, um som gutural e terrível que gelou o sangue de todos na sinagoga, e saiu dele, deixando o homem convulsionado.",
+      "referencias": [
+        "Atos 19:16",
+        "Marcos 5:5"
+      ],
+      "comentario": "O verbo grego usado para 'agitou violentamente' (συνετάραξεν - synetarakhsen) implica um choque violento, uma convulsão interna e externa. A saída do demônio é dramática e física, mostrando o poder destrutivo da impureza e a autoridade imediata de Jesus.",
+      "temas": [
+        "Exorcismo",
+        "Autoridade de Cristo",
+        "Oposição Espiritual"
+      ],
+      "personagens": [
+        "Homem endemoninhado",
+        "Espírito impuro"
+      ]
     },
     "27": {
-      "parafrase": "Todos ficaram maravilhados, de modo que perguntavam uns aos outros: 'O que é isto? Que nova doutrina é esta? Com autoridade ele ordena até aos espíritos impuros, e eles lhe obedecem!'",
-      "referencias": [],
-      "comentario": "A multidão fica admirada com a autoridade de Jesus, que é diferente de tudo o que eles já viram. Ele não apenas ensina, mas também tem poder sobre os demônios.",
-      "temas": ["admiração", "autoridade de Jesus", "nova doutrina", "poder"],
-      "personagens": []
+      "parafrase": "As pessoas ficaram profundamente abaladas e começaram a cochichar entre si, perplexas, perguntando em voz baixa: 'Que tipo de ensinamento é esse? Que poder novo é esse que Ele demonstra? Até os espíritos malignos Lhe obedecem pela força de Sua palavra!'",
+      "referencias": [
+        "Mateus 7:28",
+        "Marcos 1:22"
+      ],
+      "comentario": "A reação é de espanto (em grego, ἐθαμβήθησαν - etambēthēsan). O foco não é apenas o milagre, mas a 'doutrina' (διδαχή - didachē). O ensino de Jesus possuía uma autoridade inerente que a tradição rabínica da época não possuía. Os demônios reconhecem uma autoridade superior.",
+      "temas": [
+        "Autoridade de Jesus",
+        "Espanto",
+        "Novo Ensino"
+      ],
+      "personagens": [
+        "Povo da sinagoga"
+      ]
     },
     "28": {
-      "parafrase": "E logo a sua fama se espalhou por toda a região da Galileia.",
-      "referencias": [],
-      "comentario": "A fama de Jesus se espalha rapidamente por causa de Seus milagres e de Sua autoridade.",
-      "temas": ["fama de Jesus", "milagres", "autoridade"],
-      "personagens": []
+      "parafrase": "Imediatamente, a notícia sobre Ele, sobre o Seu poder e o Seu ensino revolucionário, correu como um rastilho de pólvora por toda a região da Galileia, espalhando-se rapidamente por todas as cidades e aldeias vizinhas.",
+      "referencias": [
+        "Mateus 4:24",
+        "Marcos 1:27"
+      ],
+      "comentario": "A fama de Jesus cresce exponencialmente. O milagre na sinagoga serve como um catalisador público para a divulgação de Seu ministério. A rapidez da notícia ('logo', ευθύς - euthys) é típica da narrativa marciana.",
+      "temas": [
+        "Fama de Jesus",
+        "Divulgação do Evangelho",
+        "Ação Rápida"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "29": {
-      "parafrase": "Ao saírem da sinagoga, foram imediatamente para a casa de Simão e André, com Tiago e João.",
-      "referencias": ["Mateus 8:14"],
-      "comentario": "Jesus e Seus discípulos vão para a casa de Pedro, onde mais milagres acontecerão.",
-      "temas": ["casa", "discípulos"],
-      "personagens": ["Jesus"]
+      "parafrase": "Assim que saíram da sinagoga, Jesus, Simão e André, acompanhados por Tiago e João, foram diretamente para a casa de Simão e André, onde foram recebidos.",
+      "referencias": [
+        "Mateus 8:14",
+        "Lucas 4:38"
+      ],
+      "comentario": "A narrativa foca na continuidade da missão. A casa de Simão (Pedro) torna-se a base temporária para a próxima ação. A menção explícita dos irmãos apóstolos (Simão, André, Tiago, João) estabelece o círculo íntimo de Jesus.",
+      "temas": [
+        "Discípulos",
+        "Hospitalidade",
+        "Seguimento"
+      ],
+      "personagens": [
+        "Jesus",
+        "Simão (Pedro)",
+        "André",
+        "Tiago",
+        "João"
+      ]
     },
     "30": {
-      "parafrase": "Ora, a sogra de Simão estava deitada com febre, e logo lhe falaram dela.",
-      "referencias": [],
-      "comentario": "A sogra de Pedro está doente, e a necessidade de cura é apresentada a Jesus.",
-      "temas": ["doença", "necessidade"],
-      "personagens": ["Sogra de Simão"]
+      "parafrase": "Ora, a sogra de Simão estava deitada, consumida por uma febre ardente, um mal que a consumia sem trégua. Assim que Jesus chegou, contaram-Lhe sobre a enfermidade dela.",
+      "referencias": [
+        "Lucas 4:38-39"
+      ],
+      "comentario": "A febre era vista como um sinal de grande mal-estar e fraqueza. O uso do termo 'ardente' (πυρέσσουσα - pyressousa) enfatiza a intensidade da doença. A família imediatamente busca a intervenção de Jesus, mostrando a confiança que já depositavam Nele.",
+      "temas": [
+        "Enfermidade",
+        "Intercessão",
+        "Confiança"
+      ],
+      "personagens": [
+        "Sogra de Simão (Pedro)",
+        "Jesus"
+      ]
     },
     "31": {
-      "parafrase": "Então ele se aproximou, pegou-a pela mão e a levantou. E a febre a deixou imediatamente, e ela começou a servi-los.",
-      "referencias": [],
-      "comentario": "Jesus cura a sogra de Pedro instantaneamente, e ela, em gratidão, começa a servi-los. A cura resulta em serviço.",
-      "temas": ["cura instantânea", "serviço", "gratidão"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus aproximou-se dela, tomou-a gentilmente pela mão — um toque de dignidade e cuidado — e a levantou. No exato instante em que Ele a tocou, a febre a abandonou completamente, e ela se levantou, curada, e começou a servi-los com vigor.",
+      "referencias": [
+        "Mateus 8:15",
+        "Lucas 4:39"
+      ],
+      "comentario": "O toque físico é crucial (κρατήσας - kratēsas, segurar/tomar). Jesus não apenas cura, mas restaura a pessoa para o serviço ativo. O contraste entre o estado de prostração e o imediato serviço (diakonein) é notável.",
+      "temas": [
+        "Cura",
+        "Restauração",
+        "Serviço"
+      ],
+      "personagens": [
+        "Jesus",
+        "Sogra de Simão (Pedro)"
+      ]
     },
     "32": {
-      "parafrase": "Ao entardecer, depois que o sol se pôs, trouxeram-lhe todos os doentes e endemoninhados.",
-      "referencias": [],
-      "comentario": "Após o pôr do sol, as pessoas trazem seus doentes a Jesus, pois o sábado havia terminado e as restrições religiosas não se aplicavam mais.",
-      "temas": ["cura", "endemoninhados", "sábado"],
-      "personagens": ["Jesus"]
+      "parafrase": "Quando o sol se pôs e a escuridão da noite cobriu Cafarnaum, trazendo consigo o descanso, as pessoas da cidade começaram a trazer até Jesus todos os doentes e todos os atormentados por demônios.",
+      "referencias": [
+        "Mateus 8:16",
+        "Lucas 4:40"
+      ],
+      "comentario": "O final do Shabat (sábado) era o momento em que as proibições de transporte de enfermos terminavam, permitindo que as multidões viessem. A noite se torna o palco para a manifestação massiva do poder de cura de Jesus, como uma 'segunda onda' de ministério.",
+      "temas": [
+        "Fim do Sábado",
+        "Poder de Cura",
+        "Concentração de Doentes"
+      ],
+      "personagens": [
+        "Jesus",
+        "Doentes",
+        "Multidão"
+      ]
     },
     "33": {
-      "parafrase": "E toda a cidade se ajuntou à porta.",
-      "referencias": [],
-      "comentario": "A multidão é tão grande que toda a cidade se reúne à porta da casa, buscando a cura e a libertação.",
-      "temas": ["multidão", "busca", "necessidade"],
-      "personagens": []
+      "parafrase": "A porta da casa onde Ele estava se encheu de gente, uma multidão ansiosa que esperava do lado de fora.",
+      "referencias": [
+        "Marcos 2:2"
+      ],
+      "comentario": "A demanda é tão grande que a casa se torna um centro de cura público, superlotada pela fé e pela necessidade do povo.",
+      "temas": [
+        "Demanda Popular",
+        "Fé"
+      ],
+      "personagens": [
+        "Multidão"
+      ]
     },
     "34": {
-      "parafrase": "E ele curou muitos que estavam doentes com várias enfermidades e expulsou muitos demônios; e não permitia que os demônios falassem, porque o conheciam.",
-      "referencias": [],
-      "comentario": "Jesus continua Seu ministério de cura e libertação, demonstrando Seu poder sobre a doença e os demônios. Ele silencia os demônios para evitar que revelem Sua identidade prematuramente.",
-      "temas": ["cura", "expulsão de demônios", "poder de Jesus", "segredo messiânico"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus curou muitos que sofriam de todo tipo de males terríveis e expulsou inúmeros espíritos malignos. Ele não permitia que os demônios falassem, porque eles sabiam quem Ele era, e Ele não queria que Sua identidade fosse proclamada por bocas impuras.",
+      "referencias": [
+        "Lucas 4:41",
+        "Marcos 3:11-12"
+      ],
+      "comentario": "Este versículo estabelece o padrão de Jesus para a ação demoníaca: silêncio. Os demônios frequentemente O identificavam corretamente como o 'Santo de Deus' (ver versículo 24), mas Jesus recusava o testemunho deles (o 'testemunho não solicitado'), pois vinha de uma fonte corrompida e poderia ser mal interpretado como uma aliança.",
+      "temas": [
+        "Silêncio dos Demônios",
+        "Discernimento",
+        "Identidade de Cristo"
+      ],
+      "personagens": [
+        "Jesus",
+        "Espíritos malignos"
+      ]
     },
     "35": {
-      "parafrase": "De manhã, muito cedo, quando ainda estava escuro, Jesus se levantou, saiu e foi para um lugar deserto, e ali orava.",
-      "referencias": ["Lucas 4:42"],
-      "comentario": "Jesus busca a solidão e a oração, demonstrando Sua dependência do Pai e Sua prioridade na comunhão com Deus.",
-      "temas": ["oração", "solidão", "comunhão com Deus"],
-      "personagens": ["Jesus"]
+      "parafrase": "Logo ao amanhecer, antes que o dia estivesse claro, Jesus se levantou e saiu. Ele foi para um lugar deserto, um local isolado, onde podia estar a sós com Deus.",
+      "referencias": [
+        "Lucas 5:16",
+        "Mateus 14:23"
+      ],
+      "comentario": "A urgência de Jesus em buscar a solidão após um dia intenso de serviço reflete Sua dependência do Pai. O termo 'deserto' (ἔρημον - erēmon) não significa apenas 'vazio', mas um lugar de retiro espiritual necessário para recarregar as forças divinas e humanas.",
+      "temas": [
+        "Oração e Retiro",
+        "Dependência de Deus",
+        "Vida Devocional"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "36": {
-      "parafrase": "Simão e os que estavam com ele o procuraram.",
-      "referencias": [],
-      "comentario": "Os discípulos procuram Jesus, talvez preocupados com Sua ausência ou com a necessidade das multidões.",
-      "temas": ["busca", "discípulos"],
-      "personagens": ["Simão Pedro"]
+      "parafrase": "Quando Ele terminou a comunhão com o Pai, Simão e os outros discípulos O encontraram e disseram: 'Todos estão procurando por Você! A cidade inteira está à Sua procura!'",
+      "referencias": [
+        "Lucas 5:4"
+      ],
+      "comentario": "Os discípulos representam a perspectiva humana, focada na popularidade e na oportunidade imediata ('Todos estão procurando'). Eles veem Jesus como um recurso popular que precisa ser 'protegido' ou 'reapresentado' à multidão.",
+      "temas": [
+        "Busca Popular",
+        "O Chamado",
+        "Missão"
+      ],
+      "personagens": [
+        "Simão",
+        "Discípulos"
+      ]
     },
     "37": {
-      "parafrase": "Ao encontrá-lo, disseram: 'Todos estão te procurando!'",
-      "referencias": [],
-      "comentario": "Os discípulos informam Jesus sobre a grande demanda por Sua presença, mas Ele tem uma prioridade diferente.",
-      "temas": ["demanda", "popularidade"],
-      "personagens": []
+      "parafrase": "Eles O chamaram de volta, dizendo: 'Mestre, todos estão ansiosos para vê-Lo de novo!'",
+      "referencias": [
+        "Lucas 5:4"
+      ],
+      "comentario": "O título 'Mestre' (Rabbi) usado pelos discípulos reflete a reverência, mas contrasta com o destino que Jesus estava prestes a declarar.",
+      "temas": [
+        "Chamado dos Discípulos",
+        "Liderança"
+      ],
+      "personagens": [
+        "Discípulos",
+        "Jesus"
+      ]
     },
     "38": {
-      "parafrase": "Ele lhes respondeu: 'Vamos para outros lugares, para as aldeias vizinhas, para que eu também possa pregar ali. Pois foi para isso que eu vim.'",
-      "referencias": [],
-      "comentario": "Jesus prioriza a pregação do evangelho em outras regiões, mostrando que Sua missão é mais ampla do que apenas curar em um só lugar.",
-      "temas": ["prioridade da pregação", "missão", "evangelho"],
-      "personagens": ["Jesus"]
+      "parafrase": "Mas Jesus respondeu, com a clareza de quem tem um propósito maior: 'Vamos para outras aldeias e cidades próximas. Preciso ir e pregar ali também, porque para isso fui enviado a este mundo.'",
+      "referencias": [
+        "Lucas 4:43"
+      ],
+      "comentario": "Jesus recalibra a missão. O foco não é manter a base de popularidade onde ela está (Cafarnaum), mas expandir o Reino. Ele cita a razão fundamental de Sua vinda: pregar a mensagem (κηρύξαι - kēryxai, proclamar como um arauto).",
+      "temas": [
+        "Missão Principal",
+        "Evangelização",
+        "Propósito Divino"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "39": {
-      "parafrase": "E ele foi por toda a Galileia, pregando nas sinagogas deles e expulsando demônios.",
-      "referencias": ["Mateus 4:23"],
-      "comentario": "Jesus continua Seu ministério de pregação e libertação por toda a Galileia, demonstrando Sua autoridade e poder.",
-      "temas": ["ministério de Jesus", "pregação", "expulsão de demônios"],
-      "personagens": ["Jesus"]
+      "parafrase": "E assim, Jesus viajou por toda a região da Galileia. Ele entrava nas sinagogas locais para ensinar e, ao mesmo tempo, expulsava os demônios que encontrava pelo caminho.",
+      "referencias": [
+        "Mateus 4:17",
+        "Marcos 1:15"
+      ],
+      "comentario": "Este versículo resume a dualidade do ministério público de Jesus na Galileia: Proclamação (ensinar nas sinagogas) e Demonstração (expulsar espíritos). A pregação precede a cura, pois a mensagem é a necessidade primária.",
+      "temas": [
+        "Ministério na Galileia",
+        "Ensino e Cura",
+        "Dualidade da Missão"
+      ],
+      "personagens": [
+        "Jesus"
+      ]
     },
     "40": {
-      "parafrase": "Um leproso aproximou-se dele, suplicando de joelhos: 'Se quiseres, podes purificar-me.'",
-      "referencias": ["Mateus 8:2", "Lucas 5:12"],
-      "comentario": "Um leproso se aproxima de Jesus com fé e humildade, reconhecendo Seu poder de curar e purificar.",
-      "temas": ["fé", "cura", "leproso", "humildade"],
-      "personagens": ["Leproso", "Jesus"]
+      "parafrase": "Então, um homem coberto de lepra, uma doença terrível e altamente contagiosa que o marginalizava da sociedade, aproximou-se de Jesus, curvando-se em sinal de desespero e súplica.",
+      "referencias": [
+        "Levítico 13",
+        "Lucas 5:12"
+      ],
+      "comentario": "A lepra (lepra) no Antigo Testamento era uma doença que trazia impureza ritual e excomunhão social. A aproximação do leproso é um ato de extrema ousadia e fé, pois ele estava ritualmente 'morto' para a comunidade e não deveria se aproximar de ninguém.",
+      "temas": [
+        "Impureza Ritual",
+        "Exclusão Social",
+        "Fé Extrema"
+      ],
+      "personagens": [
+        "Homem leproso",
+        "Jesus"
+      ]
     },
     "41": {
-      "parafrase": "Jesus, movido de compaixão, estendeu a mão, tocou nele e disse: 'Eu quero. Seja purificado!'",
-      "referencias": [],
-      "comentario": "Jesus demonstra compaixão e poder ao tocar o leproso (o que o tornaria impuro pela Lei) e curá-lo instantaneamente. O toque de Jesus não contamina, mas purifica.",
-      "temas": ["compaixão", "poder de cura", "purificação", "milagre"],
-      "personagens": ["Jesus"]
+      "parafrase": "Com profunda compaixão, sentindo a dor daquele homem em Seu coração, Jesus estendeu a mão, tocou o leproso — um ato impensável e profano para a lei judaica —, e declarou com firmeza: 'Eu quero! Seja purificado agora mesmo!'",
+      "referencias": [
+        "Isaías 35:6",
+        "Romanos 15:3"
+      ],
+      "comentario": "A chave aqui é a palavra grega para compaixão (ἐσπλαγχνίσθη - esplagkhnisfathē), que implica um profundo sofrimento visceral, vindo das entranhas. O toque é um desafio direto à lei de pureza, afirmando que Jesus é a fonte de pureza, e não a impureza que O contamina. O 'Eu quero' (θέλω - thelō) é um ato soberano de vontade.",
+      "temas": [
+        "Compaixão Visceral",
+        "Quebra de Barreiras Sociais",
+        "Soberania da Vontade de Cristo"
+      ],
+      "personagens": [
+        "Jesus",
+        "Homem leproso"
+      ]
     },
     "42": {
-      "parafrase": "E imediatamente a lepra o deixou, e ele ficou purificado.",
-      "referencias": [],
-      "comentario": "A cura é instantânea e completa, confirmando a palavra de Jesus.",
-      "temas": ["cura instantânea", "purificação"],
-      "personagens": []
+      "parafrase": "No momento em que Jesus proferiu as palavras e o tocou, a chaga da lepra desapareceu completamente. A pele do homem se renovou, tornando-se sã e limpa como a de um recém-nascido.",
+      "referencias": [
+        "2 Reis 5:14",
+        "Salmo 103:3"
+      ],
+      "comentario": "A cura é instantânea e completa, um sinal de Sua natureza divina de restauração total. A lepra não apenas desaparece, mas a integridade da carne é restaurada.",
+      "temas": [
+        "Cura Completa",
+        "Restauração Física"
+      ],
+      "personagens": [
+        "Jesus",
+        "Homem leproso"
+      ]
     },
     "43": {
-      "parafrase": "Jesus o advertiu severamente e o despediu imediatamente,",
-      "referencias": [],
-      "comentario": "Jesus instrui o homem curado a não contar a ninguém, talvez para evitar a fama prematura ou para que a cura fosse confirmada oficialmente pelos sacerdotes.",
-      "temas": ["discrição", "advertência"],
-      "personagens": ["Jesus"]
+      "parafrase": "Jesus, imediatamente após a cura, olhou seriamente para ele e o advertiu com rigor: 'Olhe bem, não conte isso a ninguém! Guarde este milagre em segredo por um tempo.'",
+      "referencias": [
+        "Mateus 8:4",
+        "Marcos 1:25"
+      ],
+      "comentario": "Novamente, Jesus impõe o 'silêncio messiânico'. A razão é dupla: 1) Evitar que a popularidade exploda prematuramente, desviando-o de Sua missão de pregar; 2) Permitir que o homem passe primeiro pelo processo de confirmação ritual com os sacerdotes, honrando a ordem estabelecida antes que a mensagem do Reino ocupe o centro do palco.",
+      "temas": [
+        "Silêncio Messianico",
+        "Obediência",
+        "Ordem Social"
+      ],
+      "personagens": [
+        "Jesus",
+        "Homem leproso"
+      ]
     },
     "44": {
-      "parafrase": "dizendo: 'Cuidado para não contar isso a ninguém. Mas vá, mostre-se ao sacerdote e apresente a oferta que Moisés ordenou pela sua purificação, para que lhes sirva de testemunho.'",
-      "referencias": ["Levítico 14:2-32"],
-      "comentario": "Jesus instrui o homem curado a cumprir a Lei de Moisés, o que validaria sua cura e serviria como testemunho para os sacerdotes. A obediência à Lei é importante.",
-      "temas": ["obediência à Lei", "testemunho", "purificação"],
-      "personagens": ["Jesus"]
+      "parafrase": "Mas Ele acrescentou: 'Vá imediatamente e apresente-se aos sacerdotes, para que eles possam examinar sua cura. Depois, siga as instruções da Lei e ofereça o sacrifício que Moisés ordenou para aqueles que foram purificados da lepra, como prova de que você foi completamente restaurado perante a comunidade e as autoridades religiosas.'",
+      "referencias": [
+        "Levítico 14:2-9",
+        "Lucas 5:14"
+      ],
+      "comentario": "Jesus exige obediência às instituições religiosas, mesmo enquanto demonstra ser Aquele que as transcende. O sacrifício prescrito (Levítico 14) era um ritual complexo de purificação e reintegração social, exigindo tempo e recursos, forçando o ex-leproso a demonstrar publicamente sua fé e gratidão.",
+      "temas": [
+        "Obediência à Lei",
+        "Reintegração Social",
+        "Gratidão"
+      ],
+      "personagens": [
+        "Jesus",
+        "Sacerdotes"
+      ]
     },
     "45": {
-      "parafrase": "Mas ele, saindo, começou a proclamar e a divulgar a notícia, de modo que Jesus não podia mais entrar publicamente em nenhuma cidade, mas ficava em lugares desertos. E de todas as partes vinham a ele.",
-      "referencias": [],
-      "comentario": "Apesar da advertência de Jesus, o homem curado espalha a notícia, o que dificulta o ministério público de Jesus. No entanto, as pessoas continuam a procurá-lo em lugares isolados.",
-      "temas": ["desobediência", "fama", "ministério em lugares desertos", "busca"],
-      "personagens": []
+      "parafrase": "No entanto, o homem não conseguiu manter o segredo. Mal saiu dali, começou a proclamar em voz alta, para todos ouvirem, o que Jesus havia feito por ele. Assim, a fama de Jesus cresceu tanto que Ele já não conseguia entrar abertamente nas cidades, tendo que ficar do lado de fora, em locais abertos, enquanto o povo se reunia ao redor.",
+      "referencias": [
+        "Marcos 1:28",
+        "Marcos 2:1-2"
+      ],
+      "comentario": "O homem, cheio de alegria e gratidão, quebra a ordem de Jesus. A desobediência, motivada pelo júbilo, tem uma consequência direta: Jesus é forçado a mudar Seu método de operação, passando de locais fechados (sinagogas e casas) para o campo aberto, pois a multidão se tornava incontrolável.",
+      "temas": [
+        "Desobediência e Fé",
+        "Popularidade Crescente",
+        "Restrição de Movimento"
+      ],
+      "personagens": [
+        "Homem leproso",
+        "Jesus"
+      ]
     }
   }
 }

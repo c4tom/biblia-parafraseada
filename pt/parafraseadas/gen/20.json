@@ -1,134 +1,322 @@
 {
   "livro": "Gênesis",
   "capitulo": 20,
-  "contexto_historico": "Ver contexto anterior em Gênesis 19. Após a destruição de Sodoma, Abraão se muda para o sul, para a região de Gerar. Este capítulo narra um evento perturbadoramente semelhante ao de Gênesis 12: Abraão novamente mente sobre Sara ser sua irmã, resultando em ela ser levada pelo rei local, Abimeleque. A história serve para humilhar Abraão, exaltar a fidelidade de Deus na proteção da mãe da promessa e mostrar que Deus também se revela a não-israelitas.",
-  "bloco_tematico": "Abraão e Abimeleque em Gerar",
+  "contexto_historico": "Após o dilúvio e o subsequente repovoamento da Terra, a narrativa bíblica foca na continuidade da linhagem de Noé. Este capítulo marca a fundação de uma nova dinâmica social e espiritual, centrada na figura de Abraão. O contexto imediato é a migração de Terá (pai de Abraão) de Ur dos Caldeus para Harã, onde ele morre. Deus chama Abrão (ainda sem o 'h') em Harã, estabelecendo uma aliança fundamental e prometendo-lhe terra, descendência numerosa e bênção universal. Este é o ponto de inflexão da narrativa patriarcal, movendo-se da história universal para a história de um povo escolhido. O desafio inicial é a obediência imediata ao chamado divino, deixando a segurança da terra natal em busca de uma promessa futura. 🗺️➡️🌄",
+  "bloco_tematico": "A Aliança Fundacional: O Chamado de Abrão e a Promessa de Canaã 🕊️📜",
   "versiculos": {
     "1": {
-      "parafrase": "Abraão partiu dali para a região do Neguebe e habitou entre Cades e Sur. E, enquanto vivia em Gerar,",
-      "referencias": ["Gênesis 12:9"],
-      "comentario": "A razão da mudança de Abraão não é declarada, mas pode ter sido para se distanciar das ruínas de Sodoma ou em busca de pastagens. Gerar era uma cidade filisteia, território pagão.",
-      "temas": ["migração", "jornada", "Gerar"],
-      "personagens": ["Abraão"]
+      "parafrase": "Abraão mudou-se então daquela terra, do lugar de onde Deus lhe havia falado sobre a mudança, e foi acampar entre Cades e Sur, fixando residência temporária em Gerar. Ele começou a viver como um estrangeiro naquela região.",
+      "referencias": [
+        "Gênesis 12:5",
+        "Gênesis 13:5"
+      ],
+      "comentario": "O ato de Abraão 'mudar-se' (do hebraico 'yatsa', sair/partir) indica obediência contínua, mas também uma nova fase de sua jornada errante. Gerar, a cidade dos filisteus, será um local de provação e desonra para ele, ecoando o que ocorreu no Egito.",
+      "temas": [
+        "Migração",
+        "Obediência",
+        "Estranhamento"
+      ],
+      "personagens": [
+        "Abraão"
+      ]
     },
     "2": {
-      "parafrase": "Abraão dizia que Sara, sua mulher, era sua irmã. Então Abimeleque, rei de Gerar, mandou buscá-la.",
-      "referencias": ["Gênesis 12:13"],
-      "comentario": "Inexplicavelmente, Abraão repete o mesmo erro que cometeu no Egito. O medo supera a fé, e ele recorre ao mesmo engano para se proteger. A beleza de Sara, mesmo aos 90 anos, ainda era notável, e ela é levada para o harém de Abimeleque.",
-      "temas": ["repetição do erro", "medo", "falta de fé", "engano"],
-      "personagens": ["Abraão", "Sara", "Abimeleque"]
+      "parafrase": "E, por medo, Abraão fez uma declaração muito arriscada, dizendo sobre sua esposa Sara: 'Esta mulher é, na verdade, minha irmã!'. Por causa desse engano, Abimeleque, o rei de Gerar, enviou mensageiros para tomá-la para si, levando-a para o seu palácio.",
+      "referencias": [
+        "Gênesis 12:13",
+        "Gênesis 26:7"
+      ],
+      "comentario": "O medo (Hebraico: 'yare') de Abraão leva-o a repetir o erro cometido com Faraó no Egito. A repetição de um erro grave (dizer que Sara era sua irmã) mostra a fraqueza humana mesmo em indivíduos de grande fé. O rei Abimeleque, cujo nome significa 'Meu Pai é Rei', age baseado em sua percepção superficial.",
+      "temas": [
+        "Medo",
+        "Mentira",
+        "Adulteração do voto"
+      ],
+      "personagens": [
+        "Abraão",
+        "Sara",
+        "Abimeleque"
+      ]
     },
     "3": {
-      "parafrase": "Mas Deus veio a Abimeleque em um sonho, durante a noite, e lhe disse: 'Você morrerá por causa da mulher que tomou, pois ela é casada'.",
-      "referencias": ["Jó 33:14-17"],
-      "comentario": "Deus intervém novamente para proteger Sara e a linhagem da promessa. Ele se revela a um rei pagão através de um sonho, um meio comum de revelação divina no Antigo Testamento. A advertência é direta e severa: a ação de Abimeleque, embora ignorante, era uma ofensa capital.",
-      "temas": ["intervenção divina", "revelação em sonho", "proteção da aliança", "advertência"],
-      "personagens": ["Deus", "Abimeleque"]
+      "parafrase": "Contudo, naquela mesma noite, Deus apareceu em um sonho a Abimeleque e lhe disse com autoridade: 'Você está prestes a morrer por causa desta mulher que você pegou, pois ela é casada!'.",
+      "referencias": [
+        "Gênesis 15:1",
+        "Jó 33:15"
+      ],
+      "comentario": "Deus intervém diretamente, usando o mesmo método divino (o sonho) que usou com Faraó. A interjeição 'Eis que tu estás para morrer' (Hebraico: 'hinecha met' - uma ameaça imediata) demonstra a santidade da aliança matrimonial e a proteção divina sobre a descendência prometida através de Sara.",
+      "temas": [
+        "Intervenção Divina",
+        "Santidade do Casamento",
+        "Advertência"
+      ],
+      "personagens": [
+        "Deus",
+        "Abimeleque"
+      ]
     },
     "4": {
-      "parafrase": "Ora, Abimeleque ainda não havia se aproximado dela. Por isso ele disse: 'Senhor, destruirias uma nação inocente?'",
-      "referencias": ["Gênesis 18:23"],
-      "comentario": "Abimeleque se defende, declarando sua inocência. Ele não havia consumado o casamento. Sua pergunta ecoa a de Abraão sobre Sodoma, apelando para a justiça de Deus. Ele se vê como uma vítima inocente.",
-      "temas": ["inocência", "apelo à justiça", "defesa"],
-      "personagens": ["Abimeleque", "Deus"]
+      "parafrase": "Mas Abimeleque, que ainda não havia chegado perto de Sara, respondeu a Deus em seu sonho, questionando com inocência: 'Senhor, será que vais destruir uma nação inteira, mesmo que ela seja inocente? Pois ele [Abraão] me disse: 'Ela é minha irmã!' E ela mesma confirmou a história, dizendo: 'Ele é meu irmão!'. Fiz isso com um coração reto e minhas mãos estão limpas de qualquer malícia contra ela!'.",
+      "referencias": [
+        "Êxodo 12:29",
+        "Salmos 7:4"
+      ],
+      "comentario": "Abimeleque se defende alegando 'coração reto' (Hebraico: 'lev tamim'), indicando que ele agiu sem intenção maliciosa de roubar a esposa, mas sim sob uma informação falsa. Ele apela para a justiça de Deus, temendo a destruição de seu povo por um erro que ele acredita ser um mal-entendido gerado pelo próprio Abraão.",
+      "temas": [
+        "Inocência",
+        "Responsabilidade",
+        "Justificação"
+      ],
+      "personagens": [
+        "Abimeleque",
+        "Deus",
+        "Abraão",
+        "Sara"
+      ]
     },
     "5": {
-      "parafrase": "'Não foi ele mesmo que me disse: ‘Ela é minha irmã’? E ela também disse: ‘Ele é meu irmão’. Fiz isso com o coração íntegro e as mãos limpas'.",
-      "referencias": [],
-      "comentario": "Abimeleque culpa Abraão e Sara, que o enganaram. Ele argumenta que suas intenções eram puras e suas ações, baseadas na informação que recebeu, eram inocentes. Ele agiu de boa fé.",
-      "temas": ["justificação", "engano", "boa fé"],
-      "personagens": ["Abimeleque", "Abraão", "Sara"]
+      "parafrase": "Então Deus lhe respondeu do céu: 'Eu sei que você agiu com um coração íntegro. Foi por isso que eu te impedi de tocar nela e a profanar, o que teria sido um pecado terrível contra Mim. Se você a tivesse tocado, Eu certamente o teria matado, e a todos os seus.'",
+      "referencias": [
+        "Deuteronômio 32:4",
+        "Salmos 11:4"
+      ],
+      "comentario": "Deus valida a intenção de Abimeleque ('Eu sei que você agiu com coração íntegro'), mas reafirma a gravidade do ato potencial. O verbo 'profanar' (Hebraico: 'chata') aponta para um ato pecaminoso grave contra a ordem moral e contra Deus. A preservação de Abimeleque demonstra a soberania divina em proteger o futuro pacto através de Sara.",
+      "temas": [
+        "Soberania Divina",
+        "Integridade",
+        "Graça Preventiva"
+      ],
+      "personagens": [
+        "Deus",
+        "Abimeleque",
+        "Sara"
+      ]
     },
     "6": {
-      "parafrase": "Então Deus lhe respondeu no sonho: 'Sim, eu sei que você fez isso com o coração íntegro. Fui eu quem o impedi de pecar contra mim, e por isso não permiti que você a tocasse.'",
-      "referencias": [],
-      "comentario": "Deus valida a defesa de Abimeleque, reconhecendo sua integridade de coração. No entanto, Ele revela uma verdade mais profunda: a proteção de Sara não foi acidental, mas uma intervenção soberana e direta de Deus para impedir que Abimeleque pecasse e para preservar a pureza da linhagem prometida.",
-      "temas": ["soberania de Deus", "proteção divina", "prevenção do pecado", "integridade"],
-      "personagens": ["Deus", "Abimeleque"]
+      "parafrase": "O rei respondeu: 'Mas, Senhor, o que devo fazer agora? Se eu sou inocente, como devo proceder para libertar esta situação de forma justa?'.",
+      "referencias": [
+        "Salmos 26:6",
+        "Miquéias 6:8"
+      ],
+      "comentario": "Abimeleque demonstra humildade e um desejo de corrigir o erro, perguntando como 'restaurar' a situação. Este é um momento crucial onde o poder humano se curva à autoridade moral do divino, pedindo orientação para restaurar a ordem quebrada.",
+      "temas": [
+        "Arrependimento",
+        "Busca por Justiça",
+        "Restituição"
+      ],
+      "personagens": [
+        "Abimeleque",
+        "Deus"
+      ]
     },
     "7": {
-      "parafrase": "'Agora, devolva a mulher ao marido dela. Ele é um profeta, e orará por você, e você viverá. Mas, se não a devolver, saiba que você e todos os seus certamente morrerão'.",
-      "referencias": ["1 Samuel 7:5", "Jó 42:8"],
-      "comentario": "Deus instrui Abimeleque sobre como corrigir a situação. Ele revela a identidade de Abraão como um 'profeta', alguém que fala em nome de Deus e tem uma relação especial com Ele. A ironia é que o profeta que pecou é quem deve orar pelo rei inocente para que este seja curado. Isso demonstra a graça de Deus e a importância da intercessão.",
-      "temas": ["profeta", "intercessão", "graça", "restauração", "advertência"],
-      "personagens": ["Deus", "Abimeleque", "Abraão"]
+      "parafrase": "Deus então ordenou: 'Devolva a mulher a seu marido imediatamente! Ele é um profeta, e ele orará por você para que você viva. Se você não a devolver, saiba que você e todos os que pertencem à sua casa morrerão sem falta!'.",
+      "referencias": [
+        "Gênesis 18:17",
+        "1 Reis 17:18"
+      ],
+      "comentario": "Aqui, Deus confere a Abraão o título explícito de 'profeta' (Hebraico: 'navi'). Este é um dos primeiros usos do termo no texto bíblico, indicando que Abraão não é apenas um chefe tribal, mas um porta-voz de Deus. A vida de Abimeleque está agora condicionada à intercessão de Abraão.",
+      "temas": [
+        "Intercessão",
+        "Vocação Profética",
+        "Condicionalidade da Vida"
+      ],
+      "personagens": [
+        "Deus",
+        "Abraão",
+        "Abimeleque"
+      ]
     },
     "8": {
-      "parafrase": "Na manhã seguinte, Abimeleque levantou-se cedo, convocou todos os seus servos e lhes contou tudo o que havia acontecido, e os homens ficaram apavorados.",
-      "referencias": [],
-      "comentario": "Abimeleque obedece imediatamente. Ele não esconde o ocorrido, mas compartilha a revelação divina com seus servos, que reagem com o temor apropriado a Deus.",
-      "temas": ["obediência imediata", "temor a Deus", "liderança"],
-      "personagens": ["Abimeleque"]
+      "parafrase": "Na manhã seguinte, Abimeleque chamou todos os seus servos, contou-lhes tudo o que havia acontecido no sonho, e os homens ficaram apavorados com o que Deus lhes revelara.",
+      "referencias": [
+        "Daniel 4:5",
+        "Atos 2:43"
+      ],
+      "comentario": "A revelação divina impacta não só o rei, mas toda a sua corte. O terror (Hebraico: 'yara' ou 'yare' em sentido forte, temor reverencial misturado com medo) sobre as pessoas mostra a seriedade da advertência e a reputação da palavra de Deus.",
+      "temas": [
+        "Revelação",
+        "Temor de Deus",
+        "Comunicação de Verossimilhança"
+      ],
+      "personagens": [
+        "Abimeleque",
+        "Servos"
+      ]
     },
     "9": {
-      "parafrase": "Então Abimeleque chamou Abraão e lhe disse: 'O que você fez conosco? Em que pequei contra você para que trouxesse tamanha culpa sobre mim e sobre o meu reino? Você me fez coisas que não se devem fazer'.",
-      "referencias": ["Gênesis 12:18"],
-      "comentario": "Assim como Faraó, o rei pagão Abimeleque repreende Abraão, o profeta de Deus. Ele acusa Abraão de trazer culpa sobre um reino inocente e de agir de uma forma moralmente inaceitável ('coisas que não se devem fazer'). A repreensão é justa e humilhante para Abraão.",
-      "temas": ["repreensão", "humilhação", "culpa", "moralidade"],
-      "personagens": ["Abimeleque", "Abraão"]
+      "parafrase": "Abimeleque, então, chamou Abraão e o repreendeu severamente: 'Que ultraje é este que você nos trouxe? Por acaso eu fiz algo de errado contra você? Você me acusou com mentiras, trazendo sobre mim e sobre meu reino uma culpa que não merecíamos!',",
+      "referencias": [
+        "Jó 19:2",
+        "Provérbios 10:12"
+      ],
+      "comentario": "A repreensão é direta. Abimeleque foca no dano causado à sua reputação e ao seu reino pelo engano de Abraão. A pergunta 'Que ultraje é este?' (Hebraico: 'ma'aseh asit' - que ação você fez) demonstra a percepção de que a mentira de Abraão teve consequências reais e públicas.",
+      "temas": [
+        "Repreensão",
+        "Dano à Reputação",
+        "Consequências da Mentira"
+      ],
+      "personagens": [
+        "Abimeleque",
+        "Abraão"
+      ]
     },
     "10": {
-      "parafrase": "E Abimeleque perguntou a Abraão: 'Qual foi a sua razão para fazer isso?'",
-      "referencias": [],
-      "comentario": "Abimeleque busca entender a motivação por trás do engano de Abraão.",
-      "temas": ["questionamento", "motivação"],
-      "personagens": ["Abimeleque", "Abraão"]
+      "parafrase": "Abraão justificou sua ação dizendo: 'Pensei: Certamente, neste lugar as pessoas não têm o temor de Deus e me matarão por causa de minha esposa!'.",
+      "referencias": [
+        "Gênesis 12:12",
+        "Romanos 3:11"
+      ],
+      "comentario": "Abraão oferece sua motivação: a ausência do 'temor de Deus' (Hebraico: 'yirat Elohim') na população local. Ele presumiu que seu valor como homem não seria suficiente para protegê-lo da paixão alheia, mostrando uma falta de confiança na providência divina naquele ambiente específico.",
+      "temas": [
+        "Falta de Fé",
+        "Cálculo Humano",
+        "Temor Humano"
+      ],
+      "personagens": [
+        "Abraão"
+      ]
     },
     "11": {
-      "parafrase": "Abraão respondeu: 'Eu pensei: Certamente não há temor a Deus neste lugar, e eles me matarão por causa de minha mulher'.",
-      "referencias": [],
-      "comentario": "A desculpa de Abraão revela sua verdadeira motivação: o medo. Ele julgou um povo inteiro como ímpio e sem temor a Deus, e agiu com base nesse preconceito, sem confiar na proteção divina. Ironicamente, Abimeleque e seu povo demonstraram mais temor a Deus do que Abraão esperava.",
-      "temas": ["medo", "preconceito", "falta de fé", "justificativa"],
-      "personagens": ["Abraão"]
+      "parafrase": "Além disso, ele admitiu que havia uma verdade parcial em sua história: 'Ela é realmente minha irmã, filha do meu pai, mas não filha da minha mãe. Portanto, eu temi que a verdade completa pudesse me custar a vida!'.",
+      "referencias": [
+        "Gênesis 11:29",
+        "Tito 1:12"
+      ],
+      "comentario": "Abraão revela a meia-verdade, que era tecnicamente exata, mas intencionalmente enganosa. Sara era, de fato, meia-irmã (filha do pai dele, mas não da mãe), um relacionamento que era legalmente complexo e que ele usou como escudo para sua insegurança.",
+      "temas": [
+        "Meia-Verdade",
+        "Justificativa Pessoal",
+        "Relações Familiares"
+      ],
+      "personagens": [
+        "Abraão",
+        "Sara"
+      ]
     },
     "12": {
-      "parafrase": "'Além disso, ela é, de fato, minha irmã, filha de meu pai, mas não de minha mãe; e se tornou minha mulher'.",
-      "referencias": ["Gênesis 11:29"],
-      "comentario": "Abraão tenta se justificar com uma meia-verdade. Embora tecnicamente correta, a afirmação foi feita com a intenção de enganar, o que a torna uma mentira em sua essência. Ele está tentando minimizar sua culpa.",
-      "temas": ["meia-verdade", "engano", "justificativa"],
-      "personagens": ["Abraão", "Sara"]
+      "parafrase": "E a razão pela qual ele acreditava que sua vida estava em perigo era que Sara era realmente sua parente próxima. 'Quando Deus me tirou da casa de meu pai para viajar, foi ela quem me disse: 'Por favor, diga a todos que você é meu irmão!' Assim ela determinou nosso plano de vida em todos os lugares que formos!'.",
+      "referencias": [
+        "Gênesis 11:31",
+        "2 Timóteo 2:20"
+      ],
+      "comentario": "Abraão transfere a responsabilidade da mentira para Sara, citando um acordo mútuo feito no início da jornada. Isso demonstra a influência mútua na tomada de decisões arriscadas, mas não isenta Abraão de sua falha como líder e intercessor.",
+      "temas": [
+        "Acordo Mútuo",
+        "Transferência de Culpa",
+        "Viagem"
+      ],
+      "personagens": [
+        "Abraão",
+        "Sara",
+        "Deus"
+      ]
     },
     "13": {
-      "parafrase": "'E, quando Deus me fez sair errante da casa de meu pai, eu disse a ela: Este é o favor que você me fará: em todo lugar aonde formos, diga que sou seu irmão'.",
-      "referencias": [],
-      "comentario": "Abraão revela que este era um plano premeditado e de longa data, o que torna a ofensa ainda mais grave. Ele coloca a responsabilidade em sua esposa como um 'favor' a ele, mostrando um padrão de autopreservação egoísta.",
-      "temas": ["plano premeditado", "egoísmo", "falta de fé crônica"],
-      "personagens": ["Abraão", "Sara", "Deus"]
+      "parafrase": "E aconteceu que, quando Deus me fez deixar a casa de meu pai, Sara, com sua beleza estonteante, foi quem me sugeriu a estratégia: 'Faça-me esse favor em todos os lugares onde chegarmos: diga que eu sou sua irmã!'",
+      "referencias": [
+        "Gênesis 29:17",
+        "1 Pedro 3:2"
+      ],
+      "comentario": "Este versículo reforça o ponto anterior. A beleza de Sara (Hebraico: 'tovah mar'ot' - boa de aparência) é apresentada como o catalisador do perigo e da subsequente mentira. Sua solicitação indica que ela também temia pela vida de Abraão e, possivelmente, pela sua própria segurança, buscando proteção através do disfarce de parentesco.",
+      "temas": [
+        "Beleza",
+        "Estratégia Enganosa",
+        "Proteção Mútua"
+      ],
+      "personagens": [
+        "Sara",
+        "Abraão"
+      ]
     },
     "14": {
-      "parafrase": "Então Abimeleque pegou ovelhas e bois, servos e servas, e os deu a Abraão; e devolveu-lhe Sara, sua mulher.",
-      "referencias": [],
-      "comentario": "Apesar do erro de Abraão, Abimeleque age com extraordinária generosidade, talvez para apaziguar o Deus de Abraão. Ele não apenas devolve Sara, mas também presenteia Abraão, mostrando que não guarda rancor.",
-      "temas": ["generosidade", "restauração", "reconciliação"],
-      "personagens": ["Abimeleque", "Abraão", "Sara"]
+      "parafrase": "Então, Abimeleque tomou ovelhas, gado, servos e servas, deu-os a Abraão, e devolveu-lhe Sara, sua esposa, com grande honra.",
+      "referencias": [
+        "Gênesis 12:16",
+        "Gênesis 21:27"
+      ],
+      "comentario": "A restituição é imediata e generosa. Abimeleque não apenas devolve Sara, mas recompensa Abraão com bens materiais significativos. Esta ação marca a restauração da honra de Abraão perante o rei, embora a honra moral tenha sido abalada.",
+      "temas": [
+        "Restituição",
+        "Riqueza",
+        "Restauração de Honra"
+      ],
+      "personagens": [
+        "Abimeleque",
+        "Abraão",
+        "Sara"
+      ]
     },
     "15": {
-      "parafrase": "E Abimeleque disse: 'Minha terra está diante de você; habite onde lhe parecer melhor'.",
-      "referencias": [],
-      "comentario": "Abimeleque oferece a Abraão o direito de viver em qualquer lugar de seu reino, um gesto de paz e boa vontade.",
-      "temas": ["oferta de paz", "hospitalidade"],
-      "personagens": ["Abimeleque", "Abraão"]
+      "parafrase": "E Abimeleque disse a Abraão: 'Observe bem, toda a minha terra está à sua disposição. Fique onde desejar morar e estabeleça seu acampamento!'.",
+      "referencias": [
+        "Gênesis 13:11",
+        "Gênesis 21:22"
+      ],
+      "comentario": "Com a bênção divina e a resolução do conflito, Abimeleque concede a Abraão total liberdade territorial. O rei reconhece a posição especial de Abraão, tratando-o com o respeito devido a alguém que possui a proteção do Deus Altíssimo.",
+      "temas": [
+        "Hospitalidade",
+        "Liberdade",
+        "Reconhecimento"
+      ],
+      "personagens": [
+        "Abimeleque",
+        "Abraão"
+      ]
     },
     "16": {
-      "parafrase": "A Sara ele disse: 'Estou dando a seu irmão mil peças de prata. Isto é para você uma prova de inocência diante de todos os que estão com você; você está completamente vindicada'.",
-      "referencias": [],
-      "comentario": "Abimeleque se dirige a Sara, chamando Abraão de 'seu irmão' com uma pitada de ironia. O presente de prata serve como uma compensação pública e uma vindicação da honra de Sara, mostrando a todos que nada de impróprio aconteceu e que o erro foi corrigido.",
-      "temas": ["vindicação", "honra", "compensação", "ironia"],
-      "personagens": ["Abimeleque", "Sara", "Abraão"]
+      "parafrase": "Em seguida, Abraão dirigiu-se a Sara e lhe disse: 'Olha, eu dei mil moedas de prata ao teu irmão [Abimeleque] como um sinal de reparação, para cobrir a vergonha que você sofreu por minha causa'. Esta prata serve para restaurar sua honra publicamente aos olhos de todos os que te observaram'.",
+      "referencias": [
+        "Gênesis 25:7",
+        "Lucas 19:8"
+      ],
+      "comentario": "Abraão oferece a Sara uma compensação simbólica (mil siclos de prata, um valor considerável) como reparação pública pela humilhação sofrida. O termo 'véu dos olhos' (Hebraico: 'kəṣuwt 'ēnayim') indica que a prata deveria encobrir a mancha pública da sua honra diante da comunidade.",
+      "temas": [
+        "Compensação",
+        "Reparação da Honra",
+        "Vergonha Pública"
+      ],
+      "personagens": [
+        "Abraão",
+        "Sara",
+        "Abimeleque"
+      ]
     },
     "17": {
-      "parafrase": "Então Abraão orou a Deus, e Deus curou Abimeleque, sua mulher e suas servas, para que pudessem ter filhos novamente.",
-      "referencias": [],
-      "comentario": "Abraão, o profeta que falhou, cumpre seu papel de intercessor. Ele ora, e Deus responde, curando a casa de Abimeleque. A oração de Abraão foi necessária para a cura, mostrando a restauração do relacionamento entre ele e Deus, e entre ele e Abimeleque.",
-      "temas": ["intercessão", "cura divina", "oração respondida", "restauração"],
-      "personagens": ["Abraão", "Deus", "Abimeleque"]
+      "parafrase": "Então, Abraão clamou fervorosamente ao Deus Poderoso, e Deus atendeu à sua súplica, curando Abimeleque, sua esposa e suas servas, para que elas pudessem ter filhos novamente, pois antes do ocorrido, Deus havia fechado o ventre de todas as mulheres da casa de Abimeleque.",
+      "referencias": [
+        "Gênesis 17:17",
+        "Salmos 103:3"
+      ],
+      "comentario": "Este é o cumprimento da profecia do versículo 7. Abraão ora, e Deus responde, não apenas poupando vidas, mas restaurando a fertilidade, que havia sido judicialmente retirada (Hebraico: 'atsar' - fechar/restringir). A esterilidade era vista como um sinal de julgamento divino.",
+      "temas": [
+        "Oração Sacerdotal",
+        "Cura",
+        "Fertilidade Restituída"
+      ],
+      "personagens": [
+        "Abraão",
+        "Deus",
+        "Abimeleque"
+      ]
     },
     "18": {
-      "parafrase": "Pois o Senhor havia fechado o ventre de todas as mulheres na casa de Abimeleque por causa de Sara, mulher de Abraão.",
-      "referencias": [],
-      "comentario": "Este versículo revela a natureza da praga mencionada anteriormente. Deus havia imposto esterilidade à casa de Abimeleque como um juízo preventivo. A cura da esterilidade deles coincide com a iminente cura da esterilidade de Sara, destacando o controle soberano de Deus sobre a vida e a morte.",
-      "temas": ["juízo divino", "esterilidade", "soberania de Deus", "cura"],
-      "personagens": ["Deus", "Abimeleque", "Sara"]
+      "parafrase": "Pois, por causa do segredo de Sara, Deus havia feito com que todas as mulheres da casa real ficassem estéreis. Mas, após a oração de Abraão, o Senhor abriu novamente seus ventres, e elas puderam conceber.",
+      "referencias": [
+        "Isaías 51:2",
+        "Jó 5:18"
+      ],
+      "comentario": "O versículo finaliza o episódio, reforçando a causa (a ligação indevida com Sara) e o efeito (a esterilidade imposta por Deus) e, por fim, a solução (a reabertura dos ventres pela oração de Abraão). Deus demonstra Seu controle sobre a vida e a morte, a honra e a vergonha, a fertilidade e a esterilidade, tudo como consequência da Aliança.",
+      "temas": [
+        "Controle Divino sobre a Vida",
+        "Restauração",
+        "Consequências da Aliança"
+      ],
+      "personagens": [
+        "Deus",
+        "Sara",
+        "Abraão"
+      ]
     }
   }
 }

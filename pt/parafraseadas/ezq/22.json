@@ -1,226 +1,526 @@
-
 {
   "livro": "Ezequiel",
   "capitulo": 22,
-  "contexto_historico": "Este capítulo é uma acusação detalhada de Deus contra Jerusalém, que é chamada de 'cidade de sangue'. Ele lista uma série de pecados e abominações que permeiam a cidade, incluindo derramamento de sangue, idolatria, opressão, corrupção dos líderes e profanação do sábado. Deus anuncia que trará Seu furor sobre Jerusalém, usando o fogo do juízo para purificá-la, mas também para consumi-la. O capítulo enfatiza a justiça de Deus em punir o pecado e a inevitabilidade do juízo.",
-  "bloco_tematico": "Jerusalém, a Cidade de Sangue: Uma Acusação de Pecados",
+  "contexto_historico": "O profeta Ezequiel profetiza durante o exílio babilônico (após 586 a.C.), um período de profunda crise de identidade e fé para o povo de Judá. Jerusalém foi destruída e o templo demolido. O povo exilado em Babilônia questionava a fidelidade de Deus e se a promessa da aliança havia sido quebrada. Nesta fase, Ezequiel luta para redefinir a relação de Deus com Israel, enfatizando a soberania divina e a responsabilidade individual, enquanto lida com falsos profetas que prometem paz ilusória. O capítulo 22 faz parte de uma série de oráculos contra as nações vizinhas e contra os próprios líderes de Jerusalém, revelando a corrupção generalizada antes da destruição final.",
+  "bloco_tematico": "Julgamento de Jerusalém: A Cidade de Sangue e a Imundície dos seus Idolatras 🩸🔥",
   "versiculos": {
     "1": {
-      "parafrase": "E veio a mim a palavra do Senhor, dizendo:",
-      "referencias": [],
-      "comentario": "O profeta enfatiza a origem divina da mensagem, conferindo-lhe autoridade.",
-      "temas": ["Revelação Divina", "Autoridade Profética"],
-      "personagens": ["Senhor"]
+      "parafrase": "A Palavra do Senhor veio a mim com urgência, trazendo uma mensagem direta do alto. Ele me chamou para prestar atenção, para ser a testemunha viva de uma visão terrível que estava prestes a se desenrolar, uma visão sobre a cidade de Jerusalém, o coração rebelde de Israel, que estava sob julgamento divino.",
+      "referencias": [
+        "Jeremias 25:9",
+        "Miqueias 6:2"
+      ],
+      "comentario": "O termo hebraico para 'Filho do Homem' (Ben Adam) estabelece a posição do profeta como um ser humano confrontando a glória divina. A menção imediata a Jerusalém define o objeto da profecia, que será um juízo severo e inescapável.",
+      "temas": [
+        "Vocação Profética",
+        "Julgamento Iminente",
+        "Jerusalém"
+      ],
+      "personagens": [
+        "Ezequiel",
+        "Senhor"
+      ]
     },
     "2": {
-      "parafrase": "Tu, pois, ó filho do homem, porventura julgarás a cidade sanguinária? Faze-lhe conhecer todas as suas abominações.",
-      "referencias": ["Ezequiel 20:4"],
-      "comentario": "Ezequiel é instruído a julgar Jerusalém, a 'cidade de sangue', e a expor todos os seus pecados e abominações.",
-      "temas": ["Julgamento", "Cidade Sanguinária", "Abominações"],
-      "personagens": []
+      "parafrase": "Então o Senhor me disse para meditar profundamente sobre as leis e os costumes deste povo infiel. Ele ordenou que eu examinasse atentamente os seus atos vergonhosos, pois a vida deles era uma afronta à santidade, e eu deveria expor essa podridão à luz.",
+      "referencias": [
+        "Deuteronômio 28:36",
+        "Salmos 106:34"
+      ],
+      "comentario": "Esta é a instrução para a exposição detalhada da perversidade. O 'pecado' ou 'abominação' (shikuvim) refere-se aos atos de idolatria e imoralidade sexual praticados em Jerusalém.",
+      "temas": [
+        "Exposição da Imoralidade",
+        "Leis Divinas",
+        "Atenção Profética"
+      ],
+      "personagens": [
+        "Senhor",
+        "Ezequiel"
+      ]
     },
     "3": {
-      "parafrase": "E dize: Assim diz o Senhor Deus: Ó cidade que derrama sangue no meio de ti, para que venha o seu tempo, e que faz ídolos contra si mesma, para se contaminar!",
-      "referencias": [],
-      "comentario": "Jerusalém é acusada de derramar sangue inocente e de praticar idolatria, o que a contamina e a leva ao juízo.",
-      "temas": ["Derramamento de Sangue", "Idolatria", "Contaminação", "Juízo"],
-      "personagens": ["Senhor Deus"]
+      "parafrase": "O Senhor questionou: 'Filho do Homem, você consegue enxergar a natureza perversa desta cidade? Observe como eles profanam o meu Nome com seus sacrifícios abomináveis feitos sobre cada colina alta e sob cada árvore frondosa. Eles seguem ídolos, não a mim.'",
+      "referencias": [
+        "Oseias 4:13",
+        "Isaías 57:5"
+      ],
+      "comentario": "O ato de profanar o Nome (Chillul Hashem) é central. Os locais de culto pagão ('altares em toda colina' e 'sob toda árvore frondosa') eram a manifestação física da infidelidade a YHWH.",
+      "temas": [
+        "Idolatria",
+        "Profanação do Nome",
+        "Culto Falso"
+      ],
+      "personagens": [
+        "Senhor",
+        "Ezequiel"
+      ]
     },
     "4": {
-      "parafrase": "Pelo sangue que derramaste te fiz culpada, e pelos teus ídolos que fizeste te contaminaste; e fizeste aproximar os teus dias, e chegaste aos teus anos; por isso te fiz opróbrio às nações, e escárnio a todas as terras.",
-      "referencias": ["Ezequiel 16:38"],
-      "comentario": "O derramamento de sangue e a idolatria são as causas da culpa de Jerusalém. Isso acelerou seu juízo e a tornou um objeto de desprezo para as nações.",
-      "temas": ["Culpa", "Idolatria", "Oprobrio", "Escárnio"],
-      "personagens": []
+      "parafrase": "Ele continuou a me ordenar: 'Agora, mostre ao povo de Judá o quão insensatas e cruéis foram suas ações. Pois eles dizem que são devotos ao Senhor, mas seus corações estão cheios de traição e falsidade, sendo piores que os gentios ao redor deles.'",
+      "referencias": [
+        "Mateus 12:41",
+        "Romanos 2:24"
+      ],
+      "comentario": "A hipocrisia é o cerne da acusação. Eles se declaram povo do pacto, mas suas ações não condizem com essa afirmação, tornando-os mais culpados do que as nações vizinhas que nunca professaram conhecer a Deus.",
+      "temas": [
+        "Hipocrisia",
+        "Falsidade",
+        "Julgamento Comparativo"
+      ],
+      "personagens": [
+        "Senhor",
+        "Povo de Judá"
+      ]
     },
     "5": {
-      "parafrase": "As que estão perto e as que estão longe de ti escarnecerão de ti, ó infame, cheia de confusão.",
-      "referencias": [],
-      "comentario": "Jerusalém será zombada por todas as nações, tanto as próximas quanto as distantes, por sua infâmia e confusão.",
-      "temas": ["Zombaria", "Infâmia", "Confusão"],
-      "personagens": []
+      "parafrase": "O Senhor declarou solenemente: 'Eu estendo minha mão contra você, Jerusalém! Eu vou punir toda a sua hipocrisia. Eu tirarei de você os justos, aqueles que se afligem com a prática do mal, e os separarei do meio dos ímpios que você tolera.'",
+      "referencias": [
+        "Gênesis 18:23",
+        "Apocalipse 18:4"
+      ],
+      "comentario": "O primeiro ato do juízo é a separação. O termo hebraico para 'afligir-se' (notzrim) indica aqueles que guardam ou observam o sofrimento causado pelo pecado. Deus preserva os justos antes de desferir o golpe final.",
+      "temas": [
+        "Separação do Justo",
+        "Intercessão Implícita",
+        "Início do Castigo"
+      ],
+      "personagens": [
+        "Senhor",
+        "Justos"
+      ]
     },
     "6": {
-      "parafrase": "Eis que os príncipes de Israel, cada um conforme o seu poder, estiveram em ti para derramarem sangue.",
-      "referencias": [],
-      "comentario": "Os líderes de Israel são acusados de usar seu poder para derramar sangue inocente, mostrando a corrupção da liderança.",
-      "temas": ["Corrupção da Liderança", "Derramamento de Sangue", "Opressão"],
-      "personagens": []
+      "parafrase": "Por causa disso, o Senhor Deus afirma: 'Seus vizinhos, os habitantes de Samaria, são insignificantes perto da sua maldade. Você e os povos que a cercam fizeram coisas tão terríveis que as suas transgressões parecem pequenas em comparação com as suas, ó Jerusalém!'",
+      "referencias": [
+        "Lucas 12:47",
+        "Tiago 4:4"
+      ],
+      "comentario": "Esta é uma inversão de expectativa. Samaria (que já havia sido destruída por sua idolatria) é usada como padrão baixo. Jerusalém, o centro da adoração, é julgada mais severamente por sua apostasia dupla (adoração a YHWH e aos ídolos).",
+      "temas": [
+        "Severidade do Juízo",
+        "Aposta Residencial",
+        "Padrões Elevados"
+      ],
+      "personagens": [
+        "Senhor",
+        "Jerusalém",
+        "Samaria"
+      ]
     },
     "7": {
-      "parafrase": "Em ti desprezaram o pai e a mãe; no meio de ti oprimiram o estrangeiro; em ti afligiram o órfão e a viúva.",
-      "referencias": ["Êxodo 21:17"],
-      "comentario": "Jerusalém é acusada de violar os mandamentos básicos da lei, desprezando os pais e oprimindo os vulneráveis da sociedade.",
-      "temas": ["Desprezo da Lei", "Opressão", "Injustiça Social"],
-      "personagens": []
+      "parafrase": "Portanto, o meu veredito é este: vocês não se contentaram em cometer seus próprios atos abomináveis. Não! Vocês foram ainda mais longe e, em sua sede por coisas impuras, vocês até mesmo desprezaram as minhas ordenanças e rituais!'",
+      "referencias": [
+        "Hebreus 10:29",
+        "Atos 7:51"
+      ],
+      "comentario": "A transgressão não é apenas a prática do mal, mas a negligência deliberada dos estatutos divinos (Chukotai). Eles não apenas caíram, mas rejeitaram ativamente o caminho estabelecido.",
+      "temas": [
+        "Rejeição dos Mandamentos",
+        "Transgressão Dupla",
+        "Desprezo"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "8": {
-      "parafrase": "As minhas coisas santas desprezaste, e os meus sábados profanaste.",
-      "referencias": ["Ezequiel 20:13"],
-      "comentario": "A profanação das coisas santas de Deus e do sábado é uma ofensa grave, mostrando a falta de reverência.",
-      "temas": ["Profanação", "Sábado", "Falta de Reverência"],
-      "personagens": []
+      "parafrase": "O Senhor Deus acrescenta: 'Eu lhes mostrei o caminho reto. Mas vocês agiram como aqueles que vieram de longe, como estrangeiros que não conhecem a lei, e se juntaram a outros povos para praticar o que é sujo e profano.'",
+      "referencias": [
+        "Efésios 2:12",
+        "Isaías 1:3"
+      ],
+      "comentario": "A analogia com os gentios ('como os estrangeiros') enfatiza a vergonha. O povo de Israel, tendo recebido a revelação completa, agiu como se fosse ignorante da verdade, imitando as piores práticas das nações vizinhas.",
+      "temas": [
+        "Ato de Imitação Pagã",
+        "Ignorância Deliberada",
+        "Vergonha Nacional"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "9": {
-      "parafrase": "Em ti se acharam homens caluniadores, para derramarem sangue; e em ti comeram sobre os montes; no meio de ti cometeram abominação.",
-      "referencias": [],
-      "comentario": "A cidade está cheia de caluniadores que levam ao derramamento de sangue. A idolatria nos montes e as abominações são generalizadas.",
-      "temas": ["Calúnia", "Derramamento de Sangue", "Idolatria", "Abominação"],
-      "personagens": []
+      "parafrase": "Por isso, eu revelarei minha ira, pois vocês imitaram as piores nações. Assim diz o Soberano Deus: 'Eu julgarei vocês com os meus atos, e o meu castigo será evidente para todos, pois vocês se entregaram à idolatria sem reservas.'",
+      "referencias": [
+        "Lamentações 4:11",
+        "Apocalipse 16:1"
+      ],
+      "comentario": "O julgamento será 'no meio de ti' (B'tokha). A retribuição virá diretamente do poder de Deus, contrastando com o poder dos ídolos que eles serviram. O termo 'ira' (chemmah) indica uma fúria intensa.",
+      "temas": [
+        "Ira Divina",
+        "Juízo Manifestado",
+        "Consequência Direta"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "10": {
-      "parafrase": "Em ti descobriram a nudez do pai; em ti humilharam a que estava impura na sua separação.",
-      "referencias": ["Levítico 18:7"],
-      "comentario": "A cidade é acusada de incesto e de humilhar mulheres em seu período de impureza, mostrando a profundidade da imoralidade.",
-      "temas": ["Incesto", "Imoralidade", "Humilhação"],
-      "personagens": []
+      "parafrase": "Na sua cidade, os pais farão coisas horríveis com seus próprios filhos: os pais comerão os filhos, e os filhos comerão os pais. Esta será a punição por toda a sua idolatria e o resultado da sua rejeição à minha lei!",
+      "referencias": [
+        "Levítico 26:29",
+        "2 Reis 6:28"
+      ],
+      "comentario": "Este é o clímax do horror da desolação, o canibalismo. É uma referência explícita à quebra do pacto mais fundamental da vida. Este cenário extremo já havia sido profetizado como maldição no Deuteronômio.",
+      "temas": [
+        "Fome Extrema",
+        "Canibalismo",
+        "Quebra do Pacto"
+      ],
+      "personagens": [
+        "Pais",
+        "Filhos"
+      ]
     },
     "11": {
-      "parafrase": "E um cometeu abominação com a mulher do seu próximo, e outro contaminou a sua nora com a prostituição, e outro em ti humilhou a sua irmã, filha de seu pai.",
-      "referencias": ["Levítico 18:15"],
-      "comentario": "A lista de pecados sexuais continua, incluindo adultério, incesto e outras abominações, mostrando a total depravação moral.",
-      "temas": ["Adultério", "Incesto", "Imoralidade Sexual", "Depravação"],
-      "personagens": []
+      "parafrase": "O Senhor explica o porquê dessa calamidade: 'Sua tia, a cidade de Samaria, cometeu pecados vis, mas os pecados dela foram apenas uma parte do que vocês fizeram. Vocês, habitantes de Jerusalém, cometeram pecados ainda maiores e mais abomináveis que os dela!'",
+      "referencias": [
+        "Jeremias 3:6",
+        "Judas 1:12"
+      ],
+      "comentario": "A 'tia' é uma metáfora para a Samaria apóstata. Ezequiel estabelece uma comparação onde Jerusalém (a filha mais nova, mas mais corrupta) supera a mãe no mal. A metáfora familiar sublinha a proximidade e a traição.",
+      "temas": [
+        "Metáfora Familiar",
+        "Corrupção Máxima",
+        "Julgamento Agravado"
+      ],
+      "personagens": [
+        "Senhor",
+        "Samaria",
+        "Jerusalém"
+      ]
     },
     "12": {
-      "parafrase": "Subornos se receberam em ti para derramar sangue; tomaste juros e aumento, e com avareza extorquiste o teu próximo; e de mim te esqueceste, diz o Senhor Deus.",
-      "referencias": ["Deuteronômio 16:19"],
-      "comentario": "A corrupção financeira e a exploração são generalizadas. O povo se esqueceu de Deus em sua busca por ganho ilícito.",
-      "temas": ["Corrupção", "Exploração", "Avareza", "Esquecimento de Deus"],
-      "personagens": ["Senhor Deus"]
+      "parafrase": "Portanto, eu farei o que prometi. Assim como vocês se alimentaram de carne humana, eu farei com que o meu juízo se volte contra vocês. Olhem para seus próprios filhos, que serão devorados por suas ações desesperadas!",
+      "referencias": [
+        "Habacuque 1:16",
+        "Salmos 137:6"
+      ],
+      "comentario": "Reforça a retribuição. O Senhor age como o executor da justiça que é desencadeada pela própria depravação da cidade. O juízo de Deus se manifesta através das consequências naturais e brutais do cerco.",
+      "temas": [
+        "Retribuição Direta",
+        "Consequências",
+        "Execução do Juízo"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "13": {
-      "parafrase": "Eis que, portanto, baterei as minhas mãos contra a tua avareza que praticaste, e contra o sangue que houve no meio de ti.",
-      "referencias": ["Ezequiel 21:17"],
-      "comentario": "Deus anuncia que Ele mesmo agirá em juízo contra a avareza e o derramamento de sangue em Jerusalém.",
-      "temas": ["Juízo Divino", "Avareza", "Derramamento de Sangue"],
-      "personagens": []
+      "parafrase": "Diante disso, o Senhor Deus proclama: 'Eu vou bater minhas mãos de indignação! Minha fúria será intensa, e eu reduzo a zero toda a sua justiça restante. Eu farei com que você se sinta completamente humilhada e destruída diante dos olhos de todos.'",
+      "referencias": [
+        "Números 25:11",
+        "Lamentações 2:17"
+      ],
+      "comentario": "O bater de mãos (qomam) é um sinal de choque extremo e fúria irada, expressando a intensidade do sentimento divino pela revolta do povo. A destruição da 'justiça' ou 'superstição' (tzadqat) implica que até mesmo seus ídolos e rituais não oferecerão proteção.",
+      "temas": [
+        "Indignação Divina",
+        "Humilhação Pública",
+        "Fim da Falsa Esperança"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "14": {
-      "parafrase": "Porventura o teu coração poderá suportar, ou as tuas mãos poderão ser fortes, nos dias em que eu tratar contigo? Eu, o Senhor, o disse, e o farei.",
-      "referencias": [],
-      "comentario": "Deus questiona a capacidade de Jerusalém de suportar Seu juízo. Ele é o Senhor, e Sua palavra é certa.",
-      "temas": ["Incapacidade de Suportar", "Certeza do Juízo", "Soberania de Deus"],
-      "personagens": ["Senhor"]
+      "parafrase": "Enquanto isso, quando eu estiver executando o meu castigo em você, Jerusalém, sua fama se espalhará. E aqueles que a cercam e a desprezam, vendo o que aconteceu, ficarão chocados e dirão: 'Nenhuma cidade sofreu uma calamidade como esta!'",
+      "referencias": [
+        "Lamentações 1:12",
+        "Jeremias 49:26"
+      ],
+      "comentario": "A punição terá um impacto testemunhal. O sofrimento de Jerusalém será tão extremo que servirá de alerta e espanto para todas as outras nações, validando a soberania de YHWH.",
+      "temas": [
+        "Testemunho pelo Castigo",
+        "Fama da Destruição",
+        "Exemplo Universal"
+      ],
+      "personagens": [
+        "Senhor",
+        "Jerusalém",
+        "Nações"
+      ]
     },
     "15": {
-      "parafrase": "E te espalharei entre as nações, e te dispersarei pelas terras, e farei cessar em ti a tua imundícia.",
-      "referencias": ["Ezequiel 6:8"],
-      "comentario": "A dispersão será um meio de purificação. Deus espalhará o povo entre as nações para remover sua impureza.",
-      "temas": ["Dispersão", "Purificação", "Juízo"],
-      "personagens": []
+      "parafrase": "Assim, o Senhor anuncia que o seu julgamento sobre Jerusalém será tão completo que Ele mesmo a deixará em ruínas, como um exemplo de punição merecida. Pois, em contraste com as outras nações, vocês cometeram adultério espiritual e idolatria aberta.",
+      "referencias": [
+        "Deuteronômio 29:23",
+        "Jeremias 44:2"
+      ],
+      "comentario": "O adultério (Zonah) é a metáfora bíblica para a quebra da aliança com Deus através da idolatria. Jerusalém, a esposa infiel, será despojada de sua glória e deixada exposta, como uma prostituta punida.",
+      "temas": [
+        "Adultério Espiritual",
+        "Despojar a Glória",
+        "Exemplo de Punição"
+      ],
+      "personagens": [
+        "Senhor",
+        "Jerusalém"
+      ]
     },
     "16": {
-      "parafrase": "E serás profanada em ti mesma, aos olhos das nações; e saberás que eu sou o Senhor.",
-      "referencias": [],
-      "comentario": "Jerusalém será profanada e humilhada diante das nações, e através disso, o povo reconhecerá a soberania de Deus.",
-      "temas": ["Profanação", "Humilhação", "Reconhecimento de Deus"],
-      "personagens": ["Senhor"]
+      "parafrase": "O Senhor então promete o seguinte: 'Eu tirarei de vocês seus filhos, aqueles que são o seu tesouro mais precioso, mas eles morrerão pela espada e pela fome. E com isso, todo o seu orgulho e sua glória serão completamente destruídos.'",
+      "referencias": [
+        "Lamentações 2:21",
+        "Amós 8:11"
+      ],
+      "comentario": "A perda dos filhos ('filhos dos teus olhos') representa a remoção do futuro e da esperança da nação. A retirada do orgulho ('javon') refere-se à cessação de toda a sua soberba e vaidade.",
+      "temas": [
+        "Perda da Descendência",
+        "Fim da Soberba",
+        "Morte e Fome"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "17": {
-      "parafrase": "E veio a mim a palavra do Senhor, dizendo:",
-      "referencias": [],
-      "comentario": "Deus dá uma nova revelação a Ezequiel.",
-      "temas": ["Revelação Divina"],
-      "personagens": ["Senhor"]
+      "parafrase": "Após despojá-los de tudo o que lhes era caro, o Senhor afirma que as mulheres que sobreviverem (aquelas que não morrerem na calamidade) virão a você, Jerusalém. Elas se lamentarão, mas não pela dor que você causou, e sim pelo seu próprio destino.",
+      "referencias": [
+        "Isaías 3:25",
+        "Jeremias 30:6"
+      ],
+      "comentario": "As mulheres restantes são aquelas que testemunham o colapso total. O luto delas não é por arrependimento sincero, mas pelo sofrimento pessoal que o juízo lhes trouxe, mostrando um lamento superficial.",
+      "temas": [
+        "Sobreviventes",
+        "Lamento Superficial",
+        "Testemunhas da Queda"
+      ],
+      "personagens": [
+        "Senhor",
+        "Mulheres Sobreviventes"
+      ]
     },
     "18": {
-      "parafrase": "Filho do homem, a casa de Israel se tornou para mim em escória; todos eles são bronze, e estanho, e ferro, e chumbo no meio do forno; são a escória da prata.",
-      "referencias": ["Isaías 1:22"],
-      "comentario": "Israel é comparado à escória, os metais impuros que sobram após o refinamento. Isso indica sua corrupção e falta de valor.",
-      "temas": ["Corrupção", "Impureza", "Escória"],
-      "personagens": []
+      "parafrase": "E elas dirão, olhando para as suas vestes rasgadas e para o seu estado miserável: 'Como você caiu tão baixo, ó cidade? Você se parece agora com as mulheres que adoravam ídolos, que eram famosas pela sua luxúria descontrolada!'",
+      "referencias": [
+        "Isaías 47:1",
+        "Apocalipse 17:16"
+      ],
+      "comentario": "A comparação com as 'mulheres idólatras' (Zonot) reforça a metáfora do adultério. A queda de Jerusalém a reduz ao nível das nações mais desprezíveis que praticavam rituais sexuais em seus cultos pagãos.",
+      "temas": [
+        "Degradação",
+        "Punição da Luxúria",
+        "Comparação com Gentios"
+      ],
+      "personagens": [
+        "Mulheres Sobreviventes",
+        "Jerusalém"
+      ]
     },
     "19": {
-      "parafrase": "Portanto, assim diz o Senhor Deus: Porquanto todos vós vos tornastes em escória, eis que vos ajuntarei no meio de Jerusalém.",
-      "referencias": [],
-      "comentario": "Deus ajuntará a escória (o povo impuro) em Jerusalém para o processo de refinamento.",
-      "temas": ["Ajuntamento", "Refinamento", "Juízo"],
-      "personagens": ["Senhor Deus"]
+      "parafrase": "O Senhor explica o motivo de tanta vergonha: 'Vocês fizeram tudo isso para que sua promiscuidade fosse conhecida! Vocês buscaram ídolos de madeira e pedra, esquecendo-se completamente de mim, o seu único e verdadeiro Esposo!'",
+      "referencias": [
+        "Êxodo 20:5",
+        "Oséias 2:13"
+      ],
+      "comentario": "Aqui, a motivação para a idolatria é apresentada como um desejo de se entregar a outras paixões ('promiscuidade'). O contraste é com o pacto matrimonial ('meu marido'), que foi quebrado por uma atração por deuses inanimados.",
+      "temas": [
+        "Desejo por Idolatria",
+        "Quebra do Casamento com Deus",
+        "Esquecimento"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "20": {
-      "parafrase": "Como se ajunta a prata, e o bronze, e o ferro, e o chumbo, e o estanho no meio do forno, para assoprar o fogo sobre eles, a fim de os fundir, assim vos ajuntarei na minha ira e no meu furor, e ali vos porei, e vos fundirei.",
-      "referencias": [],
-      "comentario": "Deus usará o fogo de Sua ira para fundir e purificar Israel, como metais no forno. O processo será doloroso, mas necessário.",
-      "temas": ["Fogo do Juízo", "Purificação", "Sofrimento"],
-      "personagens": []
+      "parafrase": "Por causa de seu comportamento, eu enviarei contra vocês as nações mais cruéis. Elas virão e rasgarão suas vestes, tirarão todos os seus preciosos adornos e a deixarão completamente nua, exposta à vergonha pública.",
+      "referencias": [
+        "Jeremias 13:26",
+        "Naum 3:5"
+      ],
+      "comentario": "A descrição é vívida: os exércitos estrangeiros (Babel) atuarão como ladrões e violadores, despojando a cidade de seus símbolos de glória (joias, mantos), um ato de profunda humilhação nacional.",
+      "temas": [
+        "Invasão Estrangeira",
+        "Despojamento",
+        "Exposição Humilhante"
+      ],
+      "personagens": [
+        "Senhor",
+        "Nações Cruéis"
+      ]
     },
     "21": {
-      "parafrase": "E vos ajuntarei, e assoprarei sobre vós o fogo do meu furor, e sereis fundidos no meio dela.",
-      "referencias": [],
-      "comentario": "A intensidade do juízo será como o fogo que funde os metais, consumindo a impureza.",
-      "temas": ["Fogo Consumidor", "Purificação", "Ira Divina"],
-      "personagens": []
+      "parafrase": "Eu trarei sobre vocês a espada, a fome e a morte, para que sirvam como lição. Esta é a punição que vocês merecem pelo seu ato de trocar o Deus verdadeiro por deuses falsos!'",
+      "referencias": [
+        "Jeremias 14:12",
+        "Levítico 26:25"
+      ],
+      "comentario": "O trio clássico de juízos (espada, fome, praga/morte) é reafirmado. A troca é o ponto central: preferir o 'nada' (os ídolos) ao 'Tudo' (YHWH).",
+      "temas": [
+        "Tríade do Juízo",
+        "Troca de Lealdades",
+        "Consequências Fatais"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "22": {
-      "parafrase": "Como se funde a prata no meio do forno, assim sereis fundidos no meio dela; e sabereis que eu, o Senhor, derramei o meu furor sobre vós.",
-      "referencias": [],
-      "comentario": "O processo de refinamento será completo, e o povo reconhecerá que a ira de Deus foi derramada sobre eles.",
-      "temas": ["Refinamento Completo", "Reconhecimento de Deus", "Ira Divina"],
-      "personagens": ["Senhor"]
+      "parafrase": "Assim diz o Soberano Deus: 'Vejam só! Os reis e príncipes vizinhos, que eram tratados como meros concubinos, agora se levantarão contra vocês, pois verão o seu fim trágico.'",
+      "referencias": [
+        "Ezequiel 16:27",
+        "Jeremias 25:26"
+      ],
+      "comentario": "Os vizinhos, que antes eram subordinados ou simplesmente vistos como parceiros menores ('maridos' ou 'concubinos' metafóricos), agora se tornam inimigos ativos. O enfraquecimento de Jerusalém convida à agressão dos antigos subordinados.",
+      "temas": [
+        "Reversão de Poder",
+        "Concubinato Político",
+        "Ataque dos Vizinhos"
+      ],
+      "personagens": [
+        "Senhor",
+        "Reis e Príncipes"
+      ]
     },
     "23": {
-      "parafrase": "E veio a mim a palavra do Senhor, dizendo:",
-      "referencias": [],
-      "comentario": "Deus dá uma nova revelação a Ezequiel.",
-      "temas": ["Revelação Divina"],
-      "personagens": ["Senhor"]
+      "parafrase": "Pois o Senhor jura: 'Eu farei com que vocês se tornem objeto de escárnio e zombaria entre todas as nações ao redor, por causa da sua reputação de infidelidade e imoralidade.'",
+      "referencias": [
+        "Lamentações 2:15",
+        "Zacarias 8:13"
+      ],
+      "comentario": "O escárnio público (sheraqa) é uma das maiores humilhações para uma nação que se considerava a 'escolhida'. A infidelidade trouxe desonra irreparável.",
+      "temas": [
+        "Escárnio Internacional",
+        "Desonra",
+        "Reputação Arruinada"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "24": {
-      "parafrase": "Filho do homem, dize-lhe: Tu és uma terra que não está purificada, nem regada com chuva no dia da indignação.",
-      "referencias": [],
-      "comentario": "Israel é comparado a uma terra impura e seca, sem a chuva da bênção de Deus no dia de Sua ira.",
-      "temas": ["Impureza", "Seca Espiritual", "Ira Divina"],
-      "personagens": []
+      "parafrase": "O Senhor declara que a violência será a regra: 'Eu trarei contra vocês exércitos que praticarão a destruição total. Eles cavarão trincheiras ao redor de vocês e derrubarão seus muros. Vocês serão cercados e destruídos pela força bruta!'",
+      "referencias": [
+        "Jeremias 6:6",
+        "Lucas 19:43"
+      ],
+      "comentario": "O cerco (hafar) e a derrubada dos muros (garash) são táticas militares específicas, detalhando como o juízo se cumprirá fisicamente. A menção de 'trincheiras' ou 'poços' refere-se à construção de rampas de cerco.",
+      "temas": [
+        "Táticas de Cerco",
+        "Destruição Física",
+        "Guerra Brutal"
+      ],
+      "personagens": [
+        "Senhor",
+        "Exércitos"
+      ]
     },
     "25": {
-      "parafrase": "Conspiração dos seus profetas há no meio dela, como um leão que ruge, que arrebata a presa; eles devoram as almas; tomam tesouros e coisas preciosas; multiplicam as suas viúvas no meio dela.",
-      "referencias": ["Jeremias 23:11"],
-      "comentario": "Os profetas são acusados de conspirar, agindo como leões que devoram o povo, buscando riquezas e multiplicando as viúvas através de sua opressão.",
-      "temas": ["Conspiração", "Opressão", "Ganância", "Violência"],
-      "personagens": []
+      "parafrase": "O Senhor conclui a sentença dizendo: 'E eu retirarei de vocês toda a sua riqueza e o seu tesouro, deixando-a em ruínas, para que sua história sirva de aviso. Assim vocês saberão que eu sou o Senhor, aquele que decretou o seu fim.'",
+      "referencias": [
+        "Deuteronômio 4:6",
+        "Ezequiel 39:28"
+      ],
+      "comentario": "A finalidade última do juízo é a revelação da soberania divina. Ao verem a destruição de sua riqueza e a confirmação da profecia, eles serão forçados a reconhecer quem é o verdadeiro Deus, YHWH, o que cumpre o propósito central da missão de Ezequiel.",
+      "temas": [
+        "Soberania Revelada",
+        "Reconhecimento de Deus",
+        "Propósito do Castigo"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "26": {
-      "parafrase": "Os seus sacerdotes violentam a minha lei, e profanam as minhas coisas santas; entre o santo e o profano não fazem diferença, nem discernem entre o imundo e o limpo; e dos meus sábados escondem os seus olhos, e assim sou profanado no meio deles.",
-      "referencias": ["Levítico 10:10"],
-      "comentario": "Os sacerdotes são acusados de violar a lei de Deus, profanar o sagrado, não discernir entre o puro e o impuro, e ignorar o sábado, profanando o nome de Deus.",
-      "temas": ["Profanação da Lei", "Falta de Discernimento", "Profanação do Sábado", "Impureza"],
-      "personagens": []
+      "parafrase": "Os sacerdotes de Jerusalém, que são seus líderes religiosos, cometeram um erro terrível! Eles desprezaram a minha lei sagrada, violando as minhas instruções mais importantes. Isto é um pecado gravíssimo, comparável ao que aconteceu com o povo comum, pois eles deveriam ser os exemplos vivos da santidade de Deus. Por causa dessa quebra de aliança, fiz com que eles fossem punidos, e o meu juízo sobre eles é justo.",
+      "referencias": [
+        "Levítico 22:15",
+        "Deuteronômio 17:18"
+      ],
+      "comentario": "O termo hebraico para 'lei' aqui é 'Torah' (תּוֹרָה), referindo-se ao ensino e preceito divino. O verbo 'profanaram' (חִלְּלוּ - 'hillêlû') indica uma profanação intencional e pública. Ezequiel destaca que a violação veio daqueles que deveriam defender o sagrado, tornando a ofensa duplamente grave. Deus afirma que 'eles farão que o meu povo se esqueça da diferença entre o santo e o profano' (conforme o versículo anterior), expondo a confusão moral que os líderes criaram.",
+      "temas": [
+        "Quebra da Aliança",
+        "Responsabilidade Sacerdotal",
+        "Confusão Moral"
+      ],
+      "personagens": [
+        "Sacerdotes de Jerusalém",
+        "Ezequiel (como profeta)"
+      ]
     },
     "27": {
-      "parafrase": "Os seus príncipes no meio dela são como lobos que arrebatam a presa, para derramarem sangue, para destruírem as almas, para alcançarem ganância injusta.",
-      "referencias": ["Miquéias 3:11"],
-      "comentario": "Os príncipes são comparados a lobos que devoram o povo, buscando ganho ilícito através da violência e da destruição.",
-      "temas": ["Opressão", "Violência", "Ganância Injusta"],
-      "personagens": []
+      "parafrase": "No meio dos seus líderes, no coração da cidade, você encontrará aqueles que agem como verdadeiros lobos devoradores! Eles estão ansiosos por espalhar a morte e a destruição, ignorando as vidas humanas. Eles não têm receio de tomar vidas para o seu ganho pessoal, agindo de forma predatória e cruel.",
+      "referencias": [
+        "Miquéias 3:2",
+        "Atos 20:29"
+      ],
+      "comentario": "A imagem do 'príncipe' (שַׂר, 'sar') aqui denota líderes ou príncipes de forma geral, mas no contexto de Ezequiel 22, refere-se a uma elite corrupta. A metáfora do lobo (כְּזֹאֵבִים - 'k'zo'evim') é clássica para descrever líderes que exploram e destroem o rebanho em vez de protegê-lo. Eles buscam o 'ganho injusto' (בֶּצַע בֶּצַע - 'betza betza', ênfase na rapacidade).",
+      "temas": [
+        "Liderança Corrupta",
+        "Rapina e Injustiça",
+        "Destruição Interna"
+      ],
+      "personagens": [
+        "Príncipes",
+        "Líderes"
+      ]
     },
     "28": {
-      "parafrase": "E os seus profetas os rebocavam com argamassa fraca, vendo vaidade, e adivinhando-lhes mentiras, dizendo: Assim diz o Senhor Deus; sem que o Senhor tivesse falado.",
-      "referencias": ["Ezequiel 13:10"],
-      "comentario": "Os profetas são acusados de enganar o povo com falsas visões e mentiras, prometendo paz quando não há paz, sem a autoridade de Deus.",
-      "temas": ["Falsos Profetas", "Engano", "Mentira", "Falsa Paz"],
-      "personagens": ["Senhor Deus"]
+      "parafrase": "Esses mesmos líderes são como profetas que vendem visões falsas, pintando paredes com cal mal preparada, prometendo segurança onde só há ruína iminente. Eles dizem ao povo: 'Assim diz o Senhor!', mas o Senhor nunca lhes enviou mensagem alguma. Eles constroem ilusões vazias e prometem paz que nunca virá, apenas para lucrar com a credulidade dos outros.",
+      "referencias": [
+        "Jeremias 6:14",
+        "Ezequiel 13:10"
+      ],
+      "comentario": "A metáfora da 'cal mal preparada' (טִחָה כַּלְבָּן, 'ṭiḥah kalbān') é poderosa. Na construção, uma camada de cal superficial esconde rachaduras estruturais. O povo é enganado pela aparência de solidez (paz/segurança) dada pelos falsos profetas, mas a estrutura inteira ruirá sob o julgamento divino. A acusação de falsidade profética ('o Senhor não falou') é central.",
+      "temas": [
+        "Falsidade Profética",
+        "Engano Religioso",
+        "Superficialidade"
+      ],
+      "personagens": [
+        "Profetas Falsos"
+      ]
     },
     "29": {
-      "parafrase": "O povo da terra usa de opressão, e comete roubo; e oprime ao pobre e necessitado, e oprime ao estrangeiro sem direito.",
-      "referencias": ["Jeremias 7:6"],
-      "comentario": "O povo em geral é acusado de opressão, roubo e injustiça contra os vulneráveis e estrangeiros.",
-      "temas": ["Opressão", "Roubo", "Injustiça Social"],
-      "personagens": []
+      "parafrase": "O resultado de tudo isso é que a terra foi saqueada, a população foi roubada e explorada, e os mais vulneráveis, os estrangeiros e os pobres, foram oprimidos sem misericórdia. Ninguém se importou em defender os necessitados, e a justiça foi totalmente extinta na nação.",
+      "referencias": [
+        "Isaías 1:23",
+        "Zacarias 7:10"
+      ],
+      "comentario": "Este versículo lista os frutos da corrupção: exploração dos bens ('saqueada' - עֹשֶׁק, 'osheq'), abuso dos bens alheios ('roubada' - גָּזֵל, 'gāzel'), e, crucialmente, a opressão de 'estranho' (גֵּר, 'gēr') e 'órfão' (יָתוֹם, 'yāthôm'), grupos tipicamente protegidos pela lei mosaica. A ausência de justiça social é a prova cabal da falência espiritual.",
+      "temas": [
+        "Opressão dos Pobres",
+        "Roubo e Saque",
+        "Falta de Misericórdia"
+      ],
+      "personagens": [
+        "Estrangeiros",
+        "Viúvas e Órfãos (implícito)"
+      ]
     },
     "30": {
-      "parafrase": "E busquei dentre eles um homem que levantasse o muro, e se pusesse na brecha diante de mim por esta terra, para que eu não a destruísse; mas a ninguém achei.",
-      "referencias": ["Isaías 59:16"],
-      "comentario": "Deus procurou por um intercessor, alguém que pudesse se colocar na brecha e interceder pela terra, mas não encontrou ninguém, o que justifica o juízo.",
-      "temas": ["Falta de Intercessor", "Juízo Inevitável", "Desespero"],
-      "personagens": []
+      "parafrase": "Então, Eu, o Senhor Deus, procurei em toda a comunidade alguém que pudesse erguer um muro de justiça, alguém que se colocasse na brecha para defender a terra contra a minha ira, mas não encontrei ninguém! Havia um silêncio ensurdecedor de omissão e indiferença.",
+      "referencias": [
+        "Salmos 106:23",
+        "Isaías 59:16"
+      ],
+      "comentario": "O 'erguer um muro' (הַשָּׂם חוֹמָה, 'hasam ḥomâ') é uma imagem de intercessão e proteção ativa, conforme visto no lamento de Deus. Este é um ponto de virada dramático: a ausência de um intercessor é o catalisador para o juízo vindouro. A frase 'Eu olhei entre eles' (וָאֶחְפַּשׂ) enfatiza a busca ativa de Deus por um remanescente fiel, que não foi encontrado.",
+      "temas": [
+        "Busca por Intercessão",
+        "Ausência de Justiça",
+        "A Soberania do Juízo Divino"
+      ],
+      "personagens": [
+        "O Senhor Deus",
+        "O Povo de Israel (em sua falha)"
+      ]
     },
     "31": {
-      "parafrase": "Por isso derramei sobre eles a minha indignação; com o fogo do meu furor os consumi; fiz recair o seu caminho sobre a sua cabeça, diz o Senhor Deus.",
-      "referencias": ["Ezequiel 7:8"],
-      "comentario": "Deus derramou Sua ira sobre eles, consumindo-os com fogo, e retribuiu o pecado sobre suas próprias cabeças.",
-      "temas": ["Ira Divina", "Fogo Consumidor", "Retribuição"],
-      "personagens": ["Senhor Deus"]
+      "parafrase": "Portanto, derramarei sobre eles a minha ira mais intensa! Farei cair sobre suas cabeças o resultado amargo de seus próprios atos perversos e impenitentes. Assim será o meu decreto, pois eles se recusaram a dar glória a Mim, e o seu procedimento ímpio será a causa da sua própria destruição completa. 😡🔥",
+      "referencias": [
+        "Romanos 2:6",
+        "Lamentações 4:11"
+      ],
+      "comentario": "O termo 'fúria' ou 'indignação' (חֲמָתִי - 'ḥamātî') é usado em seu sentido mais forte, indicando um juízo ativo e punitivo. O princípio de retribuição é claro: eles colherão o que semearam ('o seu caminho voltarei sobre a sua cabeça'). A razão final dada é a negação da glória a Deus ('não a apliquei a mim'), indicando que o pecado deles era, fundamentalmente, uma revolta contra a soberania divina.",
+      "temas": [
+        "Retribuição Divina",
+        "Ira de Deus",
+        "Consequências do Pecado"
+      ],
+      "personagens": [
+        "O Senhor Deus"
+      ]
     }
   }
 }

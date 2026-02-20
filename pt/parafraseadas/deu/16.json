@@ -1,162 +1,359 @@
 {
   "livro": "Deuteronômio",
   "capitulo": 16,
-  "contexto_historico": "Moisés continua a instruir o povo de Israel sobre as leis que deveriam observar na Terra Prometida. Este capítulo detalha as três grandes festas anuais de peregrinação: a Páscoa e a Festa dos Pães Asmos, a Festa das Semanas (Pentecostes) e a Festa dos Tabernáculos. Essas festas eram momentos de celebração, adoração e lembrança das grandes obras de Deus em favor de Israel.",
-  "bloco_tematico": "As Três Festas Anuais de Peregrinação",
+  "contexto_historico": "Deuteronômio 16 faz parte da segunda grande seção do livro (capítulos 12-26), onde Moisés reafirma e detalha a Lei mosaica, focando na vida de Israel em Canaã. Este capítulo específico, em particular, estabelece as leis e a estrutura para a observância das três festas de peregrinação anuais (Páscoa/Ázimos, Semanas/Pentecostes e Tendas/Tabernáculos), enfatizando a centralização do culto no santuário escolhido pelo Senhor (posteriormente Jerusalém) e a importância da generosidade e da justiça social associada a essas celebrações. 🗓️ Foco: Culto centralizado e generosidade festiva.",
+  "bloco_tematico": "As Três Festas de Peregrinação e a Justiça do Culto Centralizado 🧺🌾",
   "versiculos": {
     "1": {
-      "parafrase": "Observem o mês de Abibe e celebrem a Páscoa ao Senhor, o seu Deus, pois foi no mês de Abibe que o Senhor, o seu Deus, os tirou do Egito, de noite.",
-      "referencias": ["Êxodo 12:1-14"],
-      "comentario": "A Páscoa era a primeira das três festas anuais, celebrando a libertação milagrosa de Israel da escravidão no Egito. O mês de Abibe (mais tarde chamado Nisã) marcava o início do ano religioso.",
-      "temas": ["Páscoa", "libertação", "memorial", "mês de Abibe"],
-      "personagens": ["Moisés"]
+      "parafrase": "Quando você se estabelecer na terra prometida que o Senhor, seu Deus, está prestes a lhes dar, e depois de conquistá-la e morar nela, observe atentamente este mandamento que hoje lhe ordeno.",
+      "referencias": [
+        "Êxodo 12:25",
+        "Josué 1:6"
+      ],
+      "comentario": "A palavra chave aqui é 'observar atentamente' (שָׁמַר, shamar). Isso implica vigilância e cuidado ativo, não apenas uma leitura casual. O contexto é a posse da terra (a bênção final da jornada), tornando a observância da Lei uma condição para a permanência e prosperidade nela.",
+      "temas": [
+        "Obediência",
+        "Posse da Terra",
+        "Vigilância"
+      ],
+      "personagens": [
+        "Deus",
+        "Israelitas"
+      ]
     },
     "2": {
-      "parafrase": "Vocês sacrificarão a Páscoa ao Senhor, o seu Deus, do rebanho e da manada, no lugar que o Senhor escolher para ali pôr o seu nome.",
-      "referencias": [],
-      "comentario": "O sacrifício da Páscoa deveria ser feito no lugar central de culto que Deus escolheria, enfatizando a unidade da adoração.",
-      "temas": ["sacrifício da Páscoa", "lugar escolhido", "unidade"],
-      "personagens": ["Israel"]
+      "parafrase": "Haverá um tempo em que você precisará selecionar entre seu povo, vindo de todas as suas cidades e tribos, aquele que será designado para servir ao Senhor em Seu santuário. Este será o sacerdote.",
+      "referencias": [
+        "Êxodo 28:1",
+        "Números 3:10"
+      ],
+      "comentario": "O verbo 'separar' ou 'distinguir' (הִבָּדֵל, hibadel) indica uma escolha divina para a função sacerdotal, que não era aleatória, mas sim reservada à tribo de Levi, especificamente à família de Arão, conforme estabelecido em outras passagens.",
+      "temas": [
+        "Sacerdócio",
+        "Eleição Divina",
+        "Serviço Sagrado"
+      ],
+      "personagens": [
+        "Sacerdote",
+        "Israelitas"
+      ]
     },
     "3": {
-      "parafrase": "Não comerão pão levedado com ela; durante sete dias, comerão pão sem fermento, o pão da aflição, pois vocês saíram apressadamente da terra do Egito. Assim, vocês se lembrarão do dia em que saíram da terra do Egito, todos os dias da sua vida.",
-      "referencias": ["Êxodo 12:15-20"],
-      "comentario": "A Festa dos Pães Asmos, que seguia a Páscoa, simbolizava a pressa da saída do Egito e a necessidade de purificação do fermento (pecado). O pão da aflição era um lembrete da escravidão.",
-      "temas": ["Pães Asmos", "pressa", "purificação", "lembrança da aflição"],
-      "personagens": ["Israel"]
+      "parafrase": "Essa pessoa escolhida, o sacerdote, terá o direito de oferecer sacrifícios ao Senhor — tanto as ofertas queimadas completas quanto as ofertas de comunhão, e também as ofertas pelo pecado e as ofertas pela culpa. Ele fará isso apresentando a porção estabelecida pela lei.",
+      "referencias": [
+        "Levítico 1:3",
+        "Levítico 6:16"
+      ],
+      "comentario": "A função do sacerdote é tripla: oferecer sacrifícios de expiação (pecado/culpa) e sacrifícios voluntários (queimadas/comunhão). A frase 'porção devida' refere-se aos quinhões específicos que os levitas e sacerdotes recebiam dos dízimos e ofertas.",
+      "temas": [
+        "Sacrifício",
+        "Mediação",
+        "Leis Rituais"
+      ],
+      "personagens": [
+        "Sacerdote"
+      ]
     },
     "4": {
-      "parafrase": "Nenhum fermento será visto com vocês em todo o seu território durante sete dias. E nada da carne que vocês sacrificarem na tarde do primeiro dia deverá permanecer até a manhã seguinte.",
-      "referencias": [],
-      "comentario": "A proibição de fermento e a ordem de não deixar sobrar carne do sacrifício reforçavam a santidade e a urgência da Páscoa e dos Pães Asmos.",
-      "temas": ["proibição de fermento", "santidade", "urgência"],
-      "personagens": ["Israel"]
+      "parafrase": "O sacerdote, quando estiver exercendo suas funções no santuário, não poderá comer de nenhuma parte das ofertas que o povo traz, exceto aquelas que foram especificamente designadas para ele pela lei de Moisés, como sua porção de sustento.",
+      "referencias": [
+        "Levítico 6:18",
+        "Números 18:8"
+      ],
+      "comentario": "Esta é uma limitação rigorosa para garantir que o foco do sacerdote permanecesse no serviço a Deus, e não na acumulação de bens, visto que seu sustento vinha dos ritos, e não da terra.",
+      "temas": [
+        "Restrições Ministeriais",
+        "Sustento do Sacerdote",
+        "Santidade"
+      ],
+      "personagens": [
+        "Sacerdote"
+      ]
     },
     "5": {
-      "parafrase": "Vocês não poderão sacrificar a Páscoa em qualquer uma das cidades que o Senhor, o seu Deus, lhes dá,",
-      "referencias": [],
-      "comentario": "A centralização do sacrifício da Páscoa no lugar escolhido por Deus era crucial para manter a pureza do culto e a unidade da nação.",
-      "temas": ["centralização do sacrifício", "pureza do culto", "unidade"],
-      "personagens": ["Israel"]
+      "parafrase": "Sua obrigação é servir ao Senhor seu Deus, assim como todos os levitas que servem sob sua autoridade, continuamente, dia após dia, em nome da bênção do povo.",
+      "referencias": [
+        "Números 18:7",
+        "Jeremias 33:18"
+      ],
+      "comentario": "O chamado do sacerdote (e dos levitas auxiliares) é de natureza perpétua ('diariamente'). Eles atuam como intercessores, pronunciando bênçãos sobre o povo em nome de YHWH.",
+      "temas": [
+        "Ministério Contínuo",
+        "Intercessão",
+        "Bênção"
+      ],
+      "personagens": [
+        "Sacerdote",
+        "Levitas"
+      ]
     },
     "6": {
-      "parafrase": "mas somente no lugar que o Senhor, o seu Deus, escolher para ali pôr o seu nome, ali vocês sacrificarão a Páscoa, ao entardecer, ao pôr do sol, na hora em que vocês saíram do Egito.",
-      "referencias": [],
-      "comentario": "A hora do sacrifício era um lembrete preciso do momento da libertação do Egito.",
-      "temas": ["hora do sacrifício", "lembrança da libertação"],
-      "personagens": ["Israel"]
+      "parafrase": "Mas se um levita, não importando de qual cidade ou tribo ele venha, sentir um forte desejo de se mudar para o lugar central que o Senhor escolher para Seu Nome, e desejar servir ali,",
+      "referencias": [
+        "Números 3:29",
+        "Isaías 56:6"
+      ],
+      "comentario": "Aqui, a regra da localização geográfica é flexibilizada para o levita comum. Se houver um desejo fervoroso ('ânimo de todo o seu desejo') de ir ao centro de adoração, ele é bem-vindo, ao contrário do sacerdócio (que era restrito por nascimento).",
+      "temas": [
+        "Vocação",
+        "Lugar Santo",
+        "Mobilidade"
+      ],
+      "personagens": [
+        "Levita"
+      ]
     },
     "7": {
-      "parafrase": "Vocês a cozinharão e a comerão no lugar que o Senhor, o seu Deus, escolher. E na manhã seguinte, vocês voltarão para as suas tendas.",
-      "referencias": [],
-      "comentario": "O consumo da Páscoa era um ato de comunhão com Deus e com a comunidade, seguido pelo retorno às suas casas.",
-      "temas": ["comunhão", "celebração", "retorno"],
-      "personagens": ["Israel"]
+      "parafrase": "ele terá o direito de exercer o ministério em nome do Senhor, seu Deus, como fazem todos os seus irmãos levitas que já estão servindo ali, diante do Senhor.",
+      "referencias": [
+        "Números 3:32",
+        "Deuteronômio 18:5"
+      ],
+      "comentario": "O levita migrante é integrado com plenos direitos ministeriais, reafirmando a igualdade na função levítica, embora a função sacerdotal (de Arão) fosse hereditária e fixa no local principal.",
+      "temas": [
+        "Igualdade Ministerial",
+        "Serviço Comunitário"
+      ],
+      "personagens": [
+        "Levita"
+      ]
     },
     "8": {
-      "parafrase": "Durante seis dias, vocês comerão pão sem fermento, e no sétimo dia haverá uma santa convocação ao Senhor, o seu Deus; vocês não farão nenhum trabalho.",
-      "referencias": [],
-      "comentario": "O sétimo dia da Festa dos Pães Asmos era um dia de descanso e de santa convocação, dedicado à adoração.",
-      "temas": ["Pães Asmos", "descanso", "santa convocação"],
-      "personagens": ["Israel"]
+      "parafrase": "Ele receberá a mesma parte de sustento que seus irmãos recebem, além daquela que lhe é devida pela venda de seu patrimônio familiar que ele deixou para trás ao se mudar para o centro de adoração do Senhor.",
+      "referencias": [
+        "Números 18:32",
+        "Josué 13:33"
+      ],
+      "comentario": "Este versículo é crucial: o levita que se move por zelo não é penalizado financeiramente. Ele recebe sua parte regular dos dízimos e, adicionalmente, o produto de sua herança original (que ficava nas terras das outras tribos).",
+      "temas": [
+        "Recompensa pelo Zelo",
+        "Sustento Duplo"
+      ],
+      "personagens": [
+        "Levita"
+      ]
     },
     "9": {
-      "parafrase": "Contem sete semanas. Comecem a contar as sete semanas a partir do momento em que vocês começarem a ceifar o cereal.",
-      "referencias": ["Levítico 23:15-21"],
-      "comentario": "A Festa das Semanas (Pentecostes) era celebrada sete semanas após a Páscoa, marcando o início da colheita do trigo e a entrega da Lei no Sinai.",
-      "temas": ["Festa das Semanas", "Pentecostes", "colheita", "entrega da Lei"],
-      "personagens": ["Moisés"]
+      "parafrase": "Quando você entrar na terra que o Senhor, seu Deus, lhe dará, não aprenda as práticas abomináveis das nações que lá viviam.",
+      "referencias": [
+        "Levítico 18:3",
+        "Romanos 12:2"
+      ],
+      "comentario": "O tom muda abruptamente para um alerta cultural e espiritual. A posse da terra não anula a necessidade de separação moral. O termo 'práticas abomináveis' (תּוֹעֵבָה, to'evah) refere-se a rituais pagãos e imorais.",
+      "temas": [
+        "Separação Cultural",
+        "Idolatria",
+        "Pureza"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "10": {
-      "parafrase": "Então, celebrem a Festa das Semanas ao Senhor, o seu Deus, com uma oferta voluntária das suas mãos, que vocês darão conforme o Senhor, o seu Deus, os abençoou.",
-      "referencias": [],
-      "comentario": "A oferta voluntária na Festa das Semanas era uma expressão de gratidão pela colheita e pelas bênçãos de Deus.",
-      "temas": ["oferta voluntária", "gratidão", "bênçãos"],
-      "personagens": ["Israel"]
+      "parafrase": "Em seu meio, não se deve encontrar ninguém que use seu filho ou filha para ser consumido pelo fogo, nem quem pratique adivinhação, feitiçaria, interpretação de presságios, nem bruxaria ou encantamento.",
+      "referencias": [
+        "Levítico 18:21",
+        "2 Reis 17:17"
+      ],
+      "comentario": "Esta lista detalhada proíbe as formas mais extremas de ocultismo e sacrifício humano ('filho para o fogo'). O hebraico menciona 'fazedor de encantamentos' (חֹבֵר חָבֶר, chover chaber), indicando um uso de palavras mágicas ou laços espirituais.",
+      "temas": [
+        "Ocultismo",
+        "Sacrifício Infantil",
+        "Magia Negra"
+      ],
+      "personagens": []
     },
     "11": {
-      "parafrase": "Alegrem-se na presença do Senhor, o seu Deus, vocês, os seus filhos e as suas filhas, os seus servos e as suas servas, e o levita que está dentro das suas portas, e o estrangeiro, o órfão e a viúva que estão no meio de vocês, no lugar que o Senhor, o seu Deus, escolher para ali pôr o seu nome.",
-      "referencias": [],
-      "comentario": "A alegria na Festa das Semanas deveria ser inclusiva, abrangendo toda a família e os necessitados da comunidade, demonstrando a justiça social da Lei.",
-      "temas": ["alegria inclusiva", "justiça social", "levitas", "estrangeiros", "órfãos", "viúvas"],
-      "personagens": ["Israel"]
+      "parafrase": "Também é proibido consultar aqueles que falam com espíritos (necromantes) ou que tentam prever o futuro (adivinhos), pois o Senhor abominava profundamente todas essas práticas.",
+      "referencias": [
+        "Levítico 20:6",
+        "1 Samuel 28:7"
+      ],
+      "comentario": "A proibição se estende a toda a comunicação com o mundo espiritual não autorizada por Deus. A motivação final é a aversão de Deus ('abomina') a estas práticas, pois elas desviam a fé para fontes erradas.",
+      "temas": [
+        "Necromancia",
+        "Falsos Profetas",
+        "Aversão Divina"
+      ],
+      "personagens": []
     },
     "12": {
-      "parafrase": "Lembrem-se de que vocês foram escravos no Egito, e tenham o cuidado de cumprir estes estatutos.",
-      "referencias": [],
-      "comentario": "A lembrança da escravidão no Egito deveria motivar a obediência e a compaixão para com os outros.",
-      "temas": ["lembrança da escravidão", "motivação para a obediência", "compaixão"],
-      "personagens": ["Moisés"]
+      "parafrase": "Pois todos aqueles que praticam tais coisas são um fedor aos olhos do Senhor, e é por causa dessas abominações que o Senhor, seu Deus, está prestes a expulsá-los da sua presença, para que vocês possam tomar posse da terra.",
+      "referencias": [
+        "Levítico 18:27",
+        "Apocalipse 21:8"
+      ],
+      "comentario": "Este versículo estabelece a causa e o efeito: a prática dessas artes ocultistas é a razão pela qual os cananeus seriam removidos. A pureza religiosa é pré-requisito para a posse territorial.",
+      "temas": [
+        "Consequências Espirituais",
+        "Justiça Divina",
+        "Expulsão dos Ímpios"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "13": {
-      "parafrase": "Celebrem a Festa dos Tabernáculos durante sete dias, depois de terem recolhido o produto da sua eira e do seu lagar.",
-      "referencias": ["Levítico 23:33-43"],
-      "comentario": "A Festa dos Tabernáculos (ou Cabanas) era a terceira e última festa anual, celebrando a colheita final e a provisão de Deus durante a peregrinação no deserto.",
-      "temas": ["Festa dos Tabernáculos", "colheita final", "provisão divina", "peregrinação"],
-      "personagens": ["Moisés"]
+      "parafrase": "Você deve se manter integralmente dedicado ao Senhor seu Deus, sem desvios ou meias-verdades.",
+      "referencias": [
+        "Êxodo 23:13",
+        "Mateus 6:24"
+      ],
+      "comentario": "O comando é por uma devoção completa e indivisível (תָּמִים, tamim - 'íntegro, puro'). Não há espaço para sincretismo ou serviço duplo; a lealdade deve ser exclusiva a YHWH.",
+      "temas": [
+        "Integridade",
+        "Lealdade Exclusiva",
+        "Santidade Pessoal"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "14": {
-      "parafrase": "Alegrem-se na sua festa, vocês, os seus filhos e as suas filhas, os seus servos e as suas servas, e o levita, o estrangeiro, o órfão e a viúva que estão dentro das suas portas.",
-      "referencias": [],
-      "comentario": "A alegria na Festa dos Tabernáculos também deveria ser inclusiva, compartilhando as bênçãos da colheita com todos na comunidade.",
-      "temas": ["alegria inclusiva", "compartilhamento de bênçãos"],
-      "personagens": ["Israel"]
+      "parafrase": "As nações que você está prestes a desalojar consultavam seus deuses através de adivinhos e feiticeiros, mas o Senhor seu Deus não permitiu que você fizesse isso. Ele estabeleceu um caminho diferente para você.",
+      "referencias": [
+        "Jeremias 10:2",
+        "1 Pedro 2:9"
+      ],
+      "comentario": "O contraste é claro: os cananeus dependiam de métodos ocultos e falhos; Israel deve depender da revelação direta de Deus. A frase 'não te permitiu' (לֹא נָתַן, lo natan) sublinha a soberania de Deus em definir o modo de culto aceitável.",
+      "temas": [
+        "Caminho de Deus",
+        "Contraste com o Paganismo",
+        "Revelação Divina"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "15": {
-      "parafrase": "Durante sete dias, vocês celebrarão a festa ao Senhor, o seu Deus, no lugar que o Senhor escolher, pois o Senhor, o seu Deus, os abençoará em toda a sua colheita e em todo o trabalho das suas mãos; e vocês serão cheios de alegria.",
-      "referencias": [],
-      "comentario": "A bênção de Deus sobre a colheita e o trabalho resultaria em grande alegria para o povo.",
-      "temas": ["bênção sobre a colheita", "alegria", "trabalho"],
-      "personagens": ["Deus"]
+      "parafrase": "O Senhor, seu Deus, levantará dentre seus próprios irmãos um profeta como eu. Dele você deverá ouvir atentamente e obedecer a tudo que ele disser.",
+      "referencias": [
+        "Atos 3:22",
+        "João 1:45"
+      ],
+      "comentario": "Este é um dos textos messiânicos mais importantes. Moisés aponta para um sucessor profético único, moldado à sua própria imagem (um mediador, legislador, libertador). O povo deve 'ouvir' (שָׁמַע, shama) este profeta sem questionamentos.",
+      "temas": [
+        "Profeta Semelhante a Moisés",
+        "Autoridade Profética",
+        "Expectativa Messiânica"
+      ],
+      "personagens": [
+        "Moisés",
+        "Profeta Futuro"
+      ]
     },
     "16": {
-      "parafrase": "Três vezes por ano, todos os seus homens aparecerão perante o Senhor, o seu Deus, no lugar que ele escolher: na Festa dos Pães Asmos, na Festa das Semanas e na Festa dos Tabernáculos. Ninguém aparecerá perante o Senhor de mãos vazias,",
-      "referencias": ["Êxodo 23:14-17"],
-      "comentario": "A obrigatoriedade de todos os homens comparecerem às três festas anuais no lugar central de culto reforçava a unidade nacional e a dependência de Deus. Ninguém deveria vir de mãos vazias, mas trazer ofertas como sinal de gratidão.",
-      "temas": ["peregrinação obrigatória", "unidade nacional", "dependência de Deus", "ofertas de gratidão"],
-      "personagens": ["Israel"]
+      "parafrase": "Isso acontece porque no Monte Horebe, no dia da assembleia solene, você clamou ao Senhor, seu Deus, dizendo: 'Não quero ouvir mais a voz do Senhor meu Deus, nem quero ver este fogo terrível, para que eu não morra!'",
+      "referencias": [
+        "Êxodo 20:18-19",
+        "Hebreus 12:18-19"
+      ],
+      "comentario": "Moisés relembra o terror do Sinai. O povo, temendo a presença imediata e manifesta de Deus, pediu um mediador. O Profeta prometido é a resposta prática a esse medo manifestado.",
+      "temas": [
+        "Medo do Sagrado",
+        "Revelação no Sinai",
+        "Mediação Necessária"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Deus"
+      ]
     },
     "17": {
-      "parafrase": "mas cada um trará uma oferta conforme a bênção que o Senhor, o seu Deus, lhe deu.",
-      "referencias": [],
-      "comentario": "A oferta deveria ser proporcional à bênção recebida, incentivando a generosidade e a gratidão.",
-      "temas": ["oferta proporcional", "generosidade", "gratidão"],
-      "personagens": ["Israel"]
+      "parafrase": "Então o Senhor me disse: 'Eles falaram com razão. Eu farei surgir para eles um profeta vindo de entre o seu povo, um que será como você.'",
+      "referencias": [
+        "Jeremias 1:7",
+        "Lucas 1:32"
+      ],
+      "comentario": "Deus valida o pedido do povo. O termo 'como você' (כָּמוֹךָ, camoca) implica não apenas autoridade, mas também a função de ser um porta-voz humano e compassivo.",
+      "temas": [
+        "Validação Divina",
+        "Humanidade do Mediador"
+      ],
+      "personagens": [
+        "Deus",
+        "Moisés"
+      ]
     },
     "18": {
-      "parafrase": "Nomeiem juízes e oficiais em todas as suas cidades que o Senhor, o seu Deus, lhes dá, segundo as suas tribos, para que julguem o povo com justiça.",
-      "referencias": [],
-      "comentario": "Moisés instrui o povo a estabelecer um sistema de justiça justo e imparcial em toda a terra.",
-      "temas": ["sistema de justiça", "justiça imparcial", "juízes", "oficiais"],
-      "personagens": ["Moisés"]
+      "parafrase": "Eu colocarei minhas palavras na boca daquele profeta, e ele falará a eles tudo o que eu lhe ordenar.",
+      "referencias": [
+        "Jeremias 1:9",
+        "Apocalipse 1:3"
+      ],
+      "comentario": "Esta é a definição de profecia autêntica: inspiração verbal direta. Não é a opinião do homem, mas a voz de Deus transmitida através de um ser humano escolhido.",
+      "temas": [
+        "Inerância Verbal",
+        "Autoridade da Palavra"
+      ],
+      "personagens": [
+        "Deus",
+        "Profeta Futuro"
+      ]
     },
     "19": {
-      "parafrase": "Não distorçam a justiça, não sejam parciais, nem aceitem suborno, pois o suborno cega os olhos dos sábios e perverte as palavras dos justos.",
-      "referencias": ["Êxodo 23:8"],
-      "comentario": "A corrupção da justiça é severamente condenada, pois mina a base da sociedade e desonra a Deus.",
-      "temas": ["corrupção da justiça", "suborno", "desonra a Deus"],
-      "personagens": ["Moisés"]
+      "parafrase": "E qualquer pessoa — seja homem ou mulher — que não der ouvidos às palavras que esse profeta falar em meu nome, será responsabilizada por isso. Eu mesmo o farei prestar contas.",
+      "referencias": [
+        "Hebreus 2:3",
+        "Ezequiel 3:18"
+      ],
+      "comentario": "A penalidade é severa: a rejeição do profeta é rejeição direta a Deus. O verbo 'exigir contas' (וּדְרַשְׁתִּי, udarasti) implica um julgamento inevitável por negligência ou rebelião.",
+      "temas": [
+        "Responsabilidade Pessoal",
+        "Julgamento",
+        "Rejeição da Revelação"
+      ],
+      "personagens": [
+        "Deus",
+        "Ouvintes"
+      ]
     },
     "20": {
-      "parafrase": "Sigam a justiça, somente a justiça, para que vocês vivam e possuam a terra que o Senhor, o seu Deus, lhes dá.",
-      "referencias": [],
-      "comentario": "A busca pela justiça é essencial para a vida e a posse da Terra Prometida. A justiça é um reflexo do caráter de Deus.",
-      "temas": ["busca pela justiça", "vida", "posse da terra", "caráter de Deus"],
-      "personagens": ["Moisés"]
+      "parafrase": "No entanto, se algum profeta ousar falar em meu nome algo que eu não lhe ordenei, ou se ele falar em nome de outros deuses, esse profeta será morto.",
+      "referencias": [
+        "Jeremias 14:14",
+        "Gálatas 1:8"
+      ],
+      "comentario": "Aqui reside o teste prático para diferenciar o verdadeiro do falso profeta. A fonte da mensagem (Deus ou outro ser) determina a vida ou morte, refletindo a gravidade do falso testemunho contra o Único Deus.",
+      "temas": [
+        "Falso Profeta",
+        "Julgamento da Mentira",
+        "Ortodoxia"
+      ],
+      "personagens": [
+        "Falso Profeta"
+      ]
     },
     "21": {
-      "parafrase": "Não plantem para si nenhum poste-ídolo de madeira, de qualquer tipo de árvore, perto do altar do Senhor, o seu Deus, que vocês farão para si.",
-      "referencias": [],
-      "comentario": "A proibição de plantar postes-ídolos (Aserás) perto do altar de Deus é uma advertência contra a mistura de adoração verdadeira com práticas pagãs.",
-      "temas": ["proibição de postes-ídolos", "mistura de adoração", "práticas pagãs"],
-      "personagens": ["Moisés"]
+      "parafrase": "Talvez você pense: 'Como saberemos se uma palavra não veio do Senhor?'",
+      "referencias": [
+        "1 Tessalonicenses 5:21",
+        "1 João 4:1"
+      ],
+      "comentario": "Moisés antecipa a dúvida prática do povo. Em meio a um cenário de falsas doutrinas, a necessidade de um critério de verificação é urgente.",
+      "temas": [
+        "Discernimento",
+        "Dúvida Saudável"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "22": {
-      "parafrase": "Nem levantem para si uma coluna sagrada, que o Senhor, o seu Deus, odeia.",
-      "referencias": [],
-      "comentario": "A proibição de colunas sagradas (massebot) também visa proteger a pureza do culto e evitar a idolatria.",
-      "temas": ["proibição de colunas sagradas", "pureza do culto", "idolatria"],
-      "personagens": ["Moisés"]
+      "parafrase": "Se o que o profeta falar em nome do Senhor não se cumprir, nem se confirmar, então saiba que essa mensagem não veio do Senhor. Aquele profeta falou por presunção e falsidade; você não deverá temê-lo.",
+      "referencias": [
+        "Números 24:20",
+        "Mateus 24:24"
+      ],
+      "comentario": "O teste definitivo é o cumprimento da profecia. A palavra de Deus é infalível. A presunção (נִבָּז, nibaz) de falar em nome de Deus sem comissão resulta na perda total de autoridade e merece o desprezo (não o temor) do povo.",
+      "temas": [
+        "Confiabilidade Profética",
+        "Cumprimento da Palavra",
+        "Discernimento Prático"
+      ],
+      "personagens": [
+        "Falso Profeta"
+      ]
     }
   }
 }

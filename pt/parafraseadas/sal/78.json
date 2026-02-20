@@ -1,507 +1,1137 @@
 {
   "livro": "Salmos",
   "capitulo": 78,
-  "contexto_historico": "Este salmo é um Masquil de Asafe, um longo poema didático que recapitula a história de Israel desde o Êxodo até o reinado de Davi. Ele serve como uma lição sobre a fidelidade de Deus em contraste com a infidelidade e a rebelião contínuas de Seu povo. O salmo enfatiza a paciência de Deus, Seus milagres e Seus juízos, e a importância de transmitir essa história às futuras gerações para que aprendam a confiar e obedecer ao Senhor.",
-  "bloco_tematico": "A História da Fidelidade de Deus e da Infidelidade de Israel",
+  "contexto_historico": "O Salmo 78, atribuído a Asafe, é um salmo didático e histórico (Maskil). Seu contexto principal é a instrução da nova geração sobre as obras poderosas de Deus (milagres no Egito, a travessia do Mar Vermelho e as provisões no deserto) e, subsequentemente, a lembrança da infidelidade e rebelião de Israel (o povo esquecendo Deus e provocando-o com seu coração). O salmo serve como um apelo para que a geração futura não repita os erros dos pais, mas confie no Deus que demonstrou poder e fidelidade em livrá-los e sustentá-los. Há uma forte ênfase na memória da aliança e no julgamento divino contra a teimosia humana. 📜Exodo, 🏜️Deserto, 🏛️Memória.",
+  "bloco_tematico": "A História de Deus com Israel: Instrução, Rebelião e a Escolha de Sião (A Revelação do Poder e a Persistência da Infidelidade) 🧠📖",
   "versiculos": {
     "1": {
-      "parafrase": "Ouve, meu povo, a minha lei; inclina os teus ouvidos às palavras da minha boca.",
-      "referencias": [],
-      "comentario": "O salmo começa com um chamado solene à atenção, convidando o povo a ouvir a lei e as palavras do salmista, que são uma transmissão da verdade divina.",
-      "temas": ["escuta", "Lei", "ensino", "atenção"],
-      "personagens": []
+      "parafrase": "Escutem bem, meu povo, prestem muita atenção a tudo o que tenho a dizer! Inclino meu ouvido para ouvir as palavras secretas que compartilharei com vocês, abrindo minha boca para falar em parábolas, como um sábio que revela enigmas profundos desde os tempos antigos.",
+      "referencias": [
+        "Provérbios 1:6",
+        "Mateus 13:35"
+      ],
+      "comentario": "O salmista (Asafe) convoca a congregação a uma audição atenta. O uso de 'parábolas' (hebraico: *māšāl*) indica não apenas histórias, mas declarações profundas de verdade que requerem reflexão, frequentemente usando comparações vívidas. É um convite à sabedoria transmitida de geração em geração.",
+      "temas": [
+        "Instrução",
+        "Sabedoria",
+        "Ouvir"
+      ],
+      "personagens": [
+        "Salmista/Asafe",
+        "O Povo"
+      ]
     },
     "2": {
-      "parafrase": "Abrirei a minha boca em parábolas; proferirei enigmas dos tempos antigos,",
-      "referencias": ["Mateus 13:35"],
-      "comentario": "O salmista usará parábolas e enigmas para ensinar lições profundas da história antiga, tornando a mensagem mais impactante e memorável.",
-      "temas": ["parábola", "ensino", "história"],
-      "personagens": []
+      "parafrase": "Vou lhes contar histórias do passado, sobre as maravilhas que Deus realizou, narrando as grandes obras do Senhor e a força do Seu poder que se manifestou no mundo, coisas que nossos pais nos contaram com fervor.",
+      "referencias": [
+        "Salmos 44:1",
+        "Êxodo 12:26"
+      ],
+      "comentario": "O foco aqui é a transmissão da memória histórica da intervenção divina. É um ato de memória cultural e religiosa, garantindo que o legado de Deus não seja esquecido.",
+      "temas": [
+        "Memória Histórica",
+        "Obras de Deus",
+        "Tradição"
+      ],
+      "personagens": [
+        "Nossos pais"
+      ]
     },
     "3": {
-      "parafrase": "o que ouvimos e aprendemos, o que nossos pais nos contaram.",
-      "referencias": [],
-      "comentario": "A história é transmitida de geração em geração, enfatizando a importância da tradição oral e da memória coletiva para a fé de Israel.",
-      "temas": ["tradição", "memória", "legado"],
-      "personagens": []
+      "parafrase": "Pois Ele estabeleceu um testemunho em Jacó, uma lei que Deus ordenou em Israel, e determinou que nossos antepassados ensinassem essas coisas aos seus filhos, para que as futuras gerações soubessem a verdade.",
+      "referencias": [
+        "Deuteronômio 4:9",
+        "Josué 4:6"
+      ],
+      "comentario": "O 'testemunho' (*‘ēdût*) refere-se aos mandamentos e atos divinos registrados. A intenção era garantir que o conhecimento da aliança fosse contínuo e intencional, passando da geração idosa para a jovem.",
+      "temas": [
+        "Aliança",
+        "Lei de Deus",
+        "Transmissão Geracional"
+      ],
+      "personagens": [
+        "Deus",
+        "Jacó/Israel"
+      ]
     },
     "4": {
-      "parafrase": "Não os esconderemos de seus filhos; contaremos à próxima geração os louváveis feitos do Senhor, o seu poder e as maravilhas que Ele fez.",
-      "referencias": [],
-      "comentario": "A responsabilidade de transmitir a história da fidelidade de Deus às futuras gerações é enfatizada. O propósito é que os filhos aprendam sobre o poder e as maravilhas de Deus.",
-      "temas": ["legado", "ensino", "gerações futuras", "fidelidade de Deus"],
-      "personagens": []
+      "parafrase": "Isto foi feito para que a próxima geração, aqueles que ainda iriam nascer, também pudessem conhecer os feitos de Deus; eles deveriam contar aos seus próprios filhos, assim como seus pais contaram a eles.",
+      "referencias": [
+        "Efésios 6:4",
+        "Salmos 145:4"
+      ],
+      "comentario": "Reforça a ideia da continuidade da fé através da educação familiar. A história de Deus não é um evento pontual, mas um fluxo contínuo de ensino.",
+      "temas": [
+        "Educação da Fé",
+        "Futuras Gerações",
+        "Continuidade"
+      ],
+      "personagens": [
+        "A próxima geração"
+      ]
     },
     "5": {
-      "parafrase": "Ele estabeleceu um testemunho em Jacó e pôs uma lei em Israel, que Ele ordenou a nossos pais que ensinassem a seus filhos,",
-      "referencias": [],
-      "comentario": "Deus estabeleceu Sua lei e Seus mandamentos em Israel, com a instrução de que fossem ensinados de geração em geração. A Lei é o fundamento da aliança.",
-      "temas": ["Lei", "aliança", "ensino", "tradição"],
+      "parafrase": "O objetivo era que eles não se esquecessem das ações poderosas de Deus, mas que se dedicassem a guardar os Seus mandamentos com fervor e devoção.",
+      "referencias": [
+        "Deuteronômio 6:12",
+        "Hebreus 3:12"
+      ],
+      "comentario": "O esquecimento (amnésia espiritual) é visto como o maior perigo. A lembrança das obras passadas deve motivar a obediência presente e futura.",
+      "temas": [
+        "Obediência",
+        "Lembrança",
+        "Fidelidade"
+      ],
       "personagens": []
     },
     "6": {
-      "parafrase": "para que a próxima geração os conhecesse, os filhos que ainda nasceriam, e que eles, por sua vez, os contassem a seus filhos,",
-      "referencias": [],
-      "comentario": "O objetivo do ensino é garantir que a fé e a história de Deus sejam perpetuadas através das gerações, criando um ciclo contínuo de conhecimento e obediência.",
-      "temas": ["perpetuação", "conhecimento", "obediência", "gerações futuras"],
-      "personagens": []
+      "parafrase": "Eles deveriam fazer isso para que não agissem como seus antepassados, uma geração teimosa e rebelde, cujo coração não era firme com Deus, nem totalmente leal, e cujo espírito não estava disposto a seguir a verdade Dele.",
+      "referencias": [
+        "Hebreus 3:8",
+        "Êxodo 32:9"
+      ],
+      "comentario": "Aqui começa o contraste. A geração anterior falhou por ser de 'coração incerto' (*lōw nāšōk lēb*), indicando falta de firmeza, confiança e integridade moral na aliança.",
+      "temas": [
+        "Rebeldia",
+        "Inconstância",
+        "Integridade do Coração"
+      ],
+      "personagens": [
+        "Antepassados"
+      ]
     },
     "7": {
-      "parafrase": "para que pusessem sua confiança em Deus e não se esquecessem das obras de Deus, mas guardassem os seus mandamentos.",
-      "referencias": [],
-      "comentario": "O propósito final do ensino é que as futuras gerações confiem em Deus, se lembrem de Suas obras e obedeçam aos Seus mandamentos. A memória e a obediência são essenciais para a fé.",
-      "temas": ["confiança em Deus", "memória divina", "obediência", "fé"],
+      "parafrase": "Eles deveriam manter essa memória para que não se tornassem como aqueles rebeldes, que não se firmaram na verdade de Deus, mas sim se desviaram no caminho, cheios de desconfiança.",
+      "referencias": [
+        "Tiago 1:6",
+        "Números 14:33"
+      ],
+      "comentario": "A desconfiança (*dāgâ* em alguns contextos) é o sintoma da falha no coração. A falta de fé leva ao desvio prático, mesmo tendo testemunhado o poder de Deus.",
+      "temas": [
+        "Desconfiança",
+        "Desvio",
+        "Firmeza"
+      ],
       "personagens": []
     },
     "8": {
-      "parafrase": "E que não fossem como seus pais, uma geração obstinada e rebelde, uma geração que não preparou seu coração, e cujo espírito não foi fiel a Deus.",
-      "referencias": [],
-      "comentario": "O salmista adverte contra a repetição dos erros das gerações passadas, que foram obstinadas, rebeldes e infiéis a Deus. A história serve como um aviso.",
-      "temas": ["advertência", "rebelião", "infidelidade", "teimosia"],
-      "personagens": []
+      "parafrase": "Eles não queriam seguir a orientação de Deus, como fizeram seus pais, a geração que se recusou a aprender, que era dura de coração, cheia de teimosia e sempre pronta a voltar atrás em sua fé.",
+      "referencias": [
+        "Jeremias 7:26",
+        "Atos 7:51"
+      ],
+      "comentario": "Repetição enfática da teimosia (hebraico: *qāšê ‘ōref*, 'nuca dura'). Isso implica resistência obstinada ao jugo e à autoridade de Deus, recusando-se a 'dobrar o pescoço' em submissão.",
+      "temas": [
+        "Teimosia",
+        "Submissão",
+        "Recusa em Aprender"
+      ],
+      "personagens": [
+        "Pais"
+      ]
     },
     "9": {
-      "parafrase": "Os filhos de Efraim, embora armados com arcos, viraram as costas no dia da batalha.",
-      "referencias": [],
-      "comentario": "O salmista usa o exemplo de Efraim, uma tribo poderosa, que falhou em um momento crucial de batalha, mostrando sua falta de fidelidade e coragem.",
-      "temas": ["falha", "infidelidade", "covardia"],
-      "personagens": []
+      "parafrase": "Lembrem-se, eles eram os filhos de Efraim, os guerreiros de Israel, mas no momento crucial da batalha e da provação, eles viraram as costas e fugiram, deixando a aliança de lado.",
+      "referencias": [
+        "Oséias 7:11",
+        "Juízes 2:14"
+      ],
+      "comentario": "Efraim, uma das tribos mais proeminentes, é citada ironicamente como símbolo de fraqueza. Na hora de provar sua lealdade (a 'batalha'), eles falharam, abandonando o pacto (*berît*).",
+      "temas": [
+        "Fuga na Adversidade",
+        "Apoio de Efraim",
+        "Quebra de Aliança"
+      ],
+      "personagens": [
+        "Efraim"
+      ]
     },
     "10": {
-      "parafrase": "Eles não guardaram a aliança de Deus e se recusaram a andar em sua lei.",
-      "referencias": [],
-      "comentario": "A falha de Efraim é atribuída à sua desobediência à aliança e à Lei de Deus. A infidelidade religiosa leva à falha militar.",
-      "temas": ["desobediência", "aliança", "infidelidade"],
+      "parafrase": "Eles falharam em manter a palavra de Deus, e não quiseram viver de acordo com os estatutos que Ele havia estabelecido para eles.",
+      "referencias": [
+        "Salmos 119:114",
+        "Romanos 3:2"
+      ],
+      "comentario": "O fracasso não foi apenas de memória, mas de prática. A desobediência resultou da falha em internalizar e agir conforme a legislação divina.",
+      "temas": [
+        "Inobservância da Lei",
+        "Desobediência Prática"
+      ],
       "personagens": []
     },
     "11": {
-      "parafrase": "Eles se esqueceram de suas obras e das maravilhas que Ele lhes havia mostrado.",
-      "referencias": [],
-      "comentario": "O esquecimento das obras e maravilhas de Deus é a raiz da infidelidade. A memória da fidelidade divina é essencial para a obediência.",
-      "temas": ["esquecimento", "obras de Deus", "infidelidade"],
+      "parafrase": "Eles propositalmente esqueceram as realizações de Deus e os prodígios que lhes haviam mostrado, preferindo ignorar o poder maravilhoso que viram diante de seus olhos.",
+      "referencias": [
+        "Salmos 106:13",
+        "2 Pedro 3:5"
+      ],
+      "comentario": "O esquecimento aqui é ativo, não passivo. Eles 'esqueceram' deliberadamente (*nāšâ* no sentido de negligenciar ativamente) os sinais visíveis do poder divino (os milagres).",
+      "temas": [
+        "Esquecimento Deliberado",
+        "Prodígios de Deus",
+        "Cegueira Espiritual"
+      ],
       "personagens": []
     },
     "12": {
-      "parafrase": "Ele fez maravilhas diante de seus pais na terra do Egito, no campo de Zoã.",
-      "referencias": ["Êxodo 7-12"],
-      "comentario": "O salmista relembra os milagres de Deus no Egito, que foram testemunhados pelos pais de Israel, mostrando o poder e a fidelidade de Deus.",
-      "temas": ["milagres", "Êxodo", "poder de Deus"],
-      "personagens": []
+      "parafrase": "Ele realizou feitos grandiosos no Egito, quando o Senhor estava agindo nas planícies de Zoã, diante dos olhos de seus pais, mostrando Sua glória e poder.",
+      "referencias": [
+        "Êxodo 7:10-12",
+        "Números 33:5"
+      ],
+      "comentario": "O texto agora foca nos milagres específicos do Êxodo. Zoã (ou Tanis) era uma cidade importante no Delta do Nilo, o palco da demonstração do poder de Javé contra os deuses egípcios.",
+      "temas": [
+        "Milagres no Egito",
+        "Poder de Deus",
+        "Êxodo"
+      ],
+      "personagens": [
+        "Pais"
+      ]
     },
     "13": {
-      "parafrase": "Ele dividiu o mar e os fez passar; Ele fez as águas se erguerem como um monte.",
-      "referencias": ["Êxodo 14:21-22"],
-      "comentario": "A divisão do Mar Vermelho é um dos maiores milagres de libertação, demonstrando o poder de Deus sobre a natureza.",
-      "temas": ["milagre", "libertação", "poder de Deus"],
+      "parafrase": "Deus dividiu o Mar Vermelho, abrindo caminho para que o povo passasse em terra seca, e então, com uma fúria imensa, fez com que as águas voltassem e engolissem os exércitos inimigos.",
+      "referencias": [
+        "Êxodo 14:21-28",
+        "Hebreus 11:29"
+      ],
+      "comentario": "A descrição vívida da travessia e da destruição egípcia. A referência à destruição dos exércitos (*rōdēp*) simboliza a derrota total de seus opressores.",
+      "temas": [
+        "Travessia do Mar Vermelho",
+        "Destruição dos Inimigos",
+        "Intervenção Divina"
+      ],
       "personagens": []
     },
     "14": {
-      "parafrase": "Ele os guiou com uma nuvem de dia e com a luz de fogo a noite toda.",
-      "referencias": ["Êxodo 13:21-22"],
-      "comentario": "Deus guiou Seu povo no deserto com uma nuvem e uma coluna de fogo, mostrando Sua presença e Sua orientação constante.",
-      "temas": ["guia divina", "presença de Deus", "orientação"],
+      "parafrase": "Ele os guiou com nuvens durante o dia, mostrando o caminho a seguir, e durante toda a noite, iluminou a jornada com o brilho de um fogo intenso, para que não se perdessem.",
+      "referencias": [
+        "Êxodo 13:21",
+        "Neemias 9:12"
+      ],
+      "comentario": "As colunas de nuvem e fogo, manifestações da presença de Deus (*Shekinah*), eram guias visíveis e proteção constante no deserto.",
+      "temas": [
+        "Guia Divino",
+        "Presença de Deus",
+        "Colunas de Fogo e Nuvem"
+      ],
       "personagens": []
     },
     "15": {
-      "parafrase": "Ele fendeu as rochas no deserto e lhes deu água em abundância, como de grandes abismos.",
-      "referencias": ["Êxodo 17:6"],
-      "comentario": "Deus proveu água milagrosamente da rocha no deserto, mostrando Sua provisão e cuidado em meio à escassez.",
-      "temas": ["provisão divina", "milagre", "cuidado divino"],
+      "parafrase": "Aquele Deus poderoso rachou as rochas no deserto, abrindo fontes de água profunda e abundante para saciar a sede de todo o povo, como se brotasse de torrentes.",
+      "referencias": [
+        "Êxodo 17:6",
+        "Números 20:11"
+      ],
+      "comentario": "Referência ao milagre da água na rocha. A palavra hebraica para 'rachou' (*bāqa‘*) implica uma separação forçada e repentina, demonstrando o poder absoluto sobre a natureza.",
+      "temas": [
+        "Provisão de Água",
+        "Sustento no Deserto",
+        "Poder sobre a Natureza"
+      ],
       "personagens": []
     },
     "16": {
-      "parafrase": "Ele tirou correntes de água da rocha e fez as águas fluírem como rios.",
-      "referencias": [],
-      "comentario": "A abundância da provisão de água de Deus é enfatizada, mostrando Sua capacidade de suprir todas as necessidades.",
-      "temas": ["provisão divina", "abundância"],
+      "parafrase": "Além disso, daquela rocha, jorraram rios caudalosos, descendo como cascatas pelas terras áridas, levando vida onde só havia secura.",
+      "referencias": [
+        "1 Coríntios 10:4",
+        "Deuteronômio 8:15"
+      ],
+      "comentario": "Continua a descrição do milagre da água, enfatizando a abundância. O contraste entre a 'rocha' e os 'rios' ilustra a capacidade de Deus de gerar vida a partir do que parece estéril.",
+      "temas": [
+        "Abundância",
+        "Vida no Deserto",
+        "Sustento"
+      ],
       "personagens": []
     },
     "17": {
-      "parafrase": "Mas eles continuaram a pecar contra Ele e a se rebelar contra o Altíssimo no deserto.",
-      "referencias": [],
-      "comentario": "Apesar de toda a provisão e milagres de Deus, Israel continuou a pecar e a se rebelar contra Ele no deserto, mostrando sua persistente infidelidade.",
-      "temas": ["pecado", "rebelião", "infidelidade", "ingratidão"],
-      "personagens": []
+      "parafrase": "Mas, mesmo diante de tanta demonstração de poder, eles continuaram a pecar contra o Altíssimo e o provocaram à ira no deserto árido, exigindo mais provisões de Deus.",
+      "referencias": [
+        "Números 14:29",
+        "Judas 1:5"
+      ],
+      "comentario": "A ingratidão é evidente. Depois de beber a água milagrosa, eles imediatamente 'pecaram contra o Altíssimo' (*yāh*), expressando dúvida sobre a presença sustentadora de Deus.",
+      "temas": [
+        "Ingratidão",
+        "Pecado Contínuo",
+        "Provoção a Deus"
+      ],
+      "personagens": [
+        "Altíssimo"
+      ]
     },
     "18": {
-      "parafrase": "Eles tentaram a Deus em seus corações, pedindo comida para satisfazer seu apetite.",
-      "referencias": [],
-      "comentario": "Israel tentou a Deus, duvidando de Sua capacidade de prover e exigindo comida para satisfazer seus desejos egoístas.",
-      "temas": ["tentação", "dúvida", "egoísmo"],
+      "parafrase": "Eles testaram a paciência de Deus, perguntando com arrogância: 'Será que Deus pode realmente nos dar comida nesta terra vazia e desolada? Podemos confiar Nele para isso?'",
+      "referencias": [
+        "Mateus 4:7",
+        "Hebreus 3:9"
+      ],
+      "comentario": "O teste (*nāsâ*) era uma demonstração de falta de fé na capacidade soberana de Deus. Eles não duvidaram apenas de Sua vontade, mas de Seu poder de prover em circunstâncias extremas.",
+      "temas": [
+        "Teste de Deus",
+        "Arrogância",
+        "Dúvida de Provisão"
+      ],
       "personagens": []
     },
     "19": {
-      "parafrase": "Eles falaram contra Deus, dizendo: 'Pode Deus preparar uma mesa no deserto?'",
-      "referencias": [],
-      "comentario": "Eles duvidaram do poder de Deus de prover no deserto, questionando Sua capacidade de realizar milagres.",
-      "temas": ["dúvida", "questionamento", "milagre"],
+      "parafrase": "Eles foram ousados a ponto de falar contra Deus, exigindo: 'Será que Deus pode montar uma mesa farta para nós aqui, no meio do deserto, como se estivéssemos em um banquete?'",
+      "referencias": [
+        "Lucas 4:3",
+        "Romanos 11:22"
+      ],
+      "comentario": "A metáfora da 'mesa' (*lāḥan*) usada por Satanás contra Jesus é paralela aqui: eles exigiram um luxo alimentício fora de contexto, como se Deus estivesse limitado pela paisagem ao redor.",
+      "temas": [
+        "Exigência de Luxo",
+        "Falta de Contentamento",
+        "Ousadia Contra Deus"
+      ],
       "personagens": []
     },
     "20": {
-      "parafrase": "'Vejam, Ele feriu a rocha, e as águas jorraram, e as torrentes transbordaram. Mas pode Ele também dar pão? Ou prover carne para o seu povo?'",
-      "referencias": [],
-      "comentario": "Eles reconheceram o milagre da água da rocha, mas ainda duvidaram da capacidade de Deus de prover alimento, mostrando sua falta de fé e sua ingratidão.",
-      "temas": ["dúvida", "ingratidão", "falta de fé"],
+      "parafrase": "Veja! Deus feriu a rocha, e a água jorrou em abundância, enchendo os leitos dos rios. Mas será que eles realmente se arrependeram e creram na Sua bondade duradoura?",
+      "referencias": [
+        "Salmos 107:41",
+        "2 Coríntios 9:8"
+      ],
+      "comentario": "O salmista descreve o milagre da água mais uma vez, mas imediatamente questiona a resposta emocional do povo. A provisão não gerou fé duradoura.",
+      "temas": [
+        "Contraste entre Provisão e Fé",
+        "Bondade de Deus",
+        "Arrependimento Negligenciado"
+      ],
       "personagens": []
     },
     "21": {
-      "parafrase": "Quando o Senhor ouviu isso, Ele ficou irado; o fogo se acendeu contra Jacó, e a ira subiu contra Israel,",
-      "referencias": [],
-      "comentario": "A dúvida e a ingratidão de Israel provocaram a ira de Deus, que se manifestou em juízo contra eles.",
-      "temas": ["ira divina", "juízo divino", "dúvida", "ingratidão"],
-      "personagens": []
+      "parafrase": "Por causa disso, o Senhor se irou profundamente contra eles e declarou que jamais entrariam no descanso prometido, em Seu lugar de repouso celestial.",
+      "referencias": [
+        "Hebreus 3:11",
+        "Números 14:23"
+      ],
+      "comentario": "O resultado da descrença é severo: exclusão do 'descanso' (*menūḥâ*), que no contexto do Novo Testamento aponta para a herança final prometida.",
+      "temas": [
+        "Ira de Deus",
+        "Exclusão da Promessa",
+        "Descanso Eterno"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "22": {
-      "parafrase": "porque não creram em Deus, nem confiaram em sua salvação.",
-      "referencias": [],
-      "comentario": "A raiz da ira de Deus foi a falta de fé e a falta de confiança na salvação divina. A incredulidade é um pecado grave.",
-      "temas": ["incredulidade", "falta de fé", "pecado"],
+      "parafrase": "Isso aconteceu porque eles não acreditaram em Deus, não confiaram firmemente em Seu poder salvador e falharam em depositar sua esperança na Sua fidelidade para preservá-los.",
+      "referencias": [
+        "Marcos 16:14",
+        "Romanos 10:14"
+      ],
+      "comentario": "A causa raiz do julgamento é a ausência de fé (*hîm’în* - acreditar/confiar) e a falta de esperança (*bāṭaḥ* - confiar, depender) em Deus, não apenas um lapso de memória.",
+      "temas": [
+        "Falta de Fé",
+        "Confiança",
+        "Fidelidade Divina"
+      ],
       "personagens": []
     },
     "23": {
-      "parafrase": "No entanto, Ele ordenou às nuvens lá de cima e abriu as portas do céu;
+      "parafrase": "Apesar disso, Deus ordenou às nuvens lá do alto que trouxessem alimento do céu, e fez chover o pão dos anjos para que comessem, dando-lhes sustento do céu.",
+      "referencias": [
+        "Êxodo 16:4",
+        "João 6:31"
+      ],
+      "comentario": "Introdução ao milagre do Maná. O 'pão dos anjos' (*lèḥem ‘abīrîm*) sublinha a origem celestial e a qualidade sobrenatural do alimento, providenciado apesar da atitude do povo.",
+      "temas": [
+        "Maná",
+        "Sustento Celestial",
+        "Generosidade Divina"
+      ],
+      "personagens": [
+        "Deus"
+      ]
+    },
     "24": {
-      "parafrase": "e fez chover maná sobre eles para comerem, e lhes deu o trigo do céu.",
-      "referencias": ["Êxodo 16:4"],
-      "comentario": "Apesar da infidelidade de Israel, Deus continuou a prover milagrosamente o maná, o pão do céu, mostrando Sua paciência e Sua fidelidade à Sua aliança.",
-      "temas": ["provisão divina", "milagre", "paciência divina", "fidelidade de Deus"],
+      "parafrase": "Ele abriu as comportas dos céus, e fez descer sobre eles o maná para comer, e lhes deu também o grão celestial, providenciando alimento fino para saciar a fome deles.",
+      "referencias": [
+        "Neemias 9:15",
+        "Apocalipse 6:14"
+      ],
+      "comentario": "O uso da metáfora das 'comportas do céu' (*’ărrūbôt haššāmayim*) remete a uma chuva sobrenatural e controlada. 'Grão celestial' é o mesmo que o maná, enfatizando sua natureza divina.",
+      "temas": [
+        "Chuva do Céu",
+        "Alimento Fino",
+        "Saciação"
+      ],
       "personagens": []
     },
     "25": {
-      "parafrase": "O homem comeu o pão dos anjos; Ele lhes enviou comida em abundância.",
-      "referencias": [],
-      "comentario": "O maná é descrito como o pão dos anjos, enfatizando sua origem divina e sua abundância. Deus supriu todas as suas necessidades.",
-      "temas": ["provisão divina", "abundância", "milagre"],
-      "personagens": []
+      "parafrase": "Assim, o homem comeu o pão dos poderosos, e Deus lhes providenciou comida farta, pois Ele lhes havia dado o que desejavam em grande medida.",
+      "referencias": [
+        "Filipenses 4:19",
+        "1 Tessalonicenses 4:11"
+      ],
+      "comentario": "O povo comeu 'o pão dos fortes/poderosos' (*lèḥem gibbōrîm*), possivelmente significando pão que confere força, ou simplesmente o pão dado por Deus, o Ser Mais Poderoso. Deus satisfez o desejo deles, mas o texto implica que isso não resolveu o problema do coração (como visto nos versículos seguintes).",
+      "temas": [
+        "Força do Alimento",
+        "Saciação Desejada",
+        "Provisão Completa"
+      ],
+      "personagens": [
+        "Homem"
+      ]
     },
     "26": {
-      "parafrase": "Ele fez soprar o vento do leste nos céus e, por seu poder, trouxe o vento do sul.",
-      "referencias": [],
-      "comentario": "Deus controla os ventos, mostrando Seu poder sobre os elementos da natureza e Sua capacidade de prover.",
-      "temas": ["controle divino", "natureza", "poder de Deus"],
-      "personagens": []
+      "parafrase": "Eles colocaram à prova a paciência do Senhor, fazendo-o sentir a sua fome no deserto, clamando por comida no ermo seco. A alma deles, sedenta de Deus, exigia um milagre físico imediato.",
+      "referencias": [
+        "Êxodo 16:3",
+        "Números 11:4"
+      ],
+      "comentario": "O verbo hebraico para 'colocar à prova' é 'nāśâ' (נסה), que significa testar, tentar, provar. O povo não apenas duvidou, mas ativamente impôs um teste à fidelidade de Deus, focando apenas nas suas necessidades materiais imediatas ('fizeram Deus sentir fome').",
+      "temas": [
+        "Incredulidade no Deserto",
+        "Teste a Deus",
+        "Necessidades Físicas"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "27": {
-      "parafrase": "Ele fez chover carne sobre eles como pó, e aves aladas como a areia dos mares,",
-      "referencias": ["Números 11:31-32"],
-      "comentario": "Deus proveu carne em abundância (codornizes) para Israel, mostrando Sua capacidade de suprir seus desejos, mesmo que eles fossem pecaminosos.",
-      "temas": ["provisão divina", "milagre", "abundância"],
-      "personagens": []
+      "parafrase": "Como resposta, Deus abriu as comportas do céu, como se estivesse liberando o dilúvio, e fez chover carne, a variedade de aves, como se fosse pó, e os pássaros voadores, como a areia do mar.",
+      "referencias": [
+        "Gênesis 7:11",
+        "Salmos 105:40"
+      ],
+      "comentario": "A imagem de 'abrir as comportas do céu' (āphad šāmayim) remete ao relato do Dilúvio, indicando a magnitude incomum do evento. A carne ('basar') e as aves (''ōp̄') caíram em proporções avassaladoras, comparadas à poeira e à areia, mostrando que Deus supre além da medida, mas nem sempre da forma esperada pela fé humana.",
+      "temas": [
+        "Provisão Milagrosa",
+        "Fúria e Bondade Divina",
+        "Soberania de Deus"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "28": {
-      "parafrase": "e as fez cair no meio do seu acampamento, ao redor de suas tendas.",
-      "referencias": [],
-      "comentario": "A provisão de carne foi tão abundante que caiu diretamente no acampamento, mostrando a precisão da providência divina.",
-      "temas": ["provisão divina", "precisão"],
-      "personagens": []
+      "parafrase": "Ele fez cair essa provisão bem no meio do seu acampamento, cercando cada tenda onde eles estavam acampados.",
+      "referencias": [
+        "Números 11:31-32"
+      ],
+      "comentario": "O detalhe da localização ('no meio do seu arraial') enfatiza que a provisão foi direcionada e específica para o povo de Israel, não um evento natural aleatório. O milagre ocorreu onde eles estavam vivendo, bem à mão.",
+      "temas": [
+        "Proximidade da Provisão",
+        "Abrigo Divino"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "29": {
-      "parafrase": "Então eles comeram e se fartaram; Ele lhes deu o que desejavam.",
-      "referencias": [],
-      "comentario": "Israel comeu e se fartou, satisfazendo seus desejos, mas essa satisfação foi acompanhada de juízo.",
-      "temas": ["satisfação", "desejo", "juízo"],
-      "personagens": []
+      "parafrase": "Eles comeram fartamente! Deus lhes deu exatamente o que desejavam, saciando-os com aquilo que tanto queriam.",
+      "referencias": [
+        "Números 11:18",
+        "Deuteronômio 14:26"
+      ],
+      "comentario": "O texto é claro: eles comeram até ficar 'satisfeitos' (śāba'). Deus atendeu ao desejo carnal expresso, mas a satisfação material não significou satisfação espiritual, como veremos adiante.",
+      "temas": [
+        "Satisfação Carnal",
+        "Cumprimento de Desejos"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "30": {
-      "parafrase": "Mas antes que tivessem satisfeito seu desejo, enquanto a comida ainda estava em suas bocas,",
-      "referencias": [],
-      "comentario": "O juízo veio rapidamente, antes mesmo que eles pudessem desfrutar plenamente de sua comida, mostrando a rapidez da ira de Deus.",
-      "temas": ["juízo súbito", "ira divina", "consequência"],
+      "parafrase": "No entanto, antes que pudessem sequer saciar completamente a gula, enquanto a comida ainda estava na boca deles...",
+      "referencias": [
+        "Números 11:33"
+      ],
+      "comentario": "Este versículo cria um suspense dramático. A transição da satisfação carnal para o julgamento é imediata. O 'ainda' (ṭerem) sugere a brevidade com que o prazer se transformou em juízo.",
+      "temas": [
+        "Transitoriedade do Prazer",
+        "Julgamento Iminente"
+      ],
       "personagens": []
     },
     "31": {
-      "parafrase": "a ira de Deus subiu contra eles e matou os mais fortes entre eles; derrubou os jovens de Israel.",
-      "referencias": ["Números 11:33"],
-      "comentario": "A ira de Deus se manifestou em juízo, matando os mais fortes e os jovens de Israel, mostrando a seriedade de sua rebelião e incredulidade.",
-      "temas": ["ira divina", "juízo divino", "morte", "rebelião"],
-      "personagens": []
+      "parafrase": "...a ira de Deus irrompeu contra eles, como uma tempestade feroz, e Ele começou a golpear os homens mais fortes e escolhidos de Israel, derrubando-os no chão.",
+      "referencias": [
+        "Números 11:33-34",
+        "Jeremias 21:6"
+      ],
+      "comentario": "A 'ira de Deus' ('aph gěbûrâ') se manifesta com violência. A menção aos 'homens mais fortes' (as primícias, os melhores) mostra que o julgamento não poupou ninguém, atingindo o centro da liderança ou os mais ímpios.",
+      "temas": [
+        "Fúria Divina",
+        "Julgamento dos Líderes",
+        "Consequência da Desobediência"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "32": {
-      "parafrase": "Apesar de tudo isso, eles continuaram a pecar e não creram em suas maravilhas.",
-      "referencias": [],
-      "comentario": "Apesar dos milagres e dos juízos de Deus, Israel persistiu em seu pecado e incredulidade, mostrando sua teimosia e a dureza de seu coração.",
-      "temas": ["pecado persistente", "incredulidade", "teimosia"],
-      "personagens": []
+      "parafrase": "Apesar de toda essa demonstração de poder e de todos os milagres vistos, o coração deles permaneceu obstinado, e continuaram a não acreditar Nele em momento algum.",
+      "referencias": [
+        "Hebreus 3:19",
+        "Isaías 53:1"
+      ],
+      "comentario": "Este é o cerne da tragédia: a falta de fé persistente ('lō' hě'ĕmînû'). Não era ignorância, mas uma recusa voluntária em confiar na fidelidade do Criador, mesmo diante de milagres espetaculares.",
+      "temas": [
+        "Obstinação do Coração",
+        "Cegueira Espiritual",
+        "Fé Negada"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "33": {
-      "parafrase": "Por isso Ele consumiu seus dias em vaidade e seus anos em terror.",
-      "referencias": [],
-      "comentario": "A consequência da infidelidade de Israel foi uma vida de futilidade e terror, sem propósito ou paz.",
-      "temas": ["futilidade", "terror", "consequência"],
+      "parafrase": "Por causa disso, Ele fez seus dias se esvaírem rapidamente, como um suspiro, e seus anos terminarem numa rápida calamidade.",
+      "referencias": [
+        "Salmos 89:47",
+        "Jó 7:15"
+      ],
+      "comentario": "A consequência direta da incredulidade foi a abreviação da vida. O termo 'esvaírem como um suspiro' (kĕ'ōr) ilustra a fragilidade e a brevidade da existência humana quando sob o juízo divino.",
+      "temas": [
+        "Vida Efêmera",
+        "Abreviação dos Dias",
+        "Juízo sobre a Duração"
+      ],
       "personagens": []
     },
     "34": {
-      "parafrase": "Quando Ele os matava, eles o buscavam; eles se voltavam e buscavam a Deus diligentemente.",
-      "referencias": [],
-      "comentario": "Em sua aflição, Israel buscava a Deus, mas essa busca era muitas vezes superficial e motivada pelo medo, não por um arrependimento genuíno.",
-      "temas": ["busca por Deus", "arrependimento superficial", "medo"],
-      "personagens": []
+      "parafrase": "Quando Deus os atingiu, eles O procuraram de volta, viraram-se para Ele com urgência e se lembraram que Ele era a sua Rocha eterna, seu Redentor.",
+      "referencias": [
+        "Oséias 6:1",
+        "Jó 34:29"
+      ],
+      "comentario": "Este comportamento é chamado de 'arrependimento situacional'. Eles buscam a Deus apenas no momento do sofrimento ('kî yamîṯām' - quando Ele os matava). A lembrança da 'Rocha' (sūr) é um reconhecimento tardio de quem é a fonte de estabilidade.",
+      "temas": [
+        "Arrependimento Situacional",
+        "Lembrança de Deus",
+        "Deus como Refúgio"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "35": {
-      "parafrase": "Eles se lembravam de que Deus era a sua Rocha, e o Deus Altíssimo era o seu Redentor.",
-      "referencias": [],
-      "comentario": "Eles se lembravam da identidade de Deus como sua Rocha e Redentor, mas essa memória não os levou a uma obediência consistente.",
-      "temas": ["memória divina", "Rocha", "Redentor"],
-      "personagens": []
+      "parafrase": "Então, eles O bajulavam com a boca, proferindo palavras doces, e juravam lealdade com a língua, na esperança de que Ele os perdoasse.",
+      "referencias": [
+        "Isaías 29:13",
+        "Mateus 15:8"
+      ],
+      "comentario": "O contraste entre o coração (v. 32) e a boca (v. 35) é gritante. A bajulação ('kāḥaš' - mentir, dissimular) demonstra que a mudança era apenas externa e verbal, não interior.",
+      "temas": [
+        "Falsidade Verbal",
+        "Hipocrisia",
+        "Busca por Clemência"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "36": {
-      "parafrase": "Mas eles o lisonjeavam com a boca e mentiam para Ele com a língua.",
-      "referencias": [],
-      "comentario": "Apesar de sua busca, a adoração de Israel era muitas vezes hipócrita, com palavras de lisonja e mentira, sem sinceridade de coração.",
-      "temas": ["hipocrisia", "lisonja", "mentira", "adoração falsa"],
+      "parafrase": "Contudo, o verdadeiro motor de suas ações era a falsidade; eles fingiam lealdade apenas para manter sua própria pele a salvo e não por amor genuíno a Ele.",
+      "referencias": [
+        "Jeremias 12:2",
+        "Salmos 73:21"
+      ],
+      "comentario": "O texto enfatiza a enganação ('rĕśēk' - mentira, falsidade). Eles eram simuladores. A lealdade era interesseira, visando o benefício próprio, e não uma resposta sincera ao amor de Deus.",
+      "temas": [
+        "Falsa Devoção",
+        "Amor Próprio",
+        "Dissimulação"
+      ],
       "personagens": []
     },
     "37": {
-      "parafrase": "Pois seus corações não eram firmes para com Ele, nem foram fiéis à sua aliança.",
-      "referencias": [],
-      "comentario": "A raiz da infidelidade de Israel era a falta de firmeza em seus corações e a quebra de sua aliança com Deus.",
-      "temas": ["infidelidade", "coração", "aliança", "quebra de aliança"],
+      "parafrase": "O coração deles, na verdade, não se voltou para Ele, nem se firmaram na aliança que haviam estabelecido com o Altíssimo.",
+      "referencias": [
+        "Deuteronômio 29:4",
+        "Ezequiel 18:31"
+      ],
+      "comentario": "O 'coração' (lēb) é o centro da vontade e da intenção. A falta de 'retidão' ou firmeza ('yāšār') na aliança demonstra que a obediência nunca foi o objetivo principal da nação.",
+      "temas": [
+        "Intenção do Coração",
+        "Firmeza na Aliança",
+        "Inconstância Espiritual"
+      ],
       "personagens": []
     },
     "38": {
-      "parafrase": "Mas Ele, sendo compassivo, perdoou a iniquidade e não os destruiu. Muitas vezes Ele conteve a sua ira e não despertou todo o seu furor.",
-      "referencias": [],
-      "comentario": "Apesar da persistente infidelidade de Israel, Deus demonstrou Sua compaixão e misericórdia, perdoando sua iniquidade e contendo Sua ira. Sua paciência é notável.",
-      "temas": ["compaixão divina", "perdão", "paciência divina", "ira divina"],
-      "personagens": []
+      "parafrase": "Mas Deus, em Sua infinita misericórdia e paciência, perdoava os erros deles. Ele compreendia a natureza frágil daquela gente e se lembrava que eles eram feitos de pó, seres passageiros.",
+      "referencias": [
+        "Êxodo 34:6-7",
+        "Salmos 103:14"
+      ],
+      "comentario": "Esta é uma das passagens mais ternas. Deus olha para a fragilidade humana ('śe'ēr' - carne/ser mortal) e retém Sua ira. A misericórdia ('raḥam') é motivada pelo reconhecimento da finitude humana, o que contrasta com a dureza de coração de Israel.",
+      "temas": [
+        "Misericórdia Divina",
+        "Compaixão de Deus",
+        "Natureza Humana Frágil"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "39": {
-      "parafrase": "Pois Ele se lembrou de que eles eram apenas carne, um sopro que passa e não retorna.",
-      "referencias": [],
-      "comentario": "Deus se lembrou da fragilidade e da mortalidade humana, o que motivou Sua compaixão. Ele reconhece a limitação do homem.",
-      "temas": ["fragilidade humana", "mortalidade", "compaixão divina"],
+      "parafrase": "Lembrou-se de que eles eram apenas um sopro, uma brisa passageira que logo desaparece, uma fumaça que se dissipa ao vento.",
+      "referencias": [
+        "Tiago 4:14",
+        "Jó 7:7"
+      ],
+      "comentario": "O salmista reforça a imagem da transitoriedade com metáforas poderosas: 'sopro' (rûaḥ), 'nuvem que passa' e 'fumaça'. Isso justifica a paciência de Deus, mas não a persistência na rebeldia do homem.",
+      "temas": [
+        "Fugacidade da Vida",
+        "Fragilidade",
+        "Memória Divina"
+      ],
       "personagens": []
     },
     "40": {
-      "parafrase": "Quantas vezes eles se rebelaram contra Ele no deserto e o entristeceram na terra desolada!",
-      "referencias": [],
-      "comentario": "O salmista relembra as inúmeras vezes em que Israel se rebelou contra Deus no deserto, causando-Lhe tristeza e dor.",
-      "temas": ["rebelião", "tristeza divina", "deserto"],
-      "personagens": []
+      "parafrase": "Quantas vezes eles O provocaram no deserto e O magoaram profundamente nos ermos áridos?",
+      "referencias": [
+        "Atos 7:42",
+        "Números 14:22"
+      ],
+      "comentario": "O verbo 'provocaram' (mar) indica a intensidade da ofensa. O deserto, local da maior intervenção divina, foi também o palco da maior irritação contra Deus.",
+      "temas": [
+        "Provocação Contínua",
+        "Lugar de Provação",
+        "Ofensa a Deus"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "41": {
-      "parafrase": "Eles tentaram a Deus repetidamente e provocaram o Santo de Israel.",
-      "referencias": [],
-      "comentario": "Israel testou a paciência de Deus e provocou Sua santidade com sua incredulidade e desobediência.",
-      "temas": ["tentação", "provocação", "santidade divina"],
-      "personagens": []
+      "parafrase": "Mesmo lembrando-se de que eram Sua criação, eles voltaram repetidamente a Lhe impor limites, testando o Santo de Israel, aquele que os libertara.",
+      "referencias": [
+        "Isaías 43:15",
+        "Malaquias 3:8"
+      ],
+      "comentario": "Eles forçaram o limite ('qāṣâ' - medir, fixar um limite) do poder e da paciência de Deus. A ironia é que eles limitam Aquele que é ilimitado, esquecendo-se de Seu título sagrado: o 'Santo de Israel'.",
+      "temas": [
+        "Limitar a Soberania",
+        "O Santo de Israel",
+        "Ingratidão"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Santo de Israel"
+      ]
     },
     "42": {
-      "parafrase": "Eles não se lembraram de sua mão, nem do dia em que Ele os redimiu do adversário,",
-      "referencias": [],
-      "comentario": "O esquecimento das obras redentoras de Deus é a raiz da infidelidade de Israel. Eles se esqueceram de Sua poderosa mão que os livrou.",
-      "temas": ["esquecimento", "redenção", "infidelidade"],
+      "parafrase": "Eles pararam de se lembrar do Seu poder que os livrou dos inimigos, e do poder que manifestou Seu sinal contra o Egito.",
+      "referencias": [
+        "Êxodo 10:2",
+        "Josué 24:7"
+      ],
+      "comentario": "A memória seletiva é a doença do coração rebelde. Eles esquecem o ato fundacional da libertação (o Êxodo) e as pragas exibidas contra o Faraó, concentrando-se apenas no agora.",
+      "temas": [
+        "Memória Seletiva",
+        "Poder Libertador",
+        "Sinais de Deus"
+      ],
       "personagens": []
     },
     "43": {
-      "parafrase": "de como Ele realizou seus sinais no Egito e suas maravilhas no campo de Zoã.",
-      "referencias": [],
-      "comentario": "O salmista relembra os milagres de Deus no Egito, que foram testemunhados por Israel, mas que eles esqueceram.",
-      "temas": ["milagres", "Egito", "maravilhas de Deus"],
-      "personagens": []
+      "parafrase": "Lembravam-se de como Ele transformou os rios do Egito em sangue e impediu que pudessem beber das águas barrentas.",
+      "referencias": [
+        "Êxodo 7:20",
+        "Salmos 105:29"
+      ],
+      "comentario": "O texto relembra a primeira praga de forma vívida. A água, fonte de vida, virou veneno e fonte de nojo, um sinal do poder destrutivo de Deus contra os opressores.",
+      "temas": [
+        "Pragas do Egito",
+        "Transformação da Natureza",
+        "Poder Destrutivo"
+      ],
+      "personagens": [
+        "Deus",
+        "Egípcios"
+      ]
     },
     "44": {
-      "parafrase": "Ele transformou seus rios em sangue, e suas correntes, para que não pudessem beber.",
-      "referencias": ["Êxodo 7:19-21"],
-      "comentario": "A primeira praga do Egito é relembrada, mostrando o poder de Deus sobre a natureza e Seu juízo sobre os inimigos.",
-      "temas": ["praga", "poder de Deus", "juízo"],
-      "personagens": []
+      "parafrase": "Eles não recordavam como Ele enviou enxames de moscas vorazes para consumi-los, e sapos, que cobriram a terra com sua sujeira.",
+      "referencias": [
+        "Êxodo 8:24",
+        "Salmos 105:30"
+      ],
+      "comentario": "As pragas das moscas ('ʿārōb) e dos sapos ('tĕfā') são lembradas como atos de julgamento sobre o Egito, mas a gratidão por estarem livres delas não durava.",
+      "temas": [
+        "Pragas de Insetos",
+        "Julgamento sobre o Egito",
+        "Memória da Libertação"
+      ],
+      "personagens": [
+        "Egípcios"
+      ]
     },
     "45": {
-      "parafrase": "Ele enviou enxames de moscas entre eles, que os devoraram, e rãs, que os destruíram.",
-      "referencias": ["Êxodo 8:2-6"],
-      "comentario": "As pragas de moscas e rãs são relembradas, mostrando a capacidade de Deus de usar a natureza para executar Seu juízo.",
-      "temas": ["praga", "juízo", "natureza"],
-      "personagens": []
+      "parafrase": "Nem se recordavam de como Ele entregou suas colheitas e seus rebanhos à devastação dos gafanhotos e dos animais que comem madeira (ou destruidores).",
+      "referencias": [
+        "Êxodo 10:4-5",
+        "Salmos 105:34"
+      ],
+      "comentario": "A referência aos gafanhotos ('ḥāsil') e a 'devoração' toca na destruição da economia egípcia. Deus atacou a subsistência deles como demonstração de poder.",
+      "temas": [
+        "Praga dos Gafanhotos",
+        "Destruição da Colheita",
+        "Soberania Econômica"
+      ],
+      "personagens": [
+        "Egípcios"
+      ]
     },
     "46": {
-      "parafrase": "Ele entregou suas colheitas à lagarta e seus trabalhos ao gafanhoto.",
-      "referencias": ["Êxodo 10:12-15"],
-      "comentario": "As pragas de gafanhotos e lagartas são relembradas, mostrando a destruição da provisão do Egito.",
-      "temas": ["praga", "destruição", "provisão"],
-      "personagens": []
+      "parafrase": "Eles negligenciaram como Ele entregou seus bois e seus rebanhos para serem destruídos pelo granizo e pelas chamas que brotavam do céu.",
+      "referencias": [
+        "Êxodo 9:23-25",
+        "Salmos 105:32"
+      ],
+      "comentario": "O granizo ('bārād') misturado com fogo foi um espetáculo aterrorizante. Isso atingiu o gado, a riqueza material dos egípcios, mas Israel estava protegido.",
+      "temas": [
+        "Praga do Granizo e Fogo",
+        "Proteção Divina",
+        "Destruição de Bens"
+      ],
+      "personagens": [
+        "Egípcios"
+      ]
     },
     "47": {
-      "parafrase": "Ele destruiu suas videiras com granizo e suas figueiras com geada.",
-      "referencias": ["Êxodo 9:23-25"],
-      "comentario": "A praga do granizo é relembrada, mostrando o poder de Deus sobre o clima e a destruição da agricultura.",
-      "temas": ["praga", "destruição", "clima"],
-      "personagens": []
+      "parafrase": "Eles não trouxeram à memória como Ele permitiu que os sapos-boi e os insetos devorassem suas videiras e suas plantações mais preciosas.",
+      "referencias": [
+        "Êxodo 10:12-15",
+        "Salmos 105:33"
+      ],
+      "comentario": "Aqui há uma pequena sobreposição com versículos anteriores, mas o foco está na destruição das plantas ('vides' e 'sicômoros/figueiras') – a fonte de seu alimento e vinho, o que era culturalmente crucial.",
+      "temas": [
+        "Destruição da Lavoura",
+        "Pragas Combinadas",
+        "Memória das Perdas"
+      ],
+      "personagens": [
+        "Egípcios"
+      ]
     },
     "48": {
-      "parafrase": "Ele entregou seus rebanhos ao granizo e seus gados aos raios.",
-      "referencias": [],
-      "comentario": "A praga do granizo e dos raios atingiu os animais do Egito, mostrando a abrangência do juízo divino.",
-      "temas": ["praga", "juízo", "animais"],
-      "personagens": []
+      "parafrase": "E, lembrando-se de tudo isso, eles falharam em trazer à mente a maneira como Ele, em Seu poder, entregou seus primogênitos à morte, e o gado deles ao verme cortador.",
+      "referencias": [
+        "Êxodo 12:29",
+        "Salmos 105:36"
+      ],
+      "comentario": "A décima praga – a morte dos primogênitos – é o clímax. O julgamento final contra a linhagem real egípcia é lembrado, assim como a morte do gado ('bāqār' - gado, bois) pelo verme ('ḥālāmîš').",
+      "temas": [
+        "Morte dos Primogênitos",
+        "Juízo Final no Egito",
+        "Sacrifício de Preço"
+      ],
+      "personagens": [
+        "Primogênitos Egípcios"
+      ]
     },
     "49": {
-      "parafrase": "Ele lançou sobre eles o furor de sua ira, indignação, fúria e angústia, uma companhia de anjos destruidores.",
-      "referencias": [],
-      "comentario": "A ira de Deus é descrita como um exército de anjos destruidores, que executam Seu juízo sobre o Egito.",
-      "temas": ["ira divina", "juízo divino", "anjos destruidores"],
-      "personagens": []
+      "parafrase": "Assim, Deus enviou Sua fúria e Sua ira ardente, o castigo, a aflição e a destruição, enviando anjos de desgraça para executar Seu plano destrutivo contra eles.",
+      "referencias": [
+        "Êxodo 12:12",
+        "Salmos 105:32"
+      ],
+      "comentario": "Este versículo resume o ataque divino. A ira ('ḥārōn') e o castigo ('šālaḥ') são personificados como uma 'missão' executada por 'mensageiros da calamidade' ('mal'āḵê ra‘â'), o que sugere o papel do anjo da morte.",
+      "temas": [
+        "Fúria Coletiva",
+        "Execução do Juízo",
+        "Mensageiros da Calamidade"
+      ],
+      "personagens": [
+        "Deus",
+        "Anjos"
+      ]
     },
     "50": {
-      "parafrase": "Ele abriu um caminho para a sua ira; não poupou suas almas da morte, mas entregou suas vidas à peste.",
-      "referencias": [],
-      "comentario": "Deus executou Sua ira sobre o Egito, entregando-os à morte e à peste, sem misericórdia.",
-      "temas": ["ira divina", "morte", "peste", "juízo"],
-      "personagens": []
+      "parafrase": "Ele preparou um caminho reto para Sua cólera e permitiu que o povo não se afastasse de Seus decretos de juízo. Ele não poupou suas vidas da morte, mas as entregou à praga.",
+      "referencias": [
+        "Êxodo 14:21",
+        "Romanos 2:5"
+      ],
+      "comentario": "Deus 'nivelou o caminho' ('yāsar') para que Sua ira fluísse sem impedimentos. A intransigência dos egípcios os tornou alvos diretos da praga final, o oposto da misericórdia mostrada a Israel. O caminho foi pavimentado para a destruição deles.",
+      "temas": [
+        "Caminho da Ira",
+        "Impedimento do Juízo",
+        "Destino Inevitável"
+      ],
+      "personagens": [
+        "Egípcios"
+      ]
     },
     "51": {
-      "parafrase": "Ele feriu todos os primogênitos no Egito, as primícias de toda a sua força nas tendas de Cam.",
-      "referencias": ["Êxodo 12:29"],
-      "comentario": "A praga dos primogênitos é relembrada como o clímax do juízo de Deus sobre o Egito, atingindo o coração de sua força.",
-      "temas": ["praga", "primogênito", "juízo divino"],
-      "personagens": []
+      "parafrase": "Ele feriu tudo o que havia de mais precioso no Egito, a primazia de sua força, os primogênitos que eram a esperança da nação, desde o Faraó até o mais humilde cidadão, marcando o início da linhagem real e familiar com a morte devastadora.",
+      "referencias": [
+        "Êxodo 12:29",
+        "Salmos 105:36"
+      ],
+      "comentario": "O texto descreve a última das dez pragas, o golpe mortal no Egito. A expressão hebraica para 'primícias da força' (re'ishit 'onam) refere-se ao que era mais forte e valioso, culminando nos primogênitos. Isto é um ato direto de juízo contra a divindade egípcia, especialmente Osíris e Rá.",
+      "temas": [
+        "Juízo Divino",
+        "Libertação",
+        "Poder de Deus"
+      ],
+      "personagens": [
+        "Israelitas (como observadores)",
+        "Egípcios"
+      ]
     },
     "52": {
-      "parafrase": "Mas Ele fez seu próprio povo sair como ovelhas; Ele os guiou como um rebanho no deserto.",
-      "referencias": [],
-      "comentario": "Deus livrou Seu povo do Egito e os guiou como um pastor guia seu rebanho no deserto, mostrando Sua proteção e cuidado.",
-      "temas": ["libertação", "guia divina", "pastoreio divino"],
-      "personagens": []
+      "parafrase": "Então, como um pastor que guia suas ovelhas com firmeza e cuidado, Deus fez Seu povo, os filhos de Jacó, sair da terra da opressão, conduzindo-os para o deserto como um rebanho seguro.",
+      "referencias": [
+        "Gênesis 49:24",
+        "Isaías 40:11"
+      ],
+      "comentario": "O contraste é gritante: do caos da praga à ordem do pastoreio. 'Pastor' (ro'eh) implica cuidado, liderança e posse. O povo é chamado 'ovelhas' (tso'on), enfatizando sua dependência e a fidelidade de Deus como guardião.",
+      "temas": [
+        "Liderança Divina",
+        "Êxodo",
+        "Cuidado Pastoral"
+      ],
+      "personagens": [
+        "Deus (como Pastor)",
+        "Filhos de Jacó"
+      ]
     },
     "53": {
-      "parafrase": "Ele os guiou em segurança, para que não temessem; mas o mar cobriu seus inimigos.",
-      "referencias": ["Êxodo 14:27-28"],
-      "comentario": "Deus guiou Seu povo em segurança, enquanto Seus inimigos foram destruídos no mar. A proteção divina é completa.",
-      "temas": ["proteção divina", "segurança", "destruição dos inimigos"],
-      "personagens": []
+      "parafrase": "Ele os guiou adiante com segurança, e eles não sentiram medo, pois o Senhor era quem os conduzia; em contraste, os inimigos que os perseguiam foram tragados pelas águas revoltas e poderosas.",
+      "referencias": [
+        "Êxodo 14:21-28",
+        "Hebreus 11:29"
+      ],
+      "comentario": "Aqui a memória se fixa no milagre do Mar Vermelho. A segurança do povo ('não se perturbou') é diretamente oposta à destruição total dos egípcios ('enterrados' ou 'engolidos'). Este é o ápice da manifestação do poder salvífico.",
+      "temas": [
+        "Segurança em Deus",
+        "Destruição do Inimigo",
+        "Intervenção Milagrosa"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Egípcios"
+      ]
     },
     "54": {
-      "parafrase": "Então Ele os trouxe para sua terra santa, para esta montanha que sua destra havia adquirido.",
-      "referencias": [],
-      "comentario": "Deus trouxe Seu povo para a terra prometida, que Ele adquiriu com Sua própria força. A terra é santa porque é a herança de Deus.",
-      "temas": ["terra prometida", "conquista divina", "santidade"],
-      "personagens": []
+      "parafrase": "Assim, Ele os trouxe para a fronteira da Sua terra santa, o território prometido que Ele conquistou com Sua mão poderosa e firme.",
+      "referencias": [
+        "Êxodo 15:17",
+        "Deuteronômio 9:5"
+      ],
+      "comentario": "A jornada os leva à 'fronteira' (gevul) de Sua terra santa (qodsho). A conquista não é primariamente pela força militar de Israel, mas pela 'mão direita' (yamin) de Deus, um símbolo de força e autoridade executiva.",
+      "temas": [
+        "Terra Prometida",
+        "Soberania de Deus",
+        "Conquista"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "55": {
-      "parafrase": "Ele expulsou as nações de diante deles; Ele as dividiu por sorte como herança e fez as tribos de Israel habitarem em suas tendas.",
-      "referencias": ["Josué 13-19"],
-      "comentario": "Deus expulsou as nações pagãs e distribuiu a terra por sorte entre as tribos de Israel, garantindo sua herança e seu assentamento.",
-      "temas": ["conquista", "herança", "assentamento", "tribos de Israel"],
-      "personagens": []
+      "parafrase": "E Ele expulsou as nações que moravam ali, abrindo caminho para Israel, e distribuiu as terras dessas nações como herança, estabelecendo as tribos israelitas em tendas permanentes.",
+      "referencias": [
+        "Josué 13:7",
+        "Salmos 83:4"
+      ],
+      "comentario": "Este ato solidifica a posse. Deus não apenas os trouxe, mas também removeu os habitantes prévios ('goyim' – nações). A divisão da terra (naquelas 'tendas' ou 'tabernáculos') é o estabelecimento físico da aliança de Abraão.",
+      "temas": [
+        "Posse da Terra",
+        "Expropriação",
+        "Aliança"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Nações Cananeias"
+      ]
     },
     "56": {
-      "parafrase": "Mas eles tentaram e provocaram o Deus Altíssimo e não guardaram seus testemunhos.",
-      "referencias": [],
-      "comentario": "Apesar de todas as bênçãos de Deus, Israel continuou a tentar e a provocar o Altíssimo, desobedecendo aos Seus mandamentos. A infidelidade é persistente.",
-      "temas": ["tentação", "provocação", "desobediência", "infidelidade"],
-      "personagens": []
+      "parafrase": "Mas, apesar de toda essa bondade e poder demonstrados, o povo de Israel falhou em permanecer leal; eles persistiram em desobedecer e desafiar o Deus Altíssimo, o Poderoso.",
+      "referencias": [
+        "Deuteronômio 32:15",
+        "Juízes 2:7"
+      ],
+      "comentario": "O tom muda drasticamente para a decepção humana. A frase-chave é 'persistiram em se rebelar' (tamru bo). Eles testaram (nisu) o Santo de Israel, exigindo provas contínuas de Sua paciência.",
+      "temas": [
+        "Incredulidade",
+        "Rebeldia",
+        "Pecado"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Deus"
+      ]
     },
     "57": {
-      "parafrase": "Eles se desviaram e agiram traiçoeiramente como seus pais; eles se voltaram como um arco enganoso.",
-      "referencias": [],
-      "comentario": "Israel seguiu o mau exemplo de seus pais, agindo com traição e sendo inconstante em sua fidelidade a Deus, como um arco que não atinge o alvo.",
-      "temas": ["traição", "infidelidade", "inconstância"],
-      "personagens": []
+      "parafrase": "Eles se desviaram, sendo tão infiéis e traiçoeiros quanto seus antepassados, voltando-se para ídolos e falsos deuses como se fossem meros covardes que fogem da batalha.",
+      "referencias": [
+        "Oséias 7:8",
+        "Juízes 2:19"
+      ],
+      "comentario": "O verbo 'voltaram atrás' (wa-yashuvu) e 'viraram-se' (wa-yit'u) indicam uma retrocessão deliberada. A comparação com 'arco enganador' (keshet revayya) sugere falsidade e ineficácia; suas armas de defesa eram inúteis porque não confiavam no verdadeiro escudo.",
+      "temas": [
+        "Idolatria",
+        "Falsidade",
+        "Engano"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "58": {
-      "parafrase": "Pois eles o provocaram à ira com seus altos e o moveram a ciúmes com suas imagens esculpidas.",
-      "referencias": [],
-      "comentario": "A idolatria de Israel provocou a ira e o ciúme de Deus, que exige adoração exclusiva.",
-      "temas": ["idolatria", "ira divina", "ciúme divino"],
-      "personagens": []
+      "parafrase": "Eles provocaram a ira do Senhor, construindo altares em lugares altos e levando-O ao ciúme com suas práticas abomináveis de adoração pagã.",
+      "referencias": [
+        "Deuteronômio 12:2",
+        "1 Reis 11:7"
+      ],
+      "comentario": "Os 'lugares altos' (bamot) eram sítios de adoração pagã, geralmente ligados à fertilidade, que despertavam o 'ciúme' (qina) de Deus, uma metáfora para a violação de Sua aliança exclusiva, como um marido traído.",
+      "temas": [
+        "Adoração Ilegítima",
+        "Cólera Divina",
+        "Aliança"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Deus"
+      ]
     },
     "59": {
-      "parafrase": "Quando Deus ouviu isso, Ele ficou irado e rejeitou Israel completamente.",
-      "referencias": [],
-      "comentario": "A ira de Deus culminou na rejeição de Israel, que levou à sua queda e ao exílio.",
-      "temas": ["ira divina", "rejeição divina", "juízo"],
-      "personagens": []
+      "parafrase": "Quando Deus viu isso, Sua ira se acendeu profundamente, e Ele se afastou com repulsa da aliança que havia estabelecido com Seu povo.",
+      "referencias": [
+        "Jeremias 2:13",
+        "Ezequiel 8:6"
+      ],
+      "comentario": "A reação de Deus é descrita com forte paixão. Ele 'desprezou' (ba'as) o tabernáculo (tents) de José, simbolizando a estrutura de sua adoração e comunidade, rejeitando o pacto que havia feito com as tribos do norte (José).",
+      "temas": [
+        "Rejeição",
+        "Fúria de Deus",
+        "Quebra da Aliança"
+      ],
+      "personagens": [
+        "Deus",
+        "José (representando as tribos do Norte)"
+      ]
     },
     "60": {
-      "parafrase": "Ele abandonou o tabernáculo de Siló, a tenda onde Ele habitava entre os homens,",
-      "referencias": ["Jeremias 7:12"],
-      "comentario": "Deus abandonou Seu santuário em Siló, que era o centro de adoração antes do Templo de Jerusalém, mostrando Seu juízo sobre a infidelidade de Israel.",
-      "temas": ["abandono divino", "santuário", "juízo"],
-      "personagens": []
+      "parafrase": "Ele abandonou a morada que havia escolhido em Siló, o lugar onde antes habitava entre os homens e sustentava Sua Presença.",
+      "referencias": [
+        "Jeremias 7:12-14",
+        "1 Samuel 4:10-11"
+      ],
+      "comentario": "Siló foi o primeiro grande centro de culto, onde a Arca da Aliança residiu por um tempo. Abandonar Siló (o 'tabernáculo de Deus' — mishkan) significava o fim da proteção imediata e a entrega do poder centralizado deles aos inimigos.",
+      "temas": [
+        "Abandono de Siló",
+        "Perda da Presença Divina",
+        "Separação"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "61": {
-      "parafrase": "e entregou sua força ao cativeiro e sua glória nas mãos do adversário.",
-      "referencias": [],
-      "comentario": "A força e a glória de Israel foram entregues ao cativeiro e ao inimigo, simbolizando a perda de seu poder e sua humilhação.",
-      "temas": ["cativeiro", "humilhação", "perda de glória"],
-      "personagens": []
+      "parafrase": "Ele permitiu que Seu poder, a Arca da Aliança, fosse capturado e entregue aos seus adversários, e permitiu que Sua glória caísse nas mãos daqueles que não O honravam.",
+      "referencias": [
+        "1 Samuel 4:11",
+        "Salmos 132:8"
+      ],
+      "comentario": "A entrega da 'Arca da Força' (Aron Ha-'oz) é o clímax da humilhação. A 'Glória' (kavod) geralmente se refere à manifestação da presença de Deus, frequentemente associada à Arca. Sua captura é a prova visível do afastamento divino.",
+      "temas": [
+        "Humilhação",
+        "Perda da Arca",
+        "Glória de Deus"
+      ],
+      "personagens": [
+        "Deus (representado pela Arca)"
+      ]
     },
     "62": {
-      "parafrase": "Ele entregou seu povo à espada, e ficou irado com sua herança.",
-      "referencias": [],
-      "comentario": "Deus entregou Seu povo à destruição pela espada, mostrando a intensidade de Sua ira contra sua infidelidade.",
-      "temas": ["ira divina", "destruição", "juízo"],
-      "personagens": []
+      "parafrase": "Ele entregou Seu povo ao fio da espada, demonstrando Seu grande descontentamento e ira contra aqueles que deveriam ser Seus herdeiros.",
+      "referencias": [
+        "Levítico 26:33",
+        "Lamentações 2:21"
+      ],
+      "comentario": "O povo é 'entregue à espada' (hammar) como resultado direto do Seu desprazer ('qetseph). Esta é a punição por negligenciarem a aliança e se voltarem para a idolatria, contrastando com a salvação anterior.",
+      "temas": [
+        "Morte em Batalha",
+        "Consequências da Desobediência",
+        "Ira Justa"
+      ],
+      "personagens": [
+        "Deus",
+        "Israelitas"
+      ]
     },
     "63": {
-      "parafrase": "O fogo consumiu seus jovens, e suas virgens não tiveram cânticos de casamento.",
-      "referencias": [],
-      "comentario": "A destruição atingiu os jovens e as virgens, resultando em luto e na ausência de celebrações de casamento, um sinal de desolação.",
-      "temas": ["destruição", "luto", "desolação"],
-      "personagens": []
+      "parafrase": "Os jovens de Israel que sobreviveram ao massacre foram consumidos pelo fogo, e as donzelas que restaram não tiveram honra, nem puderam se casar.",
+      "referencias": [
+        "Jeremias 51:30",
+        "Lamentações 5:13"
+      ],
+      "comentario": "O julgamento atinge todas as faixas etárias. O 'fogo' aqui pode ser tanto literal (guerra) quanto simbólico (a ira destrutiva). A falta de casamento para as moças indica o colapso social e a esterilidade futura da nação, pois não há continuidade.",
+      "temas": [
+        "Destruição Social",
+        "Fogo do Juízo",
+        "Sofrimento da Juventude"
+      ],
+      "personagens": [
+        "Jovens de Israel",
+        "Donzelas"
+      ]
     },
     "64": {
-      "parafrase": "Seus sacerdotes caíram pela espada, e suas viúvas não puderam lamentar.",
-      "referencias": [],
-      "comentario": "Os sacerdotes foram mortos, e as viúvas não puderam lamentar, mostrando a profundidade da calamidade e a falta de esperança.",
-      "temas": ["morte", "luto", "desespero"],
-      "personagens": []
+      "parafrase": "Seus sacerdotes caíram pela lâmina, e suas viúvas não puderam chorar nem lamentar publicamente por eles, demonstrando a completa destruição de sua liderança espiritual.",
+      "referencias": [
+        "Lamentações 4:16",
+        "Ezequiel 24:22-23"
+      ],
+      "comentario": "A morte dos sacerdotes (kohanim) e a impossibilidade de luto público ('não choraram') significam que a estrutura religiosa e o conforto social foram completamente desmantelados. A lei do luto foi suspensa pela calamidade.",
+      "temas": [
+        "Morte do Sacerdócio",
+        "Interrupção do Luto",
+        "Catástrofe"
+      ],
+      "personagens": [
+        "Sacerdotes",
+        "Viúvas"
+      ]
     },
     "65": {
-      "parafrase": "Então o Senhor despertou como quem dorme, como um guerreiro que grita por causa do vinho.",
-      "referencias": [],
-      "comentario": "Deus desperta como um guerreiro, pronto para agir em juízo e vingança, mostrando Sua intervenção poderosa.",
-      "temas": ["intervenção divina", "guerreiro divino", "juízo"],
-      "personagens": []
+      "parafrase": "Então, o Senhor despertou como alguém que dormia profundamente, como um guerreiro que se levanta após uma longa noite, fortalecido pelo vinho da batalha.",
+      "referencias": [
+        "Isaías 51:9",
+        "Salmos 44:23"
+      ],
+      "comentario": "Este é um antropomorfismo poderoso. Deus desperta ('heqitz') como um 'adormecido' (yashan), mas não por cansaço, e sim por Sua intervenção aparente ter sido suspensa. O vinho aqui não é embriaguez, mas a força revitalizante da batalha ('mezakh') que o prepara para a intervenção restauradora.",
+      "temas": [
+        "Intervenção Revigorada",
+        "Despertar Divino",
+        "Poder Militar de Deus"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "66": {
-      "parafrase": "Ele feriu seus adversários nas costas; Ele os cobriu de vergonha eterna.",
-      "referencias": [],
-      "comentario": "Deus derrota Seus adversários e os cobre de vergonha eterna, mostrando Sua vitória e Sua justiça.",
-      "temas": ["vitória", "derrota", "vergonha", "justiça divina"],
-      "personagens": []
+      "parafrase": "E Ele, em Sua fúria, golpeou os inimigos, empurrando-os para trás e os cobrindo de vergonha eterna e irreparável.",
+      "referencias": [
+        "Josué 7:5",
+        "Salmos 68:1-2"
+      ],
+      "comentario": "Deus atinge os adversários (tsofereyhem) com golpes devastadores, aplicando a vergonha ('cherpat) eterna. Este ato restaura Sua honra e reverte a humilhação sofrida com a perda da Arca.",
+      "temas": [
+        "Vingança Contra Inimigos",
+        "Restauração da Honra",
+        "Vitória"
+      ],
+      "personagens": [
+        "Deus",
+        "Inimigos de Israel"
+      ]
     },
     "67": {
-      "parafrase": "Ele rejeitou a tenda de José e não escolheu a tribo de Efraim,",
-      "referencias": [],
-      "comentario": "Deus rejeitou o Reino do Norte (representado por José e Efraim) por causa de sua idolatria e infidelidade, mostrando Seu juízo sobre eles.",
-      "temas": ["rejeição divina", "juízo", "idolatria"],
-      "personagens": []
+      "parafrase": "Além disso, Ele rejeitou a morada de José, recusando-se a habitar no tabernáculo de Efraim, onde o povo havia se esquecido de Ele.",
+      "referencias": [
+        "Amós 5:25-27",
+        "Miqueias 6:3"
+      ],
+      "comentario": "O salmista nomeia especificamente 'José' e 'Efraim' (as tribos mais proeminentes do Norte). Deus rejeita o santuário escolhido por eles, indicando que a adoração em Efraim não era mais aceitável devido à sua infidelidade.",
+      "temas": [
+        "Rejeição de Efraim",
+        "Falta de Fé",
+        "Local de Adoração"
+      ],
+      "personagens": [
+        "Deus",
+        "José/Efraim"
+      ]
     },
     "68": {
-      "parafrase": "mas escolheu a tribo de Judá, o monte Sião, que Ele amou.",
-      "referencias": [],
-      "comentario": "Deus escolheu Judá e o monte Sião (Jerusalém) como o lugar de Sua habitação e de Sua aliança, mostrando Seu favor e Seu amor.",
-      "temas": ["escolha divina", "favor divino", "Sião", "aliança"],
-      "personagens": []
+      "parafrase": "Em vez disso, Ele escolheu a tribo de Judá, o monte Sião, o lugar que Ele havia escolhido para habitar e firmar Seu nome para sempre.",
+      "referencias": [
+        "Isaías 2:2",
+        "Miquéias 4:2"
+      ],
+      "comentario": "A escolha se concentra em Judá e Sião (Jerusalém). Este é o estabelecimento da supremacia da linhagem davídica e do futuro centro de culto legítimo, em contraste com os santuários do norte (Siló, Betel, etc.).",
+      "temas": [
+        "Escolha de Sião",
+        "Linhagem Davídica",
+        "Permanência Divina"
+      ],
+      "personagens": [
+        "Deus",
+        "Judá",
+        "Sião"
+      ]
     },
     "69": {
-      "parafrase": "Ele construiu seu santuário como as alturas, como a terra que Ele estabeleceu para sempre.",
-      "referencias": [],
-      "comentario": "Deus construiu Seu santuário em Sião, tornando-o um lugar seguro e eterno, como a própria terra que Ele estabeleceu.",
-      "temas": ["santuário", "eternidade", "segurança"],
-      "personagens": []
+      "parafrase": "Ele construiu Seu santuário sagrado como um palácio firme e duradouro, sólido como a terra que Ele estabeleceu sobre as fundações do mundo.",
+      "referencias": [
+        "Salmos 87:1",
+        "Mateus 16:18"
+      ],
+      "comentario": "O santuário (mikdash) é elevado como um 'castelo' ou 'torre' (darom), estável e inabalável, comparado à firmeza da Terra. A linguagem constrói a permanência do Templo de Davi/Salomão, que seria o foco da esperança restaurada.",
+      "temas": [
+        "Estabilidade do Santuário",
+        "Fundação Eterna",
+        "Permanência"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "70": {
-      "parafrase": "Ele escolheu Davi, seu servo, e o tirou dos apriscos das ovelhas.",
-      "referencias": ["1 Samuel 16:11-12"],
-      "comentario": "Deus escolheu Davi, um humilde pastor, para ser Seu servo e rei sobre Israel, mostrando Sua soberania e Sua escolha de um líder fiel.",
-      "temas": ["escolha divina", "liderança", "humildade"],
-      "personagens": ["Davi"]
+      "parafrase": "Ele também chamou Davi, o pastor que Ele havia tirado do meio dos rebanhos, para ser o líder ungido de Seu povo.",
+      "referencias": [
+        "1 Samuel 16:11-13",
+        "2 Samuel 5:2"
+      ],
+      "comentario": "Este versículo remonta ao começo da dinastia. Davi é lembrado por sua origem humilde ('do meio dos redais' ou 'pastagens'). Ele é o escolhido por Deus, o pastor que sucede a liderança falha de Israel.",
+      "temas": [
+        "Vocação de Davi",
+        "Origem Humilde",
+        "Liderança Escolhida"
+      ],
+      "personagens": [
+        "Deus",
+        "Davi"
+      ]
     },
     "71": {
-      "parafrase": "Ele o trouxe de cuidar das ovelhas com suas crias para ser o pastor de Jacó, seu povo, e de Israel, sua herança.",
-      "referencias": [],
-      "comentario": "Davi foi elevado de pastor de ovelhas a pastor de Israel, mostrando a providência de Deus em capacitá-lo para liderar Seu povo.",
-      "temas": ["pastoreio", "liderança", "providência divina"],
-      "personagens": ["Davi"]
+      "parafrase": "Deus o tirou do cuidado das ovelhas para que ele pudesse apascentar Seu povo Jacó e governar Seu povo Israel com sabedoria e justiça.",
+      "referencias": [
+        "2 Samuel 5:7",
+        "1 Pedro 5:2"
+      ],
+      "comentario": "A transição de pastor de ovelhas para pastor de pessoas é explícita. O verbo 'apascemtar' (lir'ot) denota tanto governar quanto cuidar. O objetivo é que Davi guie Jacó e herde Israel com retidão ('nachala' – herança).",
+      "temas": [
+        "Responsabilidade de Governo",
+        "Pastoreio Real",
+        "Justiça"
+      ],
+      "personagens": [
+        "Davi",
+        "Jacó/Israel"
+      ]
     },
     "72": {
-      "parafrase": "E ele os pastoreou com um coração íntegro e os guiou com mãos hábeis.",
-      "referencias": [],
-      "comentario": "Davi pastoreou Israel com integridade e habilidade, mostrando sua fidelidade e sua capacidade de liderar o povo de Deus.",
-      "temas": ["pastoreio", "integridade", "habilidade", "liderança"],
-      "personagens": ["Davi"]
+      "parafrase": "E Davi os guiou com um coração sincero e mãos habilidosas, liderando-os com a integridade e a sabedoria que eram a marca de seu caráter, fazendo-os prosperar sob seu comando.",
+      "referencias": [
+        "1 Reis 9:4",
+        "Atos 13:22"
+      ],
+      "comentario": "O ápice do salmo é a descrição do rei ideal. 'Coração íntegro' (lev tamim) e 'mãos hábeis' (yedei medumot) estabelecem o padrão para a monarquia. Ele os guiava com habilidade (inteligência prática) e sinceridade (lealdade moral), um contraste marcante com os reis falhos subsequentes.",
+      "temas": [
+        "Integridade de Davi",
+        "Liderança Sábia",
+        "Modelo de Rei"
+      ],
+      "personagens": [
+        "Davi"
+      ]
     }
   }
 }

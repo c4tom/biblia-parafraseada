@@ -1,463 +1,1043 @@
 {
   "livro": "Números",
   "capitulo": 26,
-  "contexto_historico": "Após a praga em Peor, que marcou o fim da geração do êxodo, Deus ordena um novo censo. Este censo da nova geração de Israel, que cresceu no deserto, tem como objetivo organizar o povo para a guerra de conquista da Terra Prometida e para a futura distribuição da terra.",
-  "bloco_tematico": "O Segundo Censo de Israel",
+  "contexto_historico": "Após a rebelião de Corá, Datã eAbirom, e o subsequente juízo divino sobre os envolvidos (Números 16), a população israelita ainda demonstrava murmúrios e descontentamento contra Moisés e Arão. Este capítulo inicia-se com a necessidade de reafirmar a autoridade do sacerdócio levítico, estabelecida por Deus, e logo se move para a preparação para entrar na Terra Prometida. Um evento crucial é a história do 'Moisés, a Serpente de Bronze' (Nejustã), um ato de misericórdia divina em resposta à praga de serpentes venenosas enviada por Deus devido à contínua ingratidão e queixas do povo no deserto. A serpente de bronze serviu como um símbolo de cura e salvação, antecipando a redenção futura. O capítulo culmina com o registro de vitórias militares contra os reis amorreus Seom e Ogue, consolidando o território a leste do Jordão, passo fundamental antes da travessia final para Canaã. 🗺️🐍👑",
+  "bloco_tematico": "Reafirmação Sacerdotal, Redenção no Deserto e Conquistas Transjordanianas",
   "versiculos": {
     "1": {
-      "parafrase": "Depois da praga, o Senhor disse a Moisés e a Eleazar, filho do sacerdote Arão:",
-      "referencias": [],
-      "comentario": "O censo é ordenado logo após a praga, marcando um novo começo para Israel. A liderança agora é composta por Moisés e Eleazar, o novo sumo sacerdote.",
-      "temas": ["novo começo", "censo", "liderança"],
-      "personagens": ["Deus", "Moisés", "Eleazar"]
+      "parafrase": "Após algum tempo, enquanto os israelitas estavam acampados nas planícies de Moabe, perto do Rio Jordão, onde Moisés havia acabado de realizar o sensível censo de toda a nação, Deus convocou Moisés e ele, junto com o sacerdote Eleazar, filho de Arão, preparou-se para receber a próxima instrução divina.",
+      "referencias": [
+        "Números 1:2",
+        "Números 26:3",
+        "Deuteronômio 1:3"
+      ],
+      "comentario": "Este versículo estabelece o momento da nova revelação, logo após o registro da população (cap. 25 termina com a praga). A menção específica de Eleazar sublinha a necessidade da liderança sacerdotal para a administração das terras e das futuras divisões.",
+      "temas": [
+        "Novo Mandamento",
+        "Censo",
+        "Preparação Divina"
+      ],
+      "personagens": [
+        "Moisés",
+        "Eleazar"
+      ]
     },
     "2": {
-      "parafrase": "'Façam um censo de toda a comunidade de Israel, de vinte anos para cima, segundo as suas famílias, todos os que em Israel são capazes de ir à guerra.'",
-      "referencias": ["Números 1:2-3"],
-      "comentario": "O critério para o censo é o mesmo do primeiro: homens de vinte anos para cima, aptos para o serviço militar. O foco está na preparação para a conquista.",
-      "temas": ["censo militar", "preparação para a guerra", "conquista"],
-      "personagens": ["Deus"]
+      "parafrase": "O Senhor falou diretamente a eles, instruindo que fosse feito um novo levantamento de toda a comunidade de Israel, contado por famílias e linhagens paternas, registrando cada homem com mais de vinte anos — aqueles aptos para o serviço militar e para receberem suas porções de terra.",
+      "referencias": [
+        "Números 1:20-21",
+        "Josué 17:3"
+      ],
+      "comentario": "A repetição do censo é crucial. O primeiro censo (Cap. 1) foi para organizar a jornada e a liderança. Este segundo censo, realizado após 40 anos no deserto e após a morte da geração rebelde, serve para determinar a distribuição da Terra Prometida.",
+      "temas": [
+        "Recenseamento",
+        "Herança de Terra",
+        "Nova Geração"
+      ],
+      "personagens": [
+        "O Senhor"
+      ]
     },
     "3": {
-      "parafrase": "Moisés e o sacerdote Eleazar falaram com eles nas planícies de Moabe, junto ao Jordão, em frente a Jericó, dizendo:",
-      "referencias": [],
-      "comentario": "O censo é realizado nas planícies de Moabe, o último acampamento antes da entrada na Terra Prometida.",
-      "temas": ["localização do censo", "Terra Prometida"],
-      "personagens": ["Moisés", "Eleazar"]
+      "parafrase": "Moisés e Eleazar comunicaram essa ordem ao povo, dizendo-lhes enquanto estavam nas campinas de Moabe, à beira do Jordão, próximo à Jericó: 'Prestem atenção a esta contagem, vocês que têm vinte anos ou mais, assim como o Senhor ordenou a Moisés no deserto do Sinai.'",
+      "referencias": [
+        "Êxodo 30:14",
+        "Números 1:3"
+      ],
+      "comentario": "Reitera o local e a autoridade da ordem. O 'deserto do Sinai' lembra o início da Aliança e do serviço militar inicial. A contagem é uma responsabilidade solene, não apenas um registro administrativo.",
+      "temas": [
+        "Obediência",
+        "Comunicação Divina",
+        "Organização"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "4": {
-      "parafrase": "'Contem os homens de vinte anos para cima, como o Senhor ordenou a Moisés.' Estes são os israelitas que saíram da terra do Egito:",
-      "referencias": [],
-      "comentario": "A contagem da nova geração é um cumprimento da promessa de Deus de multiplicar a nação, apesar da morte da geração anterior no deserto.",
-      "temas": ["nova geração", "cumprimento da promessa", "multiplicação"],
+      "parafrase": "A primeira contagem, realizada no Sinai, havia revelado que o número de homens aptos para a guerra era de seiscentos e um mil, setecentos e trinta, mas, lamentavelmente, ninguém dessa geração anterior foi incluído nesta nova contagem, pois todos haviam morrido no deserto, conforme a advertência de Deus.",
+      "referencias": [
+        "Números 1:46",
+        "Hebreus 3:17"
+      ],
+      "comentario": "Este é um versículo de contraste brutal. Ele lembra a morte da geração incrédula. O primeiro censo (601.730) é o padrão de comparação para mostrar a fidelidade de Deus em preservá-los, apesar do juízo contra a geração anterior.",
+      "temas": [
+        "Morte da Geração",
+        "Juízo",
+        "Fidelidade de Deus"
+      ],
       "personagens": []
     },
     "5": {
-      "parafrase": "Rúben, o primogênito de Israel. Os filhos de Rúben: de Enoque, a família dos enoquitas; de Palu, a família dos paluítas;",
-      "referencias": [],
-      "comentario": "O censo começa com a tribo de Rúben, o primogênito de Jacó. O registro é feito por famílias, ou clãs.",
-      "temas": ["censo por tribos", "tribo de Rúben", "clãs"],
-      "personagens": []
+      "parafrase": "E quanto aos filhos de Rúben, o primogênito de Jacó, a família foi contada separadamente, listando-se todos os homens que tinham a capacidade de marchar para a batalha, com vinte anos ou mais.",
+      "referencias": [
+        "Gênesis 49:3",
+        "Números 1:5"
+      ],
+      "comentario": "Inicia a lista das tribos. Rúben, sendo o primogênito, é listado primeiro, mantendo a ordem patriarcal, apesar da mancha moral subsequente (Gênesis 35:22).",
+      "temas": [
+        "Tribos de Israel",
+        "Linha Patriarcal",
+        "Contagem"
+      ],
+      "personagens": [
+        "Rúben"
+      ]
     },
     "6": {
-      "parafrase": "de Hezrom, a família dos hezronitas; de Carmi, a família dos carmitas.",
-      "referencias": [],
-      "comentario": "A contagem detalhada das famílias mostra a organização e a estrutura da nação de Israel.",
-      "temas": ["organização", "estrutura social"],
+      "parafrase": "O total de homens adultos da linhagem de Rúben era de quarenta e três mil, setecentos e trinta.",
+      "referencias": [
+        "Números 1:22"
+      ],
+      "comentario": "A comparação deste número com o primeiro censo (46.500) mostra uma diminuição, mas o grupo ainda é numeroso e apto para a terra.",
+      "temas": [
+        "Estatística",
+        "Força Militar"
+      ],
       "personagens": []
     },
     "7": {
-      "parafrase": "Estas são as famílias dos rubenitas; os que foram contados deles foram 43.730.",
-      "referencias": [],
-      "comentario": "O número total de homens de guerra na tribo de Rúben. Comparado ao primeiro censo, houve uma pequena diminuição.",
-      "temas": ["resultado do censo", "tribo de Rúben", "comparação"],
-      "personagens": []
+      "parafrase": "Os descendentes de Nemuel, filho de Eliabe, formaram o clã dos samaritas (ou Simunitas), e eles também foram minuciosamente registrados para o serviço de guerra.",
+      "referencias": [
+        "Gênesis 46:10",
+        "Êxodo 6:15"
+      ],
+      "comentario": "Identifica o segundo clã dentro da tribo de Rúben. O nome 'Simunitas' deriva de Simi, que aqui é chamado de Nemuel (o texto usa Nemuel/Eliabe, mas o clã é listado como descendente de um dos filhos de Rúben). É importante notar a variação nominal entre os censos.",
+      "temas": [
+        "Clãs",
+        "Genealogia"
+      ],
+      "personagens": [
+        "Nemuel",
+        "Eliabe"
+      ]
     },
     "8": {
-      "parafrase": "O filho de Palu foi Eliabe.",
-      "referencias": [],
-      "comentario": "A genealogia continua, mencionando figuras importantes dentro dos clãs.",
-      "temas": ["genealogia"],
-      "personagens": ["Eliabe"]
+      "parafrase": "Deste clã dos Simunitas, o número de homens aptos para o combate chegava a quarenta mil e seiscentos.",
+      "referencias": [
+        "Números 1:23"
+      ],
+      "comentario": "Os números detalhados servem para confirmar a organização e a viabilidade de cada unidade militar para a conquista de Canaã.",
+      "temas": [
+        "Estatística",
+        "Organização Militar"
+      ],
+      "personagens": []
     },
     "9": {
-      "parafrase": "Os filhos de Eliabe foram Nemuel, Datã e Abirão. Estes são os mesmos Datã e Abirão, líderes da comunidade, que contenderam contra Moisés e Arão no grupo de Corá, quando contenderam contra o Senhor.",
-      "referencias": ["Números 16:1-2"],
-      "comentario": "O registro menciona Datã e Abirão, lembrando a rebelião em que participaram. A menção serve como uma advertência sobre as consequências da rebelião contra a autoridade de Deus.",
-      "temas": ["rebelião", "advertência", "consequências"],
-      "personagens": ["Datã", "Abirão"]
+      "parafrase": "Em seguida, foram contados os filhos de Gade, cujas famílias também foram registradas em seus respectivos grupos de parentesco para a contagem geral.",
+      "referencias": [
+        "Gênesis 49:19",
+        "Números 1:24"
+      ],
+      "comentario": "A tribo de Gade, mencionada logo após Rúben, será notável por posteriormente desejar ficar à leste do Jordão, o que gerou um acordo com Moisés.",
+      "temas": [
+        "Tribos",
+        "Aliança"
+      ],
+      "personagens": [
+        "Gade"
+      ]
     },
     "10": {
-      "parafrase": "E a terra abriu a sua boca e os engoliu juntamente com Corá, quando aquele grupo morreu e o fogo consumiu duzentos e cinquenta homens; e eles se tornaram um sinal de advertência.",
-      "referencias": [],
-      "comentario": "O destino terrível dos rebeldes é relembrado para que a nova geração não cometa o mesmo erro.",
-      "temas": ["juízo divino", "advertência", "memória histórica"],
+      "parafrase": "A força militar dos descendentes de Gade somava sessenta mil, quinhentos e cinquenta.",
+      "referencias": [
+        "Números 1:25"
+      ],
+      "comentario": "A tribo de Gade apresenta um crescimento significativo (no primeiro censo eram 59.650), demonstrando a vitalidade desta geração.",
+      "temas": [
+        "Crescimento Populacional",
+        "Força"
+      ],
       "personagens": []
     },
     "11": {
-      "parafrase": "Mas os filhos de Corá não morreram.",
-      "referencias": [],
-      "comentario": "Este detalhe é importante, pois mostra que o juízo de Deus foi específico para os culpados. Os filhos de Corá não participaram da rebelião de seu pai e foram poupados. Seus descendentes se tornariam levitas proeminentes e músicos no templo.",
-      "temas": ["juízo seletivo", "graça", "descendência fiel"],
-      "personagens": []
+      "parafrase": "Quanto aos filhos de Simeão, eles também foram contados segundo suas famílias e seus grupos de descendência, para serem incluídos na lista geral.",
+      "referencias": [
+        "Gênesis 49:5-7",
+        "Números 1:26"
+      ],
+      "comentario": "Simeão, que recebeu uma porção de terra dentro do território de Judá (Josué 19), tem sua contagem registrada aqui, mostrando que eles estavam prontos para a jornada e a herança.",
+      "temas": [
+        "Território",
+        "Contagem de Família"
+      ],
+      "personagens": [
+        "Simeão"
+      ]
     },
     "12": {
-      "parafrase": "Os filhos de Simeão, segundo as suas famílias: de Nemuel, a família dos nemuelitas; de Jamim, a família dos jaminitas; de Jaquim, a família dos jaquinitas;",
-      "referencias": [],
-      "comentario": "O censo continua com a tribo de Simeão.",
-      "temas": ["censo por tribos", "tribo de Simeão"],
-      "personagens": []
+      "parafrase": "Os guerreiros do clã de Jemuel, descendentes de Eliabe, foram contados, totalizando cinquenta e nove mil e trezentos.",
+      "referencias": [
+        "Números 1:27"
+      ],
+      "comentario": "A contagem do clã Jemuel é alta, reforçando o poder numérico da tribo de Simeão.",
+      "temas": [
+        "Estatística",
+        "Clã"
+      ],
+      "personagens": [
+        "Jemuel",
+        "Eliabe"
+      ]
     },
     "13": {
-      "parafrase": "de Zerá, a família dos zeraítas; de Saul, a família dos saulitas.",
-      "referencias": [],
-      "comentario": "A lista das famílias de Simeão é registrada.",
-      "temas": ["clãs", "genealogia"],
-      "personagens": []
+      "parafrase": "A seguir, os filhos de Quenate também foram registrados minuciosamente em sua família, conforme a instrução dada.",
+      "referencias": [
+        "Números 1:28"
+      ],
+      "comentario": "O clã dos Quenitas é listado. É interessante notar que, no primeiro censo, o nome era Jaare, indicando uma possível mudança de liderança ou variação nos registros.",
+      "temas": [
+        "Variação Nominal",
+        "Registro"
+      ],
+      "personagens": [
+        "Quenate"
+      ]
     },
     "14": {
-      "parafrase": "Estas são as famílias dos simeonitas, 22.200.",
-      "referencias": [],
-      "comentario": "A tribo de Simeão sofreu a maior diminuição de todas as tribos, provavelmente como consequência de seu envolvimento no pecado de Peor, liderado por Zimri, um simeonita.",
-      "temas": ["resultado do censo", "diminuição populacional", "consequência do pecado"],
+      "parafrase": "O total de homens com idade para a guerra, vindos da linhagem de Quenate, era de quarenta e seis mil e trezentos.",
+      "referencias": [
+        "Números 1:29"
+      ],
+      "comentario": "Este número demonstra uma perda em relação ao censo anterior (57.400), sinalizando o impacto das provações do deserto sobre esta família específica.",
+      "temas": [
+        "Perda",
+        "Impacto do Deserto"
+      ],
       "personagens": []
     },
     "15": {
-      "parafrase": "Os filhos de Gade, segundo as suas famílias: de Zefom, a família dos zefonitas; de Hagi, a família dos haguitas; de Suni, a família dos sunitas;",
-      "referencias": [],
-      "comentario": "O censo prossegue com a tribo de Gade.",
-      "temas": ["censo por tribos", "tribo de Gade"],
-      "personagens": []
+      "parafrase": "Por fim, na tribo de Simeão, os filhos de Sarai foram recenseados por suas famílias, para que nada ficasse fora da ordem divina.",
+      "referencias": [
+        "Números 1:30"
+      ],
+      "comentario": "Sarai é introduzido como o patriarca do último clã de Simeão a ser contado nesta fase. O nome pode ser uma variante de Zari (conforme o primeiro censo).",
+      "temas": [
+        "Organização da Tribo",
+        "Fidelidade ao Mandato"
+      ],
+      "personagens": [
+        "Sarai"
+      ]
     },
     "16": {
-      "parafrase": "de Ozni, a família dos oznitas; de Eri, a família dos eritas;",
-      "referencias": [],
-      "comentario": "A contagem das famílias de Gade.",
-      "temas": ["clãs", "genealogia"],
+      "parafrase": "O contingente militar dos descendentes de Sarai era de vinte e dois mil e setecentos homens aptos para o combate.",
+      "referencias": [
+        "Números 1:31"
+      ],
+      "comentario": "Este número (22.700) mostra uma diminuição considerável em comparação com o censo anterior (43.400), indicando que a tribo de Simeão sofreu grandes perdas durante a peregrinação.",
+      "temas": [
+        "Perda Demográfica",
+        "Redução da Força"
+      ],
       "personagens": []
     },
     "17": {
-      "parafrase": "de Arode, a família dos aroditas; de Areli, a família dos arelitas.",
-      "referencias": [],
-      "comentario": "A lista das famílias de Gade é completada.",
-      "temas": ["clãs", "genealogia"],
+      "parafrase": "O número total de homens com vinte anos ou mais, pertencentes à tribo de Simeão, que estavam prontos para a jornada e para tomar posse da terra, somou sessenta e cinco mil e seiscentos.",
+      "referencias": [
+        "Números 1:37",
+        "Josué 19:1"
+      ],
+      "comentario": "Este total consolidado (65.600) reflete a soma dos três clãs contados. É notável que Simeão, embora inicialmente numeroso, sofreu uma redução de mais de 35.000 homens em relação ao primeiro censo.",
+      "temas": [
+        "Totalização",
+        "Impacto da Peregrinação"
+      ],
       "personagens": []
     },
     "18": {
-      "parafrase": "Estas são as famílias dos filhos de Gade, segundo os que foram contados deles, 40.500.",
-      "referencias": [],
-      "comentario": "A tribo de Gade também teve uma diminuição em seu número.",
-      "temas": ["resultado do censo", "diminuição populacional"],
-      "personagens": []
+      "parafrase": "Em seguida, foi a vez dos filhos de Levi, que não seriam contados para a guerra como as outras tribos, mas sim para o serviço sagrado no Tabernáculo, conforme a estrita lei do Senhor.",
+      "referencias": [
+        "Números 1:47-50",
+        "Êxodo 40:12"
+      ],
+      "comentario": "Este é um ponto crucial: os levitas não entram na contagem militar (capacidade de portar espada) porque seu serviço é exclusivamente dedicado ao santuário. Eles são contados separadamente.",
+      "temas": [
+        "Exclusividade do Sacerdócio",
+        "Serviço Divino",
+        "Lei Mosaica"
+      ],
+      "personagens": [
+        "Levi"
+      ]
     },
     "19": {
-      "parafrase": "Os filhos de Judá foram Er e Onã; mas Er e Onã morreram na terra de Canaã.",
-      "referencias": ["Gênesis 38:7-10"],
-      "comentario": "O registro da tribo de Judá começa com a menção da morte de Er e Onã, um lembrete da justiça de Deus contra o pecado.",
-      "temas": ["justiça de Deus", "pecado", "morte"],
-      "personagens": ["Er", "Onã"]
+      "parafrase": "Os clãs de Gérson foram recenseados, registrando-se a linhagem de seus filhos e seus respectivos grupos familiares.",
+      "referencias": [
+        "Gênesis 46:11",
+        "Números 3:21"
+      ],
+      "comentario": "Início da contagem dos levitas, começando pelo clã de Gérson (ou Gershon). Eles eram responsáveis por partes específicas do Tabernáculo.",
+      "temas": [
+        "Famílias Levitas",
+        "Administração do Santuário"
+      ],
+      "personagens": [
+        "Gérson"
+      ]
     },
     "20": {
-      "parafrase": "Os filhos de Judá, segundo as suas famílias, foram: de Selá, a família dos selanitas; de Perez, a família dos perezitas; de Zerá, a família dos zeraítas.",
-      "referencias": [],
-      "comentario": "A tribo de Judá, da qual viria a linhagem real, é contada.",
-      "temas": ["censo por tribos", "tribo de Judá", "linhagem real"],
+      "parafrase": "A contagem dos homens de Gérson, aptos para os deveres levíticos, totalizou sete mil e trezentos.",
+      "referencias": [
+        "Números 3:22"
+      ],
+      "comentario": "Note que, diferentemente das outras tribos, os levitas são contados a partir do primeiro mês de idade (Números 3), mas aqui o texto parece focar naqueles aptos para o serviço mais ativo, embora o número geral seja mantido como referência.",
+      "temas": [
+        "Contagem Levítica",
+        "Deveres Sagrados"
+      ],
       "personagens": []
     },
     "21": {
-      "parafrase": "Os filhos de Perez foram: de Hezrom, a família dos hezronitas; de Hamul, a família dos hamulitas.",
-      "referencias": [],
-      "comentario": "A genealogia de Judá é detalhada, mostrando a proeminência da família de Perez.",
-      "temas": ["genealogia", "proeminência"],
-      "personagens": []
+      "parafrase": "Os descendentes de Merári também foram recenseados segundo suas famílias, com todos os seus grupos parentais sendo documentados.",
+      "referencias": [
+        "Gênesis 46:11",
+        "Números 3:33"
+      ],
+      "comentario": "Merári, o outro filho de Levi, cuidava do transporte da estrutura física (postes, barras, bases) do Tabernáculo.",
+      "temas": [
+        "Responsabilidade Levítica",
+        "Transporte do Santuário"
+      ],
+      "personagens": [
+        "Merári"
+      ]
     },
     "22": {
-      "parafrase": "Estas são as famílias de Judá, segundo os que foram contados deles, 76.500.",
-      "referencias": [],
-      "comentario": "A tribo de Judá teve um aumento significativo, tornando-se a maior das tribos. Isso reflete a bênção de Deus sobre a tribo da qual o Messias viria.",
-      "temas": ["resultado do censo", "aumento populacional", "bênção messiânica"],
+      "parafrase": "O número de homens da linhagem de Merári, com aptidão para as tarefas de montagem e desmontagem do santuário, atingiu seis mil e doiscentos.",
+      "referencias": [
+        "Números 3:34"
+      ],
+      "comentario": "O número de Merári é menor que o de Gérson, o que pode refletir a distribuição da carga de trabalho ou a perda populacional específica deste clã.",
+      "temas": [
+        "Distribuição de Tarefas",
+        "Números"
+      ],
       "personagens": []
     },
     "23": {
-      "parafrase": "Os filhos de Issacar, segundo as suas famílias: de Tola, a família dos tolaítas; de Puva, a família dos puvitas;",
-      "referencias": [],
-      "comentario": "O censo continua com a tribo de Issacar.",
-      "temas": ["censo por tribos", "tribo de Issacar"],
-      "personagens": []
+      "parafrase": "Então, os filhos de Coat, o terceiro grupo dos levitas, também tiveram suas famílias meticulosamente registradas, seguindo a mesma ordem.",
+      "referencias": [
+        "Gênesis 46:11",
+        "Números 3:27"
+      ],
+      "comentario": "Os Coatitas eram os mais privilegiados e responsáveis, pois carregavam os itens mais sagrados: a Arca, a Mesa, o Candelabro e os altares.",
+      "temas": [
+        "Privilégio Sacerdotal",
+        "Objetos Sagrados"
+      ],
+      "personagens": [
+        "Coat"
+      ]
     },
     "24": {
-      "parafrase": "de Jasube, a família dos jasubitas; de Sinrom, a família dos sinronitas.",
-      "referencias": [],
-      "comentario": "A lista das famílias de Issacar.",
-      "temas": ["clãs", "genealogia"],
+      "parafrase": "O total de homens adultos do clã de Coat, prontos para assumir o manuseio das peças mais santas do santuário, era de oito mil seiscentos.",
+      "referencias": [
+        "Números 3:28"
+      ],
+      "comentario": "Este número é significativamente maior que os outros dois clãs levitas, refletindo a importância e a responsabilidade da linhagem de Arão (que pertencia aos Coatitas) no serviço principal do Lugar Santíssimo.",
+      "temas": [
+        "Diferença de Tamanho",
+        "Importância da Linhagem de Arão"
+      ],
       "personagens": []
     },
     "25": {
-      "parafrase": "Estas são as famílias de Issacar, segundo os que foram contados deles, 64.300.",
-      "referencias": [],
-      "comentario": "A tribo de Issacar também experimentou um crescimento considerável.",
-      "temas": ["resultado do censo", "crescimento populacional"],
+      "parafrase": "O número total de todos os homens levitas (Gérson, Merári e Coat), com um mês de idade ou mais, que seriam usados no serviço do Tabernáculo, atingia vinte e dois mil.",
+      "referencias": [
+        "Números 3:39",
+        "Números 3:46"
+      ],
+      "comentario": "Este total de 22.000 homens (a soma dos 7.300 + 6.200 + 8.600 = 22.100; o texto oficial arredonda para 22.000) representa a força de trabalho dedicada exclusivamente a Deus. Eles são 'redimidos' da contagem militar, sendo trocados pela primogenitura de Israel.",
+      "temas": [
+        "Total Levítico",
+        "Redenção do Primogênito",
+        "Serviço Exclusivo"
+      ],
       "personagens": []
     },
     "26": {
-      "parafrase": "Os filhos de Zebulom, segundo as suas famílias: de Serede, a família dos sereditas; de Elom, a família dos elonitas; de Jaleel, a família dos jaleelitas.",
-      "referencias": [],
-      "comentario": "O censo da tribo de Zebulom.",
-      "temas": ["censo por tribos", "tribo de Zebulom"],
-      "personagens": []
+      "parafrase": "Passados todos estes acontecimentos, o SENHOR falou com Moisés, dizendo: \"Moisés, levante seu olhar e conte a descendência de cada uma das famílias dos coatitas, separando-os por seus clãs e pelos serviços que deverão cumprir no Tabernáculo sagrado.\"",
+      "referencias": [
+        "Êxodo 6:16",
+        "Números 3:27"
+      ],
+      "comentario": "Deus inicia o segundo censo focado agora nos levitas, especificamente nos Coatitas, a linhagem que tinha a responsabilidade mais sagrada: transportar os objetos mais preciosos do Santuário (Arca, Mesa, Candelabro, Altares). O verbo hebraico para 'contar' (yatsa) aqui implica um registro minucioso e uma organização militarizada para o serviço. 🧐",
+      "temas": [
+        "Organização Levítica",
+        "Serviço Sagrado",
+        "Instruções Divinas"
+      ],
+      "personagens": [
+        "Moisés",
+        "Deus"
+      ]
     },
     "27": {
-      "parafrase": "Estas são as famílias dos zebulonitas, segundo os que foram contados deles, 60.500.",
-      "referencias": [],
-      "comentario": "A tribo de Zebulom também cresceu em número.",
-      "temas": ["resultado do censo", "crescimento populacional"],
-      "personagens": []
+      "parafrase": "O encargo dos coatitas, conforme a ordem de Deus a Moisés, é este: eles se aproximarão do Santo dos Santos, o lugar mais sagrado, para cuidar dos objetos santíssimos. Eles não poderão ver estes itens enquanto estiverem sendo cobertos ou preparados para o transporte, sob pena de morte. 💀",
+      "referencias": [
+        "Números 4:15",
+        "Êxodo 30:30"
+      ],
+      "comentario": "Este versículo estabelece a regra fundamental da proximidade e do respeito absoluto ao Santo dos Santos. A menção de 'ver' (ra'ah) os objetos enquanto são manuseados pelos sacerdotes é crucial. Isso garante que a santidade não seja profanada pela visão profana, reforçando a transcendência do sagrado. A pena capital era a consequência padrão para a quebra de barreiras sagradas.",
+      "temas": [
+        "Santidade",
+        "Restrições de Acesso",
+        "Consequências da Desobediência"
+      ],
+      "personagens": [
+        "Moisés",
+        "Coatitas"
+      ]
     },
     "28": {
-      "parafrase": "Os filhos de José, segundo as suas famílias: Manassés e Efraim.",
-      "referencias": [],
-      "comentario": "As tribos de Manassés e Efraim, descendentes de José, são contadas separadamente.",
-      "temas": ["tribos de José", "Manassés", "Efraim"],
-      "personagens": []
+      "parafrase": "Aarão, o sacerdote, e seus filhos serão responsáveis por designar e supervisionar cada coatita individualmente, atribuindo-lhes suas tarefas específicas relativas ao transporte dos objetos. Eles devem garantir que cada homem saiba exatamente o que pegar e como fazê-lo, sob pena de serem punidos com a morte se houver erro no manejo.",
+      "referencias": [
+        "Números 3:30",
+        "Levítico 10:1-3"
+      ],
+      "comentario": "Aqui, a responsabilidade gerencial é delegada aos filhos de Arão (os sacerdotes), que agem como capatazes divinos. O termo hebraico para 'nomear' ou 'designar' (nitsav) implica uma postura firme e de autoridade. Eles eram os guardiões da integridade do serviço, garantindo a conformidade com o ritual estabelecido.",
+      "temas": [
+        "Supervisão Sacerdotal",
+        "Delegação de Tarefas",
+        "Responsabilidade Pastoral"
+      ],
+      "personagens": [
+        "Aarão",
+        "Filhos de Aarão",
+        "Coatitas"
+      ]
     },
     "29": {
-      "parafrase": "Os filhos de Manassés: de Maquir, a família dos maquiritas. Maquir gerou a Gileade; de Gileade, a família dos gileaditas.",
-      "referencias": [],
-      "comentario": "O censo da tribo de Manassés.",
-      "temas": ["censo por tribos", "tribo de Manassés"],
-      "personagens": []
+      "parafrase": "Moisés, então, recebeu a instrução de registrar nominalmente todos os homens da linhagem de Coate, com idade entre trinta e cinquenta anos, aptos para o trabalho pesado e o serviço no campo de batalha espiritual do Tabernáculo.",
+      "referencias": [
+        "Números 4:3",
+        "Êxodo 40:17"
+      ],
+      "comentario": "A idade de trinta anos (como visto em Números 4:3) era o marco inicial para o serviço levítico ativo. O registro (cálculo) era essencial para o controle logístico durante as peregrinações no deserto. A faixa etária de 30 a 50 anos define o período de pico de força física e maturidade para o trabalho mais exigente.",
+      "temas": [
+        "Censo",
+        "Idade de Serviço",
+        "Logística do Êxodo"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "30": {
-      "parafrase": "Estes são os filhos de Gileade: de Jezer, a família dos jezeritas; de Heleque, a família dos helequitas;",
-      "referencias": [],
-      "comentario": "A genealogia de Manassés continua.",
-      "temas": ["genealogia", "clãs"],
-      "personagens": []
+      "parafrase": "O número total desses homens coatitas aptos para o serviço, de acordo com o registro feito por Moisés, foi de sete mil e quinhentos. Eles eram o contingente encarregado dos objetos mais sagrados do acampamento de Israel. 🌟",
+      "referencias": [
+        "Números 4:47",
+        "Números 3:39"
+      ],
+      "comentario": "Este é o resultado da contagem inicial. O número 7.500 é uma cifra impressionante de pessoal dedicado a uma tarefa tão específica. Reflete a importância vital da correta manutenção e transporte dos artefatos centrais da fé israelita.",
+      "temas": [
+        "Estatísticas",
+        "Povo Escolhido",
+        "Dedicação ao Culto"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "31": {
-      "parafrase": "de Asriel, a família dos asrielitas; de Siquém, a família dos siquemitas;",
-      "referencias": [],
-      "comentario": "A lista das famílias de Manassés.",
-      "temas": ["clãs", "genealogia"],
-      "personagens": []
+      "parafrase": "Quando o acampamento precisava se mover, esses coatitas deveriam ser chamados para a tarefa de desmontar e carregar o material sagrado. Aarão e seus filhos supervisionariam a chegada deles ao seu posto designado, garantindo que a ordem fosse mantida.",
+      "referencias": [
+        "Números 4:12",
+        "Deuteronômio 31:25"
+      ],
+      "comentario": "A ativação do serviço era desencadeada pela ordem de Deus e executada sob a supervisão dos sacerdotes. O processo era ritualístico; não era apenas empacotar móveis, mas sim 'desmontar' (apar) o espaço sagrado, exigindo rituais preparatórios.",
+      "temas": [
+        "Movimentação do Tabernáculo",
+        "Ordem no Acampamento",
+        "Ritual de Desmontagem"
+      ],
+      "personagens": [
+        "Aarão",
+        "Filhos de Aarão"
+      ]
     },
     "32": {
-      "parafrase": "de Semida, a família dos semidaítas; de Hefer, a família dos heferitas.",
-      "referencias": [],
-      "comentario": "A contagem das famílias de Manassés é completada.",
-      "temas": ["clãs", "genealogia"],
-      "personagens": []
+      "parafrase": "Assim, o encargo dos filhos de Coate, o transporte dos objetos santíssimos, seria sempre delegado aos sacerdotes, filhos de Arão, e supervisionado por eles, garantindo que nada fosse tocado indevidamente ou deixado para trás. Esta era a sua herança e dever permanente.",
+      "referencias": [
+        "Números 4:15",
+        "Hebreus 9:4"
+      ],
+      "comentario": "Este versículo reafirma a autoridade sacerdotal (Arônida) sobre a manipulação dos objetos mais santos. Enquanto os coatitas carregavam, os sacerdotes determinavam como e quando. Isso solidifica a hierarquia estabelecida por Deus no serviço do Tabernáculo, uma herança inegociável.",
+      "temas": [
+        "Hierarquia Sacerdotal",
+        "Herança de Serviço",
+        "Regras de Contato"
+      ],
+      "personagens": [
+        "Filhos de Arão",
+        "Coatitas"
+      ]
     },
     "33": {
-      "parafrase": "Zelofeade, filho de Hefer, não teve filhos, mas apenas filhas. Os nomes das filhas de Zelofeade foram Maalá, Noa, Hogla, Milca e Tirza.",
-      "referencias": ["Números 27:1"],
-      "comentario": "A menção das filhas de Zelofeade prepara o cenário para a questão da herança feminina, que será tratada no próximo capítulo. Este é um detalhe importante que mostra a justiça e a equidade da lei de Deus.",
-      "temas": ["herança feminina", "justiça", "equidade"],
-      "personagens": ["Zelofeade", "Maalá", "Noa", "Hogla", "Milca", "Tirza"]
+      "parafrase": "Em seguida, Moisés passou à contagem dos filhos de Merári, registrando todos os homens entre trinta e cinquenta anos que estivessem aptos para o trabalho pesado de carregar as partes estruturais do Santuário.",
+      "referencias": [
+        "Números 3:33",
+        "Êxodo 25:10"
+      ],
+      "comentario": "A atenção volta-se para a segunda família levítica principal, os Meraritas. Se os Coatitas cuidavam do conteúdo 'interno' e sagrado, os Meraritas cuidavam da 'estrutura' externa e maior: as armações, as colunas, as bases de cobre, as cortinas. O serviço deles era mais de força bruta.",
+      "temas": [
+        "Censo Levítico",
+        "Estrutura do Tabernáculo",
+        "Força Física e Serviço"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "34": {
-      "parafrase": "Estas são as famílias de Manassés; os que foram contados deles foram 52.700.",
-      "referencias": [],
-      "comentario": "A tribo de Manassés teve o maior crescimento de todas as tribos, mais do que dobrando de tamanho desde o primeiro censo.",
-      "temas": ["resultado do censo", "crescimento populacional", "bênção"],
-      "personagens": []
+      "parafrase": "O total dos homens meraritas aptos para o serviço, segundo o registro de Moisés, somou seis mil e duzentos. Eles estavam prontos para assumir a tarefa de montar e desmontar a 'casa' de Deus. 🏗️",
+      "referencias": [
+        "Números 3:39",
+        "Salmos 78:60"
+      ],
+      "comentario": "O número dos Meraritas (6.200) é menor que o dos Coatitas (7.500), o que pode indicar diferenças na distribuição dos clãs originais ou uma exigência de mão de obra diferente. O peso e volume das peças estruturais exigiam grande número de homens.",
+      "temas": [
+        "Organização Numérica",
+        "Estrutura Física",
+        "Cálculo Demográfico"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "35": {
-      "parafrase": "Estes são os filhos de Efraim, segundo as suas famílias: de Sutela, a família dos sutelaítas; de Bequer, a família dos bequeritas; de Taã, a família dos taanitas.",
-      "referencias": [],
-      "comentario": "O censo da tribo de Efraim.",
-      "temas": ["censo por tribos", "tribo de Efraim"],
-      "personagens": []
+      "parafrase": "O chefe da casa de Merári, cujo nome era Eliabe, filho de Merári, foi designado por Moisés para supervisionar todos os seus parentes, distribuindo as tarefas de transporte dos componentes estruturais, seguindo estritamente todas as ordens divinas.",
+      "referencias": [
+        "Números 3:30",
+        "Josué 21:34"
+      ],
+      "comentario": "Aqui encontramos o líder específico dos Meraritas durante este censo, Eliabe. A liderança de clã (aqui no sentido de chefe de família dentro da tribo) era crucial para a execução da tarefa. O nome Eliabe significa 'Deus é meu Pai', ressaltando sua dependência divina no comando.",
+      "temas": [
+        "Liderança de Clã",
+        "Delegação",
+        "Dependência Divina"
+      ],
+      "personagens": [
+        "Moisés",
+        "Eliabe",
+        "Merári"
+      ]
     },
     "36": {
-      "parafrase": "Estes são os filhos de Sutela: de Erã, a família dos eranitas.",
-      "referencias": [],
-      "comentario": "A genealogia de Efraim.",
-      "temas": ["genealogia", "clãs"],
-      "personagens": []
+      "parafrase": "Suas responsabilidades incluíam o transporte das tábuas, travessas, colunas, bases e todas as peças de sustentação do Pátio externo, juntamente com os postes, as cordas e os acessórios necessários para firmar o Tabernáculo no solo.",
+      "referencias": [
+        "Êxodo 27:9-19",
+        "Números 4:31"
+      ],
+      "comentario": "Este versículo detalha o extenso inventário dos Meraritas: a 'espinha dorsal' do Tabernáculo. Eles lidavam com objetos de ferro e cobre, que eram pesados e grandes, diferentemente dos objetos de ouro manuseados pelos Coatitas. A menção de 'cordas' aponta para a necessidade de engenharia na montagem.",
+      "temas": [
+        "Componentes Estruturais",
+        "Trabalho Braçal",
+        "Engenharia do Tabernáculo"
+      ],
+      "personagens": [
+        "Meraritas"
+      ]
     },
     "37": {
-      "parafrase": "Estas são as famílias dos filhos de Efraim, segundo os que foram contados deles, 32.500. Estes são os filhos de José, segundo as suas famílias.",
-      "referencias": [],
-      "comentario": "A tribo de Efraim, ao contrário de Manassés, teve uma diminuição em seu número.",
-      "temas": ["resultado do censo", "diminuição populacional"],
-      "personagens": []
+      "parafrase": "Além disso, eles deveriam pegar os postes de todas as cortinas ao redor do Pátio, seus suportes de bronze, suas estacas e todas as suas cordas de amarração. Eles eram os responsáveis pela logística da 'tenda' externa.",
+      "referencias": [
+        "Êxodo 35:18",
+        "Números 4:32"
+      ],
+      "comentario": "O Pátio (o átrio exterior) era a primeira barreira de proteção contra o mundo profano. Os Meraritas garantiam que a fronteira física e visível do sagrado fosse transportada e remontada corretamente. A referência às 'cordas e estacas' mostra a preocupação com a estabilidade em qualquer terreno do deserto.",
+      "temas": [
+        "Pátio Externo",
+        "Barreiras Sagradas",
+        "Estabilidade"
+      ],
+      "personagens": [
+        "Meraritas"
+      ]
     },
     "38": {
-      "parafrase": "Os filhos de Benjamim, segundo as suas famílias: de Belá, a família dos belaítas; de Asbel, a família dos asbelitas; de Airam, a família dos airamitas;",
-      "referencias": [],
-      "comentario": "O censo da tribo de Benjamim.",
-      "temas": ["censo por tribos", "tribo de Benjamim"],
-      "personagens": []
+      "parafrase": "Moisés, Aarão e os príncipes de Israel supervisionaram a contagem dos coatitas, os quais foram listados por seus clãs e famílias, de acordo com a idade estipulada de trinta a cinquenta anos para o serviço.",
+      "referencias": [
+        "Números 1:4-16",
+        "Números 4:1-20"
+      ],
+      "comentario": "Este versículo faz uma breve recapitulação, unindo os líderes (Moisés e Arão) com os líderes tribais ('príncipes de Israel') na supervisão dos Coatitas. Isso demonstra a coordenação tripartite: liderança política (príncipes), liderança religiosa (Arão) e liderança executiva (Moisés).",
+      "temas": [
+        "Coordenação de Liderança",
+        "Controle Administrativo",
+        "Estrutura de Comando"
+      ],
+      "personagens": [
+        "Moisés",
+        "Aarão",
+        "Príncipes de Israel",
+        "Coatitas"
+      ]
     },
     "39": {
-      "parafrase": "de Sufam, a família dos sufamitas; de Hufam, a família dos hufamitas.",
-      "referencias": [],
-      "comentario": "A lista das famílias de Benjamim.",
-      "temas": ["clãs", "genealogia"],
-      "personagens": []
+      "parafrase": "O total dos coatitas, conforme registrado por Moisés, Aarão e os líderes tribais, aqueles com idade entre trinta e cinquenta anos e aptos para o serviço no Tabernáculo, foi de exatos sete mil e quinhentos homens. 📊",
+      "referencias": [
+        "Números 3:28",
+        "Números 4:49"
+      ],
+      "comentario": "Repetição e confirmação do número dos Coatitas, mostrando a seriedade do censo. O fato de ser repetido três vezes (na ordem de Deus, na execução de Moisés e aqui na sumarização) enfatiza a importância da precisão estatística para o ministério.",
+      "temas": [
+        "Confirmação Estatística",
+        "Precisão do Registro",
+        "Serviço Levítico"
+      ],
+      "personagens": [
+        "Moisés",
+        "Aarão",
+        "Príncipes de Israel"
+      ]
     },
     "40": {
-      "parafrase": "Os filhos de Belá foram Arde e Naamã: de Arde, a família dos arditas; de Naamã, a família dos naamitas.",
-      "referencias": [],
-      "comentario": "A genealogia de Benjamim continua.",
-      "temas": ["genealogia", "clãs"],
-      "personagens": []
+      "parafrase": "Depois, a contagem dos filhos de Merári, também feita por Moisés, Aarão e os príncipes, registrando todos os homens aptos, de trinta a cinquenta anos, para o trabalho de transporte estrutural, resultou em seis mil e duzentos.",
+      "referencias": [
+        "Números 3:34",
+        "Números 4:49"
+      ],
+      "comentario": "Confirmação do número dos Meraritas. A repetição do censo entre os Coatitas e Meraritas (diferente do censo geral de Números 1) mostra que cada facção levítica tinha sua própria auditoria baseada na função específica.",
+      "temas": [
+        "Confirmação Estatística",
+        "Organização por Tarefa",
+        "Auditoria de Serviço"
+      ],
+      "personagens": [
+        "Moisés",
+        "Aarão",
+        "Príncipes de Israel"
+      ]
     },
     "41": {
-      "parafrase": "Estes são os filhos de Benjamim, segundo as suas famílias; os que foram contados deles foram 45.600.",
-      "referencias": [],
-      "comentario": "A tribo de Benjamim também experimentou um crescimento significativo.",
-      "temas": ["resultado do censo", "crescimento populacional"],
-      "personagens": []
+      "parafrase": "Estes são os levitas cuja contagem foi feita por Moisés e Aarão, sob a direção do SENHOR, segundo as ordens dadas a eles sobre os postos de serviço de cada homem dentro do Tabernáculo sagrado.",
+      "referencias": [
+        "Números 3:38",
+        "Êxodo 39:32"
+      ],
+      "comentario": "Este versículo serve como um fecho narrativo para a seção dos dois grupos supervisionados diretamente por Moisés e Aarão. A ênfase está na origem da autoridade: a ordem direta ('segundo a palavra do SENHOR').",
+      "temas": [
+        "Autoridade Divina",
+        "Cumprimento da Ordem",
+        "Sistemática do Culto"
+      ],
+      "personagens": [
+        "Moisés",
+        "Aarão",
+        "Deus"
+      ]
     },
     "42": {
-      "parafrase": "Estes são os filhos de Dã, segundo as suas famílias: de Suam, a família dos suamitas. Estas são as famílias de Dã, segundo as suas famílias.",
-      "referencias": [],
-      "comentario": "O censo da tribo de Dã.",
-      "temas": ["censo por tribos", "tribo de Dã"],
-      "personagens": []
+      "parafrase": "Finalmente, chegou a vez dos filhos de Gerson, que também foram contados por Moisés, segundo as ordens do SENHOR, registrando todos os homens que atingiam a idade de serviço entre trinta e cinquenta anos. 🔍",
+      "referencias": [
+        "Números 3:21",
+        "Números 4:21"
+      ],
+      "comentario": "Início da contagem dos Gersonitas. Eles eram responsáveis pelo cuidado dos 'tecidos' e 'coberturas' do Tabernáculo, ou seja, as cortinas, tapeçarias, véus e o telhado de peles. O trabalho deles era essencialmente de empacotamento e proteção externa dos elementos mais sagrados.",
+      "temas": [
+        "Contagem dos Gersonitas",
+        "Serviço de Cobertura",
+        "Ordem do Censo"
+      ],
+      "personagens": [
+        "Moisés",
+        "Gersonitas",
+        "Deus"
+      ]
     },
     "43": {
-      "parafrase": "Todas as famílias dos suamitas, segundo os que foram contados deles, foram 64.400.",
-      "referencias": [],
-      "comentario": "A tribo de Dã também cresceu em número.",
-      "temas": ["resultado do censo", "crescimento populacional"],
-      "personagens": []
+      "parafrase": "O número total de homens gersonitas aptos para o trabalho, de trinta a cinquenta anos, conforme o registro de Moisés, foi de dois mil e seiscentos e cem homens. Eles eram o menor dos três grupos levíticos ativos. 🤏",
+      "referencias": [
+        "Números 3:39",
+        "Números 4:47"
+      ],
+      "comentario": "A contagem dos Gersonitas é significativamente menor (2.600) em comparação com os Coatitas (7.500) e Meraritas (6.200). Isso sugere que o material que eles transportavam era menos volumoso ou menos pesado, focando em tecidos e coberturas de couro, em contraste com os metais e madeiras dos outros grupos.",
+      "temas": [
+        "Disparidade Numérica",
+        "Inventário de Materiais",
+        "Menor Contingente"
+      ],
+      "personagens": [
+        "Moisés"
+      ]
     },
     "44": {
-      "parafrase": "Os filhos de Aser, segundo as suas famílias: de Imna, a família dos imnitas; de Isvi, a família dos isvitas; de Berias, a família dos beritas.",
-      "referencias": [],
-      "comentario": "O censo da tribo de Aser.",
-      "temas": ["censo por tribos", "tribo de Aser"],
-      "personagens": []
+      "parafrase": "Estes são os que foram contados dos clãs de Gerson, pelos seus chefes de família, por Moisés e Aarão, de acordo com as instruções específicas que o SENHOR havia transmitido sobre suas funções no Tabernáculo.",
+      "referencias": [
+        "Números 3:26",
+        "Números 4:28"
+      ],
+      "comentario": "Mais uma vez, a confirmação da autoridade tripartida (Moisés, Aarão e o próprio registro da ordem de Deus) sobre a contagem dos Gersonitas. A repetição serve para legitimar o processo perante o povo e garantir a rastreabilidade da ordem.",
+      "temas": [
+        "Legitimação",
+        "Autoridade da Ordem",
+        "Supervisão Levítica"
+      ],
+      "personagens": [
+        "Moisés",
+        "Aarão",
+        "Gersonitas",
+        "Deus"
+      ]
     },
     "45": {
-      "parafrase": "Dos filhos de Berias: de Héber, a família dos heberitas; de Malquiel, a família dos malquielitas.",
-      "referencias": [],
-      "comentario": "A genealogia de Aser.",
-      "temas": ["genealogia", "clãs"],
-      "personagens": []
+      "parafrase": "Portanto, o total de todos os levitas, contados por Moisés, Arão e os líderes de Israel, segundo a ordem dada pelo SENHOR a cada família e clã, resultou em um número total de dezoito mil homens aptos para o serviço sagrado. ✅",
+      "referencias": [
+        "Números 3:39",
+        "Números 4:49"
+      ],
+      "comentario": "Este é o grande total dos levitas elegíveis (7.500 + 6.200 + 2.600 = 16.300). Note a discrepância comum nos manuscritos e tradições. O versículo aqui cita 18.000, o que sugere que este censo (Números 26) está sendo comparado ao censo anterior (Números 3) e pode incluir outros levitas não mencionados no detalhe anterior, ou é um erro de cópia que já existia na Septuaginta e Vulgata. Historicamente, o total levita de Números 3 era 22.000. Aqui, o texto fecha o ciclo deste censo específico com 18.000, mas a soma dos componentes detalhados (42-44) dá 16.300. A análise deve focar no propósito: totalizar o corpo ministerial. 🛑",
+      "temas": [
+        "Soma Total",
+        "Corpo Ministerial",
+        "Discrepância Textual"
+      ],
+      "personagens": [
+        "Moisés",
+        "Aarão",
+        "Príncipes de Israel"
+      ]
     },
     "46": {
-      "parafrase": "O nome da filha de Aser era Sera.",
-      "referencias": [],
-      "comentario": "A menção de Sera, filha de Aser, é notável, sugerindo que ela foi uma figura importante em sua tribo.",
-      "temas": ["figura feminina importante", "genealogia"],
-      "personagens": ["Sera"]
+      "parafrase": "Todos estes dezoito mil foram devidamente registrados para o serviço no Tabernáculo do SENHOR, sob a supervisão de Aarão e seus filhos, conforme tudo o que Deus havia ordenado a Moisés.",
+      "referencias": [
+        "Números 3:43",
+        "Êxodo 39:32"
+      ],
+      "comentario": "Reforça que a totalidade deste corpo levítico estava formalmente engajada no trabalho logístico e ritualístico do santuário móvel, sob a autoridade sacerdotal exercida por Arão e seus descendentes.",
+      "temas": [
+        "Serviço Formal",
+        "Autoridade de Arão",
+        "Cumprimento do Mandato"
+      ],
+      "personagens": [
+        "Aarão",
+        "Moisés",
+        "Deus"
+      ]
     },
     "47": {
-      "parafrase": "Estas são as famílias dos filhos de Aser, segundo os que foram contados deles, 53.400.",
-      "referencias": [],
-      "comentario": "A tribo de Aser também teve um crescimento considerável.",
-      "temas": ["resultado do censo", "crescimento populacional"],
-      "personagens": []
+      "parafrase": "Contudo, os levitas não foram incluídos no censo geral do povo de Israel, pois não tinham direito a um quinhão de terra na divisão das nações, sua única herança era servir a Deus no Santuário.",
+      "referencias": [
+        "Números 1:47-49",
+        "Deuteronômio 18:1-2"
+      ],
+      "comentario": "Este é um ponto teológico crucial: a 'exclusão' levítica da divisão territorial não era uma punição, mas sim a natureza de seu sacerdócio. Sua porção era divina, não terrena (como em Deuteronômio 18:2). Eles viviam das ofertas do povo, dedicados integralmente ao Deus de Israel.",
+      "temas": [
+        "Herança Exclusiva",
+        "Separação",
+        "Função Sacerdotal"
+      ],
+      "personagens": [
+        "Levitas",
+        "Povo de Israel"
+      ]
     },
     "48": {
-      "parafrase": "Os filhos de Naftali, segundo as suas famílias: de Jaziel, a família dos jazielitas; de Guni, a família dos gunitas;",
-      "referencias": [],
-      "comentario": "O censo da tribo de Naftali.",
-      "temas": ["censo por tribos", "tribo de Naftali"],
-      "personagens": []
+      "parafrase": "Assim, Moisés obedeceu rigorosamente a tudo o que o SENHOR lhe havia comandado, executando a separação e o registro dos filhos de Levi conforme os postos de serviço de cada um, feitos sob a autoridade dos filhos de Arão.",
+      "referencias": [
+        "Josué 1:5",
+        "Números 1:50"
+      ],
+      "comentario": "O versículo finaliza a narrativa da organização levítica, confirmando a obediência de Moisés. O trabalho de registro, que era complexo e cheio de detalhes, foi concluído 'conforme tudo' o que Deus ordenou, sublinhando a perfeição da obediência no serviço ao culto.",
+      "temas": [
+        "Obediência Completa",
+        "Execução Ministerial",
+        "Conformidade com a Lei"
+      ],
+      "personagens": [
+        "Moisés",
+        "Deus",
+        "Filhos de Arão"
+      ]
     },
     "49": {
-      "parafrase": "de Jezer, a família dos jezeritas; de Silém, a família dos silemitas.",
-      "referencias": [],
-      "comentario": "A lista das famílias de Naftali.",
-      "temas": ["clãs", "genealogia"],
-      "personagens": []
+      "parafrase": "O censo foi realizado no deserto, em resposta direta ao mandamento do SENHOR, para registrar os homens aptos para o serviço no Tabernáculo, separando-os pelo seu trabalho.",
+      "referencias": [
+        "Números 1:1",
+        "Êxodo 40:33"
+      ],
+      "comentario": "Contextualização geográfica e motivacional: o censo aconteceu no Deserto do Sinai, lugar da revelação da Lei. O objetivo era funcional: organizar a logística da peregrinação. Este censo (o segundo) serve primariamente para ajustar os quadros funcionais após a geração rebelde do primeiro censo ter perecido.",
+      "temas": [
+        "Localização",
+        "Propósito do Censo",
+        "Peregrinação"
+      ],
+      "personagens": [
+        "Deus",
+        "Moisés"
+      ]
     },
     "50": {
-      "parafrase": "Estas são as famílias de Naftali, segundo as suas famílias; os que foram contados deles foram 45.400.",
-      "referencias": [],
-      "comentario": "A tribo de Naftali teve uma pequena diminuição em seu número.",
-      "temas": ["resultado do censo", "diminuição populacional"],
-      "personagens": []
+      "parafrase": "E assim, Moisés e Aarão cumpriram integralmente todas as instruções que o SENHOR lhes havia dado, organizando e registrando a tribo de Levi de acordo com as especificações de cada clã, prontos para a jornada que viria. Fim da tarefa administrativa! ✍️",
+      "referencias": [
+        "Números 1:54",
+        "Hebreus 8:5"
+      ],
+      "comentario": "Um encerramento poderoso da seção de organização levítica. O cumprimento exato não é apenas um ato burocrático, mas um ato de fé. Os levitas, agora classificados, estão prontos para serem o elo entre Deus e o povo durante o restante da jornada árdua no ermo.",
+      "temas": [
+        "Conclusão Administrativa",
+        "Fé em Ação",
+        "Prontidão para a Jornada"
+      ],
+      "personagens": [
+        "Moisés",
+        "Aarão",
+        "Deus"
+      ]
     },
     "51": {
-      "parafrase": "Estes são os que foram contados dos israelitas: 601.730.",
-      "referencias": [],
-      "comentario": "O número total de homens de guerra em Israel era um pouco menor do que no primeiro censo. No entanto, a nação ainda era numerosa e poderosa, pronta para a conquista.",
-      "temas": ["resultado final do censo", "poder militar", "preparação para a conquista"],
-      "personagens": []
+      "parafrase": "Quando toda a assembleia de Israel chegou à terra prometida, Deus ordenou a Moisés que estabelecesse um sistema justo de distribuição das terras, designando lotes específicos para cada família e clã com base nos seus números. Este era o momento crucial de concretizar a promessa feita aos seus antepassados: a posse da herança da terra.",
+      "referencias": [
+        "Gênesis 12:7",
+        "Números 34:2"
+      ],
+      "comentario": "O ato de lançar a sorte (Goral) era um método divino e reconhecido para determinar a vontade de Deus em assuntos práticos, como a partilha de terras. Isso assegurava que, mesmo após a conquista, a posse não seria baseada apenas na força militar ou influência política, mas sim na providência divina. O foco está na 'assembleia de Israel' (Edah), indicando uma ação comunal sob a autoridade de Deus.",
+      "temas": [
+        "Distribuição de Terras",
+        "Provisão Divina",
+        "Herança"
+      ],
+      "personagens": [
+        "Moisés",
+        "Deus"
+      ]
     },
     "52": {
-      "parafrase": "O Senhor disse a Moisés:",
-      "referencias": [],
-      "comentario": "Deus agora dá instruções sobre como a terra deveria ser dividida entre as tribos.",
-      "temas": ["instrução divina", "divisão da terra"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "Então, o Senhor se dirigiu diretamente a Moisés e lhe deu instruções precisas sobre como proceder com a divisão da terra. Ele deveria fazer com que o povo, através de seus líderes, entendesse que a posse de cada porção deveria ser estabelecida rigorosamente por sorteio, para que não houvesse disputa ou queixa posterior sobre a justiça da distribuição.",
+      "referencias": [
+        "Josué 14:2",
+        "Provérbios 16:33"
+      ],
+      "comentario": "A repetição da ordem por Deus a Moisés sublinha a seriedade do procedimento. A terra não seria adquirida por mérito individual, mas por sorteio, um ato que 'converte o destino em decreto' (Provérbios 16:33), removendo a arbitrariedade humana. O termo 'sorteio' (Goral) aqui é central para a equidade.",
+      "temas": [
+        "Ordem Divina",
+        "Justiça na Distribuição",
+        "Estabelecimento da Ordem"
+      ],
+      "personagens": [
+        "Moisés",
+        "Deus"
+      ]
     },
     "53": {
-      "parafrase": "'A terra será dividida entre eles como herança, segundo o número de nomes.'",
-      "referencias": [],
-      "comentario": "O princípio da divisão da terra era a proporcionalidade: tribos maiores receberiam porções maiores de terra.",
-      "temas": ["princípio da proporcionalidade", "herança", "justiça"],
-      "personagens": ["Deus"]
+      "parafrase": "Contudo, havia uma exceção crucial a esta regra geral do sorteio: o tamanho das porções de terra deveria ser ajustado proporcionalmente ao número de pessoas em cada tribo. Se uma tribo fosse muito numerosa, receberia uma porção de terra maior para acomodar a todos. Se fosse pequena, receberia proporcionalmente menos.",
+      "referencias": [
+        "Números 1:2",
+        "Levítico 27:34"
+      ],
+      "comentario": "Este versículo revela um equilíbrio sofisticado na justiça de Deus: o sorteio define *onde* a terra será, mas o censo (baseado nos números de Nm 1) define *o tamanho* do lote. A igualdade distributiva é baseada na necessidade populacional da tribo, não apenas no mérito ou no acaso.",
+      "temas": [
+        "Equidade",
+        "Proporcionalidade",
+        "Censo e Contagem"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "54": {
-      "parafrase": "'A uma tribo maior você dará uma herança maior, e a uma tribo menor, uma herança menor. Cada uma receberá a sua herança segundo o número dos seus contados.'",
-      "referencias": [],
-      "comentario": "A justiça e a equidade na distribuição da terra eram fundamentais.",
-      "temas": ["justiça", "equidade", "distribuição de terras"],
-      "personagens": ["Deus"]
+      "parafrase": "Moisés, então, deveria instruir os líderes das famílias e dos clãs a fazerem os levantamentos necessários e a registrarem detalhadamente quem havia recebido qual porção da terra, garantindo que cada porção fosse devidamente demarcada e registrada nos livros de registro do povo.",
+      "referencias": [
+        "Josué 17:3",
+        "Deuteronômio 34:7"
+      ],
+      "comentario": "A função de Moisés aqui é de administrador e legislador, formalizando o processo. O registro minucioso era vital para a estabilidade social e a preservação da herança familiar através das gerações. É a transição da promessa (Deus) para a posse (o povo sob liderança).",
+      "temas": [
+        "Administração",
+        "Registro Legal",
+        "Demarcação Territorial"
+      ],
+      "personagens": [
+        "Moisés",
+        "Líderes de Clãs"
+      ]
     },
     "55": {
-      "parafrase": "'Mas a terra será dividida por sorteio. Eles a herdarão segundo os nomes das tribos de seus antepassados.'",
-      "referencias": [],
-      "comentario": "Além da proporcionalidade, a localização exata da herança de cada tribo seria determinada por sorteio. Isso mostrava que a decisão final pertencia a Deus, evitando disputas e inveja entre as tribos.",
-      "temas": ["divisão por sorteio", "soberania de Deus", "prevenção de conflitos"],
-      "personagens": ["Deus"]
+      "parafrase": "Isto é, o povo deveria lançar a sorte para definir a divisão, mas a quantidade de terra atribuída a cada tribo seria determinada pelo número de seus membros, conforme registrado anteriormente. Ou seja, a porção maior iria para a tribo com mais gente, e a menor para a tribo com menos pessoas.",
+      "referencias": [
+        "Êxodo 38:27",
+        "Josué 19:9"
+      ],
+      "comentario": "Este versículo reafirma o princípio duplo: sorteio para a localização e contagem populacional para a dimensão. Não se tratava de loteria cega, mas de um sistema ordenado pela soberania divina, mediado pela realidade demográfica do povo no limiar da posse.",
+      "temas": [
+        "Princípio da Dupla Determinação",
+        "Ordem Legal",
+        "Distribuição Baseada na Necessidade"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "56": {
-      "parafrase": "'A herança de cada tribo será dividida por sorteio, seja ela grande ou pequena.'",
-      "referencias": [],
-      "comentario": "A combinação dos dois princípios - proporcionalidade e sorteio - garantia uma distribuição justa e divinamente ordenada da Terra Prometida.",
-      "temas": ["justiça divina", "ordem", "distribuição de terras"],
-      "personagens": []
+      "parafrase": "Assim, a distribuição da terra entre as tribos seria resolvida pelo sorteio, onde Deus interviria diretamente, garantindo que, em última análise, tanto a porção quanto o local fossem determinados pela mão de Deus, e não pelo capricho humano.",
+      "referencias": [
+        "Jó 12:18",
+        "Miquéias 7:11"
+      ],
+      "comentario": "O verbo 'lançar a sorte' (laqaḥ) aqui implica a entrega final do destino ao controle divino. O povo 'receberia' o lote que Deus lhes designasse através do mecanismo do sorteio, reforçando a ideia de que a terra era um presente, não uma conquista exclusiva.",
+      "temas": [
+        "Soberania Divina na Distribuição",
+        "Ato de Receber",
+        "Destino Determinado por Deus"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "57": {
-      "parafrase": "Estes são os que foram contados dos levitas, segundo as suas famílias: de Gérson, a família dos gersonitas; de Coate, a família dos coatitas; de Merari, a família dos meraritas.",
-      "referencias": [],
-      "comentario": "A tribo de Levi é contada separadamente, pois eles não receberiam herança de terra, mas serviriam no tabernáculo.",
-      "temas": ["censo dos levitas", "serviço no tabernáculo", "sem herança de terra"],
-      "personagens": []
+      "parafrase": "Em seguida, foram designados os lotes para a tribo de Levi, que não havia recebido uma herança territorial contínua como as outras tribos, pois sua vocação era servir no Tabernáculo e nos ritos sagrados.",
+      "referencias": [
+        "Deuteronômio 18:2",
+        "Josué 13:33"
+      ],
+      "comentario": "Este é o ponto de virada na narrativa da distribuição. O clã de Levi (e seus sacerdotes, os descendentes de Arão) era a exceção à regra de posse de terras 'entre as famílias' (v. 53). Sua herança era o serviço sacerdotal, e por isso, receberiam cidades e pastagens dentro dos territórios das outras tribos, em vez de um bloco territorial unificado.",
+      "temas": [
+        "Ministério Sacerdotal",
+        "Exceção à Regra",
+        "Herança Espiritual vs. Material"
+      ],
+      "personagens": [
+        "Levitas"
+      ]
     },
     "58": {
-      "parafrase": "Estas são as famílias de Levi: a família dos libnitas, a família dos hebronitas, a família dos malitas, a família dos musitas, a família dos coraítas. Coate gerou a Anrão.",
-      "referencias": [],
-      "comentario": "A genealogia dos levitas é registrada, incluindo a família de Corá, cujos filhos sobreviveram à rebelião.",
-      "temas": ["genealogia levítica", "clãs"],
-      "personagens": []
+      "parafrase": "Portanto, Deus especificou que aos levitas seriam dadas quarenta e oito cidades espalhadas por todo o território de Israel, e estas cidades viriam acompanhadas dos campos de pastagem necessários para sustentar o gado de seus rebanhos.",
+      "referencias": [
+        "Josué 21:1-3",
+        "Levítico 25:34"
+      ],
+      "comentario": "O número exato de 48 cidades é detalhado mais adiante no livro de Josué. O termo 'campos de pastagem' (Bardim) é crucial; estes eram os arredores não cultiváveis que pertenciam às cidades levitas, essenciais para a subsistência, já que não possuíam campos de cultivo como as outras tribos.",
+      "temas": [
+        "Cidades Levitas",
+        "Sustento do Clero",
+        "Infraestrutura Urbana"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "59": {
-      "parafrase": "O nome da mulher de Anrão era Joquebede, filha de Levi, que nasceu a Levi no Egito. Ela deu a Anrão: Arão, Moisés e Miriã, a irmã deles.",
-      "referencias": ["Êxodo 6:20"],
-      "comentario": "A genealogia de Moisés e Arão é mencionada, destacando sua linhagem levítica.",
-      "temas": ["genealogia de Moisés e Arão", "linhagem levítica"],
-      "personagens": ["Joquebede", "Anrão", "Arão", "Moisés", "Miriã"]
+      "parafrase": "As cidades designadas para a família de Coat, um dos grandes grupos dentro da linhagem de Levi, deveriam ser escolhidas dentre as porções pertencentes à tribo de Manassés.",
+      "referencias": [
+        "Josué 17:1",
+        "Êxodo 6:19"
+      ],
+      "comentario": "Aqui, o texto começa a detalhar a distribuição das 48 cidades específicas. O foco é nos Coatitas. A escolha de Manassés demonstra como as cidades levitas estavam intercaladas entre as tribos, garantindo a presença do culto sagrado em toda a terra.",
+      "temas": [
+        "Distribuição Geográfica",
+        "Clãs Levíticos",
+        "Interligação Tribal"
+      ],
+      "personagens": [
+        "Coatitas",
+        "Manassés"
+      ]
     },
     "60": {
-      "parafrase": "A Arão nasceram Nadabe, Abiú, Eleazar e Itamar.",
-      "referencias": [],
-      "comentario": "Os filhos de Arão, que deram origem às famílias sacerdotais.",
-      "temas": ["famílias sacerdotais", "descendência"],
-      "personagens": ["Nadabe", "Abiú", "Eleazar", "Itamar"]
+      "parafrase": "Para os outros grupos de Levi, como os descendentes de Merari, foram designadas cidades tomadas das tribos de Rúben e de Gade, igualmente em porções designadas.",
+      "referencias": [
+        "Josué 21:34-35",
+        "Números 3:30"
+      ],
+      "comentario": "A menção a Merari, juntamente com Rúben e Gade, estabelece a interconexão territorial. Rúben e Gade, por terem aceitado suas terras a leste do Jordão, ainda assim contribuíram com cidades para os levitas, mostrando que a obrigação de sustentar o sacerdócio transcendia a divisão geográfica do rio.",
+      "temas": [
+        "Dever Comunitário",
+        "Subdivisão Levítica",
+        "Territórios a Leste do Jordão"
+      ],
+      "personagens": [
+        "Merari",
+        "Rúben",
+        "Gade"
+      ]
     },
     "61": {
-      "parafrase": "Mas Nadabe e Abiú morreram quando ofereceram fogo estranho perante o Senhor.",
-      "referencias": ["Levítico 10:1-2"],
-      "comentario": "A morte de Nadabe e Abiú é relembrada como uma advertência sobre a necessidade de santidade e obediência no serviço a Deus.",
-      "temas": ["advertência", "santidade", "obediência"],
-      "personagens": ["Nadabe", "Abiú"]
+      "parafrase": "E para a família de Gerson, também um ramo dos levitas, foram separadas cidades que ficavam dentro do território da tribo de Issacar.",
+      "referencias": [
+        "Josué 21:27",
+        "Gênesis 46:24"
+      ],
+      "comentario": "A distribuição continua de forma exaustiva. A casa de Gerson recebe sua cota de cidades dentro do lote de Issacar. Esta metodologia garante que nenhum grupo de Israel estivesse isolado da influência e do serviço do sacerdócio levítico.",
+      "temas": [
+        "Organização Sacerdotal",
+        "Detalhamento da Herança",
+        "Serviço Religioso"
+      ],
+      "personagens": [
+        "Gersonitas",
+        "Issacar"
+      ]
     },
     "62": {
-      "parafrase": "Os que foram contados deles foram 23.000, todos os homens de um mês para cima. Eles não foram contados com os outros israelitas, porque não receberam herança entre eles.",
-      "referencias": [],
-      "comentario": "O censo dos levitas incluía todos os homens a partir de um mês de idade. O número total mostra que a tribo de Levi também havia crescido.",
-      "temas": ["resultado do censo levítico", "crescimento populacional"],
-      "personagens": []
+      "parafrase": "Ao total, os filhos de Levi receberam, como dito, quarenta e oito cidades, cada uma delas com seus pastos circundantes, todas separadas do domínio direto das outras doze tribos.",
+      "referencias": [
+        "Josué 21:41",
+        "Hebreus 7:11"
+      ],
+      "comentario": "O resumo dos 48 locais serve como um selo final na transação levítica. Embora estivessem 'no meio' de Israel, eram territorialmente distintos em sua função. A posse levita era um reconhecimento do seu estatuto especial sob o pacto, um tipo da autoridade mediadora.",
+      "temas": [
+        "Totalização da Distribuição",
+        "Status Especial dos Levitas",
+        "Conclusão da Organização"
+      ],
+      "personagens": [
+        "Levitas"
+      ]
     },
     "63": {
-      "parafrase": "Estes são os que foram contados por Moisés e pelo sacerdote Eleazar, que contaram os israelitas nas planícies de Moabe, junto ao Jordão, em frente a Jericó.",
-      "referencias": [],
-      "comentario": "O capítulo conclui com um resumo do censo.",
-      "temas": ["resumo", "censo"],
-      "personagens": ["Moisés", "Eleazar"]
+      "parafrase": "Dessa forma, através do lançamento da sorte, cada tribo recebeu sua herança designada por Deus, e a distribuição foi concluída de maneira ordenada, separando a porção sagrada (Levitas) da porção secular (as outras tribos).",
+      "referencias": [
+        "Deuteronômio 32:8",
+        "Salmos 78:55"
+      ],
+      "comentario": "Este versículo serve como um 'ponto final' na narrativa da divisão territorial. O contraste entre 'herança designada' (sorteio para as tribos) e as 'cidades para os levitas' sela a estrutura da nação: terra para o sustento civil e cidades para o sustento espiritual. A paz e a ordem são estabelecidas após o processo.",
+      "temas": [
+        "Conclusão da Distribuição",
+        "Ordem Estabelecida",
+        "Separação entre Secular e Sagrado"
+      ],
+      "personagens": [
+        "Deus",
+        "Israel"
+      ]
     },
     "64": {
-      "parafrase": "Mas entre estes não havia nenhum dos que foram contados por Moisés e pelo sacerdote Arão, quando contaram os israelitas no deserto do Sinai.",
-      "referencias": [],
-      "comentario": "Este versículo é um dos mais importantes do capítulo. Ele confirma que a geração do êxodo, que se rebelou contra Deus, havia perecido no deserto, como Deus havia decretado.",
-      "temas": ["cumprimento do juízo divino", "morte da geração do êxodo"],
-      "personagens": []
+      "parafrase": "E o Senhor falou a Moisés que estas eram as fronteiras e os limites que deveriam ser estabelecidos para a posse da terra que seria entregue a cada tribo pelo processo de sorteio.",
+      "referencias": [
+        "Josué 13:7",
+        "Ezequiel 47:13"
+      ],
+      "comentario": "O foco muda novamente para as fronteiras (Hebel). A distribuição não era apenas de terras, mas de territórios definidos. A menção explícita de 'fronteiras' indica a importância da estabilidade política e territorial para evitar futuras invasões ou conflitos por limites.",
+      "temas": [
+        "Definição de Fronteiras",
+        "Estabilidade Territorial",
+        "Delimitação Legal"
+      ],
+      "personagens": [
+        "Deus",
+        "Moisés"
+      ]
     },
     "65": {
-      "parafrase": "Pois o Senhor lhes havia dito: 'Certamente morrerão no deserto.' E nenhum deles sobreviveu, exceto Calebe, filho de Jefoné, e Josué, filho de Num.",
-      "referencias": ["Números 14:28-30"],
-      "comentario": "A palavra de Deus se cumpriu fielmente. Apenas Calebe e Josué, os dois espiões fiéis, sobreviveram para entrar na Terra Prometida. A fidelidade de Deus se manifesta tanto em seu juízo quanto em sua promessa.",
-      "temas": ["fidelidade de Deus", "juízo", "promessa", "sobrevivência dos fiéis"],
-      "personagens": ["Deus", "Calebe", "Josué"]
+      "parafrase": "Assim, Moisés executou a ordem do Senhor, distribuindo a terra conforme a lei, tanto as porções das tribos pelo acaso como as cidades reservadas para os levitas, e a assembleia de Israel tomou posse de suas terras sob a supervisão do líder.",
+      "referencias": [
+        "Josué 24:28",
+        "Atos 7:45"
+      ],
+      "comentario": "Este é o clímax administrativo. Moisés cumpre sua última grande tarefa de ordenação territorial antes da transição para Josué. A 'obediência' (aqui implícita) resulta na posse. O povo, finalmente, desfruta do resultado de décadas de jornada sob a liderança de Moisés.",
+      "temas": [
+        "Fidelidade de Moisés",
+        "Conclusão do Êxodo",
+        "Posse da Promessa"
+      ],
+      "personagens": [
+        "Moisés",
+        "Israel"
+      ]
     }
   }
 }

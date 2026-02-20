@@ -1,197 +1,473 @@
 {
   "livro": "Atos",
   "capitulo": 25,
-  "contexto_historico": "Após dois anos de prisão em Cesareia, Paulo finalmente tem seu caso reavaliado pelo novo governador, Pórcio Festo. Os líderes judeus de Jerusalém renovam suas acusações, tentando levar Paulo de volta a Jerusalém para uma emboscada. Para escapar da conspiração e da injustiça, Paulo usa seu direito como cidadão romano e apela para ter seu caso julgado diretamente pelo imperador em Roma. O capítulo termina com a visita do rei Agripa II e sua irmã Berenice, que se interessam pelo famoso prisioneiro.",
-  "bloco_tematico": "Paulo perante Festo e o Apelo a César",
+  "contexto_historico": "Paulo, após seu segundo e terceiro viagens missionárias e o tumulto em Jerusalém, encontra-se sob custódia romana. Este capítulo marca o início de sua defesa formal perante autoridades romanas, primeiro Herodes (embora não presente), depois Félix em Cesareia. É um momento crucial onde o Evangelho, que havia sido aceito por gentios e rejeitado por muitos judeus em várias cidades, precisa ser apresentado de forma sistemática e legal perante o poder imperial. O sumo sacerdote Ananias e os anciãos judeus, liderados pelo orador de destaque Tertulo, apresentam uma acusação formal e politicamente carregada contra Paulo, acusando-o de ser um agitador, um promotor de sedição entre os judeus em todo o mundo e um profanador do Templo. Este julgamento é uma demonstração da tensão contínua entre a comunidade judaica e a nova fé cristã sob a lei romana. ⏳⚖️",
+  "bloco_tematico": "A Defesa Legal de Paulo: Da Acusação de Tertulo à Audiência com Félix 🏛️🗣️",
   "versiculos": {
     "1": {
-      "parafrase": "Três dias depois de chegar à província, Festo subiu de Cesareia para Jerusalém.",
-      "referencias": [],
-      "comentario": "O novo governador, Pórcio Festo, assume o cargo e, como era de costume, faz uma visita à principal cidade de sua jurisdição, Jerusalém, para se encontrar com a liderança local.",
-      "temas": ["mudança de governo", "administração romana"],
-      "personagens": ["Festo"]
+      "parafrase": "Terminado este discurso, Paulo, tendo reunido os discípulos, fez uma despedida solene e cheia de afeto, exortando-os com veemência a permanecerem firmes na fé. Depois, partiu rumo à Macedônia, viajando através daquelas regiões, encorajando os irmãos que encontrava pelo caminho.",
+      "referencias": [
+        "Atos 20:36",
+        "Atos 21:6"
+      ],
+      "comentario": "O 'discurso' mencionado é o emocionado adeus aos anciãos de Éfeso (Atos 20:18-35). O verbo grego 'apophthesasthai' (despedir-se) carrega a ideia de um anúncio final ou uma declaração solene antes da partida. A jornada subsequente para a Macedônia (Filipos, Tessalônica) era um cumprimento do plano missionário.",
+      "temas": [
+        "Despedida",
+        "Encorajamento",
+        "Viagem Missionária"
+      ],
+      "personagens": [
+        "Paulo",
+        "Discípulos"
+      ]
     },
     "2": {
-      "parafrase": "Então os principais sacerdotes e os líderes dos judeus apresentaram-lhe as acusações contra Paulo e lhe pediram,",
-      "referencias": [],
-      "comentario": "Os inimigos de Paulo não perderam tempo. Eles imediatamente pressionam o novo governador, na esperança de que ele seja mais maleável que Félix.",
-      "temas": ["oposição persistente", "pressão política"],
-      "personagens": ["Principais sacerdotes", "Líderes dos judeus", "Festo", "Paulo"]
+      "parafrase": "Após percorrer aquelas terras e proferir muitas palavras de consolo e instrução aos crentes, ele finalmente chegou à Grécia, onde permaneceu por três meses.",
+      "referencias": [
+        "Gálatas 1:16",
+        "1 Coríntios 16:5"
+      ],
+      "comentario": "A Grécia aqui se refere especificamente à região da Acaia, tendo Corinto como sua principal base de operações durante este período. Os três meses foram intensos, provavelmente durante o inverno, momento em que ele escreveu a carta aos Romanos.",
+      "temas": [
+        "Estadia",
+        "Acaia",
+        "Missão de Ensino"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "3": {
-      "parafrase": "como um favor, que o transferisse para Jerusalém, pois estavam preparando uma emboscada para matá-lo no caminho.",
-      "referencias": ["Atos 23:12-15"],
-      "comentario": "Eles renovam a mesma conspiração de dois anos antes. O pedido para transferir Paulo para Jerusalém não era por justiça, mas uma desculpa para assassiná-lo em uma emboscada.",
-      "temas": ["conspiração", "engano", "plano de assassinato"],
-      "personagens": ["Paulo"]
+      "parafrase": "Enquanto estava se preparando para navegar para a Síria, uma conspiração sombria e traiçoeira foi tramada contra ele pelos judeus. Com isso em mente, ele decidiu mudar sua rota e retornar pela Macedônia.",
+      "referencias": [
+        "Atos 9:24",
+        "Romanos 15:25"
+      ],
+      "comentario": "A conspiração ('epiboulē' - estratagema maligno) era tão séria que Paulo abandonou seus planos originais de ir direto para a Síria (provavelmente Antioquia, seu porto de origem). Esta é uma das várias vezes em que o perigo judaico o forçou a mudar seus planos de viagem. Ele estava indo para a Síria para entregar a oferta de Jerusalém.",
+      "temas": [
+        "Perseguição",
+        "Conspiração",
+        "Mudança de Rota"
+      ],
+      "personagens": [
+        "Paulo",
+        "Judeus"
+      ]
     },
     "4": {
-      "parafrase": "Festo, porém, respondeu que Paulo estava detido em Cesareia e que ele mesmo partiria para lá em breve.",
-      "referencias": [],
-      "comentario": "Festo, talvez por conveniência ou por um senso de procedimento romano adequado, recusa o pedido. Ele insiste que o julgamento ocorra em Cesareia, a sede do governo romano.",
-      "temas": ["recusa do pedido", "procedimento legal"],
-      "personagens": ["Festo", "Paulo"]
+      "parafrase": "Ele foi acompanhado nessa viagem por alguns companheiros fiéis: Sópatro, filho de Pirro, oriundo de Beréia; Aristarco e Segundo, ambos da Tessalônica; Gaio, de Derbe; e Timóteo, além de Tíquico e Trófimo, que eram da província da Ásia.",
+      "referencias": [
+        "Atos 19:29",
+        "2 Timóteo 4:20"
+      ],
+      "comentario": "Esta lista detalhada serve como um registro importante das igrejas representadas na comitiva de Paulo. Sópatro de Beréia (ou possivelmente o Sopater mencionado em Romanos 16:21). Aristarco era um macedônio que já havia sido preso com Paulo antes (Atos 19:29).",
+      "temas": [
+        "Companheiros de Viagem",
+        "Representação das Igrejas",
+        "Missão Conjunta"
+      ],
+      "personagens": [
+        "Sópatro",
+        "Pirro",
+        "Aristarco",
+        "Segundo",
+        "Gaio",
+        "Timóteo",
+        "Tíquico",
+        "Trófimo"
+      ]
     },
     "5": {
-      "parafrase": "\"Portanto\", disse ele, \"que os seus líderes desçam comigo e, se houver algo de errado neste homem, que o acusem.\"",
-      "referencias": [],
-      "comentario": "Ele convida os líderes a apresentarem seu caso formalmente em seu tribunal em Cesareia.",
-      "temas": ["convite à acusação formal"],
-      "personagens": ["Festo"]
+      "parafrase": "Esses homens, que haviam partido primeiro, nos esperaram em Trôade, aguardando nossa chegada.",
+      "referencias": [
+        "Atos 16:8",
+        "2 Coríntios 2:13"
+      ],
+      "comentario": "Trôade era um ponto estratégico de embarque na Ásia Menor. O uso do pronome 'nós' (nossa chegada) indica que Lucas, o autor de Atos, juntou-se a Paulo neste ponto da jornada, marcando o início de um novo segmento da narrativa.",
+      "temas": [
+        "Trôade",
+        "Reunião do Grupo",
+        "Narrador (Lucas)"
+      ],
+      "personagens": [
+        "Paulo",
+        "Companheiros"
+      ]
     },
     "6": {
-      "parafrase": "Depois de passar não mais de oito ou dez dias com eles, desceu para Cesareia. No dia seguinte, sentou-se no tribunal e ordenou que Paulo fosse trazido.",
-      "referencias": [],
-      "comentario": "Festo age rapidamente. No dia seguinte ao seu retorno a Cesareia, ele abre o julgamento de Paulo.",
-      "temas": ["julgamento", "ação rápida"],
-      "personagens": ["Festo", "Paulo"]
+      "parafrase": "Nós, por nossa vez, partimos de Filipos após os Dias da Festa dos Pães Não Fermentados, navegando e chegando a Trôade cinco dias depois, onde nos reunimos com eles e passamos uma semana inteira conversando e instruindo.",
+      "referencias": [
+        "Êxodo 12:17",
+        "1 Coríntios 5:7"
+      ],
+      "comentario": "A Festa dos Pães Não Fermentados (Páscoa judaica) durava sete dias, e a partida em Filipos após essa festa indica que a viagem ocorreu na primavera. O período de sete dias em Trôade é crucial para o evento subsequente (o milagre de新たに).",
+      "temas": [
+        "Festa Judaica",
+        "Navegação",
+        "Permanência"
+      ],
+      "personagens": [
+        "Paulo",
+        "Discípulos"
+      ]
     },
     "7": {
-      "parafrase": "Quando ele chegou, os judeus que haviam descido de Jerusalém o rodearam, fazendo muitas e graves acusações que não podiam provar.",
-      "referencias": ["Atos 24:13"],
-      "comentario": "A cena se repete. Os acusadores fazem muitas acusações sérias, mas, como no julgamento perante Félix, eles não têm nenhuma evidência para substanciá-las.",
-      "temas": ["falsas acusações", "falta de provas"],
-      "personagens": ["Judeus", "Paulo"]
+      "parafrase": "No domingo, quando nos reunimos para o culto de comunhão, onde partiríamos no dia seguinte, Paulo aproveitou a oportunidade para fazer um longo e profundo sermão, pois pretendia viajar no dia seguinte.",
+      "referencias": [
+        "1 Coríntios 16:2",
+        "Atos 2:42"
+      ],
+      "comentario": "Este é o primeiro registro claro no Novo Testamento de uma reunião de cristãos no domingo (o primeiro dia da semana) para a 'fracionamento do pão' (refeição do Senhor/Ceia) e ensino. O ensino prolongado de Paulo, que se estendeu até a meia-noite, reflete a importância do momento da despedida.",
+      "temas": [
+        "Culto Dominical",
+        "Partilha do Pão",
+        "Ensino Apostólico"
+      ],
+      "personagens": [
+        "Paulo",
+        "Igreja em Trôade"
+      ]
     },
     "8": {
-      "parafrase": "Em sua defesa, Paulo disse: \"Não cometi nenhum crime contra a lei dos judeus, nem contra o Templo, nem contra César.\"",
-      "referencias": [],
-      "comentario": "A defesa de Paulo é concisa e abrangente. Ele se declara inocente em todas as três áreas de acusação: a lei religiosa judaica, a santidade do Templo e a lei política romana.",
-      "temas": ["defesa", "inocência"],
-      "personagens": ["Paulo", "César"]
+      "parafrase": "Havia muitas lamparinas acesas no aposento superior onde estávamos reunidos.",
+      "referencias": [
+        "Atos 1:13",
+        "Juízes 7:20"
+      ],
+      "comentario": "A menção das 'muitas lamparinas' (luchnoi pollaí) pode ser um detalhe atmosférico ou um indicativo prático: era um longo discurso (até tarde da noite) e a luz era necessária. O aposento superior era o lugar habitual para reuniões privadas ou de maior número.",
+      "temas": [
+        "Cenário",
+        "Reunião Noturna",
+        "Iluminação"
+      ],
+      "personagens": [
+        "Paulo",
+        "Ouvintes"
+      ]
     },
     "9": {
-      "parafrase": "Festo, porém, querendo agradar os judeus, perguntou a Paulo: \"Você quer subir a Jerusalém e ser julgado por mim lá a respeito destas coisas?\"",
-      "referencias": [],
-      "comentario": "Festo, assim como Félix, é motivado pelo desejo de agradar a elite judaica. Vendo que não há um caso real sob a lei romana, ele propõe uma mudança de local, sugerindo um julgamento em Jerusalém. Isso colocaria Paulo diretamente nas mãos de seus inimigos.",
-      "temas": ["conveniência política", "injustiça", "perigo"],
-      "personagens": ["Festo", "Judeus", "Paulo"]
+      "parafrase": "Um jovem chamado Eutico, que estava sentado no parapeito da janela, ficou sonolento com a longa pregação de Paulo. Dominado pelo sono profundo, ele caiu da terceira história e foi encontrado morto no chão.",
+      "referencias": [
+        "2 Reis 4:34",
+        "Lucas 10:30"
+      ],
+      "comentario": "Eutico (cujo nome significa 'boa sorte' ou 'afortunado') teve ironicamente uma experiência desastrosa. A queda do terceiro andar (que poderia ser o terceiro nível acima do térreo, ou seja, bem alto) resultou em morte aparente. O grego indica que ele estava 'caindo em sono profundo' (katapherein).",
+      "temas": [
+        "Milagre",
+        "Sono",
+        "Perigo de Morte"
+      ],
+      "personagens": [
+        "Eutico",
+        "Paulo"
+      ]
     },
     "10": {
-      "parafrase": "Paulo respondeu: \"Estou perante o tribunal de César, onde devo ser julgado. Não fiz mal algum aos judeus, como você mesmo sabe muito bem.\"",
-      "referencias": [],
-      "comentario": "Paulo recusa firmemente a proposta. Ele apela para seu direito como cidadão romano de ser julgado por um tribunal romano, não por um tribunal judaico influenciado pela política. Ele confronta Festo, afirmando que o próprio governador sabe de sua inocência.",
-      "temas": ["recusa firme", "direitos do cidadão romano", "confronto"],
-      "personagens": ["Paulo", "César"]
+      "parafrase": "Paulo desceu imediatamente, lançou-se sobre ele e, abraçando-o com ternura, disse aos presentes: 'Não se aflijam, pois a vida dele ainda está nele!'",
+      "referencias": [
+        "1 Reis 17:21",
+        "2 Reis 4:35"
+      ],
+      "comentario": "A ação de Paulo é um eco direto dos profetas Elias e Eliseu (em 1 Reis e 2 Reis). Ele se prostra sobre a vítima, um gesto de identificação e transferência de vida através do contato direto. A afirmação de que a vida ainda estava nele é feita com autoridade divina.",
+      "temas": [
+        "Ressurreição",
+        "Autoridade",
+        "Compaixão"
+      ],
+      "personagens": [
+        "Paulo",
+        "Eutico"
+      ]
     },
     "11": {
-      "parafrase": "\"Se, de fato, sou um criminoso e fiz algo que mereça a morte, não me recuso a morrer. Mas, se as acusações que estes homens fazem contra mim não são verdadeiras, ninguém pode me entregar a eles. Apelo para César!\"",
-      "referencias": [],
-      "comentario": "Este é o momento decisivo. Vendo que não obterá um julgamento justo nos tribunais provinciais, Paulo exerce seu direito supremo como cidadão romano: apelar para que seu caso seja ouvido pelo próprio imperador em Roma. Este ato legalmente obrigava Festo a parar o processo local e enviar Paulo a Roma.",
-      "temas": ["apelo a César", "exercício dos direitos", "busca por justiça"],
-      "personagens": ["Paulo", "César"]
+      "parafrase": "Então, Paulo voltou a subir, partiu o pão e comeu com eles, conversando ainda por um bom tempo, até o amanhecer, antes de finalmente se despedir e seguir seu caminho.",
+      "referencias": [
+        "Atos 2:46",
+        "Atos 10:41"
+      ],
+      "comentario": "Depois do milagre, a comunhão foi retomada, indicando que a crise foi resolvida e a normalidade, seguida de mais ensino, foi restaurada. O fato de continuarem a conversar até o amanhecer sublinha o desejo de ouvir Paulo.",
+      "temas": [
+        "Comunhão",
+        "Ensino Contínuo",
+        "Madrugada"
+      ],
+      "personagens": [
+        "Paulo",
+        "Igreja"
+      ]
     },
     "12": {
-      "parafrase": "Então Festo, depois de consultar seus conselheiros, declarou: \"Você apelou para César; para César irá!\"",
-      "referencias": [],
-      "comentario": "Após consultar seu conselho legal para confirmar o procedimento, Festo concede o apelo. A decisão está tomada: Paulo irá a Roma, cumprindo a promessa que o Senhor lhe havia feito.",
-      "temas": ["decisão legal", "cumprimento da promessa divina"],
-      "personagens": ["Festo", "César"]
+      "parafrase": "Os discípulos, por sua vez, levaram o jovem Eutico, que havia revivido, de volta para casa, e todos sentiram grande alívio e consolo com o que havia acontecido.",
+      "referencias": [
+        "Atos 15:3",
+        "Atos 21:17"
+      ],
+      "comentario": "O 'grande alívio e consolo' (paraklesis) é a reação emocional da comunidade à intervenção divina, confirmando a autenticidade do ministério de Paulo.",
+      "temas": [
+        "Consolo",
+        "Alívio Comunitário",
+        "Confirmação"
+      ],
+      "personagens": [
+        "Eutico",
+        "Discípulos"
+      ]
     },
     "13": {
-      "parafrase": "Passados alguns dias, o rei Agripa e Berenice chegaram a Cesareia para saudar Festo.",
-      "referencias": [],
-      "comentario": "Uma visita de estado ocorre. O rei Herodes Agripa II (bisneto de Herodes, o Grande) e sua irmã (e amante) Berenice chegam para fazer uma visita de cortesia ao novo governador. Agripa era a maior autoridade judaica na região, com poder sobre o Templo e a nomeação do sumo sacerdote.",
-      "temas": ["visita de estado", "contexto político"],
-      "personagens": ["Rei Agripa", "Berenice", "Festo"]
+      "parafrase": "Nós, no entanto, decidimos ir adiantados para o navio e navegar direto para Assos, que ficava um pouco mais ao sul. Queríamos que Paulo nos encontrasse lá, pois ele havia arranjado os detalhes para ir a pé, preferindo viajar por terra até aquele ponto.",
+      "referencias": [
+        "Atos 21:1",
+        "Filipenses 1:13"
+      ],
+      "comentario": "O grupo principal (provavelmente Lucas e outros) optou pelo mar, enquanto Paulo escolheu ir por terra (a pé) até Assos. Esta viagem terrestre permitiu-lhe visitar pessoas e igrejas em comunidades menores que o navio não alcançaria diretamente, demonstrando seu método de pastoreio pessoal.",
+      "temas": [
+        "Transporte Misto",
+        "Assos",
+        "Viagem Terrestre"
+      ],
+      "personagens": [
+        "Paulo",
+        "Companheiros"
+      ]
     },
     "14": {
-      "parafrase": "Como ficaram ali muitos dias, Festo expôs o caso de Paulo ao rei, dizendo: \"Há aqui um homem que Félix deixou como prisioneiro.\"",
-      "referencias": [],
-      "comentario": "Festo, talvez em um dilema sobre o que escrever em seu relatório a César sobre Paulo, aproveita a oportunidade para consultar Agripa, que era um especialista em questões judaicas.",
-      "temas": ["consulta política", "dilema"],
-      "personagens": ["Festo", "Paulo", "Rei Agripa", "Félix"]
+      "parafrase": "Quando nos alcançou em Assos, Paulo embarcou conosco no navio, e seguimos viagem juntos para Mitilene.",
+      "referencias": [
+        "Atos 27:2",
+        "Atos 28:1"
+      ],
+      "comentario": "Assos era um porto importante. A reunião deles ali mostra a coordenação logística do grupo missionário, garantindo que Paulo, apesar de sua rota alternativa, não ficasse para trás.",
+      "temas": [
+        "Reunião de Grupo",
+        "Mitilene",
+        "Viagem Marítima"
+      ],
+      "personagens": [
+        "Paulo",
+        "Companheiros"
+      ]
     },
     "15": {
-      "parafrase": "\"Quando estive em Jerusalém, os principais sacerdotes и os anciãos dos judeus apresentaram acusações contra ele, pedindo a sua condenação.\"",
-      "referencias": [],
-      "comentario": "Ele resume a visita dos líderes judeus e o pedido deles pela condenação de Paulo.",
-      "temas": ["resumo do caso"],
-      "personagens": []
+      "parafrase": "No dia seguinte, navegamos de Mitilene e paramos em Quios. No dia subsequente, aportamos em Samos, e um dia depois chegamos a Mileto.",
+      "referencias": [
+        "Atos 27:7",
+        "Isaías 41:14"
+      ],
+      "comentario": "Quios e Samos eram ilhas importantes no Mar Egeu, na rota comercial e estratégica para Éfeso. Esta rápida sucessão de paradas indica um desejo de Paulo de chegar o mais rápido possível ao seu destino principal, Mileto, que ficava perto de Éfeso.",
+      "temas": [
+        "Rota Marítima",
+        "Ilhas",
+        "Pressa"
+      ],
+      "personagens": [
+        "Paulo",
+        "Tripulação"
+      ]
     },
     "16": {
-      "parafrase": "\"Eu lhes respondi que não é costume dos romanos entregar um homem antes que o acusado tenha os seus acusadores face a face e tenha oportunidade de se defender da acusação.\"",
-      "referencias": [],
-      "comentario": "Festo se gaba de sua adesão à justiça romana, contrastando-a com o pedido dos judeus por uma condenação sumária.",
-      "temas": ["justiça romana", "autopromoção"],
-      "personagens": []
+      "parafrase": "Paulo havia decidido contornar Éfeso propositalmente, pois apressava-se para chegar a Jerusalém, se possível, no dia de Pentecostes.",
+      "referencias": [
+        "Atos 20:16",
+        "Atos 21:17"
+      ],
+      "comentario": "Esta é a informação crucial da viagem. Paulo evita Éfeso, a cidade onde havia passado três anos, para não se demorar. O desejo de chegar a Jerusalém para o Pentecostes (Shavuot) demonstra sua intenção de cumprir o ciclo de festas judaicas e provavelmente entregar a coleta destinada aos pobres da Judeia.",
+      "temas": [
+        "Pentecostes",
+        "Jerusalém",
+        "Objetivo Final"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "17": {
-      "parafrase": "\"Quando eles vieram para cá, não me demorei, mas, no dia seguinte, sentei-me no tribunal e ordenei que o homem fosse trazido.\"",
-      "referencias": [],
-      "comentario": "Ele enfatiza sua eficiência em lidar com o caso.",
-      "temas": ["eficiência"],
-      "personagens": []
+      "parafrase": "De Mileto, ele enviou mensageiros a Éfeso para convocar os líderes, os anciãos daquela igreja vibrante, para um encontro final.",
+      "referencias": [
+        "Atos 14:23",
+        "Tito 1:5"
+      ],
+      "comentario": "Ao enviar mensageiros em vez de ir pessoalmente, Paulo demonstra urgência sem ignorar o dever pastoral. A Igreja de Éfeso era extremamente importante, tendo sido o centro de seu ministério asiático.",
+      "temas": [
+        "Liderança Eclesiástica",
+        "Convocação",
+        "Dever Pastoral"
+      ],
+      "personagens": [
+        "Paulo",
+        "Anciãos de Éfeso"
+      ]
     },
     "18": {
-      "parafrase": "\"Quando os seus acusadores se levantaram, não o acusaram de nenhum dos crimes que eu suspeitava.\"",
-      "referencias": [],
-      "comentario": "Festo admite que esperava acusações de crimes políticos (como sedição), mas não foi isso que ouviu.",
-      "temas": ["expectativa vs. realidade"],
-      "personagens": []
+      "parafrase": "Quando eles chegaram a Mileto, Paulo lhes disse: 'Vocês conhecem bem como me portei entre vocês durante todo o tempo em que estive aqui, desde o primeiro dia em que cheguei à província da Ásia.'",
+      "referencias": [
+        "Atos 18:18",
+        "1 Tessalonicenses 2:10"
+      ],
+      "comentario": "Ele estabelece imediatamente a base de sua autoridade moral e ministerial: sua conduta transparente e testemunho público (bios - modo de vida).",
+      "temas": [
+        "Testemunho Pessoal",
+        "Conduta",
+        "Transparência"
+      ],
+      "personagens": [
+        "Paulo",
+        "Anciãos"
+      ]
     },
     "19": {
-      "parafrase": "\"Em vez disso, tinham contra ele alguns pontos de controvérsia sobre a sua própria religião e sobre um certo Jesus, que havia morrido e que Paulo afirmava estar vivo.\"",
-      "referencias": [],
-      "comentario": "Ele resume o caso para Agripa como uma disputa religiosa interna, cujo ponto central era a afirmação de Paulo sobre a ressurreição de Jesus. Para um romano, isso parecia uma questão obscura e irrelevante.",
-      "temas": ["disputa religiosa", "ressurreição de Jesus"],
-      "personagens": ["Jesus", "Paulo"]
+      "parafrase": "Servi ao Senhor com toda a humildade, servindo-o com muitas lágrimas, suportando as provações que os planos hostis dos judeus me trouxeram.",
+      "referencias": [
+        "Colossenses 3:12",
+        "2 Timóteo 2:24"
+      ],
+      "comentario": "A humildade (tapeinophroneō) contrasta com a arrogância dos falsos mestres que ele combatia. As lágrimas indicam o custo emocional e espiritual do ministério em meio à oposição.",
+      "temas": [
+        "Humildade",
+        "Sofrimento",
+        "Oposição Judaica"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "20": {
-      "parafrase": "\"Fiquei perplexo sobre como investigar tais assuntos e perguntei se ele queria ir a Jerusalém e ser julgado lá a respeito destas coisas.\"",
-      "referencias": [],
-      "comentario": "Festo se retrata como estando perplexo, omitindo que sua verdadeira motivação para sugerir a ida a Jerusalém era agradar os judeus.",
-      "temas": ["perplexidade fingida", "omissão"],
-      "personagens": []
+      "parafrase": "Jamais deixei de ensinar-lhes publicamente o que era essencial e também em suas casas, pregando a todos, sem cessar, sobre o arrependimento que leva a Deus e a fé que deve ser depositada em nosso Senhor Jesus.",
+      "referencias": [
+        "Atos 5:42",
+        "Atos 19:8"
+      ],
+      "comentario": "Aqui está o núcleo do seu evangelismo: a dupla necessidade do Kerygma (proclamação): 'Metanoia' (mudança de mente/arrependimento) e 'Pistis' (fé/confiança) em Cristo. O ensino foi exaustivo, cobrindo tanto o ambiente público quanto o privado.",
+      "temas": [
+        "Arrependimento",
+        "Fé em Cristo",
+        "Ensino Público e Privado"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "21": {
-      "parafrase": "\"Mas, tendo Paulo apelado para ser mantido sob a guarda do imperador para o seu julgamento, ordenei que ficasse detido até que eu pudesse enviá-lo a César.\"",
-      "referencias": [],
-      "comentario": "Ele explica o resultado do julgamento: o apelo de Paulo a César, que agora o obriga a enviar o prisioneiro a Roma.",
-      "temas": ["apelo a César", "obrigação legal"],
-      "personagens": ["Paulo", "Imperador", "César"]
+      "parafrase": "Eu admoestei tanto judeus quanto gentios sobre a necessidade urgente de se converterem a Deus por meio da fé em Jesus Cristo, nosso Senhor.",
+      "referencias": [
+        "Romanos 1:16",
+        "Atos 14:1"
+      ],
+      "comentario": "'Admoestar' (diemarturomēn) significa testemunhar enfaticamente, atestando a verdade. O ponto é a universalidade da mensagem: ela é para todos os grupos étnicos, sem distinção, unidos pelo arrependimento e fé.",
+      "temas": [
+        "Universalidade do Evangelho",
+        "Testemunho Enfático",
+        "Conversão"
+      ],
+      "personagens": [
+        "Paulo",
+        "Judeus",
+        "Gregos (Gentios)"
+      ]
     },
     "22": {
-      "parafrase": "Então Agripa disse a Festo: \"Eu também gostaria de ouvir esse homem.\" Festo respondeu: \"Amanhã o ouvirá.\"",
-      "referencias": [],
-      "comentario": "Agripa, que tinha um conhecimento e interesse em assuntos judaicos, fica curioso para ouvir Paulo pessoalmente. Festo aproveita a oportunidade, talvez esperando que Agripa pudesse ajudá-lo a formular as acusações para enviar a Roma.",
-      "temas": ["curiosidade", "oportunidade política"],
-      "personagens": ["Agripa", "Festo", "Paulo"]
+      "parafrase": "E agora, sendo impelido pelo Espírito Santo, devo ir para Jerusalém. Eu não sei exatamente o que me acontecerá lá, a não ser que enfrentarei prisões e sofrimentos terríveis, como o Espírito me revelou em todos os lugares.",
+      "referencias": [
+        "Atos 19:21",
+        "Romanos 15:30-31"
+      ],
+      "comentario": "Este versículo destaca a soberania do Espírito Santo ('Pneuma hagion edoxasmenos') direcionando a missão, mesmo sabendo que o destino era perigoso. Jerusalém era um ponto de não retorno, onde o sofrimento era profetizado.",
+      "temas": [
+        "Direção do Espírito Santo",
+        "Profecia de Sofrimento",
+        "Destino em Jerusalém"
+      ],
+      "personagens": [
+        "Paulo",
+        "Espírito Santo"
+      ]
     },
     "23": {
-      "parafrase": "No dia seguinte, Agripa e Berenice vieram com grande pompa e entraram na sala de audiências com os comandantes militares e os homens importantes da cidade. E, por ordem de Festo, Paulo foi trazido.",
-      "referencias": [],
-      "comentario": "A audiência é um evento de estado, marcado pela pompa e pela presença de toda a elite política e militar de Cesareia. Há um grande contraste entre a glória mundana de Agripa e Berenice e a aparência humilde de Paulo, o prisioneiro.",
-      "temas": ["pompa e circunstância", "contraste", "audiência de estado"],
-      "personagens": ["Agripa", "Berenice", "Festo", "Paulo"]
+      "parafrase": "A única coisa que sei é que, em cada cidade por onde passo, o Espírito Santo me adverte que ciladas, algemas e perseguições aguardam a minha chegada.",
+      "referencias": [
+        "Atos 21:11",
+        "Filipenses 3:10"
+      ],
+      "comentario": "A advertência é constante e multifacetada: 'cadeias' (desmos) e 'tribulações' (thlipsēis). Isso reforça a ideia de que a prisão é uma consequência esperada da fidelidade ao chamado em Jerusalém.",
+      "temas": [
+        "Avisos Proféticos",
+        "Prisão",
+        "Perseguição Constante"
+      ],
+      "personagens": [
+        "Paulo",
+        "Espírito Santo"
+      ]
     },
     "24": {
-      "parafrase": "Festo disse: \"Rei Agripa e todos os senhores aqui presentes conosco, vocês veem este homem. Toda a comunidade judaica, tanto em Jerusalém como aqui, tem feito petições a meu respeito, gritando que ele não deve mais viver.\"",
-      "referencias": [],
-      "comentario": "Festo abre a audiência, apresentando Paulo e resumindo a intensa oposição judaica contra ele.",
-      "temas": ["apresentação do caso"],
-      "personagens": ["Festo", "Rei Agripa", "Paulo"]
+      "parafrase": "No entanto, nada disso me preocupa ou me faz hesitar. Minha vida não tem valor para mim mesmo. O que realmente importa é completar a missão que o Senhor Jesus me confiou: proclamar a boa notícia da graça de Deus.",
+      "referencias": [
+        "Atos 21:13",
+        "2 Timóteo 4:7"
+      ],
+      "comentario": "Este é um dos pontos altos da teologia paulina sobre o serviço. A vida não é um fim em si mesma; ela é um veículo para o 'dromos' (corrida/jornada) apostólico. O foco é a proclamação da 'euangelion tēs charitos tou theou' (o evangelho da graça de Deus).",
+      "temas": [
+        "Vocação",
+        "Prioridade Ministerial",
+        "Graça de Deus"
+      ],
+      "personagens": [
+        "Paulo",
+        "Senhor Jesus"
+      ]
     },
     "25": {
-      "parafrase": "\"Eu, porém, descobri que ele não fez nada que mereça a morte. E, como ele mesmo apelou para o imperador, decidi enviá-lo.\"",
-      "referencias": [],
-      "comentario": "Festo declara publicamente sua própria conclusão de que Paulo é inocente de qualquer crime capital, mas explica que está obrigado a enviá-lo a Roma por causa do apelo.",
-      "temas": ["declaração de inocência", "apelo a César"],
-      "personagens": ["Festo", "Paulo", "Imperador"]
+      "parafrase": "E agora, eu sei que todos vocês, entre quem preguei o Reino de Deus, jamais me verão novamente. Vocês testemunharão meu rosto pela última vez.",
+      "referencias": [
+        "Atos 1:8",
+        "Atos 13:51"
+      ],
+      "comentario": "Esta é uma despedida final e definitiva para a igreja de Éfeso. O Reino de Deus (Basileia tou Theou) foi o tema central do seu ensino. A certeza da não volta acentua a seriedade da sua mensagem de exortação e admoestação.",
+      "temas": [
+        "Despedida Final",
+        "Reino de Deus",
+        "Não Retorno"
+      ],
+      "personagens": [
+        "Paulo",
+        "Anciãos de Éfeso"
+      ]
     },
     "26": {
-      "parafrase": "\"Mas não tenho nada de concreto para escrever ao meu senhor, o imperador. Por isso, o trouxe perante vocês, e especialmente perante ti, ó rei Agripa, para que, depois deste interrogatório, eu tenha alguma coisa para escrever.\"",
-      "referencias": [],
-      "comentario": "Festo admite seu dilema: ele precisa enviar um prisioneiro a Roma, mas não tem nenhuma acusação formal para colocar no relatório. Ele espera que esta audiência informal lhe dê material para o documento.",
-      "temas": ["dilema legal", "busca por uma acusação"],
-      "personagens": ["Festo", "Imperador", "Rei Agripa"]
+      "parafrase": "Depois de expor toda a situação, Agripa, meu caro rei, quero que saiba que o motivo pelo qual estou aqui contando tudo isso não é fruto de uma conspiração secreta ou de algum delírio místico isolado! Tudo o que aconteceu, desde a minha conversão, foi testemunhado publicamente. Eu não fiz nada nas sombras; pelo contrário, tudo se desenrolou à vista de todos, de forma tão aberta que até mesmo o próprio Félix, o governador anterior, tinha conhecimento dos fatos fundamentais dessa minha jornada e da minha fé. Não há nada de novo ou oculto nestas acusações; estou simplesmente sendo julgado por aquilo que é conhecido por muitos!",
+      "referencias": [
+        "Gálatas 1:16",
+        "1 Coríntios 9:1",
+        "Hebreus 12:1"
+      ],
+      "comentario": "Paulo se dirige a Agripa, estabelecendo a transparência de sua vida e ministério após a conversão. Ele enfatiza que sua pregação e os eventos subsequentes não foram secretos ('em segredo'). O termo grego usado implica que ele não falou em um canto oculto, mas sim abertamente. A menção de que Félix (o governador anterior) tinha conhecimento dos fatos serve para reforçar a falta de novidade ou surpresa nas acusações, pois o governador anterior já estava ciente da 'questão' de Paulo, provavelmente ligada à sua pregação sobre a ressurreição e a messianidade de Jesus. A transparência é uma tática legal e apologética crucial.",
+      "temas": [
+        "Transparência Apostólica",
+        "Apologia Pública",
+        "Conhecimento dos Oficiais Romanos"
+      ],
+      "personagens": [
+        "Paulo",
+        "Félix"
+      ]
     },
     "27": {
-      "parafrase": "\"Pois me parece irracional enviar um prisioneiro e não especificar as acusações contra ele.\"",
-      "referencias": [],
-      "comentario": "Ele reconhece o absurdo de sua situação, o que o faria parecer incompetente aos olhos do imperador. Isso prepara o palco para a defesa de Paulo perante o rei Agripa no próximo capítulo.",
-      "temas": ["irracionalidade", "procedimento legal"],
-      "personagens": []
+      "parafrase": "Mas, ó rei Agripa, eu sei que você conhece bem as Escrituras Hebraicas, a Palavra de Deus! Por isso, pergunto com toda a franqueza: você realmente crê que tudo o que foi profetizado sobre o Cristo, sobre o Ungido de Deus, poderia ter terminado sem que Ele ressurgisse dos mortos? Minha mensagem central não é invenção minha, mas a continuação lógica e inevitável de toda a revelação dada aos nossos pais!",
+      "referencias": [
+        "Salmos 16:10",
+        "Lucas 24:46",
+        "1 Pedro 1:11"
+      ],
+      "comentario": "Este é o ponto de virada retórico de Paulo. Ele transiciona da defesa factual para o desafio teológico direto. O uso da frase 'a ti te pergunto' (em grego, 'epistamai se' – 'eu sei que tu sabes') é um uso de *captatio benevolentiae* (capturando a boa vontade) misturado com *argumentum ad hominem* (argumento voltado à pessoa), pois ele elogia a erudição de Agripa. O cerne do argumento reside na crença na ressurreição do Messias. Para Paulo, a ressurreição de Jesus não é uma anomalia, mas o cumprimento necessário (o 'porquê') das profecias escritas sobre o Messias (o 'Christos', 'Ungido').",
+      "temas": [
+        "Cumprimento Profético",
+        "A Necessidade da Ressurreição",
+        "Autoridade das Escrituras"
+      ],
+      "personagens": [
+        "Paulo",
+        "Rei Agripa",
+        "O Cristo"
+      ]
     }
   }
 }

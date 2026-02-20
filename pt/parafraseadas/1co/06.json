@@ -1,148 +1,311 @@
 {
   "livro": "1 Coríntios",
   "capitulo": 6,
-  "contexto_historico": "Ver contexto anterior em 1 Coríntios 5. Paulo continua a tratar dos problemas de comportamento em Corinto. Ele se volta para a questão dos processos judiciais entre crentes, que estavam levando suas disputas internas para os tribunais pagãos, causando um mau testemunho. Em seguida, ele retoma o tema da imoralidade sexual, explicando a teologia do corpo cristão como templo do Espírito Santo e a importância da santidade.",
-  "bloco_tematico": "Processos Judiciais entre Crentes e a Santidade do Corpo",
+  "contexto_historico": "A comunidade cristã de Corinto enfrentava sérios problemas de desunião, imoralidade sexual, e disputas legais entre os membros. A igreja era marcada por divisões baseadas em preferências por diferentes líderes (Paulo, Apolo, Cefas) e pela falta de maturidade espiritual. O apóstolo Paulo escreve esta carta para corrigir práticas pecaminosas e ensinar sobre a santidade, a sabedoria divina e o uso correto dos dons espirituais, preparando-os para um viver que glorifique a Deus. Este capítulo específico aborda o escândalo de um crente mantendo um relacionamento incestuoso (ou, pelo menos, um relacionamento que violava as normas morais e legais da época) e a prática de levar disputas civis para tribunais pagãos em vez de resolvê-las internamente pela igreja.",
+  "bloco_tematico": "Justiça Eclesial e a Santidade do Corpo de Cristo ⚖️✨",
   "versiculos": {
     "1": {
-      "parafrase": "Quando um de vocês tem uma queixa contra outro, como se atreve a levá-la para ser julgada pelos injustos, em vez de pelos santos?",
-      "referencias": ["Mateus 18:15-17"],
-      "comentario": "Paulo expressa choque e indignação. Levar uma disputa entre irmãos para um tribunal secular (governado por 'injustos', ou seja, não crentes) era uma falha grave. A igreja (os 'santos') deveria ser o lugar para resolver seus próprios problemas.",
-      "temas": ["processos judiciais", "mau testemunho", "resolução de conflitos na igreja"],
-      "personagens": []
+      "parafrase": "Caríssimos irmãos, quando um de vocês tem um problema sério com outro, uma disputa que parece não ter fim, por que é que vocês correm para levar essa briga para ser julgada por pessoas que não são cristãs? Pessoas de fora da nossa fé, que não conhecem a sabedoria de Deus? Isso é um vexame profundo para a comunidade inteira! 😔",
+      "referencias": [
+        "Romanos 12:18",
+        "Mateus 5:9"
+      ],
+      "comentario": "Paulo expressa sua perplexidade (e reprovação) por os coríntios levarem disputas legais (litígios civis) perante tribunais seculares. O termo grego para 'santos' ou 'crentes' é 'hagioi'. O cerne da questão é a vergonha (atímia) que isso traz à Igreja e à mensagem do Evangelho perante o mundo descrente.",
+      "temas": [
+        "Conflito na Igreja",
+        "Julgamento Secular",
+        "Vergonha e Testemunho"
+      ],
+      "personagens": [
+        "Paulo",
+        "Coríntios"
+      ]
     },
     "2": {
-      "parafrase": "Vocês não sabem que os santos hão de julgar o mundo? E, se vocês hão de julgar o mundo, não são competentes para julgar as causas de menor importância?",
-      "referencias": ["Daniel 7:22", "Mateus 19:28", "Apocalipse 20:4"],
-      "comentario": "Paulo usa um argumento do maior para o menor. Ele lembra aos coríntios de sua posição escatológica exaltada: um dia, eles participarão do julgamento do mundo. Se eles têm essa competência futura, certamente deveriam ser capazes de resolver pequenas disputas terrenas agora.",
-      "temas": ["julgamento futuro pelos santos", "competência da igreja", "perspectiva escatológica"],
-      "personagens": []
+      "parafrase": "Vocês não sabem que os verdadeiros fiéis, aqueles que receberam o Espírito, um dia julgarão o próprio mundo? E se vocês estão destinados a julgar o mundo, não são totalmente capazes de resolver essas pequenas brigas internas entre vocês mesmos? Não têm sabedoria nem para isso? 🤔",
+      "referencias": [
+        "Mateus 19:28",
+        "Apocalipse 20:4"
+      ],
+      "comentario": "Este versículo usa uma hipérbole poderosa. Paulo lembra aos coríntios da sua futura autoridade escatológica (o julgamento dos anjos e do mundo). Se eles terão essa responsabilidade gloriosa, quão inadequado é que não consigam resolver conflitos mundanos e imediatos sobre bens materiais. A frase 'não sabem que... julgarão' enfatiza a cegueira deles em relação à sua própria identidade e potencial em Cristo.",
+      "temas": [
+        "Autoridade dos Santos",
+        "Julgamento Futuro",
+        "Sabedoria Espiritual vs. Mundana"
+      ],
+      "personagens": [
+        "Santos"
+      ]
     },
     "3": {
-      "parafrase": "Vocês não sabem que haveremos de julgar os anjos? Quanto mais as coisas desta vida!",
-      "referencias": [],
-      "comentario": "Ele eleva ainda mais o argumento. Se os crentes um dia julgarão até mesmo os anjos (provavelmente os anjos caídos), então as disputas financeiras e materiais desta vida são triviais em comparação.",
-      "temas": ["julgamento de anjos", "perspectiva celestial"],
-      "personagens": []
+      "parafrase": "Vocês nem sequer percebem que nós, os que estamos em Cristo, um dia seremos juízes até mesmo dos anjos? Quanto mais, então, deveríamos ser capazes de resolver questões triviais desta vida! Por que se expor a serem julgados por pessoas que, para nós, são meros 'zero à esquerda'?",
+      "referencias": [
+        "Judas 1:6",
+        "Hebreus 12:22"
+      ],
+      "comentario": "Paulo intensifica o argumento do versículo anterior, mencionando o julgamento dos anjos caídos (referência provavelmente a Satanás e seus demônios, ou a anjos que caíram em pecado, como sugerido em Judas). Ele usa a palavra grega 'elachiston' (a coisa menor ou mais insignificante) para descrever as disputas civis, contrastando-a com a magnitude do julgamento futuro.",
+      "temas": [
+        "Perspectiva Escatológica",
+        "Anjos",
+        "Valor das Questões Terrenas"
+      ],
+      "personagens": [
+        "Anjos"
+      ]
     },
     "4": {
-      "parafrase": "Portanto, se vocês têm que julgar as coisas desta vida, por que constituem como juízes aqueles que não têm nenhuma posição na igreja?",
-      "referencias": [],
-      "comentario": "É um absurdo, diz Paulo, levar suas disputas para juízes pagãos, que não têm nenhum status ou discernimento espiritual dentro da comunidade da fé.",
-      "temas": ["lógica", "discernimento espiritual"],
+      "parafrase": "Então, quando vocês têm disputas sobre coisas passageiras deste mundo, por que vocês escolhem pessoas de fora da comunidade, que não têm nenhum valor espiritual real para resolver isso? Vocês realmente preferem isso a ter alguém sábio entre nós? 😠",
+      "referencias": [
+        "Tiago 3:13",
+        "Filipenses 2:3"
+      ],
+      "comentario": "Aqui, Paulo critica diretamente a escolha dos árbitros seculares. Ele usa 'azētos' (sem valor, insignificantes) para descrever aqueles que não têm o Espírito. Ele questiona a prioridade deles: preferem a justiça falha do mundo à resolução comunitária e espiritual. A implicação é que a sabedoria de Cristo deveria superar qualquer entendimento legal secular.",
+      "temas": [
+        "Escolha de Juízes",
+        "Sabedoria de Cristo",
+        "Valor da Comunidade"
+      ],
       "personagens": []
     },
     "5": {
-      "parafrase": "Digo isso para envergonhá-los. Acaso não há entre vocês ninguém sábio o suficiente para julgar uma causa entre seus irmãos?",
-      "referencias": [],
-      "comentario": "Paulo usa a vergonha como uma ferramenta corretiva. Em uma igreja que se orgulhava de sua sabedoria, era uma vergonha que não houvesse uma única pessoa com discernimento suficiente para atuar como árbitro em uma disputa interna.",
-      "temas": ["vergonha", "sabedoria prática", "arbitragem"],
-      "personagens": []
+      "parafrase": "Estou dizendo isso para causar vergonha em vocês! Não há nem um único homem sensato entre vocês, alguém que consiga mediar um conflito entre irmãos? Não existe nem um mediador que possa sentar entre duas partes e trazer paz? 💔",
+      "referencias": [
+        "Gálatas 6:1",
+        "1 Tessalonicenses 5:14"
+      ],
+      "comentario": "Paulo expressa diretamente a intenção de causar 'entrepē' (vergonha, constrangimento). Ele apela para a existência de 'sophos' (sábio) dentro da igreja. A função de um mediador ('diatēssōn') era crucial para resolver disputas pacificamente em vez de recorrer à justiça formal. A falta dessa figura é um sintoma da imaturidade deles.",
+      "temas": [
+        "Vergonha Construtiva",
+        "Mediação",
+        "Imaturidade Espiritual"
+      ],
+      "personagens": [
+        "Mediador"
+      ]
     },
     "6": {
-      "parafrase": "Mas, em vez disso, um irmão vai a juízo contra outro irmão — e isso perante os descrentes!",
-      "referencias": [],
-      "comentario": "Ele resume o comportamento chocante deles, que era uma dupla falha: um irmão processando outro, e fazendo isso publicamente diante do mundo incrédulo, manchando o testemunho de Cristo.",
-      "temas": ["mau testemunho", "conflito interno"],
-      "personagens": []
+      "parafrase": "Em vez disso, o que acontece? Um irmão processa outro irmão! E ainda por cima, ele leva o caso perante incrédulos! É um ciclo vicioso de briga! ⚖️",
+      "referencias": [
+        "Tiago 4:1-2",
+        "Miquéias 6:10-12"
+      ],
+      "comentario": "Paulo descreve a realidade: o litígio direto entre crentes ('adelphos kratei adelphou'). Ele reforça o erro fundamental do versículo 1, sublinhando que o litígio judicial não é apenas um ato individual, mas um escândalo comunitário que se desenrola perante 'apistous' (os incrédulos).",
+      "temas": [
+        "Litígio entre Irmãos",
+        "Incredulidade",
+        "Ciclo de Conflito"
+      ],
+      "personagens": [
+        "Irmão (Litigante 1)",
+        "Irmão (Litigante 2)"
+      ]
     },
     "7": {
-      "parafrase": "O próprio fato de haver processos judiciais entre vocês já significa uma completa derrota. Por que não preferem sofrer a injustiça? Por que não preferem ser defraudados?",
-      "referencias": ["Mateus 5:39-40"],
-      "comentario": "Paulo vai à raiz do problema. A questão não é quem ganha ou perde o processo; o simples fato de existirem tais processos já é uma derrota espiritual para a igreja. Ele sugere um caminho radicalmente cristão: seria melhor sofrer a perda material do que prejudicar o testemunho do evangelho e a unidade da igreja.",
-      "temas": ["derrota espiritual", "sofrer a injustiça", "abnegação"],
+      "parafrase": "Francamente, o fato de vocês estarem entrando com ações judiciais uns contra os outros já é uma derrota para vocês! Por que não aceitam ser lesados? Por que não aceitam ser roubados? Isso seria muito melhor do que a tragédia de tentar resolver a injustiça através do sistema legal pagão! 😥",
+      "referencias": [
+        "Mateus 5:40",
+        "Lucas 6:29"
+      ],
+      "comentario": "Este é um dos pontos mais difíceis para a igreja. Paulo sugere que é preferível sofrer a injustiça (ser 'adikatēma' – lesado/enganado) ou ser 'aposterēthēte' (privado de algo) do que manchar a testemunha da igreja buscando reparação em tribunais seculares. A prioridade é a harmonia e o testemunho, não a recuperação financeira a qualquer custo.",
+      "temas": [
+        "Preferir ser Lesado",
+        "Justiça de Cristo vs. Lei Humana",
+        "Sacrifício Pessoal"
+      ],
       "personagens": []
     },
     "8": {
-      "parafrase": "Mas, em vez disso, vocês mesmos cometem injustiça e defraudam, e isso contra os seus próprios irmãos!",
-      "referencias": [],
-      "comentario": "Pior do que não estarem dispostos a sofrer a injustiça, eles mesmos estavam se tornando os agentes da injustiça, prejudicando seus próprios irmãos em Cristo por ganho material.",
-      "temas": ["injustiça na igreja", "ganância"],
+      "parafrase": "Mas não! Vocês, na verdade, são os que cometem a injustiça e os que roubam! E os lesados são justamente seus próprios irmãos na fé! Que inversão cruel de papéis! Vocês já perceberam a profundidade da sua falha moral? 😡",
+      "referencias": [
+        "Provérbios 22:22",
+        "Romanos 13:8"
+      ],
+      "comentario": "Paulo expõe a hipocrisia: aqueles que alegavam ser as vítimas ao buscar o tribunal secular eram, ironicamente, os verdadeiros perpetradores da injustiça ('adikountes' – praticando o mal) contra seus irmãos. A frase 'roubais' ('aposteiresthe') intensifica a acusação de apropriação indevida de bens alheios.",
+      "temas": [
+        "Hipocrisia",
+        "Injustiça Interna",
+        "Acusação Direta"
+      ],
       "personagens": []
     },
     "9": {
-      "parafrase": "Vocês não sabem que os injustos não herdarão o Reino de Deus? Não se enganem: nem os imorais, nem os idólatras, nem os adúlteros, nem os homens que se entregam a práticas homossexuais,",
-      "referencias": ["Gálatas 5:19-21", "Efésios 5:5"],
-      "comentario": "A menção da injustiça leva Paulo a uma advertência solene. Ele lista vários tipos de pecadores impenitentes para deixar claro que um estilo de vida caracterizado pela injustiça e imoralidade é incompatível com a salvação e a herança do Reino de Deus.",
-      "temas": ["advertência", "herança do Reino", "lista de vícios", "santidade"],
-      "personagens": ["Deus"]
+      "parafrase": "Vocês estão completamente equivocados sobre o que é importante! Entendam bem: aqueles que agem assim – os injustos, os corruptos – não terão parte no Reino de Deus, na herança eterna! Fiquem alertas! 🛑",
+      "referencias": [
+        "Efésios 5:5",
+        "Colossenses 3:5"
+      ],
+      "comentario": "O tom se torna severo. Paulo lista uma série de pecados que excluem da 'basileia tou theou' (reino de Deus). A lista começa com os enganadores/injustos ('adikoi'). É um chamado urgente ao arrependimento, pois a prática contínua desses vícios é incompatível com a cidadania celestial.",
+      "temas": [
+        "Exclusão do Reino",
+        "Arrependimento",
+        "Lista de Pecados"
+      ],
+      "personagens": []
     },
     "10": {
-      "parafrase": "nem os ladrões, nem os avarentos, nem os bêbados, nem os caluniadores, nem os vigaristas herdarão o Reino de Deus.",
-      "referencias": [],
-      "comentario": "A lista continua, cobrindo uma gama de pecados que destroem o relacionamento com Deus e com o próximo.",
-      "temas": ["lista de vícios", "santidade", "Reino de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Isso inclui os ladrões, os gananciosos, os viciados em bebida que perdem o controle, os difamadores que destroem a reputação alheia, e todos aqueles que vivem explorando os outros para enriquecer! Nada disso tem lugar com Deus! 🙅‍♂️",
+      "referencias": [
+        "1 Timóteo 6:10",
+        "Romanos 1:29-31"
+      ],
+      "comentario": "A lista de vícios continua, focando em comportamentos ligados à ganância e à desonestidade. 'Pleonēktas' (gananciosos, ávidos por mais) é o oposto do contentamento ensinado no Novo Testamento. 'Methesoi' (bêbados) são incluídos, mostrando que o vício era um problema social na comunidade.",
+      "temas": [
+        "Ganância",
+        "Vício",
+        "Exploração"
+      ],
+      "personagens": []
     },
     "11": {
-      "parafrase": "Assim foram alguns de vocês. Mas vocês foram lavados, foram santificados, foram justificados no nome do Senhor Jesus Cristo e pelo Espírito de nosso Deus.",
-      "referencias": ["Tito 3:3-7"],
-      "comentario": "Esta é a virada gloriosa. Paulo lembra aos coríntios que seu passado estava marcado por esses pecados, mas sua identidade mudou completamente. Ele descreve a salvação em três aspectos: foram lavados (purificados), santificados (separados para Deus) e justificados (declarados justos). Tudo isso foi realizado pelo poder de Jesus e do Espírito Santo.",
-      "temas": ["identidade passada vs. presente", "transformação", "lavagem", "santificação", "justificação"],
-      "personagens": ["Senhor Jesus Cristo", "Espírito de nosso Deus"]
+      "parafrase": "Mas olhem para o que vocês eram antes! Alguns de vocês, sim, eram assim! Viviam nessas práticas vergonhosas. No entanto, vocês foram lavados, purificados, e declarados justos perante Deus, tudo isso em nome do Senhor Jesus Cristo e pelo Espírito do nosso Deus! Que transformação maravilhosa! ✨",
+      "referencias": [
+        "Tito 3:5",
+        "Atos 2:38"
+      ],
+      "comentario": "Este versículo serve como um poderoso contraste e um lembrete da graça. Paulo usa três termos cruciais da soteriologia: 'apeluomen' (lavados, purificados), 'hēgiasthēte' (santificados, separados para Deus) e 'edikaiōthēte' (justificados, declarados justos). O agente dessa transformação tripla é o Espírito Santo, através do nome de Jesus.",
+      "temas": [
+        "Justificação",
+        "Santificação",
+        "Poder do Evangelho"
+      ],
+      "personagens": [
+        "Jesus Cristo",
+        "Espírito Santo"
+      ]
     },
     "12": {
-      "parafrase": "\"Tudo me é permitido\", mas nem tudo convém. \"Tudo me é permitido\", mas não me deixarei dominar por nada.",
-      "referencias": ["1 Coríntios 10:23"],
-      "comentario": "Paulo cita um slogan que provavelmente estava sendo usado pelos coríntios para justificar seu comportamento licencioso. Ele concorda com o princípio da liberdade cristã, mas o qualifica com dois critérios: 1) A liberdade deve ser benéfica e edificante (nem tudo convém). 2) A liberdade não deve se tornar uma nova forma de escravidão (não me deixarei dominar).",
-      "temas": ["liberdade cristã", "conveniência", "domínio próprio", "escravidão"],
+      "parafrase": "Todas as coisas me são lícitas, sim, eu posso fazer tudo que for permitido! Mas nem tudo que é permitido me convém, ou seja, me traz benefício real. E eu jamais permitirei que qualquer coisa me domine ou me escravize. ⛓️",
+      "referencias": [
+        "Gálatas 5:1",
+        "Romanos 14:19"
+      ],
+      "comentario": "Paulo introduz a famosa máxima: 'Panta moi sylela' (Todas as coisas são lícitas para mim). Esta é a base da liberdade cristã, mas é imediatamente qualificada. 'Sympherei' (convém, traz benefício) é o critério ético. A escravidão ('deespoteō' – exercer total domínio sobre mim) é o perigo oposto à liberdade em Cristo.",
+      "temas": [
+        "Liberdade Cristã",
+        "Autodomínio",
+        "O que é Conveniente"
+      ],
       "personagens": []
     },
     "13": {
-      "parafrase": "\"Os alimentos são para o estômago, e o estômago, para os alimentos\", mas Deus destruirá ambos. O corpo, porém, não é para a imoralidade sexual, mas para o Senhor, e o Senhor, para o corpo.",
-      "referencias": [],
-      "comentario": "Ele cita outro possível slogan coríntio, que tratava o corpo e seus apetites como moralmente neutros e temporários. Paulo refuta isso. O corpo não é como o estômago; ele tem um propósito sagrado. Ele foi criado para ter um relacionamento com o Senhor, e o Senhor tem um interesse redentor no corpo.",
-      "temas": ["propósito do corpo", "senhorio de Cristo sobre o corpo", "contra a imoralidade"],
-      "personagens": ["Deus", "Senhor"]
+      "parafrase": "Vocês dizem: 'A comida é para o estômago, e o estômago é para a comida.' Sim, isso é verdade, e Deus destruirá ambos em breve! Portanto, vocês não devem basear sua conduta moral apenas nessa lógica materialista de 'uso e descarte'. 🍎",
+      "referencias": [
+        "Romanos 14:2-3",
+        "Colossenses 2:21-22"
+      ],
+      "comentario": "Paulo refuta o argumento hedonista ou materialista dos coríntios, que provavelmente usavam essa frase para justificar qualquer prática sexual ou alimentar imoral (dada a menção subsequente do corpo). O corpo e a comida são temporários; Deus os anulará ou transformará na ressurreição. A licitude prática deve ser julgada pela sua utilidade espiritual, não pela sua função biológica.",
+      "temas": [
+        "Hedonismo",
+        "Temporalidade do Corpo",
+        "Propósito da Alimentação/Corpo"
+      ],
+      "personagens": []
     },
     "14": {
-      "parafrase": "E Deus, que ressuscitou o Senhor, também nos ressuscitará a nós pelo seu poder.",
-      "referencias": ["Romanos 8:11"],
-      "comentario": "A importância do corpo é sublinhada pelo fato de que ele será ressuscitado, assim como o corpo de Cristo foi. Nossos corpos físicos têm um destino eterno, o que lhes confere grande dignidade e significado.",
-      "temas": ["ressurreição do corpo", "poder de Deus", "dignidade do corpo"],
-      "personagens": ["Deus", "Senhor"]
+      "parafrase": "Mas nós, que fomos ressuscitados, devemos ter uma visão diferente! Deus nos levantou dentre os mortos, e Ele também levantará nossos corpos pela Sua força poderosa! Não vivam como se a morte fosse o fim! 💥",
+      "referencias": [
+        "Romanos 8:11",
+        "Filipenses 3:21"
+      ],
+      "comentario": "O argumento muda do corpo físico para a esperança da ressurreição glorificada. 'Egeiren' (levantou) refere-se à ressurreição de Cristo, que serve de garantia para a ressurreição futura dos crentes. A 'dynamis' (poder) de Deus é a mesma força que ressuscitou a Cristo e que deve moldar a conduta presente.",
+      "temas": [
+        "Ressurreição",
+        "Poder de Deus",
+        "Esperança Futura"
+      ],
+      "personagens": []
     },
     "15": {
-      "parafrase": "Vocês não sabem que os seus corpos são membros de Cristo? Tomarei eu, então, os membros de Cristo e os unirei a uma prostituta? De maneira nenhuma!",
-      "referencias": ["Romanos 12:5"],
-      "comentario": "Paulo apresenta uma verdade chocante. Nossos corpos individuais são membros do corpo de Cristo. Usar o corpo para a imoralidade sexual é, portanto, pegar um membro que pertence a Cristo e uni-lo a uma prostituta, um ato de profanação e traição.",
-      "temas": ["corpo como membro de Cristo", "união com Cristo", "sacrilégio", "pecado sexual"],
-      "personagens": ["Cristo"]
+      "parafrase": "Vocês não percebem que seus corpos são como membros de Cristo? Jamais deveriam unir partes de Cristo a algo imoral, como unir membros a uma prostituta! Isso é um absurdo! 🚫",
+      "referencias": [
+        "Romanos 12:4-5",
+        "Efésios 4:12"
+      ],
+      "comentario": "Este versículo faz a ponte com o tema da imoralidade sexual. Paulo introduz a doutrina do 'Corpo de Cristo' (o corpo místico da Igreja), mas aplica-a ao corpo físico individual. A união sexual com uma prostituta ('pornos') é apresentada como uma 'união' com Cristo através de um ato de profanação, dada a unidade espiritual que já existe.",
+      "temas": [
+        "Corpo de Cristo",
+        "Imoralidade Sexual",
+        "Profanação"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "16": {
-      "parafrase": "Ou vocês não sabem que aquele que se une a uma prostituta se torna um só corpo com ela? Pois, como está escrito: \"Os dois se tornarão uma só carne.\"",
-      "referencias": ["Gênesis 2:24"],
-      "comentario": "Ele cita Gênesis para mostrar que a união sexual cria um vínculo profundo, uma união de 'uma só carne'. A união sexual com uma prostituta cria uma união profana que é incompatível com a união sagrada do crente com Cristo.",
-      "temas": ["união de uma só carne", "natureza da união sexual"],
+      "parafrase": "Ou será que vocês não sabem o que dizem as Escrituras sobre isso? Quem se une a alguém que vive em libertinagem se torna um só corpo com essa pessoa. É essa união que vocês procuram ter fora da nossa comunidade? 🤮",
+      "referencias": [
+        "Gênesis 2:24",
+        "Mateus 19:5"
+      ],
+      "comentario": "Paulo volta às Escrituras (provavelmente Gênesis) para fundamentar que a união sexual cria uma unidade corporal ('hen sōma'). Ao se envolverem em promiscuidade, eles estavam criando uma união profana que contradizia a união sagrada que já possuíam em Cristo. O ato sexual é visto como constitutivo de uma identidade de corpo único.",
+      "temas": [
+        "Unidade Sexual",
+        "Referência Escriturística",
+        "Promiscuidade"
+      ],
       "personagens": []
     },
     "17": {
-      "parafrase": "Mas aquele que se une ao Senhor é um só espírito com ele.",
-      "referencias": ["João 17:21-23"],
-      "comentario": "Em contraste com a união carnal, a união do crente com o Senhor é uma união espiritual, a mais profunda e íntima possível.",
-      "temas": ["união com o Senhor", "união espiritual"],
-      "personagens": ["Senhor"]
+      "parafrase": "Mas quem se une ao Senhor, meu caro irmão, torna-se um só espírito com Ele! Essa é a união mais alta e sagrada que existe! 💖",
+      "referencias": [
+        "João 17:21",
+        "Filipenses 1:27"
+      ],
+      "comentario": "O contraste é absoluto. Se a união sexual ilícita cria um corpo com um pecador, a união com Cristo cria uma unidade de espírito ('hen pneuma'). Esta é a identidade primordial e eterna que deve reger todas as decisões do crente, superando qualquer tentação carnal ou lógica mundana.",
+      "temas": [
+        "Unidade Espiritual com Cristo",
+        "Identidade Primordial",
+        "Santidade"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "18": {
-      "parafrase": "Fujam da imoralidade sexual. Todos os outros pecados que um homem comete são fora do corpo, mas quem peca sexualmente, peca contra o seu próprio corpo.",
-      "referencias": [],
-      "comentario": "A ordem é fugir, não flertar com a tentação. Paulo argumenta que o pecado sexual é único em sua destrutividade, pois é um pecado contra o próprio corpo de uma forma que outros pecados não são, violando sua santidade e propósito dados por Deus.",
-      "temas": ["fugir da imoralidade", "singularidade do pecado sexual", "pecado contra o corpo"],
+      "parafrase": "Fujam da imoralidade sexual! Todo outro pecado que uma pessoa comete está fora do corpo, mas o libertino é aquele que peca contra o seu próprio corpo, violando o templo que Deus lhe deu! 🏃‍♂️💨",
+      "referencias": [
+        "2 Timóteo 2:22",
+        "Provérbios 7:27"
+      ],
+      "comentario": "Este é o clímax da argumentação sobre o corpo. Paulo faz uma distinção crucial: a maioria dos pecados afeta a relação com os outros ou com Deus, mas a 'porneia' (imoralidade sexual) é um pecado 'ektos tou somatos' (fora do corpo) no sentido de não degradar o corpo de forma tão intrínseca quanto o ato sexual. O libertino 'hamartanei tou idiou somatos' (peca contra o seu próprio corpo), que é o santuário do Espírito Santo.",
+      "temas": [
+        "Fuga da Imoralidade Sexual",
+        "O Corpo como Templo",
+        "Natureza Única do Pecado Sexual"
+      ],
       "personagens": []
     },
     "19": {
-      "parafrase": "Ou vocês não sabem que o seu corpo é o templo do Espírito Santo, que habita em vocês, o qual lhes foi dado por Deus, e que vocês não são de si mesmos?",
-      "referencias": ["1 Coríntios 3:16"],
-      "comentario": "Paulo eleva o argumento. O corpo do crente não é apenas um membro de Cristo, mas é individualmente o templo, a morada sagrada do Espírito Santo. Isso nos leva à conclusão de que não somos nossos próprios donos.",
-      "temas": ["corpo como templo do Espírito Santo", "habitação do Espírito", "não pertencemos a nós mesmos"],
-      "personagens": ["Espírito Santo", "Deus"]
+      "parafrase": "Ou será que vocês não entendem que o corpo de vocês, cada um individualmente, não pertence mais a vocês? Ele se tornou um templo sagrado, uma morada habitada pelo Espírito Santo de Deus, que vocês receberam como um presente? 🏛️",
+      "referencias": [
+        "Efésios 2:21-22",
+        "2 Coríntios 6:16"
+      ],
+      "comentario": "A metáfora do templo ('naos') é central aqui. O corpo do crente é o 'naos tou en autō Pneumatos hagiou' (o templo do Espírito Santo que está em vocês). O termo 'próprio' enfatiza a alienação da posse pessoal; o corpo agora está sob a soberania de Deus. Isso eleva a santidade corporal a um nível doutrinário fundamental.",
+      "temas": [
+        "Corpo como Templo",
+        "Posse de Deus",
+        "Presença do Espírito Santo"
+      ],
+      "personagens": [
+        "Espírito Santo"
+      ]
     },
     "20": {
-      "parafrase": "Pois vocês foram comprados por um alto preço. Portanto, glorifiquem a Deus com o seu corpo.",
-      "referencias": ["1 Pedro 1:18-19", "Apocalipse 5:9"],
-      "comentario": "Fomos comprados e libertados da escravidão do pecado pelo preço inestimável do sangue de Cristo. Como não nos pertencemos mais, nossa obrigação e nosso privilégio são usar nossos corpos para honrar e glorificar a Deus, nosso verdadeiro Dono.",
-      "temas": ["comprados por um preço", "redenção", "glorificar a Deus com o corpo", "propósito da vida"],
-      "personagens": ["Deus"]
+      "parafrase": "Vocês foram comprados por um preço altíssimo! O resgate foi pago! Portanto, usem seus corpos e vivam de maneira que glorifique a Deus em tudo, pois vocês não são mais donos de si mesmos! Tudo pertence a Ele! 💰👑",
+      "referencias": [
+        "1 Pedro 1:18-19",
+        "Romanos 12:1"
+      ],
+      "comentario": "O versículo final resume a motivação para a santidade. O preço da compra ('agorastēte' – foram comprados em mercado) refere-se ao sacrifício de Cristo. Essa redenção exige uma entrega total ('doxazate de ton theon tois somasin humōn' – glorificai a Deus em vossos corpos), oferecendo o corpo como um sacrifício vivo, como Paulo instruirá em Romanos 12.",
+      "temas": [
+        "Redenção",
+        "Glorificação de Deus",
+        "Sacrifício Vivo"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     }
   }
 }

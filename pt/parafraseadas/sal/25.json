@@ -1,162 +1,371 @@
 {
   "livro": "Salmos",
   "capitulo": 25,
-  "contexto_historico": "Este salmo é um lamento e uma oração de Davi, onde ele clama a Deus por orientação, perdão e proteção contra seus inimigos. Ele expressa sua dependência da misericórdia e da fidelidade de Deus, reconhecendo sua própria fraqueza e a necessidade de ser guiado nos caminhos da justiça. É um salmo acróstico (ou quase acróstico), onde cada versículo (ou grupo de versículos) começa com uma letra sucessiva do alfabeto hebraico, o que pode ter servido como um auxílio mnemônico.",
-  "bloco_tematico": "Oração por Orientação, Perdão e Proteção Divina",
+  "contexto_historico": "O Salmo 25 é um acróstico alfabético (letra por letra, faltando o Vav e Tsadi), o que sugere uma composição literária cuidadosa, possivelmente para fins mnemônicos ou litúrgicos. É uma oração individual de súplica, onde o salmista se encontra em uma situação de perigo, aflição e talvez confusão, clamando por direção, perdão e livramento. Não há referências históricas específicas, mas reflete a experiência comum do justo que sofre e busca a intervenção de Deus em tempos de oposição e erro (pessoal ou coletivo). A estrutura reflete uma transição da confissão dos pecados e do pedido de perdão para a confiança na bondade e guia de Deus. 🥺🙏",
+  "bloco_tematico": "Um Cântico de Súplica e Confiança: Pedido de Guia, Perdão e Livramento do Oprimido. 🧭🛡️",
   "versiculos": {
     "1": {
-      "parafrase": "A ti, Senhor, elevo a minha alma.",
-      "referencias": [],
-      "comentario": "Davi começa o salmo elevando sua alma a Deus, expressando sua total dependência e confiança Nele. É um gesto de entrega e súplica.",
-      "temas": ["súplica", "confiança em Deus", "entrega"],
-      "personagens": ["Davi"]
+      "parafrase": "Ó meu Deus, em Ti deposito toda a minha confiança e esperança, pois és o meu refúgio seguro. Não permitas que eu seja envergonhado ou que meus inimigos triunfem sobre mim, rindo da minha fé ou da minha aparente fraqueza.",
+      "referencias": [
+        "Salmos 31:1",
+        "Isaías 49:23"
+      ],
+      "comentario": "O salmista inicia com uma súplica de confiança (חָשַׁעְתִּי - hash'ati, 'confiei'). A vergonha (בּוּשׁ - bush) não é meramente constrangimento social, mas a humilhação de ter a fé invalidada pela derrota ou sofrimento. É um clamor pela vindicação divina.",
+      "temas": [
+        "Confiança",
+        "Súplica",
+        "Proteção Divina"
+      ],
+      "personagens": [
+        "Salmista"
+      ]
     },
     "2": {
-      "parafrase": "Em ti confio, ó meu Deus; não me deixes envergonhado, nem permitas que meus inimigos triunfem sobre mim.",
-      "referencias": [],
-      "comentario": "Davi expressa sua confiança em Deus e pede que Ele o livre da vergonha e do triunfo de seus inimigos. A vergonha seria um sinal de que Deus o abandonou.",
-      "temas": ["confiança em Deus", "vergonha", "vitória do inimigo", "proteção"],
-      "personagens": ["Davi"]
+      "parafrase": "Guia-me pelo caminho da justiça e da verdade, Senhor. Faz com que eu ande sempre sob o teu olhar vigilante, para que eu não caia nas armadilhas que meus adversários, traiçoeiros e astutos, prepararam secretamente contra mim.",
+      "referencias": [
+        "Salmos 23:3",
+        "Provérbios 3:5-6"
+      ],
+      "comentario": "O pedido central é pela direção reta (נְחֵהוּ - nechehu, 'guia-o'). O caminho reto é pavimentado pela justiça (צֶדֶק - tzedek) e pela fidelidade/verdade (אֱמֶת - emet). A referência à astúcia dos inimigos evoca o tema da conspiração oculta.",
+      "temas": [
+        "Direção",
+        "Justiça",
+        "Astúcia dos Inimigos"
+      ],
+      "personagens": [
+        "Salmista"
+      ]
     },
     "3": {
-      "parafrase": "Nenhum dos que esperam em ti será envergonhado; envergonhados serão aqueles que agem traiçoeiramente sem causa.",
-      "referencias": [],
-      "comentario": "Davi afirma a verdade de que Deus não envergonha aqueles que Nele confiam, mas que a vergonha recairá sobre os traidores e injustos. Isso é uma declaração de fé na justiça divina.",
-      "temas": ["justiça divina", "confiança em Deus", "vergonha", "traição"],
-      "personagens": ["Davi"]
+      "parafrase": "Pelo amor e pelo teu nome grandioso, seja minha fortaleza. Escuta-me com urgência, retira-me deste perigo, pois tu és a minha rocha firme e o meu castelo inexpugnável. Age em meu favor, por causa da tua própria glória.",
+      "referencias": [
+        "Salmos 18:2",
+        "Salmos 61:2"
+      ],
+      "comentario": "O apelo muda para a misericórdia baseada no caráter de Deus (לְמַעַן שְׁמָךְ - lema'an sh'makh, 'por causa do teu nome'). Deus age não apenas por mérito do suplicante, mas para honrar Sua própria reputação como Salvador.",
+      "temas": [
+        "Misericórdia",
+        "Fidelidade ao Nome",
+        "Refúgio"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "4": {
-      "parafrase": "Mostra-me os teus caminhos, Senhor; ensina-me as tuas veredas.",
-      "referencias": [],
-      "comentario": "Davi clama a Deus por orientação e ensino, reconhecendo sua necessidade de ser guiado nos caminhos da retidão. Ele busca a sabedoria divina para sua vida.",
-      "temas": ["orientação divina", "ensino", "sabedoria", "guia"],
-      "personagens": ["Davi"]
+      "parafrase": "Tira-me das redes que me foram armadas em segredo, pois elas são como ciladas mortais. Tu és o meu único abrigo seguro, meu lugar de refúgio.",
+      "referencias": [
+        "Salmos 31:4",
+        "Provérbios 29:5"
+      ],
+      "comentario": "A imagem da rede ou armadilha (פַּח - pach) é um símbolo recorrente para o perigo oculto e planejado. A fortaleza (מָעוֹז - ma'oz) reforça a ideia de força impenetrável.",
+      "temas": [
+        "Perigo Oculto",
+        "Segurança",
+        "Livramento"
+      ],
+      "personagens": [
+        "Salmista"
+      ]
     },
     "5": {
-      "parafrase": "Guia-me em tua verdade e ensina-me, pois tu és o Deus da minha salvação; em ti espero o dia todo.",
-      "referencias": [],
-      "comentario": "Davi pede que Deus o guie em Sua verdade, que é a base de sua salvação. Ele expressa sua dependência contínua de Deus, esperando Nele o dia todo.",
-      "temas": ["guia divina", "verdade", "salvação", "esperança"],
-      "personagens": ["Davi"]
+      "parafrase": "Em tuas mãos, eu confio minha vida e meu espírito. Tu me libertaste com fidelidade inabalável, ó Senhor, Deus da verdade, pois tu és digno de toda a minha lealdade.",
+      "referencias": [
+        "Lucas 23:46",
+        "Salmos 31:5"
+      ],
+      "comentario": "Este é um ato de entrega total. Entregar o espírito (רוּחַ - ruach) é o ato supremo de confiança na soberania divina, mesmo quando a situação externa é desesperadora. Jesus ecoaria isso séculos depois.",
+      "temas": [
+        "Entrega Total",
+        "Fidelidade de Deus",
+        "Soberania"
+      ],
+      "personagens": [
+        "Salmista",
+        "Deus"
+      ]
     },
     "6": {
-      "parafrase": "Lembra-te, Senhor, das tuas ternas misericórdias e das tuas bondades, pois elas são desde a eternidade.",
-      "referencias": [],
-      "comentario": "Davi apela à natureza imutável de Deus, que é misericordioso e bom desde a eternidade. Ele busca a compaixão divina com base no caráter de Deus.",
-      "temas": ["misericórdia divina", "bondade divina", "eternidade", "caráter de Deus"],
-      "personagens": ["Davi"]
+      "parafrase": "Detesto profundamente aqueles que seguem ídolos vazios e sem sentido, que jogam sua esperança em fantasias. Eu, porém, coloco toda a minha alegria e meu foco no Senhor, meu Deus.",
+      "referencias": [
+        "Êxodo 20:3",
+        "Salmos 115:4-8"
+      ],
+      "comentario": "Contraste forte entre a devoção ao Eterno e a idolatria ('vaidades' ou 'coisas vãs'). O verbo odiar (שָׂנֵאתִי - saneti) aqui é um forte repúdio moral àquelas práticas.",
+      "temas": [
+        "Idolatria",
+        "Adoração Exclusiva",
+        "Arrependimento"
+      ],
+      "personagens": [
+        "Salmista"
+      ]
     },
     "7": {
-      "parafrase": "Não te lembres dos pecados da minha juventude nem das minhas transgressões; lembra-te de mim segundo a tua misericórdia, por causa da tua bondade, ó Senhor.",
-      "referencias": [],
-      "comentario": "Davi confessa seus pecados passados e pede perdão, apelando à misericórdia e à bondade de Deus, e não a seus próprios méritos.",
-      "temas": ["perdão", "confissão", "misericórdia divina", "bondade divina"],
-      "personagens": ["Davi"]
+      "parafrase": "Eu me alegrarei intensamente e celebrarei a tua bondade constante, ó Deus. Tu viste minha angústia e tiveste compaixão da minha alma, sabendo das minhas tribulações.",
+      "referencias": [
+        "Salmos 20:5",
+        "Salmos 31:7"
+      ],
+      "comentario": "O júbilo (אֶשְׂמְחָה - esm'chah) é a resposta emocional à intervenção divina. O salmista reconhece que Deus não apenas viu, mas compreendeu a profundidade do seu sofrimento (צָרָה - tzarah).",
+      "temas": [
+        "Alegria",
+        "Bondade Divina",
+        "Compaixão"
+      ],
+      "personagens": [
+        "Salmista",
+        "Deus"
+      ]
     },
     "8": {
-      "parafrase": "Bom e reto é o Senhor; por isso Ele ensina o caminho aos pecadores.",
-      "referencias": [],
-      "comentario": "A bondade e a retidão de Deus são a base de Seu ensino. Ele não apenas julga, mas também guia os pecadores para o caminho certo, oferecendo esperança de arrependimento.",
-      "temas": ["bondade divina", "retidão divina", "ensino", "arrependimento"],
-      "personagens": []
+      "parafrase": "Tu não me entregaste nas mãos do inimigo, mas me colocaste num lugar seguro e amplo, onde eu pudesse respirar livremente, sem a pressão da opressão.",
+      "referencias": [
+        "Salmos 118:5",
+        "Atos 16:26"
+      ],
+      "comentario": "A expressão 'não me entregaste nas mãos do inimigo' (לֹא נְתַנְתַּנִי בְיַד אוֹיֵב) é um reconhecimento claro da libertação ativa de Deus. O 'lugar amplo' (מָּרְחָב - marchev) é a antítese do aperto da angústia.",
+      "temas": [
+        "Libertação",
+        "Segurança Espacial",
+        "Intervenção"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "9": {
-      "parafrase": "Ele guia os humildes na justiça e ensina aos humildes o seu caminho.",
-      "referencias": [],
-      "comentario": "Deus guia e ensina aqueles que são humildes e dispostos a aprender, mostrando Seu cuidado pelos que se submetem a Ele.",
-      "temas": ["guia divina", "humildade", "justiça", "ensino"],
-      "personagens": []
+      "parafrase": "Tenha piedade de mim, Senhor, pois estou em profunda aflição. Meus olhos estão consumidos de tristeza, minha alma e meu corpo estão esgotados pelo sofrimento e pela dor lancinante.",
+      "referencias": [
+        "Salmos 6:6",
+        "Lamentações 1:16"
+      ],
+      "comentario": "Aqui, a súplica retorna à primeira pessoa com urgência. O termo 'derreteram' ou 'consumiram' (כָּלוּ - kalu) aplicado aos olhos indica choro incessante. A alma (נֶפֶשׁ - nephesh) e o corpo (בָּשָׂר - basar) estão unidos no esgotamento.",
+      "temas": [
+        "Aflição Profunda",
+        "Choro",
+        "Esgotamento Físico e Emocional"
+      ],
+      "personagens": [
+        "Salmista"
+      ]
     },
     "10": {
-      "parafrase": "Todos os caminhos do Senhor são misericórdia e verdade para aqueles que guardam a sua aliança e os seus testemunhos.",
-      "referencias": [],
-      "comentario": "Os caminhos de Deus são caracterizados por misericórdia e verdade para aqueles que são fiéis à Sua aliança e aos Seus mandamentos. A obediência traz a bênção da fidelidade de Deus.",
-      "temas": ["misericórdia divina", "verdade divina", "aliança", "obediência"],
-      "personagens": []
+      "parafrase": "Minha vida se esvai na tristeza, e meus anos findam em suspiros pesados. A minha força vital me abandona por causa da minha dor persistente, e meus ossos estão enfraquecidos.",
+      "referencias": [
+        "Salmos 102:3",
+        "Jó 19:20"
+      ],
+      "comentario": "A dor afeta a duração da vida. Os 'anos' se consomem em gemidos ou suspiros (אֶנְחָה - encha). A fraqueza é tão extrema que atinge os ossos (עֲצָמוֹת - atsmot), um símbolo de integridade estrutural.",
+      "temas": [
+        "Decadência Física",
+        "Dor Crônica",
+        "Finitude da Vida"
+      ],
+      "personagens": [
+        "Salmista"
+      ]
     },
     "11": {
-      "parafrase": "Por amor do teu nome, Senhor, perdoa a minha iniquidade, pois é grande.",
-      "referencias": [],
-      "comentario": "Davi clama por perdão, não por seus próprios méritos, mas por amor ao nome de Deus, que é glorificado quando Ele perdoa. Ele reconhece a magnitude de sua iniquidade.",
-      "temas": ["perdão", "iniquidade", "honra de Deus", "súplica"],
-      "personagens": ["Davi"]
+      "parafrase": "Meus inimigos me causam tanta vergonha que até meus vizinhos me evitam com medo, e meus conhecidos me olham com desconfiança, como se eu fosse um estranho.",
+      "referencias": [
+        "Jó 19:13",
+        "Salmos 38:11"
+      ],
+      "comentario": "A aflição social é exacerbada. Os vizinhos (רֵעִים - re'im) e os conhecidos (יְדִידִים - yedidim) se afastam, demonstrando que o sofrimento do salmista o isolou completamente, transformando-o em pária.",
+      "temas": [
+        "Isolamento Social",
+        "Vergonha Pública",
+        "Desconfiança"
+      ],
+      "personagens": [
+        "Salmista",
+        "Vizinhos",
+        "Conhecidos"
+      ]
     },
     "12": {
-      "parafrase": "Quem é o homem que teme ao Senhor? Ele o ensinará o caminho que deve escolher.",
-      "referencias": [],
-      "comentario": "Aquele que teme a Deus (reverência e obediência) será guiado por Ele na escolha de seu caminho. O temor a Deus é a base da sabedoria e da orientação divina.",
-      "temas": ["temor a Deus", "orientação divina", "sabedoria"],
-      "personagens": []
+      "parafrase": "Quando me veem, fogem rapidamente, como se eu fosse um objeto esquecido, algo descartado, um vaso quebrado que não serve mais para nada.",
+      "referencias": [
+        "Jeremias 22:28",
+        "Oséias 8:8"
+      ],
+      "comentario": "A comparação com um 'objeto esquecido' ou 'vaso quebrado' (כְּלִי אָבְדָן - keli ovdan) é intensa. Denota inutilidade e repulsa. O sofrimento transformou o indivíduo em algo para ser evitado, não ajudado.",
+      "temas": [
+        "Inutilidade",
+        "Rejeição",
+        "Imagem Pessoal Destruída"
+      ],
+      "personagens": [
+        "Salmista"
+      ]
     },
     "13": {
-      "parafrase": "Sua alma habitará em prosperidade, e sua descendência herdará a terra.",
-      "referencias": [],
-      "comentario": "A bênção de Deus sobre o homem que O teme inclui prosperidade e uma herança duradoura para sua descendência. Isso é uma promessa de bem-estar integral.",
-      "temas": ["prosperidade", "herança", "bênção divina"],
-      "personagens": []
+      "parafrase": "Pois ouvi os murmúrios e as difamações espalhadas por todos os lados, o medo se instalou em mim ao ouvir o complô urdido contra a minha vida, pois eles conspiravam juntos.",
+      "referencias": [
+        "Jeremias 20:10",
+        "Salmos 56:6"
+      ],
+      "comentario": "O salmista revela a fonte de seu tormento: não apenas o sofrimento, mas o ouvir os boatos e ameaças (נֵכֶר - necher, 'reprovação' ou 'difamação'). O complô (סָבַב - savav, 'rodear') era coordenado.",
+      "temas": [
+        "Difamação",
+        "Conspiração",
+        "Medo Auditivo"
+      ],
+      "personagens": [
+        "Salmista"
+      ]
     },
     "14": {
-      "parafrase": "O segredo do Senhor é para aqueles que o temem, e Ele lhes fará conhecer a sua aliança.",
-      "referencias": [],
-      "comentario": "Deus revela Seus segredos e Sua aliança àqueles que O temem, concedendo-lhes um conhecimento íntimo e profundo de Seus propósitos.",
-      "temas": ["segredo divino", "temor a Deus", "aliança", "conhecimento íntimo"],
-      "personagens": []
+      "parafrase": "Mas, apesar de tudo isso, em Ti permaneço firme, Senhor. Clamo que és o meu Deus, e declaro que o meu destino está seguro em tuas mãos.",
+      "referencias": [
+        "Salmos 31:14",
+        "Filipenses 3:20"
+      ],
+      "comentario": "O ponto de virada do lamento para a afirmação de fé. O 'mas' (וַאֲנִי - va'ani, 'e eu') introduz a resistência ativa contra a desesperança. A afirmação 'Tu és o meu Deus' é a âncora teológica.",
+      "temas": [
+        "Firmeza",
+        "Identidade em Deus",
+        "Resiliência"
+      ],
+      "personagens": [
+        "Salmista",
+        "Deus"
+      ]
     },
     "15": {
-      "parafrase": "Meus olhos estão continuamente voltados para o Senhor, pois Ele tirará meus pés da rede.",
-      "referencias": [],
-      "comentario": "Davi mantém seus olhos fixos em Deus, confiando que Ele o livrará das armadilhas e perigos que o cercam. A dependência de Deus é constante.",
-      "temas": ["dependência de Deus", "proteção divina", "livramento"],
-      "personagens": ["Davi"]
+      "parafrase": "Minha vida inteira está sob o teu controle e sob o teu olhar atento. Livra-me das mãos de meus perseguidores, que me caçam sem cessar.",
+      "referencias": [
+        "Salmos 139:16",
+        "Gálatas 6:1"
+      ],
+      "comentario": "O tempo da vida (יָמַי - yamai) está nas mãos de Deus. O foco é a libertação ativa dos perseguidores (רֹדְפַי - rod'fai), aqueles que o caçam ativamente, sugerindo uma ameaça imediata.",
+      "temas": [
+        "Soberania sobre o Tempo",
+        "Perseguição Ativa",
+        "Entrega do Destino"
+      ],
+      "personagens": [
+        "Salmista",
+        "Deus"
+      ]
     },
     "16": {
-      "parafrase": "Volta-te para mim e tem misericórdia de mim, pois estou solitário e aflito.",
-      "referencias": [],
-      "comentario": "Davi retorna à súplica, expressando sua solidão e aflição, e pedindo a misericórdia de Deus.",
-      "temas": ["súplica", "solidão", "aflição", "misericórdia"],
-      "personagens": ["Davi"]
+      "parafrase": "Que o brilho da tua face, a tua graça salvadora, resplandeça sobre mim, teu servo. Salva-me por teu amor imenso e inesgotável, que nunca falha.",
+      "referencias": [
+        "Números 6:24-26",
+        "Salmos 31:16"
+      ],
+      "comentario": "Um pedido pela manifestação visível da benevolência divina (פָּנֶיךָ - paneykha, 'teu rosto'). A salvação é solicitada com base no 'amor firme' (חֶסֶד - hesed), o pacto de lealdade de Deus.",
+      "temas": [
+        "Graça Divina",
+        "Manifestação da Face",
+        "Amor de Aliança (Hesed)"
+      ],
+      "personagens": [
+        "Salmista",
+        "Deus"
+      ]
     },
     "17": {
-      "parafrase": "As angústias do meu coração se multiplicaram; tira-me das minhas aflições.",
-      "referencias": [],
-      "comentario": "A dor de Davi é intensa e crescente, e ele clama a Deus para que o livre de suas aflições.",
-      "temas": ["angústia", "aflição", "livramento"],
-      "personagens": ["Davi"]
+      "parafrase": "Não quero ser humilhado, Senhor, pois eu te invoquei com fervor. Pelo contrário, que os meus inimigos sejam cobertos de vexame e silêncio, e que eles sejam lançados no reino silencioso da morte.",
+      "referencias": [
+        "Salmos 6:10",
+        "Romanos 9:33"
+      ],
+      "comentario": "O contraste final entre a esperança do justo e a condenação do ímpio. O desejo de ver o inimigo lançado no 'Sheol' (referenciado como 'seol' no hebraico) é um clímax do lamento sobre a justiça final.",
+      "temas": [
+        "Humilhação dos Inimigos",
+        "Justiça Retributiva",
+        "Vitória Final"
+      ],
+      "personagens": [
+        "Salmista",
+        "Inimigos"
+      ]
     },
     "18": {
-      "parafrase": "Olha para a minha aflição e para a minha dor, e perdoa todos os meus pecados.",
-      "referencias": [],
-      "comentario": "Davi pede a Deus que veja seu sofrimento e que o perdoe de seus pecados, reconhecendo a conexão entre pecado e aflição.",
-      "temas": ["aflição", "dor", "perdão", "pecado"],
-      "personagens": ["Davi"]
+      "parafrase": "Que os lábios dos mentirosos se tornem mudos, aqueles que falam com arrogância, orgulho e desdém contra o justo.",
+      "referencias": [
+        "Provérbios 12:19",
+        "Salmos 17:13"
+      ],
+      "comentario": "A punição é direcionada à fonte da ofensa: a língua. A mentira (כָּזָב - kazav) e a soberba (וְדִבְרֵי זָדוֹן - u'vrey zadon, 'palavras de arrogância') serão silenciadas. É um apelo para que a falsidade perca sua força destrutiva.",
+      "temas": [
+        "Silêncio dos Mentirosos",
+        "Arrogância",
+        "Julgamento da Palavra"
+      ],
+      "personagens": [
+        "Mentirosos"
+      ]
     },
     "19": {
-      "parafrase": "Vê como meus inimigos se multiplicaram e como me odeiam com ódio cruel.",
-      "referencias": [],
-      "comentario": "Davi descreve a intensidade do ódio de seus inimigos, que são numerosos e cruéis.",
-      "temas": ["inimigos", "ódio", "crueldade"],
-      "personagens": ["Davi"]
+      "parafrase": "Como é imensa a bondade que tens reservado àqueles que te temem! Essa riqueza de bênçãos é para aqueles que buscam refúgio seguro em Ti, à vista de todos os homens!",
+      "referencias": [
+        "Isaías 64:4",
+        "Salmos 145:19"
+      ],
+      "comentario": "Mudança de tom para a gratidão antecipada. A bondade reservada (טּוּב - tov) não é passageira, mas um tesouro guardado para os que temem a Deus (יָרֵא יְהוָה - yare Yahweh), ou seja, aqueles que O reverenciam.",
+      "temas": [
+        "Recompensa",
+        "Temor a Deus",
+        "Tesouro Celestial"
+      ],
+      "personagens": [
+        "Deus",
+        "Temerosos de Deus"
+      ]
     },
     "20": {
-      "parafrase": "Guarda a minha alma e livra-me; não me deixes envergonhado, pois em ti me refugio.",
-      "referencias": [],
-      "comentario": "Davi clama por proteção e livramento, reafirmando sua confiança em Deus como seu refúgio.",
-      "temas": ["proteção", "livramento", "confiança em Deus", "refúgio"],
-      "personagens": ["Davi"]
+      "parafrase": "Tu os esconderás num abrigo secreto, longe das intrigas e dos planos secretos dos homens. Na tua presença, eles estarão protegidos das discussões agressivas e das calúnias envenenadas.",
+      "referencias": [
+        "Salmos 27:5",
+        "Tiago 1:27"
+      ],
+      "comentario": "O esconderijo (סֵתֶר - seter) é um lugar de proteção íntima contra as conspirações (רִיב - riv, 'controvérsia', 'litígio') e os ataques verbais.",
+      "temas": [
+        "Proteção Secreta",
+        "Intrigas",
+        "Abrigo na Presença Divina"
+      ],
+      "personagens": [
+        "Temerosos de Deus"
+      ]
     },
     "21": {
-      "parafrase": "Que a integridade e a retidão me guardem, pois em ti espero.",
-      "referencias": [],
-      "comentario": "Davi pede que sua integridade e retidão o protejam, e expressa sua esperança contínua em Deus.",
-      "temas": ["integridade", "retidão", "esperança"],
-      "personagens": ["Davi"]
+      "parafrase": "Bendito seja o Senhor, que me mostrou o seu amor maravilhoso e inigualável, como se eu estivesse cercado por uma cidade fortificada em tempos de grande cerco.",
+      "referencias": [
+        "Salmos 31:21",
+        "Efésios 2:4-5"
+      ],
+      "comentario": "O salmista louva a Deus especificamente pelo 'hesed maravilhoso' (חֶסְדּוֹ נִפְלָא - chesdo nifla). A comparação com uma cidade sitiada (עִיר מָצוֹר - ir matzor) enfatiza que a libertação ocorreu no momento de maior perigo iminente.",
+      "temas": [
+        "Louvor",
+        "Amor Manifestado",
+        "Defesa Militar"
+      ],
+      "personagens": [
+        "Salmista",
+        "Senhor"
+      ]
     },
     "22": {
-      "parafrase": "Redime Israel de todas as suas angústias, ó Deus.",
-      "referencias": [],
-      "comentario": "O salmo termina com uma oração pela redenção de todo o Israel, mostrando que a preocupação de Davi se estende além de si mesmo para toda a nação. Ele clama pela libertação de todas as angústias do povo de Deus.",
-      "temas": ["redenção", "Israel", "angústia", "libertação"],
-      "personagens": ["Davi"]
+      "parafrase": "Eu disse em meu desespero, enquanto estava quase dominado pela angústia: 'Fui afastado da tua presença!' Mas tu, Senhor, ouviste a minha voz suplicante quando eu clamava por socorro.",
+      "referencias": [
+        "Jonas 2:4",
+        "Salmos 130:1"
+      ],
+      "comentario": "Este versículo revela a profundidade da crise: o salmista sentiu-se excluído da presença de Deus ('cortado'). O termo 'desespero' (בְּחָפָזִי - b'chafazi, 'em meu pavor/precipitação') justifica a declaração desesperada. No entanto, a conclusão é que Deus escutou o clamor (שַׁוְעִי - shava'i).",
+      "temas": [
+        "Desespero e Exclusão",
+        "Ouvir a Oração",
+        "Clamor por Socorro"
+      ],
+      "personagens": [
+        "Salmista",
+        "Deus"
+      ]
     }
   }
 }

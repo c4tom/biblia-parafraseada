@@ -1,393 +1,905 @@
 {
   "livro": "Levítico",
   "capitulo": 25,
-  "contexto_historico": "Ver contexto anterior em Levítico 24. Este capítulo estabelece as leis do Ano Sabático e do Ano do Jubileu. Essas leis são cruciais para a vida econômica e social de Israel, garantindo o descanso da terra, a libertação de dívidas e escravos, e a restauração de propriedades. Elas refletem a soberania de Deus sobre a terra e sobre o tempo, e Sua provisão para a justiça social e a equidade.",
-  "bloco_tematico": "O Ano Sabático e o Ano do Jubileu",
+  "contexto_historico": "O Livro de Levítico, situado após a saída do Egito e a entrega da Lei no Sinai, estabelece as bases para a santidade e a adoração de Israel como um povo separado para YHWH. O capítulo 25 faz parte da seção que detalha as leis de santidade, focando especificamente nos estatutos sociais e agrários que deveriam governar a vida da comunidade em Canaã, garantindo que a terra pertencesse a Deus e que a igualdade social fosse mantida, especialmente através dos anos sabáticos e do Jubileu. Este capítulo é crucial para entender a teologia da posse da terra e a responsabilidade social hebraica. 📜⛰️",
+  "bloco_tematico": "O Ano da Libertação: Santidade da Terra e Justiça Social (Sabatismo e Jubileu) ⚖️🌾",
   "versiculos": {
     "1": {
-      "parafrase": "Então o Senhor disse a Moisés no monte Sinai:",
-      "referencias": [],
-      "comentario": "Deus dá instruções sobre o Ano Sabático e o Ano do Jubileu, que são leis fundamentais para a vida de Israel na terra prometida.",
-      "temas": ["instrução divina", "Ano Sabático", "Ano do Jubileu"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "Depois que Moisés terminou de transmitir todas estas instruções do Senhor, Deus o chamou novamente. Deus falou a Moisés no Monte Sinai, dizendo: 'Fale com todo o povo de Israel e estabeleça estas ordens sagradas para eles. Essas são as leis que vocês devem obedecer rigorosamente enquanto estiverem na terra que lhes darei.'",
+      "referencias": [
+        "Êxodo 19:3",
+        "Números 27:12"
+      ],
+      "comentario": "Este versículo marca o início da entrega das leis referentes ao ano sabático e ao Jubileu. O comando para 'falar a todo o Israel' enfatiza a universalidade e a obrigatoriedade da lei para toda a nação, não apenas para os sacerdotes. O 'Monte Sinai' (Horebe) é o local central da revelação.",
+      "temas": [
+        "Comunicação Divina",
+        "Obediência à Lei",
+        "Território Prometido"
+      ],
+      "personagens": [
+        "Moisés",
+        "Deus"
+      ]
     },
     "2": {
-      "parafrase": "'Diga aos israelitas: ‘Quando vocês entrarem na terra que eu lhes dou, a terra guardará um sábado para o Senhor'.",
-      "referencias": [],
-      "comentario": "A terra também deve descansar, refletindo o princípio do sábado. É um reconhecimento da soberania de Deus sobre a terra.",
-      "temas": ["descanso da terra", "sábado da terra", "soberania de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Diga a eles que, ao entrarem na terra que Eu lhes darei, o solo deve descansar completamente a cada sete anos. Este será um ano de descanso sabático para a terra, um tempo de repouso sagrado para o Senhor.",
+      "referencias": [
+        "Êxodo 23:10",
+        "Deuteronômio 15:1"
+      ],
+      "comentario": "Introduz-se o conceito de Sabbat anual ou 'Ano Sabático' (Shemitah). A terra não seria arada, semeada ou colhida. O foco não é apenas a economia, mas a teologia: a terra pertence a Deus, e o povo deve reconhecer a soberania dEle sobre a provisão material.",
+      "temas": [
+        "Ano Sabático (Shemitah)",
+        "Soberania de Deus",
+        "Descanso da Terra"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "3": {
-      "parafrase": "'Por seis anos vocês semearão seus campos, podarão suas vinhas e recolherão seus frutos'.",
-      "referencias": [],
-      "comentario": "Seis anos são para o trabalho e a produção, seguindo o padrão da criação.",
-      "temas": ["trabalho", "produção"],
-      "personagens": []
+      "parafrase": "Durante seis anos, você poderá semear os seus campos, podar as suas vinhas e colher os seus frutos. Mas no sétimo ano, a terra terá um descanso completo; não haverá plantio, e vocês comerão apenas o que a própria terra produzir naturalmente naquele ano de folga.",
+      "referencias": [
+        "Êxodo 23:11",
+        "Números 36:4"
+      ],
+      "comentario": "Diferencia-se claramente o trabalho agrícola dos seis anos da cessação no sétimo. A provisão para o sétimo ano é garantida pela produção natural, sublinhando a confiança na bênção divina que excede a expectativa humana de plantio contínuo.",
+      "temas": [
+        "Provisão Divina",
+        "Ciclo Agrícola",
+        "Confiança"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "4": {
-      "parafrase": "'Mas no sétimo ano a terra terá um sábado de descanso solene, um sábado para o Senhor. Vocês não semearão seus campos nem podarão suas vinhas'.",
-      "referencias": [],
-      "comentario": "O sétimo ano é um ano de descanso completo para a terra, sem semeadura ou poda. É um ato de fé na provisão de Deus.",
-      "temas": ["descanso da terra", "sábado", "fé na provisão"],
-      "personagens": ["Deus"]
+      "parafrase": "O descanso do sétimo ano também se aplica ao seu pomar e à sua vinha. O que crescer espontaneamente não será colhido para seu estoque; será deixado como alimento para os pobres, para os estrangeiros que vivem entre vocês, e para os animais selvagens e os que trabalham para você.",
+      "referencias": [
+        "Êxodo 23:11",
+        "Deuteronômio 14:29"
+      ],
+      "comentario": "Este versículo expande a provisão do ano sabático para incluir todos os frutos perenes (pomares e vinhas). Crucialmente, a produção não colhida se torna um recurso comunitário, especialmente para os marginalizados (pobres, estrangeiros, animais), introduzindo um forte elemento de justiça social.",
+      "temas": [
+        "Justiça Social",
+        "Comunidade",
+        "Generosidade"
+      ],
+      "personagens": [
+        "Pobres",
+        "Estrangeiros"
+      ]
     },
     "5": {
-      "parafrase": "'Não colherão o que crescer espontaneamente da colheita anterior, nem colherão as uvas de suas vinhas não podadas. Será um ano de descanso solene para a terra'.",
-      "referencias": [],
-      "comentario": "O que crescer espontaneamente é para todos, especialmente para os pobres e os animais, enfatizando a justiça social e a provisão.",
-      "temas": ["provisão para os pobres", "justiça social", "descanso"],
-      "personagens": []
+      "parafrase": "O que a terra produzir por si mesma durante esse ano de repouso não será colhido para guardar. Servirá de sustento para todos que habitam na terra. Assim, vocês aprenderão a depender de Mim, o Senhor, seu Deus.",
+      "referencias": [
+        "Deuteronômio 8:3",
+        "Salmos 145:15"
+      ],
+      "comentario": "Este é o cerne teológico do Sabbat: um teste de fé. O ato de não colher intencionalmente ensina a dependência. O sustento é fornecido pela natureza sob a autoridade de Deus, ensinando que a prosperidade não advém apenas do esforço humano incessante.",
+      "temas": [
+        "Teste de Fé",
+        "Dependência de Deus",
+        "Mandamento Divino"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "6": {
-      "parafrase": "'O sábado da terra será para vocês alimento, para você, para seu servo e sua serva, para seu trabalhador assalariado e para o estrangeiro que vive com você'.",
-      "referencias": [],
-      "comentario": "O fruto do ano sabático é para o sustento de todos, incluindo os servos e os estrangeiros, promovendo a igualdade e a solidariedade.",
-      "temas": ["sustento", "igualdade", "solidariedade"],
-      "personagens": []
+      "parafrase": "Além disso, ao final do sétimo ano, vocês terão o direito de colher o que a terra tiver produzido por conta própria. Este suprimento especial servirá de alimento para vocês durante o ano seguinte, o oitavo ano, até que a colheita normal do oitavo ano esteja pronta para ser guardada.",
+      "referencias": [
+        "Josué 5:11",
+        "2 Reis 19:29"
+      ],
+      "comentario": "Este versículo resolve a questão logística: como viverão no oitavo ano, que é o primeiro ano de trabalho após o descanso? A colheita do sexto ano (a última colheita antes do descanso sabático) precisaria ser abundante o suficiente para suprir os anos sete e oito, demonstrando a bênção especial da colheita do sexto ano.",
+      "temas": [
+        "Logística Divina",
+        "Sustento do Ano Oito",
+        "Recompensa da Obediência"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "7": {
-      "parafrase": "'E para seu gado e para os animais selvagens em sua terra, todo o seu produto será para comer'.",
-      "referencias": [],
-      "comentario": "Até os animais se beneficiam do descanso da terra, mostrando a abrangência da lei de Deus.",
-      "temas": ["provisão para animais", "abrangência da lei"],
-      "personagens": []
+      "parafrase": "No sétimo ano, porém, o rebanho e os animais domésticos também terão seu repouso, e tudo o que a terra produzir espontaneamente será para alimento de todos. O descanso se estende a toda a criação, não apenas aos seres humanos.",
+      "referencias": [
+        "Gênesis 1:29",
+        "Romanos 8:22"
+      ],
+      "comentario": "O descanso se estende aos animais domésticos e de trabalho. Isso reflete uma visão de mundo holística (ecológica) onde a cessação do trabalho humano traz alívio a toda a esfera animal que serve ao homem. O termo hebraico para 'animais que se arrastam' ou gado é incluído.",
+      "temas": [
+        "Descanso da Criação",
+        "Relação Homem-Animal",
+        "Misericórdia"
+      ],
+      "personagens": [
+        "Animais"
+      ]
     },
     "8": {
-      "parafrase": "'Contarão para vocês sete sábados de anos, sete vezes sete anos, de modo que o tempo dos sete sábados de anos será de quarenta e nove anos'.",
-      "referencias": [],
-      "comentario": "O Ano do Jubileu é contado após sete ciclos de sete anos, totalizando quarenta e nove anos.",
-      "temas": ["Ano do Jubileu", "contagem"],
-      "personagens": []
+      "parafrase": "Agora, vocês deverão contar sete ciclos completos de anos, ou seja, sete vezes sete anos, totalizando quarenta e nove anos. Vocês farão isso começando no décimo dia do sétimo mês, no Dia da Expiação.",
+      "referencias": [
+        "Levítico 16:29",
+        "Números 29:7"
+      ],
+      "comentario": "A transição do Sabbat anual para o Jubileu, que ocorre após 7 ciclos de 7 anos (49 anos). A contagem deve começar no Dia da Expiação (Yom Kippur), o dia mais sagrado do ano, simbolizando que a libertação total e o perdão são a base para o Jubileu.",
+      "temas": [
+        "Contagem do Tempo",
+        "Ciclo do Jubileu",
+        "Dia da Expiação"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "9": {
-      "parafrase": "'Então, no décimo dia do sétimo mês, no Dia da Expiação, vocês farão soar a trombeta do jubileu em toda a sua terra'.",
-      "referencias": [],
-      "comentario": "O Ano do Jubileu é proclamado no Dia da Expiação, um dia de expiação e libertação, enfatizando a conexão entre o perdão e a liberdade.",
-      "temas": ["proclamação do Jubileu", "Dia da Expiação", "liberdade"],
-      "personagens": []
+      "parafrase": "No quinquagésimo ano, que é o Ano do Jubileu, vocês soarão um forte toque de trombeta em todos os seus territórios, logo após o Dia da Expiação. Este será um som de libertação e proclamação!",
+      "referencias": [
+        "Isaías 61:1",
+        "Lucas 4:18"
+      ],
+      "comentario": "O som do shofar (trombeta, geralmente de chifre de carneiro) no décimo dia do sétimo mês, dia seguinte ao Yom Kippur, anuncia o Jubileu. Este som é um chamado à liberdade e restauração. O termo 'Yobel' (Jubileu) está ligado ao som da trombeta.",
+      "temas": [
+        "Ano do Jubileu",
+        "Proclamação",
+        "Shofar (Trombeta)"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "10": {
-      "parafrase": "'E santificarão o quinquagésimo ano e proclamarão liberdade em toda a terra a todos os seus habitantes. Será um jubileu para vocês; cada um de vocês voltará à sua propriedade e cada um de vocês voltará à sua família'.",
-      "referencias": [],
-      "comentario": "O Ano do Jubileu é um ano de liberdade e restauração. As propriedades são devolvidas aos seus donos originais, e os escravos são libertados. É um tempo de restauração da ordem divina e da justiça social.",
-      "temas": ["liberdade", "restauração de propriedade", "libertação de escravos", "justiça social"],
-      "personagens": []
+      "parafrase": "Vocês consagrarão o quinquagésimo ano, declarando-o um tempo de liberdade para todos os habitantes da terra. Nessa época, todas as terras que foram vendidas ou transferidas de suas famílias originais devem retornar aos seus donos ancestrais, e todos os escravos hebreus devem ser libertados.",
+      "referencias": [
+        "Isaías 61:1",
+        "Neemias 7:66"
+      ],
+      "comentario": "Este é o clímax: restauração tripla. 1) A terra retorna à família original (propriedade inalienável). 2) Escravos hebreus são libertados. 3) O ano é declarado 'Livre' (D'ror). O Jubileu é a restauração econômica e social baseada na posse original da terra dada por Deus.",
+      "temas": [
+        "Libertação",
+        "Restauração de Terras",
+        "Manutenção da Herança"
+      ],
+      "personagens": [
+        "Escravos",
+        "Proprietários de Terra"
+      ]
     },
     "11": {
-      "parafrase": "'O quinquagésimo ano será um jubileu para vocês; não semearão, nem colherão o que crescer espontaneamente, nem colherão as uvas de suas vinhas não podadas'.",
-      "referencias": [],
-      "comentario": "O Ano do Jubileu é um ano de descanso completo para a terra, semelhante ao ano sabático, mas com um propósito maior de restauração.",
-      "temas": ["descanso da terra", "restauração"],
-      "personagens": []
+      "parafrase": "O quinquagésimo ano será um ano de celebração especial, mas vocês não plantarão nada, nem colherão o que crescer sozinho. Vocês viverão apenas do que foi reservado do sexto ano e do que já estava estocado.",
+      "referencias": [
+        "Joel 2:22",
+        "Ezequiel 47:21"
+      ],
+      "comentario": "O Jubileu é um ano de graça e descanso total, semelhante ao Sabbat anual, mas com implicações de restauração de propriedade e liberdade. A provisão para este ano vem do estoque do sexto ano, garantindo que, mesmo em um ano de festa, a subsistência não seja esquecida.",
+      "temas": [
+        "Descanso Total",
+        "Ano de Festa",
+        "Provisão Garantida"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "12": {
-      "parafrase": "'Pois é jubileu; será santo para vocês. Vocês comerão o que o campo produzir por si mesmo'.",
-      "referencias": [],
-      "comentario": "O Ano do Jubileu é santo, e a provisão de Deus é garantida através do que a terra produz espontaneamente.",
-      "temas": ["santidade", "provisão divina"],
-      "personagens": ["Deus"]
+      "parafrase": "Pois este quinquagésimo ano é santificado especificamente para Mim, o Senhor. Tudo o que for produzido espontaneamente ou que for trazido de volta pelo seu valor de venda será considerado sagrado e destinado ao meu serviço.",
+      "referencias": [
+        "Apocalipse 21:3",
+        "Malaquias 3:10"
+      ],
+      "comentario": "O Jubileu é santificado, ou seja, separado para o uso de Deus. Isso significa que os bens e a terra, ao retornarem, são reconduzidos a um estado de consagração ao Senhor, que é o verdadeiro dono de tudo.",
+      "temas": [
+        "Santidade do Jubileu",
+        "Propriedade de Deus",
+        "Restituição"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "13": {
-      "parafrase": "'Neste ano do jubileu, cada um de vocês voltará à sua propriedade'.",
-      "referencias": [],
-      "comentario": "A restauração da propriedade é um princípio fundamental do Jubileu, garantindo que a terra permaneça na família original.",
-      "temas": ["restauração de propriedade", "justiça social"],
-      "personagens": []
+      "parafrase": "Neste ano de libertação, cada um de vocês deve devolver a terra que havia vendido ao seu vizinho hebreu, devolvendo a herança original da família.",
+      "referencias": [
+        "Josué 13:7",
+        "Atos 2:44"
+      ],
+      "comentario": "A terra em Israel não poderia ser vendida permanentemente, pois era um usufruto concedido por Deus. Vender terras era, na prática, vender o direito de uso até o próximo Jubileu. O retorno da terra é fundamental para manter a estrutura tribal e familiar.",
+      "temas": [
+        "Propriedade Inalienável",
+        "Herança Tribal",
+        "Devolução"
+      ],
+      "personagens": [
+        "Vizinhos"
+      ]
     },
     "14": {
-      "parafrase": "'Se vocês venderem algo ao seu próximo ou comprarem algo da mão do seu próximo, não enganem uns aos outros'.",
-      "referencias": [],
-      "comentario": "A lei exige honestidade e justiça nas transações comerciais, especialmente em relação à terra.",
-      "temas": ["honestidade", "justiça", "transações comerciais"],
-      "personagens": []
+      "parafrase": "Se você vender algo ao seu próximo ou comprar algo dele, não explorem um ao outro com engano, seja na transação de terras ou na troca de bens.",
+      "referencias": [
+        "Provérbios 10:9",
+        "Amós 8:5"
+      ],
+      "comentario": "A libertação econômica deve ser acompanhada de integridade moral. A exploração através de preços inflacionados ou negociações desonestas é expressamente proibida, pois desvirtua o propósito do Jubileu, que é a justiça.",
+      "temas": [
+        "Integridade nas Transações",
+        "Não Enganar",
+        "Ética Comercial"
+      ],
+      "personagens": [
+        "Compradores",
+        "Vendedores"
+      ]
     },
     "15": {
-      "parafrase": "'Vocês comprarão do seu próximo de acordo com o número de anos desde o jubileu, e ele venderá a vocês de acordo com o número de anos de colheita'.",
-      "referencias": [],
-      "comentario": "O preço da terra é determinado pelo número de anos restantes até o próximo Jubileu, pois a terra não é vendida permanentemente, mas apenas o direito de uso.",
-      "temas": ["preço da terra", "direito de uso", "Jubileu"],
-      "personagens": []
+      "parafrase": "O preço de venda deve ser calculado com base no número de anos que ainda restam até o próximo Jubileu, subtraindo o tempo de trabalho que o comprador desfrutaria. O valor justo é baseado no tempo restante de colheita produtiva.",
+      "referencias": [
+        "Gênesis 47:9",
+        "1 Crônicas 29:15"
+      ],
+      "comentario": "Estabelece-se a base de cálculo para a venda temporária: o preço não é arbitrário, mas proporcional ao tempo de usufruto antes da obrigação de devolução. O valor se baseia nos anos de colheita que restam até o Jubileu (o preço do produto) e não no valor intrínseco da terra.",
+      "temas": [
+        "Justiça de Preço",
+        "Cálculo de Tempo",
+        "Economia Teocrática"
+      ],
+      "personagens": [
+        "Compradores",
+        "Vendedores"
+      ]
     },
     "16": {
-      "parafrase": "'Quanto maior o número de anos, maior será o preço; e quanto menor o número de anos, menor será o preço, pois ele está vendendo a você o número de colheitas'.",
-      "referencias": [],
-      "comentario": "O preço da terra é proporcional ao número de colheitas restantes, garantindo a justiça na transação.",
-      "temas": ["preço justo", "justiça"],
-      "personagens": []
+      "parafrase": "Quanto maior o número de anos que faltam para o Jubileu, maior será o preço que você deverá pedir; quanto menor o tempo, mais barato será, pois o vendedor está na verdade apenas vendendo o direito de uso temporário até a grande libertação.",
+      "referencias": [
+        "Salmos 119:159",
+        "Tiago 5:1"
+      ],
+      "comentario": "Detalha a regra anterior. A terra nunca é vendida por um valor que exceda sua capacidade produtiva até o Jubileu. Isso protege o vendedor da exploração baseada na necessidade imediata, pois a propriedade final sempre retornará a ele.",
+      "temas": [
+        "Valor Proporcional",
+        "Proteção ao Vendedor",
+        "Economia de Tempo"
+      ],
+      "personagens": [
+        "Vendedores"
+      ]
     },
     "17": {
-      "parafrase": "'Não enganem uns aos outros, mas temam o seu Deus, pois eu sou o Senhor, seu Deus'.",
-      "referencias": [],
-      "comentario": "A proibição do engano é reiterada, e o temor a Deus é a motivação para a honestidade. A justiça é um reflexo do caráter de Deus.",
-      "temas": ["honestidade", "temor a Deus", "justiça"],
-      "personagens": ["Deus"]
+      "parafrase": "Lembrem-se disto: vocês jamais devem explorar uns aos outros, pois Eu sou o Senhor, seu Deus, e Meu olhar está sobre cada transação.",
+      "referencias": [
+        "Mateus 6:24",
+        "1 Pedro 3:12"
+      ],
+      "comentario": "Reiteração da proibição de exploração. A razão final para a retidão econômica é a onipresença de Deus ('Eu sou o Senhor'). A obediência a este mandamento mantém a comunidade pura diante de Deus.",
+      "temas": [
+        "Temor a Deus",
+        "Moralidade Econômica",
+        "Presença Divina"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "18": {
-      "parafrase": "'Guardarão os meus estatutos e os meus juízos, e os cumprirão, e habitarão seguros na terra'.",
-      "referencias": [],
-      "comentario": "A obediência às leis de Deus é essencial para a segurança e a permanência na terra prometida.",
-      "temas": ["obediência", "segurança", "permanência na terra"],
-      "personagens": ["Deus"]
+      "parafrase": "Portanto, vocês devem viver de acordo com os Meus estatutos e guardar as Minhas ordenanças, praticando-as fielmente, para que possam viver na terra em segurança e desfrutar de sua produção sem medo.",
+      "referencias": [
+        "Deuteronômio 6:18",
+        "Salmos 119:165"
+      ],
+      "comentario": "Conecta a obediência prática à estabilidade e segurança nacionais. Viver de acordo com os estatutos de Deus garante não só bênção espiritual, mas também ordem social e paz física na posse da terra.",
+      "temas": [
+        "Segurança na Terra",
+        "Fidelidade aos Estatutos",
+        "Ordem Social"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "19": {
-      "parafrase": "'E a terra dará o seu fruto, e vocês comerão à vontade, e habitarão nela seguros'.",
-      "referencias": [],
-      "comentario": "A obediência trará bênçãos de provisão e segurança na terra.",
-      "temas": ["bênção", "provisão", "segurança"],
-      "personagens": []
+      "parafrase": "A terra produzirá seu fruto, e vocês comerão até se fartarem, morando nela em total tranquilidade e paz.",
+      "referencias": [
+        "Ezequiel 34:27",
+        "Salmos 4:8"
+      ],
+      "comentario": "Promessa clara de fartura e segurança como resultado direto da obediência. A expressão 'comer e estar satisfeito' (comer fartamente) é uma marca da bênção da aliança no Antigo Testamento.",
+      "temas": [
+        "Fartura",
+        "Paz",
+        "Segurança"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "20": {
-      "parafrase": "'E se vocês perguntarem: ‘O que comeremos no sétimo ano, se não semearmos nem recolhermos nossa colheita?’',",
-      "referencias": [],
-      "comentario": "Deus antecipa a preocupação do povo e promete provisão.",
-      "temas": ["preocupação", "provisão divina"],
-      "personagens": []
+      "parafrase": "Vocês podem perguntar: 'Mas o que comeremos no sétimo ano, se não pudermos plantar nem colher a produção espontânea da terra?'",
+      "referencias": [
+        "Mateus 6:31",
+        "Filipenses 4:6"
+      ],
+      "comentario": "Antecipa a principal objeção prática e o foco da ansiedade humana: a provisão durante o ano de descanso. Deus, mais uma vez, demonstra Sua onisciência ao prever e abordar a dúvida do povo.",
+      "temas": [
+        "Dúvida Humana",
+        "Provisão do Sétimo Ano",
+        "Ansiedade"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "21": {
-      "parafrase": "'Eu lhes enviarei a minha bênção no sexto ano, e ela produzirá colheita suficiente para três anos'.",
-      "referencias": [],
-      "comentario": "Deus promete uma provisão milagrosa no sexto ano, suficiente para três anos, garantindo o sustento durante o ano sabático e o ano do jubileu. É um teste de fé na provisão de Deus.",
-      "temas": ["provisão milagrosa", "fé", "bênção"],
-      "personagens": ["Deus"]
+      "parafrase": "Eu lhes asseguro: no sexto ano, Eu darei uma bênção tão extraordinária sobre a colheita que haverá o suficiente para sustentar vocês por três anos inteiros, até que a colheita normal do oitavo ano esteja pronta.",
+      "referencias": [
+        "2 Reis 4:6",
+        "Lucas 12:16-21"
+      ],
+      "comentario": "A resposta divina: uma intervenção milagrosa na colheita do sexto ano. A palavra 'bênção' (ברכה - berakhah) aqui implica um aumento sobrenatural da produtividade, garantindo suprimento para o ano sabático (ano 7) e os primeiros meses do ano seguinte (ano 8).",
+      "temas": [
+        "Intervenção Divina",
+        "Bênção Sobrenatural",
+        "Abundância"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "22": {
-      "parafrase": "'Vocês semearão no oitavo ano, mas comerão da colheita antiga até o nono ano, até que a colheita do oitavo ano esteja pronta'.",
-      "referencias": [],
-      "comentario": "A provisão de Deus é precisa, garantindo que o povo tenha comida até a próxima colheita.",
-      "temas": ["provisão precisa"],
-      "personagens": []
+      "parafrase": "Quando vocês estiverem no oitavo ano, poderão comer dos estoques antigos, aguardando a colheita desse ano, até que ela esteja finalmente completa e disponível.",
+      "referencias": [
+        "Josué 5:11",
+        "Gênesis 45:19"
+      ],
+      "comentario": "Confirma a logística: o consumo do estoque antigo persiste até que a colheita do ano em que estão trabalhando (o oitavo ano) seja recolhida. Isso reforça a cadeia de provisão divina que cobre todo o ciclo de três anos.",
+      "temas": [
+        "Consumo de Estoque",
+        "Continuidade da Provisão",
+        "Ciclo de Três Anos"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "23": {
-      "parafrase": "'A terra não será vendida permanentemente, pois a terra é minha; vocês são apenas estrangeiros e residentes temporários comigo'.",
-      "referencias": [],
-      "comentario": "Deus reafirma Sua soberania sobre a terra. A terra pertence a Ele, e os israelitas são apenas inquilinos. Isso é a base para a lei do Jubileu, que garante que a terra retorne aos seus donos originais.",
-      "temas": ["soberania de Deus sobre a terra", "propriedade divina", "inquilinos"],
-      "personagens": ["Deus"]
+      "parafrase": "Nunca se esqueçam que a terra não pode ser vendida permanentemente, pois ela é Minha. Vocês são meros estrangeiros e administradores temporários aqui, vivendo sob Minha posse.",
+      "referencias": [
+        "1 Coríntios 7:30",
+        "Salmos 24:1"
+      ],
+      "comentario": "Este é o princípio teológico subjacente a toda a legislação sobre terra: a soberania absoluta de Deus. Os israelitas são 'gerim' (estrangeiros, residentes temporários), não proprietários plenos. Isso impede a fixação materialista e assegura a fidelidade à Aliança.",
+      "temas": [
+        "Soberania da Terra",
+        "Administração (Mordomia)",
+        "Status de Estrangeiro"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "24": {
-      "parafrase": "'Em toda a terra de sua propriedade, vocês permitirão o resgate da terra'.",
-      "referencias": [],
-      "comentario": "A lei do resgate da terra garante que a propriedade possa ser recuperada pela família original, mesmo que tenha sido vendida.",
-      "temas": ["resgate da terra", "justiça social"],
-      "personagens": []
+      "parafrase": "Em todas as terras que vocês possuírem, vocês deverão permitir que a terra volte à posse da família original em caso de necessidade, possibilitando a redenção da propriedade.",
+      "referencias": [
+        "Rute 4:1",
+        "Jeremias 32:7"
+      ],
+      "comentario": "A lei do resgate da propriedade (redentor, ou 'goel') é obrigatória. Se um proprietário se empobrecesse e vendesse sua terra, um parente próximo (o redentor) tinha o direito e o dever de resgatá-la, mantendo-a dentro da linhagem familiar.",
+      "temas": [
+        "Resgate da Propriedade (Goel)",
+        "Redenção Econômica",
+        "Lealdade Familiar"
+      ],
+      "personagens": [
+        "Famílias"
+      ]
     },
     "25": {
-      "parafrase": "'Se seu irmão empobrecer e vender parte de sua propriedade, seu parente mais próximo virá e resgatará o que seu irmão vendeu'.",
-      "referencias": [],
-      "comentario": "O parente mais próximo tem o direito e o dever de resgatar a propriedade, mantendo-a na família.",
-      "temas": ["parente resgatador", "dever familiar", "propriedade"],
-      "personagens": []
+      "parafrase": "Se um de seus irmãos ficar tão pobre que precise vender parte de sua herança para sobreviver, vocês, como parentes mais afortunados, deverão intervir e comprar de volta essa terra, ajudando-o a preservar o legado de sua família.",
+      "referencias": [
+        "Provérbios 19:17",
+        "Deuteronômio 15:7-8"
+      ],
+      "comentario": "Este versículo especifica a obrigação do 'Goel' (Redentor). Não é apenas um direito, mas um mandamento moral de amparar o irmão necessitado, agindo como agente de Deus na manutenção da integridade econômica da comunidade da aliança. O foco é a generosidade ativa.",
+      "temas": [
+        "O Dever do Redentor",
+        "Amor ao Próximo",
+        "Ação de Resgate"
+      ],
+      "personagens": [
+        "Irmãos Israelitas"
+      ]
     },
     "26": {
-      "parafrase": "'Se um homem não tiver ninguém para resgatá-la, mas ele mesmo prosperar e tiver o suficiente para resgatá-la,",
-      "referencias": [],
-      "comentario": "Se o próprio dono prosperar, ele pode resgatar sua propriedade.",
-      "temas": ["resgate pessoal", "prosperidade"],
-      "personagens": []
+      "parafrase": "Se alguém, por acaso, roubar algo destinado ao Senhor, seja um pequeno pedaço de prata, ou um animal do rebanho, ou qualquer coisa consagrada, e depois se arrepender ou for pego, essa pessoa terá que devolver aquilo que tirou, e para compensar o dano e o sacrilégio, deverá acrescentar um quinto (vinte por cento) do valor real do item como multa.",
+      "referencias": [
+        "Números 5:7",
+        "Deuteronômio 23:21"
+      ],
+      "comentario": "Este versículo estabelece a lei para o roubo de coisas santificadas (os 'bens do Senhor'). A restituição não era apenas a devolução do objeto, mas incluía uma sobretaxa de 20% (o 'quinto'). Este acréscimo servia como punição e como um reconhecimento da gravidade do ato de profanar o que era dedicado a Deus. O ato de roubar de Deus é um roubo contra a santidade divina, exigindo reparação maior que um roubo comum.",
+      "temas": [
+        "Restituição",
+        "Sacrilégio",
+        "Justiça Divina"
+      ],
+      "personagens": [
+        "O Ladrão"
+      ]
     },
     "27": {
-      "parafrase": "'ele calculará os anos desde a venda e devolverá o restante ao homem a quem vendeu, e voltará para sua propriedade'.",
-      "referencias": [],
-      "comentario": "O preço do resgate é proporcional ao tempo restante até o Jubileu, garantindo a justiça na transação.",
-      "temas": ["preço do resgate", "justiça"],
-      "personagens": []
+      "parafrase": "Mas, se a pessoa que cometeu o erro não tiver como pagar a multa, nem consiga restituir o valor total roubado, o objeto consagrado será vendido por um sacerdote, e o valor obtido será usado para pagar a dívida. O restante, se houver, pertencerá ao sacerdote, mas o valor principal do item roubado será usado para reparar o dano ao santuário.",
+      "referencias": [
+        "Êxodo 22:3",
+        "Neemias 7:72"
+      ],
+      "comentario": "Aqui há uma provisão para a impossibilidade de pagamento imediato. O objeto consagrado é vendido pelo sacerdote, que atua como administrador dos bens do santuário. O dinheiro obtido cobre a dívida original e a multa do quinto. Se o valor da venda exceder a dívida, o excedente vai para o sacerdote (que é sustentado pelos bens do templo), demonstrando um sistema de reparação abrangente.",
+      "temas": [
+        "Administração do Santuário",
+        "Provisão para os Pobres",
+        "Compensação de Dívidas"
+      ],
+      "personagens": [
+        "O Ladrão",
+        "O Sacerdote"
+      ]
     },
     "28": {
-      "parafrase": "'Mas, se ele não tiver o suficiente para resgatá-la, então o que foi vendido permanecerá na mão do comprador até o ano do jubileu. No jubileu, ele sairá, e voltará para sua propriedade'.",
-      "referencias": [],
-      "comentario": "Se a propriedade não for resgatada, ela retorna ao seu dono original no Ano do Jubileu, garantindo a restauração final.",
-      "temas": ["restauração final", "Jubileu"],
-      "personagens": []
+      "parafrase": "Se alguém tomar para si um animal que havia sido dedicado ao Senhor como oferta, seja um cordeiro ou uma cabra, esse animal não poderá ser trocado, nem vendido, nem resgatado. Qualquer tentativa de substituí-lo por outro será considerada uma violação, e o animal original, que foi devotado, deverá ser entregue ao Senhor, e a pessoa que fez a troca perderá o animal que usou para a substituição, que será considerado profano.",
+      "referencias": [
+        "Levítico 27:10",
+        "Ezequiel 44:29"
+      ],
+      "comentario": "O foco se estreita para animais dedicados. A regra é rígida: se um animal é especificamente dedicado (um 'voto' ou 'separado'), não há permuta. Se a pessoa tentar trocar, ambos os animais são considerados perdidos para ela; o primeiro permanece consagrado, e o segundo se torna inútil para uso comum ('profano') por ter sido usado em uma tentativa de anular uma consagração.",
+      "temas": [
+        "Santidade dos Votos",
+        "Irrevogabilidade da Oferta",
+        "Separação do Profano"
+      ],
+      "personagens": [
+        "O Devoto"
+      ]
     },
     "29": {
-      "parafrase": "'Se um homem vender uma casa de moradia em uma cidade murada, ele terá o direito de resgatá-la até o final do ano em que a vendeu. Seu direito de resgate durará um ano inteiro'.",
-      "referencias": [],
-      "comentario": "A lei trata da venda de casas em cidades muradas, que têm um período de resgate limitado.",
-      "temas": ["venda de casas", "resgate limitado"],
-      "personagens": []
+      "parafrase": "Da mesma forma, se alguém quiser recuperar algo que foi separado por um voto ou juramento de 'herem' — ou seja, algo destinado totalmente à destruição ou dedicação exclusiva a Deus — essa pessoa jamais poderá resgatá-lo. Tudo o que foi assim dedicado sob um voto de 'herem' deve ser morto ou totalmente entregue ao Senhor, sem possibilidade de retorno à posse humana.",
+      "referencias": [
+        "Josué 6:18",
+        "Deuteronômio 7:26"
+      ],
+      "comentario": "Este versículo trata da lei do 'Herem' (o 'anatema' ou 'coisa devotada à destruição'). Ao contrário dos bens que poderiam ser resgatados com multa (v. 27), o 'herem' era uma dedicação absoluta e irrevogável. Se tal coisa fosse tomada, a punição era a morte (no contexto de pessoas ou cidades) ou a destruição total (no contexto de objetos ou animais), pois o ato de 'reclamar' seria uma afronta direta à soberania de Deus sobre o que Lhe foi dedicado sem reservas.",
+      "temas": [
+        "Herem (Anatema)",
+        "Soberania Divina",
+        "Voto Absoluto"
+      ],
+      "personagens": [
+        "Aquele que Consagra"
+      ]
     },
     "30": {
-      "parafrase": "'Mas, se ela não for resgatada antes que o ano completo termine, então a casa na cidade murada pertencerá permanentemente ao comprador e a seus descendentes; não sairá no jubileu'.",
-      "referencias": [],
-      "comentario": "Se a casa não for resgatada dentro do ano, ela se torna propriedade permanente do comprador, pois as casas em cidades muradas são consideradas mais como bens comerciais.",
-      "temas": ["propriedade permanente", "cidades muradas"],
-      "personagens": []
+      "parafrase": "Todas as dízimas da terra, sejam elas provenientes das sementes plantadas ou dos frutos das árvores, pertencem ao Senhor, sendo consideradas sagradas, santificadas para Ele. Elas são a parte reservada a Deus.",
+      "referencias": [
+        "Gênesis 14:20",
+        "Hebreus 7:5"
+      ],
+      "comentario": "A dízima (o décimo de tudo que a terra produz) é explicitamente declarada como propriedade do Senhor. A palavra hebraica para dízima é 'ma'aser', significando 'o décimo'. Isso estabelece a base econômica do sacerdócio e do culto: a primeira e a melhor parte de toda a colheita era reconhecidamente de Deus, não um favor, mas um direito divino.",
+      "temas": [
+        "Dízimo",
+        "Propriedade de Deus",
+        "Economia Sacrificial"
+      ],
+      "personagens": [
+        "O Agricultor"
+      ]
     },
     "31": {
-      "parafrase": "'Mas as casas das aldeias que não têm muro ao redor serão consideradas como campos da terra; elas podem ser resgatadas e sairão no jubileu'.",
-      "referencias": [],
-      "comentario": "Casas em aldeias sem muro são tratadas como campos, e podem ser resgatadas e retornam no Jubileu.",
-      "temas": ["casas em aldeias", "resgate", "Jubileu"],
-      "personagens": []
+      "parafrase": "Se um homem desejar resgatar uma porção da sua dízima, ele deve pagar o valor total estipulado e, além disso, adicionar um quinto (vinte por cento) sobre esse valor, como multa por ter tentado comprar de volta aquilo que já havia sido separado para Deus.",
+      "referencias": [
+        "Levítico 27:31",
+        "Mateus 23:23"
+      ],
+      "comentario": "Este é o mecanismo de resgate para as dízimas. O resgate exigia o valor total mais a multa de 20%. Isso desencorajava a prática, lembrando ao povo que a dízima era um reconhecimento prioritário da soberania de Deus. A lei enfatiza que resgatar o que é de Deus tem um custo mais alto do que a simples posse.",
+      "temas": [
+        "Resgate de Ofertas",
+        "Custo da Redenção",
+        "Prioridade Divina"
+      ],
+      "personagens": [
+        "O Dízimista"
+      ]
     },
     "32": {
-      "parafrase": "'Quanto às cidades dos levitas, as casas nas cidades de sua propriedade, os levitas terão o direito perpétuo de resgate'.",
-      "referencias": [],
-      "comentario": "Os levitas têm um direito perpétuo de resgate sobre suas casas, pois eles não têm herança de terra. Isso garante que eles sempre terão um lugar para morar.",
-      "temas": ["direito perpétuo de resgate", "levitas", "provisão"],
-      "personagens": []
+      "parafrase": "Quanto ao rebanho — seja de gado ou de ovelhas —, cada décima cabeça que passar debaixo da vara do pastor, sendo separada pelo sacerdote, essa será considerada santa, pertencente ao Senhor.",
+      "referencias": [
+        "Êxodo 13:2",
+        "Jeremias 33:13"
+      ],
+      "comentario": "Aqui a dízima é aplicada ao gado. O método de separação era prático: o pastor passava o rebanho por um lugar estreito, e o décimo animal que passasse sob a vara era marcado como propriedade do Senhor. Isso era chamado de 'dízima do gado' e era estritamente para o sustento dos levitas e sacerdotes.",
+      "temas": [
+        "Dízimo do Gado",
+        "Ordenança Pastoral",
+        "Separação pelo Sacerdote"
+      ],
+      "personagens": [
+        "O Pastor",
+        "O Sacerdote"
+      ]
     },
     "33": {
-      "parafrase": "'Se alguém comprar de um levita, então a casa vendida na cidade de sua propriedade sairá no jubileu, pois as casas nas cidades dos levitas são sua propriedade entre os israelitas'.",
-      "referencias": [],
-      "comentario": "As casas dos levitas retornam no Jubileu, garantindo que eles mantenham sua propriedade.",
-      "temas": ["Jubileu", "propriedade dos levitas"],
-      "personagens": []
+      "parafrase": "Neste caso, o proprietário não pode inspecionar e trocar um animal bom por um ruim, nem um animal ruim por um bom, alegando que o que foi escolhido era apenas 'aparentemente' consagrado. Se houver qualquer troca, tanto o animal original quanto o substituto serão considerados inválidos, perdidos para o devoto, e nenhum deles será aceito pelo Senhor.",
+      "referencias": [
+        "Malaquias 1:8",
+        "Provérbios 11:1"
+      ],
+      "comentario": "Este é um severo alerta contra a fraude no dízimo do gado. A intenção era impedir que o povo separasse um animal doente ou fraco para Deus e mantivesse os fortes para si. A lei proíbe a tentativa de 'enganar' Deus com trocas enganosas. O resultado de tal fraude é a perda de ambos os animais, demonstrando que a integridade na oferta é crucial.",
+      "temas": [
+        "Integridade na Adoração",
+        "Fraude Religiosa",
+        "Padrões Divinos"
+      ],
+      "personagens": [
+        "O Proprietário"
+      ]
     },
     "34": {
-      "parafrase": "'Mas o campo dos subúrbios de suas cidades não será vendido, pois é sua propriedade perpétua'.",
-      "referencias": [],
-      "comentario": "Os campos ao redor das cidades levíticas não podem ser vendidos, pois são sua propriedade perpétua e essenciais para seu sustento.",
-      "temas": ["propriedade perpétua", "levitas", "sustento"],
-      "personagens": []
+      "parafrase": "Estas são as leis, os decretos e as ordenanças que o Senhor estabeleceu para Moisés no Monte Sinai, determinando como o povo de Israel deveria conduzir os assuntos sagrados e as ofertas que deveriam ser apresentadas ao Senhor.",
+      "referencias": [
+        "Êxodo 31:18",
+        "Deuteronômio 4:14"
+      ],
+      "comentario": "Este versículo serve como uma conclusão formal para o conjunto de leis apresentadas nesta seção do Levítico, especialmente aquelas relativas à restituição e às dízimas. Ele reafirma que todas essas regras complexas não são invenções humanas, mas sim ordens diretas transmitidas por Moisés, recebidas no Monte Sinai. É a chancela divina sobre o código legal apresentado.",
+      "temas": [
+        "Autoridade da Lei",
+        "Fundamento Sinaítico",
+        "Estrutura Legal"
+      ],
+      "personagens": [
+        "Moisés",
+        "O Senhor"
+      ]
     },
     "35": {
-      "parafrase": "'Se seu irmão empobrecer e não puder se sustentar ao seu lado, você o ajudará, como um estrangeiro ou um residente temporário, para que ele possa viver com você'.",
-      "referencias": [],
-      "comentario": "A lei exige compaixão e ajuda para o irmão empobrecido, tratando-o como um estrangeiro ou residente temporário, garantindo que ele não morra de fome.",
-      "temas": ["compaixão", "ajuda ao pobre", "solidariedade"],
-      "personagens": []
+      "parafrase": "Quando um dos seus concidadãos, um homem pobre que vive entre vocês, estiver em apuros financeiros e não conseguir prover o sustento, vocês não podem tratá-lo como um escravo sem direitos. Seu dever é recebê-lo como um estrangeiro residente, alguém que está apenas de passagem, e dar-lhe apoio para que possa viver dignamente entre vocês. 🤝",
+      "referencias": [
+        "Deuteronômio 15:7",
+        "Êxodo 22:25"
+      ],
+      "comentario": "O termo hebraico para 'estrangeiro residente' ou 'forasteiro' é *ger*. Esta lei estabelece um princípio de misericórdia social: a dignidade do israelita pobre deve ser preservada. Ele não deve ser forçado a trabalhar em condições servis, mas sim sustentado até que possa se reerguer. A implicação é que a comunidade é uma rede de segurança.",
+      "temas": [
+        "Miséria",
+        "Hospitalidade",
+        "Dignidade Humana"
+      ],
+      "personagens": [
+        "Israelita Pobre",
+        "Comunidade"
+      ]
     },
     "36": {
-      "parafrase": "'Não cobre juros dele nem lucro, mas tema o seu Deus, para que seu irmão possa viver com você'.",
-      "referencias": ["Êxodo 22:25"],
-      "comentario": "A lei proíbe a usura (cobrança de juros) de um irmão israelita pobre. O temor a Deus é a motivação para a compaixão.",
-      "temas": ["usura", "compaixão", "temor a Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Vocês não devem lucrar com a desgraça do seu irmão, cobrando juros exorbitantes sobre qualquer empréstimo que lhe fizerem, seja de dinheiro, alimento ou qualquer outro bem essencial para a vida. A intenção é ajudar, não explorar a necessidade alheia. 🚫💸",
+      "referencias": [
+        "Neemias 5:10",
+        "Salmos 15:5"
+      ],
+      "comentario": "A proibição de 'mordida' ou 'juros' (*neshekh*) era absoluta entre israelitas. Este princípio diferenciava Israel das práticas econômicas das nações vizinhas, onde a usura era comum contra os pobres. O foco é na reciprocidade fraternal, não no lucro predatório.",
+      "temas": [
+        "Usura",
+        "Empréstimo",
+        "Integridade Financeira"
+      ],
+      "personagens": [
+        "Credor",
+        "Devedor"
+      ]
     },
     "37": {
-      "parafrase": "'Não lhe dará seu dinheiro com juros, nem lhe dará sua comida com lucro'.",
-      "referencias": [],
-      "comentario": "A proibição de juros e lucro é reiterada, enfatizando a compaixão e a solidariedade.",
-      "temas": ["usura", "compaixão"],
-      "personagens": []
+      "parafrase": "Vocês devem emprestar a ele o necessário, seja prata para iniciar um novo negócio ou comida para alimentar sua família, e não devem exigir nada em troca além da restituição do principal, sem qualquer acréscimo de ganho para vocês. Seja generoso no ato do empréstimo. 🙏",
+      "referencias": [
+        "Lucas 6:35",
+        "Provérbios 19:17"
+      ],
+      "comentario": "Esta passagem complementa o versículo anterior. Não basta não cobrar juros; deve haver uma disposição ativa para ajudar. O ato de emprestar sem esperar retorno financeiro (*'lo te’ashek ba-neshekh'*) solidifica a comunidade baseada na confiança mútua.",
+      "temas": [
+        "Generosidade",
+        "Apoio Mútuo",
+        "Empréstimo"
+      ],
+      "personagens": [
+        "Aquele que Empresta"
+      ]
     },
     "38": {
-      "parafrase": "'Eu sou o Senhor, seu Deus, que os tirou da terra do Egito para lhes dar a terra de Canaã e para ser o seu Deus'.",
-      "referencias": [],
-      "comentario": "Deus reafirma Sua identidade como o Redentor e o Provedor, que os tirou do Egito para lhes dar a terra e ser o seu Deus. A obediência a essas leis é uma resposta à redenção.",
-      "temas": ["redenção", "provisão divina", "terra prometida", "relacionamento com Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Lembrem-se disto: Eu sou o Senhor, seu Deus, que os tirou da terra do Egito para libertá-los da escravidão da opressão, dando-lhes a terra prometida. Vocês são libertos, e por isso, devem agir com liberdade e justiça para com os outros. 🇪🇬➡️🏞️",
+      "referencias": [
+        "Êxodo 20:2",
+        "Deuteronômio 5:15"
+      ],
+      "comentario": "Este é o fundamento teológico de toda a legislação social em Levítico: a experiência da libertação (Exclusão do Egito) obriga Israel a replicar essa misericórdia internamente. A identidade nacional está ligada à prática da justiça.",
+      "temas": [
+        "Lembrança da Aliança",
+        "Identidade de Israel",
+        "Liberdade"
+      ],
+      "personagens": [
+        "O Senhor"
+      ]
     },
     "39": {
-      "parafrase": "'Se seu irmão empobrecer ao seu lado e se vender a você, não o fará servir como escravo'.",
-      "referencias": [],
-      "comentario": "A lei proíbe a escravidão de um irmão israelita. A servidão é limitada e não é permanente.",
-      "temas": ["servidão limitada", "proibição de escravidão"],
-      "personagens": []
+      "parafrase": "Se um de vocês, por causa da pobreza extrema, for forçado a se vender a outro israelita, ele não deve ser tratado como um escravo de servidão, como se fosse um estrangeiro que não tem mais direitos. 💔",
+      "referencias": [
+        "Levítico 23:39",
+        "Deuteronômio 15:12"
+      ],
+      "comentario": "A distinção aqui é crucial: o serviço temporário de um israelita endividado (*'eved cana'ani'* - servo hebreu) era diferente da escravidão perpétua. Ele não era propriedade, mas sim um trabalhador contratado sob condições específicas de remuneração e liberação.",
+      "temas": [
+        "Servidão por Dívida",
+        "Liberdade Pessoal",
+        "Condições de Trabalho"
+      ],
+      "personagens": [
+        "Israelita Vendido"
+      ]
     },
     "40": {
-      "parafrase": "'Ele será como um trabalhador assalariado ou como um residente temporário com você; ele o servirá até o ano do jubileu'.",
-      "referencias": [],
-      "comentario": "A servidão é temporária, e o servo é tratado como um trabalhador assalariado, não como um escravo. Ele será libertado no Jubileu.",
-      "temas": ["servidão temporária", "trabalhador assalariado", "Jubileu"],
-      "personagens": []
+      "parafrase": "Ele trabalhará para você apenas pelo tempo necessário, até que a dívida seja quitada ou chegue o Ano do Jubileu, e então ele deverá ser libertado, levando consigo sua família, para que possam retornar à sua herança original e à sua própria casa. Seu serviço deve ter um prazo de validade. ⏳",
+      "referencias": [
+        "Levítico 25:10",
+        "Jeremias 34:14"
+      ],
+      "comentario": "O 'Ano do Jubileu' (mencionado plenamente no v. 40b e cap. 25) era o limite final para qualquer servidão contratual entre israelitas. Isso garantia que a terra e a liberdade familiar fossem preservadas em Israel.",
+      "temas": [
+        "Ano do Jubileu",
+        "Restituição da Herança",
+        "Tempo Limite da Servidão"
+      ],
+      "personagens": [
+        "O Servo",
+        "O Mestre"
+      ]
     },
     "41": {
-      "parafrase": "'Então ele sairá de você, ele e seus filhos com ele, e voltará para sua família e para a propriedade de seus pais'.",
-      "referencias": [],
-      "comentario": "A libertação no Jubileu inclui a família do servo e a restauração de sua propriedade, garantindo a justiça social.",
-      "temas": ["libertação", "restauração de propriedade", "justiça social"],
-      "personagens": []
+      "parafrase": "Quando for a hora de sua liberdade, se ele tiver filhos nascidos durante o tempo em que serviu a você, esses filhos também deverão ser libertados junto com ele, para que não permaneçam presos à sua casa por causa de uma dívida que não era deles. 👨‍👩‍👧‍👦",
+      "referencias": [
+        "Êxodo 21:3-4",
+        "Deuteronômio 15:13-14"
+      ],
+      "comentario": "Isto reforça a ideia de que a dívida é pessoal e não hereditária, dentro do contexto da comunidade de fé. A liberdade se estende à próxima geração, prevenindo o estabelecimento de dinastias de servos.",
+      "temas": [
+        "Hereditariedade da Dívida",
+        "Família",
+        "Libertação"
+      ],
+      "personagens": [
+        "Filhos do Servo"
+      ]
     },
     "42": {
-      "parafrase": "'Pois eles são meus servos, que tirei da terra do Egito; não serão vendidos como escravos'.",
-      "referencias": [],
-      "comentario": "A razão para a proibição da escravidão é que os israelitas são servos de Deus, que os redimiu do Egito. Eles não podem ser escravizados por outros.",
-      "temas": ["servos de Deus", "redenção", "liberdade"],
-      "personagens": ["Deus"]
+      "parafrase": "Pois eles são meus servos, tirados do Egito. Eles não podem ser vendidos como escravos comuns, destinados à servidão perpétua, como se fossem gado comprado de estrangeiros. Essa desumanização é inaceitável para mim. 🛑",
+      "referencias": [
+        "Gênesis 17:13",
+        "1 Coríntios 7:23"
+      ],
+      "comentario": "O argumento central é a soberania divina sobre o povo. Uma vez que Deus os redimiu da escravidão ('Eles são Meus servos'), nenhum israelita tem o direito de reivindicar propriedade absoluta sobre outro. O hebraico reforça a proibição de 'ser vendido com a venda de um escravo' (*be'avodat 'eved*).",
+      "temas": [
+        "Propriedade de Deus",
+        "Escravidão",
+        "Redenção"
+      ],
+      "personagens": [
+        "O Senhor"
+      ]
     },
     "43": {
-      "parafrase": "'Não o dominarás com rigor, mas temerás o teu Deus'.",
-      "referencias": [],
-      "comentario": "A lei proíbe o tratamento rigoroso dos servos, e o temor a Deus é a motivação para o tratamento justo.",
-      "temas": ["tratamento justo", "temor a Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Vocês não devem dominá-lo com rigor ou crueldade, mas devem tratá-lo com respeito, durante todo o tempo de seu serviço, pois ele está ali trabalhando para você como um trabalhador contratado por um período determinado. Tenha sempre temor de Deus no seu tratamento. 😟",
+      "referencias": [
+        "Efésios 6:9",
+        "Deuteronômio 23:15-16"
+      ],
+      "comentario": "A ênfase aqui é no 'domínio com severidade' (*be-farzel'* - literalmente, com ferro). O tratamento deve ser humano, reconhecendo a temporariedade da situação de servidão.",
+      "temas": [
+        "Tratamento Justo",
+        "Domínio",
+        "Temor a Deus"
+      ],
+      "personagens": [
+        "O Mestre",
+        "O Servo Contratado"
+      ]
     },
     "44": {
-      "parafrase": "'Quanto aos seus servos e servas que você pode ter, vocês os comprarão das nações ao seu redor; deles vocês comprarão servos e servas'.",
-      "referencias": [],
-      "comentario": "A lei permite a compra de escravos de nações estrangeiras, mas com a condição de que sejam tratados com justiça.",
-      "temas": ["escravidão de estrangeiros", "justiça"],
-      "personagens": []
+      "parafrase": "Contudo, em relação à compra de servos e servas, vocês podem adquiri-los de nações vizinhas, aquelas que não fazem parte da aliança de Israel. Estes poderão se tornar propriedades permanentes de vocês e de seus descendentes. 🌍",
+      "referencias": [
+        "Gênesis 17:27",
+        "Números 31:28"
+      ],
+      "comentario": "Esta é uma concessão dura, mas necessária para entender o contexto legal da época. A escravidão de estrangeiros não-israelitas era permitida, em contraste com a proibição de escravizar hebreus. Isso mantinha a distinção cultural e religiosa.",
+      "temas": [
+        "Escravidão Estrangeira",
+        "Aliança",
+        "Distinção Cultural"
+      ],
+      "personagens": [
+        "Estrangeiros"
+      ]
     },
     "45": {
-      "parafrase": "'Também poderão comprá-los dos filhos dos residentes temporários que vivem entre vocês, e de suas famílias que estão com vocês, que eles geraram em sua terra; eles serão sua propriedade'.",
-      "referencias": [],
-      "comentario": "A lei permite a compra de escravos de residentes temporários, mas com a condição de que sejam tratados com justiça.",
-      "temas": ["escravidão de estrangeiros", "justiça"],
-      "personagens": []
+      "parafrase": "Da mesma forma, vocês podem comprar filhos de estrangeiros que nasceram em sua terra. Esses, por sua vez, serão tratados como herança, podendo ser herdados por seus filhos após sua morte, servindo perpetuamente como propriedade. 💼",
+      "referencias": [
+        "Josué 16:10",
+        "1 Reis 9:21-22"
+      ],
+      "comentario": "O mecanismo legal para a manutenção da posse de servos não-israelitas era a herança familiar, diferenciando-os drasticamente dos hebreus que deviam ser libertos no Jubileu.",
+      "temas": [
+        "Hereditariedade da Escravidão",
+        "Propriedade",
+        "Permanência"
+      ],
+      "personagens": [
+        "Descendentes"
+      ]
     },
     "46": {
-      "parafrase": "'Vocês os deixarão como herança para seus filhos depois de vocês, para possuí-los como propriedade perpétua. Mas sobre seus irmãos, os israelitas, vocês não os dominarão com rigor'.",
-      "referencias": [],
-      "comentario": "A escravidão de estrangeiros pode ser perpétua, mas a lei proíbe o tratamento rigoroso. A distinção entre israelitas e estrangeiros é mantida.",
-      "temas": ["escravidão perpétua", "tratamento justo", "distinção"],
-      "personagens": []
+      "parafrase": "A regra final é clara: Tratem-nos como seus bens, mas lembrem-se que, para vocês, eles são diferentes. Enquanto a servidão do seu irmão hebreu é sempre temporária, a do estrangeiro pode ser eterna.",
+      "referencias": [
+        "Colossenses 3:11",
+        "Deuteronômio 29:11"
+      ],
+      "comentario": "Este versículo resume o contraste estabelecido: a identidade baseada na aliança (ser 'filho de Abraão') garante a liberdade potencial, enquanto a origem estrangeira pode implicar a permanência na servidão. É um reflexo da estrutura social permitida no Antigo Oriente Próximo, mas mitigada pela lei de misericórdia para os 'irmãos'.",
+      "temas": [
+        "Contraste Legal",
+        "Aliança vs. Estrangeiro",
+        "Estrutura Social"
+      ],
+      "personagens": [
+        "O Servo Hebreu",
+        "O Servo Estrangeiro"
+      ]
     },
     "47": {
-      "parafrase": "'Se um estrangeiro ou residente temporário entre vocês prosperar, e seu irmão empobrecer ao seu lado e se vender ao estrangeiro ou residente temporário, ou a um membro da família do estrangeiro,",
-      "referencias": [],
-      "comentario": "A lei trata da venda de um israelita a um estrangeiro, que é permitida em caso de pobreza extrema.",
-      "temas": ["venda a estrangeiro", "pobreza"],
-      "personagens": []
+      "parafrase": "Se um estrangeiro que mora entre vocês ficar rico e seu irmão israelita empobrecer a ponto de precisar se vender ao estrangeiro, isso é permitido. O israelita deve servi-lo, mas não como um escravo forçado.",
+      "referencias": [
+        "Isaías 60:14",
+        "Deuteronômio 28:43"
+      ],
+      "comentario": "Aqui, a situação se inverte: o israelita pode se tornar servo temporário de um estrangeiro residente que prosperou na terra de Israel. No entanto, o princípio da servidão temporária e humana (v. 39-43) ainda deve ser aplicado a ele, mesmo sob um mestre estrangeiro.",
+      "temas": [
+        "Inversão de Riqueza",
+        "Servidão do Estrangeiro",
+        "Condições de Serviço"
+      ],
+      "personagens": [
+        "Israelita Pobre",
+        "Estrangeiro Rico"
+      ]
     },
     "48": {
-      "parafrase": "'ele terá o direito de resgate depois de se vender. Um de seus irmãos poderá resgatá-lo'.",
-      "referencias": [],
-      "comentario": "O israelita vendido a um estrangeiro tem o direito de ser resgatado por um parente, garantindo sua liberdade.",
-      "temas": ["resgate", "liberdade"],
-      "personagens": []
+      "parafrase": "Mesmo tendo se vendido a um estrangeiro, o israelita ainda tem o direito de ser resgatado. Seus próprios parentes, ou ele mesmo, têm a obrigação de pagar o valor justo do resgate com base no tempo restante de serviço até o próximo Ano do Jubileu, ou até o ano em que a dívida seria paga.",
+      "referencias": [
+        "Rute 4:1",
+        "Ezequiel 48:23"
+      ],
+      "comentario": "O direito de resgate (*go'el*) é um conceito central. Mesmo sob um mestre estrangeiro, o vínculo com a família e a terra não é totalmente cortado. O 'parente remidor' (*go'el*) tem a responsabilidade de intervir, pagando o preço justo baseado na contagem dos anos até a liberdade.",
+      "temas": [
+        "Direito de Resgate",
+        "Remissão da Dívida",
+        "Vínculo Familiar"
+      ],
+      "personagens": [
+        "Israelita Vendido",
+        "Remidor (Parente)"
+      ]
     },
     "49": {
-      "parafrase": "'Ou seu tio, ou o filho de seu tio, ou qualquer parente próximo de sua família poderá resgatá-lo; ou, se ele prosperar, poderá resgatar a si mesmo'.",
-      "referencias": [],
-      "comentario": "A lei especifica quem pode resgatar o israelita, e ele também pode se resgatar se tiver os meios.",
-      "temas": ["resgate", "parente resgatador"],
-      "personagens": []
+      "parafrase": "Caso não haja ninguém com recursos para resgatá-lo, ou se ele próprio conseguir acumular o suficiente com o seu trabalho, ele deve ser libertado quando tiver pago o equivalente aos anos que faltavam para o Jubileu, ou o valor equivalente ao que teria sido pago por ele. 💪",
+      "referencias": [
+        "Isaías 62:12",
+        "Jeremias 32:7-8"
+      ],
+      "comentario": "A liberdade pode vir por resgate familiar ou por auto-emancipação (economia própria). O valor de resgate é calculado com base no valor de compra do servo, ajustado pelo tempo de serviço restante até o Jubileu, garantindo que o mestre estrangeiro não perca todo o 'investimento' enquanto honra a lei de libertação.",
+      "temas": [
+        "Auto-Emancipação",
+        "Cálculo do Resgate",
+        "Justiça Econômica"
+      ],
+      "personagens": [
+        "O Servo"
+      ]
     },
     "50": {
-      "parafrase": "'Ele calculará com aquele que o comprou desde o ano em que se vendeu a ele até o ano do jubileu, e o preço de sua venda será de acordo com o número de anos, como o tempo de um trabalhador assalariado'.",
-      "referencias": [],
-      "comentario": "O preço do resgate é proporcional ao tempo restante até o Jubileu, garantindo a justiça na transação.",
-      "temas": ["preço do resgate", "justiça"],
-      "personagens": []
+      "parafrase": "Assim, se ele tiver servido ao estrangeiro pelo período estipulado, no ano do Jubileu ele e seus filhos deverão ser libertados, retornando para a sua própria linhagem e para a terra que foi designada aos seus antepassados. Ele estará finalmente livre para reconstruir sua vida e sua herança familiar. 🎉",
+      "referencias": [
+        "Levítico 27:24",
+        "Josué 21:43"
+      ],
+      "comentario": "O Jubileu, mesmo para um servo de um mestre estrangeiro, é o marco final da re-centralização da propriedade e da liberdade na estrutura tribal de Israel. O retorno à 'sua própria família' (*mishpachto*) reforça que a identidade social e territorial era inalienável no longo prazo.",
+      "temas": [
+        "Jubileu Final",
+        "Restituição da Herança",
+        "Fim da Servidão"
+      ],
+      "personagens": [
+        "O Servo Libertado",
+        "Seus Filhos"
+      ]
     },
     "51": {
-      "parafrase": "'Se ainda restarem muitos anos, ele devolverá uma parte do preço de sua compra, proporcional aos anos restantes'.",
-      "referencias": [],
-      "comentario": "Se o resgate for feito antes do Jubileu, o preço é ajustado de acordo com o tempo restante.",
-      "temas": ["ajuste de preço", "resgate"],
-      "personagens": []
+      "parafrase": "Se, durante a contagem do dízimo de tudo o que você possui, alguém desejar resgatar uma porção de sua oferta consagrada, ele deve calcular o valor total do item e, além disso, adicionar um quinto (20%) sobre esse valor, como taxa de resgate, entregando-o ao sacerdote. Assim, o item sacrificado retorna ao seu dono original, e o sacerdote recebe o valor adicional como compensação.",
+      "referencias": [
+        "Levítico 27:10",
+        "Números 18:24"
+      ],
+      "comentario": "Este versículo estabelece a penalidade ou taxa para o resgate de algo já separado para Deus (o dízimo ou a oferta). O resgate exigia o pagamento do valor avaliado mais um acréscimo de um quinto (20%). O termo hebraico para 'resgatar' (qa'am) implica em 'comprar de volta'. Isso demonstra que o que era dedicado era considerado transferido, e sua recuperação era um ato de compra com um prêmio, honrando a santidade da dedicação inicial.",
+      "temas": [
+        "Redenção de Ofertas",
+        "Sistemas de Penalidade",
+        "Administração Sacerdotal"
+      ],
+      "personagens": [
+        "Sacerdote",
+        "Oferecente"
+      ]
     },
     "52": {
-      "parafrase": "'E se restarem poucos anos até o ano do jubileu, ele calculará com ele, e devolverá o preço de seu resgate de acordo com os anos restantes'.",
-      "referencias": [],
-      "comentario": "O preço é ajustado para um período menor também.",
-      "temas": ["ajuste de preço", "resgate"],
-      "personagens": []
+      "parafrase": "No caso de bens que são contados para o dízimo — sejam animais do rebanho (ovelhas ou cabras) —, tudo o que for da sorte e passar sob a vara de contagem do sacerdote, será contado como o décimo, e não haverá possibilidade de resgate.",
+      "referencias": [
+        "Levítico 27:32",
+        "Ezequiel 20:37"
+      ],
+      "comentario": "Aqui se diferencia o dízimo de animais vivos do resgate de outros bens (como terras ou objetos). Os animais consagrados ao dízimo eram intransferíveis; eles pertenciam ao Senhor. O verbo 'passar sob a vara' (avár ba'mitnād) descreve um processo de contagem rigoroso e imutável, onde cada décimo animal era separado e consagrado. A exclusão do resgate enfatiza a soberania de Deus sobre os animais consagrados.",
+      "temas": [
+        "Imutabilidade do Dízimo Animal",
+        "Consagração Irrevogável",
+        "Contagem Ritual"
+      ],
+      "personagens": [
+        "Sacerdote"
+      ]
     },
     "53": {
-      "parafrase": "'Ele será como um trabalhador assalariado anual com ele; e não o dominarás com rigor diante de seus olhos'.",
-      "referencias": [],
-      "comentario": "O israelita vendido a um estrangeiro deve ser tratado como um trabalhador assalariado, não como um escravo, e não deve ser dominado com rigor.",
-      "temas": ["tratamento justo", "servidão limitada"],
-      "personagens": []
+      "parafrase": "Entretanto, se a pessoa desejar resgatar um animal que foi separado para o dízimo, ela deverá pagar o valor de avaliação estabelecido pelo sacerdote mais o adicional de um quinto (20%) sobre o valor, e então o animal será considerado novamente seu, livre de sua consagração divina.",
+      "referencias": [
+        "Levítico 27:11-13",
+        "Gênesis 28:22"
+      ],
+      "comentario": "Este versículo parece contrastar com o 52, mas na prática, a lei do resgate com o acréscimo de 20% (como no versículo 51) se aplica a bens de maior valor ou que não eram estritamente os 'dízimos de passagem' (como possivelmente descrito em Levítico 27:32). Se um animal já havia sido dedicado com um voto específico (diferente do dízimo obrigatório), ele poderia ser resgatado. A penalidade de 20% funcionava como um reconhecimento de que a santidade de um voto era algo valioso que não se perdia facilmente.",
+      "temas": [
+        "Resgate Condicional",
+        "Valor da Santidade",
+        "Compensação Ritual"
+      ],
+      "personagens": [
+        "Sacerdote",
+        "Povo"
+      ]
     },
     "54": {
-      "parafrase": "'E se ele não for resgatado por nenhum desses meios, ele sairá livre no ano do jubileu, ele e seus filhos com ele'.",
-      "referencias": [],
-      "comentario": "Se o israelita não for resgatado, ele e sua família serão libertados no Ano do Jubileu, garantindo a liberdade final.",
-      "temas": ["liberdade final", "Jubileu"],
+      "parafrase": "Todo o dízimo de todo o produto da terra, seja semente que será plantada novamente ou fruto da árvore, pertence ao Senhor; ele é uma coisa santa, consagrada a Yahweh, e não pode ser resgatado por ninguém.",
+      "referencias": [
+        "Levítico 27:30",
+        "Malaquias 3:8"
+      ],
+      "comentario": "Aqui, a lei é aplicada de forma absoluta ao dízimo dos produtos da terra (frutos e grãos). A frase chave é 'é coisa santa ao Senhor' (qodesh laYahweh). Diferentemente dos animais ou objetos, os dízimos de colheitas e produtos da terra eram totalmente irrevogáveis. O povo não podia 'comprar de volta' o que já era, por lei, designado para Deus. Isso reforça a ideia de que a primeira porção da provisão terrena pertence integralmente ao Criador.",
+      "temas": [
+        "Santidade da Colheita",
+        "Dízimo Irredimível",
+        "Propriedade Divina"
+      ],
       "personagens": []
     },
     "55": {
-      "parafrase": "'Pois os israelitas são meus servos; eles são meus servos, que tirei da terra do Egito. Eu sou o Senhor, seu Deus'.",
-      "referencias": [],
-      "comentario": "A razão para a libertação no Jubileu é que os israelitas são servos de Deus, que os redimiu do Egito. Eles não podem ser escravizados permanentemente por outros.",
-      "temas": ["servos de Deus", "redenção", "liberdade"],
-      "personagens": ["Deus"]
+      "parafrase": "Desta forma, o sacerdote separará para si a porção devida, depois que tudo for contado e avaliado. É a partir dessas ofertas e dízimos consagrados que os levitas e sacerdotes deverão prestar seus serviços sagrados no Tabernáculo, pois eles não receberão terras como herança entre as tribos de Israel, sendo o dízimo seu sustento vitalício.",
+      "referencias": [
+        "Números 18:21",
+        "Josué 13:33"
+      ],
+      "comentario": "Este versículo finaliza o ciclo administrativo do dízimo, conectando a separação dos bens (54) com o propósito final: o sustento da tribo de Levi. Os levitas não receberam porção de terra na divisão prometida, portanto, o dízimo era seu 'salário' e sua herança espiritual. O sacerdote 'separará' (hibdîl), reiterando seu papel como administrador dos recursos sagrados para manter o serviço do santuário, um arranjo fundamental para a vida religiosa de Israel.",
+      "temas": [
+        "Sustento Levítico",
+        "Administração dos Recursos Sagrados",
+        "Herança do Sacerdócio"
+      ],
+      "personagens": [
+        "Sacerdote",
+        "Levitas"
+      ]
     }
   }
 }

@@ -1,197 +1,451 @@
 {
   "livro": "1 Samuel",
   "capitulo": 9,
-  "contexto_historico": "Após o pedido de Israel por um rei, este capítulo introduz Saul, um jovem benjamita de boa aparência e estatura. A narrativa descreve a providência divina que o leva ao encontro de Samuel, que já havia sido instruído por Deus a ungi-lo como o primeiro rei de Israel.",
-  "bloco_tematico": "Saul Encontra Samuel",
+  "contexto_historico": "Após a unção de Saul como primeiro rei de Israel (1 Samuel 8-10), ele enfrenta desafios iniciais. O capítulo 9 começa com Saul procurando seus jumentos perdidos, um evento aparentemente trivial que o levará ao encontro com o profeta Samuel. Este momento de busca pessoal e subsequente unção pública demonstra a transição do governo dos juízes para a monarquia sob a liderança de Saul, um homem fisicamente imponente, mas ainda incerto sobre seu papel real. A tensão subjacente é a desconfiança do povo em relação à monarquia e a soberania de Deus sobre a escolha do rei. 🔍👑",
+  "bloco_tematico": "A Busca Divina: Saul, os Jumentos Perdidos e a Chamada de Samuel 🗺️🗣️",
   "versiculos": {
     "1": {
-      "parafrase": "Havia um homem de Benjamim, cujo nome era Quis, filho de Abiel, filho de Zeror, filho de Becorate, filho de Afia, um benjamita, homem poderoso e influente.",
-      "referencias": [],
-      "comentario": "A genealogia de Quis, pai de Saul, o descreve como um homem de posses e influência, indicando que Saul vinha de uma família respeitável, embora não da tribo de Judá, que era a tribo real prometida.",
-      "temas": ["genealogia", "influência", "origem"],
-      "personagens": ["Quis"]
+      "parafrase": "Naquela época, havia um homem chamado Quis, um benjamita de posses e destaque na sua tribo. Ele tinha um filho chamado Saul, um jovem impressionante, robusto e de boa aparência. De fato, não havia homem mais belo entre todos os israelitas do que Saul; ele era espetacular de ponta a ponta.",
+      "referencias": [
+        "Gênesis 41:40",
+        "Deuteronômio 17:14-15"
+      ],
+      "comentario": "Quis é introduzido como um homem de importância na tribo de Benjamim. O versículo enfatiza a aparência física de Saul, o que era um critério culturalmente valorizado para um líder (ver 1 Samuel 10:23). O termo hebraico para 'espetacular' ou 'bom de ver' (tov mara'ot) sugere uma beleza que chama a atenção.",
+      "temas": [
+        "Aparência Física",
+        "A Tribo de Benjamim",
+        "Origens de Saul"
+      ],
+      "personagens": [
+        "Quis",
+        "Saul"
+      ]
     },
     "2": {
-      "parafrase": "Ele tinha um filho chamado Saul, jovem e belo. Não havia entre os israelitas homem mais belo do que ele; de ombros para cima, ele era mais alto do que todo o povo.",
-      "referencias": [],
-      "comentario": "Saul é apresentado com qualidades físicas impressionantes: jovem, belo e de estatura superior. Essas características eram valorizadas em um líder na cultura da época e correspondiam ao desejo do povo por um rei que se destacasse.",
-      "temas": ["aparência", "estatura", "liderança"],
-      "personagens": ["Saul"]
+      "parafrase": "Um dia, as jumentas de Quis desapareceram. Preocupado com seu patrimônio, Quis chamou seu filho Saul e ordenou: 'Pegue um dos servos e vá procurar as jumentas perdidas.'",
+      "referencias": [
+        "Jó 1:14-17",
+        "Lucas 15:11-17"
+      ],
+      "comentario": "A perda de animais domésticos era uma questão séria de subsistência e status na época. O pai dele, Quis, delega a tarefa aparentemente mundana para Saul, indicando que Saul ainda estava sob a autoridade paterna e ainda não era o rei reconhecido.",
+      "temas": [
+        "Perda e Busca",
+        "Dever Familiar"
+      ],
+      "personagens": [
+        "Quis",
+        "Saul",
+        "Servo"
+      ]
     },
     "3": {
-      "parafrase": "As jumentas de Quis, pai de Saul, se perderam. Então Quis disse a seu filho Saul: 'Pegue um dos servos com você e vá procurar as jumentas.'",
-      "referencias": [],
-      "comentario": "A perda das jumentas é o evento providencial que leva Saul ao encontro de Samuel. É um evento mundano que Deus usa para cumprir Seus propósitos divinos.",
-      "temas": ["providência divina", "evento mundano", "busca"],
-      "personagens": ["Quis", "Saul"]
+      "parafrase": "Eles viajaram por várias colinas da terra de Efraim, mas não encontraram nada. Depois, buscaram na terra de Benjamim, mas também voltaram de mãos vazias.",
+      "referencias": [
+        "Números 34:1-12"
+      ],
+      "comentario": "O itinerário geográfico (Efraim e Benjamim) mostra o esforço dedicado à busca. A falha em encontrar os animais sublinha o motivo que os levará ao profeta Samuel.",
+      "temas": [
+        "Busca Fútil",
+        "Geografia da Terra"
+      ],
+      "personagens": [
+        "Saul",
+        "Servo"
+      ]
     },
     "4": {
-      "parafrase": "Ele passou pela região montanhosa de Efraim, depois pela terra de Salisa, mas não as encontraram. Passaram pela terra de Saalim, mas elas não estavam lá. Passaram pela terra de Benjamim, mas não as encontraram.",
-      "referencias": [],
-      "comentario": "A busca é longa e infrutífera, levando Saul para longe de sua casa e para a área onde Samuel estava.",
-      "temas": ["busca", "jornada"],
-      "personagens": ["Saul"]
+      "parafrase": "Enquanto percorriam a região de Suf, Saul disse ao seu servo: 'Vamos voltar! Meu pai deve estar angustiado com a nossa ausência e preocupado não com as jumentas, mas sim conosco.'",
+      "referencias": [
+        "Jó 12:14",
+        "Provérbios 29:15"
+      ],
+      "comentario": "Este versículo revela a preocupação filial de Saul, mostrando um bom caráter humano. O hebraico 'tsar' (angustiado) descreve a dor de Quis, priorizando o filho sobre o gado.",
+      "temas": [
+        "Lealdade Familiar",
+        "Prioridades"
+      ],
+      "personagens": [
+        "Saul",
+        "Servo",
+        "Quis"
+      ]
     },
     "5": {
-      "parafrase": "Quando chegaram à terra de Zufe, Saul disse ao servo que estava com ele: 'Venha, vamos voltar, para que meu pai não se preocupe mais com as jumentas e comece a se preocupar conosco.'",
-      "referencias": [],
-      "comentario": "Saul demonstra preocupação com seu pai, mostrando um traço de caráter positivo. Ele está pronto para desistir da busca, mas a providência divina tem outros planos.",
-      "temas": ["preocupação filial", "desistência"],
-      "personagens": ["Saul", "Servo"]
+      "parafrase": "O servo respondeu: 'Espere um pouco, senhor. Há nesta cidade um homem de Deus muito respeitado, alguém que sempre acerta o que diz. Vamos procurá-lo; talvez ele saiba o caminho que devemos seguir para encontrar o que perdemos.'",
+      "referencias": [
+        "1 Reis 17:24",
+        "2 Reis 4:9"
+      ],
+      "comentario": "O servo demonstra sabedoria prática e conhecimento das figuras espirituais locais, introduzindo a figura de Samuel. O 'homem de Deus' (ish ha'Elohim) é um título de grande reverência para profetas na antiguidade.",
+      "temas": [
+        "Sabedoria Humana",
+        "O Profeta",
+        "Direção Divina"
+      ],
+      "personagens": [
+        "Servo",
+        "Saul",
+        "Homem de Deus (Samuel)"
+      ]
     },
     "6": {
-      "parafrase": "Mas o servo lhe disse: 'Eis que nesta cidade há um homem de Deus, e ele é muito respeitado. Tudo o que ele diz acontece. Vamos até lá; talvez ele nos diga o caminho que devemos seguir.'",
-      "referencias": [],
-      "comentario": "O servo, que tem mais discernimento espiritual do que Saul, sugere consultar o homem de Deus (Samuel), cuja reputação como profeta é amplamente conhecida.",
-      "temas": ["discernimento espiritual", "reputação profética", "busca por orientação"],
-      "personagens": ["Servo", "Saul", "Samuel"]
+      "parafrase": "Saul hesitou e disse: 'Se formos até lá, o que lhe ofereceremos? As provisões que trouxemos já estão acabando, e não temos presente algum para dar a esse homem tão importante.'",
+      "referencias": [
+        "Êxodo 23:15",
+        "Malaquias 1:8"
+      ],
+      "comentario": "Saul demonstra humildade e reconhece a etiqueta da época: para buscar um favor, era necessário apresentar uma oferta ou presente ('mishai'). Ele se preocupa com a etiqueta apropriada.",
+      "temas": [
+        "Humildade",
+        "Etiqueta e Oferta"
+      ],
+      "personagens": [
+        "Saul",
+        "Servo"
+      ]
     },
     "7": {
-      "parafrase": "Saul disse ao seu servo: 'Mas se formos, o que levaremos ao homem? Pois o pão em nossos sacos acabou, e não temos presente para levar ao homem de Deus. O que temos?
-      "referencias": [],
-      "comentario": "Saul demonstra uma preocupação prática e cultural: não se deve ir a um homem de Deus de mãos vazias. Isso revela sua falta de recursos e sua dependência do servo.",
-      "temas": ["preocupação prática", "costume cultural", "dependência"],
-      "personagens": ["Saul", "Servo"]
+      "parafrase": "O servo tranquilizou-o, dizendo: 'Olhe, eu trouxe comigo um quarto de siclo de prata. Daremos isso ao homem de Deus, e ele nos indicará o caminho para voltarmos para casa com as jumentas.'",
+      "referencias": [
+        "Marcos 14:3-5"
+      ],
+      "comentario": "O servo, tendo uma moeda de prata (um valor considerável), resolve a questão prática do presente. O siclo era uma unidade de peso padrão, não necessariamente uma moeda cunhada.",
+      "temas": [
+        "Provisão",
+        "Medidas de Valor"
+      ],
+      "personagens": [
+        "Servo",
+        "Saul"
+      ]
     },
     "8": {
-      "parafrase": "O servo respondeu a Saul novamente: 'Eis que tenho em minha mão um quarto de siclo de prata. Eu o darei ao homem de Deus, e ele nos dirá o nosso caminho.'",
-      "referencias": [],
-      "comentario": "O servo providencia o pagamento, mostrando sua iniciativa e a importância de consultar o profeta.",
-      "temas": ["provisão", "iniciativa"],
-      "personagens": ["Servo", "Saul"]
+      "parafrase": "Saul concordou: 'Tudo bem, vamos! Se não fosse por sua insistência, eu nunca teria vindo a esta cidade.' Assim, eles seguiram para o lugar onde morava o homem de Deus.",
+      "referencias": [
+        "Provérbios 18:24",
+        "Gênesis 30:25-31"
+      ],
+      "comentario": "Este é um ponto de virada irônico: Saul, que se tornaria o líder de Israel, está sendo conduzido por um servo na busca por jumentas. A visita, impulsionada pela insistência, não é seu plano original.",
+      "temas": [
+        "Destino",
+        "Obediência à Sugestão"
+      ],
+      "personagens": [
+        "Saul",
+        "Servo"
+      ]
     },
     "9": {
-      "parafrase": "(Antigamente em Israel, quando alguém ia consultar a Deus, dizia: 'Vamos ao vidente', pois o que hoje se chama profeta, antigamente se chamava vidente.)",
-      "referencias": [],
-      "comentario": "O narrador insere uma explicação para o leitor, esclarecendo a terminologia da época. Isso também eleva o status de Samuel como um vidente, alguém que tem acesso direto à revelação divina.",
-      "temas": ["terminologia", "revelação divina", "status profético"],
-      "personagens": []
+      "parafrase": "Ao se aproximarem da cidade, Saul e seu servo viram uma moça que estava saindo para buscar água. Eles perguntaram a ela: 'O vidente (Samuel) está aqui?'",
+      "referencias": [
+        "Gênesis 24:15-20",
+        "João 4:7-15"
+      ],
+      "comentario": "O termo hebraico para 'vidente' (ro'eh) era um termo mais antigo para profeta, que Samuel havia substituído pelo termo mais formal 'nabi' (profeta). Isso mostra a familiaridade do povo com as funções espirituais.",
+      "temas": [
+        "Encontro Inesperado",
+        "O Vidente"
+      ],
+      "personagens": [
+        "Saul",
+        "Servo",
+        "Moça"
+      ]
     },
     "10": {
-      "parafrase": "Então Saul disse ao seu servo: 'Sua sugestão é boa. Venha, vamos.' E eles foram à cidade onde estava o homem de Deus.",
-      "referencias": [],
-      "comentario": "Saul concorda com a sugestão do servo, e eles se dirigem à cidade de Samuel.",
-      "temas": ["concordância", "jornada"],
-      "personagens": ["Saul", "Servo"]
+      "parafrase": "A moça respondeu prontamente: 'Sim, ele está logo adiante. Vocês chegaram na hora certa, pois ele acabou de voltar da colina, onde ele sacrificou ao Senhor. Ele deve estar terminando agora.'",
+      "referencias": [
+        "Levítico 9:22-24"
+      ],
+      "comentario": "A moça confirma a presença de Samuel e ainda fornece um contexto sobre sua atividade recente (sacrifício), indicando que ele estava em comunhão com Deus, reforçando sua autoridade espiritual.",
+      "temas": [
+        "Timing Divino",
+        "Sacrifício"
+      ],
+      "personagens": [
+        "Moça",
+        "Samuel"
+      ]
     },
     "11": {
-      "parafrase": "Enquanto subiam a encosta da cidade, encontraram moças saindo para tirar água e lhes perguntaram: 'O vidente está aqui?
-      "referencias": [],
-      "comentario": "Eles buscam informações sobre a localização de Samuel, mostrando que ele era uma figura conhecida na região.",
-      "temas": ["busca por informação", "reconhecimento"],
-      "personagens": ["Saul", "Servo", "Moças"]
+      "parafrase": "Enquanto vocês ainda subiam o caminho para a cidade, vocês o encontrarão. Ele está prestes a descer o monte, pois o povo o aguarda para comer a oferta do sacrifício.'",
+      "referencias": [
+        "Êxodo 32:1-6"
+      ],
+      "comentario": "A moça descreve a rota de Samuel, alinhando a chegada dos viajantes com o momento exato em que ele desceria para participar de uma festa comunitária ligada ao sacrifício.",
+      "temas": [
+        "Sincronicidade",
+        "Comunidade"
+      ],
+      "personagens": [
+        "Samuel",
+        "Saul",
+        "Servo"
+      ]
     },
     "12": {
-      "parafrase": "Elas responderam: 'Sim, ele está bem à sua frente. Apressem-se, pois ele veio hoje à cidade, porque o povo tem um sacrifício no alto hoje.'",
-      "referencias": [],
-      "comentario": "As moças confirmam a presença de Samuel e indicam que ele está prestes a participar de um sacrifício comunitário, o que explica sua presença na cidade.",
-      "temas": ["informação", "sacrifício comunitário"],
-      "personagens": ["Moças"]
+      "parafrase": "Ao verem Samuel descendo, Saul o abordou, lembrando-se do conselho do servo, e perguntou diretamente: 'Onde fica a casa do vidente?'",
+      "referencias": [
+        "Jó 17:8-9"
+      ],
+      "comentario": "Saul, apesar de sua hesitação inicial, age com a cortesia esperada ao se dirigir ao profeta, usando o título 'vidente' mencionado pela moça.",
+      "temas": [
+        "Encontro com a Autoridade",
+        "Busca por Orientação"
+      ],
+      "personagens": [
+        "Saul",
+        "Samuel"
+      ]
     },
     "13": {
-      "parafrase": "'Assim que vocês entrarem na cidade, o encontrarão antes que ele suba ao alto para comer. O povo não comerá até que ele chegue, pois ele abençoará o sacrifício; depois disso, os convidados comerão. Subam agora, pois vocês o encontrarão neste momento.'",
-      "referencias": [],
-      "comentario": "As moças dão instruções detalhadas, indicando a importância do papel de Samuel na cerimônia e a urgência de encontrá-lo antes que a refeição comece.",
-      "temas": ["instruções", "urgência", "papel sacerdotal"],
-      "personagens": ["Moças"]
+      "parafrase": "Samuel olhou para Saul e, de repente, soube que aquele era o homem que Deus havia escolhido para governar Israel. Ele respondeu, indicando o local: 'Ele está logo aqui, na parte mais alta da cidade, onde todos estão reunidos para comer.'",
+      "referencias": [
+        "1 Samuel 10:17-19",
+        "Atos 13:21"
+      ],
+      "comentario": "Este é um momento crucial: a revelação sobrenatural. Samuel não pergunta, ele *sabe*. O termo hebraico para 'revelado' ou 'mostrado' indica uma intervenção direta de Deus, confirmando a escolha divina antes que Saul sequer pedisse.",
+      "temas": [
+        "Revelação Divina",
+        "Escolha de Deus",
+        "Autoridade Profética"
+      ],
+      "personagens": [
+        "Samuel",
+        "Saul"
+      ]
     },
     "14": {
-      "parafrase": "Então eles subiram à cidade. Quando estavam entrando no portão da cidade, eis que Samuel estava saindo para ir ao alto.",
-      "referencias": [],
-      "comentario": "O encontro providencial acontece exatamente como as moças indicaram. A mão de Deus está orquestrando os eventos.",
-      "temas": ["encontro providencial", "orquestração divina"],
-      "personagens": ["Saul", "Servo", "Samuel"]
+      "parafrase": "Então, Saul perguntou a Samuel sobre as jumentas perdidas, dizendo: 'Por favor, me diga onde elas estão.'",
+      "referencias": [
+        "Mateus 6:33"
+      ],
+      "comentario": "Saul, ainda focado em sua missão original e mundana, faz sua pergunta específica. É notável como a missão humana é o pretexto para o encontro do destino maior.",
+      "temas": [
+        "Assuntos Mundanos",
+        "Propósito Maior"
+      ],
+      "personagens": [
+        "Saul",
+        "Samuel"
+      ]
     },
     "15": {
-      "parafrase": "Ora, o Senhor havia revelado a Samuel no dia anterior à chegada de Saul:",
-      "referencias": [],
-      "comentario": "O narrador revela que o encontro não foi por acaso, mas divinamente orquestrado. Deus já havia preparado Samuel para a chegada de Saul.",
-      "temas": ["revelação divina", "providência"],
-      "personagens": ["Deus", "Samuel"]
+      "parafrase": "Samuel respondeu com uma sabedoria que transcende o trivial: 'Eu já te disse o que aconteceu com as jumentas: elas foram encontradas há três dias. Elas não eram o problema principal, pois já estão salvas.'",
+      "referencias": [
+        "Lucas 12:22-31"
+      ],
+      "comentario": "Samuel demonstra seu conhecimento profético sobre o passado recente, estabelecendo sua credibilidade. Ele minimiza a importância das jumentas, preparando Saul para ouvir a notícia real.",
+      "temas": [
+        "Conhecimento do Passado",
+        "Prioridades Espirituais"
+      ],
+      "personagens": [
+        "Samuel",
+        "Saul"
+      ]
     },
     "16": {
-      "parafrase": "'Amanhã, por esta hora, enviarei a você um homem da terra de Benjamim, e você o ungirá como príncipe sobre o meu povo Israel. Ele livrará o meu povo das mãos dos filisteus, pois olhei para o meu povo, porque o seu clamor chegou a mim.'",
-      "referencias": ["1 Samuel 8:7"],
-      "comentario": "Deus revela a Samuel o propósito da visita de Saul: ele será o primeiro rei de Israel, ungido para livrar o povo da opressão filisteia. A escolha de Deus é uma resposta ao clamor do povo, mesmo que o pedido por um rei tenha sido uma rejeição a Ele.",
-      "temas": ["profecia", "unção", "livramento", "resposta divina"],
-      "personagens": ["Deus", "Samuel", "Saul"]
+      "parafrase": "Ele continuou, mudando o foco drasticamente: 'E quanto a Israel? Amanhã, por volta desta hora, eu chamarei você à parte. Eu revelarei a você a palavra que Deus tem reservada, pois Ele está prestes a ungir um líder para o Seu povo, para libertá-lo das mãos dos filisteus, que têm o oprimido.'",
+      "referencias": [
+        "Juízes 2:16",
+        "Isaías 49:8"
+      ],
+      "comentario": "Este é o clímax teológico do trecho. Samuel anuncia a realeza iminente e estabelece a razão para a intervenção: a libertação da opressão filisteia. O termo 'nabi' (profeta) é confirmado pela comunicação da 'palavra de Deus' (davar Elohim).",
+      "temas": [
+        "Ungir o Rei",
+        "Libertação Nacional",
+        "Vontade de Deus"
+      ],
+      "personagens": [
+        "Samuel",
+        "Saul",
+        "Israel",
+        "Filisteus"
+      ]
     },
     "17": {
-      "parafrase": "Quando Samuel viu Saul, o Senhor lhe disse: 'Eis o homem de quem eu lhe falei! Ele reinará sobre o meu povo.'",
-      "referencias": [],
-      "comentario": "Deus confirma a Samuel a identidade de Saul, o homem escolhido para ser o primeiro rei.",
-      "temas": ["confirmação divina", "identidade"],
-      "personagens": ["Deus", "Samuel", "Saul"]
+      "parafrase": "Quando Samuel viu Saul, ele convocou a assembleia do povo em Mizpa, para que todos testemunhassem o chamado de Deus.",
+      "referencias": [
+        "Josué 24:1",
+        "1 Samuel 10:17"
+      ],
+      "comentario": "A convocação em Mizpa (um local de grande significado histórico, frequentemente associado a arrependimento ou aliança) visa dar publicidade e legitimidade ao ato profético que se seguirá.",
+      "temas": [
+        "Assembleia Pública",
+        "Legitimidade",
+        "Mizpa"
+      ],
+      "personagens": [
+        "Samuel",
+        "Saul"
+      ]
     },
     "18": {
-      "parafrase": "Saul se aproximou de Samuel no portão e disse: 'Por favor, diga-me onde fica a casa do vidente.'",
-      "referencias": [],
-      "comentario": "Saul, sem saber que está falando com o próprio Samuel, pede informações sobre o vidente. A ironia é que ele está diante do homem que ele procura.",
-      "temas": ["ironia", "busca"],
-      "personagens": ["Saul", "Samuel"]
+      "parafrase": "Então, Samuel disse à congregação de Israel: 'Assim diz o Senhor, o Deus de Israel: Eu tirei vocês do Egito e os salvei da mão do Egito e de todos os reinos que os oprimiram.'",
+      "referencias": [
+        "Êxodo 20:2",
+        "Deuteronômio 6:21-23"
+      ],
+      "comentario": "Samuel relembra a história da salvação (Êxodo) para fundamentar a autoridade de Deus sobre o presente. Ele estabelece a base da teocracia antes de introduzir o monarca.",
+      "temas": [
+        "Redenção de Israel",
+        "Fundamento Teocrático"
+      ],
+      "personagens": [
+        "Samuel",
+        "Israel"
+      ]
     },
     "19": {
-      "parafrase": "Samuel respondeu a Saul: 'Eu sou o vidente. Suba à minha frente ao alto, pois você comerá comigo hoje. E pela manhã o deixarei ir e lhe direi tudo o que está em seu coração.'",
-      "referencias": [],
-      "comentario": "Samuel se revela e convida Saul para uma refeição, um sinal de honra e hospitalidade. Ele também promete revelar a Saul o que está em seu coração, mostrando seu conhecimento profético.",
-      "temas": ["revelação", "hospitalidade", "conhecimento profético"],
-      "personagens": ["Samuel", "Saul"]
+      "parafrase": "Mas hoje, vocês rejeitaram o seu Deus, que os salvou de todas as suas aflições e desgraças, e disseram a mim: 'Não, queremos um rei para nos governar!'",
+      "referencias": [
+        "Deuteronômio 1:26-28",
+        "Juízes 8:22-23"
+      ],
+      "comentario": "Samuel confronta o povo por sua infidelidade espiritual. Eles trocaram a confiança em Deus pela segurança de um rei humano, um ato de rebelião contra o governo teocrático direto.",
+      "temas": [
+        "Rejeição a Deus",
+        "Desejo de Monarquia"
+      ],
+      "personagens": [
+        "Samuel",
+        "Israel"
+      ]
     },
     "20": {
-      "parafrase": "'Quanto às jumentas que você perdeu há três dias, não se preocupe com elas, pois já foram encontradas. E para quem é todo o desejo de Israel? Não é para você e para toda a casa de seu pai?'",
-      "referencias": [],
-      "comentario": "Samuel demonstra seu conhecimento sobrenatural ao revelar que as jumentas foram encontradas, dissipando a preocupação de Saul. Ele então insinua o destino real de Saul, perguntando sobre o desejo de Israel por um rei.",
-      "temas": ["conhecimento sobrenatural", "destino real", "insinuação"],
-      "personagens": ["Samuel", "Saul"]
+      "parafrase": "Agora, então, apresentem-se diante do Senhor, tribo por tribo, e por família, para que o Senhor possa escolher quem será o seu rei.'",
+      "referencias": [
+        "Josué 7:14-18"
+      ],
+      "comentario": "Samuel utiliza o método de sorteio ('goral'), comum em Israel para discernir a vontade de Deus em questões de seleção ou divisão de terras, para identificar a tribo do futuro rei.",
+      "temas": [
+        "Sorteio Divino",
+        "Seleção de Tribos"
+      ],
+      "personagens": [
+        "Samuel",
+        "Senhor"
+      ]
     },
     "21": {
-      "parafrase": "Saul respondeu: 'Não sou eu um benjamita, da menor das tribos de Israel? E não é o meu clã o menor de todos os clãs da tribo de Benjamim? Por que, então, você me diz tais coisas?'",
-      "referencias": ["Juízes 20:46-48"],
-      "comentario": "Saul reage com humildade e surpresa, questionando a possibilidade de ser rei, dada a insignificância de sua tribo (Benjamim, que quase foi aniquilada) e de seu próprio clã. Ele não busca o poder, o que é um traço positivo inicial.",
-      "temas": ["humildade", "surpresa", "insignificância percebida"],
-      "personagens": ["Saul"]
+      "parafrase": "Quando a família de Matri foi trazida para a frente, Saul, filho de Quis, foi apresentado. Mas, ao procurá-lo, ninguém o encontrou, pois ele estava escondido em meio à bagagem.",
+      "referencias": [
+        "Jonas 1:3",
+        "Apocalipse 13:8"
+      ],
+      "comentario": "A ironia atinge seu ápice: o homem mais bonito de Israel está literalmente escondido! O hebraico sugere que ele estava 'escondido atrás dos fardos' ou 'entre as provisões'. Ele ainda não aceitou seu destino.",
+      "temas": [
+        "Ironia do Destino",
+        "Medo da Responsabilidade",
+        "Esconderijo"
+      ],
+      "personagens": [
+        "Matri",
+        "Saul",
+        "Quis"
+      ]
     },
     "22": {
-      "parafrase": "Então Samuel levou Saul e seu servo para a sala de jantar e os colocou no lugar de honra entre os convidados, que eram cerca de trinta homens.",
-      "referencias": [],
-      "comentario": "Samuel honra Saul publicamente, colocando-o no lugar de destaque, um sinal de sua futura posição real.",
-      "temas": ["honra", "reconhecimento público"],
-      "personagens": ["Samuel", "Saul"]
+      "parafrase": "Enquanto o povo o procurava, Saul foi encontrado. Então, eles o trouxeram para a frente, e ele se destacava entre todo o povo, sendo mais alto que qualquer um dos outros, da cabeça aos pés.",
+      "referencias": [
+        "1 Samuel 16:7"
+      ],
+      "comentario": "O contraste é gritante: o homem que se escondia agora é trazido ao centro das atenções. Seu físico imponente (mencionado no v. 2) se torna evidente e validado publicamente pela multidão.",
+      "temas": [
+        "Exposição Pública",
+        "Físico do Rei"
+      ],
+      "personagens": [
+        "Saul",
+        "Samuel"
+      ]
     },
     "23": {
-      "parafrase": "Samuel disse ao cozinheiro: 'Traga a porção que eu lhe dei e que lhe disse para guardar.'",
-      "referencias": [],
-      "comentario": "Samuel havia preparado uma porção especial para Saul, indicando que sua chegada era esperada e planejada.",
-      "temas": ["preparação", "planejamento divino"],
-      "personagens": ["Samuel", "Cozinheiro"]
+      "parafrase": "Samuel então disse a todo o povo: 'Vejam bem quem o Senhor escolheu! Não há ninguém igual a ele em toda a congregação!' E todo o povo gritou em aprovação: 'Viva o rei!'",
+      "referencias": [
+        "2 Samuel 2:4",
+        "Salmos 89:19"
+      ],
+      "comentario": "Samuel confirma que a escolha veio do Senhor ('Bamidbar Elohim'). A aclamação do povo, 'Yihye haMelekh!' (Viva o Rei!), marca o início da monarquia israelita de maneira formal e pública.",
+      "temas": [
+        "Aclamação Popular",
+        "Início da Monarquia"
+      ],
+      "personagens": [
+        "Samuel",
+        "Saul",
+        "Senhor"
+      ]
     },
     "24": {
-      "parafrase": "O cozinheiro trouxe a coxa e o que estava nela e a pôs diante de Saul. E Samuel disse: 'Eis o que foi reservado para você. Coma, pois foi guardado para você para esta ocasião, quando eu disse: 'Convidei o povo.'' Assim, Saul comeu com Samuel naquele dia.",
-      "referencias": [],
-      "comentario": "A porção especial é servida a Saul, confirmando sua honra e o propósito divino de seu encontro com Samuel. A refeição é um ato de comunhão e selamento do destino de Saul.",
-      "temas": ["honra", "destino", "comunhão"],
-      "personagens": ["Cozinheiro", "Saul", "Samuel"]
+      "parafrase": "Depois, Samuel descreveu a Saul, diante de todos, os direitos e os deveres do reinado. Ele anotou as regras em um livro, que foi colocado diante do Senhor, no Santuário.",
+      "referencias": [
+        "Deuteronômio 17:14-20"
+      ],
+      "comentario": "Samuel estabelece uma constituição rudimentar para a monarquia, garantindo que o poder real não fosse absoluto, mas sim limitado pelas leis de Deus (a 'lei do reino'). Colocar o documento perante o Senhor santifica o pacto.",
+      "temas": [
+        "Direitos e Deveres do Rei",
+        "Constituição Divina",
+        "Lei do Reino"
+      ],
+      "personagens": [
+        "Samuel",
+        "Saul",
+        "Senhor"
+      ]
     },
     "25": {
-      "parafrase": "Depois de descerem do alto para a cidade, Samuel conversou com Saul no terraço da casa.",
-      "referencias": [],
-      "comentario": "A conversa privada no terraço permite a Samuel transmitir informações mais importantes a Saul.",
-      "temas": ["conversa privada", "revelação"],
-      "personagens": ["Samuel", "Saul"]
+      "parafrase": "Finalmente, Samuel enviou o povo de volta para suas casas. Saul também voltou para sua casa, em Gibeá. E, como um presente de Deus, homens valorosos, cujo coração Deus havia tocado, seguiram-no, dispostos a servi-lo como seus seguidores leais.",
+      "referencias": [
+        "Filipenses 2:13",
+        "2 Crônicas 20:14"
+      ],
+      "comentario": "O povo retorna aos seus lares, mas a dinâmica política mudou para sempre. A frase 'homens de valor' (anshei chayil) indica indivíduos com integridade e força, cujo entusiasmo em seguir Saul é atribuído à intervenção direta de Deus em seus corações.",
+      "temas": [
+        "Seguidores Leais",
+        "O Coração Tocado por Deus",
+        "Fim da Assembleia"
+      ],
+      "personagens": [
+        "Samuel",
+        "Saul"
+      ]
     },
     "26": {
-      "parafrase": "Eles se levantaram cedo, e ao romper da manhã, Samuel chamou Saul no terraço, dizendo: 'Levante-se, para que eu o despache.' Saul se levantou, e ambos, ele e Samuel, saíram para a rua.",
-      "referencias": [],
-      "comentario": "A partida é no início da manhã, para garantir privacidade para o ato de unção.",
-      "temas": ["partida", "privacidade"],
-      "personagens": ["Samuel", "Saul"]
+      "parafrase": "Então Samuel se virou para Saul e lhe disse com a voz firme de quem carrega uma verdade inegociável: 'Eu lhe darei uma mensagem de Deus que precisa ser ouvida com atenção total!' Saul, ainda um pouco confuso, olhou para o profeta e acenou em permissão, esperando o que viria.",
+      "referencias": [
+        "Jó 33:23",
+        "Isaías 21:8"
+      ],
+      "comentario": "O versículo 26 estabelece a solenidade do momento. Samuel, sendo o porta-voz de Yahweh, exige a atenção plena de Saul. A frase 'eis a palavra de Deus' (ou similar, dependendo da tradução) carrega o peso da autoridade divina. Este é um ponto de inflexão, onde a comunicação profética se torna direta e pessoal com o rei ungido. Saul responde de forma passiva, mas atenta.",
+      "temas": [
+        "Revelação Divina",
+        "Autoridade Profética",
+        "Atenção e Obediência"
+      ],
+      "personagens": [
+        "Samuel",
+        "Saul"
+      ]
     },
     "27": {
-      "parafrase": "Enquanto desciam para a extremidade da cidade, Samuel disse a Saul: 'Diga ao servo para ir na frente (e ele foi). Mas você, pare aqui por um momento, para que eu lhe revele a palavra de Deus.'",
-      "referencias": [],
-      "comentario": "Samuel garante a privacidade total para o momento crucial da unção e da revelação da palavra de Deus a Saul.",
-      "temas": ["privacidade", "revelação divina", "unção"],
-      "personagens": ["Samuel", "Saul", "Servo"]
+      "parafrase": "E Samuel começou a expor o motivo da convocação, lembrando a Saul que, no dia anterior, ele mesmo o havia ungido como líder sobre todo o Israel, e agora Deus lhe estava mostrando o caminho real a ser seguido. Era como se Samuel estivesse dizendo: 'Lembre-se de onde você veio e do propósito para o qual foi chamado; agora, preste atenção no que vem a seguir, pois isso define o seu reinado!' 👑🔥",
+      "referencias": [
+        "1 Samuel 10:1",
+        "Salmos 78:72",
+        "Jeremias 36:4"
+      ],
+      "comentario": "Samuel remete Saul ao evento da unção (1 Sm 9:16). Isso serve a um duplo propósito: validar a autoridade de Saul perante si mesmo (e, implicitamente, perante os ouvintes), e ao mesmo tempo, preparar o terreno para a repreensão ou a instrução que virá em seguida (que é revelada no versículo 28). A expressão 'e te pus para governar sobre o meu povo' mostra que a realeza de Saul não era um mero arranjo político, mas uma designação teocrática. O foco é a responsabilização real. 🎯",
+      "temas": [
+        "Unção Real",
+        "Chamar e Enviar",
+        "Responsabilidade do Liderança"
+      ],
+      "personagens": [
+        "Samuel",
+        "Saul"
+      ]
     }
   }
 }

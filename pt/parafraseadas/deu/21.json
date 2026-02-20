@@ -1,169 +1,392 @@
 {
   "livro": "Deuteronômio",
   "capitulo": 21,
-  "contexto_historico": "Moisés continua a instruir o povo de Israel sobre as leis que regeriam a vida na Terra Prometida. Este capítulo aborda leis relacionadas a homicídios não resolvidos, casamentos com mulheres cativas, direitos de primogenitura, filhos rebeldes e a remoção de um corpo pendurado, enfatizando a importância da purificação da terra e da justiça social.",
-  "bloco_tematico": "Leis Diversas: Homicídio, Casamento, Família e Pureza",
+  "contexto_historico": "O livro de Deuteronômio é o quinto e último livro da Torá, consistindo no discurso de despedida de Moisés ao povo de Israel, à beira da Terra Prometida. Este discurso reafirma a Lei (Torá) e estabelece as condições para a aliança com Deus no novo território. O capítulo 21 está inserido na seção que trata de leis civis e sociais, buscando garantir a justiça, a retidão e a santidade da comunidade israelita, preparando-os para uma vida ordenada e justa na terra que irão herdar. As leis aqui abordam situações complexas não resolvidas imediatamente pela legislação anterior, focando em honra, responsabilidade comunitária e pureza moral. ⚖️📜",
+  "bloco_tematico": "Justiça Social e Resolução de Crimes Inexplicáveis: A Cabeça Cortada, o Órfão e a Viúva 🔨👩‍⚖️",
   "versiculos": {
     "1": {
-      "parafrase": "Se for encontrado um homem morto na terra que o Senhor, o seu Deus, lhes dá para possuírem, caído no campo, e não se souber quem o matou,",
-      "referencias": [],
-      "comentario": "A lei trata de um caso de homicídio não resolvido, que contaminava a terra e exigia um ritual de expiação para purificá-la.",
-      "temas": ["homicídio não resolvido", "contaminação da terra", "expiação"],
-      "personagens": ["Moisés"]
+      "parafrase": "Quando vocês estiverem na terra que o Senhor, seu Deus, lhes dará como herança, e depois de a terem conquistado e se estabelecerem nela, se acontecer que um de vocês encontre um corpo abandonado no campo, um homem que morreu e cujo assassino não foi descoberto, vocês deverão agir imediatamente.",
+      "referencias": [
+        "Deuteronômio 19:10",
+        "Josué 7:25"
+      ],
+      "comentario": "O texto estabelece um ritual de purificação da terra. O crime não solucionado 'contamina' o solo, simbolizando a presença do pecado não expiado. O mandamento surge imediatamente após a posse da Terra Prometida, enfatizando que a santidade da terra deve ser preservada desde o início da ocupação.",
+      "temas": [
+        "Assassinato não resolvido",
+        "Purificação da Terra",
+        "Lei mosaica"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "2": {
-      "parafrase": "então os seus anciãos e os seus juízes sairão e medirão a distância até as cidades ao redor do morto.",
-      "referencias": [],
-      "comentario": "A responsabilidade de investigar e purificar a terra recaía sobre os líderes da comunidade.",
-      "temas": ["responsabilidade da liderança", "investigação", "purificação"],
-      "personagens": ["Anciãos", "Juízes"]
+      "parafrase": "Os anciãos e juízes da comunidade devem sair imediatamente do acampamento e medir a distância do cadáver até as cidades vizinhas.",
+      "referencias": [
+        "Deuteronômio 17:8",
+        "Êxodo 18:25"
+      ],
+      "comentario": "A medição da distância é crucial para determinar qual cidade será responsabilizada pelo ritual. Os 'anciãos' (plural de 'z'qenim') representam a autoridade judicial local. O ato de medir é um procedimento formal de investigação legal.",
+      "temas": [
+        "Autoridade Judicial",
+        "Investigação",
+        "Delimitação territorial"
+      ],
+      "personagens": [
+        "Anciãos",
+        "Juízes"
+      ]
     },
     "3": {
-      "parafrase": "E a cidade mais próxima do morto pegará uma novilha que nunca foi trabalhada nem puxou o jugo,",
-      "referencias": [],
-      "comentario": "Uma novilha virgem, que nunca havia sido usada para trabalho, era escolhida para o ritual, simbolizando a pureza necessária para a expiação.",
-      "temas": ["novilha virgem", "ritual de expiação", "pureza"],
-      "personagens": []
+      "parafrase": "A cidade que estiver mais próxima do corpo, mesmo que o assassinato não tenha ocorrido dentro de suas muralhas, será a responsável pelo expurgo da culpa.",
+      "referencias": [
+        "Deuteronômio 19:13"
+      ],
+      "comentario": "Este é o princípio da 'culpa vicária' ou responsabilidade comunitária próxima. Não importa quem cometeu o ato, mas onde o corpo foi encontrado, forçando a comunidade mais próxima a buscar a justiça.",
+      "temas": [
+        "Responsabilidade Comunitária",
+        "Justiça",
+        "Proximidade Geográfica"
+      ],
+      "personagens": [
+        "A cidade mais próxima"
+      ]
     },
     "4": {
-      "parafrase": "e os anciãos daquela cidade levarão a novilha a um vale com água corrente, que nunca foi arado nem semeado, e ali quebrarão o pescoço da novilha.",
-      "referencias": [],
-      "comentario": "O ritual era realizado em um local não cultivado, simbolizando a remoção da culpa de sangue da terra. O quebrar do pescoço da novilha era um ato sacrificial.",
-      "temas": ["ritual sacrificial", "remoção da culpa de sangue", "simbolismo"],
-      "personagens": ["Anciãos"]
+      "parafrase": "Os habitantes dessa cidade designada deverão levar uma novilha, uma fêmea jovem que nunca tenha sido usada para trabalho, que nunca tenha puxado jugo.",
+      "referencias": [
+        "Números 19:2",
+        "1 Samuel 6:7"
+      ],
+      "comentario": "A novilha ('eglah') deve ser virgem de jugo. Isso simboliza pureza e inocência: o animal não foi marcado pelo trabalho humano, sendo um sacrifício puro. Comparável ao bezerro de sacrifício em outros contextos, mas aqui específico para o ritual de expiação de sangue não derramado intencionalmente.",
+      "temas": [
+        "Sacrifício animal",
+        "Pureza",
+        "Novilha virgem"
+      ],
+      "personagens": [
+        "Habitantes da cidade"
+      ]
     },
     "5": {
-      "parafrase": "Então, os sacerdotes, filhos de Levi, se aproximarão, pois o Senhor, o seu Deus, os escolheu para ministrar a ele e para abençoar em nome do Senhor, e para decidir toda contenda e todo caso de agressão.",
-      "referencias": [],
-      "comentario": "Os sacerdotes levitas tinham um papel central no ritual, pois eram os mediadores entre Deus e o povo, responsáveis pela bênção e pela justiça.",
-      "temas": ["papel sacerdotal", "mediação", "bênção", "justiça"],
-      "personagens": ["Sacerdotes levitas"]
+      "parafrase": "Os sacerdotes, descendentes de Levi, deverão acompanhá-los até um vale árido, um lugar nunca cultivado ou irrigado, e lá eles quebrarão o pescoço da novilha.",
+      "referencias": [
+        "Levítico 1:3",
+        "Levítico 4:14"
+      ],
+      "comentario": "A escolha do local ('wadi não cultivado', um lugar estéril ou 'não semeado') é simbólica. A morte da novilha deve ocorrer num lugar que não seja produtivo, contrastando com a vida que foi abruptamente interrompida pelo assassinato. Os levitas supervisionam, garantindo a correta execução ritualística.",
+      "temas": [
+        "Sacerdócio",
+        "Execução ritual",
+        "Local estéril"
+      ],
+      "personagens": [
+        "Sacerdotes",
+        "Levitas"
+      ]
     },
     "6": {
-      "parafrase": "E todos os anciãos daquela cidade, os mais próximos do morto, lavarão as suas mãos sobre a novilha cujo pescoço foi quebrado no vale,",
-      "referencias": [],
-      "comentario": "O lavar das mãos simbolizava a declaração de inocência e a remoção da culpa de sangue da cidade.",
-      "temas": ["lavar as mãos", "inocência", "remoção da culpa de sangue"],
-      "personagens": ["Anciãos"]
+      "parafrase": "Então, os sacerdotes da cidade, juntamente com todos os anciãos daquela comunidade, deverão lavar as mãos sobre o pescoço da novilha que foi abatida naquele vale.",
+      "referencias": [
+        "Salmos 24:4",
+        "Mateus 27:24"
+      ],
+      "comentario": "O ato de lavar as mãos ('ritshts'u kapayim') é o gesto universal de declaração de inocência diante de um ato de violência ou contaminação. Ao lavarem as mãos sobre a vítima inocente (a novilha), eles publicamente declaram que não foram os autores da morte desconhecida.",
+      "temas": [
+        "Lavagem das mãos",
+        "Declaração de inocência",
+        "Ato público"
+      ],
+      "personagens": [
+        "Sacerdotes",
+        "Anciãos"
+      ]
     },
     "7": {
-      "parafrase": "e dirão: 'As nossas mãos não derramaram este sangue, nem os nossos olhos o viram.'",
-      "referencias": [],
-      "comentario": "A declaração pública de inocência era parte essencial do ritual de expiação.",
-      "temas": ["declaração de inocência", "expiação"],
-      "personagens": ["Anciãos"]
+      "parafrase": "Eles proclamarão em voz alta: 'Nossas mãos não derramaram este sangue, e nossos olhos não viram quem o fez. Estava oculto de nós!'",
+      "referencias": [
+        "Deuteronômio 19:9",
+        "Miquéias 6:3"
+      ],
+      "comentario": "Esta é a confissão pública de ignorância e a transferência simbólica da culpa pelo sangue não vingado. A comunidade, através de seus líderes, se desvincula do pecado que contaminava a terra.",
+      "temas": [
+        "Confissão de ignorância",
+        "Transferência de culpa",
+        "Testemunho público"
+      ],
+      "personagens": [
+        "Sacerdotes",
+        "Anciãos"
+      ]
     },
     "8": {
-      "parafrase": "'Ó Senhor, perdoa o teu povo Israel, que tu resgataste, e não ponhas sangue inocente no meio do teu povo Israel.' E o sangue lhes será perdoado.",
-      "referencias": [],
-      "comentario": "A oração de perdão é feita a Deus, reconhecendo que somente Ele pode remover a culpa de sangue. O perdão é concedido através do ritual.",
-      "temas": ["oração de perdão", "culpa de sangue", "perdão divino"],
-      "personagens": ["Anciãos"]
+      "parafrase": "Senhor, peça perdão ao Seu povo, Israel, a quem você resgatou, e não permita que a culpa de sangue permaneça sobre eles, pois o sangue derramado é um peso muito grande para ser tirado do meio do povo escolhido.' Assim, eles farão tudo o que for ordenado.",
+      "referencias": [
+        "Números 35:33",
+        "Salmos 79:9"
+      ],
+      "comentario": "Este versículo é uma oração inserida no ritual. A comunidade clama a Deus para que Ele mesmo, como o Juiz Supremo, aceite a expiação feita e purifique Israel de forma definitiva. O 'sangue derramado' ('dam nichpak') é uma mancha tão séria que só Deus pode removê-la completamente.",
+      "temas": [
+        "Súplica a Deus",
+        "Perdão divino",
+        "Exigência de pureza"
+      ],
+      "personagens": [
+        "Israel (povo)",
+        "Senhor"
+      ]
     },
     "9": {
-      "parafrase": "Assim, vocês eliminarão o derramamento de sangue inocente do meio de vocês, quando fizerem o que é reto aos olhos do Senhor.",
-      "referencias": [],
-      "comentario": "O ritual garante a purificação da terra e a manutenção da justiça, agradando a Deus.",
-      "temas": ["purificação da terra", "justiça", "agrado a Deus"],
-      "personagens": ["Moisés"]
+      "parafrase": "Dessa forma, vocês removerão de seu meio o sangue inocente, cumprindo o que é justo aos olhos do Senhor, e a terra será purificada de toda contaminação.",
+      "referencias": [
+        "Deuteronômio 13:5",
+        "Levítico 18:25"
+      ],
+      "comentario": "O resultado esperado do ritual é a restauração da santidade da terra. O cumprimento da lei garante a benevolência divina e a continuidade da posse da terra prometida, pois o pecado não resolvido era um impedimento para a bênção.",
+      "temas": [
+        "Restauração da Santidade",
+        "Obediência à Lei",
+        "Bênção"
+      ],
+      "personagens": [
+        "Israelitas"
+      ]
     },
     "10": {
-      "parafrase": "Quando vocês saírem para a guerra contra os seus inimigos, e o Senhor, o seu Deus, os entregar em suas mãos, e vocês levarem cativas algumas mulheres,",
-      "referencias": [],
-      "comentario": "A lei agora trata do casamento com mulheres cativas de guerra, estabelecendo regras para proteger a dignidade da mulher e a pureza da família israelita.",
-      "temas": ["casamento com cativas", "dignidade da mulher", "pureza familiar"],
-      "personagens": ["Moisés"]
+      "parafrase": "Se vocês saírem para a guerra contra seus inimigos e o Senhor os entregar em suas mãos, e vocês capturarem prisioneiros, e se dentre esses cativos houver uma mulher de beleza notável,",
+      "referencias": [
+        "Deuteronômio 20:10-14",
+        "Juízes 14:1"
+      ],
+      "comentario": "A narrativa muda drasticamente do ritual judicial para as leis de guerra. O foco agora é a conduta moral durante a vitória militar, protegendo os israelitas da influência pagã e da idolatria através da interação com mulheres estrangeiras.",
+      "temas": [
+        "Leis de Guerra",
+        "Captura de prisioneiros",
+        "Vitória militar"
+      ],
+      "personagens": [
+        "Israelitas",
+        "Inimigos",
+        "Mulher cativa"
+      ]
     },
     "11": {
-      "parafrase": "e virem entre elas uma mulher formosa, e se afeiçoarem a ela, e quiserem tomá-la para sua mulher,",
-      "referencias": [],
-      "comentario": "A lei reconhece a atração humana, mas estabelece um processo para garantir que o casamento seja feito com respeito e não por impulso.",
-      "temas": ["atração humana", "respeito", "processo legal"],
-      "personagens": []
+      "parafrase": "e se você se encantar com essa mulher e desejar tomá-la como sua esposa, levando-a para sua tenda,",
+      "referencias": [
+        "Gênesis 34:3",
+        "Juízes 19:27"
+      ],
+      "comentario": "A 'beleza notável' (ou 'boa aparência') é o gatilho para o desejo. A lei impõe um tempo de espera, reconhecendo a atração, mas restringindo a posse imediata, pois a mulher ainda está em estado de luto e impureza cultural.",
+      "temas": [
+        "Desejo",
+        "Casamento misto",
+        "Atração física"
+      ],
+      "personagens": [
+        "O homem israelita",
+        "A mulher cativa"
+      ]
     },
     "12": {
-      "parafrase": "então a levarão para a sua casa. Ela rapará a cabeça, cortará as unhas,",
-      "referencias": [],
-      "comentario": "Os rituais de purificação e luto (raspar a cabeça, cortar as unhas) simbolizavam a transição da mulher de sua cultura pagã para a cultura israelita, e o fim de seu luto pela família perdida.",
-      "temas": ["rituais de purificação", "transição cultural", "fim do luto"],
-      "personagens": []
+      "parafrase": "você deve ordená-la a raspar a cabeça, cortar as unhas e remover completamente as vestes que usava enquanto estava cativa.",
+      "referencias": [
+        "Ezequiel 16:39"
+      ],
+      "comentario": "Esses atos são rituais de despojamento e transformação de status. Raspar a cabeça e cortar as unhas eram sinais de luto ou de prostituição em certas culturas, mas aqui servem para remover os símbolos de sua identidade anterior (inimiga ou cativa), preparando-a para uma nova identidade.",
+      "temas": [
+        "Rito de passagem",
+        "Transformação de status",
+        "Despojamento"
+      ],
+      "personagens": [
+        "A mulher cativa"
+      ]
     },
     "13": {
-      "parafrase": "e tirará as vestes de seu cativeiro. Ela ficará em sua casa e chorará por seu pai e sua mãe durante um mês inteiro. Depois disso, vocês poderão se aproximar dela e ser seu marido, e ela será sua mulher.",
-      "referencias": [],
-      "comentario": "O período de um mês de luto e adaptação era para garantir que a mulher tivesse tempo para se ajustar à nova realidade e que o casamento não fosse precipitado.",
-      "temas": ["período de luto", "adaptação", "casamento"],
-      "personagens": []
+      "parafrase": "Ela então deve permanecer em sua casa e chorar por seu pai e sua mãe durante um ciclo completo de um mês, lamentando a perda de sua família e de sua antiga vida.",
+      "referencias": [
+        "Gênesis 29:21",
+        "Juízes 12:2"
+      ],
+      "comentario": "O período de um mês ('mês inteiro') é o tempo de transição e luto obrigatório. Isso demonstra que Israel, mesmo no ato da conquista, deveria demonstrar respeito pelo processo emocional da cativa e manter uma distância ritualística até que a conversão pudesse ser sincera.",
+      "temas": [
+        "Luto",
+        "Período de espera",
+        "Respeito cultural"
+      ],
+      "personagens": [
+        "A mulher cativa"
+      ]
     },
     "14": {
-      "parafrase": "Mas, se vocês não se agradarem mais dela, vocês a deixarão ir para onde quiser. Não a venderão por dinheiro, nem a tratarão como escrava, pois vocês a humilharam.",
-      "referencias": [],
-      "comentario": "A lei protege a mulher cativa de ser tratada como propriedade ou escrava, garantindo sua liberdade se o casamento não desse certo. A humilhação de ter sido cativa exigia um tratamento justo.",
-      "temas": ["proteção da mulher", "liberdade", "tratamento justo", "humilhação"],
-      "personagens": []
+      "parafrase": "Após esse mês, você poderá ir até ela e tomá-la como sua esposa, e ela se tornará sua mulher. Você não terá mais o direito de tratá-la como escrava.",
+      "referencias": [
+        "Filêmon 1:16",
+        "1 Timóteo 5:2"
+      ],
+      "comentario": "Este é o ponto de virada: após o luto e a formalização, ela passa de cativa ('shifkhat') a esposa ('ishah'). A lei proíbe o abuso subsequente, exigindo tratamento como cônjuge legítimo, não como propriedade de guerra.",
+      "temas": [
+        "Consumação do casamento",
+        "Fim da servidão",
+        "Direitos conjugais"
+      ],
+      "personagens": [
+        "O homem israelita",
+        "A mulher"
+      ]
     },
     "15": {
-      "parafrase": "Se um homem tiver duas mulheres, uma que ele ama e outra que ele não ama, e ambas lhe derem filhos, e o primogênito for da mulher que ele não ama,",
-      "referencias": [],
-      "comentario": "A lei agora trata dos direitos de primogenitura em casos de poligamia, protegendo o filho primogênito, mesmo que a mãe não fosse a preferida.",
-      "temas": ["direitos de primogenitura", "poligamia", "proteção do primogênito"],
-      "personagens": []
+      "parafrase": "Contudo, se você, depois de tê-la tomado como esposa, vier a detestá-la por algum motivo, e descobrir nela algo que não lhe agrada, você deve redigir um documento de divórcio, entregá-lo formalmente em sua mão e dispensá-la de sua casa.",
+      "referencias": [
+        "Deuteronômio 24:1",
+        "Malaquias 2:16"
+      ],
+      "comentario": "O texto estabelece um contraste rígido com a lei geral do divórcio (Deuteronômio 24:1). Embora ela tenha sido introduzida por um ato de guerra, ela deve ser divorciada pelos mesmos procedimentos formais se for rejeitada. A lei impede que ela fique presa em um estado intermediário de servidão/esposa.",
+      "temas": [
+        "Divórcio",
+        "Rejeição conjugal",
+        "Formalidade legal"
+      ],
+      "personagens": [
+        "O homem",
+        "A esposa"
+      ]
     },
     "16": {
-      "parafrase": "então, no dia em que ele dividir a sua herança entre os seus filhos, não poderá dar o direito de primogenitura ao filho da mulher que ele ama, em detrimento do filho da mulher que ele não ama, que é o primogênito.",
-      "referencias": [],
-      "comentario": "A lei garante que o direito de primogenitura seja respeitado, independentemente das preferências pessoais do pai, assegurando a justiça na herança.",
-      "temas": ["respeito ao direito de primogenitura", "justiça na herança"],
-      "personagens": []
+      "parafrase": "Se, ao dispensá-la, você lhe der o escrito de divórcio, e ela deixar sua casa e for para outro homem, e esse segundo marido também a repudiar ou morrer, o primeiro marido não terá o direito de tomá-la de volta para ser sua esposa.",
+      "referencias": [
+        "Jeremias 3:1"
+      ],
+      "comentario": "Este é o ponto crucial da lei do divórcio que será discutido em outras passagens (como em Mateus 19:8, onde Jesus usa isso como exemplo). O primeiro homem, após o divórcio formal, não pode 'reclamar' a mulher se ela se casar novamente. Isso era um mecanismo para proteger a dignidade da mulher de ser tratada como um objeto que vai e volta.",
+      "temas": [
+        "Irrevogabilidade do divórcio",
+        "Proteção da mulher",
+        "Segunda união"
+      ],
+      "personagens": [
+        "O primeiro marido",
+        "A mulher",
+        "O segundo marido"
+      ]
     },
     "17": {
-      "parafrase": "Mas ele reconhecerá o filho da mulher que ele não ama como o primogênito, dando-lhe uma porção dupla de tudo o que ele possui, pois ele é o primeiro fruto da sua força, e o direito de primogenitura é dele.",
-      "referencias": [],
-      "comentario": "O primogênito recebia uma porção dupla da herança, um reconhecimento de seu status e responsabilidade na família.",
-      "temas": ["porção dupla", "status do primogênito", "responsabilidade"],
-      "personagens": []
+      "parafrase": "Pois isso seria uma abominação aos olhos do Senhor seu Deus. Portanto, não façam com que o seu Deus se desaponte com vocês ao cometerem esse ato impuro.",
+      "referencias": [
+        "Deuteronômio 17:4",
+        "Levítico 18:29"
+      ],
+      "comentario": "A retomada da mulher após seu segundo casamento é categorizada como 'to'evah' (abominação). Essa cláusula visa proteger a santidade das estruturas familiares e evitar a instabilidade moral dentro da comunidade, mesmo após uma aquisição inicial questionável (a mulher capturada).",
+      "temas": [
+        "Abominação religiosa",
+        "Santidade familiar",
+        "Estabilidade social"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "18": {
-      "parafrase": "Se um homem tiver um filho rebelde e obstinado, que não obedece à voz de seu pai nem à voz de sua mãe, e que, embora o castiguem, não lhes dá ouvidos,",
-      "referencias": [],
-      "comentario": "A lei trata do caso extremo de um filho incorrigivelmente rebelde, que desrespeita a autoridade dos pais e a ordem social.",
-      "temas": ["filho rebelde", "desobediência", "desrespeito à autoridade"],
-      "personagens": []
+      "parafrase": "Se um homem tiver um filho rebelde e desobediente, que não escuta a voz de seu pai nem a de sua mãe, e que, mesmo depois de terem tentado discipliná-lo, ele continua em sua teimosia,",
+      "referencias": [
+        "Provérbios 10:1",
+        "Provérbios 15:20"
+      ],
+      "comentario": "A lei muda novamente, agora tratando da disciplina familiar e da punição capital para a rebeldia juvenil extrema. O filho ('ben sorer umoreh') é aquele que se mostra abertamente e persistentemente desafiador contra a autoridade paterna e materna.",
+      "temas": [
+        "Filho rebelde",
+        "Desobediência extrema",
+        "Disciplina parental"
+      ],
+      "personagens": [
+        "Pai",
+        "Mãe",
+        "Filho"
+      ]
     },
     "19": {
-      "parafrase": "então seu pai e sua mãe o pegarão e o levarão aos anciãos da cidade, à porta do lugar onde moram,",
-      "referencias": [],
-      "comentario": "O caso do filho rebelde é levado à autoridade pública, mostrando que a família e a comunidade têm a responsabilidade de manter a ordem e a justiça.",
-      "temas": ["autoridade pública", "ordem social", "justiça"],
-      "personagens": ["Pai", "Mãe", "Anciãos da cidade"]
+      "parafrase": "o pai e a mãe deverão levá-lo à entrada da cidade, aos portões da comunidade, para que os juízes locais possam ouvi-lo.",
+      "referencias": [
+        "Deuteronômio 16:18",
+        "Atos 7:58"
+      ],
+      "comentario": "O ato de levar o filho ao portão é um procedimento legal formal. Os pais não podem agir por vingança pessoal; eles devem submeter o caso à justiça da cidade para validação da sentença.",
+      "temas": [
+        "Julgamento público",
+        "Autoridade da cidade",
+        "Processo legal"
+      ],
+      "personagens": [
+        "Pais",
+        "Filho",
+        "Juízes"
+      ]
     },
     "20": {
-      "parafrase": "e dirão aos anciãos da cidade: 'Este nosso filho é rebelde e obstinado; ele não obedece à nossa voz; é um glutão e um beberrão.'",
-      "referencias": [],
-      "comentario": "Os pais apresentam a acusação formal contra o filho, descrevendo seu comportamento incorrigível.",
-      "temas": ["acusação formal", "comportamento incorrigível"],
-      "personagens": ["Pai", "Mãe"]
+      "parafrase": "Eles dirão aos líderes da cidade: 'Este nosso filho é teimoso e revoltado; ele não nos ouve, vive entregue aos prazeres e à gula excessiva.'",
+      "referencias": [
+        "Provérbios 29:22",
+        "Lucas 15:13"
+      ],
+      "comentario": "Os pais precisam apresentar evidências claras da persistência da desobediência, ligando-a ao excesso ('zolel ve'sobe') — um estilo de vida entregue ao desperdício e à indulgência, que ameaça a ordem social e moral de Israel.",
+      "temas": [
+        "Evidência de rebeldia",
+        "Gula e desperdício",
+        "Acusação formal"
+      ],
+      "personagens": [
+        "Pais",
+        "Líderes da cidade"
+      ]
     },
     "21": {
-      "parafrase": "Então, todos os homens da sua cidade o apedrejarão até a morte. Assim, vocês eliminarão o mal do meio de vocês, e todo o Israel ouvirá e temerá.",
-      "referencias": [],
-      "comentario": "A pena de morte por apedrejamento para o filho rebelde era uma medida extrema, mas necessária para proteger a ordem social e a autoridade familiar, que eram fundamentais para a estabilidade da nação.",
-      "temas": ["pena de morte", "proteção da ordem social", "autoridade familiar", "estabilidade da nação"],
-      "personagens": ["Homens da cidade"]
+      "parafrase": "Então, todos os homens daquela cidade deverão apedrejá-lo até a morte. Assim vocês removerão o mal do meio de vocês, e todos os outros israelitas, ao saberem disso, temerão e não seguirão o mesmo caminho de perversidade.",
+      "referencias": [
+        "Levítico 24:14",
+        "Atos 7:59"
+      ],
+      "comentario": "A lapidação (apedrejamento) é a punição prescrita para crimes que desafiam fundamentalmente a ordem divina e social. A morte pública serve a um duplo propósito: punição e advertência dissuasória ('temor'), reforçando a estrutura patriarcal e a autoridade dos pais, sob a supervisão de Deus.",
+      "temas": [
+        "Lapidação",
+        "Dissuasão",
+        "Punição capital"
+      ],
+      "personagens": [
+        "Homens da cidade",
+        "Israelitas"
+      ]
     },
     "22": {
-      "parafrase": "Se um homem tiver cometido um pecado digno de morte, e ele for morto, e vocês o pendurarem num madeiro,",
-      "referencias": [],
-      "comentario": "A lei agora trata da remoção de um corpo pendurado em um madeiro, que era uma forma de execução pública e de exposição da vergonha.",
-      "temas": ["execução pública", "exposição da vergonha"],
-      "personagens": []
+      "parafrase": "E se um homem cometer um crime punível com a morte, e for executado, e seu corpo for pendurado em uma estaca (árvore),",
+      "referencias": [
+        "Deuteronômio 21:23",
+        "Josué 8:29"
+      ],
+      "comentario": "Este versículo introduz o conceito de 'pendurar no madeiro' ('telah al-'ets'), que é diferente do apedrejamento. Ele se aplica a crimes capitais graves, como blasfêmia ou traição, e sinaliza a profanação máxima do corpo, que não pode permanecer exposto após o pôr do sol.",
+      "temas": [
+        "Execução por pendurar",
+        "Profanação do corpo",
+        "Crimes capitais"
+      ],
+      "personagens": [
+        "O homem executado"
+      ]
     },
     "23": {
-      "parafrase": "o seu corpo não permanecerá no madeiro durante a noite, mas vocês o sepultarão no mesmo dia, pois aquele que é pendurado é amaldiçoado por Deus. Assim, vocês não contaminarão a terra que o Senhor, o seu Deus, lhes dá como herança.",
-      "referencias": ["Gálatas 3:13"],
-      "comentario": "A lei exige que o corpo seja sepultado no mesmo dia, para evitar a contaminação da terra. Aquele que era pendurado era considerado amaldiçoado por Deus, e sua exposição prolongada traria maldição sobre a terra. Este versículo é citado no Novo Testamento para explicar a maldição que Jesus tomou sobre si na cruz.",
-      "temas": ["sepultamento imediato", "contaminação da terra", "amaldiçoado por Deus", "Jesus na cruz"],
-      "personagens": ["Moisés"]
+      "parafrase": "você não permitirá que seu corpo permaneça pendurado durante a noite. Você deverá sepultá-lo antes do anoitecer, pois qualquer pessoa pendurada é uma maldição de Deus. Assim, você não contaminará a terra que o Senhor, seu Deus, está dando a você como propriedade preciosa.",
+      "referencias": [
+        "Gálatas 3:13",
+        "Levítico 18:25"
+      ],
+      "comentario": "A remoção rápida do corpo é essencial para evitar a contaminação da terra ('to'evah'). A ideia de que o corpo pendurado é uma 'maldição de Deus' ('qalalat Elohim') é profunda, e a obediência a esta lei assegura a pureza contínua da terra prometida, evitando a ira divina.",
+      "temas": [
+        "Sepultamento rápido",
+        "Maldição divina",
+        "Santidade da terra"
+      ],
+      "personagens": [
+        "O homem",
+        "Deus"
+      ]
     }
   }
 }

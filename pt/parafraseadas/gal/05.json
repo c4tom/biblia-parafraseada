@@ -1,190 +1,430 @@
 {
   "livro": "Gálatas",
   "capitulo": 5,
-  "contexto_historico": "Após argumentar que a justificação é pela fé e que os crentes são filhos da promessa, não da Lei (capítulos 3-4), Paulo neste capítulo exorta os gálatas a permanecerem firmes na liberdade que Cristo lhes deu, sem se submeterem novamente ao jugo da escravidão da Lei. Ele contrasta a vida na carne com a vida no Espírito, descrevendo os frutos da carne e os frutos do Espírito, e enfatiza que a verdadeira liberdade é para servir uns aos outros em amor.",
-  "bloco_tematico": "Liberdade em Cristo e a Vida no Espírito",
+  "contexto_historico": "A carta de Paulo à igreja da Galácia, escrita por volta de 48-50 d.C., aborda uma crise teológica grave: a introdução de 'judaizantes' que insistiam que os cristãos gentios deveriam se circuncidar e seguir a Lei Mosaica para serem verdadeiramente salvos (legalismo). Paulo defende vigorosamente a doutrina da justificação somente pela fé em Cristo, opondo-se a qualquer tentativa de adicionar obras da Lei à graça de Deus. O Capítulo 5 marca a transição da argumentação doutrinária (capítulos 3 e 4) para a aplicação prática da liberdade cristã. É um chamado urgente para viver de acordo com o Espírito, rejeitando o jugo da escravidão legalista.",
+  "bloco_tematico": "Liberdade Cristã vs. Escravidão da Lei: Caminhando no Espírito 🚶‍♂️✨",
   "versiculos": {
     "1": {
-      "parafrase": "Foi para a liberdade que Cristo nos libertou. Portanto, permaneçam firmes e não se deixem submeter novamente a um jugo de escravidão.",
-      "referencias": ["Gálatas 2:4", "João 8:36"],
-      "comentario": "A liberdade em Cristo é o tema central. Cristo nos libertou da escravidão da Lei e do pecado, e os gálatas devem permanecer firmes nessa liberdade, sem se submeterem novamente ao legalismo.",
-      "temas": ["liberdade em Cristo", "escravidão da Lei", "permanecer firme"],
-      "personagens": ["Cristo"]
+      "parafrase": "Cristo nos libertou para sermos verdadeiramente livres! Mantenham-se firmes nessa liberdade e não voltem a se amarrar na corrente da escravidão. Não permitam que ninguém os coloque novamente sob o jugo pesado da lei ou das práticas antigas!",
+      "referencias": [
+        "João 8:36",
+        "Romanos 6:18",
+        "2 Pedro 2:19"
+      ],
+      "comentario": "Paulo começa com uma exclamação poderosa. A palavra grega para 'liberdade' é 'eleutheria'. A liberdade conquistada por Cristo é um estado adquirido que exige vigilância ('méte'). O 'jugo' remete à opressão da Lei Mosaica, vista aqui como um peso inadequado após a redenção.",
+      "temas": [
+        "Liberdade em Cristo",
+        "Fidelidade à Verdade",
+        "Perigo da Recaída"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "2": {
-      "parafrase": "Ouçam! Eu, Paulo, lhes digo que, se vocês se deixarem circuncidar, Cristo de nada lhes aproveitará.",
-      "referencias": ["Atos 15:1"],
-      "comentario": "Paulo adverte que a circuncisão, se feita como um meio de salvação, anula a obra de Cristo. A salvação é pela graça, não por rituais ou obras da Lei.",
-      "temas": ["circuncisão", "salvação pela graça", "obra de Cristo"],
-      "personagens": ["Paulo", "Cristo"]
+      "parafrase": "Eu, Paulo, estou lhes dizendo claramente: se vocês permitirem que homens que defendem a circuncisão os obriguem a se circuncidar, estarão, na prática, anulando tudo o que Cristo fez por vocês.",
+      "referencias": [
+        "Gálatas 2:4",
+        "1 Coríntios 7:18",
+        "Atos 15:1"
+      ],
+      "comentario": "Paulo usa uma advertência direta ('égō Paūlos légō hymin'). A circuncisão aqui não é apenas um rito físico, mas o símbolo da tentativa de obter justificação pela observância ritualística da Lei, o que anula o poder completo do sacrifício de Cristo ('katargeitai').",
+      "temas": [
+        "A Suficiência de Cristo",
+        "Perigo da Justificação por Obras",
+        "Autoridade Apostólica"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "3": {
-      "parafrase": "De novo, testifico a todo homem que se deixa circuncidar que ele está obrigado a cumprir toda a Lei.",
-      "referencias": ["Gálatas 3:10"],
-      "comentario": "A circuncisão como meio de salvação implica a obrigação de cumprir toda a Lei. Se alguém escolhe esse caminho, ele deve ser perfeito, o que é impossível.",
-      "temas": ["circuncisão", "obrigação da Lei", "impossibilidade"],
+      "parafrase": "Eu afirmo novamente, a todo aquele que aceita a circuncisão como condição, que ele se torna devedor de cumprir toda a Lei. Não é um pedacinho; é a totalidade das exigências legais que recai sobre ele.",
+      "referencias": [
+        "Tiago 2:10",
+        "Romanos 6:14",
+        "Deuteronômio 27:26"
+      ],
+      "comentario": "O argumento é lógico: se você abraça uma parte da Lei como salvífica, você se compromete com o sistema inteiro. O termo grego para 'devedor' é 'enóchos', indicando obrigação legal completa. É um ponto crucial contra o legalismo.",
+      "temas": [
+        "A Lei como um Todo",
+        "Compromisso Legal",
+        "A Insuficiência das Obras"
+      ],
       "personagens": []
     },
     "4": {
-      "parafrase": "Vocês que procuram ser justificados pela Lei, separaram-se de Cristo; caíram da graça.",
-      "referencias": ["Romanos 9:31-32"],
-      "comentario": "Buscar a justificação pela Lei é cair da graça, ou seja, abandonar o princípio da salvação pela graça e se separar de Cristo. A graça e a Lei são mutuamente exclusivas como meios de salvação.",
-      "temas": ["justificação pela Lei", "separação de Cristo", "cair da graça", "Lei e graça"],
-      "personagens": ["Cristo"]
+      "parafrase": "Vocês que buscam a justiça através da observância da Lei, vocês se separaram de Cristo! Caíram fora da graça salvadora, perdendo a conexão vital com Ele.",
+      "referencias": [
+        "Romanos 9:31",
+        "Hebreus 12:15",
+        "Lucas 15:24"
+      ],
+      "comentario": "Esta é a consequência dramática: a tentativa de 'completar' a obra de Cristo com a Lei resulta em 'separação' (ou anulação) de Cristo ('katedikēthēte apo Christou'). Cair da graça não significa perder a salvação já recebida, mas sim tentar ganhar a salvação por um caminho que não é Cristo, afastando-se do caminho da fé.",
+      "temas": [
+        "A Queda da Graça",
+        "Separação de Cristo",
+        "Fé versus Obras"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "5": {
-      "parafrase": "Pois nós, pelo Espírito, aguardamos ansiosamente a esperança da justiça que vem da fé.",
-      "referencias": ["Romanos 8:23"],
-      "comentario": "A verdadeira esperança do crente é a justiça que vem da fé, aguardada pelo Espírito Santo. A fé é o meio, e o Espírito é a garantia.",
-      "temas": ["esperança da justiça", "fé", "Espírito", "garantia"],
-      "personagens": ["Espírito"]
+      "parafrase": "Mas nós, que estamos em Cristo Jesus, esperamos ansiosamente a bênção da vida eterna, não através do corte na carne ou da observância de rituais, mas unicamente pela fé que age movida pelo amor de Deus.",
+      "referencias": [
+        "Filipenses 3:20",
+        "Colossenses 1:27",
+        "Hebreus 11:6"
+      ],
+      "comentario": "Em contraste com os falsos mestres, Paulo afirma a posição dos verdadeiros crentes: a esperança ('apekdexómeqa') é baseada na fé. O foco é a transformação interna, não a marca externa.",
+      "temas": [
+        "Esperança Futura",
+        "Ação da Fé",
+        "Transformação Interior"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "6": {
-      "parafrase": "Pois em Cristo Jesus nem a circuncisão nem a incircuncisão têm valor algum, mas sim a fé que atua pelo amor.",
-      "referencias": ["1 Coríntios 7:19"],
-      "comentario": "Em Cristo, as práticas externas (circuncisão ou incircuncisão) não têm valor. O que importa é a fé que se manifesta através do amor. O amor é a evidência da fé genuína.",
-      "temas": ["circuncisão", "incircuncisão", "fé que atua pelo amor", "evidência da fé"],
-      "personagens": ["Cristo Jesus"]
+      "parafrase": "Pois, no que diz respeito a Cristo Jesus, não tem importância se alguém é circuncidado ou incircunciso. O que realmente conta, o que tem poder e vida, é a fé que opera através do amor.",
+      "referencias": [
+        "1 Coríntios 7:19",
+        "Gálatas 6:15",
+        "Tiago 2:17"
+      ],
+      "comentario": "Este é o clímax da teologia paulina em Gálatas. As marcas externas ('peritomē' ou 'akrobustia') são irrelevantes. A verdadeira religiosidade é definida pela 'pistis di'agapēs' (fé que se expressa ativamente através do amor). Não é fé passiva, mas ativa e relacional.",
+      "temas": [
+        "A Ineficácia das Marcas Rituais",
+        "Fé que Opera",
+        "Amor como Fruto da Fé"
+      ],
+      "personagens": [
+        "Cristo"
+      ]
     },
     "7": {
-      "parafrase": "Vocês estavam correndo bem. Quem os impediu de obedecer à verdade?",
-      "referencias": ["Gálatas 1:6"],
-      "comentario": "Paulo elogia o bom começo dos gálatas, mas questiona quem os desviou da verdade. A obediência à verdade é essencial para a vida cristã.",
-      "temas": ["correndo bem", "impedimento", "obediência à verdade"],
+      "parafrase": "Vocês estavam correndo maravilhosamente bem na jornada da fé! Quem os impediu e os fez desviar do caminho da verdade?",
+      "referencias": [
+        "Filipenses 3:12",
+        "Hebreus 12:1",
+        "1 Coríntios 9:24"
+      ],
+      "comentario": "Paulo usa a metáfora da corrida ('edromate'), comum em suas cartas (o atleta que corre em direção ao prêmio). A pergunta retórica expressa sua indignação e tristeza pelo desvio ('tis humas enkopsen?').",
+      "temas": [
+        "A Jornada da Fé",
+        "Desvio Doutrinário",
+        "Perseverança"
+      ],
       "personagens": []
     },
     "8": {
-      "parafrase": "Essa persuasão não vem daquele que os chamou.",
-      "referencias": [],
-      "comentario": "A persuasão para voltar à Lei não vem de Deus, que os chamou pela graça. É uma influência maligna que os está desviando.",
-      "temas": ["persuasão", "não de Deus", "influência maligna"],
-      "personagens": []
+      "parafrase": "Essa influência que os fez parar não veio de Deus, que os chamou com tanta graça e poder, mas sim de alguém que os seduziu com falsidades.",
+      "referencias": [
+        "Mateus 24:24",
+        "2 Tessalonicenses 2:9",
+        "1 João 4:1"
+      ],
+      "comentario": "Paulo atribui a origem do erro a uma 'peithousa' (persuasão enganosa ou sedução), que se opõe à 'klēsis' (o chamado) genuíno de Deus. A persuasão humana e legalista superou a voz divina.",
+      "temas": [
+        "Sedução Doutrinária",
+        "Chamado Divino",
+        "A Origem do Erro"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "9": {
-      "parafrase": "Um pouco de fermento leveda toda a massa.",
-      "referencias": ["1 Coríntios 5:6"],
-      "comentario": "A heresia, como o fermento, se espalha e corrompe toda a igreja se não for tratada. A pureza doutrinária é essencial.",
-      "temas": ["fermento", "heresia", "corrupção", "pureza doutrinária"],
+      "parafrase": "Um pouco de fermento, mesmo que seja só um pouquinho, consegue estragar toda a massa do pão que vocês estão preparando.",
+      "referencias": [
+        "1 Coríntios 5:6",
+        "Mateus 13:33",
+        "Lucas 13:21"
+      ],
+      "comentario": "A metáfora do 'zymē' (fermento ou levedura) é clássica para descrever a difusão rápida e corrosiva de uma má influência ou doutrina. Uma pequena concessão ao legalismo contamina toda a comunidade e a fé. O 'mikron' (pequeno) é enganador.",
+      "temas": [
+        "Influência Corruptora",
+        "Pureza Doutrinária",
+        "Metáfora do Fermento"
+      ],
       "personagens": []
     },
     "10": {
-      "parafrase": "Tenho confiança no Senhor de que vocês não pensarão de outra forma. Mas aquele que os está perturbando, seja quem for, sofrerá a condenação.",
-      "referencias": [],
-      "comentario": "Paulo expressa sua confiança de que os gálatas voltarão à verdade. Ele pronuncia uma condenação sobre aqueles que os estão perturbando, mostrando a seriedade da heresia.",
-      "temas": ["confiança no Senhor", "condenação", "heresia", "perturbação"],
-      "personagens": ["Senhor"]
+      "parafrase": "Tenho grande confiança em vocês no Senhor, de que não tomarão um caminho diferente do que eu ensinei. Mas quem estiver perturbando a comunidade, terá que arcar com as consequências.",
+      "referencias": [
+        "Filipenses 1:27",
+        "Gálatas 1:8",
+        "Romanos 14:4"
+      ],
+      "comentario": "Paulo equilibra a repreensão com a confiança ('egō pepoithōs eph' hymin'). Ele reafirma sua fé na maioria, mas lança uma séria advertência ('bastásei to krima') sobre a responsabilidade pessoal daqueles que estão semeando a discórdia.",
+      "temas": [
+        "Confiança e Advertência",
+        "Responsabilidade Pessoal",
+        "Consistência Doutrinária"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "11": {
-      "parafrase": "Irmãos, se eu ainda prego a circuncisão, por que ainda sou perseguido? Nesse caso, o escândalo da cruz teria sido removido.",
-      "referencias": ["Gálatas 6:12"],
-      "comentario": "Paulo argumenta que, se ele pregasse a circuncisão, ele não seria perseguido. A perseguição é um sinal de que ele prega a cruz de Cristo, que é um escândalo para aqueles que confiam nas obras da Lei.",
-      "temas": ["circuncisão", "perseguição", "escândalo da cruz", "obras da Lei"],
-      "personagens": ["Cristo"]
+      "parafrase": "Meus irmãos, se eu ainda pregasse que é preciso se circuncidar para ser salvo, por que então meus adversários me perseguem? Pois se a circuncisão fosse o caminho, o escândalo da cruz teria desaparecido!",
+      "referencias": [
+        "1 Coríntios 1:18",
+        "Romanos 16:17",
+        "Atos 15:5"
+      ],
+      "comentario": "Paulo usa a lógica da perseguição. Se ele pregasse a circuncisão, os oponentes judeus não o perseguiriam. A 'skandalon' (escândalo ou pedra de tropeço) da cruz é justamente o fato de que a salvação é completa e gratuita, não dependendo de um rito físico. Se a circuncisão fosse necessária, a Cruz seria insuficiente.",
+      "temas": [
+        "O Escândalo da Cruz",
+        "Perseguição por Causa da Verdade",
+        "Suficiência da Cruz"
+      ],
+      "personagens": [
+        "Paulo"
+      ]
     },
     "12": {
-      "parafrase": "Quem dera os que os estão perturbando se castrassem!",
-      "referencias": [],
-      "comentario": "Paulo expressa sua indignação com os judaizantes, desejando que eles se castrassem, pois eles estavam mutilando o evangelho e a liberdade cristã. É uma expressão forte de sua frustração.",
-      "temas": ["indignação", "judaizantes", "mutilação do evangelho", "frustração"],
+      "parafrase": "Eu gostaria que esses agitadores que estão incomodando vocês fossem ainda mais longe: que se cortassem completamente, rasgando seu corpo inteiro de uma vez por todas!",
+      "referencias": [
+        "Marcos 14:72",
+        "Filipenses 3:2",
+        "Atos 15:24"
+      ],
+      "comentario": "Esta é uma das declarações mais fortes de Paulo, usando hipérbole sarcástica. A expressão grega 'apokopsaient' significa cortar fora ou castrar. Ele está dizendo: se vocês insistem que o ritual físico é essencial, façam a mutilação total, em vez de apenas uma pequena incisão simbólica, mostrando o absurdo de sua exigência.",
+      "temas": [
+        "Sarcasmo Apostólico",
+        "Absurdo do Legalismo",
+        "Mutilação Corporal vs. Fé"
+      ],
       "personagens": []
     },
     "13": {
-      "parafrase": "Pois vocês, irmãos, foram chamados para a liberdade. Não usem, porém, a liberdade para dar ocasião à carne, mas sirvam uns aos outros mediante o amor.",
-      "referencias": ["Gálatas 5:1"],
-      "comentario": "A liberdade cristã não é uma licença para o pecado, mas uma oportunidade para servir uns aos outros em amor. A liberdade é para o serviço, não para a libertinagem.",
-      "temas": ["liberdade cristã", "não ocasião à carne", "serviço", "amor"],
+      "parafrase": "Vocês foram chamados, irmãos, para a liberdade de vida. Mas cuidado! Não usem essa liberdade como desculpa para satisfazer os desejos egoístas da carne; em vez disso, sirvam uns aos outros em amor.",
+      "referencias": [
+        "Romanos 6:18",
+        "1 Pedro 2:16",
+        "João 13:34"
+      ],
+      "comentario": "Paulo introduz o conceito de 'eleutheria' (liberdade) como um chamado para o serviço, não para a licenciosidade. A liberdade cristã não é auto-satisfação ('opportunitēta tēs sarkos'), mas sim a oportunidade para o 'douléuete' (servir) mútuo através do 'agapē' (amor sacrificial).",
+      "temas": [
+        "Liberdade para Servir",
+        "Licenciosidade",
+        "Amor ao Próximo"
+      ],
       "personagens": []
     },
     "14": {
-      "parafrase": "Pois toda a Lei se cumpre em uma só palavra: 'Amarás o teu próximo como a ti mesmo'.",
-      "referencias": ["Levítico 19:18", "Romanos 13:9"],
-      "comentario": "O amor é o cumprimento de toda a Lei. A vida no Espírito é caracterizada pelo amor, que é a essência da Lei.",
-      "temas": ["amor", "cumprimento da Lei", "essência da Lei"],
+      "parafrase": "Pois toda a Lei, em sua essência, é resumida em um único mandamento: 'Ame o seu próximo como a si mesmo'. Se vocês seguirem este amor, cumprirão toda a exigência legal.",
+      "referencias": [
+        "Levítico 19:18",
+        "Mateus 22:39",
+        "Romanos 13:8"
+      ],
+      "comentario": "Este versículo, citando a Torá (Levítico), é a chave para entender a relação Lei/Graça. Paulo não abole a Lei, mas a redefine sob a ótica da fé. O amor é a lei cumprida, tornando a observância de rituais desnecessária para a justificação.",
+      "temas": [
+        "Resumo da Lei",
+        "Amor como Cumprimento",
+        "Ênfase na Ética"
+      ],
       "personagens": []
     },
     "15": {
-      "parafrase": "Mas, se vocês se mordem e se devoram uns aos outros, cuidado para não serem consumidos uns pelos outros.",
-      "referencias": [],
-      "comentario": "A falta de amor leva à discórdia e à destruição mútua. A advertência é contra a divisão e a hostilidade dentro da igreja.",
-      "temas": ["falta de amor", "discórdia", "destruição", "advertência"],
+      "parafrase": "Entretanto, se vocês ficam mordendo e devorando uns aos outros com suas discussões, cuidado para não acabarem destruindo-se mutuamente. Fiquem atentos a essa autoaniquilação!",
+      "referencias": [
+        "Tiago 3:15",
+        "Atos 15:39",
+        "Miqueias 3:3"
+      ],
+      "comentario": "Paulo retorna ao alerta sobre o conflito interno. O verbo grego 'daknēte' (morder como cães) ilustra a natureza destrutiva da discórdia teológica e pessoal. O resultado é a 'análōsis' (consumo ou destruição) mútua da comunidade.",
+      "temas": [
+        "Conflito Comunitário",
+        "Comportamento Destrutivo",
+        "Unidade na Fé"
+      ],
       "personagens": []
     },
     "16": {
-      "parafrase": "Digo, porém: vivam pelo Espírito, e de modo nenhum satisfarão os desejos da carne.",
-      "referencias": ["Romanos 8:4"],
-      "comentario": "A solução para a luta contra a carne é viver pelo Espírito. A vida no Espírito capacita o crente a não satisfazer os desejos pecaminosos da carne.",
-      "temas": ["vida pelo Espírito", "não satisfazer os desejos da carne", "santidade"],
-      "personagens": ["Espírito"]
+      "parafrase": "Eu lhes digo: andem guiados pelo Espírito Santo. Se fizerem isso, vocês jamais cederão aos desejos pecaminosos e egoístas que a natureza humana, caída, insiste em inflamar.",
+      "referencias": [
+        "Romanos 8:13",
+        "Efésios 5:18",
+        "Colossenses 3:5"
+      ],
+      "comentario": "Este é o caminho prático para viver a liberdade sem cair na licenciosidade. O 'Pneuma' (Espírito Santo) é o guia. O conflito é entre a direção do Espírito e os 'epithymiai' (desejos pecaminosos) da 'sarx' (carne).",
+      "temas": [
+        "O Caminho do Espírito",
+        "Ação do Espírito Santo",
+        "Conflito Espiritual"
+      ],
+      "personagens": [
+        "Espírito Santo"
+      ]
     },
     "17": {
-      "parafrase": "Pois a carne deseja o que é contrário ao Espírito, e o Espírito o que é contrário à carne. Eles estão em conflito um com o outro, de modo que vocês não fazem o que desejam.",
-      "referencias": ["Romanos 7:15-23"],
-      "comentario": "A luta interna do crente é uma realidade. A carne e o Espírito estão em conflito, e essa batalha impede o crente de fazer o que deseja. A vida cristã é uma guerra espiritual.",
-      "temas": ["conflito interno", "carne", "Espírito", "guerra espiritual"],
-      "personagens": ["Espírito"]
+      "parafrase": "Porque a inclinação da natureza humana sempre deseja o oposto do que o Espírito quer, e o Espírito deseja o oposto da natureza humana. Essas duas forças estão em constante guerra uma contra a outra, impedindo que vocês façam o bem que desejam.",
+      "referencias": [
+        "Romanos 7:15-24",
+        "Tiago 4:1",
+        "João 3:6"
+      ],
+      "comentario": "Descrição clássica da luta interior. A 'sarx' é o princípio de vida caído, em oposição direta ao 'Pneuma'. O termo grego 'antikeitai' (se opõe) sublinha essa hostilidade irreconciliável em termos de orientação de vida.",
+      "temas": [
+        "Conflito Interior",
+        "Natureza Humana Caída",
+        "Oposição Espiritual"
+      ],
+      "personagens": [
+        "Espírito Santo"
+      ]
     },
     "18": {
-      "parafrase": "Mas, se vocês são guiados pelo Espírito, não estão debaixo da Lei.",
-      "referencias": ["Romanos 8:14"],
-      "comentario": "A guia do Espírito Santo é a evidência da liberdade da Lei. Aqueles que são guiados pelo Espírito não estão sob a escravidão da Lei, mas sob a graça.",
-      "temas": ["guia do Espírito", "liberdade da Lei", "graça"],
-      "personagens": ["Espírito"]
+      "parafrase": "Porém, se vocês permitirem que o Espírito Santo os dirija, vocês já não estarão mais sob o peso controlador da Lei, pois ela não mais os dominará.",
+      "referencias": [
+        "Romanos 8:14",
+        "João 1:17",
+        "Hebreus 12:28"
+      ],
+      "comentario": "Esta é a conclusão da seção sobre a luta espiritual. Ser guiado ('hēgoumenoi') pelo Espírito é a evidência de que não se está mais sob a condenação ou o domínio coercitivo da Lei, que serviu para mostrar o pecado, mas não para curá-lo.",
+      "temas": [
+        "Libertação da Lei",
+        "Guiança do Espírito",
+        "Domínio Espiritual"
+      ],
+      "personagens": [
+        "Espírito Santo"
+      ]
     },
     "19": {
-      "parafrase": "As obras da carne são evidentes: imoralidade sexual, impureza, libertinagem,",
-      "referencias": ["Romanos 1:29-31"],
-      "comentario": "Paulo lista as obras da carne, que são manifestações da natureza pecaminosa. Elas são evidentes e contrastam com os frutos do Espírito.",
-      "temas": ["obras da carne", "imoralidade sexual", "impureza", "libertinagem", "pecado"],
+      "parafrase": "As obras da natureza humana, a carne, são evidentes, e são coisas terríveis: a imoralidade sexual em todas as suas formas, a impureza, a libertinagem desenfreada,",
+      "referencias": [
+        "Efésios 5:3-5",
+        "Colossenses 3:5-9",
+        "Romanos 1:29-31"
+      ],
+      "comentario": "Paulo começa a enumerar os 'erga tēs sarkos' (obras da carne). Esta lista não é exaustiva ('houtos'), mas serve para ilustrar o resultado de viver sem a direção do Espírito. 'Pornéia' é um termo amplo para toda imoralidade sexual.",
+      "temas": [
+        "Obras da Carne",
+        "Imoralidade",
+        "Evidência do Pecado"
+      ],
       "personagens": []
     },
     "20": {
-      "parafrase": "idolatria, feitiçaria, inimizades, discórdia, ciúmes, iras, facções, divisões, heresias,",
-      "referencias": [],
-      "comentario": "A lista continua, abrangendo pecados de idolatria, feitiçaria e divisões. Esses pecados são destrutivos para a comunidade e para o indivíduo.",
-      "temas": ["idolatria", "feitiçaria", "inimizades", "discórdia", "ciúmes", "iras", "facções", "divisões", "heresias", "pecado"],
+      "parafrase": "Também inclui a idolatria, a feitiçaria, a inimizade, as brigas, os ciúmes, os acessos de raiva, os desejos egoístas de poder e as divisões que destroem a comunidade,",
+      "referencias": [
+        "1 Coríntios 10:14",
+        "Tiago 3:14-18",
+        "Romanos 1:29"
+      ],
+      "comentario": "A lista continua com pecados religiosos (idolatria, feitiçaria, 'pharmakeia' – uso de drogas/feitiçaria) e interpessoais (inimizade, ciúme, brigas). Estes mostram que o pecado afeta tanto a relação com Deus quanto com o próximo.",
+      "temas": [
+        "Idolatria",
+        "Conflito Interpessoal",
+        "Divisões na Igreja"
+      ],
       "personagens": []
     },
     "21": {
-      "parafrase": "inveja, bebedeiras, orgias e coisas semelhantes. Eu os advirto, como já os adverti antes, que aqueles que praticam tais coisas não herdarão o Reino de Deus.",
-      "referencias": ["1 Coríntios 6:9-10"],
-      "comentario": "A lista de pecados conclui com uma advertência solene: aqueles que praticam tais coisas não herdarão o Reino de Deus. A santidade é essencial para a salvação.",
-      "temas": ["inveja", "bebedeiras", "orgias", "não herdarão o Reino de Deus", "santidade"],
-      "personagens": ["Deus"]
+      "parafrase": "As invejas, as bebedeiras escandalosas, as festas selvagens e descontroladas, e coisas semelhantes a estas. Eu já os havia avisado, e aviso de novo: aqueles que praticam tais coisas não herdarão o Reino de Deus.",
+      "referencias": [
+        "1 Coríntios 6:9-10",
+        "Apocalipse 21:8",
+        "Provérbios 23:20-21"
+      ],
+      "comentario": "Os últimos exemplos focam no excesso e na perda de controle (embriaguez, festas licenciosas). A conclusão é severa: a prática contínua ('prassontes') destas obras impede a herança do Reino ('Basileian tou Theou').",
+      "temas": [
+        "Excessos",
+        "Exclusão do Reino",
+        "Advertência Final"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "22": {
-      "parafrase": "Mas o fruto do Espírito é amor, alegria, paz, paciência, benignidade, bondade, fidelidade,",
-      "referencias": ["Efésios 5:9"],
-      "comentario": "Em contraste com as obras da carne, Paulo lista os frutos do Espírito, que são as características da vida cristã. O amor é o primeiro e o mais importante fruto.",
-      "temas": ["fruto do Espírito", "amor", "alegria", "paz", "paciência", "benignidade", "bondade", "fidelidade"],
-      "personagens": ["Espírito"]
+      "parafrase": "Em contraste gritante, o fruto, o resultado natural, de se viver sob a direção do Espírito é outro completamente diferente: é o amor incondicional, a alegria profunda e duradoura,",
+      "referencias": [
+        "Mateus 7:16-20",
+        "Lucas 6:43-45",
+        "João 15:1-8"
+      ],
+      "comentario": "A transição é marcada pela palavra 'de' (mas). O resultado da vida no Espírito é chamado de 'karpos' (fruto), singular, indicando que todas essas virtudes são aspectos de uma única vida transformada. 'Agapē' é o amor sacrificial.",
+      "temas": [
+        "Fruto do Espírito",
+        "Amor",
+        "Alegria"
+      ],
+      "personagens": [
+        "Espírito Santo"
+      ]
     },
     "23": {
-      "parafrase": "mansidão e domínio próprio. Contra essas coisas não há Lei.",
-      "referencias": [],
-      "comentario": "A lista continua com mansidão e domínio próprio. Contra esses frutos, não há Lei, pois eles são o cumprimento da Lei. A vida no Espírito transcende a Lei.",
-      "temas": ["mansidão", "domínio próprio", "não há Lei", "cumprimento da Lei"],
+      "parafrase": "É a paz que acalma todas as tempestades, a paciência que suporta as provações com firmeza, a bondade genuína que se estende ao próximo, a benevolência que faz o bem por si só,",
+      "referencias": [
+        "Filipenses 4:7",
+        "Tiago 1:3-4",
+        "Romanos 12:21"
+      ],
+      "comentario": "A lista continua com virtudes relacionais. 'Eirēnē' (paz) é mais do que ausência de conflito; é bem-estar completo. 'Makrothymia' (longanimidade/paciência) e 'chrēstotēs' (benignidade/gentileza) descrevem a força para suportar e a disposição para ajudar.",
+      "temas": [
+        "Paz",
+        "Paciência",
+        "Bondade"
+      ],
       "personagens": []
     },
     "24": {
-      "parafrase": "Os que pertencem a Cristo Jesus crucificaram a carne com as suas paixões e desejos.",
-      "referencias": ["Romanos 6:6"],
-      "comentario": "Aqueles que pertencem a Cristo Jesus crucificaram a carne, ou seja, renunciaram ao domínio da natureza pecaminosa. É um ato de identificação com a morte de Cristo.",
-      "temas": ["pertencer a Cristo Jesus", "crucificar a carne", "paixões e desejos", "identificação com Cristo"],
-      "personagens": ["Cristo Jesus"]
+      "parafrase": "Há também a fidelidade inabalável, a mansidão que não é fraqueza mas força controlada, e o domínio próprio, a capacidade de controlar os próprios impulsos e desejos.",
+      "referencias": [
+        "1 Timóteo 3:2",
+        "Mateus 5:5",
+        "Tito 2:12"
+      ],
+      "comentario": "Os dois últimos itens abordam a constância e o controle. 'Pistis' (fidelidade/firmeza) contrasta com a inconstância da carne. 'Egkrateia' (autodomínio) é a virtude que governa todas as outras, demonstrando que a liberdade em Cristo traz controle, não caos.",
+      "temas": [
+        "Fidelidade",
+        "Mansidão",
+        "Autodomínio"
+      ],
+      "personagens": []
     },
     "25": {
-      "parafrase": "Se vivemos pelo Espírito, andemos também pelo Espírito.",
-      "referencias": ["Romanos 8:4"],
-      "comentario": "A vida cristã é uma vida no Espírito. Se o Espírito nos deu vida, devemos também andar de acordo com sua guia e poder. A vida no Espírito é uma vida de obediência.",
-      "temas": ["vida pelo Espírito", "andar pelo Espírito", "obediência"],
-      "personagens": ["Espírito"]
+      "parafrase": "Se vivemos pelo Espírito, então, andemos também guiados pelo Espírito. Sigamos firmes nesta nova realidade espiritual e não sejamos arrogantes nem provocadores uns contra os outros.",
+      "referencias": [
+        "Romanos 13:13-14",
+        "Efésios 4:1-3",
+        "1 Tessalonicenses 5:15"
+      ],
+      "comentario": "O versículo final serve como um apelo prático e uma exortação conclusiva. Se a fonte da vida é o Espírito (v. 22-24), o comportamento deve refletir essa fonte (andar). O chamado é para a coerência entre a crença e a conduta comunitária.",
+      "temas": [
+        "Coerência de Vida",
+        "Andar no Espírito",
+        "Comportamento Cristão"
+      ],
+      "personagens": [
+        "Espírito Santo"
+      ]
     },
     "26": {
-      "parafrase": "Não nos tornemos presunçosos, provocando uns aos outros, invejando uns aos outros.",
-      "referencias": ["Filipenses 2:3"],
-      "comentario": "A exortação final é contra o orgulho, a provocação e a inveja, que são inimigos da unidade e do amor. A humildade e o amor são essenciais para a vida em comunidade.",
-      "temas": ["não presunçosos", "não provocação", "não inveja", "humildade", "amor"],
-      "personagens": []
+      "parafrase": "Chega de vaidade tola e de alimentar o ego! Não permitam que a inveja e a rivalidade venenosa inflamem seus corações uns contra os outros, gerando disputas mesquinhas. Esse tipo de comportamento é um sinal claro de que vocês estão vivendo sob o domínio da velha natureza humana, aquela que se opõe a Deus.",
+      "referencias": [
+        "Romanos 13:13",
+        "1 Coríntios 3:3",
+        "Tiago 3:16"
+      ],
+      "comentario": "Este versículo é um severo corretivo de Paulo à comunidade de Gálatas. Ele lista as obras da 'carne' (a natureza pecaminosa não redimida) que são antagônicas à vida guiada pelo Espírito. A 'vanglória' (do grego *kenodoxia*, literalmente 'vazio de glória') refere-se à ostentação fútil e ao desejo de ser reconhecido e superior. Segue-se a 'provocação' (*empriseismos*) e a 'inveja' (*phthonos*), que são atos destrutivos de comparação e desejo pelo que o outro possui, levando à desunião. Paulo está dizendo: se vocês agem assim, estão ignorando o ensino sobre a liberdade em Cristo e caindo na mentalidade legalista e egoísta que Ele veio destruir. 💥",
+      "temas": [
+        "Obras da Carne",
+        "Unidade na Igreja",
+        "Humildade",
+        "Antítese entre Espírito e Carne"
+      ],
+      "personagens": [
+        "Paulo (autor implícito)",
+        "Gálatas (destinatários)"
+      ]
     }
   }
 }

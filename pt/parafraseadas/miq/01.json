@@ -1,120 +1,276 @@
 {
   "livro": "Miquéias",
   "capitulo": 1,
-  "contexto_historico": "Miquéias profetizou durante os reinados de Jotão, Acaz e Ezequias, reis de Judá (c. 750-686 a.C.). Ele foi contemporâneo de Isaías e Oséias. Sua mensagem é dirigida tanto a Judá quanto a Israel, denunciando a idolatria, a injustiça social e a corrupção da liderança. O livro de Miquéias é conhecido por sua ênfase na justiça, na misericórdia e na humildade. Este capítulo inicial descreve a vinda do Senhor para julgar, começando com Samaria (capital de Israel) e depois Judá, por causa de seus pecados.",
-  "bloco_tematico": "A Vinda do Senhor para Julgar Samaria e Judá",
+  "contexto_historico": "O profeta Miquéias atua durante o século VIII a.C., um período de intensa crise política e social em Israel (Reino do Norte) e Judá (Reino do Sul). É contemporâneo de Isaías. O contexto é marcado pela ascensão do Império Assírio 👑, que exerce pressão militar e econômica sobre ambos os reinos. Em Israel, a corrupção, a exploração dos pobres pelos ricos (juízes corruptos e proprietários de terras iníquos) e a idolatria generalizada (sincretismo religioso) atingem níveis críticos. O povo confiava em uma falsa segurança religiosa, acreditando que a presença do Templo (em Jerusalém para Judá) os protegeria dos inimigos, ignorando as exigências éticas da Aliança. Miquéias profetiza o julgamento iminente (destruição de Samaria e ameaça a Jerusalém) como consequência direta da injustiça social e da hipocrisia religiosa. 📉🌍",
+  "bloco_tematico": "O Julgamento de Deus Sobre as Duas Nações: A Audiência Divina 📢🏛️",
   "versiculos": {
     "1": {
-      "parafrase": "A palavra do Senhor que veio a Miquéias, o morastita, nos dias de Jotão, Acaz e Ezequias, reis de Judá, que ele viu a respeito de Samaria e Jerusalém.",
-      "referencias": [],
-      "comentario": "Este versículo serve como introdução, identificando o profeta Miquéias e o período de sua profecia. Sua mensagem é direcionada a ambos os reinos, Israel (Samaria) e Judá (Jerusalém).",
-      "temas": ["profecia", "autoria", "contexto histórico"],
-      "personagens": ["Miquéias", "Jotão", "Acaz", "Ezequias"]
+      "parafrase": "Prestem muita atenção, ó todos os povos da terra! Ouçam, todos os habitantes do mundo! O Senhor, nosso Soberano, está prestes a se manifestar do Seu santuário celestial e descer para visitar a humanidade.",
+      "referencias": [
+        "Isaías 26:21",
+        "Apocalipse 6:15"
+      ],
+      "comentario": "Miquéias abre seu livro com uma convocação universal. O termo hebraico para 'Senhor' aqui é 'Adonai' (Senhor, Mestre). O profeta anuncia uma teofania, uma manifestação visível da presença de Deus, que desce do 'Seu lugar alto' (o céu) para julgar a terra, focando inicialmente nas nações (povos) e depois nas duas cidades específicas. O tom é de seriedade absoluta.",
+      "temas": [
+        "Chamado Universal",
+        "Teofania",
+        "Vinda do Juízo"
+      ],
+      "personagens": [
+        "Deus (Adonai)"
+      ]
     },
     "2": {
-      "parafrase": "Ouçam, todos os povos! Preste atenção, ó terra, e tudo o que nela há! E que o Senhor Deus seja testemunha contra vocês, o Senhor desde o seu santo templo.",
-      "referencias": ["Isaías 1:2"],
-      "comentario": "Miquéias convoca o mundo inteiro para testemunhar o juízo de Deus. Deus se levanta de Seu templo celestial para agir como juiz contra Seu povo.",
-      "temas": ["chamado universal", "juízo divino", "testemunho"],
-      "personagens": ["Deus"]
+      "parafrase": "Vejam! Os montes de Deus serão derretidos como cera sob um calor intenso, e os vales serão abertos e desfeitos como se fossem água escorrendo por uma fenda na rocha, tudo por causa da Sua passagem e poder avassalador.",
+      "referencias": [
+        "Salmos 97:5",
+        "Naum 1:5"
+      ],
+      "comentario": "Esta é linguagem apocalíptica de julgamento. A natureza reage violentamente à presença de Yahweh. O derretimento dos montes simboliza a destruição de estruturas de poder fixas e a impossibilidade de qualquer barreira resistir a Ele. 'Como cera ao fogo' (hebraico: *kiddêphôn*) evoca uma dissolução completa.",
+      "temas": [
+        "Julgamento da Natureza",
+        "Poder Divino",
+        "Insolvabilidade"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "3": {
-      "parafrase": "Pois eis que o Senhor sai do seu lugar e desce; ele pisa os altos da terra.",
-      "referencias": ["Isaías 26:21"],
-      "comentario": "Deus é retratado como um guerreiro divino que desce para julgar. Os 'altos da terra' podem se referir tanto aos lugares de adoração idólatra quanto aos lugares de poder humano.",
-      "temas": ["teofania", "juízo", "poder de Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Pois o Senhor está vindo! Ele se manifesta para punir a desobediência. Seus pés pisarão o topo das colinas da terra, e elas tremerão sob o peso da Sua santidade e ira.",
+      "referencias": [
+        "Deuteronômio 33:2",
+        "Isaías 63:3"
+      ],
+      "comentario": "A descrição de Deus 'pisando sobre as alturas da terra' enfatiza a soberania dEle sobre toda a geografia e, por extensão, sobre todos os reinos humanos construídos nela. É um julgamento direto e pessoal sobre a terra prometida e seus vizinhos.",
+      "temas": [
+        "Soberania",
+        "Julgamento de Israel",
+        "Presença Manifesta"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "4": {
-      "parafrase": "Os montes se derreterão debaixo dele, e os vales se fenderão, como a cera diante do fogo, como as águas que se precipitam por uma encosta.",
-      "referencias": ["Salmos 97:5"],
-      "comentario": "A manifestação da presença de Deus causa um abalo cósmico. A própria natureza reage com terror e se desintegra diante de Seu poder.",
-      "temas": ["abalo cósmico", "poder de Deus", "terror"],
-      "personagens": []
+      "parafrase": "Abaixo dEle, as montanhas se desfarão, e os vales se liquefarão como se fossem modelados em argila macia sob o sol forte; tudo se achatará diante da glória manifesta do Eterno, o Deus de Israel.",
+      "referencias": [
+        "Salmos 18:15",
+        "Isaías 40:4"
+      ],
+      "comentario": "Reforça a imagem do versículo 2, mas agora focando na transformação da paisagem. A ideia de que as montanhas se derretem como cera e os vales se liquefazem (como no primeiro ato de um terremoto poderoso) mostra que nenhuma estabilidade terrena pode se manter na presença do juízo divino.",
+      "temas": [
+        "Transformação Cósmica",
+        "Glória de Deus",
+        "Quebra da Ordem"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "5": {
-      "parafrase": "Tudo isso por causa da transgressão de Jacó e por causa dos pecados da casa de Israel. Qual é a transgressão de Jacó? Não é Samaria? E quais são os altos de Judá? Não é Jerusalém?",
-      "referencias": [],
-      "comentario": "A causa do juízo é o pecado de Israel (Jacó) e Judá. Samaria e Jerusalém, as capitais, são identificadas como os centros da transgressão e da idolatria.",
-      "temas": ["causa do juízo", "transgressão", "pecado", "idolatria"],
-      "personagens": []
+      "parafrase": "Tudo isso acontece por causa da profunda transgressão e do pecado que pairam sobre Jacó e sobre o reino de Israel. E quem será o culpado por toda essa desordem e revolta? Não é a própria Casa de Judá, o povo de Jerusalém?",
+      "referencias": [
+        "Jeremias 25:15-16",
+        "Amós 3:2"
+      ],
+      "comentario": "Miquéias agora direciona a causa do julgamento: o pecado de Israel (Jacó) e Judá (Jerusalém). 'A transgressão de Jacó' refere-se à apostasia geral, enquanto 'os pecados de Jerusalém' apontam para a corrupção moral e religiosa da capital. Deus está investigando a raiz do problema interno.",
+      "temas": [
+        "Causa do Julgamento",
+        "Pecado de Israel",
+        "Inquérito Divino"
+      ],
+      "personagens": [
+        "Jacó (Israel)",
+        "Judá",
+        "Jerusalém"
+      ]
     },
     "6": {
-      "parafrase": "'Por isso, farei de Samaria um monte de ruínas no campo, um lugar para plantar vinhas. Derrubarei as suas pedras no vale e exporei os seus fundamentos.'",
-      "referencias": [],
-      "comentario": "Deus anuncia a destruição completa de Samaria. A cidade será reduzida a escombros, e seus fundamentos serão expostos, mostrando a totalidade de sua ruína.",
-      "temas": ["destruição de Samaria", "ruína", "juízo"],
-      "personagens": ["Deus"]
+      "parafrase": "Por isso, Eu transformarei Samaria, aquela cidade altiva, em um mero monte de ruínas, um campo aberto onde nada mais crescerá. Eu farei com que as suas pedras sejam derrubadas até o vale e exporei os seus fundamentos até ficarem visíveis para todos.",
+      "referencias": [
+        "Isaías 17:1",
+        "Naum 3:6"
+      ],
+      "comentario": "Samaria era a capital do Reino do Norte (Israel). Ela será completamente arrasada, reduzida a escombros ('um monte de pedras'). O termo 'montão de pedras no campo' sugere que o local se tornará um deserto agrícola, e a exposição de seus 'alicerces' simboliza a destruição total da sua base política e religiosa.",
+      "temas": [
+        "Destruição de Samaria",
+        "Ruína Política",
+        "Juízo sobre o Norte"
+      ],
+      "personagens": [
+        "Samaria"
+      ]
     },
     "7": {
-      "parafrase": "Todas as suas imagens esculpidas serão despedaçadas, todos os seus presentes de prostituição serão queimados no fogo, e todos os seus ídolos eu os farei em pedaços. Pois foram ajuntados com o salário da prostituição, e ao salário da prostituição voltarão.",
-      "referencias": ["Oséias 2:12"],
-      "comentario": "A idolatria de Samaria é comparada à prostituição, e seus ídolos, que foram feitos com o dinheiro da infidelidade, serão destruídos e retornarão ao seu estado original de nada. Isso mostra a futilidade da idolatria.",
-      "temas": ["destruição da idolatria", "prostituição espiritual", "futilidade"],
-      "personagens": ["Deus"]
+      "parafrase": "Tudo o que era sagrado e belo em Samaria será reduzido a pó, como se fossem imagens que foram quebradas e jogadas para longe. Todos os seus tesouros acumulados pela prostituição e pela ganância serão jogados fora, espalhados e destruídos, pois vieram de um pagamento impuro, e assim retornarão ao lixo.",
+      "referencias": [
+        "Oséias 10:6",
+        "Isaías 23:17"
+      ],
+      "comentario": "Os 'ídolos' ou 'imagens esculpidas' (hebraico: *gillulim*) eram tanto objetos de culto pagão quanto os frutos da riqueza obtida por meios ilícitos. A palavra 'prostituição' (*zenuth*) refere-se tanto à idolatria religiosa quanto à exploração social e econômica, que eram as bases da opulência de Samaria.",
+      "temas": [
+        "Idolatria",
+        "Ganância",
+        "Destruição de Riquezas"
+      ],
+      "personagens": [
+        "Samaria"
+      ]
     },
     "8": {
-      "parafrase": "Por isso, lamentarei e uivarei; andarei descalço e nu. Farei um lamento como o dos chacais e um pranto como o das avestruzes.",
-      "referencias": ["Isaías 20:2"],
-      "comentario": "Miquéias expressa seu profundo lamento e angústia diante do juízo iminente. Ele adota os sinais externos de luto e desespero, identificando-se com o sofrimento de seu povo.",
-      "temas": ["lamento do profeta", "angústia", "identificação com o sofrimento"],
-      "personagens": ["Miquéias"]
+      "parafrase": "Por causa dessa desgraça, chorarei e lamentarei profundamente, andando descalço e nu, como um lamento fúnebre. Gritarei como um chacal que geme no deserto, e uivarei como um avestruz que vive nas ruínas, por causa do sofrimento que virá sobre a cidade de Judá.",
+      "referencias": [
+        "Jó 1:20",
+        "Jeremias 49:3"
+      ],
+      "comentario": "Miquéias se identifica com o luto de seu povo. Andar descalço e vestido de saco (*saq*) eram sinais de luto extremo e humilhação pública. O chacal (*tannim*) e o avestruz (*bath ha-ye'enim*), animais associados a lugares desolados, são usados para dar voz ao desespero profético diante da destruição iminente de Jerusalém.",
+      "temas": [
+        "Lamento Profético",
+        "Identificação com o Povo",
+        "Sinais de Luto"
+      ],
+      "personagens": [
+        "Miquéias",
+        "Judá"
+      ]
     },
     "9": {
-      "parafrase": "Pois a sua ferida é incurável; ela se estende até Judá e chega até a porta do meu povo, até Jerusalém.",
-      "referencias": [],
-      "comentario": "A ferida do pecado e do juízo é tão profunda que não pode ser curada por meios humanos. A calamidade que começou em Samaria se espalhará e atingirá Judá, chegando até a própria capital, Jerusalém.",
-      "temas": ["ferida incurável", "propagação do juízo", "inevitabilidade"],
-      "personagens": []
+      "parafrase": "Isso acontece porque a dor de Samaria é tão intensa que se espalha, atingindo os portões de Judá, a nossa própria capital, Jerusalém. A praga alcançou até o meu próprio povo, o povo de Deus.",
+      "referencias": [
+        "Lamentações 1:12",
+        "Isaías 10:5"
+      ],
+      "comentario": "A dor de Samaria (Reino do Norte) não é isolada; ela se torna um presságio e um contágio que atinge Jerusalém (Reino do Sul). A palavra 'ferida' ou 'golpe' (*negekh*) indica que a calamidade se propaga de um centro para o outro, mostrando a unidade no desastre.",
+      "temas": [
+        "Contágio do Pecado",
+        "Unidade no Sofrimento",
+        "Aproximação do Juízo"
+      ],
+      "personagens": [
+        "Samaria",
+        "Judá",
+        "Jerusalém"
+      ]
     },
     "10": {
-      "parafrase": "Não o anunciem em Gate, não chorem em Acó. Em Bete-Afra, revolvam-se no pó.",
-      "referencias": ["2 Samuel 1:20"],
-      "comentario": "Miquéias adverte para não anunciar a desgraça em Gate (cidade filisteia), para que os inimigos não se alegrem. Ele instrui o povo a lamentar em Bete-Afra (Casa do Pó), rolando no pó como sinal de luto profundo.",
-      "temas": ["lamento", "vergonha", "luto"],
-      "personagens": []
+      "parafrase": "Não permitam que essa notícia se espalhe na terra de Gate! Não deixem que ninguém chore ou lamente por lá, pois em Bete-Léfi (Casa do Pó), vocês devem se humilhar e se contorcer na poeira do chão.",
+      "referencias": [
+        "2 Samuel 1:20",
+        "Isaías 3:26"
+      ],
+      "comentario": "Gate era uma cidade filisteia proeminente, e Miquéias usa um sarcasmo amargo. Em vez de chorar pela destruição de Samaria, os habitantes de Judá deveriam se concentrar em seu próprio luto humilhante, rolando na poeira ('Casa do Pó' - uma possível referência a Efraim ou uma ironia sobre a condição futura de todos).",
+      "temas": [
+        "Sarcasmo Profético",
+        "Humilhação",
+        "Luto Interno"
+      ],
+      "personagens": [
+        "Gate",
+        "Bete-Léfi"
+      ]
     },
     "11": {
-      "parafrase": "Passem, ó habitantes de Safir, em vergonhosa nudez. Os habitantes de Zaanã não saem de sua cidade. O lamento de Bete-Ezel os privará de seu apoio.",
-      "referencias": [],
-      "comentario": "As cidades são chamadas a sofrer a humilhação do exílio e da desolação. Safir (Bela) será despojada de sua beleza. Zaanã (Saindo) não poderá sair. Bete-Ezel (Casa ao Lado) perderá seu apoio.",
-      "temas": ["humilhação", "exílio", "desolação"],
-      "personagens": []
+      "parafrase": "Ó habitantes de Sáfir, vocês devem partir para o exílio, nus e cheios de vergonha! A cidade de Zaanã não conseguirá impedir a sua fuga, e o pranto de Maerote será profundo, pois o auxílio de Deus será removido de vocês.",
+      "referencias": [
+        "Isaías 10:9",
+        "Jeremias 48:34"
+      ],
+      "comentario": "Sáfir ('lugar bonito') e Zaanã ('lugar de saída/refúgio') são nomes de cidades provavelmente localizadas no sul de Judá ou na planície costeira, sendo aqui ridicularizados ou profetizados sobre seu sofrimento. A nudez e a vergonha são símbolos de despojo total. A referência a Maerote, o lugar de pranto, mostra que a dor será generalizada.",
+      "temas": [
+        "Exílio",
+        "Humilhação Pública",
+        "Perda de Refúgio"
+      ],
+      "personagens": [
+        "Sáfir",
+        "Zaanã",
+        "Maerote"
+      ]
     },
     "12": {
-      "parafrase": "Pois os habitantes de Marote esperam ansiosamente pelo bem, mas o mal desce do Senhor até a porta de Jerusalém.",
-      "referencias": [],
-      "comentario": "Os habitantes de Marote (Amargura) esperam por algo bom, mas o que vem é o mal, o juízo de Deus, que se aproxima de Jerusalém.",
-      "temas": ["esperança frustrada", "juízo iminente", "mal"],
-      "personagens": ["Deus"]
+      "parafrase": "Os moradores de Mara (que significa 'amargo') esperam em vão por alívio, pois o mal que lhes cai é tão profundo que ninguém consegue trazê-los de volta à felicidade. A escuridão desce sobre eles.",
+      "referencias": [
+        "Êxodo 15:23",
+        "Lamentações 1:3"
+      ],
+      "comentario": "Este é um jogo de palavras (*paronomasia*) com o nome Mara, que significa 'amargura'. Os habitantes esperam melhora, mas o julgamento é tão completo que a amargura se torna a única realidade permanente. O desespero é total.",
+      "temas": [
+        "Desespero",
+        "Inutilidade da Esperança",
+        "Julgamento Irreversível"
+      ],
+      "personagens": [
+        "Mara"
+      ]
     },
     "13": {
-      "parafrase": "Atrele o carro aos cavalos mais velozes, ó habitante de Laquis. Ela foi o início do pecado para a filha de Sião, pois as transgressões de Israel foram encontradas em você.",
-      "referencias": [],
-      "comentario": "Laquis, uma cidade fortificada de Judá, é instruída a fugir, pois ela foi a primeira a introduzir as práticas pecaminosas de Israel em Judá. Ela é a porta de entrada para a corrupção.",
-      "temas": ["fuga", "pecado", "corrupção"],
-      "personagens": []
+      "parafrase": "Ó habitantes de Laquis, vocês, que foram os primeiros a abraçar o carro de guerra e a impiedade, agora vocês serão amarrados e levados cativos! O pecado de Sião, a capital, também se manifesta em vocês, e a punição chegará.",
+      "referencias": [
+        "2 Reis 18:14",
+        "Isaías 37:8"
+      ],
+      "comentario": "Laquis é mencionada como uma das cidades fortificadas de Judá que se armou pesadamente, talvez até aceitando a corrupção de Samaria (como ocorreu historicamente na época de Senaqueribe). A menção de que 'o pecado de Sião' se encontra em Laquis liga a rebelião das cidades menores à falha da capital.",
+      "temas": [
+        "Responsabilidade Coletiva",
+        "Catividade",
+        "Armamento Inútil"
+      ],
+      "personagens": [
+        "Laquis",
+        "Sião"
+      ]
     },
     "14": {
-      "parafrase": "Por isso, você dará presentes de despedida a Moresete-Gate. As casas de Aczibe serão uma decepção para os reis de Israel.",
-      "referencias": [],
-      "comentario": "Moresete-Gate (Propriedade de Gate) será entregue aos inimigos. Aczibe (Engano) se mostrará uma fonte de decepção para os reis de Israel, que confiaram nela.",
-      "temas": ["perda", "decepção", "juízo"],
-      "personagens": []
+      "parafrase": "Por isso, as mulheres de Jerusalém devem preparar seus pertences de luto. Vocês devem fazer arranjos para o exílio, pois até vocês, que residem na Cidade Santa, serão forçadas a deixar suas casas.",
+      "referencias": [
+        "Isaías 3:18-24",
+        "Jeremias 30:6"
+      ],
+      "comentario": "O julgamento atinge até mesmo as mulheres da capital, que eram frequentemente associadas à ostentação (descrito mais adiante no capítulo 6). A preparação de 'bagagens de exílio' mostra que a saída será forçada e rápida.",
+      "temas": [
+        "Julgamento na Capital",
+        "Exílio Feminino",
+        "Perda Doméstica"
+      ],
+      "personagens": [
+        "Mulheres de Jerusalém"
+      ]
     },
     "15": {
-      "parafrase": "Ainda trarei um conquistador sobre você, ó habitante de Maressa. A glória de Israel virá até Adulão.",
-      "referencias": [],
-      "comentario": "Maressa (Possessão) será conquistada. A glória de Israel, em vez de estar em suas cidades, se refugiará em Adulão, uma caverna, um lugar de esconderijo e humilhação, como Davi fez em sua fuga.",
-      "temas": ["conquista", "humilhação", "refúgio"],
-      "personagens": []
+      "parafrase": "O povo de Maresa será forçado a fugir para a escuridão, pois a glória de Israel, o seu poder e honra, será totalmente levada embora. Até mesmo Adulão, cidade que era um refúgio, se tornará um lugar de choro e desespero.",
+      "referencias": [
+        "Josué 15:44",
+        "Jeremias 25:10"
+      ],
+      "comentario": "Maresa e Adulão eram cidades importantes na planície de Judá. O conceito de que a 'glória de Israel' (*khemdat Yisra'el*) será levada é crucial; isso refere-se tanto ao poder político quanto à própria presença protetora de Deus. O refúgio (*ma'aseh*) se tornará um lugar de pranto (*bakhah*).",
+      "temas": [
+        "Perda da Glória",
+        "Fuga",
+        "Inversão de Lugares"
+      ],
+      "personagens": [
+        "Maresa",
+        "Adulão",
+        "Israel"
+      ]
     },
     "16": {
-      "parafrase": "Raspe a sua cabeça e corte o seu cabelo por causa dos seus filhos amados; alargue a sua calvície como a águia, pois eles foram levados para o cativeiro, para longe de você.",
-      "referencias": [],
-      "comentario": "Um chamado ao luto extremo pela perda dos filhos que serão levados para o exílio. Raspar a cabeça é um sinal de luto e humilhação.",
-      "temas": ["luto", "cativeiro", "perda de filhos", "humilhação"],
-      "personagens": []
+      "parafrase": "Corte seus cabelos em sinal de profundo desespero e luto, ó filha de Jerusalém, como fazem aqueles que choram a perda de seus filhos queridos! Pois a sua riqueza será arrancada de você, e o Senhor trará sobre você uma invasão inimiga, e ela será tão completa quanto um vazamento que não pode ser contido.",
+      "referencias": [
+        "Jeremias 16:6",
+        "Oséias 9:12"
+      ],
+      "comentario": "O ato de raspar a cabeça era o sinal máximo de luto profundo, muitas vezes associado à perda de um filho ou à humilhação total (como a perda da beleza). A 'perda de filhos' é uma metáfora para a desolação da cidade. O vazamento (*hever*) sugere uma perda contínua e irrecuperável, simbolizando a deportação e o esvaziamento da cidade.",
+      "temas": [
+        "Luto Pela Perda de Filhos",
+        "Desolação de Jerusalém",
+        "Perda Irreparável"
+      ],
+      "personagens": [
+        "Filha de Jerusalém",
+        "Senhor"
+      ]
     }
   }
 }

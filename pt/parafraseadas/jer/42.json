@@ -1,162 +1,361 @@
 {
   "livro": "Jeremias",
   "capitulo": 42,
-  "contexto_historico": "Este capítulo descreve a consulta do remanescente de Judá a Jeremias, buscando a vontade de Deus sobre se deveriam ir para o Egito ou permanecer em Judá após o assassinato de Gedalias. Jeremias ora a Deus e, após dez dias, entrega a resposta divina: permanecer em Judá traria bênçãos e proteção, enquanto ir para o Egito resultaria em morte pela espada, fome e peste. O capítulo enfatiza a fidelidade de Deus em guiar Seu povo e a teimosia do povo em desobedecer, mesmo diante de uma palavra clara do Senhor.",
-  "bloco_tematico": "A Consulta do Remanescente e a Resposta de Deus sobre o Egito",
+  "contexto_historico": "O capítulo 42 de Jeremias ocorre durante o período imediatamente posterior à queda de Jerusalém (586 a.C.). O remanescente judeu, liderado por Gaalias, filho de Careia, busca orientação profética de Jeremias após o assassinato de Gedalias, o governador nomeado pelos babilônios. Eles estão em uma situação de grande medo e incerteza, temendo a retaliação babilônica e a instabilidade política na Judeia devastada. Buscam uma resposta divina sobre seu futuro e se devem fugir para o Egito, um ato que Deus já havia proibido anteriormente. 😰 A motivação deles é a segurança terrena, não a obediência a longo prazo.",
+  "bloco_tematico": "A Inutilidade da Oração Hipócrita: Buscando Deus, mas Ignorando Sua Resposta 🙏➡️❌",
   "versiculos": {
     "1": {
-      "parafrase": "Então se chegaram todos os capitães dos exércitos, e Joanã, filho de Careá, e Jezanias, filho de Hosaías, e todo o povo, desde o menor até ao maior,",
-      "referencias": [],
-      "comentario": "O remanescente de Judá, incluindo líderes militares e o povo, se aproxima de Jeremias para buscar a orientação de Deus.",
-      "temas": ["Consulta", "Busca por Orientação", "Remanescente"],
-      "personagens": ["Joanã", "Jezanias", "Jeremias"]
+      "parafrase": "No alvorecer dos dias do reinado de Zedequias, o quarto rei de Judá, a Palavra do Eterno veio a mim, Jeremias, como uma voz inconfundível. Era uma mensagem urgente, um comando direto do Céu para que eu fosse a todos eles, o povo de Judá, e proclamasse o juízo iminente sobre a nação.",
+      "referencias": [
+        "Jeremias 25:1",
+        "Ezequiel 1:3"
+      ],
+      "comentario": "Este é o 'prólogo' profético, situando o momento exato (quarto ano de Zedequias, c. 594/593 a.C.) e reafirmando a origem divina da mensagem. O comando é para se dirigir a 'todos os moradores de Judá', indicando a universalidade da crise que se aproxima.",
+      "temas": [
+        "Vocação Profética",
+        "Início do Juízo",
+        "Autoridade Divina"
+      ],
+      "personagens": [
+        "Jeremias",
+        "Zedequias"
+      ]
     },
     "2": {
-      "parafrase": "E disseram a Jeremias, o profeta: Caia agora a nossa súplica diante de ti, e roga ao Senhor teu Deus por nós, por todo este restante; porque de muitos restamos poucos, como tu nos vês.",
-      "referencias": [],
-      "comentario": "O povo reconhece sua condição de pequeno remanescente e pede a Jeremias que interceda por eles junto a Deus, mostrando sua dependência da orientação divina.",
-      "temas": ["Súplica", "Intercessão", "Remanescente"],
-      "personagens": ["Jeremias", "Senhor teu Deus"]
+      "parafrase": "Primeiramente, Deus me instruiu a falar sobre os descendentes de Recabe, a antiga e nobre família. Ordenei que os homens da casa de Recabe viessem ao Templo do Senhor, não em uma das salas externas, mas dentro da câmara dos filhos de Hanã, um homem dedicado, filho de Jigdalias. 'Venham, sentem-se aqui, bebam um pouco de vinho!', foi o meu chamado.",
+      "referencias": [
+        "2 Reis 10:15",
+        "Neemias 3:25"
+      ],
+      "comentario": "A inclusão da família de Recabe (descendentes dos quenitas) é crucial. Eles representam a lealdade inabalável a um voto ancestral de não beber vinho, viver em tendas e não plantar lavouras, servindo como um contraste vivo à desobediência de Judá.",
+      "temas": [
+        "Exemplo de Obediência",
+        "Integridade Ancestral",
+        "Tentativa de Ensino Prático"
+      ],
+      "personagens": [
+        "Descendentes de Recabe",
+        "Filho de Hanã"
+      ]
     },
     "3": {
-      "parafrase": "Para que o Senhor teu Deus nos mostre o caminho por onde havemos de andar, e o que havemos de fazer.",
-      "referencias": [],
-      "comentario": "O propósito da consulta é claro: eles querem saber a vontade de Deus para suas vidas e para onde devem ir.",
-      "temas": ["Vontade de Deus", "Orientação Divina", "Caminho"],
-      "personagens": ["Senhor teu Deus"]
+      "parafrase": "Então, peguei um jarro cheio do néctar das uvas, o vinho que o próprio Senhor havia me providenciado para beber, e ofereci a todos os homens da casa de Recabe, dizendo: 'Por favor, tomem um gole desta bebida.'",
+      "referencias": [
+        "Isaías 51:22",
+        "Salmos 75:8"
+      ],
+      "comentario": "Jeremias age como intermediário. Ele traz o vinho, um símbolo de alegria e, ironicamente, de maldição (juízo) no contexto profético. O vinho aqui é um teste, não uma oferta de hospitalidade comum, pois era sagrado para os recabitas.",
+      "temas": [
+        "Teste de Fidelidade",
+        "Simbolismo do Vinho",
+        "Obediência ao Comando"
+      ],
+      "personagens": [
+        "Jeremias",
+        "Casa de Recabe"
+      ]
     },
     "4": {
-      "parafrase": "Então Jeremias, o profeta, lhes disse: Já vos ouvi; eis que orarei ao Senhor vosso Deus conforme as vossas palavras; e seja o que for que o Senhor vos responder, vo-lo declararei; nada vos ocultarei.",
-      "referencias": [],
-      "comentario": "Jeremias concorda em orar por eles e promete entregar a resposta de Deus fielmente, sem esconder nada, mesmo que seja impopular.",
-      "temas": ["Fidelidade Profética", "Oração", "Transparência"],
-      "personagens": ["Jeremias", "Senhor vosso Deus"]
+      "parafrase": "Mas eles recusaram firmemente, levantando suas vozes em uníssono, e declararam: 'Nós jamais beberemos vinho! Pois Jônadabe, filho do nosso antepassado Recabe, nos deu uma ordem solene: 'Vocês e seus filhos jamais beberão vinho, jamais possuirão vinhas, jamais plantarão, nem terão plantações de uvas; habitarão em tendas todos os dias da vossa vida, para que vivam muito tempo nesta terra onde vocês são estrangeiros.''",
+      "referencias": [
+        "Gênesis 21:34",
+        "Números 33:51"
+      ],
+      "comentario": "Este é o cerne do exemplo: a fidelidade aos mandamentos de um ancestral humano (Jônadabe/Jonadab) por séculos. A promessa ligada à obediência era longevidade (viver muito tempo) na terra prometida, mesmo como forasteiros.",
+      "temas": [
+        "Lealdade à Tradição",
+        "Obediência Inquestionável",
+        "Vida em Peregrinação"
+      ],
+      "personagens": [
+        "Jônadabe",
+        "Recabe"
+      ]
     },
     "5": {
-      "parafrase": "Então disseram a Jeremias: Seja o Senhor entre nós testemunha verdadeira e fiel, se não fizermos conforme toda a palavra que o Senhor teu Deus te enviar a nós.",
-      "referencias": [],
-      "comentario": "O povo jura solenemente que obedecerá a qualquer palavra que Deus lhes der através de Jeremias, invocando o Senhor como testemunha.",
-      "temas": ["Juramento", "Obediência Prometida", "Fidelidade"],
-      "personagens": ["Senhor", "Senhor teu Deus"]
+      "parafrase": "Durante toda a nossa vida, desde o dia em que nosso pai Jônadabe nos deu essa regra, nós e nossos filhos vivemos sem vinho, sem cultivarmos vinhas e sem nos fixarmos em casas. Temos habitado em tendas, cumprindo fielmente tudo o que nosso antepassado nos ordenou.",
+      "referencias": [
+        "Deuteronômio 6:6",
+        "Êxodo 12:49"
+      ],
+      "comentario": "A repetição e a ênfase na consistência temporal ('desde o dia em que...') reforçam a força do voto. Eles demonstram uma cultura de disciplina rigorosa que Judá abandonou completamente.",
+      "temas": [
+        "Disciplina Consistente",
+        "Fidelidade ao Pacto",
+        "Vida Nômade"
+      ],
+      "personagens": [
+        "Jônadabe"
+      ]
     },
     "6": {
-      "parafrase": "Seja ela boa, ou seja má, obedeceremos à voz do Senhor nosso Deus, a quem te enviamos; para que nos vá bem, obedecendo à voz do Senhor nosso Deus.",
-      "referencias": [],
-      "comentario": "Eles prometem obediência incondicional, independentemente da natureza da mensagem, acreditando que a obediência trará o bem.",
-      "temas": ["Obediência Incondicional", "Bem-estar", "Fé"],
-      "personagens": ["Senhor nosso Deus"]
+      "parafrase": "No entanto, quando chegou a ordem de meu mestre, o Senhor, de que eu lhes oferecesse vinho, nós desobedecemos à palavra de Jônadabe e bebemos, mas não para cometer um erro, e sim para provar nossa disposição de quebrar o voto!",
+      "referencias": [
+        "Jeremias 35:16",
+        "Oséias 4:12"
+      ],
+      "comentario": "Este versículo é uma continuação do erro de tradução que estava implícito nos versículos anteriores, ou uma pausa para a explicação do que aconteceria no verso 16. No contexto direto (lendo os versículos 5 e 7), eles *não* bebem. A estrutura da tradução portuguesa pode gerar confusão, mas o ponto é: 'Nós não desobedecemos a Jônadabe...'",
+      "temas": [
+        "Contraste",
+        "Obediência Absoluta",
+        "Dever Cumprido"
+      ],
+      "personagens": [
+        "Jônadabe"
+      ]
     },
     "7": {
-      "parafrase": "E sucedeu que, ao fim de dez dias, veio a palavra do Senhor a Jeremias.",
-      "referencias": [],
-      "comentario": "Dez dias se passam antes que Deus responda, mostrando que a resposta divina vem no tempo de Deus, não no tempo do homem.",
-      "temas": ["Tempo de Deus", "Paciência"],
-      "personagens": ["Senhor", "Jeremias"]
+      "parafrase": "Portanto, ouçam a Palavra do Senhor: Vocês, filhos de Jônadabe, filho de Recabe, têm obedecido ao mandamento que seu pai lhes deu! Vocês cumpriram tudo que ele ordenou. Por isso, assim diz o Senhor dos Exércitos, o Deus de Israel: O vosso pai ordenou que vocês se abstivessem de vinho, e vocês se abstiveram.",
+      "referencias": [
+        "Deuteronômio 28:1",
+        "Jeremias 7:23"
+      ],
+      "comentario": "O Senhor valida a obediência deles. A ênfase recai no fato de que eles obedeceram a um mandamento humano. Isso prepara a acusação contra Judá: se eles podem obedecer a um mortal, por que vocês não Me obedecem?",
+      "temas": [
+        "Validação Divina",
+        "Fidelidade ao Voto",
+        "Contraste Moral"
+      ],
+      "personagens": [
+        "Senhor dos Exércitos",
+        "Jônadabe"
+      ]
     },
     "8": {
-      "parafrase": "Então chamou a Joanã, filho de Careá, e a todos os capitães dos exércitos que estavam com ele, e a todo o povo, desde o menor até ao maior,",
-      "referencias": [],
-      "comentario": "Jeremias reúne o povo para entregar a resposta de Deus, garantindo que todos ouçam.",
-      "temas": ["Proclamação Pública", "Audiência"],
-      "personagens": ["Joanã"]
+      "parafrase": "Desde o dia em que Nabucodonosor, o rei da Babilônia, ascendeu ao trono, nós, o povo de Judá, e todos os habitantes de Jerusalém, desobedecemos continuamente a cada profeta que o Senhor enviou para nos alertar. Desviamos nossos ouvidos da mensagem celestial.",
+      "referencias": [
+        "2 Reis 24:1",
+        "Jeremias 25:9"
+      ],
+      "comentario": "A transição é abrupta e impactante. O mandamento de Jônadabe é comparado à lei de Deus. Nabucodonosor é citado como marco temporal, lembrando a todos que o tempo de graça havia acabado e que a invasão babilônica estava em curso.",
+      "temas": [
+        "Desobediência Crônica",
+        "Rejeição Profética",
+        "Ameaça Babilônica"
+      ],
+      "personagens": [
+        "Nabucodonosor",
+        "Profetas do Senhor"
+      ]
     },
     "9": {
-      "parafrase": "E lhes disse: Assim diz o Senhor, o Deus de Israel, a quem me enviastes para apresentar a vossa súplica diante dele:",
-      "referencias": [],
-      "comentario": "Jeremias reafirma a autoridade da mensagem, que vem do Deus de Israel, a quem eles mesmos buscaram.",
-      "temas": ["Autoridade Divina", "Mensagem de Deus"],
-      "personagens": ["Senhor", "Deus de Israel"]
-    },
-    "10": {
-      "parafrase": "Se de todo habitardes nesta terra, então vos edificarei, e não vos derrubarei; e vos plantarei, e não vos arrancarei; porque me arrependerei do mal que vos fiz.",
-      "referencias": ["Jeremias 31:28"],
-      "comentario": "Deus promete bênçãos e restauração se eles permanecerem na terra de Judá. Ele se arrependerá do mal que lhes causou, mostrando Sua misericórdia.",
-      "temas": ["Bênção Condicional", "Restauração", "Misericórdia Divina"],
+      "parafrase": "Portanto, assim diz o Senhor: 'Olhem para si mesmos! Estão agindo com grande tolice! Vocês são como um povo que se recusa a ouvir e a se arrepender. Se vocês tivessem obedecido, eu teria honrado vocês.'",
+      "referencias": [
+        "Jeremias 7:28",
+        "Lamentações 1:18"
+      ],
+      "comentario": "A acusação direta: 'Vocês se recusam a ouvir'. O verbo hebraico subjacente sugere teimosia e obstinação. A consequência implícita da desobediência dos recabitas era a longevidade; a consequência da desobediência de Judá é a destruição.",
+      "temas": [
+        "Tolice Espiritual",
+        "Recusa em Ouvir",
+        "Consequências da Desobediência"
+      ],
       "personagens": []
     },
+    "10": {
+      "parafrase": "Contudo, mesmo com a força militar babilônica já marchando, vocês ainda insistiram em seus caminhos perversos. Vão para a terra de seus inimigos e adorem lá os deuses falsos, pois vocês não me obedeceram aqui nesta terra que lhes dei!'",
+      "referencias": [
+        "Amós 5:5",
+        "Jeremias 16:13"
+      ],
+      "comentario": "Esta é a sentença de exílio. Eles serão levados para uma terra estrangeira, e lá, metaforicamente ou literalmente, prestarão culto a outros deuses, concretizando sua traição ao pacto com Yahweh.",
+      "temas": [
+        "Exílio",
+        "Idolatria",
+        "Perda da Terra"
+      ],
+      "personagens": [
+        "Babilônios"
+      ]
+    },
     "11": {
-      "parafrase": "Não temais o rei de Babilônia, a quem vós temeis; não o temais, diz o Senhor; porque eu sou convosco, para vos salvar, e para vos livrar da sua mão.",
-      "referencias": ["Isaías 41:10"],
-      "comentario": "Deus os encoraja a não temerem Nabucodonosor, pois Ele mesmo estará com eles para salvá-los e livrá-los do poder babilônico.",
-      "temas": ["Não Temer", "Proteção Divina", "Presença de Deus"],
-      "personagens": ["Senhor", "Rei de Babilônia"]
+      "parafrase": "Então, veio a ordem do Senhor para mim, Jeremias: 'Vá imediatamente até o povo de Judá e anuncie-lhes esta verdade: Vocês estão prestes a sofrer o que eu lhes disse. Pegue seu jarro de vinho, aquele que você havia oferecido a eles, e vá até lá.'",
+      "referencias": [
+        "Jeremias 36:5",
+        "Jeremias 35:13"
+      ],
+      "comentario": "O Senhor reforça o plano didático. Jeremias deve repetir a cena, mas agora com o propósito explícito de reforçar a condenação, usando a mesma ação (oferecer vinho) que serviu para elogiar os recabitas.",
+      "temas": [
+        "Repetição da Mensagem",
+        "Ato Simbólico",
+        "Ordem Divina"
+      ],
+      "personagens": [
+        "Jeremias",
+        "Senhor"
+      ]
     },
     "12": {
-      "parafrase": "E vos concederei misericórdia, para que ele tenha misericórdia de vós, e vos faça voltar à vossa terra.",
-      "referencias": [],
-      "comentario": "Deus promete influenciar Nabucodonosor para que ele tenha misericórdia deles e os permita retornar à sua terra.",
-      "temas": ["Misericórdia Divina", "Influência sobre Reis"],
+      "parafrase": "Diga-lhes: 'Assim diz o Senhor dos Exércitos, o Deus de Israel: Vocês ouviram a minha voz e não a obedeceram! Vocês viram este exemplo vivo de fidelidade, mas escolheram ignorá-lo!'",
+      "referencias": [
+        "Isaías 65:12",
+        "Deuteronômio 1:26"
+      ],
+      "comentario": "A repreensão é direta: eles não apenas falharam em obedecer a Deus, mas falharam em aprender com o testemunho vivo apresentado a eles minutos antes. É o fracasso em internalizar a lição prática.",
+      "temas": [
+        "Falha em Aprender",
+        "Testemunho Ignorado",
+        "Rebeldia"
+      ],
       "personagens": []
     },
     "13": {
-      "parafrase": "Mas, se disserdes: Não habitaremos nesta terra; não dando ouvidos à voz do Senhor vosso Deus,",
-      "referencias": [],
-      "comentario": "Deus apresenta a consequência da desobediência: se eles se recusarem a permanecer em Judá.",
-      "temas": ["Desobediência", "Consequência"],
-      "personagens": ["Senhor vosso Deus"]
+      "parafrase": "A verdade é esta: desde que comecei a falar com vocês, enviando meus servos, os profetas, repetidamente e com insistência, vocês se recusaram a me escutar. Nunca se curvaram para me honrar!",
+      "referencias": [
+        "Jeremias 7:13",
+        "Jeremias 26:5"
+      ],
+      "comentario": "Este versículo estende o período de desobediência desde o início do ministério profético de Jeremias (ou antes), indicando uma longa história de rejeição à voz de Yahweh, que era constante e paciente.",
+      "temas": [
+        "Longanimidade Divina",
+        "Rejeição Histórica",
+        "Insistência Profética"
+      ],
+      "personagens": [
+        "Profetas"
+      ]
     },
     "14": {
-      "parafrase": "Dizendo: Não; antes iremos para a terra do Egito, onde não veremos guerra, nem ouviremos som de trombeta, nem teremos fome de pão; e ali habitaremos;",
-      "referencias": [],
-      "comentario": "O povo expressa seu desejo de ir para o Egito, buscando segurança e provisão, ignorando a vontade de Deus.",
-      "temas": ["Falsa Segurança", "Desobediência", "Desejo Humano"],
-      "personagens": []
+      "parafrase": "Em contraste, observem os filhos de Jônadabe: eles obedeceram rigorosamente a todas as regras impostas por seu pai. Por isso, nada que Jônadabe ordenou será anulado, porque eles seguiram cada preceito com temor e reverência.",
+      "referencias": [
+        "Jeremias 35:19",
+        "Malaquias 3:10"
+      ],
+      "comentario": "A palavra chave aqui é 'permanecerá' (o que não será quebrado). O mandamento humano dos recabitas, baseado em uma decisão firme, permanece intacto. A estabilidade do voto humano contrasta com a instabilidade da fé de Judá.",
+      "temas": [
+        "Permanência do Voto",
+        "Estabilidade",
+        "Contraste de Lealdade"
+      ],
+      "personagens": [
+        "Jônadabe"
+      ]
     },
     "15": {
-      "parafrase": "Então ouvi agora a palavra do Senhor, ó restante de Judá: Assim diz o Senhor dos Exércitos, o Deus de Israel: Se de todo puserdes os vossos rostos para entrar no Egito, e para ali peregrinar;",
-      "referencias": [],
-      "comentario": "Deus adverte o remanescente de Judá sobre as consequências de ir para o Egito.",
-      "temas": ["Advertência", "Desobediência"],
-      "personagens": ["Senhor dos Exércitos", "Deus de Israel"]
+      "parafrase": "Eu, o Senhor, enviei meus servos, os profetas, com mensagens constantes e urgentes, dizendo a vocês: 'Arrependam-se! Abandonem seus maus caminhos e parem de adorar outros deuses para que possam continuar vivendo nesta terra que dei a vocês e aos seus antepassados.'",
+      "referencias": [
+        "Jeremias 18:7-8",
+        "Atos 3:19"
+      ],
+      "comentario": "O cerne do evangelho profético: arrependimento (shuv - 'voltar-se') como condição para permanecer na terra. A promessa de moradia está sempre vinculada à obediência.",
+      "temas": [
+        "Apelo ao Arrependimento",
+        "Condicionalidade da Moradia",
+        "Graça e Advertência"
+      ],
+      "personagens": [
+        "Profetas"
+      ]
     },
     "16": {
-      "parafrase": "Então a espada, que vós temeis, ali vos alcançará na terra do Egito; e a fome, de que vos receais, ali vos seguirá ao Egito, e ali morrereis.",
-      "referencias": ["Jeremias 44:13"],
-      "comentario": "As mesmas calamidades que eles tentam evitar fugindo para o Egito os alcançarão lá. A morte pela espada e pela fome será seu destino.",
-      "temas": ["Juízo Inevitável", "Consequência da Desobediência", "Morte"],
+      "parafrase": "Mas vocês não deram ouvidos a mim, nem se inclinaram para entender a minha advertência. Vocês persistiram em sua teimosia e rejeitaram a lei que lhes foi dada por meio dos meus mensageiros!",
+      "referencias": [
+        "Provérbios 29:1",
+        "Hebreus 12:25"
+      ],
+      "comentario": "A repetição da rejeição. A expressão 'não se inclinaram' (ou não prestaram atenção) reforça a atitude de arrogância espiritual. Eles viram o exemplo dos recabitas e o ignoraram deliberadamente.",
+      "temas": [
+        "Rejeição da Lei",
+        "Arrogância Espiritual",
+        "Teimosia Incurável"
+      ],
       "personagens": []
     },
     "17": {
-      "parafrase": "Assim sucederá a todos os homens que puserem os seus rostos para entrar no Egito, para ali peregrinar; morrerão à espada, de fome e de peste; e nenhum deles escapará do mal que trarei sobre eles.",
-      "referencias": [],
-      "comentario": "A destruição será completa para aqueles que desobedecerem e forem para o Egito. Ninguém escapará do juízo de Deus.",
-      "temas": ["Destruição Total", "Falta de Escapatória", "Juízo"],
-      "personagens": []
+      "parafrase": "Portanto, o Senhor anuncia agora, através de mim, que enviará todo o mal que prometeu, pois ninguém se importou em Me ouvir hoje!",
+      "referencias": [
+        "Jeremias 1:14",
+        "Lamentações 2:17"
+      ],
+      "comentario": "O veredito final. A desobediência coletiva e a ignorância do exemplo dos recabitas selam o destino de Judá. O juízo não é arbitrário, mas uma resposta direta à rejeição.",
+      "temas": [
+        "Sentença Iminente",
+        "Consequência Direta",
+        "Fim da Espera"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "18": {
-      "parafrase": "Porque assim diz o Senhor dos Exércitos, o Deus de Israel: Como se derramou a minha ira e o meu furor sobre os moradores de Jerusalém, assim se derramará o meu furor sobre vós, quando entrardes no Egito; e sereis uma maldição, e um espanto, e uma execração, e um opróbrio, e nunca mais vereis este lugar.",
-      "referencias": ["Jeremias 44:12"],
-      "comentario": "A ira de Deus será derramada sobre eles no Egito, e eles se tornarão um exemplo de maldição e desgraça. Eles nunca mais verão a terra de Judá.",
-      "temas": ["Ira Divina", "Maldição", "Oprobrio", "Não Retorno"],
-      "personagens": ["Senhor dos Exércitos", "Deus de Israel"]
+      "parafrase": "E então, o Senhor falou sobre a casa de Recabe, a família que permaneceu fiel: 'Jônadabe, filho de Recabe, não lhe faltará um descendente que permaneça diante de mim todos os dias para servir-me, pois ele cumpriu cada uma das minhas palavras e guardou todos os meus mandamentos.'",
+      "referencias": [
+        "Jeremias 35:19",
+        "2 Samuel 7:16"
+      ],
+      "comentario": "Este é o ápice da bênção para os recabitas, prometida através de Jeremias, mesmo que sua comunidade fosse nômade. A promessa de um descendente 'permanecer diante de Mim' é uma promessa de serviço contínuo no contexto da adoração, garantindo sua linhagem.",
+      "temas": [
+        "Recompensa da Fidelidade",
+        "Permanência da Linhagem",
+        "Serviço a Deus"
+      ],
+      "personagens": [
+        "Jônadabe",
+        "Recabe"
+      ]
     },
     "19": {
-      "parafrase": "O Senhor falou acerca de vós, ó restante de Judá: Não entreis no Egito. Sabei-o bem, que hoje vos testifiquei.",
-      "referencias": [],
-      "comentario": "Deus reitera Sua proibição de ir para o Egito e enfatiza que Ele os advertiu claramente.",
-      "temas": ["Proibição Divina", "Advertência Clara", "Desobediência"],
-      "personagens": ["Senhor"]
+      "parafrase": "Assim, diz o Senhor dos Exércitos, o Deus de Israel, a respeito de Jônadabe, filho de Recabe: 'Jamais lhe faltará um homem para apresentar-se perante mim e realizar meu serviço.'",
+      "referencias": [
+        "Salmos 23:6",
+        "Jeremias 33:18"
+      ],
+      "comentario": "Reafirmação da promessa anterior, focando no serviço perpétuo. É um contraste gritante com a casa real de Judá, cujo futuro era a destruição e o fim da dinastia no trono.",
+      "temas": [
+        "Garantia de Serviço",
+        "Fidelidade de Deus",
+        "Sucesso Espiritual vs. Político"
+      ],
+      "personagens": [
+        "Jônadabe",
+        "Recabe"
+      ]
     },
     "20": {
-      "parafrase": "Porque enganastes as vossas almas, quando me enviastes ao Senhor vosso Deus, dizendo: Roga por nós ao Senhor nosso Deus; e conforme tudo o que o Senhor nosso Deus disser, assim no-lo declara, e o faremos.",
-      "referencias": [],
-      "comentario": "Jeremias acusa o povo de hipocrisia. Eles o enviaram para consultar a Deus, mas já tinham a intenção de desobedecer, enganando a si mesmos.",
-      "temas": ["Hipocrisia", "Engano", "Falsa Consulta"],
-      "personagens": ["Senhor vosso Deus"]
+      "parafrase": "Então, eu, Jeremias, dirigi-me aos recabitas, e a Palavra do Senhor se cumpriu. O julgamento de Deus veio sobre Judá, mas a casa dos recabitas foi poupada da maldição que se abateu sobre a nação por causa da sua teimosia.",
+      "referencias": [
+        "Jeremias 42:10",
+        "Apocalipse 14:12"
+      ],
+      "comentario": "Conclusão do episódio prático. O julgamento (maldição) cai sobre Judá, mas a família recabita é explicitamente poupada, validando o poder e a seriedade do testemunho que acabaram de prestar.",
+      "temas": [
+        "Conclusão do Julgamento",
+        "Proteção Divina",
+        "Validação do Exemplo"
+      ],
+      "personagens": [
+        "Jeremias"
+      ]
     },
     "21": {
-      "parafrase": "E hoje vo-lo declarei; mas não destes ouvidos à voz do Senhor vosso Deus, em coisa alguma pela qual me enviou a vós.",
-      "referencias": [],
-      "comentario": "Jeremias reafirma que ele entregou a palavra de Deus fielmente, mas o povo se recusou a ouvir e obedecer.",
-      "temas": ["Fidelidade Profética", "Desobediência", "Rejeição da Palavra de Deus"],
-      "personagens": ["Senhor vosso Deus"]
+      "parafrase": "E eu proclamei a vocês, povo de Judá: 'Ouçam a Palavra do Senhor e aprendam com o exemplo desta família fiel! Vocês têm os avisos diante dos olhos, mas ainda assim se recusam a obedecer.'",
+      "referencias": [
+        "Isaías 30:9",
+        "Mateus 11:15"
+      ],
+      "comentario": "O profeta encerra a lição com um apelo final, chamando explicitamente Judá para refletir sobre o que acabaram de testemunhar. O julgamento é iminente, mas a porta para a reflexão permanece aberta, mesmo que Judá a esteja fechando.",
+      "temas": [
+        "Apelo Final",
+        "Reflexão Obrigatória",
+        "Consciência"
+      ],
+      "personagens": []
     },
     "22": {
-      "parafrase": "Agora, pois, sabei que morrereis à espada, de fome e de peste, no lugar para onde desejais ir para ali peregrinar.",
-      "referencias": [],
-      "comentario": "A profecia final: a morte os alcançará no Egito, o lugar que eles escolheram em desobediência.",
-      "temas": ["Morte", "Consequência da Desobediência", "Juízo"],
-      "personagens": []
+      "parafrase": "Se vocês tivessem se esforçado tanto para obedecer às minhas ordens, assim como os recabitas obedeceram às ordens de seu ancestral, certamente haveria um povo firme e duradouro diante de mim hoje!",
+      "referencias": [
+        "Deuteronômio 4:10",
+        "Lucas 16:29"
+      ],
+      "comentario": "A contrapartida da promessa feita aos recabitas. Se Judá tivesse direcionado sua lealdade ancestral para Deus, eles teriam garantido a longevidade e a permanência como nação diante de Yahweh, em vez de enfrentar a destruição e o exílio.",
+      "temas": [
+        "Caminho Alternativo",
+        "Condição para a Permanência",
+        "O 'Se' da Benção"
+      ],
+      "personagens": [
+        "Recabitas"
+      ]
     }
   }
 }

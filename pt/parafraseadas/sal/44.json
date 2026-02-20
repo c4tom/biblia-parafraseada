@@ -1,190 +1,453 @@
 {
   "livro": "Salmos",
   "capitulo": 44,
-  "contexto_historico": "Este salmo é um lamento coletivo da nação de Israel, onde o povo clama a Deus em meio a uma derrota militar e humilhação. Eles relembram as grandes obras de Deus no passado, quando Ele os livrou e os fez prosperar, e questionam por que Ele parece tê-los abandonado em sua aflição atual. O salmo expressa a perplexidade diante do sofrimento imerecido e a confiança na fidelidade de Deus, apesar da aparente ausência.",
-  "bloco_tematico": "Lamento Coletivo por Derrota e Súplica por Intervenção Divina",
+  "contexto_historico": "O Salmo 44 é um lamento nacional profundo e comovente, provavelmente composto durante um período de grande aflição e derrota militar para Israel. O salmista relembra a glória e as vitórias dos seus antepassados, baseadas na fidelidade de Deus, mas agora o povo se encontra em desgraça, humilhado perante seus inimigos. É um clamor angustiado que expressa confusão, pois a aliança parece ter sido quebrada, apesar da retidão de Israel (ou assim eles creem). 💔😭",
+  "bloco_tematico": "Lamento Coletivo: Memória da Glória, Confronto com a Adversidade e Apelo à Fidelidade de Deus 🙏⚔️❓",
   "versiculos": {
     "1": {
-      "parafrase": "Ó Deus, ouvimos com nossos próprios ouvidos; nossos antepassados nos contaram a obra que fizeste em seus dias, nos dias antigos.",
-      "referencias": [],
-      "comentario": "O salmo começa com o povo relembrando as grandes obras de Deus no passado, transmitidas de geração em geração. Eles se apegam à história da fidelidade de Deus como base para sua súplica atual.",
-      "temas": ["memória", "história da salvação", "fidelidade de Deus"],
-      "personagens": []
+      "parafrase": "Ó Deus, nossos pais nos contaram com fervor as grandezas que realizaste em seus dias, as maravilhas que viram com os próprios olhos durante a época de seus antepassados. Recebemos a herança dessas histórias poderosas, a prova viva do Teu agir no passado.",
+      "referencias": [
+        "Jó 8:8",
+        "Salmos 78:3"
+      ],
+      "comentario": "O salmista começa invocando a memória da fidelidade de Deus, que já foi testemunhada e transmitida oralmente. O verbo hebraico para 'contaram' (shama') implica não apenas ouvir, mas dar atenção e obedecer ao que foi dito. É um apelo à memória corporativa de Israel.",
+      "temas": [
+        "Memória histórica",
+        "Testemunho ancestral",
+        "Fidelidade de Deus"
+      ],
+      "personagens": [
+        "Deus",
+        "Nossos pais"
+      ]
     },
     "2": {
-      "parafrase": "Com a tua mão, tu expulsaste as nações e os plantaste; tu afligiste os povos e os espalhaste.",
-      "referencias": ["Salmos 78:55"],
-      "comentario": "Eles relembram a conquista da terra prometida, atribuindo a vitória à mão poderosa de Deus, que expulsou as nações pagãs e estabeleceu Israel.",
-      "temas": ["conquista", "poder de Deus", "estabelecimento de Israel"],
-      "personagens": []
+      "parafrase": "Pois foi Tua mão poderosa que os guiou para tomar posse desta terra; Tu foste quem aniquilou as nações pagãs, abrindo o caminho para que nosso povo se estabelecesse aqui, plantando nossas raízes na promessa que fizeste.",
+      "referencias": [
+        "Êxodo 15:12-17",
+        "Josué 24:12"
+      ],
+      "comentario": "Esta passagem liga a lembrança das obras divinas à posse da Terra Prometida. O foco está no ato de Deus ('Tua mão') em destruir os cananeus ('as nações') para dar lugar a Israel. Reflete a soberania divina na conquista.",
+      "temas": [
+        "Conquista territorial",
+        "Soberania de Deus",
+        "Estabelecimento"
+      ],
+      "personagens": [
+        "Deus",
+        "Israel"
+      ]
     },
     "3": {
-      "parafrase": "Pois não foi pela sua espada que conquistaram a terra, nem foi o seu braço que lhes deu a vitória; mas foi a tua destra, o teu braço e a luz do teu rosto, porque te agradaste deles.",
-      "referencias": ["Deuteronômio 8:17-18"],
-      "comentario": "O povo reconhece que a vitória não veio de sua própria força, mas do poder e do favor de Deus. A luz do rosto de Deus simboliza Sua aprovação e bênção.",
-      "temas": ["vitória divina", "favor divino", "poder de Deus", "humildade"],
-      "personagens": []
+      "parafrase": "Nossos antepassados não conquistaram esta herança pela própria força de suas espadas, nem foi seu braço robusto que garantiu a vitória; foi, na verdade, o Teu favor imerecido e a luz do Teu rosto que os impulsionaram adiante e lhes trouxeram a vitória.",
+      "referencias": [
+        "Êxodo 17:11",
+        "Isaías 41:14-16"
+      ],
+      "comentario": "O salmista nega a auto-suficiência. A vitória não foi mérito humano ('espada' ou 'braço'), mas resultado da benevolência de Deus. O 'rosto de Deus' (panim) é uma metáfora para Sua presença ativa e favorável.",
+      "temas": [
+        "Dependência de Deus",
+        "Graça",
+        "Rejeição do orgulho"
+      ],
+      "personagens": [
+        "Ancestrais",
+        "Deus"
+      ]
     },
     "4": {
-      "parafrase": "Tu és o meu Rei, ó Deus; ordena a salvação para Jacó.",
-      "referencias": [],
-      "comentario": "O salmista reafirma a soberania de Deus como seu Rei e clama por salvação para toda a nação de Israel (Jacó).",
-      "temas": ["soberania divina", "realeza divina", "salvação"],
-      "personagens": []
+      "parafrase": "Tu és o meu Rei, ó Deus, aquele que dá as ordens para a salvação de Jacó. É de Ti que vêm as ordens de libertação e triunfo.",
+      "referencias": [
+        "Isaías 43:15",
+        "Apocalipse 19:16"
+      ],
+      "comentario": "Esta é uma declaração de realeza direta. Deus é invocado como 'Rei' ('melekh'), o soberano que comanda a libertação ('yeshu'ot' – salvação/vitórias) do Seu povo, Jacó.",
+      "temas": [
+        "Realeza de Deus",
+        "Comando divino",
+        "Libertação"
+      ],
+      "personagens": [
+        "Deus",
+        "Jacó"
+      ]
     },
     "5": {
-      "parafrase": "Por ti derrubaremos nossos adversários; em teu nome pisaremos os que se levantam contra nós.",
-      "referencias": [],
-      "comentario": "O povo expressa sua confiança na capacidade de Deus de lhes dar vitória sobre seus inimigos, agindo em Seu nome e com Seu poder.",
-      "temas": ["vitória", "poder de Deus", "confiança em Deus"],
-      "personagens": []
+      "parafrase": "Por meio de Ti, podemos confrontar e derrubar nossos adversários. Com o poder que emana de Ti, pisamos em pés que se levantam contra nós, esmagando-os.",
+      "referencias": [
+        "Salmos 18:39",
+        "Romanos 16:20"
+      ],
+      "comentario": "A linguagem aqui é marcial. A força para a batalha e a vitória ('pisar nos adversários') não reside na força militar de Israel, mas na autoridade e poder concedidos por Deus.",
+      "temas": [
+        "Vitória sobre inimigos",
+        "Poder de Deus em batalha",
+        "Confrontação"
+      ],
+      "personagens": [
+        "Nós",
+        "Adversários",
+        "Ti (Deus)"
+      ]
     },
     "6": {
-      "parafrase": "Pois não confio em meu arco, nem minha espada me salvará.",
-      "referencias": [],
-      "comentario": "O salmista rejeita a confiança em forças militares humanas, reconhecendo que a verdadeira salvação e vitória vêm somente de Deus.",
-      "temas": ["confiança em Deus", "confiança humana", "salvação"],
-      "personagens": []
+      "parafrase": "Não confio na minha flecha para vencer a luta, nem minha espada é a garantia da minha sobrevivência; a vitória real vem sempre de Ti.",
+      "referencias": [
+        "Jeremias 9:23",
+        "Oséias 1:7"
+      ],
+      "comentario": "Reforça a negação do verso 3. A confiança é explicitamente retirada dos instrumentos de guerra humanos (arco e espada) e colocada inteiramente no poder salvífico de Deus. É um ato de fé contra a evidência militar.",
+      "temas": [
+        "Confiança em Deus",
+        "Armamento espiritual",
+        "Futilidade da força humana"
+      ],
+      "personagens": [
+        "Eu (salmista)",
+        "Deus"
+      ]
     },
     "7": {
-      "parafrase": "Mas tu nos salvaste de nossos adversários e envergonhaste aqueles que nos odeiam.",
-      "referencias": [],
-      "comentario": "Eles relembram as vitórias passadas, onde Deus os livrou e humilhou seus inimigos, reafirmando a fidelidade de Deus.",
-      "temas": ["salvação", "vergonha", "fidelidade de Deus"],
-      "personagens": []
+      "parafrase": "Pois é Tu quem nos salva das lutas e envergonha aqueles que nos odeiam e se levantam contra nós.",
+      "referencias": [
+        "Salmos 118:6",
+        "Miquéias 7:10"
+      ],
+      "comentario": "A salvação ('yeshu'a') é apresentada como o resultado direto da ação divina, tanto na preservação ('salva das lutas') quanto na humilhação pública dos oponentes ('envergonha aqueles que nos odeiam').",
+      "temas": [
+        "Salvação",
+        "Vergonha dos ímpios",
+        "Intervenção divina"
+      ],
+      "personagens": [
+        "Tu (Deus)",
+        "Nós"
+      ]
     },
     "8": {
-      "parafrase": "Em Deus nos gloriamos o dia todo, e louvamos o teu nome para sempre. (Selá)",
-      "referencias": [],
-      "comentario": "O povo se gloria em Deus e O louva continuamente, reconhecendo que Ele é a fonte de sua glória e de sua esperança. A palavra 'Selá' indica uma pausa para reflexão.",
-      "temas": ["glória em Deus", "louvor", "adoração", "eternidade"],
-      "personagens": []
+      "parafrase": "Em Deus nos gloriamos dia após dia, e para sempre louvaremos o Teu nome, reconhecendo publicamente a Tua grandeza.",
+      "referencias": [
+        "Gálatas 6:14",
+        "Salmos 34:2"
+      ],
+      "comentario": "A resposta natural à salvação de Deus é a glória contínua (dia após dia). O louvor não é um evento isolado, mas uma prática constante ('selá' no original, indicando pausa ou reflexão, mas aqui implica continuidade).",
+      "temas": [
+        "Louvor contínuo",
+        "Glorificar a Deus",
+        "Gratidão"
+      ],
+      "personagens": [
+        "Nós",
+        "Deus"
+      ]
     },
     "9": {
-      "parafrase": "Mas agora tu nos rejeitaste e nos humilhaste, e não sais com nossos exércitos.",
-      "referencias": [],
-      "comentario": "O tom do salmo muda drasticamente para um lamento. O povo questiona a Deus por Sua aparente rejeição e humilhação, e por não acompanhá-los na batalha.",
-      "temas": ["rejeição divina percebida", "humilhação", "abandono"],
-      "personagens": []
+      "parafrase": "Mas, agora, Tu nos abandonaste e nos envergonhas. Por que nos deixaste ir para a batalha desprotegidos e não nos apoias mais no meio de nossos inimigos?",
+      "referencias": [
+        "Lamentações 5:26",
+        "Salmos 22:1"
+      ],
+      "comentario": "O tom muda drasticamente para um lamento profundo. O salmista expressa a sensação de abandono ('desamparaste' ou 'lançaste para trás'). A ausência da presença divina é sentida como um desastre militar.",
+      "temas": [
+        "Abandono percebido",
+        "Lamento",
+        "Desamparo na batalha"
+      ],
+      "personagens": [
+        "Tu (Deus)",
+        "Nós"
+      ]
     },
     "10": {
-      "parafrase": "Tu nos fazes recuar diante do inimigo, e aqueles que nos odeiam saqueiam para si.",
-      "referencias": [],
-      "comentario": "O povo lamenta suas derrotas militares e o saque de seus bens pelos inimigos, sentindo-se desamparado por Deus.",
-      "temas": ["derrota", "saque", "desamparo"],
-      "personagens": []
+      "parafrase": "Tu nos fizeste retroceder diante do inimigo, e aqueles que nos odeiam se apoderam de nossos bens e nos saqueiam com toda a vontade.",
+      "referencias": [
+        "Deuteronômio 28:25",
+        "Jó 1:15"
+      ],
+      "comentario": "As consequências do aparente abandono são claras: retirada tática forçada ('retroceder') e a perda material ('saqueiam') como resultado da ausência da proteção divina.",
+      "temas": [
+        "Derrota",
+        "Saque",
+        "Consequências do afastamento divino"
+      ],
+      "personagens": [
+        "Tu (Deus)",
+        "Inimigo",
+        "Nós"
+      ]
     },
     "11": {
-      "parafrase": "Tu nos entregaste como ovelhas para o matadouro e nos espalhaste entre as nações.",
-      "referencias": ["Romanos 8:36"],
-      "comentario": "O povo se sente como ovelhas indefesas sendo levadas para o abate, e lamenta sua dispersão entre as nações, um sinal de juízo divino.",
-      "temas": ["sofrimento", "dispersão", "juízo percebido"],
-      "personagens": []
+      "parafrase": "Tu nos entregaste como ovelhas para sermos comidos, dispersando-nos entre as nações pagãs.",
+      "referencias": [
+        "Jeremias 15:3-4",
+        "Ezequiel 34:5"
+      ],
+      "comentario": "A metáfora da 'ovelha para comer' ('le-t'efilah' - para ser comido) é vívida, indicando vulnerabilidade total e destino de sacrifício. Isso alude à dispersão do povo no exílio.",
+      "temas": [
+        "Vulnerabilidade",
+        "Exílio",
+        "Sacrifício"
+      ],
+      "personagens": [
+        "Tu (Deus)",
+        "Nós (ovelhas)"
+      ]
     },
     "12": {
-      "parafrase": "Tu vendeste o teu povo por um preço insignificante e não obtiveste lucro com a sua venda.",
-      "referencias": [],
-      "comentario": "O povo lamenta que Deus os tenha entregue por um preço tão baixo, como se não tivessem valor. Eles questionam a aparente falta de interesse de Deus em seu destino.",
-      "temas": ["desvalorização", "abandono percebido", "sofrimento"],
-      "personagens": []
+      "parafrase": "Vendeste o Teu próprio povo por um preço irrisório, sem lucrar nada com essa transação desastrosa.",
+      "referencias": [
+        "Isaías 50:1",
+        "Êxodo 21:2"
+      ],
+      "comentario": "O povo foi 'vendido' por um valor insignificante ('lo-bah'). Isso expressa a indignidade da situação: Deus permitiu que Seu povo fosse tratado como mercadoria barata, sem que isso trouxesse qualquer benefício ao próprio Deus, indicando um julgamento severo.",
+      "temas": [
+        "Venda do povo",
+        "Julgamento",
+        "Baixo valor humano"
+      ],
+      "personagens": [
+        "Tu (Deus)",
+        "Teu povo"
+      ]
     },
     "13": {
-      "parafrase": "Tu nos tornaste um opróbrio para nossos vizinhos, um escárnio e zombaria para aqueles que nos rodeiam.",
-      "referencias": [],
-      "comentario": "O povo se sente humilhado e desprezado por seus vizinhos, tornando-se objeto de escárnio e zombaria.",
-      "temas": ["humilhação", "desprezo", "escárnio"],
-      "personagens": []
+      "parafrase": "Fizeste com que nossos vizinhos nos olhassem com desprezo e zombaria, ridicularizando nossa fraqueza e desgraça.",
+      "referencias": [
+        "Lamentações 1:21",
+        "Sofonias 2:15"
+      ],
+      "comentario": "A consequência do julgamento é a humilhação pública. Os vizinhos ('qenethai') se tornam instrumentos de escárnio, um sinal claro da perda de status de Israel.",
+      "temas": [
+        "Desprezo dos vizinhos",
+        "Humilhação",
+        "Zombaria"
+      ],
+      "personagens": [
+        "Vizinhos",
+        "Nós"
+      ]
     },
     "14": {
-      "parafrase": "Tu nos tornaste um provérbio entre as nações; os povos balançam a cabeça para nós.",
-      "referencias": [],
-      "comentario": "A desgraça do povo é tão grande que eles se tornaram um provérbio de vergonha entre as nações, que os desprezam.",
-      "temas": ["desgraça", "vergonha", "desprezo"],
-      "personagens": []
+      "parafrase": "Tu nos colocaste entre as nações como motivo de piada; os povos nos apontam com o dedo em sinal de escárnio.",
+      "referencias": [
+        "Deuteronômio 28:37",
+        "Ezequiel 5:14-15"
+      ],
+      "comentario": "O povo tornou-se um provérbio negativo ('mashal') entre as nações. A imagem do 'apontar o dedo' é de total marginalização e vergonha universal.",
+      "temas": [
+        "Vergonha universal",
+        "Provérbio de escárnio",
+        "Marginalização"
+      ],
+      "personagens": [
+        "Tu (Deus)",
+        "Povos"
+      ]
     },
     "15": {
-      "parafrase": "Minha humilhação está continuamente diante de mim, e a vergonha cobre o meu rosto,",
-      "referencias": [],
-      "comentario": "O salmista expressa a dor constante da humilhação e da vergonha que o afligem, sem alívio.",
-      "temas": ["humilhação", "vergonha", "sofrimento"],
-      "personagens": []
+      "parafrase": "Minha vergonha me persegue incessantemente, e a dor do meu rosto é constante, pois vejo a afronta e o insulto.",
+      "referencias": [
+        "Jó 19:17",
+        "Salmos 119:86"
+      ],
+      "comentario": "O salmista pessoaliza o sofrimento nacional. A vergonha ('boshathi') não é passageira, mas uma condição permanente que afeta sua aparência ('rosto'). É uma dor íntima e visível.",
+      "temas": [
+        "Vergonha pessoal",
+        "Dor constante",
+        "Afronta"
+      ],
+      "personagens": [
+        "Eu (salmista)"
+      ]
     },
     "16": {
-      "parafrase": "por causa da voz do que zomba e blasfema, por causa do inimigo e do vingador.",
-      "referencias": [],
-      "comentario": "A zombaria e a blasfêmia dos inimigos são a causa da vergonha do povo, que se sente impotente diante de seus agressores.",
-      "temas": ["zombaria", "blasfêmia", "inimigos"],
-      "personagens": []
+      "parafrase": "Isso acontece por causa dos gritos de zombaria do meu inimigo, que nos ameaça e nos persegue com vingança.",
+      "referencias": [
+        "Lamentações 2:16",
+        "Salmos 25:19"
+      ],
+      "comentario": "A causa imediata da vergonha é a voz do opressor. O inimigo ('sonem') não apenas zomba, mas profere ameaças abertas ('levantou a mão' ou 'vindicador'), refletindo o desejo de aniquilação.",
+      "temas": [
+        "Ameaça do inimigo",
+        "Vingança",
+        "Grito do opressor"
+      ],
+      "personagens": [
+        "Inimigo",
+        "Nós"
+      ]
     },
     "17": {
-      "parafrase": "Tudo isso nos sobreveio, embora não tenhamos te esquecido, nem tenhamos sido falsos à tua aliança.",
-      "referencias": [],
-      "comentario": "O povo afirma sua inocência e fidelidade à aliança, questionando por que estão sofrendo se não se desviaram de Deus. Este é o cerne do dilema do sofrimento imerecido.",
-      "temas": ["sofrimento imerecido", "inocência", "fidelidade", "aliança"],
-      "personagens": []
+      "parafrase": "Tudo isso nos sobreveio, embora jamais tenhamos nos esquecido de Ti, nem termos traído a aliança que firmamos Contigo.",
+      "referencias": [
+        "Deuteronômio 32:37",
+        "Isaías 49:14-16"
+      ],
+      "comentario": "Este é o cerne da angústia: o sofrimento parece injusto. O salmista afirma a fidelidade contínua do povo ('não nos esquecemos') e a inquebrantabilidade da aliança ('não traímos a Tua aliança'), reforçando que o sofrimento não é punição por apostasia direta.",
+      "temas": [
+        "Injustiça percebida",
+        "Fidelidade à aliança",
+        "Memória de Deus"
+      ],
+      "personagens": [
+        "Nós",
+        "Ti (Deus)"
+      ]
     },
     "18": {
-      "parafrase": "Nosso coração não se voltou para trás, nem nossos passos se desviaram do teu caminho,",
-      "referencias": [],
-      "comentario": "Eles reafirmam sua lealdade e obediência aos caminhos de Deus, sem se desviar.",
-      "temas": ["lealdade", "obediência", "retidão"],
-      "personagens": []
+      "parafrase": "Nosso coração jamais se desviou de Ti, nem nossos passos se afastaram do Teu caminho certo.",
+      "referencias": [
+        "Jeremias 3:17",
+        "Salmos 119:10"
+      ],
+      "comentario": "O foco é a integridade interna ('coração') e externa ('passos'). O povo não se tornou apóstata em sua intenção ou conduta, contrastando com o sofrimento externo.",
+      "temas": [
+        "Integridade de coração",
+        "Obediência",
+        "Caminho justo"
+      ],
+      "personagens": [
+        "Nosso coração",
+        "Ti (Deus)"
+      ]
     },
     "19": {
-      "parafrase": "embora tu nos tenhas esmagado em um lugar de chacais e nos tenhas coberto com a sombra da morte.",
-      "referencias": [],
-      "comentario": "O povo descreve a intensidade de seu sofrimento, que os levou a um lugar de desolação e morte, como se estivessem em um deserto.",
-      "temas": ["sofrimento intenso", "desolação", "morte"],
-      "personagens": []
+      "parafrase": "Mas Tu nos quebraste num lugar desolado, habitando entre os chacais ferozes e cobrindo-nos com a sombra da morte.",
+      "referencias": [
+        "Lamentações 1:13",
+        "Jó 30:29"
+      ],
+      "comentario": "A imagem aqui é de desolação extrema. 'Lugar de chacais' ('bammik'sh') ou 'lugar de abutres/monstros' sugere um ambiente selvagem e perigoso, onde a civilização e a presença protetora de Deus foram substituídas pela morte iminente.",
+      "temas": [
+        "Desolação",
+        "Ambiente hostil",
+        "Sombras da morte"
+      ],
+      "personagens": [
+        "Tu (Deus)",
+        "Nós"
+      ]
     },
     "20": {
-      "parafrase": "Se tivéssemos esquecido o nome do nosso Deus, ou estendido nossas mãos a um deus estranho,",
-      "referencias": [],
-      "comentario": "O povo afirma que não se desviou para a idolatria, o que tornaria seu sofrimento compreensível. Eles se declaram inocentes de apostasia.",
-      "temas": ["idolatria", "apostasia", "inocência"],
-      "personagens": []
+      "parafrase": "Se tivéssemos esquecido o nome do nosso Deus ou estendido nossas mãos em súplica a algum deus estrangeiro...",
+      "referencias": [
+        "Deuteronômio 32:18",
+        "Êxodo 20:3"
+      ],
+      "comentario": "Esta é uma cláusula condicional hipotética, introduzindo uma negação reforçada. O salmista diz: 'Se tivéssemos feito isso (idolatria ou esquecimento), o sofrimento seria justificável.'",
+      "temas": [
+        "Idolatria (negada)",
+        "Esquecimento de Deus (negado)",
+        "Condição hipotética"
+      ],
+      "personagens": [
+        "Nós",
+        "Nosso Deus",
+        "Deus estrangeiro"
+      ]
     },
     "21": {
-      "parafrase": "não o teria Deus descoberto? Pois Ele conhece os segredos do coração.",
-      "referencias": [],
-      "comentario": "Eles apelam à onisciência de Deus, que conhece os segredos do coração, e, portanto, saberia se eles tivessem pecado. Isso reforça sua declaração de inocência.",
-      "temas": ["onisciência divina", "segredos do coração", "inocência"],
-      "personagens": []
+      "parafrase": "...certamente Deus o teria descoberto, pois Ele conhece os segredos mais íntimos do coração humano.",
+      "referencias": [
+        "Salmos 139:1-4",
+        "Jeremias 17:10"
+      ],
+      "comentario": "Deus é onisciente ('yede'a' - conhece). A implicação é: Se tivéssemos escondido qualquer traição no coração, Ele a teria revelado. Como Ele não a revelou, isso prova a inocência da infidelidade.",
+      "temas": [
+        "Onisciência divina",
+        "Segredos do coração",
+        "Provas de inocência"
+      ],
+      "personagens": [
+        "Deus",
+        "Ele (Deus)"
+      ]
     },
     "22": {
-      "parafrase": "Mas por tua causa somos mortos o dia todo; somos considerados como ovelhas para o matadouro.",
-      "referencias": ["Romanos 8:36"],
-      "comentario": "O povo lamenta que está sofrendo e morrendo por causa de sua fidelidade a Deus, como ovelhas sendo levadas para o abate. Isso intensifica o dilema do sofrimento imerecido.",
-      "temas": ["sofrimento imerecido", "perseguição", "martírio"],
-      "personagens": []
+      "parafrase": "Mas, pelo contrário, foi por amor a Ti que suportamos o dia inteiro a sentença de morte, sendo tratados como se fôssemos ovelhas destinadas ao matadouro.",
+      "referencias": [
+        "Romanos 8:36",
+        "Filipenses 1:29"
+      ],
+      "comentario": "O sofrimento é reinterpretado como martírio pela causa de Deus ('por amor a Ti'). A frase 'o dia inteiro' indica sofrimento contínuo. Ser 'contado como ovelha de matança' ('la-harug') reforça o tema do sacrifício iminente.",
+      "temas": [
+        "Martírio",
+        "Amor a Deus como causa do sofrimento",
+        "Sacrifício contínuo"
+      ],
+      "personagens": [
+        "Nós",
+        "Ti (Deus)"
+      ]
     },
     "23": {
-      "parafrase": "Desperta! Por que dormes, Senhor? Levanta-te! Não nos rejeites para sempre.",
-      "referencias": [],
-      "comentario": "O povo clama a Deus para que Ele desperte e intervenha em seu favor, questionando Sua aparente inatividade e rejeição. É um apelo desesperado por ajuda.",
-      "temas": ["súplica", "intervenção divina", "rejeição percebida", "desespero"],
-      "personagens": []
+      "parafrase": "Acorda, Senhor! Desperta de Teu sono e levanta-Te! Não nos abandones para sempre, ó Poderoso!",
+      "referencias": [
+        "Salmos 3:7",
+        "Salmos 121:3-4"
+      ],
+      "comentario": "O clímax do lamento é um apelo urgente para que Deus saia de Sua aparente inatividade. 'Desperta' (''uri') e 'Levanta-Te' ('haskicha') são verbos que exigem ação imediata, tirando Deus de um estado de passividade ('sono').",
+      "temas": [
+        "Apelo urgente",
+        "Intervenção divina",
+        "Remoção do abandono"
+      ],
+      "personagens": [
+        "Senhor",
+        "Poderoso (Deus)"
+      ]
     },
     "24": {
-      "parafrase": "Por que escondes o teu rosto e te esqueces da nossa aflição e opressão?",
-      "referencias": [],
-      "comentario": "Eles questionam a aparente ausência e esquecimento de Deus em meio à sua aflição e opressão. Eles buscam uma resposta para o silêncio divino.",
-      "temas": ["ausência divina", "esquecimento divino percebido", "aflição", "opressão"],
-      "personagens": []
+      "parafrase": "Por que escondes a Tua face de nós e nos deixas presos em nosso sofrimento e angústia?', perguntei-lhe.",
+      "referencias": [
+        "Salmos 13:1",
+        "Jó 23:2-3"
+      ],
+      "comentario": "A pergunta direta sobre o 'esconder o rosto' ('haster paneykha') é uma súplica comum no Saltério, denotando a ausência da aprovação e presença visível de Deus, levando a pessoa à aflição ('meitsar').",
+      "temas": [
+        "Ocultação da face de Deus",
+        "Angústia",
+        "Súplica direta"
+      ],
+      "personagens": [
+        "Tu (Deus)",
+        "Nós"
+      ]
     },
     "25": {
-      "parafrase": "Pois a nossa alma está prostrada no pó; o nosso corpo se apega ao chão.",
-      "referencias": [],
-      "comentario": "O povo descreve sua condição de extrema humilhação e desespero, prostrados no chão, sem força para se levantar.",
-      "temas": ["humilhação", "desespero", "sofrimento"],
-      "personagens": []
+      "parafrase": "Olha para nós, Senhor, pois nossa alma está humilhada até o pó; nosso corpo está colado ao chão, esperando Tua misericórdia!",
+      "referencias": [
+        "Lamentações 3:20",
+        "Salmos 119:25"
+      ],
+      "comentario": "O versículo final deste trecho solidifica a imagem da prostração total. A alma ('nefesh') está humilhada até a poeira ('la-aphar'), e o corpo ('ba-aretz') está literalmente grudado ao chão, um sinal de total derrota e súplica por livramento ('ezrat').",
+      "temas": [
+        "Humilhação extrema",
+        "Prostração física",
+        "Súplica por misericórdia"
+      ],
+      "personagens": [
+        "Senhor",
+        "Nossa alma",
+        "Nosso corpo"
+      ]
     },
     "26": {
-      "parafrase": "Levanta-te para nos ajudar; redime-nos por causa da tua misericórdia.",
-      "referencias": [],
-      "comentario": "O salmo termina com um clamor final por ajuda e redenção, apelando à misericórdia de Deus como a única esperança de livramento. Eles confiam que Deus agirá por Sua própria bondade.",
-      "temas": ["súplica", "ajuda divina", "redenção", "misericórdia divina"],
-      "personagens": []
+      "parafrase": "Ainda assim, apesar de toda essa escuridão, dor e confusão que estamos sentindo agora, nosso coração e nossa alma não desertaram de Ti, ó Deus. Não nos desviamos de seguir os Teus mandamentos e de confiar na Tua aliança. Não permitimos que o desespero nos faça abandonar a caminhada que Tu estabeleceste para nós.",
+      "referencias": [
+        "Salmos 119:176",
+        "Lamentações 3:22-24",
+        "Isaías 49:15"
+      ],
+      "comentario": "O Salmista descreve uma resiliência teológica profunda. A frase 'mas nosso coração não voltou atrás' (literalmente 'nosso coração não retrocedeu/reverteu') aponta para a fidelidade inabalável (Hebraico: לֹ֤וּא יָשַׁ֣ב לִבֵּ֣נוּ, lo' yashav libbenu) do povo, mesmo quando as circunstâncias externas (mencionadas nos versículos anteriores, como a destruição e o sofrimento) sugerem o abandono da fé ou a busca por refúgios terrenos. É uma declaração de perseverança ativa, onde a vontade interna supera a adversidade externa.",
+      "temas": [
+        "Perseverança",
+        "Fidelidade",
+        "Resiliência Espiritual"
+      ],
+      "personagens": [
+        "Salmista (Coletivo)"
+      ]
     }
   }
 }

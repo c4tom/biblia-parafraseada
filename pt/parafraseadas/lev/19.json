@@ -1,267 +1,575 @@
 {
   "livro": "Levítico",
   "capitulo": 19,
-  "contexto_historico": "Ver contexto anterior em Levítico 18. Este capítulo é uma coleção de leis diversas que abrangem uma ampla gama de aspectos da vida moral, social e religiosa de Israel. O tema central é a santidade, com o mandamento repetido: 'Sejam santos, porque eu, o Senhor, seu Deus, sou santo'. As leis cobrem desde a adoração e o respeito aos pais até a justiça social, a honestidade, a compaixão e a proibição de práticas pagãs, mostrando que a santidade deve permear todas as áreas da vida.",
-  "bloco_tematico": "Leis de Santidade e Moralidade Diversas",
+  "contexto_historico": "O Livro de Levítico estabelece as bases da santidade e pureza para a nação de Israel, servindo como um manual de procedimentos para o sacerdócio (Aaron e seus filhos) e para o povo em geral. O capítulo 19 faz parte da 'Lei da Santidade' (Capítulos 17-26), que transiciona de rituais de sacrifício para a ética social e conduta diária. O foco muda para como a santidade deve ser vivida nas relações interpessoais, economicamente e moralmente, espelhando a santidade de Deus manifestada no Monte Sinai. Este capítulo é crucial porque integra a teologia da pureza com a moralidade social, lembrando continuamente: 'Sereis santos, porque eu, o Senhor vosso Deus, sou santo'. 🛐",
+  "bloco_tematico": "A Ética da Santidade: Integrando a Pureza Ritual na Conduta Social ⚖️✨",
   "versiculos": {
     "1": {
-      "parafrase": "Então o Senhor disse a Moisés:",
-      "referencias": [],
-      "comentario": "Deus dá instruções sobre as leis de santidade e moralidade.",
-      "temas": ["instrução divina", "santidade", "moralidade"],
-      "personagens": ["Deus", "Moisés"]
+      "parafrase": "Então, o Senhor convocou Moisés ao monte, o mesmo lugar onde a presença divina se manifesta com poder e santidade, e lhe deu instruções detalhadas, dizendo:",
+      "referencias": [
+        "Êxodo 19:3",
+        "Êxodo 24:12"
+      ],
+      "comentario": "O termo 'Senhor' aqui se refere a YHWH, o Deus que se revelou a Israel. A convocação ao monte estabelece a natureza teofânica e autoritária das leis que se seguem, diferenciando-as de meras sugestões humanas.",
+      "temas": [
+        "Chamado Divino",
+        "Autoridade de Deus",
+        "Revelação"
+      ],
+      "personagens": [
+        "Senhor",
+        "Moisés"
+      ]
     },
     "2": {
-      "parafrase": "'Diga a toda a comunidade de Israel: ‘Sejam santos, porque eu, o Senhor, seu Deus, sou santo’.",
-      "referencias": ["1 Pedro 1:16"],
-      "comentario": "Este é o mandamento central do capítulo e de todo o livro de Levítico. A santidade do povo é um reflexo da santidade de Deus. É um chamado para ser separado e dedicado a Deus em todas as áreas da vida.",
-      "temas": ["santidade de Deus", "santidade do povo", "separação", "dedicação"],
-      "personagens": ["Deus"]
+      "parafrase": "Comunique a todo o povo de Israel – desde o ancião respeitado até o mais jovem, a criança – que eles devem viver em santidade, pois Eu, o seu Deus, sou santo. A santidade de vocês deve ser um espelho da Minha própria natureza.",
+      "referencias": [
+        "Levítico 11:44",
+        "1 Pedro 1:15-16"
+      ],
+      "comentario": "Este é o 'mantra' de Levítico (Holi, santo). A santidade não é opcional; é a fundação da aliança. A inclusão de 'crianças' demonstra que a santidade é um princípio que permeia todas as faixas etárias da comunidade.",
+      "temas": [
+        "Santidade",
+        "Chamado à Pureza",
+        "Comunidade de Israel"
+      ],
+      "personagens": [
+        "Povo de Israel"
+      ]
     },
     "3": {
-      "parafrase": "'Cada um de vocês reverenciará sua mãe e seu pai, e guardará meus sábados. Eu sou o Senhor, seu Deus'.",
-      "referencias": ["Êxodo 20:12"],
-      "comentario": "A santidade começa na família e na adoração. O respeito aos pais e a observância do sábado são fundamentais para uma vida santa.",
-      "temas": ["respeito aos pais", "sábado", "adoração"],
-      "personagens": ["Deus"]
+      "parafrase": "Cada um de vocês deve respeitar profundamente e temer seus pais. Este é o primeiro mandamento que estabelece uma relação correta com o próximo, pois isso garante a continuidade e a estabilidade da vida de vocês na terra que lhes darei.",
+      "referencias": [
+        "Êxodo 20:12",
+        "Deuteronômio 5:16"
+      ],
+      "comentario": "A observância do Shabat (versetes anteriores/posteriores) e o respeito aos pais são pilares centrais da vida ética israelita. O 'respeito' (hebraico: 'Yare') implica reverência e obediência, não apenas afeto.",
+      "temas": [
+        "Honra aos Pais",
+        "Ordem Social",
+        "Respeito"
+      ],
+      "personagens": [
+        "Povo de Israel"
+      ]
     },
     "4": {
-      "parafrase": "'Não se voltem para os ídolos nem façam para vocês deuses de metal fundido. Eu sou o Senhor, seu Deus'.",
-      "referencias": ["Êxodo 20:4"],
-      "comentario": "A proibição da idolatria é reiterada, enfatizando a lealdade exclusiva a Deus.",
-      "temas": ["idolatria", "lealdade exclusiva"],
-      "personagens": ["Deus"]
+      "parafrase": "Não se voltem para ídolos vazios ou para imagens esculpidas. Não busquem poder ou consolo em objetos feitos por mãos humanas, pois Eu sou o único Deus verdadeiro, o Senhor que os libertou da escravidão do Egito.",
+      "referencias": [
+        "Êxodo 20:4-5",
+        "Isaías 42:8"
+      ],
+      "comentario": "Reforça o segundo mandamento (contra a idolatria). A proibição está ligada diretamente à identidade de Deus como Redentor ('Eu sou o Senhor'). A idolatria é um ataque direto à relação de aliança.",
+      "temas": [
+        "Idolatria",
+        "Monoteísmo",
+        "Redenção"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "5": {
-      "parafrase": "'Quando vocês oferecerem um sacrifício de paz ao Senhor, ofereçam-no de tal maneira que seja aceito'.",
-      "referencias": [],
-      "comentario": "As ofertas de paz devem ser oferecidas de forma correta para serem aceitas por Deus, enfatizando a importância da obediência nos rituais.",
-      "temas": ["sacrifício de paz", "aceitação divina", "obediência"],
-      "personagens": ["Deus"]
+      "parafrase": "Quando oferecerem sacrifícios de comunhão ao Senhor para celebrar a paz e a gratidão, façam-no de forma a agradá-Lo, para que recebam a bênção de Sua aprovação.",
+      "referencias": [
+        "Levítico 7:11-15",
+        "Romanos 12:1"
+      ],
+      "comentario": "Os sacrifícios de comunhão (Shelem) tinham um aspecto de festa e gratidão. O foco não é apenas no ritual, mas na intenção: devem ser oferecidos 'para que sejam aceitos' (para ser agradáveis, 'leratzehem').",
+      "temas": [
+        "Sacrifício",
+        "Comunhão",
+        "Oferta"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "6": {
-      "parafrase": "'Ele será comido no dia em que o oferecerem e no dia seguinte. O que sobrar até o terceiro dia será queimado no fogo'.",
-      "referencias": [],
-      "comentario": "A carne da oferta de paz deve ser consumida em dois dias, para evitar a corrupção e manter a santidade.",
-      "temas": ["consumo da oferta", "santidade"],
+      "parafrase": "Comam esses animais oferecidos no dia em que os trouxeram, ou, no máximo, no dia seguinte. Não deixem sobrar carne para o terceiro dia, pois se o fizerem, isso será abominável e não trará favor divino.",
+      "referencias": [
+        "Levítico 7:15-17",
+        "Hebreus 13:10"
+      ],
+      "comentario": "Esta regra é estritamente ritualística e visa garantir a frescura e o propósito imediato do sacrifício (celebração). Deixar a carne 'apodrecer' simbolicamente significava profanar o propósito sagrado do dom.",
+      "temas": [
+        "Pureza Ritual",
+        "Consumo da Oferta",
+        "Tempo"
+      ],
       "personagens": []
     },
     "7": {
-      "parafrase": "'Se alguém comer dele no terceiro dia, será abominável; não será aceito'.",
-      "referencias": [],
-      "comentario": "Comer a carne no terceiro dia é uma profanação, pois ela se tornaria impura. Aquele que o fizer será abominável e não será aceito por Deus.",
-      "temas": ["profanação", "abominação", "aceitação divina"],
-      "personagens": ["Deus"]
+      "parafrase": "Se alguém comer a carne do sacrifício no terceiro dia, essa comida será impura e rejeitada, e a pessoa que a comeu carregará o peso da sua transgressão.",
+      "referencias": [
+        "Números 18:10",
+        "Isaías 65:4"
+      ],
+      "comentario": "O ato de comer carne 'velha' do sacrifício o tornava impuro ('pigul' ou rejeitado). Isso sublinha a seriedade da obediência às ordens específicas de Deus sobre o tempo, ligado diretamente à aceitabilidade da adoração.",
+      "temas": [
+        "Transgressão",
+        "Impureza Ritual",
+        "Obediência"
+      ],
+      "personagens": []
     },
     "8": {
-      "parafrase": "'E todo aquele que o comer levará sua iniquidade, pois profanou o que é santo ao Senhor. Essa pessoa será eliminada de seu povo'.",
-      "referencias": [],
-      "comentario": "A profanação do que é santo resulta em iniquidade e exclusão da comunidade, enfatizando a seriedade da santidade.",
-      "temas": ["profanação", "iniquidade", "exclusão", "santidade"],
-      "personagens": ["Deus"]
+      "parafrase": "Quem comer dela terá de sofrer as consequências, pois profanou a oferta dedicada ao Senhor. Essa pessoa deverá ser eliminada de seu povo por ter desrespeitado as coisas santas.",
+      "referencias": [
+        "Levítico 7:20-21",
+        "Gênesis 17:14"
+      ],
+      "comentario": "A pena de 'ser eliminado do seu povo' (hebraico: 'nikrat') indica uma exclusão da comunidade de Israel, que podia significar a morte ou o exílio, dependendo da gravidade da infração ritual.",
+      "temas": [
+        "Exclusão Comunitária",
+        "Profanação",
+        "Consequência"
+      ],
+      "personagens": []
     },
     "9": {
-      "parafrase": "'Quando vocês colherem a colheita de sua terra, não colham completamente os cantos de seu campo, nem recolham as espigas caídas de sua colheita'.",
-      "referencias": [],
-      "comentario": "A lei da respiga é uma lei de justiça social, garantindo que os pobres e os estrangeiros tenham acesso à comida. É um mandamento de compaixão e provisão.",
-      "temas": ["justiça social", "respiga", "provisão para os pobres", "compaixão"],
+      "parafrase": "Quando colherem a safra de sua terra, não devem ser gananciosos a ponto de ceifar até a última ponta do campo, nem devem recolher os grãos que caírem ao chão durante a ceifa.",
+      "referencias": [
+        "Levítico 23:22",
+        "Deuteronômio 24:19-21"
+      ],
+      "comentario": "Estabelecimento da lei da 'ponta de espiga' ou 'restos da colheita'. Isso não era apenas caridade, mas um ato de fé, reconhecendo que Deus provê a totalidade, permitindo que os marginalizados participem da abundância.",
+      "temas": [
+        "Generosidade",
+        "Colheita",
+        "Cuidado com os Pobres"
+      ],
       "personagens": []
     },
     "10": {
-      "parafrase": "'Não respiguem sua vinha, nem recolham as uvas caídas de sua vinha. Deixem-nas para o pobre e para o estrangeiro. Eu sou o Senhor, seu Deus'.",
-      "referencias": [],
-      "comentario": "A lei da respiga se aplica também às vinhas, garantindo a provisão para os necessitados. É um lembrete da identidade de Deus como o provedor.",
-      "temas": ["respiga", "provisão para os pobres", "estrangeiro"],
-      "personagens": ["Deus"]
+      "parafrase": "Da mesma forma, ao colher as suas vinhas, não debulhem todos os cachos nem recolham as uvas que caírem. Deixem-nas para o necessitado e para o estrangeiro. Eu sou o Senhor, o Deus que cuida de vocês.",
+      "referencias": [
+        "Deuteronômio 24:21",
+        "Rute 2:2-3"
+      ],
+      "comentario": "A lei é estendida para a produção de vinho. O termo 'estrangeiro' (ger) refere-se ao residente temporário em Israel. A provisão social é integrada na lei religiosa.",
+      "temas": [
+        "Provisão",
+        "Justiça Social",
+        "Vinha"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "11": {
-      "parafrase": "'Não furtarão, nem enganarão, nem mentirão uns aos outros'.",
-      "referencias": [],
-      "comentario": "A lei proíbe o roubo, o engano e a mentira, enfatizando a honestidade e a integridade nas relações sociais.",
-      "temas": ["honestidade", "integridade", "justiça"],
+      "parafrase": "Vocês não devem roubar, nem enganar uns aos outros ou mentir em transações comerciais, nem deixar que o salário de um trabalhador fique retido até o dia seguinte.",
+      "referencias": [
+        "Êxodo 20:15",
+        "Malaquias 3:5"
+      ],
+      "comentario": "Aqui, a lei social se torna explicitamente ética na esfera econômica. Roubar, enganar (agir com falsidade ou deslealdade) e reter salários são atos de injustiça contra o próximo e, consequentemente, contra Deus.",
+      "temas": [
+        "Honestidade",
+        "Justiça no Trabalho",
+        "Ética Comercial"
+      ],
       "personagens": []
     },
     "12": {
-      "parafrase": "'Não jurarão falsamente pelo meu nome, profanando o nome de seu Deus. Eu sou o Senhor'.",
-      "referencias": ["Êxodo 20:7"],
-      "comentario": "A proibição de jurar falsamente pelo nome de Deus é reiterada, enfatizando a santidade do nome de Deus e a seriedade do juramento.",
-      "temas": ["santidade do nome de Deus", "juramento falso", "profanação"],
-      "personagens": ["Deus"]
+      "parafrase": "Não profanem o nome do Senhor fazendo juramentos falsos com a minha autoridade. Se jurarem que algo é verdadeiro em Meu nome, essa promessa deve ser mantida, pois o nome de Deus não pode ser usado em vão.",
+      "referencias": [
+        "Êxodo 20:7",
+        "Mateus 5:33-37"
+      ],
+      "comentario": "O uso indevido do Nome de Deus (quebra do terceiro mandamento) aqui é aplicado especificamente no contexto de contratos e promessas. A validade do juramento repousa na Santidade do Nome invocado.",
+      "temas": [
+        "Respeito ao Nome de Deus",
+        "Falsos Juramentos",
+        "Integridade"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "13": {
-      "parafrase": "'Não oprimirás o teu próximo nem o roubarás. Não reterás o salário do trabalhador assalariado até a manhã seguinte'.",
-      "referencias": ["Deuteronômio 24:14-15"],
-      "comentario": "A lei proíbe a opressão e o roubo, e exige o pagamento justo e pontual dos salários. É um mandamento de justiça social e proteção dos trabalhadores.",
-      "temas": ["justiça social", "proteção dos trabalhadores", "salário justo"],
+      "parafrase": "Não explorem nem oprimam o seu próximo, nem deixem que o salário de alguém que trabalhou para você passe a noite sem ser pago. A remuneração justa deve ser entregue imediatamente.",
+      "referencias": [
+        "Deuteronômio 24:14-15",
+        "Tiago 5:4"
+      ],
+      "comentario": "Ênfase tripla na justiça salarial, mostrando que Deus se preocupa profundamente com a dignidade do trabalhador. A exploração econômica é equiparada à opressão direta.",
+      "temas": [
+        "Salário Justo",
+        "Exploração",
+        "Dignidade do Trabalhador"
+      ],
       "personagens": []
     },
     "14": {
-      "parafrase": "'Não amaldiçoarás o surdo nem porás tropeço diante do cego, mas temerás o teu Deus. Eu sou o Senhor'.",
-      "referencias": [],
-      "comentario": "A lei protege os vulneráveis e exige respeito por eles. Amaldiçoar o surdo ou colocar tropeço no cego é um ato de crueldade e covardia. O temor a Deus é a motivação para a compaixão.",
-      "temas": ["proteção dos vulneráveis", "compaixão", "temor a Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Não amaldiçoem os surdos, nem coloquem qualquer tipo de tropeço ou obstáculo físico no caminho do cego. Vocês devem temer o seu Deus, que vê tudo, e respeitar a fragilidade dos outros.",
+      "referencias": [
+        "Deuteronômio 27:18",
+        "Romanos 14:13"
+      ],
+      "comentario": "Regras de respeito aos vulneráveis. 'Amaldiçoar o surdo' (na linguagem figurada, desejar-lhe o mal) e 'colocar tropeço ao cego' são atos de crueldade absoluta, condenados por violarem a compaixão devida a quem tem limitações sensoriais.",
+      "temas": [
+        "Cuidado com os Deficientes",
+        "Piedade",
+        "Imparcialidade"
+      ],
+      "personagens": [
+        "Deus"
+      ]
     },
     "15": {
-      "parafrase": "'Não farás injustiça no juízo; não favorecerás o pobre nem honrarás o poderoso, mas julgarás o teu próximo com justiça'.",
-      "referencias": ["Êxodo 23:3"],
-      "comentario": "A lei exige imparcialidade na justiça, sem favorecer nem o rico nem o pobre. A justiça deve ser cega para o status social.",
-      "temas": ["imparcialidade", "justiça"],
+      "parafrase": "Ao julgar os casos, sejam completamente imparciais. Não favoreçam o pobre apenas por ele ser pobre, nem deem tratamento especial ao rico apenas por ele ser rico. Julguem com total retidão e justiça.",
+      "referencias": [
+        "Êxodo 23:6",
+        "Deuteronômio 16:19"
+      ],
+      "comentario": "O princípio fundamental da justiça bíblica: o julgamento deve ser cego às circunstâncias socioeconômicas. A balança deve pesar apenas os fatos, garantindo equidade perante a lei.",
+      "temas": [
+        "Imparcialidade no Julgamento",
+        "Justiça",
+        "Retidão"
+      ],
       "personagens": []
     },
     "16": {
-      "parafrase": "'Não andarás como mexeriqueiro entre o teu povo, nem te levantarás contra a vida do teu próximo. Eu sou o Senhor'.",
-      "referencias": [],
-      "comentario": "A lei proíbe a fofoca e a calúnia, que podem destruir a reputação e a vida do próximo. É um mandamento de proteção da reputação e da vida.",
-      "temas": ["fofoca", "calúnia", "proteção da reputação"],
-      "personagens": ["Deus"]
-    },
-    "17": {
-      "parafrase": "'Não odiarás teu irmão em teu coração; repreenderás o teu próximo abertamente, para que não leves pecado por causa dele'.",
-      "referencias": ["Mateus 18:15"],
-      "comentario": "A lei proíbe o ódio no coração e exige a repreensão aberta do próximo que peca. É um mandamento de amor e responsabilidade mútua, visando a restauração e a prevenção do pecado.",
-      "temas": ["ódio", "repreensão", "amor", "responsabilidade"],
+      "parafrase": "Ao circular entre o seu povo, não se tornem fofoqueiros ou caluniadores, espalhando rumores e mentiras. Não permaneçam em silêncio diante de alguém que está em perigo de vida por causa de um ato injusto.",
+      "referencias": [
+        "Provérbios 20:19",
+        "Jeremias 6:7"
+      ],
+      "comentario": "A maledicência (fofoca destrutiva) é proibida. Mais importante, o silêncio cúmplice diante do assassinato ou de uma grande injustiça ('não ficar de pé contra o sangue do teu próximo') é visto como cumplicidade ativa.",
+      "temas": [
+        "Maledicência",
+        "Cuidado com o Próximo",
+        "Denúncia da Injustiça"
+      ],
       "personagens": []
     },
+    "17": {
+      "parafrase": "Não guardem ódio no coração contra o seu irmão. Corrijam abertamente quem erra, para que vocês não carreguem a culpa por causa da falta dele. A correção privada é um ato de amor.",
+      "referencias": [
+        "Mateus 18:15",
+        "Efésios 4:26"
+      ],
+      "comentario": "Diferencia-se do ódio interiorizado (que é pecado) da repreensão construtiva exteriorizada. A repreensão imediata é um serviço ao próximo, impedindo que o erro se cristalize em pecado sério.",
+      "temas": [
+        "Amor ao Próximo",
+        "Repreensão Construtiva",
+        "Ódio"
+      ],
+      "personagens": [
+        "Irmão"
+      ]
+    },
     "18": {
-      "parafrase": "'Não te vingarás nem guardarás rancor contra os filhos do teu povo, mas amarás o teu próximo como a ti mesmo. Eu sou o Senhor'.",
-      "referencias": ["Mateus 22:39", "Romanos 13:9"],
-      "comentario": "Este é o segundo grande mandamento da Lei: amar o próximo como a si mesmo. Ele proíbe a vingança e o rancor, e exige amor e perdão. É a base de todas as leis sociais.",
-      "temas": ["amor ao próximo", "perdão", "não vingança", "base da lei"],
-      "personagens": ["Deus"]
+      "parafrase": "Não se vingue, nem guarde rancor contra os filhos do seu próprio povo. Em vez disso, trate o seu vizinho como a si mesmo. Eu sou o Senhor que os guia.",
+      "referencias": [
+        "Mateus 5:43-44",
+        "Romanos 12:19"
+      ],
+      "comentario": "Este é o ápice da ética relacional em Levítico, ecoando a Regra de Ouro. A proibição da vingança pessoal é substituída pelo imperativo do amor ao próximo ('como a ti mesmo').",
+      "temas": [
+        "Amor ao Próximo",
+        "Vingança",
+        "Regra de Ouro"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "19": {
-      "parafrase": "'Guardarão os meus estatutos. Não cruzarás duas espécies diferentes de animais. Não semearás o teu campo com duas espécies diferentes de sementes. Nem usarás roupa feita de duas espécies diferentes de fios'.",
-      "referencias": [],
-      "comentario": "As leis de mistura (quil'ayim) proíbem a mistura de diferentes espécies, seja em animais, sementes ou tecidos. Elas simbolizam a ordem da criação de Deus e a necessidade de Israel de manter sua pureza e separação das práticas pagãs.",
-      "temas": ["leis de mistura", "ordem da criação", "pureza", "separação"],
+      "parafrase": "Sigam os meus decretos: Não permitam que os seus animais cruzem com animais de espécies diferentes, misturando raças distintas. Não plantem dois tipos diferentes de sementes no mesmo campo, misturando culturas.",
+      "referencias": [
+        "Gênesis 1:11",
+        "Deuteronômio 22:9"
+      ],
+      "comentario": "Estes são os estatutos de 'mizra' (mistura ou hibridismo). A proibição visa manter a ordem e a pureza das categorias criadas por Deus, refletindo o princípio de que cada coisa deve permanecer em sua espécie.",
+      "temas": [
+        "Ordem Criacional",
+        "Pureza",
+        "Lei de Não-Mistura"
+      ],
       "personagens": []
     },
     "20": {
-      "parafrase": "'Se um homem se deitar com uma mulher que é serva, prometida a um homem, mas que não foi resgatada nem libertada, haverá punição, mas eles não serão mortos, pois ela não era livre'.",
-      "referencias": [],
-      "comentario": "A lei trata da relação sexual com uma serva prometida, que não é considerada adultério completo, pois ela não é livre. A punição é menor que a morte, mas ainda há culpa.",
-      "temas": ["relação sexual ilícita", "servidão", "punição"],
+      "parafrase": "Se um homem tiver relações sexuais com uma mulher que esteja comprometida ou prometida a outro homem, mas que ainda não tenha sido oficialmente libertada ou desposada, isto é uma falha grave. Embora não haja derramamento de sangue imediato, eles deverão ser punidos, mas o perdão virá através de um rito de expiação.",
+      "referencias": [
+        "Deuteronômio 22:23-24",
+        "Números 5:5-8"
+      ],
+      "comentario": "Este é um caso de 'relacionamento ilícito' com uma mulher legalmente reservada, mas ainda não consumada no casamento formal. O pecado reside na violação da exclusividade da promessa matrimonial. A expiação é necessária porque a propriedade ou direito de outra pessoa foi violado.",
+      "temas": [
+        "Infidelidade",
+        "Promessa Conjugal",
+        "Expiação"
+      ],
       "personagens": []
     },
     "21": {
-      "parafrase": "'Mas ele trará sua oferta pela culpa ao Senhor, à entrada da Tenda do Encontro, um carneiro como oferta pela culpa'.",
-      "referencias": [],
-      "comentario": "A oferta pela culpa é necessária para expiar o pecado e restaurar a comunhão.",
-      "temas": ["oferta pela culpa", "expiação"],
-      "personagens": ["Deus"]
+      "parafrase": "O homem envolvido deverá trazer um carneiro como oferta pela sua culpa ao Senhor, para que o sacerdote realize o ritual de expiação em seu nome e ele seja perdoado pela sua transgressão.",
+      "referencias": [
+        "Levítico 5:15-16",
+        "Hebreus 9:22"
+      ],
+      "comentario": "A oferta pela culpa ('asham') é exigida para reparar o dano causado à relação de compromisso. O sacrifício funciona como um meio de restaurar a ordem violada e obter o favor divino.",
+      "temas": [
+        "Sacrifício pela Culpa",
+        "Reparação",
+        "Perdão"
+      ],
+      "personagens": [
+        "Sacerdote"
+      ]
     },
     "22": {
-      "parafrase": "'E o sacerdote fará expiação por ele com o carneiro da oferta pela culpa diante do Senhor pelo pecado que cometeu, e o pecado que ele cometeu será perdoado'.",
-      "referencias": [],
-      "comentario": "A expiação é feita, e o pecado é perdoado, restaurando a comunhão com Deus.",
-      "temas": ["expiação", "perdão", "restauração"],
-      "personagens": ["sacerdote", "Deus"]
+      "parafrase": "O sacerdote fará a expiação por ambos, o homem e a mulher, em sua presença, e eles serão perdoados pela falha cometida contra a santidade do compromisso.",
+      "referencias": [
+        "Levítico 4:26",
+        "Hebreus 7:25"
+      ],
+      "comentario": "A função mediadora do sacerdote é crucial: ele age como agente de Deus para aplicar o benefício do sacrifício, garantindo que o pecador seja reconciliado com o padrão de santidade.",
+      "temas": [
+        "Mediação Sacerdotal",
+        "Reconciliação",
+        "Expiação"
+      ],
+      "personagens": [
+        "Sacerdote"
+      ]
     },
     "23": {
-      "parafrase": "'Quando vocês entrarem na terra e plantarem qualquer tipo de árvore frutífera, vocês considerarão seus frutos como incircuncisos por três anos; não serão comidos'.",
-      "referencias": [],
-      "comentario": "A lei da incircuncisão das árvores frutíferas proíbe o consumo dos frutos nos primeiros três anos. Isso ensina a paciência e a dedicação das primícias a Deus.",
-      "temas": ["incircuncisão das árvores", "paciência", "primícias"],
+      "parafrase": "Quando vocês entrarem na terra prometida e plantarem árvores frutíferas, considerem os frutos dos primeiros três anos como impuros, como se fossem proibidos.",
+      "referencias": [
+        "Deuteronômio 28:23",
+        "Gênesis 2:17"
+      ],
+      "comentario": "Início da lei dos frutos (Orlah). Este período de espera visa ensinar a dependência total de Deus, pois os frutos são considerados 'incircuncisos' (não separados para o uso sagrado) e, portanto, impróprios para o consumo humano no sentido pleno.",
+      "temas": [
+        "Frutos da Terra",
+        "Dependência de Deus",
+        "Santificação Progressiva"
+      ],
       "personagens": []
     },
     "24": {
-      "parafrase": "'No quarto ano, todos os seus frutos serão santos, uma oferta de louvor ao Senhor'.",
-      "referencias": [],
-      "comentario": "No quarto ano, os frutos são dedicados a Deus como uma oferta de louvor, reconhecendo Sua provisão.",
-      "temas": ["oferta de louvor", "provisão divina"],
-      "personagens": ["Deus"]
+      "parafrase": "No quarto ano, todo o fruto dessas árvores deverá ser consagrado e oferecido a Deus em celebração, como um ato de alegria santa ao Senhor.",
+      "referencias": [
+        "Levítico 23:14",
+        "Salmos 100:2"
+      ],
+      "comentario": "O quarto ano marca a transição da impureza ritual para a santificação. A celebração ('festim') exige alegria e reconhecimento da provisão divina antes que os frutos se tornem comuns.",
+      "temas": [
+        "Consagração",
+        "Alegria",
+        "Adoração"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "25": {
-      "parafrase": "'E no quinto ano vocês poderão comer de seus frutos, para que lhes aumente a sua produção. Eu sou o Senhor, seu Deus'.",
-      "referencias": [],
-      "comentario": "A partir do quinto ano, os frutos podem ser comidos, e a produção aumentará, mostrando a bênção de Deus sobre a obediência.",
-      "temas": ["bênção", "obediência", "provisão"],
-      "personagens": ["Deus"]
+      "parafrase": "Nos anos subsequentes, os frutos poderão ser consumidos por vocês como alimento regular. Vocês devem sempre lembrar de que Eu sou o Senhor, o seu Deus, quem lhes deu essa terra fértil.",
+      "referencias": [
+        "Deuteronômio 11:12",
+        "Apocalipse 22:2"
+      ],
+      "comentario": "A partir do quinto ano, os frutos entram no ciclo normal de consumo, mas o mandamento serve como um lembrete perpétuo de que a posse da terra e sua produtividade são dádivas de YHWH.",
+      "temas": [
+        "Posse da Terra",
+        "Memória da Aliança",
+        "Administração dos Bens"
+      ],
+      "personagens": [
+        "Senhor"
+      ]
     },
     "26": {
-      "parafrase": "'Não comerão nada com sangue. Não praticarão adivinhação nem feitiçaria'.",
-      "referencias": [],
-      "comentario": "A proibição de comer sangue é reiterada, e a adivinhação e a feitiçaria são proibidas, pois são práticas pagãs e abomináveis a Deus.",
-      "temas": ["proibição de sangue", "adivinhação", "feitiçaria", "práticas pagãs"],
-      "personagens": ["Deus"]
+      "parafrase": "Vocês não devem comer nada que tenha sido tirado de um animal que ainda esteja com o sangue circulando, nem devem comer a gordura. Este é um limite sagrado que estabelece a santidade da vida.",
+      "referencias": [
+        "Gênesis 9:4",
+        "Deuteronômio 12:23"
+      ],
+      "comentario": "O mandamento proíbe o consumo de sangue ('dam' - דָּם). Na cosmovisão bíblica, o sangue representa a vida, a alma vital (Levítico 17:11). Comer o sangue seria tomar a vida de forma imprópria, usurpar o domínio de Deus sobre a essência vital. A gordura ('helev' - חֵלֶב), especialmente a que cobre os órgãos internos, era reservada para Deus nos sacrifícios, simbolizando o melhor e o mais rico da porção animal. Consumi-la era profanar o que era exclusivo para a aliança com YHWH.",
+      "temas": [
+        "Santidade da Vida",
+        "Leis Dietéticas",
+        "Separação do Sagrado e Profano"
+      ],
+      "personagens": [
+        "Moisés",
+        "Povo de Israel"
+      ]
     },
     "27": {
-      "parafrase": "'Não raparão os cabelos dos lados da cabeça nem apararão as pontas da barba'.",
-      "referencias": [],
-      "comentario": "A lei proíbe práticas de luto pagãs e rituais de idolatria que envolviam o corte de cabelo e barba.",
-      "temas": ["proibição de práticas pagãs", "luto", "idolatria"],
-      "personagens": []
+      "parafrase": "Esta regra se aplica tanto ao israelita de nascimento quanto ao estrangeiro que vive entre vocês: jamais permitam que qualquer carne seja consumida enquanto o sangue estiver nela.",
+      "referencias": [
+        "Levítico 17:10",
+        "Êxodo 12:49"
+      ],
+      "comentario": "A inclusão do 'estrangeiro residente' ('ger' - גֵּר) demonstra que as leis fundamentais de santidade e respeito à vida eram universais dentro do acampamento de Israel, transcendendo a cidadania de sangue. A uniformidade na obediência mantinha a pureza da comunidade perante Deus.",
+      "temas": [
+        "Inclusão na Aliança",
+        "Lei Universal",
+        "Obediência Comunitária"
+      ],
+      "personagens": [
+        "Moisés",
+        "O Estrangeiro"
+      ]
     },
     "28": {
-      "parafrase": "'Não farão cortes em sua carne por causa de um morto, nem farão tatuagens em vocês. Eu sou o Senhor'.",
-      "referencias": [],
-      "comentario": "A lei proíbe automutilação e tatuagens, que eram práticas pagãs associadas ao luto e à idolatria. Israel deve ser diferente, separado para Deus.",
-      "temas": ["proibição de práticas pagãs", "automutilação", "tatuagens", "separação"],
-      "personagens": ["Deus"]
+      "parafrase": "Se alguém, seja nativo ou forasteiro, comer acidentalmente carne que contenha sangue, essa pessoa deve ser imediatamente isolada da comunidade, pois violou o comando de Deus sobre o sangue.",
+      "referencias": [
+        "Números 15:30-31",
+        "Levítico 5:2"
+      ],
+      "comentario": "A pena aqui parece ser a exclusão social ou ritual, indicando a gravidade do ato, mesmo que não intencional. O texto sugere que a violação de um mandamento tão fundamental sobre a vida exigia uma purificação ou um processo de reconciliação, pois a contaminação era séria para o corpo santo da nação.",
+      "temas": [
+        "Consequências do Pecado",
+        "Contaminação Ritual",
+        "Isolamento"
+      ],
+      "personagens": [
+        "O Israelita",
+        "O Forasteiro"
+      ]
     },
     "29": {
-      "parafrase": "'Não profanarás tua filha, fazendo-a prostituir-se, para que a terra não se prostitua e se encha de maldade'.",
-      "referencias": [],
-      "comentario": "A lei proíbe a prostituição, especialmente a prostituição cultual, que era comum nas religiões pagãs. A prostituição profana a terra e traz maldade.",
-      "temas": ["prostituição", "profanação", "maldade"],
-      "personagens": []
+      "parafrase": "Qualquer pessoa entre vocês que comer a gordura de um animal que seria oferecido ao Senhor para ser consumido, aquele que comer essa porção proibida, deverá ser eliminado do meio do seu povo.",
+      "referencias": [
+        "Levítico 7:25",
+        "Números 15:28"
+      ],
+      "comentario": "Aqui, a punição é severa ('ser eliminado' - 'nikhret' - נִכְרָת), indicando corte ou separação definitiva da comunidade ou da linhagem. Diferentemente da transgressão acidental (v. 28), o consumo deliberado da gordura sacrificial reservada a YHWH, mesmo em ambiente não-sacrificial (como um abate comum, mas mantendo a proibição da gordura), é visto como um desafio direto à soberania de Deus sobre o que Lhe pertence.",
+      "temas": [
+        "Maldição da Desobediência",
+        "Soberania Divina",
+        "Severidade da Lei"
+      ],
+      "personagens": [
+        "O Israelita"
+      ]
     },
     "30": {
-      "parafrase": "'Guardarão meus sábados e reverenciarão meu santuário. Eu sou o Senhor'.",
-      "referencias": [],
-      "comentario": "A observância do sábado e a reverência pelo santuário são fundamentais para a santidade e a adoração a Deus.",
-      "temas": ["sábado", "reverência pelo santuário", "adoração"],
-      "personagens": ["Deus"]
+      "parafrase": "Qualquer pessoa que cometa um erro ao tocar em algo impuro — seja o corpo de um animal morto, ou um réptil impuro, ou qualquer outra fonte de contaminação — e acidentalmente coma a carne, deverá lavar suas roupas e seu corpo, permanecendo impuro até o cair da noite.",
+      "referencias": [
+        "Levítico 11:24-40",
+        "Levítico 15:5"
+      ],
+      "comentario": "Este versículo trata de uma cadeia de impureza: contato com o morto ou algo rastejante (impureza primária), o que leva à contaminação da comida ingerida. O ritual de purificação é claro: lavar vestes e o corpo, e esperar o pôr do sol (tempo que marcava o fim da impureza ritual para a maioria dos casos), demonstrando que Deus exige limpeza tanto externa quanto interna, mesmo em erros não intencionais.",
+      "temas": [
+        "Rituais de Purificação",
+        "Impureza por Contato",
+        "Limites do Tempo Ritual"
+      ],
+      "personagens": [
+        "O Transgressor Acidental"
+      ]
     },
     "31": {
-      "parafrase": "'Não se voltem para os médiuns nem para os feiticeiros; não os consultem, para que não se contaminem por meio deles. Eu sou o Senhor, seu Deus'.",
-      "referencias": [],
-      "comentario": "A lei proíbe a consulta a médiuns e feiticeiros, pois são práticas pagãs e abomináveis a Deus. A contaminação espiritual é um perigo real.",
-      "temas": ["proibição de médiuns e feiticeiros", "contaminação espiritual", "práticas pagãs"],
-      "personagens": ["Deus"]
+      "parafrase": "Vocês devem guardar minhas leis e decretos. Se vocês fizerem isso, não serão contaminados pela terra que lhes darei para que nela habitem, pois Eu sou o Senhor, seu Deus, que os separou para Si mesmo.",
+      "referencias": [
+        "Deuteronômio 4:1",
+        "Levítico 18:4"
+      ],
+      "comentario": "Este é o cerne da teologia levítica: a obediência às leis de pureza ('huqqot' - חֻקּוֹת, decretos) é a condição para que o povo possa habitar na Terra Prometida sem a expulsar devido à impureza. O mandamento não é arbitrário; é a maneira de YHWH manter Sua santidade presente no meio de Seu povo. O povo é 'separado' ('quiddash' - קִדַּשׁ) para Ele.",
+      "temas": [
+        "Fundamento da Aliança",
+        "Posse da Terra",
+        "Consagração"
+      ],
+      "personagens": [
+        "YHWH",
+        "O Povo Eleito"
+      ]
     },
     "32": {
-      "parafrase": "'Levante-se diante do idoso e honre a face do ancião, e tema o seu Deus. Eu sou o Senhor'.",
-      "referencias": [],
-      "comentario": "A lei exige respeito pelos idosos e anciãos, um sinal de sabedoria e reverência. O temor a Deus é a motivação para a honra.",
-      "temas": ["respeito pelos idosos", "honra", "temor a Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Dessa forma, vocês farão uma distinção clara entre o que é santo e o que é comum, e também entre o que é puro e o que é impuro, separando o que é limpo do que é sujo.",
+      "referencias": [
+        "Ezequiel 22:26",
+        "Malaquias 3:18"
+      ],
+      "comentario": "Este versículo resume o propósito de todas as leis anteriores: criar uma consciência constante da diferença entre o 'Kadosh' (sagrado, separado) e o 'Hol' (profano, comum). Essa distinção não era apenas externa, mas deveria moldar a percepção e o comportamento diário dos israelitas, mantendo-os focados na natureza singular de seu Deus.",
+      "temas": [
+        "Dualidade Ritual",
+        "Discernimento",
+        "Identidade Nacional"
+      ],
+      "personagens": []
     },
     "33": {
-      "parafrase": "'Quando um estrangeiro viver com vocês em sua terra, não o oprimam'.",
-      "referencias": [],
-      "comentario": "A lei exige justiça e compaixão para com o estrangeiro, lembrando os israelitas de sua própria experiência como estrangeiros no Egito.",
-      "temas": ["justiça social", "compaixão", "estrangeiro"],
+      "parafrase": "Vocês não devem cozinhar um cabrito na mesma leite de sua mãe. Isso é um ato de profanação que quebra a relação natural e materna da criação.",
+      "referencias": [
+        "Êxodo 23:19",
+        "Deuteronômio 14:21"
+      ],
+      "comentario": "Este é um dos mandamentos mais enigmáticos. O Hebraico diz 'Gedis' (cabrito) no leite ('khalav' - חָלָב) de sua 'emo' (mãe). A interpretação mais aceita é que a proibição visa impedir o uso de um símbolo de nutrição e maternidade (o leite materno) para um ato culinário que mistura vida e morte de forma profana. Reforça a reverência pela criação e pelos laços naturais.",
+      "temas": [
+        "Reverência à Criação",
+        "Tabu Alimentar",
+        "Relação Mãe-Filhote"
+      ],
       "personagens": []
     },
     "34": {
-      "parafrase": "'O estrangeiro que vive com vocês será como o nativo entre vocês, e vocês o amarão como a si mesmos, pois vocês foram estrangeiros na terra do Egito. Eu sou o Senhor, seu Deus'.",
-      "referencias": [],
-      "comentario": "A lei exige amor e igualdade para com o estrangeiro, baseada na experiência de Israel no Egito. É um mandamento de empatia e redenção.",
-      "temas": ["amor ao estrangeiro", "igualdade", "empatia", "redenção"],
-      "personagens": ["Deus"]
+      "parafrase": "Eu sou o Senhor, seu Deus, que os tirou da terra do Egito para ser o seu Deus. Obedeçam a todos os meus preceitos e regulamentos, pois Eu sou Santo.",
+      "referencias": [
+        "Êxodo 6:7",
+        "Levítico 11:44"
+      ],
+      "comentario": "Este versículo funciona como uma 'âncora teológica'. A motivação para a obediência (a santidade de Deus) é explicitamente ligada ao ato fundacional da libertação (saída do Egito). Deus os santificou ao resgatá-los. A santidade de YHWH é a razão última para a santidade exigida do povo.",
+      "temas": [
+        "Justificativa da Lei",
+        "A Santidade de Deus",
+        "Redenção"
+      ],
+      "personagens": [
+        "YHWH"
+      ]
     },
     "35": {
-      "parafrase": "'Não farão injustiça no juízo, nem na medida de comprimento, nem no peso, nem na capacidade'.",
-      "referencias": [],
-      "comentario": "A lei exige honestidade e justiça em todas as transações comerciais, garantindo a equidade e a integridade.",
-      "temas": ["honestidade", "justiça", "integridade"],
+      "parafrase": "Vocês deverão preparar e usar utensílios de cozinha que sejam apropriados, sejam eles feitos de madeira, couro, ou qualquer outro material, sem nunca usar um recipiente que tenha absorvido a impureza.",
+      "referencias": [
+        "Levítico 11:32-33",
+        "Números 31:21-23"
+      ],
+      "comentario": "A impureza pode ser transferida através de objetos porosos. O mandamento exige que todos os recipientes, que têm contato direto com o alimento, sejam rigorosamente purificados ou, se absorvessem contaminação grave, destruídos. Isso eleva a pureza a um padrão prático e doméstico, afetando todos os aspectos da vida.",
+      "temas": [
+        "Transferência de Impureza",
+        "Pureza nos Utensílios",
+        "Aplicação Prática da Lei"
+      ],
       "personagens": []
     },
     "36": {
-      "parafrase": "'Terão balanças justas, pesos justos, um efa justo e um him justo. Eu sou o Senhor, seu Deus, que os tirou da terra do Egito'.",
-      "referencias": [],
-      "comentario": "A lei exige pesos e medidas justas, refletindo o caráter de Deus como justo e fiel. A honestidade nas transações é um reflexo da redenção.",
-      "temas": ["justiça", "honestidade", "redenção"],
-      "personagens": ["Deus"]
+      "parafrase": "Vocês devem usar balanças e medidas precisas e justas. É imperativo que os pesos usados para comprar e vender sejam exatos, para que ninguém seja enganado no comércio.",
+      "referencias": [
+        "Provérbios 11:1",
+        "Deuteronômio 25:13-15"
+      ],
+      "comentario": "O foco muda da pureza ritual para a pureza ética e econômica. A santidade de Deus exige justiça nas relações humanas. O uso de pesos falsos ('ephah' e 'hin' - medidas de volume) é uma forma de roubo e, portanto, uma violação da santidade de Deus no trato social.",
+      "temas": [
+        "Justiça Social",
+        "Integridade Comercial",
+        "Medidas Exatas"
+      ],
+      "personagens": []
     },
     "37": {
-      "parafrase": "'Guardarão todos os meus estatutos e todos os meus juízos, e os cumprirão. Eu sou o Senhor'.",
-      "referencias": [],
-      "comentario": "Deus conclui com um apelo à obediência e à santidade, lembrando-os de Sua identidade como o Senhor. A santidade é a chave para a comunhão com Deus e a permanência na terra prometida.",
-      "temas": ["obediência", "santidade", "comunhão com Deus"],
-      "personagens": ["Deus"]
+      "parafrase": "Vocês devem observar fielmente todos os meus estatutos e decretos. Se fizerem isso, viverão em segurança e em santidade na terra que lhes foi destinada. Eu sou o Senhor.",
+      "referencias": [
+        "Levítico 20:22",
+        "Deuteronômio 30:19"
+      ],
+      "comentario": "O fechamento do bloco reafirma a promessa condicional: obediência (observar os estatutos, 'mishpatim' - מִשְׁפָּטִים) resulta em vida e posse segura da terra. A vida no sentido pleno, conforme a visão de Deus, está intrinsecamente ligada à prática da justiça e da santidade ritual. É um pacto claro: santidade gera segurança.",
+      "temas": [
+        "Recompensa da Obediência",
+        "Segurança na Fé",
+        "Promessa Final"
+      ],
+      "personagens": [
+        "YHWH"
+      ]
     }
   }
 }

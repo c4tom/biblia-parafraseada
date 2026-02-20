@@ -1,134 +1,332 @@
 {
   "livro": "Neemias",
   "capitulo": 5,
-  "contexto_historico": "Enquanto os judeus enfrentavam a ameaça de ataque externo (capítulo 4), uma grave crise interna eclodiu. A pressão econômica, agravada pela necessidade de alimentar as famílias e pagar os pesados impostos persas, levou os judeus mais ricos a explorar seus irmãos mais pobres. Eles estavam cobrando juros exorbitantes, forçando os pobres a hipotecar suas terras e até a vender seus filhos como escravos. Este capítulo mostra a reação de Neemias a essa injustiça social e suas ações decisivas para reformar a comunidade de dentro para fora.",
-  "bloco_tematico": "A Crise da Injustiça Social e a Reforma de Neemias",
+  "contexto_historico": "Após a reconstrução dos muros de Jerusalém (Neemias, capítulos 1 a 4), a comunidade judaica enfrentava uma grave crise interna. A prosperidade dos nobres e ricos estava gerando opressão econômica sobre os pobres, com cobrança abusiva de juros e a perda de terras e até mesmo da liberdade familiar (escravidão por dívidas). A denúncia veio à tona quando o povo clamou a Neemias, que estava exercendo seu papel de governador judeu sob a autoridade persa. Neemias, reconhecendo a injustiça e a ameaça à coesão social e religiosa, convoca uma grande assembleia para confrontar os líderes e exigir a restauração da justiça. Ele serve de exemplo, recusando os privilégios de governador para não ser um fardo ao povo, e lidera a purificação moral e econômica da comunidade. 🏘️💰😟",
+  "bloco_tematico": "Justiça Social e Integridade na Liderança: A Reforma Econômica de Neemias ⚖️🤝🌱",
   "versiculos": {
     "1": {
-      "parafrase": "Houve um grande clamor do povo, especialmente das mulheres, contra seus irmãos judeus.",
-      "referencias": ["Êxodo 22:25"],
-      "comentario": "A crise se torna pública. O clamor vem do povo comum, e a menção específica das mulheres destaca o impacto devastador da crise sobre as famílias. A queixa não é contra um inimigo externo, mas contra seus próprios compatriotas.",
-      "temas": ["injustiça social", "pobreza", "clamor"],
-      "personagens": []
+      "parafrase": "Uma grande agitação tomou conta do povo de Judá. Os homens mais poderosos e os líderes da cidade começaram a reclamar em voz alta para seus irmãos, pois a situação havia se tornado insustentável. O clamor era generalizado, ecoando pelas ruas de Jerusalém, pois as queixas sobre a opressão econômica atingiam a todos.",
+      "referencias": [
+        "Êxodo 22:25",
+        "Levítico 25:36"
+      ],
+      "comentario": "O versículo inicial estabelece o tom: crise social. A queixa ('a'naq) era pública e dirigida aos 'irmãos' (os nobres/oficiais). Isso não era uma murmuração silenciosa, mas um levante de voz contra a injustiça interna, focada na usura e na dívida.",
+      "temas": [
+        "Injustiça Social",
+        "Clamor do Povo",
+        "Liderança"
+      ],
+      "personagens": [
+        "O Povo de Judá",
+        "Os Nobres"
+      ]
     },
     "2": {
-      "parafrase": "Alguns diziam: 'Nós, nossos filhos e nossas filhas somos numerosos. Precisamos de trigo para comer e para sobreviver.'",
-      "referencias": [],
-      "comentario": "O primeiro grupo estava lutando contra a fome. A necessidade básica de sobrevivência os estava esmagando.",
-      "temas": ["fome", "pobreza", "sobrevivência"],
-      "personagens": []
+      "parafrase": "Alguns alegavam: 'Nossos filhos e filhas estão sendo vendidos como escravos para pagar dívidas antigas! Tivemos que entregar nossos próprios filhos e filhas para que pudéssemos ter um pedaço de pão para comer, e ainda assim não conseguimos suprir a necessidade!'",
+      "referencias": [
+        "Levítico 25:39",
+        "Deuteronômio 15:12"
+      ],
+      "comentario": "Este é o ápice da crise: a servidão por dívida (escravidão temporária). A necessidade básica de sobrevivência (pão) forçou a venda de familiares. O termo hebraico para 'vender' (mākar) indica uma transação de propriedade humana.",
+      "temas": [
+        "Escravidão por Dívida",
+        "Sobrevivência",
+        "Angústia Familiar"
+      ],
+      "personagens": [
+        "Os queixosos"
+      ]
     },
     "3": {
-      "parafrase": "Outros diziam: 'Estamos hipotecando nossos campos, nossas vinhas e nossas casas para conseguir trigo durante a fome.'",
-      "referencias": ["Levítico 25:35-37"],
-      "comentario": "O segundo grupo já havia perdido seus meios de produção. Para sobreviver, eles foram forçados a entregar suas terras ancestrais, que eram a base de sua herança e sustento.",
-      "temas": ["dívida", "hipoteca", "perda"],
-      "personagens": []
+      "parafrase": "Outros protestavam: 'Nossos campos, nossas vinhas e nossas casas foram tomados pelos nobres para servir de garantia aos empréstimos que fizemos! Estamos desesperados, sem ter onde morar ou o que plantar para o futuro!'",
+      "referencias": [
+        "Amós 2:4",
+        "Miquéias 6:15"
+      ],
+      "comentario": "A segunda queixa foca na expropriação de bens. Os nobres (sarim) usavam a emergência econômica como pretexto para adquirir terras e propriedades de seus concidadãos, estendendo o ciclo de pobreza.",
+      "temas": [
+        "Apropriação de Terras",
+        "Usura",
+        "Pobreza Estrutural"
+      ],
+      "personagens": [
+        "Os queixosos",
+        "Os Nobres"
+      ]
     },
     "4": {
-      "parafrase": "E ainda outros diziam: 'Tivemos que pedir dinheiro emprestado para pagar o imposto do rei sobre nossos campos e vinhas.'",
-      "referencias": [],
-      "comentario": "O terceiro grupo destaca a pressão externa do império persa. Além da fome, os pesados impostos do rei os forçavam a se endividar ainda mais.",
-      "temas": ["impostos", "dívida", "opressão"],
-      "personagens": []
+      "parafrase": "Houve ainda aqueles que gritaram: 'Nós, como nossos irmãos, tomamos dinheiro emprestado dos nobres para pagar os impostos exigidos pelo rei da Pérsia, e agora nossos filhos estão escravizados! Mesmo assim, não conseguimos saldar a dívida, e as terras dos nossos ancestrais já estão nas mãos dos nobres!'",
+      "referencias": [
+        "Esdras 4:13",
+        "Isaías 58:7"
+      ],
+      "comentario": "Este versículo conecta a dívida privada com a pressão tributária do império (Rei Artaxerxes). A carga fiscal tornava a sobrevivência difícil, forçando o povo a buscar empréstimos usurários, o que levava à perda patrimonial e servidão.",
+      "temas": [
+        "Carga Tributária",
+        "Dívida Externa/Imposto",
+        "Patrimônio Familiar"
+      ],
+      "personagens": [
+        "O Povo",
+        "Nobres",
+        "Rei da Pérsia"
+      ]
     },
     "5": {
-      "parafrase": "'Embora sejamos da mesma carne e sangue que nossos irmãos, e nossos filhos sejam como os deles, ainda assim temos que sujeitar nossos filhos e filhas à escravidão. Algumas de nossas filhas já foram escravizadas, e não podemos fazer nada para resgatá-las, porque nossos campos e vinhas pertencem a outros.'",
-      "referencias": ["Êxodo 21:7", "2 Reis 4:1"],
-      "comentario": "Este é o clímax do clamor. A injustiça atingiu seu ponto mais cruel: a venda de crianças para a escravidão. A frase 'somos da mesma carne e sangue' enfatiza a traição de irmãos explorando irmãos. Eles chegaram a um ponto de total impotência, tendo perdido suas terras e agora seus próprios filhos.",
-      "temas": ["escravidão", "injustiça", "desespero", "impotência"],
-      "personagens": []
+      "parafrase": "As pessoas se viraram para Neemias com um apelo desesperado, dizendo: 'Nós somos da mesma carne e sangue que esses nobres e nossos filhos são como os filhos deles! Contudo, estamos sendo forçados a vender nossos filhos para a escravidão, e não podemos fazer nada para impedir, pois as terras já foram tomadas!'",
+      "referencias": [
+        "Deuteronômio 15:7",
+        "Gênesis 42:10"
+      ],
+      "comentario": "O ponto crucial é a hipocrisia: eles são 'irmãos de carne e osso' (basar, carne). A queixa expõe a falha da classe dominante em aplicar a lei de fraternidade e compaixão (Deut. 15:7).",
+      "temas": [
+        "Fraternidade",
+        "Hipocrisia",
+        "Apelo à Consciência"
+      ],
+      "personagens": [
+        "O Povo",
+        "Neemias",
+        "Os Nobres"
+      ]
     },
     "6": {
-      "parafrase": "Quando ouvi o clamor deles e essas acusações, fiquei muito irado.",
-      "referencias": [],
-      "comentario": "A reação de Neemias não é de tristeza, como no capítulo 1, mas de fúria. Sua ira é uma indignação justa contra a exploração e a violação da Lei de Deus. Ele se enfurece porque o povo de Deus estava destruindo a si mesmo por dentro.",
-      "temas": ["ira justa", "indignação", "liderança"],
-      "personagens": ["Neemias"]
+      "parafrase": "Ao ouvir todos esses relatos terríveis, a raiva tomou conta de Neemias. Ele sentiu uma fúria justa e intensa, quase a ponto de explodir, por ver a exploração desenfreada entre seu próprio povo.",
+      "referencias": [
+        "Êxodo 32:19",
+        "Salmos 136:10"
+      ],
+      "comentario": "A reação de Neemias é imediata e visceral. O termo 'zamar' (ficar muito irado) indica um zelo profundo pela justiça divina, espelhando a ira de líderes como Moisés ao ver a quebra da aliança.",
+      "temas": [
+        "Indignação Moral",
+        "Zelo",
+        "Reação de Liderança"
+      ],
+      "personagens": [
+        "Neemias"
+      ]
     },
     "7": {
-      "parafrase": "Depois de refletir sobre o assunto, repreendi os nobres e os oficiais. Eu lhes disse: 'Vocês estão cobrando juros de seus próprios irmãos!' Então convoquei uma grande assembleia para tratar do assunto",
-      "referencias": ["Deuteronômio 23:19-20"],
-      "comentario": "A ira de Neemias não o leva a uma ação impulsiva. Ele primeiro reflete ('pesei o assunto em meu coração') e depois age de forma estratégica. Ele confronta diretamente os culpados — a elite rica — e os acusa de violar a Lei Mosaica, que proibia cobrar juros de outros israelitas. Ele então torna o assunto público, convocando uma assembleia para que a pressão da comunidade pudesse ser aplicada.",
-      "temas": ["confronto", "justiça", "liderança", "sabedoria"],
-      "personagens": ["Neemias"]
+      "parafrase": "Então, Neemias decidiu tomar uma atitude. Ele reuniu o conselho e confrontou os nobres e os oficiais, lançando-lhes um desafio direto: 'Vocês estão cobrando juros e penhorando a vida dos vossos irmãos para satisfazer a própria ganância! Isso é um ultraje imperdoável!'",
+      "referencias": [
+        "Mateus 23:23",
+        "Jeremias 22:13"
+      ],
+      "comentario": "Neemias age como mediador e juiz. Ele condena a prática específica: 'neshekh' (juros usurários) e a tomada de penhores (incluindo os próprios filhos). Ele os acusa de negligenciar o mandamento de não tirar proveito da miséria alheia.",
+      "temas": [
+        "Confronto",
+        "Usura",
+        "Responsabilidade da Elite"
+      ],
+      "personagens": [
+        "Neemias",
+        "Nobres e Oficiais"
+      ]
     },
     "8": {
-      "parafrase": "e lhes disse: 'Até onde pudemos, nós compramos de volta nossos irmãos judeus que haviam sido vendidos aos gentios. E agora vocês estão vendendo seus próprios irmãos, para que tenhamos que comprá-los de volta?' Eles ficaram em silêncio, pois não tinham resposta.",
-      "referencias": [],
-      "comentario": "Neemias usa um argumento poderoso. Ele e outros judeus na Pérsia estavam usando seus próprios recursos para redimir judeus da escravidão entre os gentios, enquanto os nobres em Judá estavam fazendo exatamente o oposto, vendendo seus irmãos. A hipocrisia era tão flagrante que os acusados não puderam dizer uma palavra em sua defesa.",
-      "temas": ["hipocrisia", "redenção", "justiça", "retórica"],
-      "personagens": ["Neemias"]
+      "parafrase": "Neemias declarou: 'Eu e meus companheiros já fizemos o que podíamos para resgatar os irmãos judeus que foram vendidos aos gentios. Agora, vocês devem devolver o que tiraram deles! E se vocês devolverem o que pegaram, faremos o mesmo por vocês em relação às dívidas que ainda não foram pagas a vocês!'",
+      "referencias": [
+        "Gálatas 6:2",
+        "Levítico 25:48"
+      ],
+      "comentario": "Neemias estabelece um precedente moral: ele e sua casa já estavam praticando a redenção (resgate de concidadãos vendidos aos estrangeiros). Ele propõe um acordo recíproco: devolução das terras e anulação da dívida, com a condição de que eles parem de cobrar juros.",
+      "temas": [
+        "Redenção",
+        "Acordo Mútuo",
+        "Boas Obras"
+      ],
+      "personagens": [
+        "Neemias",
+        "Companheiros",
+        "Nobres"
+      ]
     },
     "9": {
-      "parafrase": "Então eu continuei: 'O que vocês estão fazendo não é certo. Vocês não deveriam andar no temor do nosso Deus, para evitar a zombaria de nossos inimigos gentios?'",
-      "referencias": ["Romanos 2:24"],
-      "comentario": "Neemias apela para o temor de Deus e para o testemunho da nação. A injustiça interna não era apenas um pecado contra Deus, mas também trazia desonra ao nome de Deus entre as nações vizinhas. Como poderiam os inimigos respeitá-los se eles não respeitavam uns aos outros?",
-      "temas": ["temor a Deus", "testemunho", "honra de Deus", "santidade"],
-      "personagens": ["Neemias"]
+      "parafrase": "Os nobres responderam, com uma hesitação visível: 'Nós faremos exatamente o que você disse, e devolveremos as terras e os bens. Mas só faremos isso se você nos garantir que, em troca, não cobraremos mais nada do povo em relação às dívidas que ainda estão pendentes!'",
+      "referencias": [
+        "Lucas 6:31",
+        "Provérbios 11:25"
+      ],
+      "comentario": "Os nobres concordam, mas sob a condição de que o perdão da dívida seja total e garantido por Neemias. Isso mostra que eles estavam mais preocupados em recuperar o que haviam emprestado (ou em se livrar de seus compromissos) do que em demonstrar arrependimento genuíno.",
+      "temas": [
+        "Negociação",
+        "Condicionalidade",
+        "Liberação de Dívidas"
+      ],
+      "personagens": [
+        "Nobres",
+        "Neemias"
+      ]
     },
     "10": {
-      "parafrase": "'Eu, meus irmãos e meus homens também estamos emprestando dinheiro e trigo ao povo. Mas vamos parar de cobrar juros!'",
-      "referencias": [],
-      "comentario": "Neemias se inclui no grupo dos credores para se identificar com eles, mas imediatamente se diferencia ao liderar pelo exemplo, renunciando à prática de cobrar juros.",
-      "temas": ["liderança pelo exemplo", "integridade", "reforma"],
-      "personagens": ["Neemias"]
+      "parafrase": "Então, Neemias, confirmando a promessa, chamou os sacerdotes e os fez jurar publicamente que cumpririam exatamente essa palavra. O povo então aplaudiu a atitude, e todos voltaram a confiar e a trabalhar na reconstrução.",
+      "referencias": [
+        "Números 30:2",
+        "Deuteronômio 23:21"
+      ],
+      "comentario": "A formalização do acordo através de um juramento feito na presença dos sacerdotes (autoridade religiosa) dava peso legal e moral à promessa. O povo celebra porque a esperança de retomar sua estabilidade econômica foi restaurada.",
+      "temas": [
+        "Juramento Solene",
+        "Restauração da Confiança",
+        "Ação da Lei"
+      ],
+      "personagens": [
+        "Neemias",
+        "Sacerdotes",
+        "O Povo"
+      ]
     },
     "11": {
-      "parafrase": "'Devolvam a eles imediatamente seus campos, vinhas, olivais e casas, e também a porcentagem do dinheiro, do trigo, do vinho e do azeite que vocês cobraram deles.'",
-      "referencias": [],
-      "comentario": "Neemias exige uma restituição completa e imediata. Não basta parar a prática pecaminosa; é preciso reparar o dano causado. A reforma tinha que ser radical e tangível.",
-      "temas": ["restituição", "justiça", "arrependimento", "reforma"],
-      "personagens": ["Neemias"]
+      "parafrase": "Imediatamente, os nobres começaram a devolver as terras e os bens que haviam tomado indevidamente. Neemias, por sua vez, ordenou que aqueles que haviam emprestado dinheiro ao povo, o fizessem sem cobrar o imposto de juros, conforme havia sido prometido.",
+      "referencias": [
+        "Isaías 1:17",
+        "Colossenses 3:13"
+      ],
+      "comentario": "A obediência imediata dos nobres, impulsionada pelo juramento público e pela influência de Neemias, é notável. O ponto central da lei mosaica sobre o 'neshekh' (juros) foi restabelecido.",
+      "temas": [
+        "Obediência",
+        "Restituição",
+        "Cessação dos Juros"
+      ],
+      "personagens": [
+        "Nobres",
+        "Neemias"
+      ]
     },
     "12": {
-      "parafrase": "Eles disseram: 'Nós devolveremos tudo e não exigiremos mais nada deles. Faremos o que você diz.' Então convoquei os sacerdotes e os fiz jurar que fariam o que haviam prometido.",
-      "referencias": [],
-      "comentario": "Sob a pressão da liderança de Neemias e da assembleia pública, os nobres concordam com todas as exigências. Neemias, no entanto, não confia apenas na palavra deles; ele os coloca sob um juramento solene, administrado pelos sacerdotes, para selar o compromisso diante de Deus.",
-      "temas": ["acordo", "juramento", "compromisso", "reforma"],
-      "personagens": ["Neemias"]
+      "parafrase": "Então, os nobres e os oficiais convocaram os trabalhadores e os líderes e disseram: 'Nós concordamos em devolver tudo e não cobrar mais juros. Agora, voltem para suas casas, voltem aos seus campos e às suas vinhas, e retomem seus bens!'",
+      "referencias": [
+        "Filipenses 2:4",
+        "Lucas 4:18"
+      ],
+      "comentario": "Os próprios nobres, agora sob pressão social e moral, tornam-se os comunicadores da libertação. Eles instruem o povo a retomar suas posições econômicas originais, simbolizando a reversão da opressão.",
+      "temas": [
+        "Comunicação da Decisão",
+        "Restauração Econômica",
+        "Reintegração Social"
+      ],
+      "personagens": [
+        "Nobres e Oficiais",
+        "Trabalhadores"
+      ]
     },
     "13": {
-      "parafrase": "Eu também sacudi a dobra do meu manto e disse: 'Que Deus assim sacuda de sua casa e de seus bens todo homem que não cumprir esta promessa. Que ele seja assim sacudido e esvaziado!' E toda a assembleia disse: 'Amém!', e louvou ao Senhor. E o povo cumpriu o que havia prometido.",
-      "referencias": ["Atos 18:6"],
-      "comentario": "Neemias realiza um ato simbólico poderoso para selar o juramento. Sacudir o manto era um sinal de maldição, indicando que qualquer um que quebrasse a promessa seria 'sacudido' e esvaziado por Deus. A resposta unânime da assembleia com 'Amém' e louvor a Deus mostrou a aprovação e o alívio da comunidade.",
-      "temas": ["ato simbólico", "maldição", "juramento", "consequência"],
-      "personagens": ["Neemias"]
+      "parafrase": "E assim, o povo se reuniu e, por ordem de Neemias, todos os homens que haviam sido forçados a vender ou penhorar algo, receberam de volta suas propriedades. Eles estavam livres para retomar suas vidas e seus trabalhos.",
+      "referencias": [
+        "Jeremias 32:41",
+        "Tiago 5:6"
+      ],
+      "comentario": "A execução do acordo é realizada em massa. A palavra 'têshuvah' (retorno/arrependimento) implícita é a retomada da ordem justa estabelecida por Deus, contrastando com a injustiça anterior.",
+      "temas": [
+        "Execução da Justiça",
+        "Restauração de Bens",
+        "Alívio Geral"
+      ],
+      "personagens": [
+        "O Povo",
+        "Neemias"
+      ]
     },
     "14": {
-      "parafrase": "Além disso, desde o vigésimo ano do rei Artaxerxes, quando fui nomeado governador na terra de Judá, até o trigésimo segundo ano — doze anos — nem eu nem meus irmãos comemos a porção de comida designada ao governador.",
-      "referencias": [],
-      "comentario": "Neemias agora apresenta seu próprio exemplo como prova de sua integridade. Ele se defende de qualquer acusação de hipocrisia, mostrando que ele não apenas pregou a justiça, mas a praticou de forma sacrificial.",
-      "temas": ["integridade", "sacrifício", "liderança pelo exemplo"],
-      "personagens": ["Neemias", "Artaxerxes"]
+      "parafrase": "Além disso, Neemias nunca se aproveitou de seu cargo de governador. Durante todo o período em que esteve à frente da Judeia, desde o vigésimo ano até o trigésimo segundo ano do reinado do rei Artaxerxes, nem ele nem seus parentes aceitaram as provisões que lhes eram devidas como salário de governador.",
+      "referencias": [
+        "2 Coríntios 11:9",
+        "1 Tessalonicenses 2:9"
+      ],
+      "comentario": "Aqui, Neemias estabelece um contraste gritante entre sua integridade e a ganância dos oficiais anteriores. Ele serviu sem remuneração oficial (os 'pães' ou rações devidas ao governador), um ato de serviço desinteressado, diferente dos exploradores.",
+      "temas": [
+        "Integridade na Liderança",
+        "Serviço Não Remunerado",
+        "Caráter de Neemias"
+      ],
+      "personagens": [
+        "Neemias",
+        "Rei Artaxerxes"
+      ]
     },
     "15": {
-      "parafrase": "Mas os governadores anteriores, que me precederam, impuseram um fardo pesado sobre o povo, tomando deles quarenta siclos de prata, além de comida e vinho. Até mesmo seus servos dominavam sobre o povo. Mas eu não agi assim, por causa do temor de Deus.",
-      "referencias": [],
-      "comentario": "Neemias contrasta seu comportamento com o dos governadores anteriores, que usaram sua posição para explorar o povo. A motivação de Neemias para sua conduta justa e sacrificial era o 'temor de Deus'. Seu relacionamento com Deus ditava seu relacionamento com as pessoas.",
-      "temas": ["liderança justa", "temor a Deus", "integridade", "contraste"],
-      "personagens": ["Neemias"]
+      "parafrase": "Os governadores que o precederam haviam oprimido o povo, exigindo impostos pesados e distribuindo pão e vinho em troca de favores, gastando oitenta talentos de prata com concessões. Eles tinham poder sobre o povo, mas Neemias escolheu não usar esse privilégio.",
+      "referencias": [
+        "2 Reis 5:22",
+        "Lucas 22:25"
+      ],
+      "comentario": "Neemias expõe o abuso de poder e o custo financeiro desse abuso (80 talentos de prata, uma soma enorme). Os predecessores viam o cargo como uma oportunidade de enriquecimento (consumindo rações caras), enquanto Neemias o via como um fardo sacrificial.",
+      "temas": [
+        "Abuso de Poder",
+        "Custo da Opressão",
+        "Administração Fiel"
+      ],
+      "personagens": [
+        "Governadores Anteriores",
+        "Neemias"
+      ]
     },
     "16": {
-      "parafrase": "Pelo contrário, eu dediquei meu esforço à obra deste muro. Não adquirimos nenhuma terra, e todos os meus homens estavam reunidos ali para o trabalho.",
-      "referencias": [],
-      "comentario": "Em vez de usar sua posição para ganho pessoal, Neemias se concentrou totalmente na tarefa da reconstrução, garantindo que ele e sua equipe não se envolvessem na aquisição de terras que estava causando a crise.",
-      "temas": ["foco", "dedicação", "integridade"],
-      "personagens": ["Neemias"]
+      "parafrase": "Eu, por outro lado, concentrei meus esforços na reconstrução do muro de Jerusalém e nas obras públicas, e não mantive uma grande corte ou qualquer retenção de recursos para mim ou para meus servos. Eu não usei o meu poder para benefício pessoal.",
+      "referencias": [
+        "1 Pedro 4:10",
+        "Atos 20:34"
+      ],
+      "comentario": "Neemias enfatiza o foco de sua administração: o trabalho prático (reconstrução do muro) e o bem comum. Ele não manteve uma 'casa' luxuosa como os governadores anteriores, vivendo de maneira modesta para se identificar com o povo.",
+      "temas": [
+        "Foco no Trabalho",
+        "Modéstia",
+        "Altruísmo"
+      ],
+      "personagens": [
+        "Neemias",
+        "Seus Servos"
+      ]
     },
-    "17-18": {
-      "parafrase": "Além disso, cento e cinquenta judeus e oficiais comiam à minha mesa, bem como aqueles que vinham a nós das nações vizinhas. Cada dia, um boi, seis ovelhas escolhidas e aves eram preparados às minhas custas, e a cada dez dias, uma grande provisão de todo tipo de vinho. Apesar de tudo isso, eu não exigi a porção de comida do governador, porque o fardo sobre este povo já era pesado.",
-      "referencias": ["1 Reis 4:22-23"],
-      "comentario": "Neemias não apenas renunciou ao seu salário, mas também usou seus recursos pessoais para sustentar um grande número de pessoas, mostrando uma generosidade extraordinária. Ele fez isso porque tinha compaixão pela situação difícil do povo.",
-      "temas": ["generosidade", "sacrifício", "compaixão", "liderança servidora"],
-      "personagens": ["Neemias"]
+    "17": {
+      "parafrase": "Sempre que um judeu rico ou um oficial se reunia comigo para comer, eu pagava por minha própria conta, sem exigir que ele contribuísse para minhas despesas de mesa. Eu não consumia o que era destinado ao sustento do povo.",
+      "referencias": [
+        "Atos 20:33",
+        "Romanos 15:1"
+      ],
+      "comentario": "Esta é uma demonstração prática de sua renúncia aos direitos. Mesmo quando se alimentava com os ricos, ele não aceitava contribuições, assegurando que os recursos que poderiam ser usados para o estado fossem direcionados ao povo ou simplesmente economizados.",
+      "temas": [
+        "Hospitalidade Pessoal",
+        "Renúncia Financeira",
+        "Exemplo Pessoal"
+      ],
+      "personagens": [
+        "Neemias",
+        "Judeus Ricos e Oficiais"
+      ]
+    },
+    "18": {
+      "parafrase": "Em vez disso, preparávamos diariamente um boi e dez ovelhas, além de algumas aves, e eu ajudava a organizar os preparativos, e tudo isso era oferecido em banquetes para o povo reunido ao redor. Eu jamais pedi esse suprimento do imposto oficial.",
+      "referencias": [
+        "Atos 6:2",
+        "2 Coríntios 12:15"
+      ],
+      "comentario": "Neemias demonstra sua generosidade pessoal. O custo de alimentar a comunidade diariamente era coberto integralmente por seus recursos privados, não pelos fundos do tesouro público ou por contribuições forçadas do povo.",
+      "temas": [
+        "Generosidade Pessoal",
+        "Provisão Comunitária",
+        "Serviço Sacrificial"
+      ],
+      "personagens": [
+        "Neemias",
+        "O Povo"
+      ]
     },
     "19": {
-      "parafrase": "'Lembra-te de mim para o bem, ó meu Deus, por tudo o que fiz por este povo.'",
-      "referencias": ["Neemias 13:14"],
-      "comentario": "Neemias conclui o capítulo com uma oração característica. Não é um pedido arrogante por recompensa, mas uma expressão de sua relação pessoal com Deus. Ele confia seus atos ao julgamento de Deus, buscando a aprovação divina como sua recompensa final.",
-      "temas": ["oração", "recompensa divina", "motivação", "fé"],
-      "personagens": ["Neemias"]
+      "parafrase": "Ó meu Deus, lembre-se de mim com favor por causa de tudo o que fiz por este povo. Que sua lembrança amorosa me acompanhe, pois agi com lealdade e justiça em cada detalhe deste serviço!",
+      "referencias": [
+        "Hebreus 6:10",
+        "Salmos 106:45"
+      ],
+      "comentario": "O encerramento é uma oração curta e poderosa, um pedido para que Deus considere a retidão de suas ações. Ele não pede recompensa humana, mas o favor divino (zekher letov - lembrança para o bem), baseando seu mérito em seu serviço fiel e não na sua posição.",
+      "temas": [
+        "Oração de Neemias",
+        "Retribuição Divina",
+        "Lealdade a Deus"
+      ],
+      "personagens": [
+        "Neemias"
+      ]
     }
   }
 }
