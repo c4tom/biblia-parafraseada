@@ -77,6 +77,390 @@
       "name": "Nova Bíblia Viva",
       "url": "https://github.com/damarals/biblias/raw/refs/heads/main/inst/sql/NBV.sqlite",
       "language": "pt-BR"
+    },
+    {
+      "code": "acv",
+      "name": "A Conservative Version",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/ACV.db",
+      "language": "en"
+    },
+    {
+      "code": "akjv",
+      "name": "American King James Version",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/AKJV.db",
+      "language": "en"
+    },
+    {
+      "code": "asv",
+      "name": "American Standard Version (1901)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/ASV.db",
+      "language": "en"
+    },
+    {
+      "code": "anderson",
+      "name": "Anderson New Testament (1864)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/Anderson.db",
+      "language": "en"
+    },
+    {
+      "code": "bbe",
+      "name": "Bible in Basic English",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/BBE.db",
+      "language": "en"
+    },
+    {
+      "code": "bsb",
+      "name": "Berean Standard Bible",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/BSB.db",
+      "language": "en"
+    },
+    {
+      "code": "cpdv",
+      "name": "Catholic Public Domain Version",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/CPDV.db",
+      "language": "en"
+    },
+    {
+      "code": "drc",
+      "name": "Douay-Rheims Challoner Revision",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/DRC.db",
+      "language": "en"
+    },
+    {
+      "code": "darby",
+      "name": "Darby Bible (1889)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/Darby.db",
+      "language": "en"
+    },
+    {
+      "code": "geneva1599",
+      "name": "Geneva Bible (1599)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/Geneva1599.db",
+      "language": "en"
+    },
+    {
+      "code": "haweis",
+      "name": "Haweis New Testament (1795)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/Haweis.db",
+      "language": "en"
+    },
+    {
+      "code": "jps",
+      "name": "Jewish Publication Society Old Testament",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/JPS.db",
+      "language": "en"
+    },
+    {
+      "code": "jubilee2000",
+      "name": "Jubilee 2000 Bible",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/Jubilee2000.db",
+      "language": "en"
+    },
+    {
+      "code": "kjv",
+      "name": "King James Version (1769)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/KJV.db",
+      "language": "en"
+    },
+    {
+      "code": "kjva",
+      "name": "King James Version with Apocrypha",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/KJVA.db",
+      "language": "en"
+    },
+    {
+      "code": "kjvpce",
+      "name": "King James Version – Pure Cambridge Edition",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/KJVPCE.db",
+      "language": "en"
+    },
+    {
+      "code": "leb",
+      "name": "Lexham English Bible",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/LEB.db",
+      "language": "en"
+    },
+    {
+      "code": "litv",
+      "name": "Green's Literal Translation",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/LITV.db",
+      "language": "en"
+    },
+    {
+      "code": "mkjv",
+      "name": "Modern King James Version",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/MKJV.db",
+      "language": "en"
+    },
+    {
+      "code": "nheb",
+      "name": "New Heart English Bible",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/NHEB.db",
+      "language": "en"
+    },
+    {
+      "code": "nhebje",
+      "name": "New Heart English Bible: Jehovah Edition",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/NHEBJE.db",
+      "language": "en"
+    },
+    {
+      "code": "nhebme",
+      "name": "New Heart English Bible: Messianic Edition",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/NHEBME.db",
+      "language": "en"
+    },
+    {
+      "code": "noyes",
+      "name": "Noyes Translation (1869)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/Noyes.db",
+      "language": "en"
+    },
+    {
+      "code": "oeb",
+      "name": "Open English Bible (US)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/OEB.db",
+      "language": "en"
+    },
+    {
+      "code": "oebcth",
+      "name": "Open English Bible (Commonwealth)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/OEBcth.db",
+      "language": "en"
+    },
+    {
+      "code": "rlt",
+      "name": "Revised Literal Translation (2018)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/RLT.db",
+      "language": "en"
+    },
+    {
+      "code": "rnkiv",
+      "name": "Restored Name King James Version",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/RNKJV.db",
+      "language": "en"
+    },
+    {
+      "code": "rwebster",
+      "name": "Revised Webster Version (1833)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/RWebster.db",
+      "language": "en"
+    },
+    {
+      "code": "rotherham",
+      "name": "The Emphasised Bible (Rotherham)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/Rotherham.db",
+      "language": "en"
+    },
+    {
+      "code": "twenty",
+      "name": "Twentieth Century New Testament",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/Twenty.db",
+      "language": "en"
+    },
+    {
+      "code": "tyndale",
+      "name": "William Tyndale Bible (1525/1530)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/Tyndale.db",
+      "language": "en"
+    },
+    {
+      "code": "ukjv",
+      "name": "Updated King James Version",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/UKJV.db",
+      "language": "en"
+    },
+    {
+      "code": "webster",
+      "name": "Webster Bible",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/Webster.db",
+      "language": "en"
+    },
+    {
+      "code": "ylt",
+      "name": "Young's Literal Translation (1898)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/YLT.db",
+      "language": "en"
+    },
+    {
+      "code": "frebbb",
+      "name": "French Bovet Bonnet (1900)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/FreBBB.db",
+      "language": "fr"
+    },
+    {
+      "code": "frebdm1744",
+      "name": "French Bible David Martin (1744)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/FreBDM1744.db",
+      "language": "fr"
+    },
+    {
+      "code": "frecrompon",
+      "name": "French Bible Augustin Crampon (1923)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/FreCrampon.db",
+      "language": "fr"
+    },
+    {
+      "code": "frevene1669",
+      "name": "French Genève 1669 (NT)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/FreGeneve1669.db",
+      "language": "fr"
+    },
+    {
+      "code": "frejnd",
+      "name": "French J.N. Darby",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/FreJND.db",
+      "language": "fr"
+    },
+    {
+      "code": "frelxx",
+      "name": "French Septuagint (Giguet)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/FreLXX.db",
+      "language": "fr"
+    },
+    {
+      "code": "frelxxgiguet",
+      "name": "French LXX by Pierre Giguet",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/FreLXXGiguet.db",
+      "language": "fr"
+    },
+    {
+      "code": "freoltramare1874",
+      "name": "French Oltramare (1874) NT",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/FreOltramare1874.db",
+      "language": "fr"
+    },
+    {
+      "code": "frepgr",
+      "name": "French Perret-Gentil et Rilliet",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/FrePGR.db",
+      "language": "fr"
+    },
+    {
+      "code": "frestapfer1889",
+      "name": "French Stapfer (1889) NT",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/FreStapfer1889.db",
+      "language": "fr"
+    },
+    {
+      "code": "fresynodale1921",
+      "name": "French Version Synodale (1921)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/FreSynodale1921.db",
+      "language": "fr"
+    },
+    {
+      "code": "geralbrecht",
+      "name": "German Albrecht Neues Testament und Psalmen",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/GerAlbrecht.db",
+      "language": "de"
+    },
+    {
+      "code": "gerbolut",
+      "name": "German Bolsinger Luther 1545",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/GerBoLut.db",
+      "language": "de"
+    },
+    {
+      "code": "gerelb1871",
+      "name": "German Elberfelder (1871)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/GerElb1871.db",
+      "language": "de"
+    },
+    {
+      "code": "gerelb1905",
+      "name": "German Elberfelder (1905)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/GerElb1905.db",
+      "language": "de"
+    },
+    {
+      "code": "gergruenewald",
+      "name": "German Grünewaldbibel (1924)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/GerGruenewald.db",
+      "language": "de"
+    },
+    {
+      "code": "gerleona28",
+      "name": "German Leonberger Bible (NA28)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/GerLeoNA28.db",
+      "language": "de"
+    },
+    {
+      "code": "germenge",
+      "name": "German Menge-Bibel (1939)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/GerMenge.db",
+      "language": "de"
+    },
+    {
+      "code": "geroffbist",
+      "name": "German Offene Bibel (Studienfassung)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/GerOffBiSt.db",
+      "language": "de"
+    },
+    {
+      "code": "gersch",
+      "name": "German Schlachter (1951)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/GerSch.db",
+      "language": "de"
+    },
+    {
+      "code": "gertafel",
+      "name": "German Tafelbibel (1911)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/GerTafel.db",
+      "language": "de"
+    },
+    {
+      "code": "gertextbibel",
+      "name": "German Textbibel (1906)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/GerTextbibel.db",
+      "language": "de"
+    },
+    {
+      "code": "gerzurcher",
+      "name": "German Zürcher Bibel (1931)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/GerZurcher.db",
+      "language": "de"
+    },
+    {
+      "code": "spaplatense",
+      "name": "Biblia Platense (Straubinger)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/SpaPlatense.db",
+      "language": "es"
+    },
+    {
+      "code": "sparv",
+      "name": "Reina-Valera (1909)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/SpaRV.db",
+      "language": "es"
+    },
+    {
+      "code": "sparv1865",
+      "name": "Reina-Valera (1865)",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/SpaRV1865.db",
+      "language": "es"
+    },
+    {
+      "code": "sparvg",
+      "name": "Reina Valera Gómez",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/SpaRVG.db",
+      "language": "es"
+    },
+    {
+      "code": "porblivre",
+      "name": "Bíblia Livre",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/PorBLivre.db",
+      "language": "pt"
+    },
+    {
+      "code": "porblivretr",
+      "name": "Bíblia Livre - Textus Receptus",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/PorBLivreTR.db",
+      "language": "pt"
+    },
+    {
+      "code": "pornva",
+      "name": "Bíblia Nova Versão de Acesso Livre",
+      "url": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/sqlite/PorNVA.db",
+      "language": "pt"
     }
   ]
 }
